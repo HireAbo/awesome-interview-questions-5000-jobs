@@ -2,6 +2,8 @@
 
 Welcome to the Exhibit Designer Interview Preparation ! This resource is designed to help you ace your Exhibit Designer interviews with confidence.
 
+An exhibit designer is a professional who combines the fields of art, design, and architecture to create engaging and immersive experiences within museum exhibits, trade shows, and other public spaces. They are responsible for conceptualizing and executing the overall design of an exhibit, including the layout, lighting, graphics, and interactive elements. Their role involves collaborating with curators, architects, and other specialists to ensure that the exhibit effectively communicates the intended message and engages the audience. Exhibit designers must possess a strong understanding of space planning, storytelling, and visual communication, along with technical skills in 3D modeling, rendering, and graphic design. Their work plays a crucial role in enhancing the visitor's experience and conveying the desired narrative.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Exhibit Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Exhibit Designer interviews to help you prepare and succeed.

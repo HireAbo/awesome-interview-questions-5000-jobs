@@ -2,6 +2,8 @@
 
 Welcome to the Video Game Developer Interview Preparation ! This resource is designed to help you ace your Video Game Developer interviews with confidence.
 
+A video game developer is a professional responsible for designing, developing, and programming video games. This job requires a deep understanding of technology, creative skills, and a passion for gaming. In the ever-evolving world of digital media, video game developers play a vital role in bringing virtual worlds to life. They collaborate with a team of artists, animators, and designers to create engaging gameplay experiences. These professionals are adept at coding and programming languages, such as C++ and Python, to build intricate game mechanics, realistic graphics, and immersive audio effects. Video game developers contribute to the dynamic and rapidly expanding field of digital media, shaping the future of entertainment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Video Game Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Video Game Developer interviews to help you prepare and succeed.

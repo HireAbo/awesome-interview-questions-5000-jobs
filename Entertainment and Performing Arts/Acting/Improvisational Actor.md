@@ -2,6 +2,8 @@
 
 Welcome to the Improvisational Actor Interview Preparation ! This resource is designed to help you ace your Improvisational Actor interviews with confidence.
 
+An improvisational actor is a professional performer who specializes in the art of improvisation, a form of acting where the performer creates scenes, characters, and dialogue on the spot without a script. They are skilled in thinking quickly, adapting to different scenarios, and collaborating with fellow actors to create spontaneous and entertaining performances. Improvisational actors often work in improvisational comedy troupes, where they perform live shows, engage with the audience, and rely on their wit and comedic timing to create humorous and engaging content. They may also be hired for corporate events, workshops, or television shows, bringing their unique talent for improvisation to various platforms.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Improvisational Actor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Improvisational Actor interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Medical Evacuation Pilot Interview Preparation ! This resource is designed to help you ace your Medical Evacuation Pilot interviews with confidence.
 
+A Medical Evacuation (Medevac) Pilot plays a crucial role in the field of aviation and aerospace piloting. This specialized position involves transporting critically ill or injured individuals to medical facilities for urgent care. Medevac pilots operate helicopters or fixed-wing aircraft, ensuring the safe and efficient transportation of patients in need. They must possess exceptional piloting skills, as they often navigate through challenging weather conditions and difficult terrains. Additionally, these pilots work closely with medical professionals on board to ensure the patients' well-being during the flight. The Medevac Pilot job requires a combination of technical expertise, quick decision-making abilities, and compassion, making it an honorable and essential profession in the aviation industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Medical Evacuation Pilot or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Medical Evacuation Pilot interviews to help you prepare and succeed.

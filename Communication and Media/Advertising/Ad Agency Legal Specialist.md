@@ -2,6 +2,8 @@
 
 Welcome to the Ad Agency Legal Specialist Interview Preparation ! This resource is designed to help you ace your Ad Agency Legal Specialist interviews with confidence.
 
+An Ad Agency Legal Specialist is a professional who specializes in handling legal matters related to advertising within an ad agency. They play a crucial role in ensuring that all advertising campaigns and materials comply with relevant laws and regulations. This includes reviewing and approving advertising content, contracts, and agreements to ensure legal compliance. Ad Agency Legal Specialists also provide legal advice and guidance to the agency's creative and account teams, helping them navigate any potential legal issues that may arise during the development and execution of advertising campaigns. Their expertise in advertising regulations, intellectual property rights, and contract law is essential to protect the agency and its clients from any legal risks.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Ad Agency Legal Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Ad Agency Legal Specialist interviews to help you prepare and succeed.

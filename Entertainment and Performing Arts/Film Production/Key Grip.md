@@ -2,6 +2,8 @@
 
 Welcome to the Key Grip Interview Preparation ! This resource is designed to help you ace your Key Grip interviews with confidence.
 
+A key grip is a crucial role in the film production industry, specifically within the field of entertainment and performing arts. As part of the film production crew, a key grip is responsible for managing the grip department, which primarily deals with lighting and camera support. They work closely with the director of photography and gaffer to ensure that lighting equipment is properly set up, and cameras are securely mounted for filming. Key grips also oversee the rigging and operation of cranes, dollies, and other specialized equipment necessary for capturing dynamic shots. Their expertise and technical knowledge play a vital role in bringing the director's vision to life on the big screen.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Key Grip or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Key Grip interviews to help you prepare and succeed.

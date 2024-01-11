@@ -2,6 +2,8 @@
 
 Welcome to the Framing Carpenter Interview Preparation ! This resource is designed to help you ace your Framing Carpenter interviews with confidence.
 
+A Framing Carpenter is a skilled tradesperson who specializes in constructing the framework or "skeleton" of a building. Their primary role is to accurately measure, cut, and assemble the wooden structures that form the basis of a construction project. From residential homes to commercial buildings, a Framing Carpenter plays a vital role in ensuring the structural integrity and stability of a structure. They work closely with architects, engineers, and other tradespeople to interpret blueprints, select appropriate materials, and execute precise construction techniques. Attention to detail, excellent mathematical skills, proficiency in using power tools, and a strong understanding of building codes and safety regulations are essential for success in this profession.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Framing Carpenter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Framing Carpenter interviews to help you prepare and succeed.

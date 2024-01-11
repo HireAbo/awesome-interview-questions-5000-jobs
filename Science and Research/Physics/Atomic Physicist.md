@@ -2,6 +2,8 @@
 
 Welcome to the Atomic Physicist Interview Preparation ! This resource is designed to help you ace your Atomic Physicist interviews with confidence.
 
+An Atomic Physicist is a highly skilled professional who specializes in the field of physics, specifically studying the behavior and properties of atoms. They conduct research and experiments to understand the fundamental nature of matter and energy at the atomic level. Atomic physicists explore topics such as atomic structure, nuclear reactions, quantum mechanics, and atomic spectroscopy. They often work in laboratories, using advanced equipment and techniques to analyze atomic phenomena. Their research contributes to the development of new technologies, such as laser technology, nuclear power, and medical imaging. Atomic physicists play a vital role in advancing our understanding of the universe and pushing the boundaries of scientific knowledge.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Atomic Physicist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Atomic Physicist interviews to help you prepare and succeed.

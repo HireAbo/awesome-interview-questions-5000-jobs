@@ -2,6 +2,10 @@
 
 Welcome to the Emergency Management Consultant Interview Preparation ! This resource is designed to help you ace your Emergency Management Consultant interviews with confidence.
 
+Government and Public Service encompasses various sectors aimed at serving the community and ensuring the well-being of its citizens. Within this field, one crucial aspect is Emergency Management. Emergency Management focuses on mitigating, preparing for, responding to, and recovering from disasters or emergencies.
+
+The role of an Emergency Management Consultant is vital in this regard. These professionals provide expert advice and guidance to governments, organizations, and communities on emergency management strategies and procedures. They assess risks, develop emergency plans, conduct training, and coordinate response efforts during crises. Emergency Management Consultants play a critical role in ensuring effective emergency response and minimizing the impact of disasters on communities. Their expertise aids in building resilient communities and creating a safer environment for all.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Emergency Management Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Emergency Management Consultant interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Full Stack Architect Interview Preparation ! This resource is designed to help you ace your Full Stack Architect interviews with confidence.
 
+A Full Stack Architect is a crucial role in the field of Information Technology (IT) and software development. As the name suggests, this job involves expertise in both front-end and back-end development, making them responsible for designing, developing, and implementing software applications across various platforms. A Full Stack Architect possesses a deep understanding of programming languages, frameworks, and databases, allowing them to seamlessly integrate different components of a software system. They collaborate with cross-functional teams, including designers, developers, and project managers, to ensure the successful delivery of high-quality software solutions. With their diverse skill set and problem-solving abilities, Full Stack Architects play a vital role in creating innovative and efficient software applications.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Full Stack Architect or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Full Stack Architect interviews to help you prepare and succeed.

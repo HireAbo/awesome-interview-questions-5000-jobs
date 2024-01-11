@@ -2,6 +2,8 @@
 
 Welcome to the Manufacturing Engineer Interview Preparation ! This resource is designed to help you ace your Manufacturing Engineer interviews with confidence.
 
+A manufacturing engineer plays a crucial role in the field of mechanical engineering. They are responsible for developing, designing, and improving manufacturing processes and systems. These professionals ensure that products are manufactured efficiently, effectively, and within budget. They collaborate with cross-functional teams to determine the most suitable materials, equipment, and techniques for production. Manufacturing engineers also oversee the implementation and maintenance of manufacturing processes, troubleshoot any issues that arise, and continuously strive to improve productivity and quality. Their expertise in areas such as production planning, quality control, and cost analysis make them vital assets to any manufacturing organization. Overall, manufacturing engineers are instrumental in driving innovation, optimizing processes, and ensuring the successful production of mechanical components and products.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Manufacturing Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Manufacturing Engineer interviews to help you prepare and succeed.

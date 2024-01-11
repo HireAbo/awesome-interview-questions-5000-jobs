@@ -2,6 +2,8 @@
 
 Welcome to the HR Shared Services Manager Interview Preparation ! This resource is designed to help you ace your HR Shared Services Manager interviews with confidence.
 
+The HR Shared Services Manager role is a vital position within the field of Business and Management, specifically within Human Resources. As an HR Shared Services Manager, you will be responsible for overseeing and managing the delivery of HR services to the organization, ensuring efficiency and effectiveness. Your key responsibilities will include developing and implementing HR policies and procedures, managing employee data and records, administering payroll and benefits, coordinating recruitment and onboarding processes, and resolving employee queries and issues. This role requires strong leadership and communication skills, as well as a deep understanding of HR practices and compliance. As an HR Shared Services Manager, you will play a crucial role in supporting the overall success of the organization by ensuring smooth HR operations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned HR Shared Services Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in HR Shared Services Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Energy Storage Engineer Interview Preparation ! This resource is designed to help you ace your Energy Storage Engineer interviews with confidence.
 
+An Energy Storage Engineer plays a vital role in the field of Energy Engineering within the Energy and Utilities sector. This position focuses on developing innovative solutions for energy storage systems, which are crucial for managing and optimizing renewable energy sources. Energy Storage Engineers are responsible for designing, testing, and implementing energy storage technologies that store excess energy during off-peak times and release it during high-demand periods. They work closely with a team of engineers and scientists to analyze energy storage requirements, assess potential risks, and ensure system efficiency. Additionally, Energy Storage Engineers contribute to the advancement of sustainable energy practices by continuously researching and implementing cutting-edge technologies in the field.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Energy Storage Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Energy Storage Engineer interviews to help you prepare and succeed.

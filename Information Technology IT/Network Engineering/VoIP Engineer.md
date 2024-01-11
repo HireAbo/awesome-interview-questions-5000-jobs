@@ -2,6 +2,8 @@
 
 Welcome to the VoIP Engineer Interview Preparation ! This resource is designed to help you ace your VoIP Engineer interviews with confidence.
 
+Information Technology (IT) encompasses several specialized fields, and one of them is Network Engineering. Network Engineers play a crucial role in designing, implementing, and managing computer networks for organizations. A subfield within Network Engineering is the role of a VoIP Engineer. A VoIP (Voice over Internet Protocol) Engineer focuses on the design, implementation, and maintenance of a company's voice communication infrastructure. They possess expertise in VoIP technologies, protocols, and systems, ensuring seamless and efficient voice communication over IP networks. VoIP Engineers are responsible for troubleshooting network issues, optimizing voice quality, and ensuring the stability and security of the voice communication system. Their role is essential in today's technology-driven world, enabling organizations to leverage cost-effective and efficient voice communication solutions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned VoIP Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in VoIP Engineer interviews to help you prepare and succeed.

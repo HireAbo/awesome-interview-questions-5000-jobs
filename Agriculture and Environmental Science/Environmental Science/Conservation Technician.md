@@ -2,6 +2,8 @@
 
 Welcome to the Conservation Technician Interview Preparation ! This resource is designed to help you ace your Conservation Technician interviews with confidence.
 
+Agriculture and Environmental Science is a field that focuses on the study of the relationship between agriculture and the environment. It aims to find sustainable solutions for farming practices that minimize negative environmental impacts. Within this field, the role of a Conservation Technician is crucial. Conservation Technicians are responsible for implementing conservation plans and practices to protect natural resources and promote biodiversity. They work closely with farmers, landowners, and government agencies to assess soil erosion, water quality, and wildlife habitat. Conservation Technicians play a vital role in preserving our natural resources, ensuring a sustainable future for both agriculture and the environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Conservation Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Conservation Technician interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Digital Media Buyer Interview Preparation ! This resource is designed to help you ace your Digital Media Buyer interviews with confidence.
 
+A Digital Media Buyer is a professional responsible for planning, executing, and managing digital advertising campaigns. They play a crucial role in the field of Communication and Media, specifically in the realm of Digital Media. These professionals are adept at utilizing various digital platforms such as social media, search engines, and websites to reach target audiences effectively. Their primary objective is to optimize ad spends and maximize return on investment by strategically placing advertisements in the digital space. They analyze market trends, target demographics, and consumer behavior to develop effective advertising strategies. Digital Media Buyers have excellent negotiation skills, strong analytical abilities, and a deep understanding of the digital media landscape.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Digital Media Buyer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Digital Media Buyer interviews to help you prepare and succeed.

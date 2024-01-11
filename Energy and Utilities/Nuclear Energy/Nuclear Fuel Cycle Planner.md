@@ -2,6 +2,8 @@
 
 Welcome to the Nuclear Fuel Cycle Planner Interview Preparation ! This resource is designed to help you ace your Nuclear Fuel Cycle Planner interviews with confidence.
 
+A Nuclear Fuel Cycle Planner plays a crucial role in the field of Nuclear Energy within the Energy and Utilities sector. This job involves managing and coordinating the entire nuclear fuel cycle, from mining and processing uranium to disposing of nuclear waste. The planner ensures the safe and efficient operation of nuclear power plants by developing long-term plans for fuel acquisition, utilization, and waste management. They analyze data, conduct research, and collaborate with various stakeholders to optimize the fuel cycle and minimize costs. This role requires a deep understanding of nuclear physics, fuel behavior, and regulatory requirements, as well as excellent organizational and problem-solving skills.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nuclear Fuel Cycle Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nuclear Fuel Cycle Planner interviews to help you prepare and succeed.

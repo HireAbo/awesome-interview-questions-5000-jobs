@@ -2,6 +2,8 @@
 
 Welcome to the Licensed Veterinary Technician (LVT) Interview Preparation ! This resource is designed to help you ace your Licensed Veterinary Technician (LVT) interviews with confidence.
 
+Veterinary Medicine is a branch of healthcare focused on the prevention, diagnosis, and treatment of diseases, injuries, and disorders in animals. Within this field, Veterinary Nursing plays a crucial role in supporting veterinarians and ensuring the well-being of animals. Veterinary Nurses, also known as Licensed Veterinary Technicians (LVTs), are skilled professionals who provide hands-on care to animals in veterinary clinics, hospitals, and research facilities. LVTs perform various tasks, including administering medications, collecting samples, assisting during surgeries, conducting laboratory tests, and educating pet owners on animal care. They possess extensive knowledge of anatomy, physiology, pharmacology, and animal behavior, making them essential members of the veterinary healthcare team.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Licensed Veterinary Technician (LVT) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Licensed Veterinary Technician (LVT) interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Bankruptcy Attorney Interview Preparation ! This resource is designed to help you ace your Bankruptcy Attorney interviews with confidence.
 
+A bankruptcy attorney is a legal professional who specializes in helping individuals and businesses navigate the complex process of filing for bankruptcy. They are experts in bankruptcy law and are responsible for guiding clients through the legal proceedings, ensuring their rights and interests are protected. Bankruptcy attorneys provide valuable advice and assistance in determining eligibility for bankruptcy, filing necessary paperwork, representing clients in court, negotiating with creditors, and developing strategies to manage debts and assets. They work closely with clients to understand their financial situations, assess the most appropriate bankruptcy options, and strive to achieve the best possible outcomes for their clients.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Bankruptcy Attorney or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Bankruptcy Attorney interviews to help you prepare and succeed.

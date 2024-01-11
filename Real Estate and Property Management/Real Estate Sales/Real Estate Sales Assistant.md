@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Sales Assistant Interview Preparation ! This resource is designed to help you ace your Real Estate Sales Assistant interviews with confidence.
 
+Real Estate Sales Assistant is a crucial role within the real estate and property management industry. As a sales assistant, your primary responsibility is to provide support to real estate sales agents in their day-to-day activities. This includes assisting with property listing, coordinating property showings, and preparing necessary documentation for sales transactions. A keen eye for detail is essential, as you will be responsible for ensuring accurate and up-to-date information is maintained on property listings. Exceptional communication and organizational skills are vital for coordinating with clients, vendors, and other team members. A successful real estate sales assistant plays a vital role in the smooth operation of a real estate sales team.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Sales Assistant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Sales Assistant interviews to help you prepare and succeed.

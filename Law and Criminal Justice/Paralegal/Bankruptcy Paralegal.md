@@ -2,6 +2,8 @@
 
 Welcome to the Bankruptcy Paralegal Interview Preparation ! This resource is designed to help you ace your Bankruptcy Paralegal interviews with confidence.
 
+A bankruptcy paralegal plays a crucial role in the field of law and criminal justice. With a strong understanding of bankruptcy law, they assist attorneys in the preparation and filing of bankruptcy cases. Their responsibilities include conducting research, gathering necessary documentation, and assisting clients in completing bankruptcy forms. Additionally, they may communicate with creditors, attend court hearings, and help in the development of bankruptcy plans. A bankruptcy paralegal must possess excellent organizational skills, attention to detail, and the ability to work under pressure. They play a vital role in supporting attorneys in providing effective legal representation to individuals and businesses seeking relief from debt through bankruptcy proceedings.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Bankruptcy Paralegal or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Bankruptcy Paralegal interviews to help you prepare and succeed.

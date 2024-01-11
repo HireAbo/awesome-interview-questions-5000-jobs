@@ -2,6 +2,8 @@
 
 Welcome to the Business Strategist Interview Preparation ! This resource is designed to help you ace your Business Strategist interviews with confidence.
 
+A Business Strategist is a professional who specializes in developing and implementing strategies to help businesses achieve their goals and stay ahead of the competition. They possess in-depth knowledge of market trends, consumer behavior, and industry dynamics. Business Strategists work closely with business owners and senior management to analyze the company's current position, identify areas for improvement, and create a roadmap for success. They conduct market research, competitor analysis, and financial assessments to formulate strategic plans that optimize profitability and growth. Additionally, Business Strategists provide guidance on decision-making, resource allocation, and risk management. Their expertise is vital in navigating the complexities of the business world and driving long-term success.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Business Strategist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Business Strategist interviews to help you prepare and succeed.

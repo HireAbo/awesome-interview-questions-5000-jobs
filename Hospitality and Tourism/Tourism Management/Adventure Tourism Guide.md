@@ -2,6 +2,8 @@
 
 Welcome to the Adventure Tourism Guide Interview Preparation ! This resource is designed to help you ace your Adventure Tourism Guide interviews with confidence.
 
+Hospitality and Tourism is a vast industry that revolves around providing impeccable services and experiences to travelers. Tourism Management is a specialized field within this industry that focuses on planning, organizing, and coordinating various aspects of travel and tourism. Adventure Tourism Guide is a fascinating job within this domain that involves leading and guiding tourists in adventurous activities and destinations. As an Adventure Tourism Guide, you will be responsible for ensuring the safety and enjoyment of tourists during activities like hiking, rock climbing, skiing, or water sports. This role requires excellent communication, leadership, and problem-solving skills, as well as a deep knowledge of adventure tourism destinations and activities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Adventure Tourism Guide or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Adventure Tourism Guide interviews to help you prepare and succeed.

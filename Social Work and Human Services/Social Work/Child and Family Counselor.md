@@ -2,6 +2,8 @@
 
 Welcome to the Child and Family Counselor Interview Preparation ! This resource is designed to help you ace your Child and Family Counselor interviews with confidence.
 
+A career in Social Work and Human Services, specifically as a Child and Family Counselor, is centered around providing support, guidance, and advocacy to individuals and families facing various challenges. Child and Family Counselors work closely with children, adolescents, and their families to address emotional, behavioral, and relational issues. They aim to create a safe and nurturing environment, offering counseling and therapy sessions to help clients cope with trauma, mental health disorders, family conflicts, and other issues affecting their overall well-being. These professionals also collaborate with other professionals, such as teachers, healthcare providers, and social workers, to ensure comprehensive and holistic care for their clients. A career as a Child and Family Counselor is deeply rewarding, as it allows professionals to make a positive impact on the lives of vulnerable children and families.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Child and Family Counselor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Child and Family Counselor interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Cabinetmaker Interview Preparation ! This resource is designed to help you ace your Cabinetmaker interviews with confidence.
 
+A cabinetmaker is a skilled tradesperson specializing in the construction, installation, and repair of cabinets and other wooden furniture. They possess a deep understanding of woodworking techniques, materials, and tools. Cabinetmakers work closely with clients, architects, and interior designers to create customized and functional cabinets that meet specific requirements and aesthetic preferences. They are responsible for measuring and cutting wood, assembling pieces, applying finishes, and installing cabinets in homes, offices, and other commercial spaces. Attention to detail, precision, and creativity are essential qualities for a cabinetmaker, as they often need to find innovative solutions to design challenges and ensure high-quality craftsmanship.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cabinetmaker or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cabinetmaker interviews to help you prepare and succeed.

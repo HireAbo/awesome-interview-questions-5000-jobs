@@ -2,6 +2,8 @@
 
 Welcome to the Digital Artist Interview Preparation ! This resource is designed to help you ace your Digital Artist interviews with confidence.
 
+A digital artist is a highly skilled professional who combines artistic creativity with technological expertise to create visually stunning digital artworks. As a key player in the field of fine arts and design, digital artists utilize digital tools and software to produce captivating and innovative illustrations, animations, and designs. They possess a deep understanding of various artistic techniques and principles, such as color theory, composition, and perspective. Digital artists often work in a wide range of industries, including advertising, film and television, gaming, and web design. With their ability to bring imagination to life, digital artists play a vital role in shaping visual experiences in the modern digital world.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Digital Artist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Digital Artist interviews to help you prepare and succeed.

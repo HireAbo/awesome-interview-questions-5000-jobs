@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Psychologist Interview Preparation ! This resource is designed to help you ace your Environmental Psychologist interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on the interaction between agriculture, the environment, and human society. It encompasses various areas such as soil science, plant breeding, crop management, and sustainable agriculture practices. Environmental Science is a branch of this field that specifically focuses on understanding and addressing environmental issues and their impact on ecosystems. Within Environmental Science, there are specialized roles, such as an Environmental Psychologist, who studies the relationship between human behavior and the environment. Environmental Psychologists analyze how people's perceptions, attitudes, and behaviors are influenced by the environment and develop strategies to promote sustainable practices and environmental conservation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Psychologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Psychologist interviews to help you prepare and succeed.

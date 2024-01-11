@@ -2,6 +2,8 @@
 
 Welcome to the Highway Engineer Interview Preparation ! This resource is designed to help you ace your Highway Engineer interviews with confidence.
 
+A Highway Engineer is a professional in the field of Civil Engineering who specializes in planning, designing, and constructing highways and other transportation systems. They play a crucial role in ensuring the safe and efficient movement of people and goods on roadways. Highway Engineers are responsible for analyzing traffic patterns, conducting surveys, and assessing the condition of existing roads and bridges. They also design new roads, bridges, and interchanges, taking into consideration factors such as traffic flow, safety, and environmental impact. Additionally, Highway Engineers oversee construction projects, ensuring compliance with design specifications and government regulations. Their expertise is vital in creating and maintaining an effective transportation network.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Highway Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Highway Engineer interviews to help you prepare and succeed.

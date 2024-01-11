@@ -2,6 +2,8 @@
 
 Welcome to the Adoption Counselor Interview Preparation ! This resource is designed to help you ace your Adoption Counselor interviews with confidence.
 
+Social work and human services are fields dedicated to improving the well-being and quality of life for individuals, families, and communities in need. Within the realm of social work, adoption counseling plays a vital role in facilitating the adoption process and supporting all parties involved. An adoption counselor is responsible for guiding prospective adoptive parents through the adoption process, providing them with information, resources, and emotional support. They also conduct home visits, perform background checks, and assess the suitability of potential adoptive families. Additionally, adoption counselors work closely with birth parents, helping them explore their options and providing counseling throughout the adoption journey, ensuring the best possible outcomes for all involved.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Adoption Counselor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Adoption Counselor interviews to help you prepare and succeed.

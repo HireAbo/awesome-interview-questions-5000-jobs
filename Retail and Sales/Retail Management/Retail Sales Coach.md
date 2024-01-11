@@ -2,6 +2,8 @@
 
 Welcome to the Retail Sales Coach Interview Preparation ! This resource is designed to help you ace your Retail Sales Coach interviews with confidence.
 
+A Retail Sales Coach is a professional who specializes in training and coaching retail sales teams to enhance their performance and improve sales outcomes. This role requires a deep understanding of the retail industry, customer behavior, and effective sales techniques. A Retail Sales Coach is responsible for developing and delivering training programs, conducting coaching sessions, and providing ongoing support to sales associates. They analyze sales data, identify areas for improvement, and implement strategies to boost sales performance. A successful Retail Sales Coach possesses excellent communication and leadership skills, along with a passion for driving sales and motivating teams to achieve their targets.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Retail Sales Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Retail Sales Coach interviews to help you prepare and succeed.

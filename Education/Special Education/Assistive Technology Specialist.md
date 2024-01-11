@@ -2,6 +2,8 @@
 
 Welcome to the Assistive Technology Specialist Interview Preparation ! This resource is designed to help you ace your Assistive Technology Specialist interviews with confidence.
 
+An Assistive Technology Specialist in the field of Special Education plays a crucial role in ensuring that students with disabilities have equal access to education. This position involves working closely with students, educators, and parents to identify and implement appropriate assistive technologies to enhance learning and communication. The specialist evaluates individual needs, recommends suitable tools and devices, and provides training and ongoing support to both students and educators. They also collaborate with other professionals such as occupational therapists, speech therapists, and psychologists to create personalized education plans. An Assistive Technology Specialist is passionate about making a positive impact on students' lives, enabling them to reach their full potential and thrive academically.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Assistive Technology Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Assistive Technology Specialist interviews to help you prepare and succeed.

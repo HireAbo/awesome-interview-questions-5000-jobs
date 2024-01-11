@@ -2,6 +2,8 @@
 
 Welcome to the Civil Law Paralegal Interview Preparation ! This resource is designed to help you ace your Civil Law Paralegal interviews with confidence.
 
+A civil law paralegal is a legal professional who assists attorneys in the area of civil law. They play a crucial role in the legal system by providing support in various legal matters, such as personal injury, employment disputes, contract disputes, and family law cases. Civil law paralegals are responsible for conducting research, drafting legal documents, organizing case files, and preparing for trial. They work closely with clients, gathering information and helping to build cases. Strong communication, research, and organizational skills are essential in this role. Civil law paralegals are an integral part of the legal team, ensuring smooth operations and efficient legal services in civil law matters.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Civil Law Paralegal or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Civil Law Paralegal interviews to help you prepare and succeed.

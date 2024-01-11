@@ -2,6 +2,8 @@
 
 Welcome to the Digital Assets Manager Interview Preparation ! This resource is designed to help you ace your Digital Assets Manager interviews with confidence.
 
+Library and Information Science (LIS) is a multidisciplinary field that focuses on the organization, preservation, and dissemination of information. Within LIS, one specialized area is Information Management, which involves the strategic handling of information assets within organizations. A key role within this field is that of a Digital Assets Manager. A Digital Assets Manager is responsible for overseeing the creation, organization, and maintenance of digital resources such as images, videos, audio files, and documents. They ensure that these assets are properly stored, tagged, and accessible to users, while also managing copyright issues and implementing effective preservation strategies. As technology advances, the demand for skilled Digital Assets Managers continues to grow, as organizations increasingly rely on digital resources to support their operations and share information with their audiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Digital Assets Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Digital Assets Manager interviews to help you prepare and succeed.

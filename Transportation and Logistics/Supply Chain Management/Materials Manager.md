@@ -2,6 +2,8 @@
 
 Welcome to the Materials Manager Interview Preparation ! This resource is designed to help you ace your Materials Manager interviews with confidence.
 
+A Materials Manager plays a crucial role in the field of Transportation and Logistics, specifically in Supply Chain Management. Their primary responsibility is to oversee and manage the flow of materials within an organization. They are responsible for sourcing, purchasing, and inventory management, ensuring that the right materials are available at the right time and in the right quantity. Additionally, Materials Managers collaborate with suppliers, negotiate contracts, and track supplier performance. They are also responsible for optimizing the transportation and distribution of materials, ensuring on-time delivery and cost efficiency. Overall, Materials Managers are essential in maintaining a smooth and efficient supply chain, contributing to the success of an organization.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Materials Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Materials Manager interviews to help you prepare and succeed.

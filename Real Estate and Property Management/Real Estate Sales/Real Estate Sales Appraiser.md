@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Sales Appraiser Interview Preparation ! This resource is designed to help you ace your Real Estate Sales Appraiser interviews with confidence.
 
+Real Estate Sales refers to the process of buying and selling properties such as residential homes, commercial buildings, and land. It involves real estate agents who act as intermediaries between buyers and sellers, assisting with property valuation, negotiations, and legal documentation. Real Estate Sales Appraisers play a crucial role within this field by determining the market value of properties. They conduct detailed inspections, analyze market trends, and assess property conditions to provide accurate appraisals. These professionals are skilled in using various appraisal methods and tools to provide unbiased and objective assessments, ensuring fair transactions and informed decision-making for both buyers and sellers.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Sales Appraiser or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Sales Appraiser interviews to help you prepare and succeed.

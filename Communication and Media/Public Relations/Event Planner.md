@@ -2,6 +2,8 @@
 
 Welcome to the Event Planner Interview Preparation ! This resource is designed to help you ace your Event Planner interviews with confidence.
 
+A Public Relations Event Planner is a professional responsible for coordinating and managing various events to promote organizations and build positive relationships with the public. This role requires exceptional communication and organizational skills to plan and execute successful events, such as press conferences, product launches, fundraisers, and corporate meetings. Event Planners in the field of Public Relations work closely with clients and stakeholders to understand their goals and objectives, developing strategies to effectively engage the target audience and create a positive brand image. They utilize various media channels, including social media, traditional media, and online platforms, to ensure maximum exposure and successful event outcomes. A successful Public Relations Event Planner is creative, detail-oriented, and possesses excellent problem-solving abilities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Event Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Event Planner interviews to help you prepare and succeed.

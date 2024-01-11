@@ -2,6 +2,8 @@
 
 Welcome to the Statistical Lecturer Interview Preparation ! This resource is designed to help you ace your Statistical Lecturer interviews with confidence.
 
+A Statistical Lecturer job involves teaching and engaging students in the field of statistics, which is an essential branch of mathematics. Statistics is the science of collecting, analyzing, interpreting, and presenting data. It plays a vital role in various disciplines, including economics, psychology, biology, and social sciences. As a Statistical Lecturer, you will be responsible for designing and delivering lectures, tutorials, and seminars to undergraduate and postgraduate students. You will also guide students in conducting statistical analysis, using software and tools, and assist in research projects. A strong foundation in mathematics, excellent communication skills, and a passion for teaching are essential for this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Statistical Lecturer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Statistical Lecturer interviews to help you prepare and succeed.

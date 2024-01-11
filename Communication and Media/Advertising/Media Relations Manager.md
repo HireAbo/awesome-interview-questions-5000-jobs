@@ -2,6 +2,8 @@
 
 Welcome to the Media Relations Manager Interview Preparation ! This resource is designed to help you ace your Media Relations Manager interviews with confidence.
 
+A Media Relations Manager in the field of Communication and Media Advertising plays a critical role in shaping and maintaining the public image of a company or organization. This job involves building and maintaining relationships with media outlets, journalists, and influencers to ensure positive coverage and disseminate key messages. The Media Relations Manager is responsible for creating and implementing strategic communication plans, writing press releases, organizing press conferences, and coordinating media interviews. This role requires strong written and verbal communication skills, as well as the ability to handle crisis situations effectively. A Media Relations Manager must stay updated on current events and industry trends to proactively manage and respond to media inquiries.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Media Relations Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Media Relations Manager interviews to help you prepare and succeed.

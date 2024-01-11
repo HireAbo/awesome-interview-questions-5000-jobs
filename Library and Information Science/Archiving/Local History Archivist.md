@@ -2,6 +2,8 @@
 
 Welcome to the Local History Archivist Interview Preparation ! This resource is designed to help you ace your Local History Archivist interviews with confidence.
 
+Library and Information Science is a field dedicated to the organization, management, and dissemination of knowledge and information. One specialization within this field is archiving, which involves preserving and maintaining historical records, documents, and artifacts. A specific role within archiving is that of a Local History Archivist. Local History Archivists are responsible for collecting, preserving, and providing access to materials that document the history of a particular geographic area. They work closely with communities, organizations, and individuals to identify, acquire, and catalog historical materials such as photographs, manuscripts, maps, and oral histories. Through their work, Local History Archivists ensure that local heritage and cultural memory are safeguarded and made accessible for future generations to explore and learn from.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Local History Archivist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Local History Archivist interviews to help you prepare and succeed.

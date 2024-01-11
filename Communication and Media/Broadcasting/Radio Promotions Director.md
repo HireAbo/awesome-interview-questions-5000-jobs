@@ -2,6 +2,8 @@
 
 Welcome to the Radio Promotions Director Interview Preparation ! This resource is designed to help you ace your Radio Promotions Director interviews with confidence.
 
+The role of a Radio Promotions Director in the field of Communication and Media > Broadcasting is crucial in ensuring the success and effectiveness of radio promotions. As a Radio Promotions Director, your main responsibility is to develop and execute promotional strategies to increase the visibility and engagement of radio stations. This involves creating innovative campaigns, coordinating with various departments, managing budgets, and overseeing the implementation of promotional activities. Additionally, you will collaborate with artists, record labels, advertisers, and sponsors to organize events, contests, and giveaways. A successful Radio Promotions Director has excellent communication skills, a deep understanding of the radio industry, and a passion for creating engaging content to captivate audiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Radio Promotions Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Radio Promotions Director interviews to help you prepare and succeed.

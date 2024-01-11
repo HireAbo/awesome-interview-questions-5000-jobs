@@ -2,6 +2,8 @@
 
 Welcome to the Maritime Security Officer Interview Preparation ! This resource is designed to help you ace your Maritime Security Officer interviews with confidence.
 
+A Maritime Security Officer is a professional responsible for ensuring the safety and security of maritime operations. They play a crucial role in safeguarding vessels, ports, and maritime infrastructure against various security threats, such as terrorism, piracy, smuggling, and sabotage. These officers are highly trained in risk assessment, crisis management, and emergency response procedures. They work closely with port authorities, shipping companies, and law enforcement agencies to develop and implement security protocols, conduct security inspections, and monitor vessel movements. Additionally, they may also be involved in carrying out investigations, coordinating security drills, and liaising with international maritime security organizations to exchange information and best practices. Overall, Maritime Security Officers are vital in maintaining the integrity and safety of maritime operations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Maritime Security Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Maritime Security Officer interviews to help you prepare and succeed.

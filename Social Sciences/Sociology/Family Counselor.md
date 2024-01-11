@@ -2,6 +2,8 @@
 
 Welcome to the Family Counselor Interview Preparation ! This resource is designed to help you ace your Family Counselor interviews with confidence.
 
+A Family Counselor specializing in Sociology is a professional who provides guidance and support to individuals and families experiencing various interpersonal issues. This job requires a deep understanding of social sciences and sociology principles, as well as strong communication and listening skills. Family Counselors in this field assist clients in identifying and resolving conflicts, improving family dynamics, and enhancing relationships. They work with families from diverse backgrounds, cultures, and structures, helping them navigate challenges such as divorce, parenting difficulties, domestic violence, and substance abuse. The ultimate goal of a Family Counselor is to promote healthy family functioning, improve communication, and foster positive change within the family unit.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Family Counselor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Family Counselor interviews to help you prepare and succeed.

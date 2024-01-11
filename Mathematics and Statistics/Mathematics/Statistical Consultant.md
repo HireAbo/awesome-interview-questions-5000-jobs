@@ -2,6 +2,8 @@
 
 Welcome to the Statistical Consultant Interview Preparation ! This resource is designed to help you ace your Statistical Consultant interviews with confidence.
 
+A statistical consultant, working within the field of mathematics and statistics, plays a crucial role in assisting various organizations and individuals in making informed decisions based on data analysis. These professionals possess a deep understanding of mathematical concepts and statistical methods, allowing them to provide expert advice and insights. As a statistical consultant, one may be involved in designing experiments, collecting and analyzing data, and interpreting results. They work closely with clients to understand their specific needs and objectives, and then employ their expertise to develop appropriate statistical models and strategies. Ultimately, statistical consultants help businesses and researchers make data-driven decisions, ensuring accuracy and reliability in their analyses.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Statistical Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Statistical Consultant interviews to help you prepare and succeed.

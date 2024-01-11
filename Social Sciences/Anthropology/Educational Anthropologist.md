@@ -2,6 +2,8 @@
 
 Welcome to the Educational Anthropologist Interview Preparation ! This resource is designed to help you ace your Educational Anthropologist interviews with confidence.
 
+Educational Anthropologists are professionals who apply anthropological principles and research methodologies to study the educational systems and practices within diverse cultural contexts. They examine how culture, society, and social interactions shape educational processes, policies, and outcomes. These experts explore issues such as educational equity, access, and quality. They conduct fieldwork and ethnographic research to analyze the cultural dynamics that impact teaching and learning. Educational Anthropologists also collaborate with educators, policymakers, and communities to develop culturally-responsive educational strategies. By understanding the cultural dimensions of education, they strive to promote inclusivity, diversity, and social justice in schools and educational institutions. Their work contributes to enhancing educational practices and fostering greater understanding and appreciation of diverse cultures.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Educational Anthropologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Educational Anthropologist interviews to help you prepare and succeed.

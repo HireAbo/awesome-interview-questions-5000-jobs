@@ -2,6 +2,8 @@
 
 Welcome to the Sustainability Coordinator Interview Preparation ! This resource is designed to help you ace your Sustainability Coordinator interviews with confidence.
 
+A Sustainability Coordinator in the field of Energy Engineering is responsible for implementing and managing sustainable practices within energy and utilities organizations. This role involves developing and executing strategies to reduce environmental impact, conserve resources, and promote renewable energy sources. The Sustainability Coordinator collaborates with various stakeholders to integrate sustainable practices into all aspects of operations, including energy generation, distribution, and consumption. They conduct audits, analyze data, and recommend improvements to enhance energy efficiency and reduce carbon emissions. Additionally, they ensure compliance with environmental regulations, monitor sustainability performance, and educate employees and customers on sustainable practices. The Sustainability Coordinator plays a vital role in advancing the energy sector towards a more sustainable and environmentally-friendly future.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sustainability Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sustainability Coordinator interviews to help you prepare and succeed.

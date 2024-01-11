@@ -2,6 +2,8 @@
 
 Welcome to the Athletic Scout Interview Preparation ! This resource is designed to help you ace your Athletic Scout interviews with confidence.
 
+Sports and Athletics is a highly competitive field that encompasses a wide range of sporting activities. It involves the management, organization, and promotion of sports events and teams. Sports Management, in particular, focuses on the business aspects of sports, including marketing, finance, and event planning. Within this realm, the Athletic Scout job is crucial in identifying talented athletes for professional teams or college scholarships. Athletic scouts evaluate the skills, physical abilities, and potential of athletes in various sports. They attend games, tournaments, and competitions to observe and assess players, providing valuable insights to coaches and team managers. Their role is vital in shaping the future of sports by discovering and nurturing talent.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Athletic Scout or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Athletic Scout interviews to help you prepare and succeed.

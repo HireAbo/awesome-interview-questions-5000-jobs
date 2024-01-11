@@ -2,6 +2,8 @@
 
 Welcome to the Reporter Interview Preparation ! This resource is designed to help you ace your Reporter interviews with confidence.
 
+A reporter's job in journalism is to gather and disseminate information through various media channels. They play a crucial role in keeping the public informed about current events, uncovering stories, and investigating important issues. Reporters are responsible for conducting interviews, researching topics, and writing news articles or producing news segments for broadcast. They often work under tight deadlines and are expected to deliver accurate and unbiased information. In the digital age, reporters also utilize social media platforms and digital tools to engage with their audience and help spread news stories. A reporter's role is essential in maintaining transparency and ensuring the public's right to information.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Reporter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Reporter interviews to help you prepare and succeed.

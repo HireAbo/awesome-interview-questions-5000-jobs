@@ -2,6 +2,8 @@
 
 Welcome to the Retail Supervisor Interview Preparation ! This resource is designed to help you ace your Retail Supervisor interviews with confidence.
 
+A Retail Supervisor plays a crucial role in the retail industry by overseeing the day-to-day operations of a store or department. They are responsible for managing and leading a team of retail associates, ensuring optimal customer service, and meeting sales targets. The Retail Supervisor is also responsible for creating and implementing strategies to drive sales and increase profitability. They are involved in inventory management, visual merchandising, and ensuring that the store maintains a clean and organized appearance. Additionally, they handle customer complaints and queries, resolve any conflicts, and maintain positive relationships with customers and suppliers. A successful Retail Supervisor possesses excellent leadership, communication, and problem-solving skills.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Retail Supervisor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Retail Supervisor interviews to help you prepare and succeed.

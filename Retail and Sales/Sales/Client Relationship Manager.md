@@ -2,6 +2,8 @@
 
 Welcome to the Client Relationship Manager Interview Preparation ! This resource is designed to help you ace your Client Relationship Manager interviews with confidence.
 
+The role of a Client Relationship Manager in the field of Retail and Sales is crucial in maintaining strong and profitable relationships with clients. As a Client Relationship Manager, your main responsibility is to nurture existing client accounts and generate new business opportunities. You will be responsible for understanding client needs and providing tailored solutions to meet their requirements. Building and maintaining long-term relationships with key clients, you will act as the point of contact for addressing any concerns or issues. Additionally, you will collaborate with various internal teams, such as sales, marketing, and customer service, to ensure client satisfaction and drive sales growth.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Client Relationship Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Client Relationship Manager interviews to help you prepare and succeed.

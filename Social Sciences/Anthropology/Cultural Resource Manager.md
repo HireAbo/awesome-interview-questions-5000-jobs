@@ -2,6 +2,8 @@
 
 Welcome to the Cultural Resource Manager Interview Preparation ! This resource is designed to help you ace your Cultural Resource Manager interviews with confidence.
 
+A Cultural Resource Manager in the field of Anthropology is responsible for the preservation and management of cultural resources within a community or organization. This job requires a deep understanding of cultural practices, historical significance, and archaeological sites. The Cultural Resource Manager is involved in identifying, assessing, and documenting cultural resources, such as artifacts, structures, and landscapes. They work closely with stakeholders, including indigenous communities, government agencies, and museums, to develop strategies for the protection and conservation of these resources. Additionally, they may also be involved in educational outreach programs to raise awareness about cultural heritage and its importance. Overall, this role plays a critical role in ensuring the preservation of cultural diversity and historical legacy for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cultural Resource Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cultural Resource Manager interviews to help you prepare and succeed.

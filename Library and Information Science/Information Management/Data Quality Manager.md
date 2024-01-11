@@ -2,6 +2,8 @@
 
 Welcome to the Data Quality Manager Interview Preparation ! This resource is designed to help you ace your Data Quality Manager interviews with confidence.
 
+A Library and Information Science degree equips professionals with skills and knowledge to effectively manage and organize information resources. Within this field, a specialization in Information Management can lead to a career as a Data Quality Manager. As a Data Quality Manager, your primary responsibility is to ensure the accuracy, consistency, and reliability of data within an organization. This involves implementing data quality standards, conducting audits, identifying and resolving data quality issues, and collaborating with various stakeholders to improve data management processes. A Data Quality Manager plays a crucial role in maintaining the integrity and usability of data, enabling organizations to make informed decisions and drive successful outcomes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Quality Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Quality Manager interviews to help you prepare and succeed.

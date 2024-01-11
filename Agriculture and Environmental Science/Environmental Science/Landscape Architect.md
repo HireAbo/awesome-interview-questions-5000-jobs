@@ -2,6 +2,8 @@
 
 Welcome to the Landscape Architect Interview Preparation ! This resource is designed to help you ace your Landscape Architect interviews with confidence.
 
+Agriculture and Environmental Science encompass numerous disciplines that strive to understand and improve the interactions between humans and the environment. In this context, the field of Environmental Science focuses on studying and evaluating the impact of human activities on the environment, and finding sustainable solutions to mitigate these effects. Within Environmental Science, the role of a Landscape Architect is vital. Landscape Architects are responsible for designing and planning outdoor spaces, such as parks, gardens, and urban landscapes, while considering environmental factors like climate change, biodiversity, and natural resource management. They play a crucial role in creating aesthetically pleasing and functional landscapes that promote environmental sustainability and enhance the quality of life for communities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Landscape Architect or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Landscape Architect interviews to help you prepare and succeed.

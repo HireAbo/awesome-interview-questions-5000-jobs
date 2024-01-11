@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Inside Sales Interview Preparation ! This resource is designed to help you ace your Real Estate Inside Sales interviews with confidence.
 
+Real Estate and Property Management is a thriving industry that involves the buying, selling, renting, and managing of properties. Within this field, Real Estate Sales professionals play a crucial role in facilitating property transactions, connecting buyers and sellers, and negotiating deals. More specifically, Real Estate Inside Sales jobs focus on engaging with potential clients, nurturing leads, and driving sales through phone calls, emails, and other communication channels. Inside Sales professionals in this industry possess excellent interpersonal and communication skills, a deep understanding of the real estate market, and the ability to build and maintain client relationships. They play a vital role in ensuring the success and growth of real estate businesses.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Inside Sales or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Inside Sales interviews to help you prepare and succeed.

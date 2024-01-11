@@ -2,6 +2,8 @@
 
 Welcome to the Transportation Economist Interview Preparation ! This resource is designed to help you ace your Transportation Economist interviews with confidence.
 
+A Transportation Economist is a professional who specializes in analyzing and evaluating the economic aspects of transportation systems. They apply economic theories and principles to understand how transportation networks impact society, businesses, and the economy. Their primary role is to study and analyze the efficiency, cost-effectiveness, and sustainability of transportation systems, including roadways, railways, airways, and waterways. Transportation economists conduct research, collect and analyze data, and develop models to assess the economic impacts of transportation policies, infrastructure investments, and pricing strategies. They work closely with government agencies, transportation companies, and policymakers to provide recommendations for improving transportation systems and achieving economic objectives. Overall, their work aims to enhance the efficiency and effectiveness of transportation networks for the benefit of society and the economy.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Transportation Economist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Transportation Economist interviews to help you prepare and succeed.

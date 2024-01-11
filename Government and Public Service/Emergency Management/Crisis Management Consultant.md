@@ -2,6 +2,8 @@
 
 Welcome to the Crisis Management Consultant Interview Preparation ! This resource is designed to help you ace your Crisis Management Consultant interviews with confidence.
 
+A Crisis Management Consultant is a vital role within the field of Emergency Management and Government Public Service. These professionals specialize in helping organizations and governments effectively respond to and recover from crises and emergencies. With their expertise in crisis management, they provide strategic guidance and support to develop and implement emergency response plans, mitigate risks, and coordinate resources during times of crisis. Crisis Management Consultants also conduct thorough assessments of potential risks and vulnerabilities, ensuring that organizations are well-prepared to handle a wide range of emergencies. Their valuable contributions help safeguard lives, infrastructure, and public safety, making them indispensable in the field of emergency management.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Crisis Management Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Crisis Management Consultant interviews to help you prepare and succeed.

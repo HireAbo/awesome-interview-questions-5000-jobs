@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Sales Trainer Interview Preparation ! This resource is designed to help you ace your Real Estate Sales Trainer interviews with confidence.
 
+A Real Estate Sales Trainer is a professional who specializes in training and coaching real estate sales agents to enhance their skills and achieve greater success in the industry. They play a crucial role in developing the knowledge and expertise of sales agents by providing guidance on effective sales techniques, industry trends, negotiation strategies, and market analysis. The primary objective of a Real Estate Sales Trainer is to equip sales agents with the necessary tools and knowledge to excel in their roles, ultimately leading to increased sales productivity and client satisfaction. They are responsible for conducting training sessions, workshops, and one-on-one coaching sessions to ensure that sales agents remain up-to-date with industry best practices and achieve their sales targets.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Sales Trainer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Sales Trainer interviews to help you prepare and succeed.

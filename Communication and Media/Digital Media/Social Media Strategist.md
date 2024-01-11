@@ -2,6 +2,8 @@
 
 Welcome to the Social Media Strategist Interview Preparation ! This resource is designed to help you ace your Social Media Strategist interviews with confidence.
 
+A Social Media Strategist is a professional who specializes in creating and implementing effective strategies to promote brands and businesses on various social media platforms. They possess a deep understanding of digital media and are adept at leveraging different social media channels to reach and engage target audiences. Social Media Strategists have excellent communication skills and are able to craft compelling content that aligns with brand messaging and goals. They also possess strong analytical abilities, using data and insights to optimize social media campaigns and measure their impact. Their role is crucial in building brand awareness, driving website traffic, and generating leads through effective social media marketing strategies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Social Media Strategist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Social Media Strategist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Victim Advocate Interview Preparation ! This resource is designed to help you ace your Victim Advocate interviews with confidence.
 
+A Victim Advocate plays a crucial role in the field of Criminal Justice, specifically within the legal system. They provide support, guidance, and assistance to individuals who have been victims of crime or trauma. Their primary responsibility is to ensure that victims' rights are protected and that they receive the necessary resources and services they need to cope with the aftermath of their experience. Victim Advocates offer emotional support, help victims understand their legal rights, and provide information about available services such as counseling, financial aid, and court proceedings. They act as a liaison between victims and law enforcement agencies, legal professionals, and community organizations, advocating for the victim's best interests throughout the criminal justice process.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Victim Advocate or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Victim Advocate interviews to help you prepare and succeed.

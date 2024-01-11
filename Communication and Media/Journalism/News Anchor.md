@@ -2,6 +2,8 @@
 
 Welcome to the News Anchor Interview Preparation ! This resource is designed to help you ace your News Anchor interviews with confidence.
 
+A news anchor is a vital component of the journalism field, responsible for delivering the latest news to the public through various media outlets. As a trusted face and voice in the industry, news anchors play a significant role in shaping public opinion and providing information to a wide audience. They are skilled at researching, writing, and presenting news stories in a clear, concise, and engaging manner. News anchors must possess excellent communication skills, as they interact with a diverse range of individuals, including reporters, producers, and viewers. They must also stay up-to-date with current events, maintain impartiality, and adhere to ethical standards, ensuring that accurate and unbiased information is delivered to the public.
+
 ## 🚀 Overview
 
 Whether you're a seasoned News Anchor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in News Anchor interviews to help you prepare and succeed.

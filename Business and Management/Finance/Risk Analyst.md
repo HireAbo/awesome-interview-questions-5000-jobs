@@ -2,6 +2,8 @@
 
 Welcome to the Risk Analyst Interview Preparation ! This resource is designed to help you ace your Risk Analyst interviews with confidence.
 
+A Risk Analyst in the field of Business and Management, specifically in Finance, is responsible for assessing and evaluating potential risks in financial investments and transactions. With a strong background in finance, the Risk Analyst analyzes market trends, financial statements, and economic factors to identify potential risks that may affect the profitability and stability of a company or organization. They develop risk management strategies and provide recommendations to mitigate potential threats. Additionally, Risk Analysts conduct stress tests, create risk models, and monitor the effectiveness of risk management policies. Their expertise plays a crucial role in assisting businesses and organizations in making informed decisions to protect their financial interests.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Risk Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Risk Analyst interviews to help you prepare and succeed.

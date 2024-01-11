@@ -2,6 +2,8 @@
 
 Welcome to the Clinical Trial Manager Interview Preparation ! This resource is designed to help you ace your Clinical Trial Manager interviews with confidence.
 
+A Clinical Trial Manager plays a vital role in the field of healthcare and medicine, specifically in medical research. This position involves managing and overseeing the planning, implementation, and execution of clinical trials. Clinical Trial Managers are responsible for ensuring that trials are conducted in compliance with relevant regulations and protocols, while also maintaining the highest ethical standards. They work closely with a multidisciplinary team, including researchers, doctors, scientists, and regulatory authorities, to coordinate and monitor all aspects of the trial process. Additionally, Clinical Trial Managers are involved in budgeting, risk assessment, and data analysis, to ensure the successful completion and accuracy of the trial.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Clinical Trial Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Clinical Trial Manager interviews to help you prepare and succeed.

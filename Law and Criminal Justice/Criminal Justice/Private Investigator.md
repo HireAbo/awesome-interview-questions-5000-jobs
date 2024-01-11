@@ -2,6 +2,8 @@
 
 Welcome to the Private Investigator Interview Preparation ! This resource is designed to help you ace your Private Investigator interviews with confidence.
 
+A Private Investigator is a crucial role within the field of Criminal Justice. These professionals are responsible for conducting thorough investigations to gather evidence and information related to various criminal cases. They work closely with law enforcement agencies, lawyers, and individuals to uncover facts, analyze data, and provide valuable insights. Private Investigators employ a range of techniques such as surveillance, research, interviews, and forensic analysis to solve cases and assist in legal proceedings. Their work often involves locating missing persons, gathering evidence for criminal defense, conducting background checks, and investigating fraud or insurance claims. Private Investigators play a vital role in upholding justice and ensuring the truth is discovered in a wide range of criminal matters.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Private Investigator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Private Investigator interviews to help you prepare and succeed.

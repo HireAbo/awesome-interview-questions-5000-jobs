@@ -2,6 +2,8 @@
 
 Welcome to the Radio Disc Jockey Interview Preparation ! This resource is designed to help you ace your Radio Disc Jockey interviews with confidence.
 
+A radio disc jockey, also known as a DJ, is a professional who hosts and presents music, news, and entertainment programs on radio stations. As an integral part of the broadcasting industry, radio DJs play a crucial role in connecting with their audience and delivering engaging content. They select and play music tracks, interview guests, announce news and weather updates, and interact with listeners through phone calls, social media, and competitions. Radio disc jockeys possess excellent communication skills, a vibrant personality, and a deep knowledge of various music genres. Their ability to entertain, inform, and engage listeners makes them an essential component of the radio broadcasting landscape.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Radio Disc Jockey or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Radio Disc Jockey interviews to help you prepare and succeed.

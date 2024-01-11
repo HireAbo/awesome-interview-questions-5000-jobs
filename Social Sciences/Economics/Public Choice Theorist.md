@@ -2,6 +2,8 @@
 
 Welcome to the Public Choice Theorist Interview Preparation ! This resource is designed to help you ace your Public Choice Theorist interviews with confidence.
 
+A Public Choice Theorist is a professional specialized in the field of economics within the social sciences. Public choice theory explores the decision-making processes of individuals and groups within the context of public policy and governance. The job of a Public Choice Theorist involves analyzing and predicting the behavior of individuals, organizations, and governments in relation to economic policy-making. They critically examine the incentives and motivations that influence public decision-makers, aiming to understand how these factors impact the allocation of resources and the outcomes of public policies. Public Choice Theorists play a crucial role in informing policy debates, contributing to the design of efficient and effective public policies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Public Choice Theorist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Public Choice Theorist interviews to help you prepare and succeed.

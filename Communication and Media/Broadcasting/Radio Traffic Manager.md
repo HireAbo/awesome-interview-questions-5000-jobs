@@ -2,6 +2,8 @@
 
 Welcome to the Radio Traffic Manager Interview Preparation ! This resource is designed to help you ace your Radio Traffic Manager interviews with confidence.
 
+A Radio Traffic Manager plays a vital role in the field of Communication and Media Broadcasting. This position involves overseeing the scheduling and coordination of commercials, promotions, and other advertisements on radio stations. The Radio Traffic Manager ensures that all advertisements are aired at the correct times and in compliance with company policies and industry regulations. They collaborate with sales teams, clients, and production departments to ensure smooth execution of advertising campaigns. Additionally, they track and maintain accurate records of advertisements, monitor commercial inventory, and resolve any scheduling conflicts. A Radio Traffic Manager must possess excellent organizational skills, attention to detail, and strong communication abilities to excel in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Radio Traffic Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Radio Traffic Manager interviews to help you prepare and succeed.

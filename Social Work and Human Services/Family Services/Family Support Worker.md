@@ -2,6 +2,8 @@
 
 Welcome to the Family Support Worker Interview Preparation ! This resource is designed to help you ace your Family Support Worker interviews with confidence.
 
+As a Family Support Worker in the field of Social Work and Human Services, you play a vital role in providing assistance and support to families in need. Your primary objective is to ensure the overall well-being and stability of families by addressing their unique challenges and helping them navigate through difficult situations. By offering guidance, resources, and practical solutions, you help enhance parenting skills, strengthen family relationships, and promote a safe and nurturing environment for children. Your role may involve conducting assessments, developing individualized plans, facilitating access to community services, and advocating for families within various systems. With your empathetic and compassionate approach, you make a positive impact on families' lives, fostering resilience and empowering them to overcome obstacles.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Family Support Worker or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Family Support Worker interviews to help you prepare and succeed.

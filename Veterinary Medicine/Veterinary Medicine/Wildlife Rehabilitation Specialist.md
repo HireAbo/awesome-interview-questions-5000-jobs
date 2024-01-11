@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife Rehabilitation Specialist Interview Preparation ! This resource is designed to help you ace your Wildlife Rehabilitation Specialist interviews with confidence.
 
+A Wildlife Rehabilitation Specialist plays a crucial role in the field of Veterinary Medicine, specifically in the area of wildlife conservation and animal welfare. These professionals are experts in providing medical care and rehabilitation services to injured, orphaned, or sick wildlife species. Their primary objective is to restore the health and prepare these animals for a successful return to their natural habitats. Wildlife Rehabilitation Specialists possess extensive knowledge of wildlife biology, anatomy, and behavior, enabling them to diagnose and treat various ailments and injuries. They also play a significant role in educating the public about wildlife conservation and promoting responsible human-wildlife interactions. Overall, their work is essential for preserving biodiversity and ensuring the well-being of wildlife populations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Rehabilitation Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Rehabilitation Specialist interviews to help you prepare and succeed.

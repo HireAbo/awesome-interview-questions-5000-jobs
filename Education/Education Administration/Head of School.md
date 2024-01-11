@@ -2,6 +2,8 @@
 
 Welcome to the Head of School Interview Preparation ! This resource is designed to help you ace your Head of School interviews with confidence.
 
+The Head of School is a vital role within the field of Education Administration. As the top executive, this professional oversees the overall operations and strategic direction of a school or educational institution. They are responsible for ensuring the school meets its educational objectives, maintains high academic standards, and creates a positive learning environment. The Head of School collaborates with staff, faculty, and parents to develop and implement effective policies and programs that enhance student performance and well-being. They also manage budgets, hire and evaluate teachers, and engage with the community to promote the school's mission. This role requires strong leadership, excellent communication skills, and a deep understanding of educational practices and trends.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Head of School or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Head of School interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Retail Customer Experience Manager Interview Preparation ! This resource is designed to help you ace your Retail Customer Experience Manager interviews with confidence.
 
+A Retail Customer Experience Manager is responsible for ensuring a positive and satisfying shopping experience for customers in a retail setting. They play a crucial role in managing and enhancing the overall customer experience by implementing strategies to improve customer service, developing and delivering training programs for staff, and analyzing customer feedback to identify areas for improvement. This role requires excellent communication and interpersonal skills, as well as a deep understanding of retail operations and sales techniques. A Retail Customer Experience Manager must also possess strong leadership abilities to effectively manage a team and drive customer satisfaction and loyalty.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Retail Customer Experience Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Retail Customer Experience Manager interviews to help you prepare and succeed.

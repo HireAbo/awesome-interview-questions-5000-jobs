@@ -2,6 +2,8 @@
 
 Welcome to the Accompanist Interview Preparation ! This resource is designed to help you ace your Accompanist interviews with confidence.
 
+An accompanist is a highly skilled musician who provides musical support and accompanies soloists or groups during performances. They play a crucial role in enhancing the overall musical experience by providing a harmonious backdrop to the main performer(s). Accompanists are proficient in various musical genres and have a deep understanding of musical theory. They possess excellent sight-reading skills and can quickly adapt to different styles and tempos. Additionally, accompanists often collaborate closely with performers, directors, and conductors to ensure a seamless and captivating performance. Their expertise, versatility, and ability to elevate musical compositions make them an indispensable part of the entertainment and performing arts industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Accompanist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Accompanist interviews to help you prepare and succeed.

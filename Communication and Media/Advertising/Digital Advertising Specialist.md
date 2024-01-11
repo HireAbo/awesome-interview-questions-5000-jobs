@@ -2,6 +2,8 @@
 
 Welcome to the Digital Advertising Specialist Interview Preparation ! This resource is designed to help you ace your Digital Advertising Specialist interviews with confidence.
 
+A Digital Advertising Specialist is a professional who specializes in creating and implementing digital advertising campaigns to promote products or services. They possess a deep understanding of various digital platforms such as social media, search engines, websites, and mobile applications. Their role involves developing and executing strategies to reach target audiences, increase brand awareness, and drive conversions. Digital Advertising Specialists are responsible for conducting market research, planning and optimizing ad campaigns, analyzing data and metrics, and staying updated with the latest industry trends and best practices. They possess strong analytical skills, creativity, and the ability to effectively communicate and collaborate with cross-functional teams.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Digital Advertising Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Digital Advertising Specialist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Leasing Consultant Interview Preparation ! This resource is designed to help you ace your Leasing Consultant interviews with confidence.
 
+A Leasing Consultant is a crucial role within the field of Real Estate and Property Management. As a Leasing Consultant, your primary responsibility is to assist property owners in finding and securing tenants for their rental properties. You will play a vital role in the leasing process, from marketing and advertising available properties to conducting property tours and screening potential tenants. Additionally, you will be responsible for preparing leasing agreements, collecting rent payments, and addressing tenant concerns or maintenance requests. Strong communication and interpersonal skills are essential for success in this role, as you will be interacting with both property owners and prospective tenants on a regular basis.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Leasing Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Leasing Consultant interviews to help you prepare and succeed.

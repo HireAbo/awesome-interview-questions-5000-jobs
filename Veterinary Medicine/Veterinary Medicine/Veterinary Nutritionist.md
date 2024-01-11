@@ -2,6 +2,8 @@
 
 Welcome to the Veterinary Nutritionist Interview Preparation ! This resource is designed to help you ace your Veterinary Nutritionist interviews with confidence.
 
+A veterinary nutritionist is a specialized professional in the field of veterinary medicine who focuses on the nutritional needs and requirements of animals. These professionals play a crucial role in ensuring the overall health and well-being of animals through proper diet and nutrition. They work closely with veterinarians to develop customized dietary plans and oversee the nutritional management of animals suffering from various health conditions. Veterinary nutritionists possess in-depth knowledge of animal physiology, metabolism, and dietary components, enabling them to formulate balanced and nutritious diets for animals of different species. They may also conduct research to enhance the understanding of animal nutrition and contribute to the development of innovative dietary solutions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Veterinary Nutritionist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Veterinary Nutritionist interviews to help you prepare and succeed.

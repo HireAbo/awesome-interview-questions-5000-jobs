@@ -2,6 +2,8 @@
 
 Welcome to the Wildland Firefighter Interview Preparation ! This resource is designed to help you ace your Wildland Firefighter interviews with confidence.
 
+The Wildland Firefighter job is an essential role within the field of Emergency Management, which falls under the broader umbrella of Government and Public Service. Wildland Firefighters are trained professionals responsible for combating and suppressing wildfires that pose a threat to public safety and property. These brave individuals work tirelessly in challenging and often dangerous conditions, utilizing specialized tools and techniques to contain and extinguish fires. Their primary objective is to protect lives, ecosystems, and communities from the devastating effects of wildfires. Wildland Firefighters collaborate closely with other emergency response teams, government agencies, and community stakeholders, displaying exceptional teamwork, physical stamina, and a commitment to public service.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildland Firefighter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildland Firefighter interviews to help you prepare and succeed.

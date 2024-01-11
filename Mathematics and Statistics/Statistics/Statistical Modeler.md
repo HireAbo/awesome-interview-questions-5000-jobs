@@ -2,18 +2,20 @@
 
 Welcome to the Statistical Modeler Interview Preparation ! This resource is designed to help you ace your Statistical Modeler interviews with confidence.
 
+A Statistical Modeler is a professional who specializes in applying mathematical and statistical techniques to analyze data and develop statistical models. They play a crucial role in various industries, including finance, healthcare, marketing, and research. As experts in statistics, these professionals design and implement models to predict outcomes, identify trends, and make informed decisions. They work closely with data scientists, analysts, and business stakeholders to understand the objectives and requirements of a project. Statistical Modelers are skilled in programming languages like R or Python and have a deep understanding of statistical concepts such as regression analysis, hypothesis testing, and time series analysis. Their work is instrumental in driving data-driven decision-making and problem-solving.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Statistical Modeler or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Statistical Modeler interviews to help you prepare and succeed.
 
 ## 📝 Sample Questions
 
-1. Can you explain what a statistical model is?
-2. What is the purpose of statistical modeling?
-3. What statistical modeling techniques are you familiar with?
-4. Can you describe the steps involved in building a statistical model?
-5. How do you select the appropriate statistical model for a given problem?
-6. [CLICK HERE FOR MORE QUESTIONS](https://hireabo.com/job/19_1_28/Statistical%20Modeler)
+1. Can you explain the role of a statistical modeler and its importance in data analysis?
+2. What statistical techniques and models have you worked with in the past?
+3. Describe your experience in developing predictive models.
+4. How do you handle missing data when building statistical models?
+5. What is your approach to feature selection in model development?
+6. [CLICK HERE FOR MORE QUESTIONS](https://hireabo.com/job/19_1_12/Statistical%20Modeler)
 
 ## 🌐 Explore Further
 

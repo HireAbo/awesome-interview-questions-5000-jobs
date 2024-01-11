@@ -2,6 +2,8 @@
 
 Welcome to the Cisco Network Engineer Interview Preparation ! This resource is designed to help you ace your Cisco Network Engineer interviews with confidence.
 
+Information Technology (IT) encompasses various disciplines, one of which is Network Engineering. Network Engineers play a vital role in designing, implementing, and managing computer networks within organizations. Specifically, Cisco Network Engineers are experts in building and maintaining networks using Cisco networking equipment. They possess in-depth knowledge of Cisco technologies and protocols, such as routing, switching, and security. Cisco Network Engineers are responsible for configuring network devices, troubleshooting network issues, and ensuring the smooth operation of the network infrastructure. They collaborate with cross-functional teams to design and deploy robust and secure network solutions that meet the organization's requirements. Their expertise in Cisco networking makes them valuable assets in today's digitally connected world.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cisco Network Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cisco Network Engineer interviews to help you prepare and succeed.

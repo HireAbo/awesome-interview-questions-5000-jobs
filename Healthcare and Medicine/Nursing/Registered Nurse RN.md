@@ -2,6 +2,8 @@
 
 Welcome to the Registered Nurse (RN) Interview Preparation ! This resource is designed to help you ace your Registered Nurse (RN) interviews with confidence.
 
+A Registered Nurse (RN) is an integral part of the healthcare team, providing essential medical care and support to patients. They play a crucial role in promoting and maintaining the health and well-being of individuals across various healthcare settings. RNs are responsible for assessing patient needs, developing care plans, administering medications, and monitoring vital signs. They collaborate with physicians and other healthcare professionals to deliver holistic and patient-centered care. Registered Nurses also educate patients and their families about healthcare management, preventive measures, and treatment options. Their dedication and expertise make them indispensable in the healthcare system, ensuring the highest quality of care and improving patient outcomes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Registered Nurse (RN) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Registered Nurse (RN) interviews to help you prepare and succeed.

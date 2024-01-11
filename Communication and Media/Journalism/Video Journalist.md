@@ -2,6 +2,8 @@
 
 Welcome to the Video Journalist Interview Preparation ! This resource is designed to help you ace your Video Journalist interviews with confidence.
 
+A Video Journalist (VJ) is a professional who combines the skills of a journalist and a videographer to report news stories through video content. As a key member of the journalism field within Communication and Media, a Video Journalist plays a crucial role in gathering, reporting, and presenting news stories using visual storytelling techniques. They are responsible for shooting, editing, and producing video content that accurately and engagingly represents the news. A VJ must possess excellent communication skills, as they often conduct interviews, write scripts, and provide live reports. With the rise of digital media platforms, Video Journalists are essential in delivering news stories to audiences worldwide in an immersive and impactful manner.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Video Journalist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Video Journalist interviews to help you prepare and succeed.

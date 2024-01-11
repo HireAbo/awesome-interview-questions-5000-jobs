@@ -2,6 +2,12 @@
 
 Welcome to the Quantitative Curriculum Consultant Interview Preparation ! This resource is designed to help you ace your Quantitative Curriculum Consultant interviews with confidence.
 
+A Quantitative Curriculum Consultant in Mathematics and Statistics is a highly skilled professional who specializes in designing and developing quantitative analysis curriculum. They play a vital role in educational institutions, businesses, and research organizations, ensuring that students and professionals receive an in-depth understanding of mathematical and statistical concepts.
+
+These consultants are responsible for creating comprehensive and engaging lesson plans, assessments, and learning resources that cover a wide range of topics, including probability, linear algebra, calculus, and data analysis. They also collaborate with educators to provide guidance and support in implementing effective teaching strategies.
+
+A Quantitative Curriculum Consultant is well-versed in the latest advancements in quantitative analysis techniques and software tools, enabling them to provide valuable insights and recommendations for improving curriculum content. They possess excellent analytical and problem-solving skills, allowing them to identify areas for improvement and develop innovative solutions. Overall, their expertise and contributions are essential in fostering a strong foundation in mathematics and statistics for learners of all levels.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Quantitative Curriculum Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Quantitative Curriculum Consultant interviews to help you prepare and succeed.

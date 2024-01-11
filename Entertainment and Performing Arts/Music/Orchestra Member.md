@@ -2,6 +2,8 @@
 
 Welcome to the Orchestra Member Interview Preparation ! This resource is designed to help you ace your Orchestra Member interviews with confidence.
 
+The role of an Orchestra Member in the field of Entertainment and Performing Arts is a vital one. These highly skilled musicians are an integral part of an orchestra, which is a large ensemble of musical instruments, typically including strings, woodwinds, brass, and percussion. Orchestra members work together under the direction of a conductor to bring various musical compositions to life. They must possess exceptional technical proficiency and musicality to accurately interpret and perform the music. Orchestra members also have the responsibility of practicing extensively, attending rehearsals, and performing in concerts and events. Their dedication and passion contribute to creating captivating and awe-inspiring musical experiences for audiences worldwide.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Orchestra Member or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Orchestra Member interviews to help you prepare and succeed.

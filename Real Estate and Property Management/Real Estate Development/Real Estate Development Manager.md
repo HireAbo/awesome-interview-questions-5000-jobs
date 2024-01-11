@@ -2,6 +2,10 @@
 
 Welcome to the Real Estate Development Manager Interview Preparation ! This resource is designed to help you ace your Real Estate Development Manager interviews with confidence.
 
+Real Estate and Property Management is a sector that involves the buying, selling, and leasing of properties, as well as the management and maintenance of these properties. It encompasses a wide range of activities, such as residential, commercial, and industrial real estate. Real Estate Development, on the other hand, focuses on the planning, construction, and redevelopment of real estate properties to maximize their value and potential. 
+
+Within the realm of Real Estate Development, the role of a Real Estate Development Manager is crucial. This job entails overseeing and managing the entire real estate development process, from identifying potential properties, conducting feasibility studies, securing financing, coordinating with architects and contractors, obtaining necessary permits, and ensuring the successful completion of projects. A Real Estate Development Manager must possess strong analytical, negotiation, and project management skills, as well as a deep understanding of market trends and regulations. They play a pivotal role in shaping the physical landscape and urban development of cities and communities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Development Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Development Manager interviews to help you prepare and succeed.

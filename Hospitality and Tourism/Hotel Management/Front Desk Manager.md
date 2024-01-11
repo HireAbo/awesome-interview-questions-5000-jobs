@@ -2,6 +2,8 @@
 
 Welcome to the Front Desk Manager Interview Preparation ! This resource is designed to help you ace your Front Desk Manager interviews with confidence.
 
+A Front Desk Manager plays a crucial role in the hospitality and tourism industry, specifically in hotel management. As the first point of contact for guests, they are responsible for ensuring exceptional customer service and satisfaction. Their main duties include managing the front desk operations, supervising the front desk staff, handling guest check-ins and check-outs, and resolving any guest complaints or issues. They also oversee reservation systems, handle billing and payment processes, and coordinate with other hotel departments to ensure smooth operations. A successful Front Desk Manager possesses strong communication and organizational skills, problem-solving abilities, and a passion for delivering exceptional guest experiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Front Desk Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Front Desk Manager interviews to help you prepare and succeed.

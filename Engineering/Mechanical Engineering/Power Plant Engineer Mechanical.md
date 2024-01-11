@@ -2,6 +2,8 @@
 
 Welcome to the Power Plant Engineer (Mechanical) Interview Preparation ! This resource is designed to help you ace your Power Plant Engineer (Mechanical) interviews with confidence.
 
+A Power Plant Engineer (Mechanical) is a professional responsible for designing, developing, and maintaining various mechanical systems in power plants. They play a crucial role in ensuring the efficient and safe operation of power generation equipment, including turbines, boilers, generators, and cooling systems. These engineers analyze technical specifications, conduct feasibility studies, and oversee the installation, inspection, and maintenance of mechanical components. They work closely with other professionals, such as electrical engineers and technicians, to ensure the seamless integration of mechanical systems into power plants. Additionally, Power Plant Engineers (Mechanical) are involved in troubleshooting and resolving mechanical issues to minimize downtime and maximize plant performance.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Power Plant Engineer (Mechanical) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Power Plant Engineer (Mechanical) interviews to help you prepare and succeed.

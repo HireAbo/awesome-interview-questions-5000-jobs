@@ -2,6 +2,8 @@
 
 Welcome to the Tour Guide Interview Preparation ! This resource is designed to help you ace your Tour Guide interviews with confidence.
 
+Hospitality and Tourism is a dynamic industry that encompasses various sectors, including travel, accommodation, food and beverage, and entertainment. Within this field, Tourism Management involves the planning, organizing, and controlling of resources to meet the needs of travelers and tourists. One crucial role in the Tourism Management sector is that of a Tour Guide. A Tour Guide is responsible for providing information, guidance, and assistance to tourists visiting different destinations. They play a vital role in enhancing the overall travel experience by sharing historical, cultural, and geographical knowledge. Tour Guides must possess excellent communication and organizational skills, as well as a deep passion for travel and a commitment to ensuring customer satisfaction.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Tour Guide or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Tour Guide interviews to help you prepare and succeed.

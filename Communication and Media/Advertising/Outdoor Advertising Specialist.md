@@ -2,6 +2,8 @@
 
 Welcome to the Outdoor Advertising Specialist Interview Preparation ! This resource is designed to help you ace your Outdoor Advertising Specialist interviews with confidence.
 
+An Outdoor Advertising Specialist is a professional responsible for planning, executing, and managing outdoor advertising campaigns. This dynamic role involves collaborating with clients and advertising agencies to develop effective strategies for promoting products or services through outdoor mediums such as billboards, transit ads, and digital signage. The specialist conducts market research, identifies target audiences, and selects the most suitable locations for advertising placements. They negotiate contracts with vendors, oversee the production of advertising materials, and monitor the campaign's performance to ensure maximum impact and return on investment. With excellent communication skills and a keen eye for creativity, an Outdoor Advertising Specialist plays a vital role in creating brand awareness and driving customer engagement in the fast-paced world of advertising.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Outdoor Advertising Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Outdoor Advertising Specialist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Admissions Director Interview Preparation ! This resource is designed to help you ace your Admissions Director interviews with confidence.
 
+The role of an Admissions Director in Education Administration is crucial in managing the admissions process and ensuring the smooth functioning of educational institutions. As an Admissions Director, one is responsible for developing and implementing admission policies, procedures, and strategies to attract and enroll qualified students. This involves working closely with prospective students, their families, and educational counselors to provide them with information about the institution, its programs, and admission requirements. Admissions Directors also oversee the application review process, coordinate campus visits, and collaborate with other departments to ensure a seamless transition for incoming students. They play a vital role in shaping the student body and maintaining the institution's reputation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Admissions Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Admissions Director interviews to help you prepare and succeed.

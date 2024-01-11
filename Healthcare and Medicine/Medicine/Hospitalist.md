@@ -2,6 +2,8 @@
 
 Welcome to the Hospitalist Interview Preparation ! This resource is designed to help you ace your Hospitalist interviews with confidence.
 
+A Hospitalist is a medical doctor who specializes in providing comprehensive care to patients who are admitted to the hospital. They play a crucial role in managing and coordinating the overall healthcare of hospitalized individuals. Hospitalists work closely with other healthcare professionals, including nurses, specialists, and pharmacists, to ensure patients receive appropriate and timely treatment. They are responsible for diagnosing and treating various acute and chronic illnesses, monitoring patients' progress, and making adjustments to their treatment plans as needed. Hospitalists are skilled in handling medical emergencies, performing procedures, and communicating with patients and their families throughout their hospital stay.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Hospitalist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Hospitalist interviews to help you prepare and succeed.

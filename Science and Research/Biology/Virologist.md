@@ -2,6 +2,8 @@
 
 Welcome to the Virologist Interview Preparation ! This resource is designed to help you ace your Virologist interviews with confidence.
 
+A virologist is a scientist who specializes in the study of viruses and viral infections, a subfield of biology. They conduct extensive research to understand the structure, behavior, and function of viruses, as well as their impact on human health, animals, plants, and the environment. Virologists use advanced laboratory techniques, such as molecular biology and bioinformatics, to isolate, identify, and characterize different types of viruses. They investigate viral transmission, replication mechanisms, and develop strategies to prevent and control viral diseases. Virologists play a crucial role in developing vaccines, antiviral drugs, and diagnostic tests to combat viral outbreaks and protect public health. Their work is crucial in understanding and mitigating the impact of viruses on global populations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Virologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Virologist interviews to help you prepare and succeed.

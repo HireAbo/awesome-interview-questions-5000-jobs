@@ -2,6 +2,8 @@
 
 Welcome to the Residential Property Sales Consultant Interview Preparation ! This resource is designed to help you ace your Residential Property Sales Consultant interviews with confidence.
 
+A Residential Property Sales Consultant plays a crucial role in the real estate industry by assisting clients in buying and selling residential properties. This job requires excellent communication and negotiation skills to understand clients' needs and guide them throughout the buying or selling process. The consultant must have an in-depth knowledge of the local housing market and stay updated with current trends and property values. They conduct property inspections, provide accurate market analysis, and assist in property pricing. Additionally, they handle paperwork, contracts, and negotiations, ensuring a smooth and successful transaction for both buyers and sellers. A Residential Property Sales Consultant ultimately strives to achieve client satisfaction and foster long-term relationships in the real estate market.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Residential Property Sales Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Residential Property Sales Consultant interviews to help you prepare and succeed.

@@ -2,6 +2,10 @@
 
 Welcome to the Electrical Engineer Interview Preparation ! This resource is designed to help you ace your Electrical Engineer interviews with confidence.
 
+Electrical engineering is a specialized field within engineering that deals with the study, design, and application of electrical systems and devices. It encompasses a wide range of areas, including power generation, transmission, and distribution, electronics, telecommunications, and computer systems. 
+
+An electrical engineer is a professional who applies scientific knowledge and engineering principles to develop and maintain electrical systems. They are responsible for designing, testing, and overseeing the manufacturing of electrical equipment, such as motors, generators, and control systems. Additionally, electrical engineers are involved in troubleshooting and repairing electrical systems, ensuring their functionality and safety. Due to the increasing demand for advanced technology, electrical engineers play a crucial role in various industries, including energy, telecommunications, aerospace, and automotive sectors. Their expertise is essential for advancing technological innovations and ensuring efficient and reliable electrical systems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Electrical Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Electrical Engineer interviews to help you prepare and succeed.

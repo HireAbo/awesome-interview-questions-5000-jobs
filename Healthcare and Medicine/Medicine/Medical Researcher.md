@@ -2,6 +2,8 @@
 
 Welcome to the Medical Researcher Interview Preparation ! This resource is designed to help you ace your Medical Researcher interviews with confidence.
 
+A Medical Researcher is a crucial role in healthcare and medicine, dedicated to advancing medical knowledge and finding new ways to prevent, diagnose, and treat diseases. These professionals conduct experiments, collect and analyze data, and publish their findings in scientific journals. They work in research laboratories, universities, pharmaceutical companies, or government agencies. Medical Researchers collaborate with physicians, scientists, and other healthcare professionals to design and execute studies that explore potential treatments or improve patient care. Their work involves conducting clinical trials, studying the effectiveness of drugs or therapies, and developing innovative medical technologies. Medical Researchers play a critical role in shaping the future of healthcare by discovering breakthroughs that can improve patients' lives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Medical Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Medical Researcher interviews to help you prepare and succeed.

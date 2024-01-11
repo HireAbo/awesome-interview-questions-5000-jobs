@@ -2,6 +2,8 @@
 
 Welcome to the Sustainable Soil Scientist Interview Preparation ! This resource is designed to help you ace your Sustainable Soil Scientist interviews with confidence.
 
+Agriculture and Environmental Science are interdisciplinary fields that aim to address the challenges of feeding a growing global population while preserving the health of our planet. Within this realm, the concept of sustainable agriculture has gained significant attention. Sustainable agriculture focuses on cultivating crops and raising livestock in an environmentally friendly and socially responsible manner. One vital role in this field is that of a Sustainable Soil Scientist. These professionals study the impact of agricultural practices on soil health and develop strategies to enhance soil fertility, prevent erosion, and minimize the use of synthetic fertilizers and pesticides. Their work is crucial in ensuring long-term sustainability and food security.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sustainable Soil Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sustainable Soil Scientist interviews to help you prepare and succeed.

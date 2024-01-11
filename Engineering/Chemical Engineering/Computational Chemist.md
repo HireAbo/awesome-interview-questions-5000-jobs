@@ -2,6 +2,8 @@
 
 Welcome to the Computational Chemist Interview Preparation ! This resource is designed to help you ace your Computational Chemist interviews with confidence.
 
+A Computational Chemist is an integral part of the Chemical Engineering field, utilizing computer modeling and simulation techniques to solve complex problems in the realm of chemistry. They play a crucial role in the design and optimization of chemical processes, materials, and products. By employing mathematical algorithms and computational tools, they analyze and predict the behavior of chemical systems, enabling engineers to make informed decisions and develop innovative solutions. Computational Chemists collaborate closely with experimental chemists and engineers, using their expertise to provide valuable insights into molecular interactions, reaction kinetics, and thermodynamics. Their work spans various industries, including pharmaceuticals, energy, materials, and environmental sciences, making them indispensable contributors to advancements in chemical engineering.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Computational Chemist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Computational Chemist interviews to help you prepare and succeed.

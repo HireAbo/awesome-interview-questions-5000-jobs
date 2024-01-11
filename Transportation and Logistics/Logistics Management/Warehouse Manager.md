@@ -2,6 +2,8 @@
 
 Welcome to the Warehouse Manager Interview Preparation ! This resource is designed to help you ace your Warehouse Manager interviews with confidence.
 
+A Warehouse Manager is a vital role in the field of Transportation and Logistics, specifically in Logistics Management. This position is responsible for overseeing all warehouse operations, ensuring that goods are received, stored, and distributed efficiently and effectively. The Warehouse Manager manages the entire warehouse team, including warehouse associates and supervisors, and ensures that they are trained and equipped to meet the company's goals and objectives. They are responsible for maintaining inventory accuracy, monitoring stock levels, and implementing strategies to optimize warehouse space and minimize costs. Additionally, they collaborate with other departments such as sales and procurement to ensure smooth and timely operations. Overall, a Warehouse Manager plays a crucial role in the success of a company's supply chain and logistics operations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Warehouse Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Warehouse Manager interviews to help you prepare and succeed.

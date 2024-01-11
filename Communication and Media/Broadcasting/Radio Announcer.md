@@ -2,6 +2,8 @@
 
 Welcome to the Radio Announcer Interview Preparation ! This resource is designed to help you ace your Radio Announcer interviews with confidence.
 
+A radio announcer is a professional who works in the field of communication and media, specifically in the area of broadcasting. Their primary role is to deliver engaging content to a target audience through the medium of radio. Radio announcers have the responsibility of hosting various shows, presenting news bulletins, conducting interviews, and providing commentary on a wide range of topics. With their unique voice and captivating delivery, they have the power to captivate listeners and keep them entertained. Radio announcers also play a crucial role in promoting events, products, and services through advertisements and sponsorships. They possess excellent communication skills, a deep understanding of current affairs, and the ability to connect with their listeners on a personal level.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Radio Announcer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Radio Announcer interviews to help you prepare and succeed.

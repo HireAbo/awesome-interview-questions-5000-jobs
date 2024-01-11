@@ -2,6 +2,8 @@
 
 Welcome to the Agroecologist Interview Preparation ! This resource is designed to help you ace your Agroecologist interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on understanding the relationship between agriculture and the environment. Sustainable Agriculture, a subset of this field, aims to promote farming practices that are environmentally friendly and economically viable while ensuring the long-term productivity of the land. Agroecologists play a crucial role in achieving these goals. They study the ecological principles that underpin agricultural systems and apply this knowledge to develop sustainable farming methods. Agroecologists work closely with farmers, conducting research, and providing guidance on soil health, crop rotation, pest management, and other practices that minimize environmental impacts. The role of an Agroecologist is vital for the future of agriculture as it strives to balance food production with environmental sustainability.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Agroecologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Agroecologist interviews to help you prepare and succeed.

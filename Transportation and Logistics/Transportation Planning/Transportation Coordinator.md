@@ -2,6 +2,10 @@
 
 Welcome to the Transportation Coordinator Interview Preparation ! This resource is designed to help you ace your Transportation Coordinator interviews with confidence.
 
+Transportation and Logistics is a crucial industry that ensures the efficient movement of goods and people from one place to another. Within this industry, Transportation Planning plays a vital role in organizing and coordinating the transportation process. One of the key positions in transportation planning is that of a Transportation Coordinator. 
+
+As a Transportation Coordinator, one is responsible for managing and coordinating all aspects of transportation operations, including route planning, scheduling, and ensuring timely deliveries. They work closely with drivers, suppliers, and customers to ensure smooth logistics operations. Additionally, Transportation Coordinators monitor and analyze transportation costs, identify areas for improvement, and implement strategies to optimize efficiency and reduce expenses. This role requires strong organizational and communication skills, as well as the ability to work under pressure and make quick decisions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Transportation Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Transportation Coordinator interviews to help you prepare and succeed.

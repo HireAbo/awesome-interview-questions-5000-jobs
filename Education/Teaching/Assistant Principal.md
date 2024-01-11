@@ -2,6 +2,8 @@
 
 Welcome to the Assistant Principal Interview Preparation ! This resource is designed to help you ace your Assistant Principal interviews with confidence.
 
+An Assistant Principal plays a crucial role in the education and teaching sector. They work closely with the Principal to support the administration and management of a school or educational institution. The primary responsibility of an Assistant Principal is to ensure the smooth functioning of daily operations, including overseeing curriculum development, teacher evaluation, student discipline, and parent communication. They are also involved in the hiring and training of teaching staff, as well as implementing strategies to improve student performance and ensure a safe and inclusive learning environment. Assistant Principals often serve as a bridge between students, teachers, and parents, promoting academic excellence and fostering a positive school culture.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Assistant Principal or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Assistant Principal interviews to help you prepare and succeed.

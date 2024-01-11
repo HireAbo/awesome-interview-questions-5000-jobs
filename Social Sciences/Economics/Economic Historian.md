@@ -2,6 +2,8 @@
 
 Welcome to the Economic Historian Interview Preparation ! This resource is designed to help you ace your Economic Historian interviews with confidence.
 
+An Economic Historian is a professional who specializes in studying and analyzing the economic development and evolution of societies throughout history. Their role is to investigate, interpret, and document the past economic activities, policies, and trends that shaped different economies. Economic historians use a variety of research methods, such as analyzing historical documents, conducting interviews, and statistical analysis, to gain insights into how economic systems have functioned and changed over time. They provide valuable knowledge and perspective by examining the impact of economic events, policies, and decisions on societies, helping to inform present-day economic theories and policies. Economic historians often work in academic institutions, research organizations, or government agencies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Economic Historian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Economic Historian interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Visual Anthropologist Interview Preparation ! This resource is designed to help you ace your Visual Anthropologist interviews with confidence.
 
+A Visual Anthropologist is a professional who combines their expertise in anthropology with visual media to study and document various aspects of human culture and behavior. This unique job involves using photography, film, and other visual mediums to capture, analyze, and interpret cultural practices, rituals, traditions, and social interactions. Visual Anthropologists often work in the field, immersing themselves in different communities and societies to gain a deeper understanding of their customs and beliefs. They also collaborate with other anthropologists and researchers to develop visual materials that can be used for educational purposes, exhibitions, and academic publications. This interdisciplinary role requires strong observational skills, cultural sensitivity, and a passion for storytelling through visual media.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Visual Anthropologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Visual Anthropologist interviews to help you prepare and succeed.

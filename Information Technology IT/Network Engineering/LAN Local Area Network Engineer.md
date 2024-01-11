@@ -2,6 +2,8 @@
 
 Welcome to the LAN (Local Area Network) Engineer Interview Preparation ! This resource is designed to help you ace your LAN (Local Area Network) Engineer interviews with confidence.
 
+A LAN (Local Area Network) Engineer is an Information Technology (IT) professional responsible for designing, implementing, and maintaining local area networks within an organization. As businesses rely heavily on computer systems and data sharing, LAN engineers play a crucial role in ensuring efficient network operations. Their primary tasks include network configuration, troubleshooting, and monitoring to ensure seamless connectivity and data flow. LAN engineers possess a strong understanding of network protocols, hardware, and software components, allowing them to optimize network performance and address any connectivity or security issues. They work closely with other IT professionals to ensure the smooth functioning of the organization's network infrastructure.
+
 ## 🚀 Overview
 
 Whether you're a seasoned LAN (Local Area Network) Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in LAN (Local Area Network) Engineer interviews to help you prepare and succeed.

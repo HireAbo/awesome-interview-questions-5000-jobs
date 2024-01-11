@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife Biologist Interview Preparation ! This resource is designed to help you ace your Wildlife Biologist interviews with confidence.
 
+Agriculture and Environmental Science play a critical role in our society's sustainable development. Environmental Science focuses on understanding the environment and its complex interactions with human activities. Within this field, Wildlife Biologists have a vital role in preserving and managing the diverse range of wildlife species that inhabit our planet. Wildlife Biologists study the behavior, habitat, and population dynamics of various wildlife species, aiming to protect and conserve their populations and ecosystems. They conduct field research, monitor species' health, and collaborate with government agencies and conservation organizations to develop effective conservation strategies. Wildlife Biologists play a crucial role in maintaining biodiversity and ensuring the long-term survival of our planet's diverse wildlife species.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Biologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Biologist interviews to help you prepare and succeed.

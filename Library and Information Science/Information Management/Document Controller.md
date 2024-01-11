@@ -2,6 +2,8 @@
 
 Welcome to the Document Controller Interview Preparation ! This resource is designed to help you ace your Document Controller interviews with confidence.
 
+Library and Information Science (LIS) is a multidisciplinary field that focuses on the organization, management, and retrieval of information. Within this field, there is a specialization known as Information Management, which encompasses various roles including that of a Document Controller. A Document Controller is responsible for managing and controlling the flow of documents within an organization, ensuring accuracy, accessibility, and security. They handle the creation, distribution, and archiving of documents, ensuring compliance with organizational and regulatory requirements. Document Controllers also implement document management systems, train users, and provide support for document-related queries. Their role is crucial in maintaining efficient information flow and facilitating effective decision-making processes within an organization.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Document Controller or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Document Controller interviews to help you prepare and succeed.

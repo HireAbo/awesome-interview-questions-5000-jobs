@@ -2,6 +2,8 @@
 
 Welcome to the Neurology Nurse Interview Preparation ! This resource is designed to help you ace your Neurology Nurse interviews with confidence.
 
+A Neurology Nurse is a specialized healthcare professional who works closely with patients suffering from neurological disorders and conditions. They play a vital role in the field of healthcare and medicine, specifically in the realm of nursing. Neurology Nurses are responsible for providing comprehensive care to patients with neurological issues, such as brain injuries, epilepsy, stroke, multiple sclerosis, and Parkinson's disease. Their primary duties include assessing patients' conditions, administering medications, monitoring vital signs, and assisting in various diagnostic procedures. Additionally, they educate patients and their families on managing symptoms and coping with their specific neurological conditions. Neurology Nurses play a crucial role in improving the quality of life for patients and are highly skilled in providing compassionate care.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Neurology Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Neurology Nurse interviews to help you prepare and succeed.

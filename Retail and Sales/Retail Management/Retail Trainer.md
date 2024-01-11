@@ -2,6 +2,8 @@
 
 Welcome to the Retail Trainer Interview Preparation ! This resource is designed to help you ace your Retail Trainer interviews with confidence.
 
+A Retail Trainer is a professional responsible for training and developing the skills of retail employees to enhance their performance and productivity in the sales environment. They play a crucial role in ensuring that retail staff are equipped with the necessary knowledge and expertise to provide exceptional customer service, drive sales, and meet targets. Retail Trainers design and deliver training programs, covering various aspects such as product knowledge, effective selling techniques, customer engagement, and service excellence. They assess training needs, create training materials, conduct workshops, and monitor employee progress. A successful Retail Trainer possesses excellent communication and coaching skills, a strong understanding of retail operations, and a passion for inspiring and motivating retail teams.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Retail Trainer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Retail Trainer interviews to help you prepare and succeed.

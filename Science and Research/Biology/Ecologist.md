@@ -2,6 +2,8 @@
 
 Welcome to the Ecologist Interview Preparation ! This resource is designed to help you ace your Ecologist interviews with confidence.
 
+Ecology, a branch of biology, focuses on the study of interactions between organisms and their environment. Ecologists play a crucial role in understanding and preserving the delicate balance of ecosystems. As scientific researchers, ecologists investigate various aspects of the natural world, such as the behavior, distribution, and population dynamics of organisms. They collect and analyze data, conduct fieldwork, and use advanced techniques like modeling and statistical analysis to draw meaningful conclusions. By studying how organisms interact with their surroundings, ecologists contribute to the development of sustainable practices and conservation efforts. Their work is essential for understanding the intricate web of life on Earth and ensuring its future well-being.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Ecologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Ecologist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife Biologist Interview Preparation ! This resource is designed to help you ace your Wildlife Biologist interviews with confidence.
 
+A wildlife biologist job in the field of biology encompasses the study of various aspects of wildlife species, their habitats, and ecosystems. Wildlife biologists play a vital role in understanding, conserving, and managing the diverse range of animal species that inhabit our planet. Through scientific research, they gather data on animal behavior, population dynamics, habitat quality, and the impact of human activities on wildlife. This information is crucial in developing effective conservation strategies and policies to protect and restore endangered species and their habitats. Wildlife biologists often work in the field, conducting surveys, tracking animals, and collecting samples, as well as in laboratories, analyzing data and conducting experiments.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Biologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Biologist interviews to help you prepare and succeed.

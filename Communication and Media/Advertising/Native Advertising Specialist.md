@@ -2,6 +2,8 @@
 
 Welcome to the Native Advertising Specialist Interview Preparation ! This resource is designed to help you ace your Native Advertising Specialist interviews with confidence.
 
+A Native Advertising Specialist is a professional responsible for executing and managing native advertising campaigns within the field of communication and media. This role involves creating and implementing strategic plans to promote products or services through native advertising platforms. Native advertising is a form of paid media that seamlessly integrates promotional content into the user experience of a particular platform. The specialist collaborates with clients and internal teams to develop compelling and engaging native ad campaigns that resonate with the target audience. They also monitor campaign performance, analyze data, and provide insights to optimize future advertising strategies. A Native Advertising Specialist possesses strong communication, creative, and analytical skills to drive impactful and successful native advertising campaigns.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Native Advertising Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Native Advertising Specialist interviews to help you prepare and succeed.

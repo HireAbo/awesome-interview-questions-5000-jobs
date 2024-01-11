@@ -2,6 +2,8 @@
 
 Welcome to the Curriculum Mapping Specialist Interview Preparation ! This resource is designed to help you ace your Curriculum Mapping Specialist interviews with confidence.
 
+A Curriculum Mapping Specialist is a professional responsible for designing and developing educational curricula to meet the needs of students and ensure alignment with educational standards. They work closely with teachers, administrators, and other stakeholders to identify learning objectives and create a comprehensive curriculum framework. The specialist conducts research, analyzes data, and collaborates with subject matter experts to develop engaging and effective curricular materials. They also oversee the implementation and evaluation of the curriculum, making necessary adjustments to enhance student learning outcomes. A Curriculum Mapping Specialist plays a crucial role in shaping the educational experience, ensuring that students receive a well-rounded and comprehensive education.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Curriculum Mapping Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Curriculum Mapping Specialist interviews to help you prepare and succeed.

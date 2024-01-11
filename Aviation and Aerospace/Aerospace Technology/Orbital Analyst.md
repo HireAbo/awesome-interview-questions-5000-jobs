@@ -2,6 +2,8 @@
 
 Welcome to the Orbital Analyst Interview Preparation ! This resource is designed to help you ace your Orbital Analyst interviews with confidence.
 
+The field of Aviation and Aerospace encompasses a vast range of technologies and industries that involve flight and space exploration. Within the realm of Aerospace Technology, the role of an Orbital Analyst is critical in understanding and predicting the movement of objects in space. Orbital Analysts utilize their expertise in celestial mechanics and computational modeling to analyze the orbits of satellites, spacecraft, and other celestial objects. They play a vital role in ensuring the safe and efficient operation of space missions, as well as in guiding the design and deployment of satellites and other space assets. With their knowledge and skills, Orbital Analysts contribute significantly to the advancement of space exploration and satellite communications.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Orbital Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Orbital Analyst interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Digital Repository Archivist Interview Preparation ! This resource is designed to help you ace your Digital Repository Archivist interviews with confidence.
 
+Library and Information Science is a field that focuses on the organization and management of information resources in various formats. Archiving is one of the important aspects of this field, which involves preserving and organizing valuable records, documents, and artifacts for future reference and research. Within the archiving domain, a Digital Repository Archivist is responsible for managing and curating digital collections in a digital repository. This role involves acquiring, organizing, and preserving digital materials, ensuring their accessibility and usability for researchers and users. The Digital Repository Archivist also plays a crucial role in developing and implementing policies and procedures for digital preservation, metadata creation, and digital content management.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Digital Repository Archivist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Digital Repository Archivist interviews to help you prepare and succeed.

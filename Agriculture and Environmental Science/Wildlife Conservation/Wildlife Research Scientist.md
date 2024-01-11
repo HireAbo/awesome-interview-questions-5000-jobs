@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife Research Scientist Interview Preparation ! This resource is designed to help you ace your Wildlife Research Scientist interviews with confidence.
 
+Agriculture and Environmental Science is a field that focuses on sustainable farming practices and the study of the natural environment. Within this field, Wildlife Conservation plays a crucial role in preserving and protecting the Earth's biodiversity. Wildlife Research Scientists are responsible for studying various wildlife species, their habitats, and behaviors to gain insights into their conservation needs. These professionals conduct field research, collect and analyze data, and collaborate with other scientists and organizations to develop effective conservation strategies. Their work helps understand the impact of human activities on wildlife populations and contributes to preserving our natural heritage for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Research Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Research Scientist interviews to help you prepare and succeed.

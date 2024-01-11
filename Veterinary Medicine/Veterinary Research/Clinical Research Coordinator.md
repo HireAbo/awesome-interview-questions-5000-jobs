@@ -2,6 +2,8 @@
 
 Welcome to the Clinical Research Coordinator Interview Preparation ! This resource is designed to help you ace your Clinical Research Coordinator interviews with confidence.
 
+A Clinical Research Coordinator (CRC) in the field of Veterinary Medicine plays a crucial role in advancing knowledge and improving animal health. As a CRC, your primary responsibility is to manage and coordinate clinical research studies involving animals. You will work closely with veterinarians, researchers, and other medical professionals to ensure the smooth conduct of trials and studies. Your tasks may include recruiting animal participants, developing protocols, collecting and analyzing data, and maintaining regulatory compliance. The role requires strong organizational and communication skills, as well as a deep understanding of veterinary medicine and research methodologies. By contributing to veterinary research, you contribute to the overall improvement of animal healthcare and welfare.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Clinical Research Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Clinical Research Coordinator interviews to help you prepare and succeed.

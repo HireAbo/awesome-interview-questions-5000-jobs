@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Development Research Analyst Interview Preparation ! This resource is designed to help you ace your Real Estate Development Research Analyst interviews with confidence.
 
+Real Estate and Property Management is a vast industry that encompasses the buying, selling, renting, and management of properties. It involves various activities such as real estate development, investment analysis, property marketing, and tenant relations. Real Estate Development focuses on the creation and improvement of properties, including residential, commercial, and industrial buildings. The role of a Real Estate Development Research Analyst is crucial in this field. They conduct extensive research and analysis to identify market trends, evaluate potential investment opportunities, and assess the feasibility of development projects. Their responsibilities also include gathering data, preparing reports, and providing recommendations to support informed decision-making by real estate developers and investors.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Development Research Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Development Research Analyst interviews to help you prepare and succeed.

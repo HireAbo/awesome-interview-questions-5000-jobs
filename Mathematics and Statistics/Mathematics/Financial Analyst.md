@@ -2,6 +2,10 @@
 
 Welcome to the Financial Analyst Interview Preparation ! This resource is designed to help you ace your Financial Analyst interviews with confidence.
 
+Mathematics and Statistics are two interconnected fields that play a crucial role in various industries. Mathematics deals with numbers, patterns, and relationships, providing a foundation for problem-solving and logical reasoning. Statistics, on the other hand, focuses on the collection, analysis, interpretation, presentation, and organization of data. 
+
+Within the realm of mathematics, the role of a Financial Analyst is prominent. Financial Analysts utilize mathematical and statistical techniques to evaluate financial data, assess investment opportunities, and make informed decisions. They analyze market trends, create financial models and forecasts, and provide recommendations to guide investment strategies. A Financial Analyst's expertise in mathematics and statistics is vital for interpreting complex financial data and ensuring accurate financial planning and risk management.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Financial Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Financial Analyst interviews to help you prepare and succeed.

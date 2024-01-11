@@ -2,6 +2,8 @@
 
 Welcome to the Records Archivist Interview Preparation ! This resource is designed to help you ace your Records Archivist interviews with confidence.
 
+Library and Information Science is a multidisciplinary field that focuses on the organization, preservation, and dissemination of information. Within this field, Archiving is a crucial aspect that involves the systematic management of records and documents. Records Archivists play a vital role in this process as they are responsible for ensuring the long-term preservation and accessibility of valuable records. They acquire, appraise, arrange, describe, and preserve records using various archival principles and techniques. Records Archivists also manage databases and digital collections, ensuring the proper storage, retrieval, and security of information. Their expertise in archiving helps to maintain historical, cultural, and administrative records, providing society with valuable resources for research, education, and historical preservation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Records Archivist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Records Archivist interviews to help you prepare and succeed.

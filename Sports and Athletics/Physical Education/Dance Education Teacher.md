@@ -2,6 +2,8 @@
 
 Welcome to the Dance Education Teacher Interview Preparation ! This resource is designed to help you ace your Dance Education Teacher interviews with confidence.
 
+A Sports and Athletics > Physical Education > Dance Education Teacher is responsible for instructing students in the field of dance education within a physical education curriculum. This job involves designing and implementing dance lessons that focus on technique, choreography, and performance skills. The teacher ensures that students develop an understanding of various dance forms, such as ballet, contemporary, jazz, and hip-hop, while emphasizing proper body alignment, flexibility, strength, and coordination. They create a positive and inclusive learning environment, encouraging students of all abilities to participate and excel. Additionally, the teacher may organize dance productions or events to showcase the students' talents and foster their passion for dance.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Dance Education Teacher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Dance Education Teacher interviews to help you prepare and succeed.

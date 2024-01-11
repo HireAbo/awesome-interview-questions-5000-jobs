@@ -2,6 +2,12 @@
 
 Welcome to the Legal Receptionist Interview Preparation ! This resource is designed to help you ace your Legal Receptionist interviews with confidence.
 
+Law and Criminal Justice field offers an exciting and rewarding career path for those interested in the legal profession. One such role within this domain is that of a Paralegal. As a Paralegal, individuals play a crucial role in assisting lawyers in various legal tasks, including conducting research, drafting legal documents, and organizing case files. Their knowledge and expertise contribute significantly to the success of legal proceedings.
+
+Another key position within the legal sector is that of a Legal Receptionist. This role serves as the first point of contact for clients, ensuring a professional and welcoming atmosphere in law firms or legal departments. Legal Receptionists handle administrative duties such as managing phone calls, scheduling appointments, and maintaining client records, ensuring smooth operations within the legal office.
+
+Both Paralegals and Legal Receptionists play integral roles in supporting lawyers and maintaining efficient legal practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Legal Receptionist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Legal Receptionist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the School-Based Mental Health Counselor Interview Preparation ! This resource is designed to help you ace your School-Based Mental Health Counselor interviews with confidence.
 
+A School-Based Mental Health Counselor is a vital member of the education system who focuses on the mental well-being of students. This role involves working closely with students, parents, and teachers to address emotional, behavioral, and psychological concerns that may hinder a student's academic success. These professionals provide individual and group counseling sessions, conduct assessments, and develop intervention plans to support students' mental health needs. They play a crucial role in promoting a positive school climate, fostering resilience, and preventing mental health issues. By collaborating with other school staff and community resources, School-Based Mental Health Counselors help create a safe and supportive environment where students can thrive academically and emotionally.
+
 ## 🚀 Overview
 
 Whether you're a seasoned School-Based Mental Health Counselor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in School-Based Mental Health Counselor interviews to help you prepare and succeed.

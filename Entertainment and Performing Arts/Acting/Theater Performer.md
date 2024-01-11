@@ -2,6 +2,8 @@
 
 Welcome to the Theater Performer Interview Preparation ! This resource is designed to help you ace your Theater Performer interviews with confidence.
 
+A theater performer is an artist who brings characters and stories to life on stage through acting. They are an integral part of the entertainment and performing arts industry. These professionals possess exceptional acting skills, versatility, and a strong stage presence. They bring depth and emotion to their performances, captivating audiences with their talent and dedication. Theater performers undergo rigorous training to develop their craft, mastering various acting techniques to create believable and engaging portrayals. They work closely with directors, fellow actors, and production teams to rehearse, prepare, and perfect their performances. Theater performers provide a unique and immersive experience, transporting audiences into different worlds and making theater an unforgettable experience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Theater Performer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Theater Performer interviews to help you prepare and succeed.

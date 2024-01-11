@@ -2,6 +2,8 @@
 
 Welcome to the Water Treatment Technician Interview Preparation ! This resource is designed to help you ace your Water Treatment Technician interviews with confidence.
 
+A Water Treatment Technician in the field of skilled trades, specifically in plumbing, is responsible for ensuring the safe and efficient treatment of water systems. This job involves inspecting, maintaining, and repairing water treatment equipment such as filters, pumps, and valves. Water Treatment Technicians also conduct tests to assess the quality of water, identify any contaminants, and implement appropriate treatment processes. They may be involved in the installation of water treatment systems, as well as troubleshooting and resolving any issues that may arise. These professionals play a crucial role in safeguarding public health by ensuring the delivery of clean and safe water to communities and industries.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Water Treatment Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Water Treatment Technician interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Dance Company Manager Interview Preparation ! This resource is designed to help you ace your Dance Company Manager interviews with confidence.
 
+The role of a Dance Company Manager is crucial in the world of Entertainment and Performing Arts. As a Dance Company Manager, one is responsible for overseeing the administrative and operational aspects of a dance company. This includes managing budgets, coordinating schedules, organizing rehearsals, booking venues, and marketing performances. Additionally, a Dance Company Manager plays a vital role in nurturing relationships with dancers, choreographers, and other staff members to ensure the smooth functioning of the company. Strong organizational and communication skills are essential for this job, as well as a deep understanding and passion for dance. The Dance Company Manager plays a significant role in bringing the artistic vision of the dance company to life.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Dance Company Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Dance Company Manager interviews to help you prepare and succeed.

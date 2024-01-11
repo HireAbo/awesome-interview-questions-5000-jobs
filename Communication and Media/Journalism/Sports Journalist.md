@@ -2,6 +2,8 @@
 
 Welcome to the Sports Journalist Interview Preparation ! This resource is designed to help you ace your Sports Journalist interviews with confidence.
 
+A Sports Journalist is a professional who specializes in reporting, analyzing, and providing commentary on various sports events and athletes. They play a critical role in the field of journalism, covering a wide range of sporting activities such as football, basketball, tennis, and more. These journalists are responsible for delivering accurate and engaging content to their audience through various media platforms, including print, online, television, and radio. They conduct interviews with athletes and coaches, attend press conferences, and gather information to present comprehensive sports news. Sports journalists possess excellent communication skills, a deep understanding of sports, and the ability to meet tight deadlines while maintaining accuracy and objectivity.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sports Journalist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sports Journalist interviews to help you prepare and succeed.

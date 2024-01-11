@@ -2,6 +2,8 @@
 
 Welcome to the Utility Security Manager Interview Preparation ! This resource is designed to help you ace your Utility Security Manager interviews with confidence.
 
+A Utility Security Manager is a professional responsible for overseeing the security measures implemented in energy and utility facilities. This role involves developing and implementing security protocols to protect the infrastructure, assets, and personnel against potential threats, such as cyber-attacks, physical intrusions, or natural disasters. The Utility Security Manager works closely with various stakeholders, including government agencies, law enforcement, and internal teams, to ensure compliance with security regulations and standards. They conduct risk assessments, monitor security systems, and coordinate emergency response plans. Additionally, they stay updated on emerging security technologies and trends to continuously improve the utility's security posture in an ever-evolving landscape.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Utility Security Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Utility Security Manager interviews to help you prepare and succeed.

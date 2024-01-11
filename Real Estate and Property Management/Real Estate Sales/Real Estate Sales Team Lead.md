@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Sales Team Lead Interview Preparation ! This resource is designed to help you ace your Real Estate Sales Team Lead interviews with confidence.
 
+A Real Estate Sales Team Lead is a crucial role in the field of Real Estate and Property Management. This position involves overseeing a team of real estate sales agents and guiding them towards achieving sales targets and objectives. As a leader, one must possess excellent communication and interpersonal skills to effectively communicate with clients, negotiate deals, and build strong relationships with buyers and sellers. The Team Lead is responsible for supervising and motivating their team, providing training and guidance, and ensuring that all sales activities are carried out efficiently. This role requires extensive knowledge of the real estate market, industry regulations, and a strong ability to lead and inspire a team to succeed.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Sales Team Lead or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Sales Team Lead interviews to help you prepare and succeed.

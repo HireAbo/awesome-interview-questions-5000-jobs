@@ -2,6 +2,8 @@
 
 Welcome to the Enterprise Risk Management Actuary Interview Preparation ! This resource is designed to help you ace your Enterprise Risk Management Actuary interviews with confidence.
 
+Mathematics and statistics are fundamental disciplines that play a crucial role in various fields, including Actuarial Science. Actuarial Science applies mathematical and statistical methods to assess and manage financial risks in the insurance and financial sectors. Within this field, the Enterprise Risk Management Actuary job focuses on the identification, assessment, and mitigation of risks that may impact an organization's operations and financial stability. These professionals use their expertise in mathematical modeling, data analysis, and statistical techniques to evaluate potential risks, develop risk management strategies, and ensure regulatory compliance. Their work helps organizations make informed decisions, protect themselves from potential losses, and maintain financial security.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Enterprise Risk Management Actuary or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Enterprise Risk Management Actuary interviews to help you prepare and succeed.

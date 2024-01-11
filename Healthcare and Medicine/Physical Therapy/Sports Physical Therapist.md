@@ -2,6 +2,8 @@
 
 Welcome to the Sports Physical Therapist Interview Preparation ! This resource is designed to help you ace your Sports Physical Therapist interviews with confidence.
 
+A sports physical therapist plays a crucial role in the healthcare and medicine field, specifically within physical therapy. This specialized branch focuses on diagnosing, treating, and preventing injuries related to sports and exercise. Sports physical therapists work closely with athletes and individuals who engage in physical activities to help them recover from injuries, improve their performance, and enhance their overall physical well-being. They assess and evaluate patients' conditions, develop personalized treatment plans, and utilize various techniques such as exercise therapy, manual therapy, and therapeutic modalities to aid in rehabilitation. With their extensive knowledge and expertise, sports physical therapists play a vital role in helping athletes and active individuals regain their optimal physical function and get back to doing what they love.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sports Physical Therapist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sports Physical Therapist interviews to help you prepare and succeed.

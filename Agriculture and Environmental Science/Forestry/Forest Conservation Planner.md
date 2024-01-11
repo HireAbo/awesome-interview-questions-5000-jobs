@@ -2,6 +2,8 @@
 
 Welcome to the Forest Conservation Planner Interview Preparation ! This resource is designed to help you ace your Forest Conservation Planner interviews with confidence.
 
+Agriculture and Environmental Science encompass a diverse range of disciplines aimed at understanding and managing the intricate relationship between humans and the environment. Within this field, forestry plays a crucial role in preserving and sustaining our planet's forests. Forest Conservation Planners are professionals who specialize in developing and implementing strategies to protect and manage forested areas. Their responsibilities include conducting research, assessing forest health, and creating sustainable management plans for preserving biodiversity, mitigating climate change, and ensuring the availability of vital ecosystem services. Forest Conservation Planners work closely with stakeholders, including government agencies, environmental organizations, and local communities, to promote responsible forest management practices and ensure the long-term preservation of our precious forests.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forest Conservation Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forest Conservation Planner interviews to help you prepare and succeed.

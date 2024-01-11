@@ -2,6 +2,8 @@
 
 Welcome to the Residential Counselor Interview Preparation ! This resource is designed to help you ace your Residential Counselor interviews with confidence.
 
+A residential counselor is a professional employed in the field of psychology within the realm of social sciences. They play a crucial role in providing support and guidance to individuals residing in various residential settings, such as group homes, treatment centers, or correctional facilities. As a residential counselor, their primary responsibility is to assist clients in addressing and managing their mental health issues, behavioral challenges, or substance abuse problems. They utilize therapeutic techniques and interventions to promote positive change and foster personal growth among clients. Moreover, residential counselors work collaboratively with a multidisciplinary team to develop treatment plans, administer assessments, and facilitate individual or group therapy sessions for clients.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Residential Counselor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Residential Counselor interviews to help you prepare and succeed.

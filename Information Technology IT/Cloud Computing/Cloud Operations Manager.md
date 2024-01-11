@@ -2,6 +2,8 @@
 
 Welcome to the Cloud Operations Manager Interview Preparation ! This resource is designed to help you ace your Cloud Operations Manager interviews with confidence.
 
+A Cloud Operations Manager is a crucial role in the field of Information Technology (IT), specifically in Cloud Computing. This job involves overseeing and managing the day-to-day operations of cloud-based systems and services within an organization. The primary responsibility of a Cloud Operations Manager is to ensure the smooth functioning, availability, and optimal performance of the organization's cloud infrastructure. They are responsible for monitoring and troubleshooting any issues, managing security measures, updating software, and coordinating with various teams to ensure efficient cloud operations. Additionally, they play a key role in capacity planning, resource allocation, and cost optimization to ensure the organization's cloud services meet business needs effectively.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cloud Operations Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cloud Operations Manager interviews to help you prepare and succeed.

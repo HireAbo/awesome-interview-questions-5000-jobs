@@ -2,6 +2,8 @@
 
 Welcome to the Digital Marketing Analyst Interview Preparation ! This resource is designed to help you ace your Digital Marketing Analyst interviews with confidence.
 
+A Digital Marketing Analyst is a professional who specializes in analyzing and interpreting data related to digital marketing campaigns. Their primary role is to measure the effectiveness of various marketing strategies and provide insights to improve future campaigns. They use advanced analytics tools and techniques to track and analyze website traffic, online advertising performance, social media engagement, and other digital marketing metrics. Digital Marketing Analysts also conduct market research to identify target audiences, monitor industry trends, and assess competitors' strategies. They play a crucial role in optimizing marketing efforts, enhancing brand visibility, and driving customer engagement in the digital landscape. Strong analytical skills, knowledge of digital marketing platforms, and proficiency in data analysis tools are essential for this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Digital Marketing Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Digital Marketing Analyst interviews to help you prepare and succeed.

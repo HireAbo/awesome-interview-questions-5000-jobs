@@ -2,6 +2,8 @@
 
 Welcome to the Renewable Energy Sales Representative Interview Preparation ! This resource is designed to help you ace your Renewable Energy Sales Representative interviews with confidence.
 
+A Renewable Energy Sales Representative plays a vital role in promoting and selling renewable energy solutions to individuals, businesses, and organizations. This job involves educating customers about the benefits of renewable energy sources like solar, wind, hydro, or geothermal power. The representative must possess excellent communication and persuasion skills to build relationships with potential clients and identify their energy needs. They collaborate with engineers and project managers to develop customized solutions and present proposals to customers. The representative also stays updated on industry trends and regulations to provide accurate information and advice. This job offers an exciting opportunity to contribute to the transition towards a sustainable and greener future.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Renewable Energy Sales Representative or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Renewable Energy Sales Representative interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Nuclear Instrumentation and Controls Technician Interview Preparation ! This resource is designed to help you ace your Nuclear Instrumentation and Controls Technician interviews with confidence.
 
+A Nuclear Instrumentation and Controls Technician is a vital role in the field of nuclear energy. These professionals are responsible for the installation, maintenance, and repair of specialized equipment used in nuclear power plants. They ensure that the instrumentation and control systems are functioning optimally to maintain safe and efficient operations. Nuclear Instrumentation and Controls Technicians also play a crucial role in monitoring and analyzing data from various instruments to detect potential issues or abnormalities. They are highly trained in safety protocols and have a deep understanding of radiation and nuclear processes. This job requires strong technical skills, attention to detail, and a commitment to maintaining the highest standards of safety in the nuclear energy industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nuclear Instrumentation and Controls Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nuclear Instrumentation and Controls Technician interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Renewable Energy Project Developer Interview Preparation ! This resource is designed to help you ace your Renewable Energy Project Developer interviews with confidence.
 
+A Renewable Energy Project Developer is a professional responsible for conceptualizing, planning, and executing renewable energy projects. They play a crucial role in the clean energy sector, focusing on the development of sustainable and environmentally friendly energy sources. Their primary objective is to identify, evaluate, and acquire potential project sites suitable for renewable energy installations such as solar, wind, hydro, or geothermal power plants. They collaborate with various stakeholders, including landowners, government agencies, and financial institutions, to secure necessary permits, negotiate contracts, and obtain funding for the projects. Additionally, Renewable Energy Project Developers stay updated on technological advancements, market trends, and regulatory policies to ensure successful project implementation and contribute to a greener future.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Renewable Energy Project Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Renewable Energy Project Developer interviews to help you prepare and succeed.

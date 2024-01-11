@@ -2,6 +2,8 @@
 
 Welcome to the Forest Ranger Interview Preparation ! This resource is designed to help you ace your Forest Ranger interviews with confidence.
 
+Agriculture and Environmental Science is a field that focuses on the study of sustainable practices in agriculture, natural resources management, and environmental conservation. Forestry, a specialized branch within this field, involves the management, conservation, and utilization of forests and their resources. A Forest Ranger, working in this domain, plays a crucial role in safeguarding and managing forest ecosystems. Their responsibilities include monitoring and preventing forest fires, enforcing regulations, conducting surveys, and implementing sustainable forest management practices. Forest Rangers also educate the public about the importance of forests, promote conservation efforts, and contribute to the overall preservation of our natural environment for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forest Ranger or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forest Ranger interviews to help you prepare and succeed.

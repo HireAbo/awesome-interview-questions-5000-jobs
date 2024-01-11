@@ -2,6 +2,8 @@
 
 Welcome to the Experimental Psychologist Interview Preparation ! This resource is designed to help you ace your Experimental Psychologist interviews with confidence.
 
+Experimental psychologists are professionals who specialize in conducting research and experiments to understand human behavior and mental processes. They apply scientific methods to study various aspects of human behavior, such as memory, perception, learning, and motivation. These professionals design and conduct experiments, collect and analyze data, and draw conclusions to contribute to the field's knowledge base. Experimental psychologists often work in academic settings, research institutions, or private organizations. They may collaborate with other researchers, write research papers, and present their findings at conferences. Their work aims to uncover the underlying mechanisms of human behavior and ultimately contribute to improving individuals' lives and society as a whole.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Experimental Psychologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Experimental Psychologist interviews to help you prepare and succeed.

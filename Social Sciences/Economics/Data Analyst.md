@@ -2,6 +2,8 @@
 
 Welcome to the Data Analyst Interview Preparation ! This resource is designed to help you ace your Data Analyst interviews with confidence.
 
+A Data Analyst in the field of Economics is a professional who applies statistical and analytical techniques to interpret and derive meaningful insights from large datasets. They play a crucial role in the decision-making process of businesses, governments, and organizations by analyzing economic data and trends. Data Analysts collect, clean, and organize data from various sources such as surveys, financial records, and databases. They use advanced statistical software and programming languages to analyze data, create models, and develop forecasts. Their expertise helps in understanding market trends, evaluating economic policies, predicting consumer behavior, and assessing the impact of economic factors on businesses and societies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Analyst interviews to help you prepare and succeed.

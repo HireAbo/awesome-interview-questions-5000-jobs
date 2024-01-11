@@ -2,6 +2,8 @@
 
 Welcome to the Merchandising Insights Analyst Interview Preparation ! This resource is designed to help you ace your Merchandising Insights Analyst interviews with confidence.
 
+The role of a Merchandising Insights Analyst in Retail and Sales is critical in driving business growth and profitability. As a Merchandising Insights Analyst, you will be responsible for analyzing sales data, market trends, and consumer behavior to provide valuable insights to merchandising teams. Your main objective will be to identify opportunities for product assortment optimization, pricing strategies, and promotional activities. By utilizing your analytical skills and leveraging various tools and techniques, you will assist in making informed decisions that directly impact sales performance. Your role will require you to collaborate closely with cross-functional teams, including merchandising, marketing, and finance, to drive effective merchandising strategies and maximize sales potential.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Merchandising Insights Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Merchandising Insights Analyst interviews to help you prepare and succeed.

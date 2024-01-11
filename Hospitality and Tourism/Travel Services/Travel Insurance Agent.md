@@ -2,6 +2,8 @@
 
 Welcome to the Travel Insurance Agent Interview Preparation ! This resource is designed to help you ace your Travel Insurance Agent interviews with confidence.
 
+A Travel Insurance Agent plays a vital role in the Hospitality and Tourism industry by providing customers with comprehensive insurance coverage for their travel plans. These professionals are responsible for assessing the individual needs of clients and recommending suitable insurance policies to protect them against unforeseen events such as trip cancellations, medical emergencies, lost baggage, or flight delays. They navigate through a wide range of insurance options and assist customers in understanding the terms and conditions of their policies. With their expertise, Travel Insurance Agents offer peace of mind to travelers and ensure they are adequately protected throughout their journey, enhancing their overall travel experience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Travel Insurance Agent or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Travel Insurance Agent interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Court Reporter Interview Preparation ! This resource is designed to help you ace your Court Reporter interviews with confidence.
 
+A Court Reporter plays a critical role in the field of journalism, specifically within the realm of Communication and Media. As a professional tasked with recording, transcribing, and producing accurate and comprehensive accounts of court proceedings, they serve as a vital link between the judicial system and the public. Through their meticulous note-taking and transcription skills, court reporters ensure that legal proceedings are accurately documented, preserving the integrity of the justice system. They must possess exceptional attention to detail, strong listening skills, and proficiency in stenography or other transcription methods. With their ability to provide timely and accurate information, court reporters contribute to the transparency and accountability of the legal process.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Court Reporter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Court Reporter interviews to help you prepare and succeed.

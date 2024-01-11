@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Investment Sales Interview Preparation ! This resource is designed to help you ace your Real Estate Investment Sales interviews with confidence.
 
+Real Estate and Property Management involves the buying, selling, and leasing of real estate properties, while Real Estate Sales specifically focuses on facilitating the purchase and sale of residential or commercial properties. On the other hand, Real Estate Investment Sales professionals deal with the acquisition and sale of investment properties, such as apartment complexes, office buildings, or retail spaces. These roles require a deep understanding of the local real estate market, negotiation skills, and the ability to connect with clients to meet their specific needs. Real estate professionals in both sales and investment sales play a crucial role in helping individuals and businesses navigate the complex world of real estate transactions for maximizing their investments.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Investment Sales or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Investment Sales interviews to help you prepare and succeed.

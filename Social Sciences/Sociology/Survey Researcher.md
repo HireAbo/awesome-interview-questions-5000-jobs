@@ -2,6 +2,8 @@
 
 Welcome to the Survey Researcher Interview Preparation ! This resource is designed to help you ace your Survey Researcher interviews with confidence.
 
+A survey researcher in the field of sociology plays a vital role in collecting and analyzing data to understand social patterns and trends. They design and conduct surveys, questionnaires, and interviews to gather information from individuals or groups within a population. By utilizing their expertise in survey methodology and statistical analysis, survey researchers are able to extract meaningful insights and identify social behaviors, attitudes, and opinions. They may work in academic institutions, market research firms, government agencies, or non-profit organizations. This profession requires strong analytical and communication skills, as well as the ability to interpret and present data in a clear and concise manner.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Survey Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Survey Researcher interviews to help you prepare and succeed.

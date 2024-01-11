@@ -2,6 +2,8 @@
 
 Welcome to the Child and Family Social Worker Interview Preparation ! This resource is designed to help you ace your Child and Family Social Worker interviews with confidence.
 
+A Child and Family Social Worker is a dedicated professional who provides assistance and support to children and families facing various challenges. They work within the field of Social Work and Human Services, specifically in the area of Family Services. These professionals aim to improve the overall well-being and quality of life for vulnerable children and their families. Their responsibilities often include assessing the needs of families, providing counseling and guidance, coordinating services with other professionals, advocating for children's rights, and ensuring their safety. Child and Family Social Workers play a vital role in addressing issues such as abuse, neglect, behavioral problems, and difficulties in accessing resources, ultimately working towards creating a positive and nurturing environment for children to thrive.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Child and Family Social Worker or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Child and Family Social Worker interviews to help you prepare and succeed.

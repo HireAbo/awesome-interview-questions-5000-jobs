@@ -2,6 +2,8 @@
 
 Welcome to the Demand Forecasting Analyst Interview Preparation ! This resource is designed to help you ace your Demand Forecasting Analyst interviews with confidence.
 
+The role of a Demand Forecasting Analyst in Transportation and Logistics Supply Chain Management is crucial in ensuring an efficient and cost-effective supply chain. As a Demand Forecasting Analyst, your primary responsibility is to analyze historical data, market trends, and customer behavior to predict future demand for products and services. This involves utilizing various statistical models and forecasting techniques to generate accurate demand forecasts. By understanding the demand patterns, you will assist in optimizing inventory levels, improving customer satisfaction, and minimizing costs associated with transportation and warehousing. The Demand Forecasting Analyst plays a pivotal role in ensuring that the right products are available at the right time and in the right quantity, ultimately contributing to the overall success of the supply chain.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Demand Forecasting Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Demand Forecasting Analyst interviews to help you prepare and succeed.

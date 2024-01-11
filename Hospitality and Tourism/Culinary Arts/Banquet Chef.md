@@ -2,6 +2,8 @@
 
 Welcome to the Banquet Chef Interview Preparation ! This resource is designed to help you ace your Banquet Chef interviews with confidence.
 
+A Banquet Chef plays a crucial role in the culinary arts industry within the realm of hospitality and tourism. As a specialized position, the Banquet Chef oversees the planning, preparation, and execution of large-scale meals and events, often catering to large groups or gatherings. They are responsible for creating menus, coordinating with event planners, and ensuring that all food is prepared to the highest standards. Banquet Chefs must possess exceptional culinary skills, creativity, and attention to detail to craft delectable dishes that suit the occasion and satisfy guests' expectations. Their ability to manage a team, work under pressure, and maintain excellent organizational skills are vital to delivering memorable culinary experiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Banquet Chef or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Banquet Chef interviews to help you prepare and succeed.

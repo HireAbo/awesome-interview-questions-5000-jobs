@@ -2,6 +2,8 @@
 
 Welcome to the Exotic Animal Veterinarian Interview Preparation ! This resource is designed to help you ace your Exotic Animal Veterinarian interviews with confidence.
 
+A career in veterinary medicine is dedicated to the health and well-being of animals. Veterinary medicine encompasses various specializations, one of which is exotic animal veterinary medicine. Exotic animal veterinarians specialize in treating and caring for a wide range of non-traditional pets and wildlife, including reptiles, birds, small mammals, and exotic wildlife species. These professionals have in-depth knowledge of the unique anatomy, physiology, and behavior of exotic animals, allowing them to diagnose and treat a diverse range of health issues. They may work in private practices, zoos, wildlife centers, or research institutions, providing comprehensive medical care, performing surgeries, conducting research, and educating owners and the public about the specific needs of exotic animals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Exotic Animal Veterinarian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Exotic Animal Veterinarian interviews to help you prepare and succeed.

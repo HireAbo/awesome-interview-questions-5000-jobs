@@ -2,6 +2,8 @@
 
 Welcome to the Equine Dentist Interview Preparation ! This resource is designed to help you ace your Equine Dentist interviews with confidence.
 
+Veterinary medicine encompasses various specialized fields, one of which is equine dentistry. An equine dentist is a veterinary professional who specializes in the oral health and dental care of horses. This vital aspect of veterinary medicine focuses on maintaining the oral hygiene and addressing any dental issues that horses may encounter. Equine dentists are responsible for identifying and treating dental conditions, such as malocclusions, periodontal disease, and dental fractures. They utilize specialized tools and techniques to perform dental procedures, including routine dental floating, tooth extractions, and corrective treatments. Equine dentists play a crucial role in ensuring the overall health and performance of horses, as dental problems can affect their eating, behavior, and overall well-being.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Equine Dentist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Equine Dentist interviews to help you prepare and succeed.

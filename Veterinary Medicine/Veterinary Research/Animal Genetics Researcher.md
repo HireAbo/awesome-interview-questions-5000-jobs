@@ -2,6 +2,8 @@
 
 Welcome to the Animal Genetics Researcher Interview Preparation ! This resource is designed to help you ace your Animal Genetics Researcher interviews with confidence.
 
+Veterinary Medicine encompasses a wide range of specialties, one of which is Veterinary Research. Within this field, Animal Genetics Researcher is a crucial role that focuses on studying genetic traits and diseases in animals. These professionals conduct extensive research to understand the genetic makeup of various animal species, aiming to improve animal health, breeding, and overall welfare. Animal Genetics Researchers work closely with veterinarians, geneticists, and other scientists to identify and analyze genetic markers, develop new diagnostic techniques, and explore potential treatments for genetic disorders. Their research findings contribute to advancements in animal breeding programs, conservation efforts, and the development of targeted therapies to enhance animal health and well-being.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Animal Genetics Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Animal Genetics Researcher interviews to help you prepare and succeed.

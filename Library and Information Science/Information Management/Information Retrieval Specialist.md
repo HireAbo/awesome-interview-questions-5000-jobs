@@ -2,6 +2,8 @@
 
 Welcome to the Information Retrieval Specialist Interview Preparation ! This resource is designed to help you ace your Information Retrieval Specialist interviews with confidence.
 
+A Library and Information Science professional specializing in Information Management focuses on organizing, storing, and retrieving information efficiently. They are responsible for developing and implementing systems to classify and categorize various sources of information, such as books, articles, and digital content. An Information Retrieval Specialist plays a crucial role in ensuring that information is easily accessible and searchable. They possess expertise in utilizing advanced search techniques and tools to retrieve relevant information quickly. This job requires strong analytical skills, attention to detail, and the ability to stay up-to-date with emerging technologies and information management trends. Information Retrieval Specialists are essential in today's information-driven society, aiding in efficient knowledge dissemination and decision-making processes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Information Retrieval Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Information Retrieval Specialist interviews to help you prepare and succeed.

@@ -2,6 +2,12 @@
 
 Welcome to the Quantitative Analyst (Quant) Interview Preparation ! This resource is designed to help you ace your Quantitative Analyst (Quant) interviews with confidence.
 
+Information Technology (IT) is the field that deals with the use and management of computer systems, networks, and databases to store, process, and transmit information. It encompasses a wide range of technologies and practices, including software development, data management, cybersecurity, and network administration.
+
+Data Science is a multidisciplinary field that combines computer science, statistics, and domain expertise to extract knowledge and insights from large and complex datasets. Data scientists use various tools and techniques, such as data mining, machine learning, and statistical analysis, to uncover patterns, make predictions, and solve complex problems.
+
+A Quantitative Analyst (Quant) is a specialized role within the field of data science that focuses on developing and implementing mathematical models and algorithms to analyze financial data and assist in making investment decisions. Quants use their strong analytical and mathematical skills to develop trading strategies, risk assessment models, and pricing models for financial instruments. They work closely with traders, portfolio managers, and other stakeholders to provide quantitative insights and support decision-making processes in the financial industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Quantitative Analyst (Quant) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Quantitative Analyst (Quant) interviews to help you prepare and succeed.

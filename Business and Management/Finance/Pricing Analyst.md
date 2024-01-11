@@ -2,6 +2,8 @@
 
 Welcome to the Pricing Analyst Interview Preparation ! This resource is designed to help you ace your Pricing Analyst interviews with confidence.
 
+A Pricing Analyst is a crucial role within the field of Business and Management, specifically in Finance. This job entails analyzing and determining optimal pricing strategies for products or services offered by a company. Pricing Analysts are responsible for conducting market research, evaluating data, and identifying pricing trends to develop pricing models that maximize profitability and competitiveness. They collaborate with various teams such as sales, marketing, and finance to ensure pricing decisions align with business goals and objectives. Additionally, Pricing Analysts monitor market conditions, competitor pricing strategies, and customer behavior to make informed pricing recommendations. This role requires strong analytical skills, attention to detail, and the ability to interpret complex data to drive effective pricing decisions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Pricing Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Pricing Analyst interviews to help you prepare and succeed.

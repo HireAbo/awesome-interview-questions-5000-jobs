@@ -2,6 +2,8 @@
 
 Welcome to the Library Aide Interview Preparation ! This resource is designed to help you ace your Library Aide interviews with confidence.
 
+Library and Information Science is an interdisciplinary field that focuses on the organization, management, and dissemination of information in various formats. Librarianship, a key aspect of this field, involves the provision of library services and resources to meet the needs of users. A Library Aide plays a vital role in supporting librarians in their day-to-day tasks. They assist in the maintenance of library collections, check materials in and out, shelve books, and help patrons locate resources. Additionally, Library Aides often provide basic reference assistance and help with computer-related issues. This entry-level position serves as a stepping stone for individuals interested in pursuing a career in Library and Information Science.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Library Aide or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Library Aide interviews to help you prepare and succeed.

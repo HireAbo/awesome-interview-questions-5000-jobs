@@ -2,6 +2,8 @@
 
 Welcome to the Drug Enforcement Agent Interview Preparation ! This resource is designed to help you ace your Drug Enforcement Agent interviews with confidence.
 
+A Drug Enforcement Agent (DEA) is a law enforcement professional responsible for investigating and combating illegal drug trafficking and drug-related crimes. These agents work within the criminal justice system to enforce federal drug laws and regulations. Their primary objective is to dismantle drug cartels, disrupt drug smuggling operations, and apprehend individuals involved in the production, distribution, and sale of illegal drugs. DEA agents conduct extensive investigations, surveillance, and undercover operations to gather evidence against drug traffickers. They collaborate with other law enforcement agencies, both nationally and internationally, to gather intelligence and coordinate efforts to combat drug-related crimes. DEA agents play a crucial role in safeguarding public safety and protecting communities from the harmful effects of illicit drugs.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Drug Enforcement Agent or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Drug Enforcement Agent interviews to help you prepare and succeed.

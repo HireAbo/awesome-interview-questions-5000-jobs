@@ -2,6 +2,8 @@
 
 Welcome to the Energy Demand Planner Interview Preparation ! This resource is designed to help you ace your Energy Demand Planner interviews with confidence.
 
+Energy demand planners play a crucial role in the field of energy engineering within the energy and utilities sector. As an energy demand planner, their primary responsibility is to analyze and forecast energy requirements and consumption patterns. They utilize complex mathematical models and statistical techniques to determine the energy demand and create energy management strategies accordingly. These professionals work closely with energy suppliers, regulators, and consumers to ensure the efficient utilization of energy resources. Additionally, energy demand planners also contribute to the development of sustainable energy solutions and the implementation of energy-saving initiatives. Their expertise is vital in meeting the growing energy demands while minimizing environmental impact and maximizing cost-effectiveness.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Energy Demand Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Energy Demand Planner interviews to help you prepare and succeed.

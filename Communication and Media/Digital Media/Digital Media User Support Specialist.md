@@ -2,6 +2,8 @@
 
 Welcome to the Digital Media User Support Specialist Interview Preparation ! This resource is designed to help you ace your Digital Media User Support Specialist interviews with confidence.
 
+A Digital Media User Support Specialist is a professional responsible for providing technical assistance and guidance to users of digital media platforms and tools. They possess a deep understanding of various digital media technologies, such as social media, websites, mobile apps, and multimedia content creation software. Their role involves troubleshooting and resolving technical issues faced by users, ensuring smooth operation of digital media systems, and optimizing user experience. Additionally, they may create user guides, conduct training sessions, and collaborate with other teams to improve digital media services. Strong communication, problem-solving, and customer service skills are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Digital Media User Support Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Digital Media User Support Specialist interviews to help you prepare and succeed.

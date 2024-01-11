@@ -2,6 +2,8 @@
 
 Welcome to the Research Sociologist Interview Preparation ! This resource is designed to help you ace your Research Sociologist interviews with confidence.
 
+A research sociologist is a professional who specializes in conducting scientific studies and investigations within the field of sociology. They are responsible for designing, implementing, and analyzing research projects that aim to understand human behavior, social structures, and cultural phenomena. Research sociologists actively contribute to the development of sociological theories and concepts by collecting and interpreting data from various sources, such as surveys, interviews, and observations. They work closely with other sociologists, researchers, and scholars to explore societal issues, identify patterns and trends, and propose solutions for social problems. Research sociologists play a crucial role in advancing our understanding of society and informing policy-making decisions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Research Sociologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Research Sociologist interviews to help you prepare and succeed.

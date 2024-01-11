@@ -2,6 +2,8 @@
 
 Welcome to the Test Engineer Interview Preparation ! This resource is designed to help you ace your Test Engineer interviews with confidence.
 
+A Test Engineer in the field of Electrical Engineering plays a vital role in ensuring the quality and functionality of electrical systems, components, and products. Test Engineers work on designing, implementing, and conducting tests to evaluate electrical circuits, devices, and systems according to industry standards and specifications. They develop and execute test plans, perform troubleshooting, and analyze test results to identify any issues or defects. Test Engineers also collaborate with design engineers to provide feedback and suggest improvements in the design and manufacturing processes to enhance product performance. They possess strong technical skills, attention to detail, and problem-solving abilities to ensure the reliability and safety of electrical systems and products.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Test Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Test Engineer interviews to help you prepare and succeed.

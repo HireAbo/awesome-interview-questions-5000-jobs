@@ -2,6 +2,8 @@
 
 Welcome to the Medical Physicist Interview Preparation ! This resource is designed to help you ace your Medical Physicist interviews with confidence.
 
+A medical physicist is a professional who specializes in the application of physics principles to the field of medicine. They are responsible for ensuring the safe and effective use of radiation in diagnosis and treatment of patients. Medical physicists work closely with healthcare professionals, such as radiologists and radiation oncologists, to develop and implement radiation therapy treatment plans. They perform quality assurance tests on medical equipment, such as X-ray machines and linear accelerators, to ensure accurate delivery of radiation doses. Additionally, they conduct research to improve and develop new techniques in medical imaging and radiation therapy, enhancing the overall patient care experience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Medical Physicist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Medical Physicist interviews to help you prepare and succeed.

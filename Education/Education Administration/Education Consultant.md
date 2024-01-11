@@ -2,6 +2,8 @@
 
 Welcome to the Education Consultant Interview Preparation ! This resource is designed to help you ace your Education Consultant interviews with confidence.
 
+Education Consultants play a pivotal role in the field of Education Administration. Their main responsibility is to provide expert advice and guidance to educational institutions, administrators, and teachers. These professionals possess in-depth knowledge of educational policies, practices, and curriculum development. They are equipped with strong analytical skills to assess and identify areas for improvement in educational programs. Education Consultants also conduct research, collect data, and analyze educational trends to ensure institutions are at the forefront of advancements in teaching and learning. They collaborate with school leaders and staff to develop strategic plans, implement effective educational practices, and enhance student outcomes. Education Consultants are instrumental in shaping the future of education by fostering excellence and innovation in the field.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Education Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Education Consultant interviews to help you prepare and succeed.

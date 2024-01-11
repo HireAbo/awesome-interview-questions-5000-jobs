@@ -2,6 +2,8 @@
 
 Welcome to the Service Manager Interview Preparation ! This resource is designed to help you ace your Service Manager interviews with confidence.
 
+The Service Manager job in the field of auto mechanics is a crucial role that combines technical expertise with managerial skills. As a Service Manager, you are responsible for overseeing the operations of an auto repair shop or dealership service department. Your primary goal is to ensure the smooth and efficient running of the service department, while delivering exceptional customer service. This involves managing a team of technicians, assigning work orders, scheduling appointments, and ensuring quality control. Additionally, you are responsible for maintaining inventory, ordering parts, and adhering to safety regulations. A Service Manager must possess excellent communication, leadership, and problem-solving skills to excel in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Service Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Service Manager interviews to help you prepare and succeed.

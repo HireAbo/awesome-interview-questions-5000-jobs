@@ -2,6 +2,8 @@
 
 Welcome to the Educational Materials Developer Interview Preparation ! This resource is designed to help you ace your Educational Materials Developer interviews with confidence.
 
+An educational materials developer is an essential role within the field of curriculum development. These professionals are responsible for creating and designing educational materials that align with curriculum objectives and educational standards. They collaborate with educators and subject matter experts to identify learning needs and develop engaging and effective teaching resources. Educational materials developers use their expertise in instructional design, multimedia production, and content creation to create a wide range of materials such as textbooks, workbooks, lesson plans, and digital resources. Their goal is to ensure that educational materials are engaging, accurate, and relevant, enabling educators to deliver high-quality instruction and enhance student learning outcomes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Educational Materials Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Educational Materials Developer interviews to help you prepare and succeed.

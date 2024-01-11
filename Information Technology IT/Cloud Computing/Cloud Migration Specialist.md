@@ -2,6 +2,8 @@
 
 Welcome to the Cloud Migration Specialist Interview Preparation ! This resource is designed to help you ace your Cloud Migration Specialist interviews with confidence.
 
+A Cloud Migration Specialist is a professional who specializes in assisting organizations in migrating their systems and applications to cloud-based platforms. As businesses increasingly adopt cloud computing technology, these specialists play a critical role in ensuring a smooth and efficient transition. Their responsibilities include analyzing existing infrastructure, designing migration plans, and implementing cloud solutions. Cloud Migration Specialists possess a deep understanding of various cloud service providers, such as Amazon Web Services (AWS), Microsoft Azure, and Google Cloud, and are skilled in utilizing their features and capabilities. They also have expertise in data security, scalability, and cost optimization strategies, enabling organizations to harness the full potential of cloud computing for improved efficiency and competitiveness.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cloud Migration Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cloud Migration Specialist interviews to help you prepare and succeed.

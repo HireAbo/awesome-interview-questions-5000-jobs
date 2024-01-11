@@ -2,6 +2,8 @@
 
 Welcome to the Front-End Architect Interview Preparation ! This resource is designed to help you ace your Front-End Architect interviews with confidence.
 
+A Front-End Architect is a key role in the field of Information Technology (IT) and Software Development. As a Front-End Architect, your primary responsibility is to design and implement the user interface of software applications. You play a crucial role in creating visually appealing and user-friendly websites or applications by utilizing your expertise in programming languages such as HTML, CSS, and JavaScript. Additionally, you have a deep understanding of user experience (UX) principles and work closely with designers and back-end developers to ensure seamless integration of the front-end with the back-end functionalities. Your role as a Front-End Architect requires strong problem-solving skills, attention to detail, and an ability to stay updated with the latest technologies and trends in web development.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Front-End Architect or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Front-End Architect interviews to help you prepare and succeed.

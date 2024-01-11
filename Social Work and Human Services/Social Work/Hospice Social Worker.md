@@ -2,6 +2,8 @@
 
 Welcome to the Hospice Social Worker Interview Preparation ! This resource is designed to help you ace your Hospice Social Worker interviews with confidence.
 
+A Hospice Social Worker is an integral part of the social work profession within the field of social work and human services. Their primary role is to provide compassionate support and guidance to terminally ill patients and their families during the end-of-life journey. These professionals work closely with patients in hospice care, addressing their emotional, psychological, and social needs. They engage in active listening, assess psychosocial concerns, and develop individualized care plans to enhance quality of life. Hospice social workers also collaborate with interdisciplinary teams, including medical staff and counselors, to ensure holistic care. Their ultimate goal is to promote dignity, comfort, and a peaceful transition for patients and their loved ones during this challenging time.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Hospice Social Worker or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Hospice Social Worker interviews to help you prepare and succeed.

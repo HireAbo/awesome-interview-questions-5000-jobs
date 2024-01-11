@@ -2,6 +2,8 @@
 
 Welcome to the Aquatic Physical Therapist Interview Preparation ! This resource is designed to help you ace your Aquatic Physical Therapist interviews with confidence.
 
+An Aquatic Physical Therapist plays a crucial role in the field of healthcare and medicine, specifically in the realm of physical therapy. With a focus on utilizing water as a therapeutic medium, these professionals provide specialized care to patients with various musculoskeletal, neurological, and cardiopulmonary conditions. By incorporating hydrotherapy techniques, Aquatic Physical Therapists aim to enhance mobility, reduce pain, and improve overall physical function. They design and implement individualized treatment plans that include exercises and activities performed in a pool setting. With a deep understanding of anatomy, physiology, and biomechanics, these therapists possess the skills necessary to effectively assess, diagnose, and treat a diverse range of patients, promoting their overall well-being and quality of life.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Aquatic Physical Therapist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Aquatic Physical Therapist interviews to help you prepare and succeed.

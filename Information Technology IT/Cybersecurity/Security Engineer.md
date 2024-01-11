@@ -2,6 +2,8 @@
 
 Welcome to the Security Engineer Interview Preparation ! This resource is designed to help you ace your Security Engineer interviews with confidence.
 
+Information Technology (IT) is a broad field that encompasses the use and management of technology to store, transmit, and retrieve information. Within this field, Cybersecurity plays a critical role in safeguarding data and systems from unauthorized access, attacks, and breaches. A Security Engineer is a professional responsible for ensuring the security of an organization's digital assets. This involves developing, implementing, and maintaining robust security measures, such as firewalls, encryption protocols, and intrusion detection systems. Security Engineers also conduct regular vulnerability assessments, risk analysis, and incident response to identify and mitigate potential threats. Their expertise is essential in protecting sensitive information and maintaining the integrity of an organization's IT infrastructure.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Security Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Security Engineer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Energy Sustainability Officer Interview Preparation ! This resource is designed to help you ace your Energy Sustainability Officer interviews with confidence.
 
+An Energy Sustainability Officer is a professional responsible for promoting and implementing sustainable energy practices within a company or organization. In the field of Renewable Energy, their main role is to develop and oversee strategies that increase energy efficiency, reduce carbon emissions, and promote the use of renewable energy sources. They conduct energy audits, analyze data, and identify opportunities for improvement in energy consumption and waste management. Additionally, they collaborate with stakeholders to develop and implement sustainable energy policies, educate employees on energy conservation practices, and ensure compliance with relevant regulations. Their ultimate goal is to drive the transition towards a greener and more sustainable energy future.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Energy Sustainability Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Energy Sustainability Officer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Banquet Manager Interview Preparation ! This resource is designed to help you ace your Banquet Manager interviews with confidence.
 
+A Banquet Manager plays a crucial role in the field of Hospitality and Tourism, specifically in Hotel Management. As a Banquet Manager, their primary responsibility is to oversee all aspects of planning and executing banquets, conferences, weddings, and other special events held within the hotel. They coordinate with clients to understand their event requirements, create event proposals, and negotiate contracts. Additionally, they manage budgets, supervise event staff, ensure proper set-up and decoration, and ensure the seamless execution of events. A Banquet Manager must possess excellent organizational and communication skills, have a keen eye for detail, and be able to handle high-pressure situations with grace and professionalism.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Banquet Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Banquet Manager interviews to help you prepare and succeed.

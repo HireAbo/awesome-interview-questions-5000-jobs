@@ -2,6 +2,8 @@
 
 Welcome to the Electrician Interview Preparation ! This resource is designed to help you ace your Electrician interviews with confidence.
 
+An electrician is a skilled professional who specializes in installing, maintaining, and repairing electrical systems and equipment. As part of the field of electrical engineering, electricians play a crucial role in ensuring the efficient and safe flow of electricity in various settings. They are responsible for interpreting technical blueprints, planning and executing electrical wiring installations, and troubleshooting electrical malfunctions. Electricians are also well-versed in handling electrical equipment such as transformers, generators, and circuit breakers. They adhere to strict safety protocols and codes to prevent electrical hazards, making their expertise indispensable in residential, commercial, and industrial settings. With their expertise, electricians contribute significantly to the development and sustainability of electrical infrastructures.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Electrician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Electrician interviews to help you prepare and succeed.

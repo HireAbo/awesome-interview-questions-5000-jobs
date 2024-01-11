@@ -2,6 +2,8 @@
 
 Welcome to the Air Traffic Control Supervisor Interview Preparation ! This resource is designed to help you ace your Air Traffic Control Supervisor interviews with confidence.
 
+The field of Aviation and Aerospace is an exciting and dynamic industry that involves the design, development, and operation of aircraft and spacecraft. Within this industry, Air Traffic Control (ATC) plays a crucial role in ensuring the safe and efficient movement of aircraft. An Air Traffic Control Supervisor is a key position within the ATC system, responsible for overseeing and coordinating the activities of air traffic controllers. They ensure compliance with regulations, manage airspace congestion, and respond to emergencies. Moreover, they provide guidance and support to controllers, monitor air traffic flow, and maintain effective communication with pilots and other stakeholders. A high level of situational awareness, strong decision-making skills, and excellent communication abilities are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Air Traffic Control Supervisor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Air Traffic Control Supervisor interviews to help you prepare and succeed.

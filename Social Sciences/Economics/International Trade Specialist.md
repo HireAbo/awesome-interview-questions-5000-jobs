@@ -2,6 +2,8 @@
 
 Welcome to the International Trade Specialist Interview Preparation ! This resource is designed to help you ace your International Trade Specialist interviews with confidence.
 
+A International Trade Specialist is a professional who specializes in the field of economics, specifically in international trade. They play a crucial role in analyzing and evaluating the economic impacts of international trade policies and agreements. These specialists are responsible for conducting research, collecting data, and monitoring global economic trends to identify potential opportunities and risks for businesses and governments engaged in international trade. They also provide advice and recommendations on trade policies, tariffs, and regulations to optimize trade outcomes and foster economic growth. International Trade Specialists often work closely with government agencies, trade associations, and businesses to facilitate and negotiate trade agreements, resolve trade disputes, and promote fair and sustainable trade practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned International Trade Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in International Trade Specialist interviews to help you prepare and succeed.

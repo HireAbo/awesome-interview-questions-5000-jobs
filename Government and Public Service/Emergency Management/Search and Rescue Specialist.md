@@ -2,6 +2,8 @@
 
 Welcome to the Search and Rescue Specialist Interview Preparation ! This resource is designed to help you ace your Search and Rescue Specialist interviews with confidence.
 
+A Search and Rescue Specialist is a specialized role within the field of Emergency Management. These professionals work closely with government agencies and public service organizations to respond to emergencies and disasters. Their primary responsibility is to locate and rescue individuals who are lost, missing, or trapped in hazardous situations. Search and Rescue Specialists possess exceptional physical fitness, survival skills, and knowledge of search techniques. They are trained in various rescue methods, such as land, water, and air rescues. These individuals play a crucial role in ensuring public safety and are often deployed to remote or high-risk areas to save lives and provide immediate assistance during critical situations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Search and Rescue Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Search and Rescue Specialist interviews to help you prepare and succeed.

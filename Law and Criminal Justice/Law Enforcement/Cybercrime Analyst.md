@@ -2,6 +2,10 @@
 
 Welcome to the Cybercrime Analyst Interview Preparation ! This resource is designed to help you ace your Cybercrime Analyst interviews with confidence.
 
+A Cybercrime Analyst is a crucial role within the field of law enforcement and cybercrime investigation. These professionals specialize in analyzing and investigating cybercrimes, such as hacking, identity theft, and online fraud. They work closely with law enforcement agencies and organizations to identify, track, and apprehend cybercriminals. 
+
+Cybercrime Analysts possess a deep understanding of computer systems, networks, and digital forensic techniques. They use their expertise to gather evidence, conduct digital investigations, and develop strategies to prevent cybercrimes. These professionals must stay updated with the latest advancements in technology and cyber threats to effectively combat cybercriminal activities. With their analytical skills, attention to detail, and knowledge of legal procedures, Cybercrime Analysts play a vital role in ensuring cybercriminals are brought to justice and protecting individuals, organizations, and governments from the growing threat of cybercrime.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cybercrime Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cybercrime Analyst interviews to help you prepare and succeed.

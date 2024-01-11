@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Compliance Specialist Interview Preparation ! This resource is designed to help you ace your Environmental Compliance Specialist interviews with confidence.
 
+An Environmental Compliance Specialist is a professional who plays a vital role in ensuring that businesses and organizations comply with environmental regulations and policies. They are responsible for monitoring and assessing the impact of human activities on the environment and developing strategies to minimize negative effects. This involves conducting research and analysis to identify potential environmental risks, implementing measures to address these risks, and providing guidance and education to ensure compliance with environmental laws. Environmental Compliance Specialists work closely with government agencies, businesses, and other stakeholders to promote sustainable practices and protect the environment. Their work is crucial in maintaining a balance between economic development and environmental preservation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Compliance Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Compliance Specialist interviews to help you prepare and succeed.

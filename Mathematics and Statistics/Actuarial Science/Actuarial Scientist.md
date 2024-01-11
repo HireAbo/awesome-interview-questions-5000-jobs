@@ -2,6 +2,8 @@
 
 Welcome to the Actuarial Scientist Interview Preparation ! This resource is designed to help you ace your Actuarial Scientist interviews with confidence.
 
+Mathematics and Statistics are two interrelated disciplines that deal with the study of numbers, patterns, and data. They provide a foundation for Actuarial Science, a specialized field that combines mathematical and statistical principles to assess and mitigate risks in the insurance and financial industries. Actuarial Science involves analyzing complex data sets, developing mathematical models, and using statistical techniques to predict future events and their financial impact. Actuarial Scientists play a crucial role in helping organizations make informed decisions by assessing and managing risks related to insurance policies, pensions, investments, and other financial products. They possess strong analytical and problem-solving skills, as well as advanced knowledge in probability theory, calculus, and statistics.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Actuarial Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Actuarial Scientist interviews to help you prepare and succeed.

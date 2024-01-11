@@ -2,6 +2,8 @@
 
 Welcome to the Market Research Analyst Interview Preparation ! This resource is designed to help you ace your Market Research Analyst interviews with confidence.
 
+A Market Research Analyst job within the field of Sociology falls under the umbrella of Social Sciences. This role involves studying and analyzing the behavior, trends, and preferences of consumers in order to assist businesses in making informed decisions about their products or services. Market research analysts gather data through surveys, interviews, and focus groups, and then use statistical techniques to interpret and analyze the information. They work closely with businesses and organizations to identify target markets, assess competitors, and develop effective marketing strategies. This job requires strong analytical skills, attention to detail, and the ability to communicate findings and recommendations effectively. Market Research Analysts play a crucial role in shaping the success of businesses in today's competitive market.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Market Research Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Market Research Analyst interviews to help you prepare and succeed.

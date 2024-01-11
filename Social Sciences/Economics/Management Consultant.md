@@ -2,6 +2,8 @@
 
 Welcome to the Management Consultant Interview Preparation ! This resource is designed to help you ace your Management Consultant interviews with confidence.
 
+A management consultant is a professional who provides expert advice and assistance to organizations in improving their overall performance and efficiency. Within the field of social sciences, specifically economics, management consultants play a crucial role in assisting businesses in various areas such as strategy development, organizational design, operational improvement, and change management. They analyze complex business problems, conduct research, and gather data to identify opportunities for improvement and growth. Management consultants often collaborate with diverse teams, including executives, managers, and employees, to develop and implement effective solutions. Through their expertise and recommendations, management consultants strive to optimize organizations' performance, enhance productivity, and drive sustainable success in the ever-evolving business landscape.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Management Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Management Consultant interviews to help you prepare and succeed.

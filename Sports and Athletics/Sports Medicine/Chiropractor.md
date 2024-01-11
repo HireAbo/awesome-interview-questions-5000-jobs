@@ -2,6 +2,8 @@
 
 Welcome to the Chiropractor Interview Preparation ! This resource is designed to help you ace your Chiropractor interviews with confidence.
 
+Sports and Athletics encompass a wide range of physical activities, from team sports like soccer and basketball to individual pursuits like running and swimming. With the popularity and intensity of these activities, injuries are bound to occur. This is where Sports Medicine professionals, specifically Chiropractors, come into play. Chiropractors specializing in Sports Medicine focus on diagnosing, treating, and preventing injuries related to sports and physical activities. They utilize manual adjustment techniques, rehabilitative exercises, and other therapies to restore musculoskeletal function and alleviate pain. Chiropractors play a crucial role in helping athletes recover from injuries, improve performance, and maintain optimal physical health to excel in their respective sports.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Chiropractor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Chiropractor interviews to help you prepare and succeed.

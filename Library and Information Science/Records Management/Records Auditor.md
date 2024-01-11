@@ -2,18 +2,20 @@
 
 Welcome to the Records Auditor Interview Preparation ! This resource is designed to help you ace your Records Auditor interviews with confidence.
 
+Library and Information Science (LIS) is a multidisciplinary field that focuses on the organization, management, and dissemination of information. Within LIS, one area of specialization is Records Management, which involves the systematic control and administration of records throughout their lifecycle. A vital role within Records Management is the Records Auditor. As a Records Auditor, professionals are responsible for evaluating the accuracy, integrity, and compliance of records within an organization. They conduct audits, assess recordkeeping practices, and identify areas for improvement. Records Auditors ensure that records are maintained in accordance with legal and regulatory requirements, as well as industry best practices. Their expertise in evaluating and managing records is crucial for maintaining the efficiency and accountability of organizations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Records Auditor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Records Auditor interviews to help you prepare and succeed.
 
 ## 📝 Sample Questions
 
-1. Can you explain the role of a records auditor in the context of library and information science?
-2. What are the key responsibilities of a records auditor?
-3. How do you ensure compliance with records management policies and procedures?
-4. What steps do you follow to conduct a records audit?
-5. How do you identify potential risks or gaps in records management systems?
-6. [CLICK HERE FOR MORE QUESTIONS](https://hireabo.com/job/18_3_25/Records%20Auditor)
+1. Can you explain what records management entails and its importance in a library setting?
+2. How familiar are you with library policies and procedures related to records management?
+3. What experience do you have in conducting records audits?
+4. Can you discuss your understanding of the legal requirements and regulations surrounding records management in libraries?
+5. Have you worked with any records management software or systems? If yes, please provide examples.
+6. [CLICK HERE FOR MORE QUESTIONS](https://hireabo.com/job/18_3_14/Records%20Auditor)
 
 ## 🌐 Explore Further
 

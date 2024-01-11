@@ -2,6 +2,8 @@
 
 Welcome to the Retail Social Media Manager Interview Preparation ! This resource is designed to help you ace your Retail Social Media Manager interviews with confidence.
 
+A Retail Social Media Manager is a professional responsible for overseeing the social media presence of a retail organization. They play a crucial role in developing and implementing strategies to enhance brand visibility, engage customers, and drive sales through various social media platforms. This role requires a deep understanding of retail management and sales principles, as well as strong creative and analytical skills. A Retail Social Media Manager must be proficient in creating and curating compelling content, monitoring social media trends, managing online communities, and measuring the effectiveness of social media campaigns. They collaborate with cross-functional teams to ensure a seamless customer experience and contribute to the overall success of the retail business.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Retail Social Media Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Retail Social Media Manager interviews to help you prepare and succeed.

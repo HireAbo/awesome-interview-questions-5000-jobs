@@ -2,6 +2,8 @@
 
 Welcome to the Legislation Drafter Interview Preparation ! This resource is designed to help you ace your Legislation Drafter interviews with confidence.
 
+A Legislation Drafter is a critical role within the field of Political Science, specifically in the realm of Social Sciences. These professionals are responsible for creating, drafting, and proposing legislation that shapes and influences government policies and laws. Their work involves extensive research, analysis, and interpretation of existing laws and regulations, as well as staying updated on current social, political, and economic issues. Legislation drafters collaborate with policymakers, government officials, and stakeholders to understand their needs and objectives, ensuring that the proposed legislation aligns with the intended goals. Strong communication, analytical thinking, and legal expertise are essential skills for individuals pursuing a career as a Legislation Drafter in Political Science.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Legislation Drafter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Legislation Drafter interviews to help you prepare and succeed.

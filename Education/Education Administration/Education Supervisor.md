@@ -2,6 +2,8 @@
 
 Welcome to the Education Supervisor Interview Preparation ! This resource is designed to help you ace your Education Supervisor interviews with confidence.
 
+An Education Supervisor plays a crucial role in overseeing and managing the educational programs and policies within an educational institution. They are responsible for ensuring that the curriculum and teaching methods align with educational standards and goals. Education Supervisors also collaborate with teachers and staff to develop and implement effective strategies for student success. They provide guidance and support to teachers, evaluating their performance and providing professional development opportunities. Additionally, Education Supervisors work closely with parents and community stakeholders to ensure a positive and inclusive learning environment. Their ultimate goal is to enhance the quality of education and promote academic achievement for all students.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Education Supervisor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Education Supervisor interviews to help you prepare and succeed.

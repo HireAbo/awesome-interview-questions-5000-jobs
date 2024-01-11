@@ -2,6 +2,8 @@
 
 Welcome to the Statistical Curriculum Consultant Interview Preparation ! This resource is designed to help you ace your Statistical Curriculum Consultant interviews with confidence.
 
+A Statistical Curriculum Consultant is responsible for designing and developing the curriculum for courses related to statistics. This role requires a deep understanding of both mathematics and statistics, as well as strong analytical and problem-solving abilities. The consultant works closely with educational institutions, organizations, or individuals to assess their needs and create a tailored curriculum that aligns with their goals and objectives. They also stay up-to-date with the latest advancements in the field of statistics to ensure that the curriculum remains relevant and comprehensive. The ultimate goal of a Statistical Curriculum Consultant is to equip students with the necessary knowledge and skills to analyze data effectively and make informed decisions based on statistical analysis.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Statistical Curriculum Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Statistical Curriculum Consultant interviews to help you prepare and succeed.

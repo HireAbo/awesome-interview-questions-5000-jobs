@@ -2,6 +2,8 @@
 
 Welcome to the Policy Analyst Interview Preparation ! This resource is designed to help you ace your Policy Analyst interviews with confidence.
 
+A Policy Analyst in the field of Sociology within Social Sciences is a professional who critically examines social issues and develops recommendations for policy interventions. By studying various social phenomena, such as inequality, poverty, crime, education, and healthcare, they provide valuable insights on how policies can be formulated or revised to address these challenges effectively. Policy Analysts utilize their expertise in research methodologies, data analysis, and theoretical frameworks to assess the impact of policies on different social groups and propose evidence-based solutions. They work closely with policymakers, government agencies, and non-profit organizations to develop, implement, and evaluate policies that promote social justice, equality, and overall societal well-being.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Policy Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Policy Analyst interviews to help you prepare and succeed.

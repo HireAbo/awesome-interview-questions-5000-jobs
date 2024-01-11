@@ -2,6 +2,8 @@
 
 Welcome to the Renewable Energy Engineer Interview Preparation ! This resource is designed to help you ace your Renewable Energy Engineer interviews with confidence.
 
+A Renewable Energy Engineer plays a crucial role in the field of Energy and Utilities, specifically in the area of Renewable Energy. These professionals are responsible for designing, developing, and implementing sustainable energy systems. They work towards reducing environmental impact by utilizing renewable energy sources such as solar, wind, hydro, and geothermal power. Renewable Energy Engineers conduct feasibility studies, analyze energy performance, and create innovative solutions to maximize energy efficiency. They collaborate with various stakeholders including government bodies, utility companies, and contractors to ensure the successful integration of renewable energy systems. With a strong focus on sustainability and environmental stewardship, Renewable Energy Engineers are at the forefront of shaping a greener future for our planet.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Renewable Energy Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Renewable Energy Engineer interviews to help you prepare and succeed.

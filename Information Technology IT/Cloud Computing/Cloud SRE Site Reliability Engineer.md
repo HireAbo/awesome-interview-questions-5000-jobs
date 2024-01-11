@@ -2,6 +2,10 @@
 
 Welcome to the Cloud SRE (Site Reliability Engineer) Interview Preparation ! This resource is designed to help you ace your Cloud SRE (Site Reliability Engineer) interviews with confidence.
 
+Information Technology (IT) encompasses the use and management of computer systems, hardware, software, networks, and data to support various organizational functions. One significant aspect of IT is Cloud Computing, which involves the delivery of computing resources, such as storage, servers, databases, and software applications, over the internet. Cloud Computing offers numerous benefits, including scalability, flexibility, cost-efficiency, and improved accessibility.
+
+Within the realm of Cloud Computing, Cloud SRE (Site Reliability Engineer) plays a crucial role. A Cloud SRE is responsible for ensuring the reliability, performance, and availability of cloud-based systems and services. They work collaboratively with software developers and system administrators to design, implement, and maintain cloud infrastructure. Their duties involve monitoring system performance, identifying and resolving issues, implementing automation tools, optimizing resource utilization, and continuously improving system reliability. Cloud SREs play a vital role in enabling organizations to achieve seamless and reliable cloud operations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cloud SRE (Site Reliability Engineer) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cloud SRE (Site Reliability Engineer) interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Geriatric Nurse Interview Preparation ! This resource is designed to help you ace your Geriatric Nurse interviews with confidence.
 
+A Geriatric Nurse is a specialized healthcare professional who provides medical care and support to elderly patients. They possess extensive knowledge and skills in geriatric care, addressing the unique needs and challenges faced by older adults. Geriatric Nurses work closely with physicians, therapists, and other healthcare professionals to develop and implement individualized care plans. They are responsible for monitoring patients' health conditions, administering medications, managing chronic illnesses, and providing emotional support to patients and their families. Additionally, they play a vital role in promoting preventive care and educating patients and their families on healthy aging practices. Geriatric Nurses are compassionate, patient-centered, and dedicated to enhancing the quality of life for older adults.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Geriatric Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Geriatric Nurse interviews to help you prepare and succeed.

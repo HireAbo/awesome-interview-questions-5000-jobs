@@ -2,6 +2,8 @@
 
 Welcome to the Travel Consultant Interview Preparation ! This resource is designed to help you ace your Travel Consultant interviews with confidence.
 
+A Travel Consultant is an integral part of the Hospitality and Tourism industry, specializing in providing exceptional travel services to clients. They are responsible for assisting individuals or groups in planning and organizing their travel arrangements, ensuring a seamless and memorable experience. Travel Consultants possess extensive knowledge of various destinations, accommodations, transportation options, and activities, allowing them to offer expert advice and personalized recommendations. They excel in creating customized itineraries, booking flights, accommodations, and tours, handling visa and passport requirements, and addressing any concerns or issues that may arise during the travel process. Their excellent communication, organizational, and problem-solving skills make them essential in delivering exceptional customer service and fulfilling clients' travel dreams.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Travel Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Travel Consultant interviews to help you prepare and succeed.

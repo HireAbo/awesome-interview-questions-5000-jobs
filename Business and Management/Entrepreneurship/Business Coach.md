@@ -2,6 +2,8 @@
 
 Welcome to the Business Coach Interview Preparation ! This resource is designed to help you ace your Business Coach interviews with confidence.
 
+A business coach is a professional who provides guidance and support to entrepreneurs and business owners on various aspects of running and growing their businesses. They possess extensive knowledge and experience in business and management, enabling them to offer expert advice and strategies to overcome challenges and achieve success. A business coach helps individuals identify their goals, develop effective business plans, and implement strategies to achieve growth and profitability. They also assist in enhancing leadership skills, improving decision-making abilities, and fostering innovation within the organization. By providing personalized coaching and mentoring, business coaches play a vital role in helping entrepreneurs realize their full potential and achieve their desired business outcomes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Business Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Business Coach interviews to help you prepare and succeed.

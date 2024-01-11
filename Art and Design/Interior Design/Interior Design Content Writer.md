@@ -2,6 +2,8 @@
 
 Welcome to the Interior Design Content Writer Interview Preparation ! This resource is designed to help you ace your Interior Design Content Writer interviews with confidence.
 
+The role of an Interior Design Content Writer is to create engaging and informative content related to the field of interior design. As a content writer, you will be responsible for researching and writing articles, blog posts, and website content that provides valuable insights and advice to readers interested in interior design. This includes topics such as space planning, color schemes, furniture selection, lighting, and other design elements. A strong understanding and passion for art and design, particularly in the realm of interior design, is essential for this role. Additionally, excellent writing and communication skills are necessary to effectively convey ideas and engage with readers.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Interior Design Content Writer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Interior Design Content Writer interviews to help you prepare and succeed.

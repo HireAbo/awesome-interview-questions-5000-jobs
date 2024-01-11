@@ -2,6 +2,8 @@
 
 Welcome to the Corporate Counsel Interview Preparation ! This resource is designed to help you ace your Corporate Counsel interviews with confidence.
 
+A corporate counsel job within the field of law involves providing legal guidance and support to corporations and businesses. These professionals play a crucial role in ensuring that companies operate within the boundaries of the law. Their responsibilities include advising on legal matters pertaining to business activities, drafting and reviewing contracts, negotiating deals, and handling litigation when necessary. Corporate counsels also provide guidance on regulatory compliance, intellectual property rights, employment law, and risk management. Their expertise helps organizations navigate complex legal issues, mitigate risks, and make informed decisions. Effective communication, analytical skills, and a solid understanding of business operations are vital for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Corporate Counsel or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Corporate Counsel interviews to help you prepare and succeed.

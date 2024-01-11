@@ -2,6 +2,8 @@
 
 Welcome to the Emergency and Critical Care Veterinary Technician Interview Preparation ! This resource is designed to help you ace your Emergency and Critical Care Veterinary Technician interviews with confidence.
 
+Veterinary Medicine is a branch of healthcare that focuses on the diagnosis, treatment, and prevention of diseases in animals. Within this field, Veterinary Nursing specializes in providing comprehensive care to animals under the supervision of a licensed veterinarian. One specific area of specialization within Veterinary Nursing is Emergency and Critical Care Veterinary Technician. These highly skilled professionals play a vital role in providing immediate medical attention and support to animals in critical conditions. They are responsible for monitoring vital signs, administering medications, performing emergency procedures, and assisting in surgical interventions. The job requires quick thinking, excellent communication skills, and a deep passion for animal welfare.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Emergency and Critical Care Veterinary Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Emergency and Critical Care Veterinary Technician interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Green Energy Project Coordinator Interview Preparation ! This resource is designed to help you ace your Green Energy Project Coordinator interviews with confidence.
 
+The role of a Green Energy Project Coordinator is crucial in the field of Renewable Energy within the Energy and Utilities sector. This position involves overseeing the planning, development, execution, and monitoring of various green energy projects. The coordinator is responsible for coordinating with internal and external stakeholders, such as engineers, contractors, and regulatory bodies, to ensure the successful implementation of renewable energy projects. They play a vital role in ensuring that projects adhere to environmental standards and regulations, as well as achieving sustainability goals. A Green Energy Project Coordinator also conducts feasibility studies, assesses project risks, and ensures that projects are completed within budget and timeframe. Overall, this role contributes significantly to the advancement of green and sustainable energy practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Green Energy Project Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Green Energy Project Coordinator interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Elementary School Teacher Interview Preparation ! This resource is designed to help you ace your Elementary School Teacher interviews with confidence.
 
+An elementary school teacher plays a crucial role in shaping the educational foundation of young students. With a passion for teaching, they create a nurturing and stimulating environment that promotes learning and growth. These teachers are responsible for educating children in various subjects, including mathematics, science, English, and social studies. They design and implement lesson plans, engage students in interactive activities, and assess their progress through tests and assignments. Moreover, elementary school teachers not only teach academic knowledge but also instill important life skills, such as problem-solving, teamwork, and critical thinking. They serve as mentors, role models, and cheerleaders, inspiring students to reach their full potential.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Elementary School Teacher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Elementary School Teacher interviews to help you prepare and succeed.

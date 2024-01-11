@@ -2,6 +2,8 @@
 
 Welcome to the Travel Planner Interview Preparation ! This resource is designed to help you ace your Travel Planner interviews with confidence.
 
+Hospitality and Tourism is a thriving industry that encompasses various sectors, including accommodation, food and beverage, travel, and tourism. Within this industry, Tourism Management plays a crucial role in ensuring the smooth functioning of travel and tourism operations. A specific job role within Tourism Management is that of a Travel Planner. As a Travel Planner, professionals are responsible for organizing and coordinating travel arrangements for individuals or groups. This includes booking flights, accommodation, transportation, and creating itineraries that meet the preferences and requirements of clients. Travel Planners must possess excellent communication and organizational skills, as well as a deep understanding of various travel destinations, cultures, and logistics.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Travel Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Travel Planner interviews to help you prepare and succeed.

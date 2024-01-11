@@ -2,6 +2,8 @@
 
 Welcome to the Dermatologist Interview Preparation ! This resource is designed to help you ace your Dermatologist interviews with confidence.
 
+A dermatologist is a medical professional specializing in the diagnosis, treatment, and prevention of conditions related to the skin, hair, and nails. They play a crucial role in the field of healthcare and medicine, ensuring the well-being and health of patients by addressing various dermatological concerns. Dermatologists possess specialized knowledge and skills to identify and treat skin disorders, such as acne, eczema, psoriasis, and skin cancer. They may perform procedures like biopsies, laser treatments, and cosmetic procedures to improve the appearance and health of the skin. Dermatologists work in various settings, including hospitals, clinics, and private practices, providing essential medical care and expertise to patients seeking dermatological solutions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Dermatologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Dermatologist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Energy Research Scientist Interview Preparation ! This resource is designed to help you ace your Energy Research Scientist interviews with confidence.
 
+An Energy Research Scientist in the field of Energy Engineering plays a crucial role in advancing the development and implementation of sustainable energy solutions. They are responsible for conducting research and experiments to discover innovative ways to generate, store, and utilize energy efficiently. These professionals analyze data, design experiments, and develop models to predict the behavior and performance of different energy systems. Energy Research Scientists also collaborate with interdisciplinary teams to evaluate the environmental impact and cost-effectiveness of energy technologies. They strive to find renewable energy sources, improve energy efficiency, and reduce carbon emissions to pave the way for a clean and sustainable future.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Energy Research Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Energy Research Scientist interviews to help you prepare and succeed.

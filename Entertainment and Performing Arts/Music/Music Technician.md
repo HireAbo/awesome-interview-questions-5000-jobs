@@ -2,6 +2,8 @@
 
 Welcome to the Music Technician Interview Preparation ! This resource is designed to help you ace your Music Technician interviews with confidence.
 
+A music technician plays a crucial role in the world of music and performing arts. They are responsible for ensuring the technical aspects of music production run smoothly, both in live performances and studio recordings. These professionals possess an array of skills, ranging from setting up and operating sound equipment, mixing and mastering audio, and troubleshooting technical issues. They collaborate closely with musicians, sound engineers, producers, and other members of the production team to create an optimal sound experience for the audience. Music technicians are highly knowledgeable about various musical instruments, sound systems, and recording software, making them indispensable in delivering high-quality music performances and recordings.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Music Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Music Technician interviews to help you prepare and succeed.

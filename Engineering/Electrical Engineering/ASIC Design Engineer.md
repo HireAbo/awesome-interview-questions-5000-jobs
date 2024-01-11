@@ -2,6 +2,8 @@
 
 Welcome to the ASIC Design Engineer Interview Preparation ! This resource is designed to help you ace your ASIC Design Engineer interviews with confidence.
 
+An ASIC Design Engineer is a professional who specializes in the field of Electrical Engineering, specifically in the design and development of Application-Specific Integrated Circuits (ASICs). These engineers play a crucial role in the creation of customized integrated circuits that are tailored to perform specific functions or tasks. They collaborate with cross-functional teams to gather requirements, analyze system specifications, and design circuit architectures. ASIC Design Engineers are responsible for designing and implementing digital and analog circuits, performing simulation and verification tests, and optimizing circuit performance. They also ensure adherence to industry standards and work with manufacturing teams to facilitate the production and testing of ASICs. These engineers possess strong technical skills, problem-solving abilities, and a deep understanding of electronics and circuit design principles.
+
 ## 🚀 Overview
 
 Whether you're a seasoned ASIC Design Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in ASIC Design Engineer interviews to help you prepare and succeed.

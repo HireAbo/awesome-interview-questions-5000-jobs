@@ -2,6 +2,8 @@
 
 Welcome to the Laboratory Animal Veterinarian Interview Preparation ! This resource is designed to help you ace your Laboratory Animal Veterinarian interviews with confidence.
 
+A Laboratory Animal Veterinarian is a specialized veterinarian who focuses on providing medical care to animals used in research settings. These professionals play a crucial role in ensuring the humane treatment and well-being of laboratory animals, while also ensuring the accuracy and reliability of research results. They are responsible for diagnosing and treating illnesses, monitoring the health of animals, and designing and implementing animal welfare programs. Laboratory Animal Veterinarians work closely with researchers, scientists, and other veterinary professionals to ensure compliance with ethical guidelines and regulations governing animal research. They also contribute to the advancement of veterinary medicine through research and the development of improved animal care practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Laboratory Animal Veterinarian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Laboratory Animal Veterinarian interviews to help you prepare and succeed.

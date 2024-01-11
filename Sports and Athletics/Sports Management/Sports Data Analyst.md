@@ -2,6 +2,8 @@
 
 Welcome to the Sports Data Analyst Interview Preparation ! This resource is designed to help you ace your Sports Data Analyst interviews with confidence.
 
+A Sports Data Analyst in the field of Sports Management is a crucial role that combines a passion for sports with analytical expertise. This job entails collecting, organizing, and interpreting data to provide insights into team performance, player efficiency, and game strategies. Sports Data Analysts utilize statistical models and software tools to analyze large datasets and generate reports that assist coaches, team owners, and executives in making informed decisions. They collaborate with various stakeholders to identify key performance indicators, develop predictive models, and evaluate player potential. A Sports Data Analyst should possess strong analytical skills, proficiency in data visualization tools, and a deep understanding of sports dynamics to help drive success in the highly competitive world of sports.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sports Data Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sports Data Analyst interviews to help you prepare and succeed.

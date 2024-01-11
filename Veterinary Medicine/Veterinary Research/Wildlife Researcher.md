@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife Researcher Interview Preparation ! This resource is designed to help you ace your Wildlife Researcher interviews with confidence.
 
+A Wildlife Researcher in Veterinary Medicine is a professional who specializes in studying the health and well-being of wild animals. They play a crucial role in understanding the impact of diseases and environmental factors on wildlife populations. These researchers conduct fieldwork, collect samples, and analyze data to identify diseases, monitor population dynamics, and develop conservation strategies. They also collaborate with other researchers, veterinarians, and wildlife organizations to ensure the best practices for animal welfare and conservation. A Wildlife Researcher in Veterinary Medicine requires strong scientific and analytical skills, a passion for wildlife, and a commitment to preserving and protecting our natural world.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Researcher interviews to help you prepare and succeed.

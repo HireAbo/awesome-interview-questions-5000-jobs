@@ -2,6 +2,8 @@
 
 Welcome to the Special Education Evaluator Interview Preparation ! This resource is designed to help you ace your Special Education Evaluator interviews with confidence.
 
+A Special Education Evaluator is a professional who plays a crucial role in the field of Special Education. These individuals are responsible for assessing and evaluating students with special needs to determine their educational requirements and develop appropriate Individualized Education Programs (IEPs). They work closely with teachers, parents, and other professionals to gather information, conduct assessments, and recommend appropriate interventions and accommodations for students. Special Education Evaluators possess a deep understanding of various disabilities and learning challenges, and they use their expertise to identify students' strengths and weaknesses. They play a vital role in ensuring that students with special needs receive the necessary support and services to thrive academically and socially.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Special Education Evaluator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Special Education Evaluator interviews to help you prepare and succeed.

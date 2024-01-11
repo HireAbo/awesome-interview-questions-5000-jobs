@@ -2,6 +2,8 @@
 
 Welcome to the Acoustical Physicist Interview Preparation ! This resource is designed to help you ace your Acoustical Physicist interviews with confidence.
 
+An Acoustical Physicist is a professional who specializes in the field of physics, specifically focusing on acoustics. Acoustics is the branch of physics that deals with the study of sound, its generation, propagation, and its effects on different mediums. Acoustical physicists primarily work on understanding the behavior of sound waves and their interaction with various materials and structures. They conduct extensive research and experiments to develop new technologies and techniques for improving sound quality, noise reduction, and designing efficient acoustic systems. Acoustical physicists often work in research laboratories, universities, or in the industry, collaborating with engineers and scientists to solve complex acoustic problems and contribute to advancements in various fields such as music, architecture, medicine, and engineering.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Acoustical Physicist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Acoustical Physicist interviews to help you prepare and succeed.

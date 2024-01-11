@@ -2,6 +2,8 @@
 
 Welcome to the Mobile App Architect Interview Preparation ! This resource is designed to help you ace your Mobile App Architect interviews with confidence.
 
+A Mobile App Architect plays a crucial role in the field of Information Technology (IT) and Software Development. This job is focused on creating and designing innovative mobile applications for various platforms such as iOS and Android. The Mobile App Architect is responsible for understanding client requirements, developing technical solutions, and overseeing the entire app development process. They possess a deep understanding of mobile app development frameworks, programming languages, and user interface design principles. Their expertise lies in translating business needs into functional and user-friendly mobile applications. A Mobile App Architect plays a vital role in shaping the future of mobile technology and delivering seamless user experiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Mobile App Architect or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Mobile App Architect interviews to help you prepare and succeed.

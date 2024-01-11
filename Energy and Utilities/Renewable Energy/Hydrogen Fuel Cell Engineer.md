@@ -2,6 +2,8 @@
 
 Welcome to the Hydrogen Fuel Cell Engineer Interview Preparation ! This resource is designed to help you ace your Hydrogen Fuel Cell Engineer interviews with confidence.
 
+A Hydrogen Fuel Cell Engineer is a specialist in the field of renewable energy who focuses on designing, developing, and implementing hydrogen fuel cell technologies. These engineers play a crucial role in revolutionizing the energy and utilities sector by harnessing the power of renewable sources for generating electricity. They are responsible for optimizing the performance, efficiency, and safety of hydrogen fuel cells, which convert hydrogen and oxygen into electricity, with water as the only byproduct. These professionals are involved in various aspects of the job, including research, testing, troubleshooting, and collaborating with multidisciplinary teams to ensure the successful integration of hydrogen fuel cells into various applications, such as transportation and power generation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Hydrogen Fuel Cell Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Hydrogen Fuel Cell Engineer interviews to help you prepare and succeed.

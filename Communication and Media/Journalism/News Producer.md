@@ -2,6 +2,8 @@
 
 Welcome to the News Producer Interview Preparation ! This resource is designed to help you ace your News Producer interviews with confidence.
 
+A news producer plays a crucial role in the field of journalism as they are responsible for overseeing the creation and delivery of news content across various media platforms. Their primary objective is to produce accurate, engaging, and timely news stories that inform and engage the audience. News producers collaborate with reporters, editors, and camera crews to ensure that news stories are well-researched, fact-checked, and adhere to journalistic ethics. They also coordinate with technical teams to ensure seamless production and distribution of news content. With strong communication and organizational skills, news producers are at the forefront of shaping and delivering news stories that shape public opinion and provide valuable information to the masses.
+
 ## 🚀 Overview
 
 Whether you're a seasoned News Producer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in News Producer interviews to help you prepare and succeed.

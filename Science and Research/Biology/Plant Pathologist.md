@@ -2,6 +2,8 @@
 
 Welcome to the Plant Pathologist Interview Preparation ! This resource is designed to help you ace your Plant Pathologist interviews with confidence.
 
+A plant pathologist is a specialized scientist who focuses on the study of plant diseases and their management. They play a crucial role in understanding the causes, prevention, and treatment of various plant infections caused by pathogens such as bacteria, fungi, viruses, and nematodes. Plant pathologists conduct research to identify and characterize these pathogens, study their life cycles, and develop effective strategies for disease control. They also work towards developing resistant plant varieties, improving agricultural practices, and enhancing crop productivity. This field of science and research in biology is vital for ensuring food security, sustainable agriculture, and the conservation of plant biodiversity.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Plant Pathologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Plant Pathologist interviews to help you prepare and succeed.

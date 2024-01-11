@@ -2,6 +2,8 @@
 
 Welcome to the Telemarketer Interview Preparation ! This resource is designed to help you ace your Telemarketer interviews with confidence.
 
+A Telemarketer is a professional who engages in sales activities over the phone. They are responsible for making outbound calls to potential customers, introducing products or services, and persuading them to make a purchase or take a desired action. Telemarketers have excellent communication and persuasive skills, as they need to build rapport with customers and effectively present the benefits of the product or service being offered. They must also possess good listening skills to understand customer needs and objections, and be able to address them accordingly. Telemarketers play a crucial role in driving sales and revenue for retail businesses by generating leads and converting them into satisfied customers.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Telemarketer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Telemarketer interviews to help you prepare and succeed.

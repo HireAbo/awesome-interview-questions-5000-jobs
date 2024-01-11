@@ -2,6 +2,8 @@
 
 Welcome to the Drainage Engineer Interview Preparation ! This resource is designed to help you ace your Drainage Engineer interviews with confidence.
 
+A Drainage Engineer is a professional who specializes in designing and maintaining drainage systems to ensure the efficient flow of water and prevent flooding. As part of the field of Civil Engineering, this role involves studying the topography of a given area, evaluating the impact of water on structures, and designing effective drainage solutions. Drainage Engineers use their expertise to create systems that effectively manage stormwater runoff, sewage, and wastewater, while adhering to environmental regulations and sustainability practices. Additionally, they may conduct site inspections, analyze data, and collaborate with other professionals to ensure the safety and functionality of drainage systems in both urban and rural areas.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Drainage Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Drainage Engineer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Life Insurance Actuary Interview Preparation ! This resource is designed to help you ace your Life Insurance Actuary interviews with confidence.
 
+Mathematics and Statistics are fundamental branches of knowledge that play a crucial role in various fields, including Actuarial Science. Actuarial Science combines the principles of mathematics, statistics, and finance to assess and manage risk in the insurance industry. Within Actuarial Science, the Life Insurance Actuary job focuses on analyzing and predicting future financial outcomes related to life insurance policies. Life Insurance Actuaries use mathematical models and statistical techniques to determine insurance premiums, evaluate mortality rates, and calculate policy reserves. They also assess the financial stability of insurance companies and provide guidance on product development and pricing strategies. With their expertise, Life Insurance Actuaries ensure the financial security and sustainability of life insurance companies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Life Insurance Actuary or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Life Insurance Actuary interviews to help you prepare and succeed.

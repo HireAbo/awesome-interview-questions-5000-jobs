@@ -2,6 +2,8 @@
 
 Welcome to the Transformer Engineer Interview Preparation ! This resource is designed to help you ace your Transformer Engineer interviews with confidence.
 
+A Transformer Engineer is a specialized professional within the field of Electrical Engineering. They are responsible for designing, developing, and maintaining transformers, which are essential electrical devices that transfer electrical energy between different voltage levels. These engineers work on various aspects of transformer design, including insulation systems, core materials, cooling systems, and electrical connections. They also conduct thorough testing and analysis to ensure that the transformers meet the required specifications and standards. Transformer Engineers collaborate with other professionals, such as electrical designers and manufacturers, to ensure the successful implementation of transformer projects. They are highly knowledgeable in electrical theory, engineering principles, and possess strong problem-solving and analytical skills.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Transformer Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Transformer Engineer interviews to help you prepare and succeed.

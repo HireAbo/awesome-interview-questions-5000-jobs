@@ -2,6 +2,8 @@
 
 Welcome to the Entertainment Journalist Interview Preparation ! This resource is designed to help you ace your Entertainment Journalist interviews with confidence.
 
+An Entertainment Journalist specializes in reporting and analyzing news and updates related to the entertainment industry. These professionals play a crucial role in providing audiences with engaging content about movies, television shows, music, celebrities, and other forms of entertainment. They are responsible for conducting interviews with actors, musicians, directors, and other industry insiders to gather exclusive information. Entertainment Journalists also attend red carpet events, film premieres, concerts, and press conferences to provide firsthand coverage. They possess excellent communication skills, writing abilities, and a deep understanding of popular culture. Their work contributes to shaping public opinion and keeping audiences informed and entertained in the ever-evolving world of entertainment media.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Entertainment Journalist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Entertainment Journalist interviews to help you prepare and succeed.

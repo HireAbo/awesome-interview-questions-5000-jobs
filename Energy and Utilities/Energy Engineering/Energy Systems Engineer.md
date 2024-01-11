@@ -2,6 +2,8 @@
 
 Welcome to the Energy Systems Engineer Interview Preparation ! This resource is designed to help you ace your Energy Systems Engineer interviews with confidence.
 
+An Energy Systems Engineer specializes in designing, developing, and optimizing energy systems to meet the growing demand for sustainable and efficient energy solutions. They work in the field of Energy Engineering, which focuses on utilizing various energy sources effectively while minimizing environmental impact. Energy Systems Engineers analyze energy consumption patterns, identify areas for improvement, and design energy-efficient systems that integrate renewable energy sources. They are responsible for conducting feasibility studies, assessing energy needs, and implementing innovative technologies to maximize energy production and minimize waste. These professionals play a crucial role in shaping the future of energy systems by ensuring reliable, cost-effective, and environmentally-friendly solutions for industries, communities, and individuals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Energy Systems Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Energy Systems Engineer interviews to help you prepare and succeed.

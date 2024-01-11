@@ -2,6 +2,8 @@
 
 Welcome to the Food Blogger Interview Preparation ! This resource is designed to help you ace your Food Blogger interviews with confidence.
 
+Hospitality and Tourism is an industry that focuses on providing exceptional services to guests, ensuring their comfort and satisfaction during their travel experiences. Within this industry, the Culinary Arts sector plays a significant role in offering delightful gastronomic experiences to tourists and locals alike. One exciting job within this sector is that of a Food Blogger. A Food Blogger is responsible for exploring various culinary delights, documenting their experiences through captivating blog posts, and sharing their knowledge and expertise with a wide audience. They play a crucial role in promoting local cuisines, restaurants, and food trends, making them an integral part of the culinary tourism experience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Food Blogger or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Food Blogger interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Mechatronics Engineer Interview Preparation ! This resource is designed to help you ace your Mechatronics Engineer interviews with confidence.
 
+A Mechatronics Engineer is a professional within the field of Mechanical Engineering who specializes in the design, development, and maintenance of complex automated systems. Combining mechanical, electrical, and computer engineering principles, they work on the integration of mechanical components with electronic controls and software to create efficient and reliable mechatronic systems. Mechatronics Engineers are responsible for designing and implementing innovative solutions for various industries, such as robotics, automotive, aerospace, and manufacturing. They are involved in every stage of the product development process, from conceptualization and modeling to testing and troubleshooting. Their expertise lies in creating cutting-edge technologies that enhance automation, precision, and productivity in today's fast-paced world.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Mechatronics Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Mechatronics Engineer interviews to help you prepare and succeed.

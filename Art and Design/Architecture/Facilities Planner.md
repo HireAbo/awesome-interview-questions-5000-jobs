@@ -2,6 +2,8 @@
 
 Welcome to the Facilities Planner Interview Preparation ! This resource is designed to help you ace your Facilities Planner interviews with confidence.
 
+A Facilities Planner in the field of Architecture plays a critical role in ensuring the efficient and effective utilization of space within a building or facility. This job combines the principles of art and design with practical considerations to create functional and aesthetically pleasing spaces. Facilities Planners collaborate with architects, engineers, and clients to develop plans that optimize the use of available resources, taking into account factors such as layout, accessibility, safety, and sustainability. Their expertise lies in analyzing spatial requirements, assessing existing conditions, and proposing innovative solutions to enhance the functionality and visual appeal of a space. With a keen eye for detail and a deep understanding of design principles, Facilities Planners contribute to the creation of inspiring and functional architectural environments.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Facilities Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Facilities Planner interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Lineworker Interview Preparation ! This resource is designed to help you ace your Lineworker interviews with confidence.
 
+A lineworker, also known as an electrical lineman or line technician, is a skilled tradesperson who works in the field of electrical work, specifically in the installation, repair, and maintenance of electrical power lines and systems. These professionals play a crucial role in ensuring the reliable transmission and distribution of electrical power from power plants to homes, businesses, and industries. Lineworkers are trained to work at great heights, often climbing utility poles or using bucket trucks to access power lines. They possess in-depth knowledge of electrical systems, safety protocols, and specialized tools used in their trade. Lineworkers are known for their dedication, physical stamina, and commitment to ensuring uninterrupted power supply for communities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Lineworker or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Lineworker interviews to help you prepare and succeed.

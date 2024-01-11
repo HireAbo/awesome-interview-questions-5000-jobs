@@ -2,6 +2,8 @@
 
 Welcome to the Water Resources Engineer Interview Preparation ! This resource is designed to help you ace your Water Resources Engineer interviews with confidence.
 
+Water resources engineering is a specialized field within the broader discipline of chemical engineering that focuses on the sustainable management and utilization of water resources. Water resources engineers play a crucial role in designing, developing, and implementing effective strategies to ensure the efficient use, treatment, and distribution of water for various purposes, including drinking, irrigation, and industrial processes. They are responsible for analyzing and assessing water supply and demand, monitoring water quality, and developing innovative solutions to address challenges such as water scarcity, pollution, and climate change. Additionally, water resources engineers may also be involved in the design and construction of water infrastructure projects, such as dams, reservoirs, and water treatment plants.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Water Resources Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Water Resources Engineer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Utility Dispatcher Interview Preparation ! This resource is designed to help you ace your Utility Dispatcher interviews with confidence.
 
+A Utility Dispatcher plays a crucial role in managing and coordinating the distribution of energy and utilities. They are responsible for monitoring and dispatching resources such as electricity, natural gas, and water to meet the demands of customers efficiently. Utility Dispatchers utilize computer systems to monitor and analyze data, ensuring the smooth flow of resources and resolving any issues that may arise. They also collaborate with field technicians and other personnel to schedule repairs, maintenance, and emergency response activities. Strong communication and problem-solving skills are essential in this role to maintain a reliable and uninterrupted supply of energy and utilities to the community.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Utility Dispatcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Utility Dispatcher interviews to help you prepare and succeed.

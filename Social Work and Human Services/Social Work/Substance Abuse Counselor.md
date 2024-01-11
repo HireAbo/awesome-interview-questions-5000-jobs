@@ -2,6 +2,8 @@
 
 Welcome to the Substance Abuse Counselor Interview Preparation ! This resource is designed to help you ace your Substance Abuse Counselor interviews with confidence.
 
+Social work and human services encompass a broad range of professions dedicated to improving the wellbeing of individuals, families, and communities. Social workers play a crucial role in addressing social issues, advocating for vulnerable populations, and providing support and resources to those in need. Within the field of social work, substance abuse counseling is a specialized area focused on assisting individuals struggling with addiction. Substance abuse counselors work with clients to assess their needs, develop treatment plans, and provide counseling and support throughout the recovery process. These professionals aim to empower individuals, promote healthy coping mechanisms, and facilitate long-term recovery and positive lifestyle changes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Substance Abuse Counselor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Substance Abuse Counselor interviews to help you prepare and succeed.

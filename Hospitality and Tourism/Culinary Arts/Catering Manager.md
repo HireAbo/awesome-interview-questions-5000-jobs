@@ -2,6 +2,8 @@
 
 Welcome to the Catering Manager Interview Preparation ! This resource is designed to help you ace your Catering Manager interviews with confidence.
 
+A Catering Manager plays a crucial role in the hospitality and tourism industry, specifically in the culinary arts sector. They are responsible for overseeing and coordinating all aspects of catering operations within an establishment. This includes managing a team of staff, planning and executing events, maintaining quality control, and ensuring customer satisfaction. A Catering Manager must possess excellent organizational and communication skills, as they work closely with clients to understand their specific needs and preferences. They must also have a strong understanding of food and beverage services, menu planning, and budgeting. Overall, this role requires a combination of managerial expertise, culinary knowledge, and a passion for providing exceptional hospitality experiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Catering Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Catering Manager interviews to help you prepare and succeed.

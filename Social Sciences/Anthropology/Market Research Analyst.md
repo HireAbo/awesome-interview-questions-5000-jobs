@@ -2,6 +2,8 @@
 
 Welcome to the Market Research Analyst Interview Preparation ! This resource is designed to help you ace your Market Research Analyst interviews with confidence.
 
+A Market Research Analyst job in the field of Anthropology within the Social Sciences involves studying consumer behavior and market trends to provide valuable insights to businesses. These professionals apply anthropological methodologies to understand the cultural, social, and economic factors that influence consumer attitudes and purchasing decisions. By conducting surveys, analyzing data, and interpreting market research, they help companies identify target markets, develop effective marketing strategies, and improve product offerings. Market Research Analysts in Anthropology possess strong analytical and critical thinking skills, as well as cultural sensitivity and a deep understanding of human behavior. They play a crucial role in bridging the gap between businesses and consumers, ensuring market success while respecting cultural diversity.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Market Research Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Market Research Analyst interviews to help you prepare and succeed.

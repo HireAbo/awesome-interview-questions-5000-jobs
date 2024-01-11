@@ -2,6 +2,8 @@
 
 Welcome to the Astronomical Software Developer Interview Preparation ! This resource is designed to help you ace your Astronomical Software Developer interviews with confidence.
 
+Astronomical Software Developers play a crucial role in the field of astronomy by creating and improving software tools used for data analysis and simulations. They combine their expertise in computer science and astronomy to design, develop, and maintain software applications specifically tailored to meet the unique needs of astronomers. These professionals collaborate with astronomers to understand their requirements and translate them into efficient and user-friendly software solutions. Astronomical Software Developers also contribute to the advancement of scientific research by staying updated with the latest developments in the field and incorporating new algorithms and techniques into their software. Their work enables astronomers to analyze vast amounts of data, model astronomical phenomena, and make groundbreaking discoveries.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Astronomical Software Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Astronomical Software Developer interviews to help you prepare and succeed.

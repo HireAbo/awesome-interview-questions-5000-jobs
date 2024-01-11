@@ -2,6 +2,8 @@
 
 Welcome to the Theater Carpenter Interview Preparation ! This resource is designed to help you ace your Theater Carpenter interviews with confidence.
 
+A theater carpenter is an essential member of the entertainment and performing arts industry, specifically within theater arts. They are responsible for constructing and assembling the various sets, stages, and props used in theatrical productions. A theater carpenter brings the creative vision of the director and set designer to life, through their expertise in carpentry and construction techniques. They work closely with the production team, interpreting blueprints and designs, and utilizing tools and materials to build and install sets that create the desired atmosphere and enhance the storytelling. A theater carpenter's precision and attention to detail are crucial in ensuring a seamless and visually captivating theatrical experience for the audience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Theater Carpenter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Theater Carpenter interviews to help you prepare and succeed.

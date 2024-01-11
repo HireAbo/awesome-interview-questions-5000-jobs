@@ -2,6 +2,8 @@
 
 Welcome to the Recreational Therapist Interview Preparation ! This resource is designed to help you ace your Recreational Therapist interviews with confidence.
 
+A recreational therapist is a professional in the field of psychology who specializes in using recreational activities to improve the mental, emotional, and physical well-being of individuals. They work with clients of all ages and backgrounds to address a range of mental health issues, disabilities, or injuries. Recreational therapists design and implement therapeutic programs that incorporate various activities such as sports, arts, music, and outdoor adventures. These programs aim to enhance cognitive skills, promote social interaction, and improve overall quality of life. Recreational therapists often work in hospitals, rehabilitation centers, nursing homes, or community settings, providing individualized care and support to their clients.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Recreational Therapist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Recreational Therapist interviews to help you prepare and succeed.

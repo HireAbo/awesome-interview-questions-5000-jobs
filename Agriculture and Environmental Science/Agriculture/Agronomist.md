@@ -2,6 +2,8 @@
 
 Welcome to the Agronomist Interview Preparation ! This resource is designed to help you ace your Agronomist interviews with confidence.
 
+Agronomy is a branch of agriculture that focuses on the scientific study of crops and soil management. Agronomists play a crucial role in ensuring sustainable agricultural practices that protect the environment and maximize crop productivity. They are responsible for conducting research, providing recommendations, and implementing innovative techniques to improve crop quality and yield. Agronomists analyze soil samples, monitor water and nutrient levels, and develop strategies to control pests and diseases while minimizing the use of chemical inputs. They also work closely with farmers, policymakers, and environmental scientists to promote conservation practices and develop resilient farming systems that adapt to climate change.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Agronomist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Agronomist interviews to help you prepare and succeed.

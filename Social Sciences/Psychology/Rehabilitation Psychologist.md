@@ -2,6 +2,8 @@
 
 Welcome to the Rehabilitation Psychologist Interview Preparation ! This resource is designed to help you ace your Rehabilitation Psychologist interviews with confidence.
 
+A Rehabilitation Psychologist is a professional who specializes in helping individuals with physical, mental, or emotional disabilities regain independence and improve their overall well-being. They work within the field of psychology, specifically in the area of rehabilitation. These professionals use various techniques and therapeutic approaches to assist patients in overcoming barriers and adapting to their new circumstances. Rehabilitation Psychologists play a crucial role in the rehabilitation process by assessing patients' needs, developing personalized treatment plans, and providing counseling and support. They work closely with healthcare teams, including physicians, physical therapists, and occupational therapists, to ensure a holistic approach to patient care. By addressing psychological factors, Rehabilitation Psychologists contribute to enhancing patients' quality of life and facilitating their successful reintegration into society.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Rehabilitation Psychologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Rehabilitation Psychologist interviews to help you prepare and succeed.

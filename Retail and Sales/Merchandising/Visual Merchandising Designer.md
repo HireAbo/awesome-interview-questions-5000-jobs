@@ -2,6 +2,8 @@
 
 Welcome to the Visual Merchandising Designer Interview Preparation ! This resource is designed to help you ace your Visual Merchandising Designer interviews with confidence.
 
+A Visual Merchandising Designer plays a crucial role in the retail and sales industry, specifically in the field of merchandising. This job entails designing and creating visually appealing displays and layouts to attract customers and enhance the overall shopping experience. The Visual Merchandising Designer collaborates with the merchandising team to develop innovative concepts, themes, and strategies that align with the brand's objectives. They possess a strong understanding of consumer behavior, market trends, and product knowledge to effectively showcase merchandise in-store or online. With a keen eye for aesthetics, they curate and arrange products, signage, lighting, and props to create captivating visual displays that drive sales and brand awareness.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Visual Merchandising Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Visual Merchandising Designer interviews to help you prepare and succeed.

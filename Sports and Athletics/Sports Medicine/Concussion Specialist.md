@@ -2,6 +2,8 @@
 
 Welcome to the Concussion Specialist Interview Preparation ! This resource is designed to help you ace your Concussion Specialist interviews with confidence.
 
+A Concussion Specialist is a highly skilled medical professional who specializes in the assessment, diagnosis, and treatment of concussions in athletes. They play a crucial role in sports medicine, ensuring the safety and well-being of athletes who have suffered head injuries. Concussion Specialists possess extensive knowledge of the anatomy and physiology of the brain, as well as expertise in identifying and managing concussions. They employ various diagnostic tools and techniques to evaluate the severity of the injury, develop personalized treatment plans, and guide athletes through the recovery process. Their ultimate goal is to help athletes safely return to their sports activities while minimizing the risk of long-term complications.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Concussion Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Concussion Specialist interviews to help you prepare and succeed.

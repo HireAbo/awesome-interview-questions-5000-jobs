@@ -2,6 +2,12 @@
 
 Welcome to the Cloud Disaster Recovery Specialist Interview Preparation ! This resource is designed to help you ace your Cloud Disaster Recovery Specialist interviews with confidence.
 
+A Cloud Disaster Recovery Specialist is a professional who specializes in managing and implementing disaster recovery strategies for cloud computing environments. They are responsible for ensuring that critical data and systems are protected and can be quickly restored in the event of a disaster or outage.
+
+These specialists have a deep understanding of cloud computing technologies, virtualization, and data backup and recovery processes. They work closely with IT teams to develop and test disaster recovery plans, identify vulnerabilities, and implement measures to minimize downtime and data loss. They may also collaborate with external vendors and service providers to ensure the effectiveness of disaster recovery solutions.
+
+Cloud Disaster Recovery Specialists play a vital role in safeguarding organizations' data and ensuring business continuity in the face of unforeseen events.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cloud Disaster Recovery Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cloud Disaster Recovery Specialist interviews to help you prepare and succeed.

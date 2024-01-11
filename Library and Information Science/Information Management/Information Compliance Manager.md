@@ -2,6 +2,8 @@
 
 Welcome to the Information Compliance Manager Interview Preparation ! This resource is designed to help you ace your Information Compliance Manager interviews with confidence.
 
+A Library and Information Science (LIS) degree equips individuals with the skills and knowledge to manage and organize information effectively. Within the field of Information Management, there is a specialized role known as an Information Compliance Manager. This job involves ensuring that an organization complies with relevant laws, regulations, and policies regarding the handling and protection of information. Information Compliance Managers develop and implement strategies to mitigate risks and ensure data privacy and security. They also conduct audits, develop policies and procedures, and provide training on information compliance. This role requires strong analytical skills, attention to detail, and a deep understanding of legal and ethical frameworks related to information management.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Information Compliance Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Information Compliance Manager interviews to help you prepare and succeed.

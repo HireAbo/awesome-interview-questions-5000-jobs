@@ -2,6 +2,8 @@
 
 Welcome to the Attorney Interview Preparation ! This resource is designed to help you ace your Attorney interviews with confidence.
 
+An attorney is a legal professional who specializes in providing legal advice and representation to clients in various legal matters. They play a crucial role in the criminal justice system by advocating for their clients' rights and ensuring fair and just outcomes. Attorneys in the field of criminal justice are responsible for defending individuals accused of committing crimes. They investigate cases, gather evidence, interview witnesses, and build a strong defense strategy. Attorneys also negotiate plea bargains, represent clients in court hearings, and provide legal guidance throughout the entire legal process. Their expertise and knowledge of the law are essential in protecting the rights and liberties of individuals involved in criminal cases.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Attorney or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Attorney interviews to help you prepare and succeed.

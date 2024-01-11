@@ -2,6 +2,8 @@
 
 Welcome to the Visual Effects (VFX) Artist Interview Preparation ! This resource is designed to help you ace your Visual Effects (VFX) Artist interviews with confidence.
 
+A Visual Effects (VFX) Artist is a crucial member of the film production industry who specializes in creating and manipulating digital imagery. They work closely with directors, producers, and other artists to bring imaginary worlds, characters, and breathtaking visuals to life on the big screen. VFX Artists possess a deep understanding of computer-generated imagery (CGI) techniques and utilize cutting-edge software and tools to seamlessly integrate visual effects into live-action footage. They are responsible for creating stunning visual sequences, such as explosions, magical creatures, and futuristic environments, using their artistic skills, technical expertise, and attention to detail. VFX Artists play a pivotal role in enhancing the overall cinematic experience, captivating audiences worldwide with their breathtaking creations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Visual Effects (VFX) Artist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Visual Effects (VFX) Artist interviews to help you prepare and succeed.

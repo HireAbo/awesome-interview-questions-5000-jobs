@@ -2,6 +2,8 @@
 
 Welcome to the Physical Therapist Interview Preparation ! This resource is designed to help you ace your Physical Therapist interviews with confidence.
 
+Sports and Athletics is a field that encompasses a wide range of physical activities, including competitive sports, recreational activities, and fitness training. It is a domain that promotes physical fitness, teamwork, and overall well-being. Within this field, Sports Medicine plays a crucial role in providing specialized care for athletes and individuals involved in physical activities. One important job within Sports Medicine is that of a Physical Therapist. Physical Therapists work closely with athletes to prevent, diagnose, and treat injuries, as well as aid in rehabilitation and performance enhancement. They employ various techniques, exercises, and therapies to help athletes recover from injuries and improve their physical abilities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Physical Therapist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Physical Therapist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Laboratory Animal Science Instructor Interview Preparation ! This resource is designed to help you ace your Laboratory Animal Science Instructor interviews with confidence.
 
+A Veterinary Medicine > Veterinary Research > Laboratory Animal Science Instructor is a highly important and specialized role within the field of veterinary medicine. As an instructor, their primary responsibility is to educate and train students in laboratory animal science, ensuring they acquire the necessary knowledge and skills to become successful professionals in animal research. This role involves developing and delivering instructional materials, designing and conducting laboratory experiments, and providing guidance and mentorship to students. Additionally, they may be involved in conducting research themselves, contributing to the advancement of veterinary medicine and animal science. A Laboratory Animal Science Instructor plays a crucial role in shaping the future of veterinary research and ensuring ethical and compassionate animal care.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Laboratory Animal Science Instructor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Laboratory Animal Science Instructor interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Project Engineer Interview Preparation ! This resource is designed to help you ace your Project Engineer interviews with confidence.
 
+A Project Engineer in Chemical Engineering is a skilled professional responsible for overseeing and managing various projects within the field. They play a crucial role in ensuring the successful completion of projects, from conception to execution. Their primary duties include conducting research, designing process systems, coordinating with team members, and analyzing data to optimize efficiency and productivity. They also provide technical support and guidance to project teams, ensuring compliance with safety and regulatory standards. A Project Engineer in Chemical Engineering must possess strong problem-solving and analytical skills, excellent communication abilities, and a deep understanding of chemical engineering principles and processes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Project Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Project Engineer interviews to help you prepare and succeed.

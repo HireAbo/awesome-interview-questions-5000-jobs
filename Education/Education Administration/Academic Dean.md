@@ -2,6 +2,8 @@
 
 Welcome to the Academic Dean Interview Preparation ! This resource is designed to help you ace your Academic Dean interviews with confidence.
 
+An academic dean is a key leadership position within the field of education administration. As an academic dean, one is responsible for overseeing the academic excellence and integrity of an educational institution, such as a college or university. They play a vital role in developing and implementing educational policies, programs, and initiatives that align with the institution's vision and mission. Academic deans also collaborate with faculty members to enhance the curriculum, ensure quality teaching standards, and promote student success. Additionally, they manage budgets, evaluate faculty performance, and facilitate professional development opportunities. Overall, academic deans are instrumental in shaping the academic environment and fostering a culture of learning within an educational institution.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Academic Dean or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Academic Dean interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Television Disc Jockey Interview Preparation ! This resource is designed to help you ace your Television Disc Jockey interviews with confidence.
 
+A Television Disc Jockey, commonly known as a TV DJ, is responsible for hosting and presenting music shows on television. This role requires excellent communication skills, as TV DJs engage with viewers and entertain them through music and conversations. They select and play music tracks, introduce artists and songs, and provide insightful commentary on various genres. TV DJs often conduct interviews with musicians and celebrities, ensuring a lively and engaging atmosphere for the audience. Moreover, they must possess a vibrant personality, strong on-camera presence, and the ability to connect with viewers. A successful TV DJ can captivate and entertain audiences through their music knowledge, charisma, and excellent communication abilities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Television Disc Jockey or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Television Disc Jockey interviews to help you prepare and succeed.

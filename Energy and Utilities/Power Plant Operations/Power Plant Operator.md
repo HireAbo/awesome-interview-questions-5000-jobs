@@ -2,6 +2,8 @@
 
 Welcome to the Power Plant Operator Interview Preparation ! This resource is designed to help you ace your Power Plant Operator interviews with confidence.
 
+A Power Plant Operator is responsible for operating and maintaining power plants that generate electricity. These professionals ensure the efficient and safe operation of various equipment, such as boilers, turbines, generators, and control systems. They monitor plant processes, conduct regular inspections, and perform routine maintenance to identify and resolve any issues that may arise. Power Plant Operators also adjust controls and settings to optimize the production of electricity, while adhering to strict safety protocols and environmental regulations. Additionally, they may be responsible for recording data, managing fuel supplies, and coordinating with other team members to ensure the uninterrupted supply of electricity to consumers.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Power Plant Operator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Power Plant Operator interviews to help you prepare and succeed.

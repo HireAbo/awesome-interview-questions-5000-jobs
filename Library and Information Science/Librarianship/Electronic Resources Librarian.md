@@ -2,6 +2,8 @@
 
 Welcome to the Electronic Resources Librarian Interview Preparation ! This resource is designed to help you ace your Electronic Resources Librarian interviews with confidence.
 
+The field of Library and Information Science encompasses various specialized roles, including Librarianship. Within this domain, the role of an Electronic Resources Librarian is crucial in today's digital age. This position involves managing and maintaining electronic resources such as databases, e-books, online journals, and other digital materials. The Electronic Resources Librarian is responsible for acquiring, cataloging, and ensuring access to these resources. They also collaborate with other librarians and staff to develop and implement strategies for effective use of electronic resources, assisting patrons in navigating and retrieving information from these platforms. This role requires expertise in library systems, technology, and knowledge of emerging trends in electronic resources management.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Electronic Resources Librarian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Electronic Resources Librarian interviews to help you prepare and succeed.

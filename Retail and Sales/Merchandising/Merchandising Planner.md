@@ -2,6 +2,8 @@
 
 Welcome to the Merchandising Planner Interview Preparation ! This resource is designed to help you ace your Merchandising Planner interviews with confidence.
 
+A Merchandising Planner plays a crucial role in the field of Retail and Sales by strategically planning and managing the merchandise assortment for a company or store. This job requires a deep understanding of consumer behavior, market trends, and sales data analysis. The Merchandising Planner collaborates with various teams including buyers, marketers, and visual merchandisers to develop effective merchandising strategies that maximize sales and profitability. They are responsible for forecasting demand, setting pricing strategies, monitoring inventory levels, and ensuring timely product replenishment. Strong analytical skills, attention to detail, and the ability to multitask are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Merchandising Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Merchandising Planner interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Energy Transmission Engineer Interview Preparation ! This resource is designed to help you ace your Energy Transmission Engineer interviews with confidence.
 
+An Energy Transmission Engineer plays a crucial role in the field of Energy Engineering, specifically in the Energy and Utilities sector. They are responsible for designing, constructing, and maintaining the systems that transmit electrical power from generating stations to distribution networks. These professionals possess a deep understanding of electrical power systems, transmission lines, substations, and transformers. Their expertise lies in ensuring the efficient and reliable transmission of energy, while also considering factors such as environmental impact and cost-effectiveness. Energy Transmission Engineers work closely with a team of engineers, technicians, and project managers to optimize energy transmission systems and contribute to the development of sustainable and reliable energy infrastructures.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Energy Transmission Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Energy Transmission Engineer interviews to help you prepare and succeed.

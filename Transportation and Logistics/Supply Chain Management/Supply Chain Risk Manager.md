@@ -2,6 +2,8 @@
 
 Welcome to the Supply Chain Risk Manager Interview Preparation ! This resource is designed to help you ace your Supply Chain Risk Manager interviews with confidence.
 
+A Supply Chain Risk Manager plays a crucial role in Transportation and Logistics by ensuring the smooth and efficient flow of goods throughout the supply chain. This job involves identifying, assessing, and mitigating risks that may impact the transportation and delivery of products. The Supply Chain Risk Manager collaborates closely with various stakeholders, including suppliers, manufacturers, distributors, and customers, to develop strategies for managing risks and ensuring business continuity. They are responsible for identifying potential disruptions in the supply chain, such as natural disasters, political unrest, or supplier bankruptcies, and developing contingency plans to minimize their impact. Additionally, they analyze data and trends to proactively identify potential risks and implement measures to enhance supply chain resilience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Supply Chain Risk Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Supply Chain Risk Manager interviews to help you prepare and succeed.

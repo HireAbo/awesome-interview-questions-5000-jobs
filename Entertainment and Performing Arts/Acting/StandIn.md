@@ -2,6 +2,8 @@
 
 Welcome to the Stand-In Interview Preparation ! This resource is designed to help you ace your Stand-In interviews with confidence.
 
+A stand-in job in the field of acting within the entertainment and performing arts industry involves an individual who temporarily steps in for a lead actor during the pre-production and production stages of a film, television show, or theater production. Stand-ins are responsible for mimicking the physical presence, movements, and facial expressions of the lead actor, allowing the director and crew to set up lighting, camera angles, and blocking before the actor's actual performance. This crucial role requires flexibility, patience, and the ability to take direction well. Stand-ins play a vital role in ensuring the smooth running of production and contribute to the overall success of a project.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Stand-In or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Stand-In interviews to help you prepare and succeed.

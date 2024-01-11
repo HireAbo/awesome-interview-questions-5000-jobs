@@ -2,6 +2,8 @@
 
 Welcome to the Ethnohistorian Interview Preparation ! This resource is designed to help you ace your Ethnohistorian interviews with confidence.
 
+An ethnohistorian is a specialized professional within the field of anthropology, focusing on the study of human cultures and their historical development. Ethnohistorians combine the methodologies of anthropology and history to investigate the social, cultural, and political aspects of different societies throughout time. They engage in extensive research, utilizing written records, oral histories, archaeological findings, and other relevant sources to reconstruct past events and understand the dynamics of cultural change. Ethnohistorians often work closely with indigenous communities and collaborate with archaeologists, linguists, and other scholars to interpret and analyze historical data. Their findings contribute to a deeper understanding of the complexities of human societies and the preservation of cultural heritage.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Ethnohistorian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Ethnohistorian interviews to help you prepare and succeed.

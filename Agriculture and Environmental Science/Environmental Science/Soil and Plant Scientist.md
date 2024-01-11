@@ -2,6 +2,8 @@
 
 Welcome to the Soil and Plant Scientist Interview Preparation ! This resource is designed to help you ace your Soil and Plant Scientist interviews with confidence.
 
+Agriculture and Environmental Science play a crucial role in ensuring sustainable development and the preservation of our planet. Environmental Science focuses on understanding the interactions between humans and the environment, while Agriculture focuses on cultivating crops and raising livestock for food production. Within Environmental Science, the profession of Soil and Plant Scientist is of great significance. These professionals are responsible for studying soil composition, fertility, and quality, as well as analyzing plant growth patterns and developing strategies to improve agricultural productivity while minimizing environmental impact. They work closely with farmers and other stakeholders to promote sustainable land management practices and ensure food security in an environmentally friendly manner.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Soil and Plant Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Soil and Plant Scientist interviews to help you prepare and succeed.

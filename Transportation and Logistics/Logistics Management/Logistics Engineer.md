@@ -2,6 +2,8 @@
 
 Welcome to the Logistics Engineer Interview Preparation ! This resource is designed to help you ace your Logistics Engineer interviews with confidence.
 
+A Logistics Engineer plays a crucial role in the field of Transportation and Logistics. They are responsible for the efficient planning, implementation, and management of the movement and storage of goods, materials, and information. Their primary goal is to optimize supply chain operations, reduce costs, and improve overall productivity. A Logistics Engineer utilizes analytical and problem-solving skills to design and develop efficient processes for inventory management, warehouse layout, transportation routes, and distribution networks. They also collaborate with different stakeholders, including suppliers, manufacturers, and customers, to ensure seamless coordination and timely delivery of goods. A successful Logistics Engineer possesses excellent organizational, communication, and project management skills to effectively streamline operations and enhance customer satisfaction.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Logistics Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Logistics Engineer interviews to help you prepare and succeed.

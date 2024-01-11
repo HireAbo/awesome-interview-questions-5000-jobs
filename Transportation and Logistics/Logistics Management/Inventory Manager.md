@@ -2,6 +2,8 @@
 
 Welcome to the Inventory Manager Interview Preparation ! This resource is designed to help you ace your Inventory Manager interviews with confidence.
 
+The role of an Inventory Manager in Transportation and Logistics is crucial in ensuring the smooth and efficient functioning of supply chains. As an Inventory Manager, you would be responsible for overseeing the flow of goods from supplier to customer, managing inventory levels, and optimizing stock control procedures. Your primary objective would be to ensure that inventory is properly managed to meet customer demands while minimizing costs and maximizing profitability. This would involve forecasting demand, coordinating with suppliers and warehouse teams, implementing inventory control systems, monitoring stock levels, and analyzing data to identify areas for improvement. Strong organizational, analytical, and problem-solving skills are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Inventory Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Inventory Manager interviews to help you prepare and succeed.

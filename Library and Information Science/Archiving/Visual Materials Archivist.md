@@ -2,6 +2,8 @@
 
 Welcome to the Visual Materials Archivist Interview Preparation ! This resource is designed to help you ace your Visual Materials Archivist interviews with confidence.
 
+Library and Information Science (LIS) is a multidisciplinary field that focuses on the organization, retrieval, and management of information resources. Within LIS, archiving plays a crucial role in preserving and providing access to historical records and materials. Visual Materials Archivists are professionals who specialize in managing and preserving visual materials, such as photographs, films, and videos, in various formats. They possess expertise in cataloging, digitization, storage, and conservation techniques to ensure the long-term preservation of these valuable resources. Visual Materials Archivists work in libraries, museums, archives, and cultural heritage institutions, collaborating with researchers, curators, and the public to promote access and understanding of visual materials for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Visual Materials Archivist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Visual Materials Archivist interviews to help you prepare and succeed.

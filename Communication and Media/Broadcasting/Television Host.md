@@ -2,6 +2,8 @@
 
 Welcome to the Television Host Interview Preparation ! This resource is designed to help you ace your Television Host interviews with confidence.
 
+A television host is a charismatic and confident individual who leads and presents various programs on television. They are responsible for engaging with the audience, conducting interviews, and delivering information in an entertaining and informative manner. A television host must possess excellent communication skills, as they need to effectively convey ideas and maintain the interest of viewers. They also need to have a good understanding of current events, pop culture, and industry trends. A successful television host is adaptable, quick-thinking, and able to think on their feet. They must also have a strong on-screen presence and the ability to connect with a diverse audience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Television Host or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Television Host interviews to help you prepare and succeed.

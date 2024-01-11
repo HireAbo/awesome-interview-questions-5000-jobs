@@ -2,6 +2,8 @@
 
 Welcome to the Transit Police Officer Interview Preparation ! This resource is designed to help you ace your Transit Police Officer interviews with confidence.
 
+A Transit Police Officer is a law enforcement professional who specializes in maintaining safety and security within the public transportation system. These officers are responsible for enforcing laws and regulations, preventing crimes, and ensuring the well-being of passengers and employees. They patrol stations, platforms, and trains, responding to emergencies, disturbances, and criminal activities. Transit Police Officers work closely with local law enforcement agencies, transportation authorities, and other emergency service providers to coordinate efforts and maintain effective communication. They are skilled in investigations, surveillance, crowd control, and self-defense techniques. A career as a Transit Police Officer offers opportunities to contribute to public safety while serving the community's transportation needs.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Transit Police Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Transit Police Officer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Editorial Assistant Interview Preparation ! This resource is designed to help you ace your Editorial Assistant interviews with confidence.
 
+An Editorial Assistant in the field of Communication and Media Journalism plays a vital role in supporting the editorial team to ensure the smooth production of high-quality content. Working closely with editors and writers, the assistant contributes to the overall success of a publication by conducting research, fact-checking, and proofreading articles. They also assist in coordinating schedules, managing correspondence, and organizing editorial files. Additionally, an Editorial Assistant may have the opportunity to contribute their own ideas and writing to various projects. With strong communication skills and attention to detail, this role is crucial in maintaining the integrity and accuracy of journalistic content.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Editorial Assistant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Editorial Assistant interviews to help you prepare and succeed.

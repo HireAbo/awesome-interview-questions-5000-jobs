@@ -2,6 +2,8 @@
 
 Welcome to the Perfusionist Interview Preparation ! This resource is designed to help you ace your Perfusionist interviews with confidence.
 
+A Perfusionist is a highly skilled healthcare professional who plays a crucial role in the field of medicine. They are specialized in operating the heart-lung machine during cardiac surgeries and other procedures requiring cardiopulmonary bypass. Perfusionists are responsible for monitoring and maintaining a patient's blood circulation and oxygenation while the heart is temporarily stopped. They ensure the proper functioning of the heart-lung machine, adjust its parameters according to the patient's needs, and administer medications as required. With their expertise in extracorporeal circulation, Perfusionists contribute significantly to the success and safety of complex surgical procedures, making them an integral part of the healthcare team.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Perfusionist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Perfusionist interviews to help you prepare and succeed.

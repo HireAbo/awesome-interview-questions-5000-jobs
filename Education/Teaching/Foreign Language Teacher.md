@@ -2,6 +2,8 @@
 
 Welcome to the Foreign Language Teacher Interview Preparation ! This resource is designed to help you ace your Foreign Language Teacher interviews with confidence.
 
+A Foreign Language Teacher is an essential role within the field of education, focusing on the instruction of foreign languages to students. These professionals play a critical role in helping students develop fluency and proficiency in a foreign language, imparting not only language skills but also cultural knowledge and understanding. Foreign Language Teachers use various teaching methods, resources, and technology to engage students in language learning, including interactive activities, multimedia materials, and conversation practice. They create lesson plans, evaluate student progress, and provide constructive feedback to support continuous improvement. Effective communication, cultural sensitivity, and a passion for languages are key attributes of a successful Foreign Language Teacher.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Foreign Language Teacher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Foreign Language Teacher interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Entrepreneur Interview Preparation ! This resource is designed to help you ace your Entrepreneur interviews with confidence.
 
+Entrepreneurship is a dynamic field within business and management that focuses on the creation and development of new ventures. Entrepreneurial job roles require individuals to possess a unique set of skills, including creativity, risk-taking, and the ability to identify and seize opportunities. Entrepreneurs are responsible for recognizing market gaps, developing innovative ideas, and implementing strategies to turn these ideas into successful businesses. They often face challenges such as securing funding, managing resources, and building a strong team. Entrepreneurship offers individuals the opportunity to make a significant impact on the economy, society, and their own personal and professional growth.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Entrepreneur or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Entrepreneur interviews to help you prepare and succeed.

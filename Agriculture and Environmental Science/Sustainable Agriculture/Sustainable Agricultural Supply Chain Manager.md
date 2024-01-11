@@ -2,6 +2,8 @@
 
 Welcome to the Sustainable Agricultural Supply Chain Manager Interview Preparation ! This resource is designed to help you ace your Sustainable Agricultural Supply Chain Manager interviews with confidence.
 
+Agriculture and Environmental Science is a field that focuses on the intersection of agriculture, natural resources, and the environment. Sustainable Agriculture, within this discipline, aims to maximize agricultural productivity while minimizing negative impacts on the environment. One crucial role in the realm of sustainable agriculture is that of a Sustainable Agricultural Supply Chain Manager. This job involves overseeing the entire process of agricultural production, from farm to consumer, with a focus on sustainability. The manager ensures that all aspects of the supply chain, including sourcing, production, distribution, and waste management, adhere to sustainable practices. They play a vital role in promoting environmentally-friendly farming methods, reducing waste, and ensuring the availability of sustainable food sources for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sustainable Agricultural Supply Chain Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sustainable Agricultural Supply Chain Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Speechwriter Interview Preparation ! This resource is designed to help you ace your Speechwriter interviews with confidence.
 
+A speechwriter in the field of Political Science is a professional who crafts compelling and persuasive speeches for politicians, government officials, and other public figures. This specialized role combines the knowledge of both Social Sciences and Political Science to effectively communicate ideas, policies, and messages to the public. A speechwriter must possess excellent writing skills, a deep understanding of political ideologies, and an ability to adapt to various public speaking styles. They work closely with their clients to develop speeches that resonate with their target audience and reflect their political objectives. A speechwriter plays a crucial role in shaping public opinion, influencing political discourse, and shaping the narrative of political campaigns.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Speechwriter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Speechwriter interviews to help you prepare and succeed.

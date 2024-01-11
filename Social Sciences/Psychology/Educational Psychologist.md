@@ -2,6 +2,8 @@
 
 Welcome to the Educational Psychologist Interview Preparation ! This resource is designed to help you ace your Educational Psychologist interviews with confidence.
 
+Educational psychologists are professionals who specialize in the field of psychology, specifically focusing on the educational system. They play a crucial role in understanding and addressing the psychological factors that impact learning and development. These professionals work closely with educators, parents, and students to create effective learning environments that meet the individual needs of students. Educational psychologists conduct assessments to identify learning difficulties, emotional issues, and behavioral challenges, and then develop intervention strategies to address them. They also provide guidance and support to teachers, helping them to implement appropriate teaching techniques and interventions. Ultimately, educational psychologists aim to enhance the overall educational experience and ensure optimal academic and emotional development for students.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Educational Psychologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Educational Psychologist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Seaplane Pilot Interview Preparation ! This resource is designed to help you ace your Seaplane Pilot interviews with confidence.
 
+A Seaplane Pilot is a skilled professional who operates and navigates seaplanes, which are aircraft capable of taking off and landing on water. As a Seaplane Pilot, one must possess excellent flying skills and knowledge of aviation regulations and safety procedures. These pilots are responsible for conducting pre-flight inspections, ensuring the aircraft's airworthiness, and calculating fuel requirements. They must be able to adapt to different weather conditions and possess exceptional communication skills to effectively interact with air traffic controllers and passengers. Seaplane Pilots often work in remote areas or regions with limited infrastructures, providing transportation services, scenic tours, and emergency response support. Their role requires precision, adaptability, and a passion for flying.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Seaplane Pilot or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Seaplane Pilot interviews to help you prepare and succeed.

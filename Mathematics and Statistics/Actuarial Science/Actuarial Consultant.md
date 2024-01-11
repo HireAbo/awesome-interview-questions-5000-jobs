@@ -2,6 +2,8 @@
 
 Welcome to the Actuarial Consultant Interview Preparation ! This resource is designed to help you ace your Actuarial Consultant interviews with confidence.
 
+Mathematics and Statistics are fundamental disciplines that deal with the study of numbers, patterns, and data analysis. They provide a strong foundation for various fields, including Actuarial Science. Actuarial Science applies mathematical and statistical techniques to assess and manage risks in the insurance and financial industries. Actuaries use their expertise to analyze data, develop models, and make predictions to help businesses make informed decisions about risk and uncertainty. Actuarial Consultants play a crucial role in this field by providing expert advice to clients on risk management, designing insurance products, estimating future liabilities, and ensuring regulatory compliance. Their work requires strong analytical and problem-solving skills, as well as excellent communication and business acumen.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Actuarial Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Actuarial Consultant interviews to help you prepare and succeed.

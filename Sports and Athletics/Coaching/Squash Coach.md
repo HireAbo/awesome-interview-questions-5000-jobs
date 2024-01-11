@@ -2,6 +2,8 @@
 
 Welcome to the Squash Coach Interview Preparation ! This resource is designed to help you ace your Squash Coach interviews with confidence.
 
+A Squash Coach plays an integral role in the world of sports and athletics. They are responsible for teaching and guiding individuals in the sport of squash, helping them develop their skills and reach their full potential. Squash coaches work closely with athletes of all ages and skill levels, from beginners to advanced players, providing personalized training programs and strategies. They design practice sessions, analyze players' techniques, and offer constructive feedback to improve their performance. Squash coaches also organize and oversee competitive matches and tournaments, ensuring fair play and sportsmanship. Their expertise and dedication contribute to the growth and success of squash players, both on and off the court.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Squash Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Squash Coach interviews to help you prepare and succeed.

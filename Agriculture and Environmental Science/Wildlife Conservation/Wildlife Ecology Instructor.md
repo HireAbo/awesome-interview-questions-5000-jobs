@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife Ecology Instructor Interview Preparation ! This resource is designed to help you ace your Wildlife Ecology Instructor interviews with confidence.
 
+The role of an Agriculture and Environmental Science - Wildlife Conservation - Wildlife Ecology Instructor is to educate and inspire students about the importance of wildlife conservation and ecology within the field of agriculture and environmental science. As an instructor, you will have the opportunity to teach various subjects related to wildlife conservation, including habitat management, species preservation, and ecological principles. Your responsibilities will include preparing and delivering lectures, creating engaging lesson plans, conducting research, and assessing student performance. Additionally, you will contribute to the development of curriculum, mentor students, and actively participate in conservation projects and fieldwork. This position requires a strong background in wildlife ecology, excellent communication skills, and a passion for environmental stewardship.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Ecology Instructor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Ecology Instructor interviews to help you prepare and succeed.

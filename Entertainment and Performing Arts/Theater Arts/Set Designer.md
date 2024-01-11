@@ -2,6 +2,8 @@
 
 Welcome to the Set Designer Interview Preparation ! This resource is designed to help you ace your Set Designer interviews with confidence.
 
+A Set Designer in the field of Theater Arts is responsible for creating and designing the physical environment for stage productions. They play a crucial role in bringing the director's vision to life, collaborating closely with the production team to ensure that the set design aligns with the overall concept of the performance. Set designers utilize their artistic and technical skills to create detailed drawings, models, and renderings of the set, considering aspects such as space utilization, aesthetics, and functionality. They work with various materials, props, and lighting techniques to build and transform the stage, creating immersive and visually captivating experiences for the audience. Set designers often have a deep understanding of theater history, styles, and contemporary trends, allowing them to create unique and impactful stage designs.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Set Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Set Designer interviews to help you prepare and succeed.

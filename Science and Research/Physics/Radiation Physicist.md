@@ -2,6 +2,8 @@
 
 Welcome to the Radiation Physicist Interview Preparation ! This resource is designed to help you ace your Radiation Physicist interviews with confidence.
 
+A Radiation Physicist job within the field of Physics involves conducting research and experiments to understand the behavior and effects of radiation. Radiation physicists play a crucial role in various areas, such as medical imaging and radiation therapy, nuclear power, and environmental protection. They develop and implement safety procedures, ensuring that radiation exposure is minimized and controlled. They also design and calibrate radiation detection equipment, analyze data, and interpret results. Furthermore, radiation physicists contribute to the development of innovative technologies and techniques to enhance radiation detection and protection. This profession requires a strong background in physics, mathematics, and engineering, as well as a meticulous attention to detail and a commitment to public health and safety.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Radiation Physicist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Radiation Physicist interviews to help you prepare and succeed.

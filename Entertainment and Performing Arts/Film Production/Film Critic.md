@@ -2,6 +2,8 @@
 
 Welcome to the Film Critic Interview Preparation ! This resource is designed to help you ace your Film Critic interviews with confidence.
 
+A film critic is a professional who analyzes and evaluates movies from a critical perspective. They play a significant role in the entertainment and performing arts industry by providing insightful reviews and opinions on various aspects of a film, including its storyline, acting, direction, cinematography, and overall impact. Film critics often work for newspapers, magazines, websites, or television shows, where they share their expertise and recommendations with the public. Through their reviews, they help audiences make informed decisions about the movies they choose to watch. Film critics possess a deep understanding of film history, theories, and techniques, allowing them to provide valuable insights into the art of filmmaking.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Film Critic or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Film Critic interviews to help you prepare and succeed.

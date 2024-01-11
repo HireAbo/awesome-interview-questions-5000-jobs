@@ -2,6 +2,8 @@
 
 Welcome to the PR Trainer Interview Preparation ! This resource is designed to help you ace your PR Trainer interviews with confidence.
 
+A PR Trainer is a professional who specializes in training individuals or groups in the field of Public Relations (PR). They play a crucial role in enhancing the communication and media skills of PR practitioners. As a PR Trainer, their primary responsibility is to impart knowledge and skills related to PR strategies, media relations, crisis communication, and reputation management. They design and deliver training programs, workshops, and seminars to help PR professionals stay updated with the latest industry trends and best practices. PR Trainers also provide guidance and mentorship to improve the overall effectiveness and efficiency of PR campaigns, ensuring successful communication and media outcomes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned PR Trainer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in PR Trainer interviews to help you prepare and succeed.

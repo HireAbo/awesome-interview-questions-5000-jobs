@@ -2,6 +2,8 @@
 
 Welcome to the Cinematographer Interview Preparation ! This resource is designed to help you ace your Cinematographer interviews with confidence.
 
+A cinematographer plays a crucial role in the world of film production. They are responsible for capturing the visual elements of a film, working closely with the director to bring their vision to life. Cinematographers are skilled in the art of lighting, composition, and camera movement, creating the desired mood and atmosphere for each scene. They work with various types of cameras and equipment to capture the best possible shots, ensuring that the technical aspects of the film are of the highest quality. Their creativity and technical expertise contribute to the overall aesthetics and storytelling of a film, making the role of a cinematographer essential in the world of entertainment and performing arts.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cinematographer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cinematographer interviews to help you prepare and succeed.

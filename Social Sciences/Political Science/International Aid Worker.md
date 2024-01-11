@@ -2,6 +2,8 @@
 
 Welcome to the International Aid Worker Interview Preparation ! This resource is designed to help you ace your International Aid Worker interviews with confidence.
 
+An International Aid Worker job in Political Science within the field of Social Sciences is a highly demanding yet rewarding career path. As an International Aid Worker, individuals work towards promoting socio-economic development and improving the living conditions of marginalized communities in different countries. These professionals are responsible for coordinating and implementing various aid programs, including humanitarian assistance, disaster relief, and sustainable development initiatives. They collaborate with local governments, non-profit organizations, and international agencies to facilitate the delivery of aid and ensure its effectiveness. International Aid Workers in Political Science play a crucial role in fostering international cooperation, advocating for human rights, and addressing global challenges, such as poverty, conflict, and inequality.
+
 ## 🚀 Overview
 
 Whether you're a seasoned International Aid Worker or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in International Aid Worker interviews to help you prepare and succeed.

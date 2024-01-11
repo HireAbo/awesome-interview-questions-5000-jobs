@@ -2,6 +2,8 @@
 
 Welcome to the Project Management Specialist Interview Preparation ! This resource is designed to help you ace your Project Management Specialist interviews with confidence.
 
+A Project Management Specialist is a professional responsible for overseeing and executing projects within an organization. They possess strong leadership and organizational skills, ensuring that projects are delivered on time, within budget, and meet the desired objectives. These specialists are involved in all phases of project development, including planning, execution, monitoring, and closing. They collaborate with cross-functional teams, stakeholders, and vendors to define project scope, allocate resources, and ensure efficient project implementation. Project Management Specialists also manage risks, resolve conflicts, and communicate project progress to key stakeholders. They must have excellent problem-solving abilities, strong communication skills, and the ability to work under pressure while maintaining attention to detail.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Project Management Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Project Management Specialist interviews to help you prepare and succeed.

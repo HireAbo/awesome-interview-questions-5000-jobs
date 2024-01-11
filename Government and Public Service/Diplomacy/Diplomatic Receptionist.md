@@ -2,6 +2,8 @@
 
 Welcome to the Diplomatic Receptionist Interview Preparation ! This resource is designed to help you ace your Diplomatic Receptionist interviews with confidence.
 
+A Diplomatic Receptionist plays a crucial role in the government and public service sector, specifically in the field of diplomacy. They are responsible for providing exceptional administrative support to diplomatic missions and high-level officials. As the first point of contact, they greet visitors, answer phone calls, and manage appointments, ensuring a professional and welcoming environment. In addition, they assist in organizing diplomatic events, such as receptions and meetings, and handle sensitive and confidential information with utmost discretion. Their exceptional communication skills, attention to detail, and ability to multitask make them an essential asset in maintaining diplomatic relations and upholding the image and protocol of the government.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Diplomatic Receptionist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Diplomatic Receptionist interviews to help you prepare and succeed.

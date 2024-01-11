@@ -2,6 +2,8 @@
 
 Welcome to the Job Coach for Special Education Interview Preparation ! This resource is designed to help you ace your Job Coach for Special Education interviews with confidence.
 
+A Job Coach for Special Education is a highly important role within the field of special education. They work closely with students with disabilities to develop their job skills and find employment opportunities. A Job Coach provides support and guidance to individuals with special needs, helping them navigate the challenges of the job market. They collaborate with employers to create inclusive work environments and ensure that the needs of the students are met. Job Coaches also assist in developing individualized job plans, teaching vocational skills, and providing ongoing training and support. Their ultimate goal is to empower individuals with disabilities to achieve independence and success in the workforce.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Job Coach for Special Education or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Job Coach for Special Education interviews to help you prepare and succeed.

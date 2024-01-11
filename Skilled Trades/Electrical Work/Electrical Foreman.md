@@ -2,6 +2,8 @@
 
 Welcome to the Electrical Foreman Interview Preparation ! This resource is designed to help you ace your Electrical Foreman interviews with confidence.
 
+The role of an Electrical Foreman in the field of skilled trades is crucial in overseeing and managing electrical work on construction projects. As a skilled professional, an Electrical Foreman possesses a deep understanding of electrical systems, codes, and regulations. They are responsible for coordinating and supervising a team of electricians, ensuring that all tasks are completed efficiently and safely. An Electrical Foreman also plays a vital role in project planning, estimating, and budgeting, as well as troubleshooting and resolving any electrical issues that may arise. Their expertise and leadership skills are essential in maintaining high-quality workmanship and delivering successful electrical installations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Electrical Foreman or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Electrical Foreman interviews to help you prepare and succeed.

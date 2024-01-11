@@ -2,6 +2,8 @@
 
 Welcome to the Project Planner Interview Preparation ! This resource is designed to help you ace your Project Planner interviews with confidence.
 
+A project planner plays a crucial role in business and management, specifically in project management. As a project planner, their primary responsibility is to oversee the entire project's planning and execution process. They collaborate with various stakeholders to define project objectives, create project plans, set milestones, allocate resources, and develop strategies to ensure project success. A project planner also monitors project progress, identifies potential risks, and implements measures to mitigate them. They possess excellent organizational and communication skills, as they are responsible for coordinating various teams and ensuring that everyone is on track to meet project goals. A project planner is an essential asset in driving project efficiency, meeting deadlines, and delivering high-quality results.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Project Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Project Planner interviews to help you prepare and succeed.

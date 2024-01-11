@@ -2,6 +2,8 @@
 
 Welcome to the Fisheries Biologist Interview Preparation ! This resource is designed to help you ace your Fisheries Biologist interviews with confidence.
 
+A Fisheries Biologist job involves the study and management of aquatic ecosystems and their inhabitants, specifically focusing on fish populations. These professionals conduct research to assess fish habitats, population dynamics, and behavior patterns. They also investigate the impact of environmental factors, pollution, and human activities on fish populations. Fisheries Biologists develop and implement conservation strategies to protect and enhance fish populations, ensuring their sustainability and contributing to the preservation of aquatic biodiversity. They work closely with government agencies, research institutions, and conservation organizations to provide expertise in fisheries management, policy development, and the enforcement of regulations. This job requires a strong scientific background, fieldwork experience, and a passion for marine life conservation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Fisheries Biologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Fisheries Biologist interviews to help you prepare and succeed.

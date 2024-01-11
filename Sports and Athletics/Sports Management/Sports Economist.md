@@ -2,6 +2,8 @@
 
 Welcome to the Sports Economist Interview Preparation ! This resource is designed to help you ace your Sports Economist interviews with confidence.
 
+Sports and Athletics involve a wide range of activities that require physical exertion and skill, including team sports, individual sports, and other recreational pursuits. Within the realm of Sports Management, professionals work behind the scenes to ensure the smooth operation of sports organizations, teams, and events. A Sports Economist specifically focuses on the financial aspects of the sports industry, analyzing trends, making forecasts, and providing recommendations to improve financial performance. They examine revenue streams, ticket sales, sponsorship deals, and other economic factors to help sports organizations maximize their profitability. Sports Economists play a vital role in ensuring the financial sustainability and success of sports entities in an ever-evolving and competitive industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sports Economist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sports Economist interviews to help you prepare and succeed.

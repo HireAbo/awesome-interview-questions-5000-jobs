@@ -2,6 +2,8 @@
 
 Welcome to the Feature Writer Interview Preparation ! This resource is designed to help you ace your Feature Writer interviews with confidence.
 
+A Feature Writer in the field of Journalism is responsible for creating engaging and well-researched content for various media platforms. This role requires exceptional writing skills, extensive knowledge of current events, and the ability to tell compelling stories. Feature Writers often focus on in-depth reporting, human interest stories, and analysis of social, cultural, or political issues. They work closely with editors, conducting interviews, researching topics, and crafting informative and entertaining articles. This job requires adaptability, creativity, and the ability to meet deadlines. Feature Writers play a crucial role in shaping public opinion and providing thought-provoking content to readers across different media channels.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Feature Writer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Feature Writer interviews to help you prepare and succeed.

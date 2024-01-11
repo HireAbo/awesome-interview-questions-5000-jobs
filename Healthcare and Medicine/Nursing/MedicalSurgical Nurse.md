@@ -2,6 +2,8 @@
 
 Welcome to the Medical-Surgical Nurse Interview Preparation ! This resource is designed to help you ace your Medical-Surgical Nurse interviews with confidence.
 
+A medical-surgical nurse is a specialized healthcare professional who provides care to patients in a variety of medical settings, such as hospitals, clinics, and surgical centers. These nurses are responsible for the treatment and management of patients with acute and chronic medical conditions, including those who have undergone surgery. They work closely with physicians and other healthcare professionals to develop and implement patient care plans, administer medications, monitor vital signs, and provide emotional support to patients and their families. Medical-surgical nurses must possess strong critical thinking and communication skills, as they often encounter complex and rapidly changing patient situations. Their dedication to providing high-quality and compassionate care makes them an integral part of the healthcare team.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Medical-Surgical Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Medical-Surgical Nurse interviews to help you prepare and succeed.

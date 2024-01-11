@@ -2,6 +2,8 @@
 
 Welcome to the Civil Engineer Interview Preparation ! This resource is designed to help you ace your Civil Engineer interviews with confidence.
 
+Civil engineering is a branch of engineering that deals with the design, construction, and maintenance of infrastructure projects. A civil engineer is responsible for planning and overseeing the construction of various structures such as bridges, roads, buildings, and dams. They work collaboratively with architects, urban planners, and construction teams to ensure that projects meet safety standards and are completed within budget and on time. Civil engineers are also involved in conducting site investigations, analyzing data, and creating detailed blueprints. Their role requires strong problem-solving skills, technical expertise, and the ability to work in a dynamic and challenging environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Civil Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Civil Engineer interviews to help you prepare and succeed.

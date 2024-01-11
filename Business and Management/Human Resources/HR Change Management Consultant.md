@@ -2,6 +2,8 @@
 
 Welcome to the HR Change Management Consultant Interview Preparation ! This resource is designed to help you ace your HR Change Management Consultant interviews with confidence.
 
+A HR Change Management Consultant is a professional who specializes in helping organizations navigate and implement changes within their human resources department. This role requires expertise in managing the people side of change and ensuring that employees are prepared and supported during the transition process. HR Change Management Consultants collaborate with stakeholders, such as HR leaders and executives, to identify areas for improvement and develop strategies for successful change implementation. They may be responsible for conducting assessments, creating change management plans, providing guidance and training to employees, and measuring the effectiveness of change initiatives. Ultimately, their goal is to drive organizational success by facilitating smooth transitions and maximizing employee engagement and productivity.
+
 ## 🚀 Overview
 
 Whether you're a seasoned HR Change Management Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in HR Change Management Consultant interviews to help you prepare and succeed.

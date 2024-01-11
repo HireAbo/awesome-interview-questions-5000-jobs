@@ -2,6 +2,8 @@
 
 Welcome to the Medical Research Analyst Interview Preparation ! This resource is designed to help you ace your Medical Research Analyst interviews with confidence.
 
+A Medical Research Analyst plays a crucial role in the field of healthcare and medicine by examining and evaluating data from medical research studies. They are responsible for analyzing and interpreting complex medical data, identifying trends, and drawing meaningful conclusions. These professionals work closely with medical researchers, physicians, and other healthcare professionals to provide critical insights and recommendations. A Medical Research Analyst utilizes their strong analytical skills, attention to detail, and knowledge of statistical analysis techniques to assess the effectiveness and safety of medical treatments, interventions, and procedures. They also contribute to the development of new medical innovations and advancements, ultimately improving patient care and outcomes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Medical Research Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Medical Research Analyst interviews to help you prepare and succeed.

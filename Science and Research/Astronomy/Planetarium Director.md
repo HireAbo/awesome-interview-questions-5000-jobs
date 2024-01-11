@@ -2,6 +2,8 @@
 
 Welcome to the Planetarium Director Interview Preparation ! This resource is designed to help you ace your Planetarium Director interviews with confidence.
 
+A Planetarium Director plays a vital role in the field of Astronomy and Research. As a leader in a planetarium, they are responsible for overseeing the operations, programming, and educational activities related to astronomy. They work closely with a team of experts to design and develop engaging presentations, shows, and exhibits that educate and inspire visitors about the wonders of the universe. A Planetarium Director also conducts research and stays up to date with the latest developments in astronomy, ensuring that the information presented is accurate and scientifically sound. They may also collaborate with other institutions and scientists to contribute to advancements in the field. Overall, this position requires a strong passion for astronomy, excellent communication skills, and a commitment to promoting scientific knowledge and understanding.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Planetarium Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Planetarium Director interviews to help you prepare and succeed.

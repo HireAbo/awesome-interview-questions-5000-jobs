@@ -2,6 +2,8 @@
 
 Welcome to the Data Science Project Manager Interview Preparation ! This resource is designed to help you ace your Data Science Project Manager interviews with confidence.
 
+Information Technology (IT) is a vast field that encompasses the use and management of computer systems, networks, and software to store, retrieve, transmit, and manipulate data. It involves the application of technology to solve business problems and enhance efficiency. Data Science, on the other hand, is a specialized branch of IT that focuses on extracting meaningful insights from large volumes of data using statistical techniques, machine learning algorithms, and programming languages. A Data Science Project Manager is responsible for overseeing and coordinating data science projects from inception to completion. They collaborate with cross-functional teams, define project goals, allocate resources, and ensure timely delivery of high-quality data-driven solutions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Science Project Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Science Project Manager interviews to help you prepare and succeed.

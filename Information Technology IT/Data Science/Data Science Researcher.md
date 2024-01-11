@@ -2,6 +2,12 @@
 
 Welcome to the Data Science Researcher Interview Preparation ! This resource is designed to help you ace your Data Science Researcher interviews with confidence.
 
+Information Technology (IT) is a broad field that encompasses the use, development, and management of computer systems, software, and networks to store, process, transmit, and retrieve information. It plays a crucial role in various industries, enabling efficient data management, communication, and decision-making processes.
+
+Within IT, Data Science is a specialized and rapidly growing field. It involves the extraction, analysis, and interpretation of large volumes of structured and unstructured data, with the aim of deriving valuable insights and making data-driven decisions. Data scientists use various statistical, mathematical, and computational techniques to uncover patterns, trends, and correlations from complex datasets.
+
+A Data Science Researcher job focuses on pushing the boundaries of data analysis and developing innovative methodologies to extract meaningful information from data. They conduct research, design experiments, develop algorithms, and implement statistical models to solve complex business problems. They are also responsible for presenting findings, creating visualizations, and collaborating with cross-functional teams to drive data-driven decision-making.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Science Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Science Researcher interviews to help you prepare and succeed.

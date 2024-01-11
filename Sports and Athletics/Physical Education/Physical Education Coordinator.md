@@ -2,6 +2,8 @@
 
 Welcome to the Physical Education Coordinator Interview Preparation ! This resource is designed to help you ace your Physical Education Coordinator interviews with confidence.
 
+The role of a Physical Education Coordinator is vital in promoting sports and athletics within an educational institution. As a coordinator, one is responsible for overseeing and developing the physical education curriculum, ensuring its alignment with academic goals and objectives. This involves designing and implementing various sports programs, organizing athletic events, and providing guidance to both students and teachers. Additionally, a Physical Education Coordinator collaborates with other departments to integrate physical activities into the overall educational experience. This role requires strong leadership and communication skills, as well as a passion for promoting health and wellness through sports and athletics. Ultimately, the Physical Education Coordinator plays a significant role in fostering a love for physical activity, teamwork, and healthy lifestyle choices among students.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Physical Education Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Physical Education Coordinator interviews to help you prepare and succeed.

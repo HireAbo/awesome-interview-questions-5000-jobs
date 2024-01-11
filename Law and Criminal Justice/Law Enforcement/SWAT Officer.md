@@ -2,6 +2,10 @@
 
 Welcome to the SWAT Officer Interview Preparation ! This resource is designed to help you ace your SWAT Officer interviews with confidence.
 
+A SWAT (Special Weapons and Tactics) Officer is a highly trained law enforcement professional who specializes in handling high-risk situations such as hostage rescues, armed standoffs, and counter-terrorism operations. These officers are part of specialized units within law enforcement agencies and are responsible for executing complex and dangerous missions with precision and efficiency. 
+
+SWAT officers undergo rigorous training in various tactical skills including firearms handling, close-quarters combat, and crisis negotiation. They are equipped with advanced weaponry and tools to handle extreme situations that regular police officers may not be equipped to handle. Their primary goal is to protect public safety, minimize civilian casualties, and neutralize threats in the most effective and safe manner possible. SWAT officers work in collaboration with other law enforcement agencies and often operate in high-stress and unpredictable environments. Their commitment to upholding the law and ensuring public safety is crucial in maintaining peace and security within communities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned SWAT Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in SWAT Officer interviews to help you prepare and succeed.

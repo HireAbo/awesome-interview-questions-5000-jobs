@@ -2,6 +2,8 @@
 
 Welcome to the Theater Director Interview Preparation ! This resource is designed to help you ace your Theater Director interviews with confidence.
 
+A theater director is a creative and visionary professional responsible for overseeing the artistic direction and overall production of a theater performance. They work closely with actors, designers, and other members of the production team to bring a script to life on stage. Theater directors are skilled in interpreting scripts, developing a concept, and shaping the overall vision of the production. They guide actors in their performances, offering guidance and feedback to help them bring their characters to life. Strong organizational and leadership skills are essential for theater directors, as they are responsible for coordinating rehearsals, managing budgets, and ensuring the smooth running of the production.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Theater Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Theater Director interviews to help you prepare and succeed.

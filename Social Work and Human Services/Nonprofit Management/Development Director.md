@@ -2,6 +2,8 @@
 
 Welcome to the Development Director Interview Preparation ! This resource is designed to help you ace your Development Director interviews with confidence.
 
+The role of a Development Director in the field of Social Work and Human Services Nonprofit Management is crucial in ensuring the financial sustainability and growth of an organization. Development Directors are responsible for developing and implementing fundraising strategies to secure financial resources needed to support various programs and services. They collaborate with donors, foundations, and corporations to cultivate relationships and secure funding opportunities. Additionally, Development Directors oversee grant writing, donor stewardship, and fundraising events. Their role requires strong leadership, strategic planning, and excellent communication skills. Ultimately, Development Directors play a vital role in advancing the mission of the organization and improving the lives of those in need through their fundraising efforts.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Development Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Development Director interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Actuarial Researcher Interview Preparation ! This resource is designed to help you ace your Actuarial Researcher interviews with confidence.
 
+Mathematics and Statistics are essential fields that involve the study of numbers, patterns, and data analysis. Actuarial Science is a specialized branch that applies mathematical and statistical techniques to assess and manage risk in various industries, particularly in insurance and finance. Actuarial Researchers play a crucial role in this field by conducting in-depth analysis and research to develop models and methodologies for risk assessment and prediction. They utilize advanced mathematical and statistical tools to analyze large datasets, identify trends, and make informed predictions. Actuarial Researchers also play a vital role in developing and improving actuarial models and contribute to the overall growth and success of the insurance and financial sectors.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Actuarial Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Actuarial Researcher interviews to help you prepare and succeed.

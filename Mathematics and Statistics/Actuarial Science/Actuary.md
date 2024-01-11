@@ -2,6 +2,8 @@
 
 Welcome to the Actuary Interview Preparation ! This resource is designed to help you ace your Actuary interviews with confidence.
 
+Mathematics and Statistics are two fundamental fields that play a crucial role in Actuarial Science. Mathematics involves the study of numbers, quantities, and shapes, while Statistics focuses on collecting, analyzing, and interpreting data. Actuarial Science combines these disciplines to assess and manage risks in various industries, such as insurance and finance. Actuaries, professionals in this field, utilize their mathematical and statistical skills to evaluate the likelihood of future events, calculate financial costs, and design strategies to mitigate risks. They are responsible for analyzing complex data, creating models, and providing expert advice to help organizations make informed decisions and ensure financial stability. Actuaries play a vital role in safeguarding businesses against potential losses and ensuring sustainable growth.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Actuary or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Actuary interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Impact Analyst Interview Preparation ! This resource is designed to help you ace your Environmental Impact Analyst interviews with confidence.
 
+An Environmental Impact Analyst is a crucial position in the field of Environmental Science and Research. These professionals play a vital role in assessing and evaluating the potential impact of human activities on the environment. Their primary responsibility is to conduct comprehensive studies and research to determine the environmental consequences of proposed projects or policies. This includes analyzing data, conducting field studies, and utilizing computer models to predict and quantify the potential effects on natural resources, ecosystems, and overall environmental quality. Environmental Impact Analysts also collaborate with various stakeholders to develop strategies and recommendations for mitigating or minimizing adverse environmental impacts. Their work is essential in ensuring sustainable development and responsible decision-making in industries such as construction, energy, and transportation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Impact Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Impact Analyst interviews to help you prepare and succeed.

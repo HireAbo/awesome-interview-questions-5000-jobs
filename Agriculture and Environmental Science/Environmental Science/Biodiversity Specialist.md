@@ -2,6 +2,8 @@
 
 Welcome to the Biodiversity Specialist Interview Preparation ! This resource is designed to help you ace your Biodiversity Specialist interviews with confidence.
 
+Agriculture and environmental science are two interconnected fields that focus on sustainable practices and the preservation of natural resources. Within the discipline of environmental science, there are various specialized roles, including that of a Biodiversity Specialist. Biodiversity Specialists play a critical role in the conservation and management of ecosystems and their diverse inhabitants. They conduct research, monitor species populations, and develop strategies to protect and restore biodiversity. Their work involves collaborating with government agencies, non-profit organizations, and local communities to implement conservation initiatives. Biodiversity Specialists play a vital role in understanding the complex interactions within ecosystems and promoting the sustainable coexistence of humans and the natural world.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Biodiversity Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Biodiversity Specialist interviews to help you prepare and succeed.

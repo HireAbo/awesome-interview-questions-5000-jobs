@@ -2,6 +2,8 @@
 
 Welcome to the Coastal Planning Engineer Interview Preparation ! This resource is designed to help you ace your Coastal Planning Engineer interviews with confidence.
 
+A Coastal Planning Engineer specializes in the field of Civil Engineering, with a focus on coastal areas. These professionals play a crucial role in ensuring the sustainable development and protection of coastal regions. Their primary responsibility is to plan, design, and implement engineering projects that address the unique challenges posed by coastal environments, such as erosion, sea-level rise, and storm surges. Coastal Planning Engineers work closely with government agencies, environmental organizations, and local communities to develop strategies that promote the preservation and management of coastal resources. They utilize their expertise in hydraulic modeling, coastal engineering principles, and environmental regulations to create effective and resilient solutions that balance human needs with environmental conservation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Coastal Planning Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Coastal Planning Engineer interviews to help you prepare and succeed.

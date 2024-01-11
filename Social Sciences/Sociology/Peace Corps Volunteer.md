@@ -2,6 +2,8 @@
 
 Welcome to the Peace Corps Volunteer Interview Preparation ! This resource is designed to help you ace your Peace Corps Volunteer interviews with confidence.
 
+The Peace Corps Volunteer job in Sociology within the field of Social Sciences offers a unique opportunity for individuals passionate about making a positive impact on communities worldwide. As a Peace Corps Volunteer, sociologists work towards promoting social change, fostering cross-cultural understanding, and addressing various societal issues. This role involves conducting research, facilitating community development initiatives, and implementing programs aimed at improving education, healthcare, and economic opportunities. Peace Corps Volunteers in Sociology collaborate closely with local organizations and community members, utilizing their sociological expertise to address systemic inequalities, promote social justice, and empower marginalized populations. This job offers an incredible chance to contribute to global peace and sustainable development through sociological insights and direct community engagement.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Peace Corps Volunteer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Peace Corps Volunteer interviews to help you prepare and succeed.

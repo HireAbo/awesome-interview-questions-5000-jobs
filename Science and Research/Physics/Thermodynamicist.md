@@ -2,6 +2,8 @@
 
 Welcome to the Thermodynamicist Interview Preparation ! This resource is designed to help you ace your Thermodynamicist interviews with confidence.
 
+A thermodynamicist is a specialized physicist who focuses on studying and analyzing the principles of thermodynamics. This branch of physics deals with the relationship between heat, temperature, energy, and work. Thermodynamicists play a crucial role in scientific research by applying these principles to various real-world scenarios. They design experiments, collect and analyze data, and develop mathematical models to understand and predict the behavior of energy and heat transfer in different systems. Their work is essential in fields like engineering, environmental science, and materials science. Thermodynamicists contribute to advancements in energy efficiency, sustainable technologies, and the development of new materials with desired properties.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Thermodynamicist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Thermodynamicist interviews to help you prepare and succeed.

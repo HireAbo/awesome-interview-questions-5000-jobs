@@ -2,6 +2,8 @@
 
 Welcome to the Theater Archivist Interview Preparation ! This resource is designed to help you ace your Theater Archivist interviews with confidence.
 
+A Theater Archivist plays a crucial role in preserving and documenting the rich history of theater arts. They are responsible for collecting, organizing, and managing the vast array of materials related to theatrical productions, including scripts, photographs, set designs, costumes, and audiovisual recordings. This role requires a keen attention to detail, as archivists must carefully catalog and preserve these artifacts to ensure their long-term accessibility. Additionally, Theater Archivists may collaborate with researchers, scholars, and theater professionals to provide access to these resources for academic or artistic purposes. Through their work, Theater Archivists contribute to the preservation and celebration of theater arts, allowing future generations to appreciate and learn from the past.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Theater Archivist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Theater Archivist interviews to help you prepare and succeed.

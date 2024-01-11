@@ -2,6 +2,10 @@
 
 Welcome to the Veterinary Ophthalmology Technician Interview Preparation ! This resource is designed to help you ace your Veterinary Ophthalmology Technician interviews with confidence.
 
+Veterinary Medicine is a specialized field that focuses on the health and well-being of animals. Within this broad field, Veterinary Nursing is a crucial component, providing essential care and support to animals under the supervision of a veterinarian. Veterinary Nursing involves various responsibilities such as administering medication, assisting with surgeries, providing basic medical care, and educating pet owners on proper animal care.
+
+Within Veterinary Nursing, there is a specialized role known as a Veterinary Ophthalmology Technician. These professionals are trained to specifically assist veterinary ophthalmologists in diagnosing and treating eye-related issues in animals. Their duties may include conducting eye examinations, administering eye medications, assisting with eye surgeries, and educating pet owners on proper eye care. Veterinary Ophthalmology Technicians play a vital role in ensuring the optimal eye health of animals, contributing to their overall well-being.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Veterinary Ophthalmology Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Veterinary Ophthalmology Technician interviews to help you prepare and succeed.

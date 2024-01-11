@@ -2,6 +2,8 @@
 
 Welcome to the Unit Publicist Interview Preparation ! This resource is designed to help you ace your Unit Publicist interviews with confidence.
 
+A Unit Publicist plays a crucial role in the world of film production, specifically within the domain of Entertainment and Performing Arts. This job involves promoting and managing the public image of a film during its production phase. The Unit Publicist acts as a liaison between the film production team and the media, ensuring that accurate and positive information is disseminated to the public. They are responsible for generating publicity, coordinating interviews, and organizing press events. Additionally, the Unit Publicist handles crisis management by addressing any negative publicity that may arise. This role requires excellent communication skills, media savvy, and the ability to work under pressure in a fast-paced environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Unit Publicist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Unit Publicist interviews to help you prepare and succeed.

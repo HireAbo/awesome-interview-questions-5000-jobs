@@ -2,6 +2,8 @@
 
 Welcome to the School Social Worker Interview Preparation ! This resource is designed to help you ace your School Social Worker interviews with confidence.
 
+A School Social Worker is an essential member of the education system, providing crucial support to students, families, and school staff. As an advocate for students' well-being, a School Social Worker focuses on addressing social, emotional, and behavioral issues that may hinder a student's academic success. They work closely with teachers, parents, and administrators to develop and implement intervention strategies, assess students' needs, and provide individual and group counseling sessions. Additionally, they collaborate with outside agencies and community resources to ensure students receive the necessary support. A School Social Worker plays a vital role in promoting a positive and inclusive school environment, fostering students' social-emotional development, and helping them achieve their full potential.
+
 ## 🚀 Overview
 
 Whether you're a seasoned School Social Worker or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in School Social Worker interviews to help you prepare and succeed.

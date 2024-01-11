@@ -2,6 +2,8 @@
 
 Welcome to the Community Relations Manager Interview Preparation ! This resource is designed to help you ace your Community Relations Manager interviews with confidence.
 
+A Community Relations Manager is a vital role within the field of Public Relations, specifically focusing on developing and maintaining relationships between an organization and its surrounding community. This position requires excellent communication skills and a deep understanding of media and public relations strategies. Community Relations Managers work to build a positive image for the organization by organizing community events, managing sponsorships, and implementing community outreach programs. They act as a liaison between the organization and various stakeholders, including local government officials, community organizations, and the general public. This role plays a crucial part in shaping the public perception of the organization and fostering positive relationships within the community.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Community Relations Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Community Relations Manager interviews to help you prepare and succeed.

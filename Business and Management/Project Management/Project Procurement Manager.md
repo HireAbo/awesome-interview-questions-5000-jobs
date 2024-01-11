@@ -2,6 +2,8 @@
 
 Welcome to the Project Procurement Manager Interview Preparation ! This resource is designed to help you ace your Project Procurement Manager interviews with confidence.
 
+A Project Procurement Manager plays a crucial role in the field of Project Management, specifically in the area of procurement. This job entails overseeing the procurement process for a project, ensuring that all necessary goods and services are obtained in a timely and cost-effective manner. The Project Procurement Manager is responsible for identifying project requirements, creating procurement strategies, and managing vendor relationships. This role requires strong analytical and negotiation skills, as well as the ability to collaborate with various stakeholders. Additionally, the Project Procurement Manager must have a solid understanding of procurement regulations and best practices to ensure compliance and successful project delivery.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Project Procurement Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Project Procurement Manager interviews to help you prepare and succeed.

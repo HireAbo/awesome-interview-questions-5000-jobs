@@ -2,6 +2,8 @@
 
 Welcome to the Mental Health Counselor Interview Preparation ! This resource is designed to help you ace your Mental Health Counselor interviews with confidence.
 
+Social work and human services encompass a wide range of professions aimed at providing assistance and support to individuals and communities in need. Within this field, the role of a mental health counselor is of paramount importance. Mental health counselors are professionals trained to assess, diagnose, and treat various mental and emotional disorders. They work with individuals, families, and groups to address issues such as depression, anxiety, addiction, and relationship problems. These counselors utilize various therapeutic techniques to help clients develop coping mechanisms, improve their mental well-being, and achieve personal growth. Mental health counselors play a vital role in promoting mental health and improving the overall quality of life for their clients.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Mental Health Counselor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Mental Health Counselor interviews to help you prepare and succeed.

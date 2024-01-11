@@ -2,6 +2,8 @@
 
 Welcome to the User Interface (UI) Developer Interview Preparation ! This resource is designed to help you ace your User Interface (UI) Developer interviews with confidence.
 
+A User Interface (UI) Developer is a professional who specializes in designing and developing the user interface of software applications. They play a crucial role in ensuring that the application is visually appealing, user-friendly, and intuitive. UI developers work closely with designers and software engineers to create interactive and engaging user interfaces. Their responsibilities include creating wireframes, prototyping, and implementing UI designs using programming languages such as HTML, CSS, and JavaScript. UI developers also conduct usability tests and gather feedback to continuously improve and enhance the user experience. Their expertise in UI design principles and programming languages makes them essential in the field of software development and information technology.
+
 ## 🚀 Overview
 
 Whether you're a seasoned User Interface (UI) Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in User Interface (UI) Developer interviews to help you prepare and succeed.

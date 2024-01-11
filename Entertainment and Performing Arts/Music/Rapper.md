@@ -2,6 +2,8 @@
 
 Welcome to the Rapper Interview Preparation ! This resource is designed to help you ace your Rapper interviews with confidence.
 
+Being a rapper is an exhilarating and dynamic profession within the realm of entertainment and performing arts. Rappers are skilled lyricists and musicians who use their words and rhythm to captivate audiences and convey powerful messages. Their job entails crafting unique and meaningful lyrics that reflect their own experiences, emotions, and observations. Rappers often collaborate with producers to create beats and melodies that complement their verses, resulting in a harmonious blend of music and storytelling. They perform live on various platforms, including concerts, events, and music festivals, where they engage with fans and bring their art to life. Rappers possess the ability to inspire, entertain, and provoke thought through their music, making them influential figures within the music industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Rapper or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Rapper interviews to help you prepare and succeed.

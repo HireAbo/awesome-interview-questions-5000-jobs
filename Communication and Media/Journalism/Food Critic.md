@@ -2,6 +2,8 @@
 
 Welcome to the Food Critic Interview Preparation ! This resource is designed to help you ace your Food Critic interviews with confidence.
 
+A food critic is a professional journalist who specializes in reporting and evaluating food and dining experiences. They play a crucial role in the field of journalism, specifically within the realm of food and beverage reporting. As a food critic, their primary responsibility is to sample and analyze various culinary offerings, such as restaurants, cafes, and food events, providing detailed and unbiased reviews. They possess a refined palate, extensive knowledge of different cuisines, and an ability to articulate their experiences and judgments. Food critics contribute to the communication and media industry by providing valuable insights and recommendations to readers, helping them make informed decisions about dining choices and enhancing their overall gastronomic experiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Food Critic or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Food Critic interviews to help you prepare and succeed.

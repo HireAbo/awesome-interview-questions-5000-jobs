@@ -2,6 +2,8 @@
 
 Welcome to the Conservation Biologist Interview Preparation ! This resource is designed to help you ace your Conservation Biologist interviews with confidence.
 
+Veterinary Medicine is a specialized field that focuses on the health and well-being of animals. It encompasses various aspects such as preventive care, diagnosis, treatment, and surgery for animals of all species. Within this field, Veterinary Research plays a crucial role in advancing animal health and welfare. This branch of veterinary medicine involves conducting scientific studies, clinical trials, and experiments to develop new treatments, vaccines, and diagnostic tools for animals. Additionally, Veterinary Research also plays a vital role in Conservation Biology. Conservation Biologists work to protect and preserve endangered species and their habitats, using their veterinary expertise to study and monitor the health of these animals in their natural environments.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Conservation Biologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Conservation Biologist interviews to help you prepare and succeed.

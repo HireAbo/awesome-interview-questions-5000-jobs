@@ -2,6 +2,8 @@
 
 Welcome to the Guest Services Manager Interview Preparation ! This resource is designed to help you ace your Guest Services Manager interviews with confidence.
 
+The role of a Guest Services Manager in the field of Hospitality and Tourism, specifically Hotel Management, is of utmost importance in ensuring exceptional guest experiences. As a Guest Services Manager, you are responsible for overseeing and coordinating all aspects of the guest services department within a hotel. This includes managing the front desk operations, concierge services, and bell staff, as well as ensuring guest satisfaction and resolving any issues or complaints. A key aspect of this role is maintaining high standards of customer service, training and supervising staff, and ensuring smooth operations in areas such as check-in/check-out procedures, room assignments, and guest inquiries. A Guest Services Manager acts as a liaison between guests and hotel management, ensuring a seamless and memorable stay for all guests.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Guest Services Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Guest Services Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Economic Researcher Interview Preparation ! This resource is designed to help you ace your Economic Researcher interviews with confidence.
 
+An Economic Researcher plays a crucial role in the field of Social Sciences, specifically Economics, by conducting in-depth analyses and studies to understand various economic phenomena. As an Economic Researcher, one is responsible for collecting and analyzing data, interpreting economic trends, and providing insights into economic policies and strategies. They may work for government agencies, financial institutions, think tanks, or research organizations. Economic Researchers utilize various research methodologies and statistical tools to gather and analyze economic data, and then present their findings through reports, presentations, or academic publications. The role requires strong analytical skills, critical thinking abilities, and a deep understanding of economic theories and principles.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Economic Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Economic Researcher interviews to help you prepare and succeed.

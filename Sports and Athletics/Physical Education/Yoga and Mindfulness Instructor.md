@@ -2,6 +2,8 @@
 
 Welcome to the Yoga and Mindfulness Instructor Interview Preparation ! This resource is designed to help you ace your Yoga and Mindfulness Instructor interviews with confidence.
 
+The role of a Yoga and Mindfulness Instructor within the field of Sports and Athletics, specifically in Physical Education, is to promote physical fitness, mental well-being, and a balanced lifestyle through the practice of yoga and mindfulness techniques. As an instructor, you will be responsible for designing and delivering yoga and mindfulness classes tailored to different age groups and fitness levels. You will guide students in various yoga poses, breathing exercises, and meditation techniques to enhance flexibility, strength, and focus. Additionally, you will educate individuals on the importance of self-care, stress management, and overall mind-body connection. Your role as an instructor will contribute to the overall wellness and personal development of students, fostering a positive and healthy environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Yoga and Mindfulness Instructor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Yoga and Mindfulness Instructor interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Actuarial Advisor Interview Preparation ! This resource is designed to help you ace your Actuarial Advisor interviews with confidence.
 
+Mathematics and Statistics are fundamental disciplines that involve the analysis, interpretation, and prediction of numerical data. These fields are crucial in various industries, including finance, insurance, and risk management. Actuarial Science is a specialized branch of mathematics that applies statistical and mathematical methods to assess and manage financial risks. Actuarial Advisors play a vital role in this field by using their expertise to provide valuable insights and recommendations to individuals and organizations. They analyze complex data sets, evaluate risks, and develop strategies to mitigate them. Actuarial Advisors help clients make informed decisions regarding insurance, pension plans, investments, and other financial matters, ensuring optimal risk management and financial security.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Actuarial Advisor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Actuarial Advisor interviews to help you prepare and succeed.

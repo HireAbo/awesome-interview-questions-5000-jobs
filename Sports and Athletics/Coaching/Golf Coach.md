@@ -2,6 +2,8 @@
 
 Welcome to the Golf Coach Interview Preparation ! This resource is designed to help you ace your Golf Coach interviews with confidence.
 
+A Golf Coach plays a crucial role in the development and improvement of golfers' skills and techniques. They provide personalized instruction and guidance to players of all levels, from beginners to professionals. A Golf Coach is responsible for analyzing and assessing players' abilities, identifying areas for improvement, and developing tailored training programs accordingly. They teach golfers how to perfect their swing, improve their accuracy, enhance their putting skills, and strategize their game. Additionally, a Golf Coach may also provide mental and physical conditioning advice to help players maintain peak performance levels. Their ultimate goal is to help golfers reach their full potential and achieve their desired outcomes in the sport.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Golf Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Golf Coach interviews to help you prepare and succeed.

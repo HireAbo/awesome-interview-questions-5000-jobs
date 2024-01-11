@@ -2,6 +2,8 @@
 
 Welcome to the Sales Relationship Manager Interview Preparation ! This resource is designed to help you ace your Sales Relationship Manager interviews with confidence.
 
+A Sales Relationship Manager plays a crucial role in the retail and sales industry by building and maintaining strong relationships with clients and customers. This job involves effectively managing sales accounts, understanding customers' needs, and providing personalized solutions to drive sales and maximize customer satisfaction. The Sales Relationship Manager acts as a liaison between the sales team and clients, ensuring smooth communication and collaboration. They are responsible for identifying new business opportunities, negotiating contracts, and managing sales pipelines. With exceptional interpersonal and communication skills, they establish trust and credibility with clients, ultimately contributing to the success and growth of the organization.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sales Relationship Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sales Relationship Manager interviews to help you prepare and succeed.

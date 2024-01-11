@@ -2,6 +2,8 @@
 
 Welcome to the Occupational Therapist Interview Preparation ! This resource is designed to help you ace your Occupational Therapist interviews with confidence.
 
+An Occupational Therapist (OT) working in the field of Special Education plays a vital role in helping children with disabilities or special needs achieve their educational goals. These professionals focus on improving the physical, cognitive, sensory, and motor skills of students, enabling them to participate fully in educational activities. OTs assess the individual needs of each student and develop personalized intervention plans to enhance their functional abilities. They utilize a variety of therapeutic techniques, such as sensory integration, adaptive equipment, and assistive technology, to promote independence, self-confidence, and academic success. Occupational Therapists in Special Education collaborate with teachers, parents, and other professionals to ensure an inclusive and supportive learning environment for every child.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Occupational Therapist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Occupational Therapist interviews to help you prepare and succeed.

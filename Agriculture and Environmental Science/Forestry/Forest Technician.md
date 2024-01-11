@@ -2,6 +2,8 @@
 
 Welcome to the Forest Technician Interview Preparation ! This resource is designed to help you ace your Forest Technician interviews with confidence.
 
+Agriculture and Environmental Science encompasses various disciplines, including Forestry, which focuses on the management and conservation of forests. Within the field of Forestry, Forest Technicians play a vital role in ensuring the sustainable utilization and preservation of forest resources. Forest Technicians are responsible for conducting fieldwork, collecting data, and assisting in the development and implementation of forest management plans. They assess forest health, monitor wildlife populations, and contribute to reforestation efforts. With a strong understanding of ecosystems and natural resource management, Forest Technicians work closely with forestry professionals to promote forest stewardship, maintain biodiversity, and mitigate the impact of climate change on forest ecosystems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forest Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forest Technician interviews to help you prepare and succeed.

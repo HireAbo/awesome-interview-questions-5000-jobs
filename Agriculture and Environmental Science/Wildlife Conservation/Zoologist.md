@@ -2,6 +2,8 @@
 
 Welcome to the Zoologist Interview Preparation ! This resource is designed to help you ace your Zoologist interviews with confidence.
 
+Agriculture and Environmental Science encompasses the study of the natural environment and the impact of human activities on it. This interdisciplinary field aims to find sustainable solutions to global challenges such as food security, climate change, and biodiversity loss. Within this domain, Wildlife Conservation focuses on the preservation and management of wildlife populations and their habitats. Zoologists play a crucial role in this field by studying animals, their behavior, and their ecosystems. They conduct research, collect data, and analyze it to understand the dynamics of animal populations. Zoologists also work to develop conservation strategies and policies to ensure the long-term survival of various species and maintain the delicate balance of ecosystems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Zoologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Zoologist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Hotel Administrator Interview Preparation ! This resource is designed to help you ace your Hotel Administrator interviews with confidence.
 
+Hospitality and Tourism is a thriving industry that focuses on providing exceptional services to guests and ensuring their satisfaction. Within this industry, Hotel Management plays a crucial role in overseeing the day-to-day operations of hotels, resorts, and other accommodation establishments. One key position in Hotel Management is that of a Hotel Administrator. As a Hotel Administrator, you are responsible for managing various aspects of the hotel, including staff supervision, financial management, guest relations, and overall administration. This role requires excellent organizational and leadership skills, as well as the ability to multitask and problem-solve effectively. Hotel Administrators play a pivotal role in maintaining high standards of service and ensuring a positive guest experience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Hotel Administrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Hotel Administrator interviews to help you prepare and succeed.

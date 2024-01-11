@@ -2,6 +2,8 @@
 
 Welcome to the Aircraft Electrical Systems Technician Interview Preparation ! This resource is designed to help you ace your Aircraft Electrical Systems Technician interviews with confidence.
 
+An Aircraft Electrical Systems Technician plays a vital role in the field of Aviation and Aerospace. This job involves the maintenance and repair of electrical systems in aircraft, ensuring they function smoothly and safely. These technicians are responsible for inspecting, testing, and troubleshooting various electrical components, such as generators, wiring systems, lighting systems, and navigation equipment. They use specialized tools and equipment to diagnose and fix any issues, as well as perform regular maintenance tasks to prevent future problems. Attention to detail, technical skills, and adherence to safety protocols are crucial for an Aircraft Electrical Systems Technician to ensure the reliability and efficiency of aircraft electrical systems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Aircraft Electrical Systems Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Aircraft Electrical Systems Technician interviews to help you prepare and succeed.

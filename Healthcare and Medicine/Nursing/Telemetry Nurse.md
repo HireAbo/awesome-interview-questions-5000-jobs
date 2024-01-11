@@ -2,6 +2,8 @@
 
 Welcome to the Telemetry Nurse Interview Preparation ! This resource is designed to help you ace your Telemetry Nurse interviews with confidence.
 
+A Telemetry Nurse is a specialized healthcare professional who plays a vital role in the field of healthcare and medicine. Their primary responsibility is to monitor and interpret vital signs, such as heart rate, blood pressure, and oxygen levels, of patients who require continuous monitoring. They work in telemetry units, where patients with critical conditions, such as those recovering from cardiac surgeries or experiencing heart-related issues, are monitored. Telemetry Nurses collaborate with the healthcare team to develop and implement treatment plans, administer medications, and provide emotional support to patients and their families. Their expertise in cardiac monitoring and their ability to respond swiftly to any changes in patients' conditions make them an essential part of the healthcare team.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Telemetry Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Telemetry Nurse interviews to help you prepare and succeed.

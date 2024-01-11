@@ -2,6 +2,8 @@
 
 Welcome to the Marketing Coordinator Interview Preparation ! This resource is designed to help you ace your Marketing Coordinator interviews with confidence.
 
+A Marketing Coordinator plays a crucial role in the field of business and management. As a key member of the marketing team, their primary responsibility is to assist in the development and implementation of marketing strategies to promote products or services. They work closely with various departments to ensure effective coordination and execution of marketing campaigns, events, and initiatives. A Marketing Coordinator is responsible for conducting market research, analyzing consumer behavior, and identifying potential target markets. They also assist in creating marketing materials, managing social media platforms, and monitoring marketing budgets. Strong communication, organizational, and analytical skills are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Marketing Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Marketing Coordinator interviews to help you prepare and succeed.

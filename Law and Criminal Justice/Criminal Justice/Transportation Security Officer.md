@@ -2,6 +2,8 @@
 
 Welcome to the Transportation Security Officer Interview Preparation ! This resource is designed to help you ace your Transportation Security Officer interviews with confidence.
 
+A Transportation Security Officer (TSO) is a crucial component of the criminal justice system, specifically within the realm of transportation security. These professionals are responsible for ensuring the safety and security of passengers, airline personnel, and aircrafts at airports. TSOs play a vital role in preventing criminal activities, such as terrorism and smuggling, by thoroughly screening passengers, baggage, and cargo using state-of-the-art technology and techniques. They enforce federal regulations and guidelines, maintain a high level of situational awareness, and respond promptly to security threats or breaches. TSOs uphold the principles of law and order by maintaining a vigilant presence, providing a safe environment for air travel, and serving as frontline defenders against potential criminal acts.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Transportation Security Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Transportation Security Officer interviews to help you prepare and succeed.

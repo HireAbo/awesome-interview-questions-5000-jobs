@@ -2,6 +2,14 @@
 
 Welcome to the Library Technician Interview Preparation ! This resource is designed to help you ace your Library Technician interviews with confidence.
 
+Library and Information Science is a field that focuses on the organization, management, and dissemination of information resources within libraries and other information centers. It encompasses various areas, including cataloging, reference services, collection development, digital libraries, and information technology. 
+
+Within this field, librarianship refers to the profession of librarians who play a crucial role in ensuring that libraries function effectively. Librarians are responsible for tasks such as assisting patrons in finding information, managing library collections, designing and implementing programs and services, and promoting literacy and lifelong learning. They possess specialized knowledge and skills in organizing, evaluating, and providing access to information resources.
+
+Library technicians, on the other hand, support librarians in their daily operations. They perform tasks such as cataloging materials, maintaining databases, assisting patrons with basic research, and managing circulation systems. Library technicians typically have a solid understanding of library operations and possess technical skills to handle various library technologies.
+
+Both librarians and library technicians play critical roles in facilitating access to information, promoting literacy, and supporting lifelong learning within their communities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Library Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Library Technician interviews to help you prepare and succeed.

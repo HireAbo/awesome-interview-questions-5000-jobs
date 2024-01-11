@@ -2,6 +2,8 @@
 
 Welcome to the Project Engineer (Mechanical) Interview Preparation ! This resource is designed to help you ace your Project Engineer (Mechanical) interviews with confidence.
 
+A Project Engineer (Mechanical) is a professional in the field of mechanical engineering who is responsible for overseeing and managing various projects related to mechanical systems and equipment. They play a crucial role in the planning, designing, and execution of mechanical projects, ensuring that they are completed within budget, on time, and meet the required specifications and quality standards. Project Engineers (Mechanical) collaborate with cross-functional teams, including architects, contractors, and clients, to develop project plans, create technical drawings and specifications, evaluate and select appropriate materials and equipment, and monitor project progress. They also conduct feasibility studies, analyze data, and provide technical support throughout the project lifecycle.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Project Engineer (Mechanical) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Project Engineer (Mechanical) interviews to help you prepare and succeed.

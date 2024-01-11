@@ -2,6 +2,8 @@
 
 Welcome to the Trim Carpenter Interview Preparation ! This resource is designed to help you ace your Trim Carpenter interviews with confidence.
 
+A Trim Carpenter is a highly skilled tradesperson who specializes in finishing and installing trim work in buildings. They are responsible for creating and installing decorative elements such as baseboards, crown molding, window casings, and door frames. A Trim Carpenter is proficient in measuring, cutting, and shaping various materials such as wood, plastic, and composite materials to achieve precise and aesthetically pleasing results. They work closely with other construction professionals, including architects and interior designers, to ensure that the trim work complements the overall design and style of a space. A Trim Carpenter must possess excellent attention to detail, craftsmanship, and a thorough understanding of construction techniques and materials.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Trim Carpenter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Trim Carpenter interviews to help you prepare and succeed.

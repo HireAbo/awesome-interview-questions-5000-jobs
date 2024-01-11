@@ -2,6 +2,8 @@
 
 Welcome to the Veterinary Research Ethics Consultant Interview Preparation ! This resource is designed to help you ace your Veterinary Research Ethics Consultant interviews with confidence.
 
+A Veterinary Research Ethics Consultant plays a crucial role in ensuring the ethical conduct of veterinary research. With a deep understanding of veterinary medicine and research practices, their primary responsibility is to evaluate and provide guidance on the ethical aspects of animal research projects. They work closely with veterinarians, researchers, and institutional review boards to ensure that animal welfare is prioritized, and that research protocols comply with ethical guidelines and regulations. Additionally, they may assist in the development of animal research protocols, review research proposals, and provide training and education on ethical considerations in veterinary research. Their expertise is vital in maintaining the integrity and ethical standards of veterinary research.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Veterinary Research Ethics Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Veterinary Research Ethics Consultant interviews to help you prepare and succeed.

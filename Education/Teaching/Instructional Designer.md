@@ -2,6 +2,8 @@
 
 Welcome to the Instructional Designer Interview Preparation ! This resource is designed to help you ace your Instructional Designer interviews with confidence.
 
+The role of an Instructional Designer in the field of education is crucial for creating effective and engaging learning experiences. Instructional Designers are professionals who specialize in designing and developing educational materials, courses, and curriculum. They possess a deep understanding of instructional theories, learning strategies, and the use of technology to enhance the learning process. Instructional Designers collaborate with subject matter experts to identify learning objectives, design instructional strategies, and create relevant content. They also utilize various tools and technologies to develop interactive and multimedia-rich learning materials. Their ultimate goal is to create instructional experiences that promote effective learning and knowledge retention for learners of all ages and backgrounds.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Instructional Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Instructional Designer interviews to help you prepare and succeed.

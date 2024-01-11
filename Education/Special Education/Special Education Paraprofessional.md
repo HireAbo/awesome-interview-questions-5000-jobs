@@ -2,6 +2,8 @@
 
 Welcome to the Special Education Paraprofessional Interview Preparation ! This resource is designed to help you ace your Special Education Paraprofessional interviews with confidence.
 
+A Special Education Paraprofessional is a dedicated professional who provides support to students with special needs in educational settings. They work closely with special education teachers to assist students in achieving their academic and developmental goals. Special Education Paraprofessionals offer personalized attention and guidance to students with disabilities, helping them with tasks such as reading, writing, and communication. They may also provide physical assistance, behavioral management, and emotional support to ensure a safe and inclusive learning environment. These professionals play a crucial role in fostering the overall well-being and academic success of students with special needs, making a significant impact on their lives and educational journey.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Special Education Paraprofessional or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Special Education Paraprofessional interviews to help you prepare and succeed.

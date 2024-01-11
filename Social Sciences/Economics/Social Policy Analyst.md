@@ -2,6 +2,8 @@
 
 Welcome to the Social Policy Analyst Interview Preparation ! This resource is designed to help you ace your Social Policy Analyst interviews with confidence.
 
+A Social Policy Analyst in the field of Economics plays a critical role in understanding and evaluating the impact of government policies on society. This job involves conducting extensive research, analyzing data, and providing recommendations to improve social programs and policies. Social Policy Analysts assess the effectiveness of policies related to healthcare, education, employment, welfare, and more. They often collaborate with government agencies, non-profit organizations, and academic institutions to gather information and assess the social and economic implications of various policies. With their expertise, Social Policy Analysts aim to create positive social change and improve the well-being of individuals and communities through evidence-based policy recommendations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Social Policy Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Social Policy Analyst interviews to help you prepare and succeed.

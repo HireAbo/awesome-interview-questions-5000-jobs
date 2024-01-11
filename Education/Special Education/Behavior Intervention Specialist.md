@@ -2,6 +2,8 @@
 
 Welcome to the Behavior Intervention Specialist Interview Preparation ! This resource is designed to help you ace your Behavior Intervention Specialist interviews with confidence.
 
+A Behavior Intervention Specialist in the field of Special Education is a professional who specializes in providing support and guidance to students with behavioral challenges or disabilities. They work closely with teachers, parents, and other professionals to develop and implement behavior intervention plans that promote positive behavior and academic success. These specialists have a deep understanding of various behavior management strategies and techniques and utilize them to assess, monitor, and modify behaviors. They also collaborate with the school's multidisciplinary team to ensure that individualized education plans are effectively implemented. Overall, Behavior Intervention Specialists play a crucial role in creating a supportive and inclusive learning environment for students with special needs.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Behavior Intervention Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Behavior Intervention Specialist interviews to help you prepare and succeed.

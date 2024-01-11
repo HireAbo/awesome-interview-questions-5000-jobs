@@ -2,6 +2,8 @@
 
 Welcome to the Costume Designer Interview Preparation ! This resource is designed to help you ace your Costume Designer interviews with confidence.
 
+A Costume Designer job within the field of Fine Arts combines the artistry of design with the creativity of fashion to bring characters to life on stage, film, or television. Costume Designers are responsible for creating and conceptualizing the visual appearance of characters by designing and coordinating their costumes. This involves researching historical periods, analyzing scripts, collaborating with directors and actors, and sketching designs. They also select fabrics, create patterns, and oversee the production process to ensure the costumes are made to their specifications. A Costume Designer must possess a strong understanding of fashion, historical clothing, and character development to successfully interpret a script and create captivating costumes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Costume Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Costume Designer interviews to help you prepare and succeed.

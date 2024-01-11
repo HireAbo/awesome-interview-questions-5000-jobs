@@ -2,6 +2,8 @@
 
 Welcome to the Home Health Nurse Interview Preparation ! This resource is designed to help you ace your Home Health Nurse interviews with confidence.
 
+A Home Health Nurse is an essential member of the healthcare team who provides personalized medical care to patients within the comfort of their homes. These skilled professionals play a crucial role in improving the quality of life for individuals who require ongoing medical assistance but prefer to receive care in their own familiar environment. Home Health Nurses are responsible for a range of duties including administering medications, assessing patients' conditions, monitoring vital signs, dressing wounds, and coordinating with other healthcare professionals. They also provide education and support to patients and their families, ensuring that they understand their medical conditions and treatment plans. With their expertise and compassion, Home Health Nurses make a significant impact on the overall well-being of their patients.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Home Health Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Home Health Nurse interviews to help you prepare and succeed.

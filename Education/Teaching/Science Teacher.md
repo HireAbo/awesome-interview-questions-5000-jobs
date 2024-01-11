@@ -2,6 +2,8 @@
 
 Welcome to the Science Teacher Interview Preparation ! This resource is designed to help you ace your Science Teacher interviews with confidence.
 
+A science teacher is a crucial role within the field of education, focusing on imparting knowledge and fostering a deep understanding of scientific concepts and principles. As a science teacher, one plays a vital role in shaping the future of students, equipping them with the skills and knowledge necessary to thrive in an increasingly scientific and technological world. Science teachers design and deliver engaging and interactive lessons, conduct experiments, and facilitate discussions to promote critical thinking and problem-solving skills. They also assess student progress, provide constructive feedback, and inspire a passion for scientific inquiry. A science teacher's dedication to fostering curiosity and nurturing scientific literacy is essential in preparing students for future success in scientific disciplines.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Science Teacher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Science Teacher interviews to help you prepare and succeed.

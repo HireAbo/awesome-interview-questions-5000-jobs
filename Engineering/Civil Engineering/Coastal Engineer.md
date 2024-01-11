@@ -2,6 +2,8 @@
 
 Welcome to the Coastal Engineer Interview Preparation ! This resource is designed to help you ace your Coastal Engineer interviews with confidence.
 
+Coastal engineering is a specialized field within civil engineering that focuses on managing and protecting coastal areas from natural hazards and erosion. A coastal engineer plays a crucial role in designing and maintaining structures, such as breakwaters, seawalls, and beach nourishment projects, to mitigate the impact of waves, currents, and storms on the coastline. They also assess the impact of climate change and rising sea levels on coastal communities and develop strategies to adapt and protect these vulnerable areas. Additionally, coastal engineers collaborate with environmental scientists and local governments to strike a balance between coastal development and preserving the natural ecosystem. This rewarding career combines engineering principles with environmental considerations to create sustainable solutions for coastal areas.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Coastal Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Coastal Engineer interviews to help you prepare and succeed.

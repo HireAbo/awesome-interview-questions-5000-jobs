@@ -2,6 +2,8 @@
 
 Welcome to the HSE (Health, Safety, and Environmental) Engineer Interview Preparation ! This resource is designed to help you ace your HSE (Health, Safety, and Environmental) Engineer interviews with confidence.
 
+The role of a Health, Safety, and Environmental (HSE) Engineer in the field of Chemical Engineering is vital for ensuring the well-being and protection of workers, the community, and the environment. HSE Engineers play a crucial role in various industries, including oil and gas, pharmaceuticals, and manufacturing, where they focus on preventing accidents, minimizing environmental impact, and complying with regulations. Their responsibilities include conducting risk assessments, developing safety protocols, implementing safety management systems, and monitoring compliance. Additionally, HSE Engineers collaborate with cross-functional teams to design and maintain safe work practices, conduct audits, investigate incidents, and provide training to promote a safety-conscious culture. Overall, HSE Engineers contribute to the sustainable development of industries by prioritizing the health, safety, and environmental aspects of engineering practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned HSE (Health, Safety, and Environmental) Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in HSE (Health, Safety, and Environmental) Engineer interviews to help you prepare and succeed.

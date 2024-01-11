@@ -2,6 +2,8 @@
 
 Welcome to the Statistical Software Developer Interview Preparation ! This resource is designed to help you ace your Statistical Software Developer interviews with confidence.
 
+A Statistical Software Developer job in Mathematics involves the development and implementation of software tools and applications for statistical analysis and modeling. As a developer, you will work closely with mathematicians and statisticians to design and enhance statistical algorithms, data visualization techniques, and predictive models. You will utilize your programming skills and mathematical knowledge to create efficient and user-friendly software solutions that enable researchers and analysts to process and interpret large datasets. This role requires a solid understanding of statistical methods and the ability to translate complex mathematical concepts into practical software applications. A Statistical Software Developer plays a crucial role in advancing the field of mathematics and statistics by providing tools that empower users to make data-driven decisions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Statistical Software Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Statistical Software Developer interviews to help you prepare and succeed.

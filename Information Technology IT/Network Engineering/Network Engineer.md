@@ -2,6 +2,8 @@
 
 Welcome to the Network Engineer Interview Preparation ! This resource is designed to help you ace your Network Engineer interviews with confidence.
 
+Information Technology (IT) is a rapidly evolving field that encompasses the use, development, and management of computer systems and networks to store, retrieve, and transmit information. Within IT, Network Engineering focuses specifically on the design, implementation, and maintenance of computer networks. Network Engineers play a crucial role in ensuring that an organization's network infrastructure operates efficiently and securely. Their responsibilities include configuring network devices, troubleshooting network issues, monitoring network performance, and implementing network security measures. Network Engineers need to possess strong technical skills, such as knowledge of networking protocols, routing, and switching, as well as excellent problem-solving and communication abilities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Network Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Network Engineer interviews to help you prepare and succeed.

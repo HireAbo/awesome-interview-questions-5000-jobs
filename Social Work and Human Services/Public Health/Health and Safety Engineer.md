@@ -2,6 +2,8 @@
 
 Welcome to the Health and Safety Engineer Interview Preparation ! This resource is designed to help you ace your Health and Safety Engineer interviews with confidence.
 
+Social Work and Human Services encompass a diverse field that focuses on improving the overall well-being of individuals, families, and communities. Professionals in this field work tirelessly to address social issues, advocate for marginalized populations, and provide support and resources to those in need. Their roles may include counseling, case management, community outreach, and policy development. On the other hand, Public Health professionals play a crucial role in promoting and protecting the health of populations. They work to prevent diseases, educate communities on healthy practices, and develop strategies to improve healthcare access and equity. Additionally, Health and Safety Engineers play a vital role in ensuring the safety and well-being of individuals in various environments. They analyze potential hazards, develop safety protocols, and implement measures to prevent accidents and injuries.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Health and Safety Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Health and Safety Engineer interviews to help you prepare and succeed.

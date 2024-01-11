@@ -2,6 +2,8 @@
 
 Welcome to the Quantitative Analyst Intern Interview Preparation ! This resource is designed to help you ace your Quantitative Analyst Intern interviews with confidence.
 
+A Quantitative Analyst Intern job combines the disciplines of mathematics, statistics, and quantitative analysis to solve complex problems in various industries. Mathematics provides a foundation for understanding and manipulating numbers, while statistics enables the interpretation and analysis of data. In this role, interns apply mathematical and statistical techniques to develop models, algorithms, and strategies to support decision-making processes. They utilize their analytical skills to identify patterns, trends, and correlations in large datasets. Additionally, interns may assist in developing risk management strategies, optimizing investment portfolios, and conducting statistical analysis for research projects. This internship offers a valuable opportunity to gain hands-on experience in quantitative analysis and contribute to real-world problem-solving.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Quantitative Analyst Intern or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Quantitative Analyst Intern interviews to help you prepare and succeed.

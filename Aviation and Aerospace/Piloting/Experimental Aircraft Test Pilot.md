@@ -2,6 +2,8 @@
 
 Welcome to the Experimental Aircraft Test Pilot Interview Preparation ! This resource is designed to help you ace your Experimental Aircraft Test Pilot interviews with confidence.
 
+An experimental aircraft test pilot is a highly skilled professional who plays a crucial role in the aviation and aerospace industry. These individuals are responsible for testing and evaluating new aircraft designs, systems, and technologies before they are introduced into mainstream production. They possess extensive knowledge of aviation principles, aerodynamics, and engineering concepts. Their role involves conducting flight tests, analyzing data, and providing feedback to engineers and designers to enhance the safety, performance, and efficiency of aircraft. Experimental aircraft test pilots possess exceptional flying skills, adaptability, and the ability to make critical decisions in high-pressure situations. They contribute significantly to the advancement of aviation and aerospace technology, pushing boundaries and shaping the future of flight.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Experimental Aircraft Test Pilot or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Experimental Aircraft Test Pilot interviews to help you prepare and succeed.

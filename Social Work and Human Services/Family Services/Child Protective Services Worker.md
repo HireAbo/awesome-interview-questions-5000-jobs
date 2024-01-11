@@ -2,6 +2,8 @@
 
 Welcome to the Child Protective Services Worker Interview Preparation ! This resource is designed to help you ace your Child Protective Services Worker interviews with confidence.
 
+A Child Protective Services (CPS) Worker plays a critical role in ensuring the safety and well-being of children who are at risk of abuse or neglect. These professionals are employed in the field of Social Work and Human Services, specifically in the area of Family Services. CPS Workers are responsible for investigating reports of child abuse or neglect, assessing the level of risk involved, and taking necessary actions to protect the child. They may work closely with law enforcement, medical professionals, and other social service agencies to provide support and intervention for families in crisis. This demanding yet rewarding job requires compassion, strong communication skills, and the ability to make difficult decisions in the best interest of the child's safety.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Child Protective Services Worker or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Child Protective Services Worker interviews to help you prepare and succeed.

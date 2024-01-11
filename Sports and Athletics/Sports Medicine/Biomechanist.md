@@ -2,6 +2,8 @@
 
 Welcome to the Biomechanist Interview Preparation ! This resource is designed to help you ace your Biomechanist interviews with confidence.
 
+A biomechanist in sports medicine is a professional who specializes in the study of movement and mechanics related to sports and athletics. These experts analyze human movement patterns, muscle function, and joint motion to optimize performance and prevent injuries. Biomechanists use advanced technologies, such as motion capture systems and force plates, to collect data on athletes' movements, enabling them to identify areas for improvement and design personalized training programs. They also collaborate with coaches, trainers, and physical therapists to develop strategies that enhance athletes' performance while minimizing the risk of injury. Biomechanists play a crucial role in optimizing sports performance and ensuring the overall well-being of athletes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Biomechanist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Biomechanist interviews to help you prepare and succeed.

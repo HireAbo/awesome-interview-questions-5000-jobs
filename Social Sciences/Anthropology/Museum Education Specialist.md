@@ -2,6 +2,8 @@
 
 Welcome to the Museum Education Specialist Interview Preparation ! This resource is designed to help you ace your Museum Education Specialist interviews with confidence.
 
+A Museum Education Specialist in Anthropology is responsible for developing and implementing educational programs within a museum setting. They work closely with curators, educators, and other museum staff to create engaging exhibits and interpretive materials that educate the public about anthropological concepts and artifacts. This role requires a strong background in anthropology, as well as knowledge of museum education principles and practices. The Museum Education Specialist conducts research, designs interactive exhibits, and organizes educational events such as workshops, lectures, and guided tours. They ensure that museum visitors, including students and the general public, have a meaningful and enriching experience that deepens their understanding of anthropology.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Museum Education Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Museum Education Specialist interviews to help you prepare and succeed.

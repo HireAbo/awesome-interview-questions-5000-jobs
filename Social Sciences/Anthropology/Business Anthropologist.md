@@ -2,6 +2,8 @@
 
 Welcome to the Business Anthropologist Interview Preparation ! This resource is designed to help you ace your Business Anthropologist interviews with confidence.
 
+A Business Anthropologist is a professional who applies anthropological theories, methods, and techniques to understand and solve organizational and business issues. They study the relationship between culture, society, and commerce to provide valuable insights into consumer behavior, market trends, and organizational dynamics. Business Anthropologists conduct research, collect data, and analyze information to develop strategies that promote cultural sensitivity and enhance business practices. They work closely with companies to improve product design, marketing strategies, and employee engagement by understanding the cultural context in which they operate. Business Anthropologists often collaborate with multidisciplinary teams, including marketers, designers, and human resources, to drive innovation and create sustainable business solutions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Business Anthropologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Business Anthropologist interviews to help you prepare and succeed.

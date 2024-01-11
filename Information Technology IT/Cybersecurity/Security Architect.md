@@ -2,6 +2,8 @@
 
 Welcome to the Security Architect Interview Preparation ! This resource is designed to help you ace your Security Architect interviews with confidence.
 
+The field of Information Technology (IT) encompasses a wide range of roles and responsibilities, one of which is Cybersecurity. In today's digital age, the importance of protecting sensitive information and ensuring the security of computer systems has become paramount. This is where Security Architects come into play. A Security Architect is responsible for designing, implementing, and maintaining secure computer systems and networks. They assess potential risks and vulnerabilities, create security protocols, and work closely with other IT professionals to ensure the overall safety and integrity of an organization's data. A Security Architect must possess a strong understanding of network security, encryption, firewalls, and other security measures to effectively mitigate cyber threats and safeguard against data breaches.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Security Architect or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Security Architect interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Navy Seal Interview Preparation ! This resource is designed to help you ace your Navy Seal interviews with confidence.
 
+Government and Public Service encompasses a wide range of roles and responsibilities aimed at serving the nation and its citizens. Within this sector, the Military Service holds a crucial position as a protector of national security. One prestigious and highly demanding job within the Military Service is that of a Navy SEAL. Navy SEALs are elite special operations forces who undergo rigorous training to excel in unconventional warfare, counter-terrorism, and other high-risk missions. They are known for their exceptional physical and mental capabilities, specialized combat skills, and unwavering dedication to their country. Navy SEALs play a vital role in defending the nation's interests both at home and abroad.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Navy Seal or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Navy Seal interviews to help you prepare and succeed.

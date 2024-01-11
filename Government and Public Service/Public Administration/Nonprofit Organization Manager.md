@@ -2,6 +2,8 @@
 
 Welcome to the Nonprofit Organization Manager Interview Preparation ! This resource is designed to help you ace your Nonprofit Organization Manager interviews with confidence.
 
+A Nonprofit Organization Manager is a key role within the field of Public Administration, which focuses on the management of government and public service organizations. These professionals are responsible for overseeing the operations and strategic direction of nonprofit organizations that aim to serve the public interest. Their primary objective is to ensure efficient utilization of resources, effective implementation of programs, and goal accomplishment in line with the organization's mission. Nonprofit Organization Managers work closely with government agencies, community stakeholders, and other nonprofit organizations to collaborate, advocate, and secure funding for their initiatives. They play a vital role in addressing social issues, promoting public welfare, and making a positive impact on society.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nonprofit Organization Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nonprofit Organization Manager interviews to help you prepare and succeed.

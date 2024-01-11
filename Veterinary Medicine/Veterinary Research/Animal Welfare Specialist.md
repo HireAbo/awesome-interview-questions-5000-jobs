@@ -2,6 +2,8 @@
 
 Welcome to the Animal Welfare Specialist Interview Preparation ! This resource is designed to help you ace your Animal Welfare Specialist interviews with confidence.
 
+A Veterinary Medicine > Veterinary Research > Animal Welfare Specialist is a highly skilled professional responsible for ensuring the well-being and proper treatment of animals involved in research studies. These specialists play a crucial role in maintaining animal welfare standards, adhering to ethical guidelines, and minimizing any potential distress or harm caused to the animals during research. They collaborate with researchers, veterinarians, and animal care staff to develop and implement protocols that promote animal welfare. Additionally, they monitor and assess the health and behavior of animals, provide enrichment activities, and ensure proper housing and nutrition. Animal Welfare Specialists also contribute to advancing veterinary research by developing innovative methods to enhance animal welfare in research settings.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Animal Welfare Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Animal Welfare Specialist interviews to help you prepare and succeed.

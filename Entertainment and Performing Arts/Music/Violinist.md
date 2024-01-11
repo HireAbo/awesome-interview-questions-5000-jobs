@@ -2,6 +2,8 @@
 
 Welcome to the Violinist Interview Preparation ! This resource is designed to help you ace your Violinist interviews with confidence.
 
+A violinist is a skilled musician who specializes in playing the violin, one of the most beautiful and versatile instruments in the world. As a violinist, they are responsible for performing in various settings, such as orchestras, chamber ensembles, or as a soloist. They possess exceptional technical abilities and a deep understanding of music theory and interpretation. A violinist must have a strong dedication to their craft, spending countless hours practicing to perfect their technique and musical expression. They bring life to compositions through their skilled bowing and fingering techniques, creating a mesmerizing and captivating musical experience for audiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Violinist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Violinist interviews to help you prepare and succeed.

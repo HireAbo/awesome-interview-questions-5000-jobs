@@ -2,6 +2,10 @@
 
 Welcome to the Sustainable Agriculture Advocate Interview Preparation ! This resource is designed to help you ace your Sustainable Agriculture Advocate interviews with confidence.
 
+Agriculture and Environmental Science is a field that focuses on the study of sustainable practices in agriculture to ensure the long-term health of our planet. Sustainable Agriculture specifically deals with methods that minimize the negative impact on the environment, while also promoting social and economic well-being. 
+
+A Sustainable Agriculture Advocate plays a crucial role in promoting and advancing sustainable agricultural practices. They work closely with farmers, policymakers, and the public to educate and raise awareness about the benefits of sustainable farming techniques. Their responsibilities include advocating for policies that support sustainable agriculture, conducting research, organizing workshops and training programs, and providing guidance to farmers on implementing sustainable practices. By bridging the gap between science, policy, and practice, Sustainable Agriculture Advocates contribute to creating a more environmentally friendly and resilient agricultural system.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sustainable Agriculture Advocate or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sustainable Agriculture Advocate interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Audiovisual Archivist Interview Preparation ! This resource is designed to help you ace your Audiovisual Archivist interviews with confidence.
 
+Library and Information Science is a multidisciplinary field that encompasses the management, organization, and preservation of information resources. Within this field, archiving plays a crucial role in preserving and providing access to valuable historical records and materials. Audiovisual Archivists specifically focus on the preservation and management of audiovisual materials such as films, videos, sound recordings, and other multimedia formats. Their job involves identifying, cataloging, and preserving these materials using specialized techniques and equipment. They also play a vital role in ensuring the accessibility of these resources, facilitating research, and contributing to the cultural heritage of society. Audiovisual Archivists require strong technical skills, attention to detail, and a passion for preserving and sharing audiovisual history.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Audiovisual Archivist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Audiovisual Archivist interviews to help you prepare and succeed.

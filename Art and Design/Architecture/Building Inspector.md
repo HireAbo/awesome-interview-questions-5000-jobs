@@ -2,6 +2,8 @@
 
 Welcome to the Building Inspector Interview Preparation ! This resource is designed to help you ace your Building Inspector interviews with confidence.
 
+The role of a Building Inspector in the field of Art and Design, specifically Architecture, is crucial in ensuring the safety, compliance, and quality of construction projects. Building Inspectors are responsible for examining and assessing the structural integrity, adherence to building codes, and overall functionality of buildings. They meticulously inspect designs, blueprints, and construction sites to identify any potential issues or violations that may compromise the safety of occupants or the longevity of the structure. Additionally, Building Inspectors facilitate communication between architects, contractors, and clients to ensure that the design and construction process aligns with the required specifications and regulations. Their expertise plays a vital role in maintaining the standards and aesthetics of architectural designs.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Building Inspector or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Building Inspector interviews to help you prepare and succeed.

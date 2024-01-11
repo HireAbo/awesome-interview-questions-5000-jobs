@@ -2,6 +2,8 @@
 
 Welcome to the Fleet Manager Interview Preparation ! This resource is designed to help you ace your Fleet Manager interviews with confidence.
 
+A Fleet Manager plays a crucial role in the field of transportation and logistics, specifically within transportation planning. As a Fleet Manager, their primary responsibility is to oversee and manage a company's fleet of vehicles, ensuring their efficient operation and optimal utilization. They are responsible for coordinating the maintenance and repair of vehicles, managing driver schedules, and ensuring compliance with safety regulations and industry standards. Additionally, Fleet Managers are responsible for monitoring fuel consumption, implementing cost-saving measures, and analyzing data to optimize fleet performance. A successful Fleet Manager possesses excellent organizational and communication skills, along with a strong understanding of transportation planning principles and logistics operations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Fleet Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Fleet Manager interviews to help you prepare and succeed.

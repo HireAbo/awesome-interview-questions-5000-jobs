@@ -2,6 +2,10 @@
 
 Welcome to the Sustainable Agriculture Certification Auditor Interview Preparation ! This resource is designed to help you ace your Sustainable Agriculture Certification Auditor interviews with confidence.
 
+Agriculture and Environmental Science are interdisciplinary fields that study the relationship between agriculture practices and the environment. Sustainable Agriculture focuses on cultivating crops and raising livestock in a manner that minimizes the negative impact on the environment, while promoting long-term viability and productivity. 
+
+A Sustainable Agriculture Certification Auditor plays a crucial role in ensuring that farmers and agricultural businesses comply with sustainable agriculture standards and practices. They conduct audits and inspections to assess whether the farming methods employed are environmentally friendly, socially responsible, and economically viable. Certification auditors also verify compliance with specific standards and regulations set by sustainable agriculture certification programs. Their work is essential in promoting sustainable farming practices and helping consumers make informed choices about the food they consume.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sustainable Agriculture Certification Auditor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sustainable Agriculture Certification Auditor interviews to help you prepare and succeed.

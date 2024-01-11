@@ -2,6 +2,8 @@
 
 Welcome to the Parent Educator Interview Preparation ! This resource is designed to help you ace your Parent Educator interviews with confidence.
 
+A Parent Educator is a vital role within the field of Social Work and Human Services, specifically in the area of Family Services. Parent Educators are professionals who provide guidance and support to parents or caregivers in order to enhance their parenting skills and promote healthy family dynamics. They work closely with families facing various challenges such as child behavior problems, parenting difficulties, or family conflicts. Parent Educators may conduct workshops, provide educational resources, and offer one-on-one counseling to empower parents in developing effective strategies for child-rearing. Their ultimate goal is to strengthen family relationships, improve child well-being, and create a nurturing environment that fosters optimal growth and development for children.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Parent Educator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Parent Educator interviews to help you prepare and succeed.

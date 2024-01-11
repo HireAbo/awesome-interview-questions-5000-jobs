@@ -2,6 +2,8 @@
 
 Welcome to the Neurological Physical Therapist Interview Preparation ! This resource is designed to help you ace your Neurological Physical Therapist interviews with confidence.
 
+A Neurological Physical Therapist is a specialized healthcare professional who focuses on the treatment and rehabilitation of patients with neurological conditions or injuries. They play a crucial role in helping individuals regain their physical abilities and improve their quality of life. These therapists work closely with patients who have experienced strokes, brain injuries, spinal cord injuries, multiple sclerosis, Parkinson's disease, and other neurological disorders. Their job involves assessing patients' conditions, creating personalized treatment plans, and implementing various therapeutic techniques such as exercises, manual therapy, and specialized equipment to improve movement, balance, coordination, and function. Neurological Physical Therapists also provide education and support to patients and their families throughout the rehabilitation process.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Neurological Physical Therapist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Neurological Physical Therapist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Diesel Mechanic Interview Preparation ! This resource is designed to help you ace your Diesel Mechanic interviews with confidence.
 
+A Diesel Mechanic is a skilled tradesperson who specializes in the maintenance and repair of diesel engines in various vehicles and machinery. These professionals possess a strong understanding of the intricate workings of diesel engines, fuel systems, and electrical components. They are responsible for diagnosing mechanical issues, conducting inspections, performing repairs, and conducting routine maintenance to ensure optimal engine performance. Diesel Mechanics work in a variety of settings, including automotive repair shops, trucking companies, construction sites, and agricultural facilities. They must have excellent problem-solving skills, a keen eye for detail, and the ability to work with complex machinery and tools. A career as a Diesel Mechanic offers job stability, competitive salaries, and opportunities for advancement.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Diesel Mechanic or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Diesel Mechanic interviews to help you prepare and succeed.

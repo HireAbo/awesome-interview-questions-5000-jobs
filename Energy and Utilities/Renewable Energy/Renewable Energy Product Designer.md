@@ -2,6 +2,8 @@
 
 Welcome to the Renewable Energy Product Designer Interview Preparation ! This resource is designed to help you ace your Renewable Energy Product Designer interviews with confidence.
 
+A Renewable Energy Product Designer is a professional responsible for designing and developing innovative renewable energy products. They are experts in creating solutions that harness renewable sources such as solar, wind, hydro, and geothermal energy. This role involves conducting extensive research, conceptualizing ideas, and collaborating with engineers and other stakeholders to bring these ideas to life. Renewable Energy Product Designers also consider factors like cost-effectiveness, sustainability, and efficiency while designing these products. They play a crucial role in the transition towards cleaner and more sustainable energy solutions, contributing to the global efforts to mitigate climate change and reduce reliance on fossil fuels.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Renewable Energy Product Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Renewable Energy Product Designer interviews to help you prepare and succeed.

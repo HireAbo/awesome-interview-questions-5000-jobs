@@ -2,6 +2,8 @@
 
 Welcome to the Government Relations Manager Interview Preparation ! This resource is designed to help you ace your Government Relations Manager interviews with confidence.
 
+A Government Relations Manager is a professional responsible for developing and implementing strategies to promote positive relationships between government entities and organizations. They play a crucial role in bridging the gap between the public sector and private organizations. Their primary focus is on public policy and ensuring that government policies align with the interests and goals of their organization. They engage in lobbying efforts, monitor legislative activities, and provide guidance on government regulations and policies. A Government Relations Manager possesses strong communication and negotiation skills, as they must build and maintain relationships with government officials, stakeholders, and other relevant individuals to influence decision-making processes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Government Relations Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Government Relations Manager interviews to help you prepare and succeed.

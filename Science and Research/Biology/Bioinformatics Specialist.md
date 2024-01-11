@@ -2,6 +2,8 @@
 
 Welcome to the Bioinformatics Specialist Interview Preparation ! This resource is designed to help you ace your Bioinformatics Specialist interviews with confidence.
 
+A Bioinformatics Specialist job in the field of Biology involves the application of computer science, statistics, and mathematics to analyze and interpret biological data. These professionals play a crucial role in advancing scientific research by developing software tools and algorithms to analyze complex biological datasets, such as DNA sequences, protein structures, and gene expression patterns. They collaborate with biologists, geneticists, and other researchers to identify patterns, solve problems, and make meaningful discoveries in areas such as genomics, drug discovery, and disease research. A Bioinformatics Specialist must possess a strong background in biology, computer science, and data analysis, as well as excellent problem-solving and communication skills.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Bioinformatics Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Bioinformatics Specialist interviews to help you prepare and succeed.

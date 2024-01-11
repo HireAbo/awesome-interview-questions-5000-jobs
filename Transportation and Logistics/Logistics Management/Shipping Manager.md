@@ -2,6 +2,8 @@
 
 Welcome to the Shipping Manager Interview Preparation ! This resource is designed to help you ace your Shipping Manager interviews with confidence.
 
+A Shipping Manager is a crucial role within the Transportation and Logistics industry, specifically in the field of Logistics Management. As a Shipping Manager, you are responsible for overseeing and coordinating the movement of goods from one location to another efficiently and effectively. This includes managing the entire shipping process, from scheduling pickups and deliveries to ensuring compliance with all transportation regulations and documentation requirements. Additionally, a Shipping Manager is responsible for negotiating contracts with carriers, optimizing shipping routes, and managing relationships with suppliers and customers. This role requires strong organizational and problem-solving skills, as well as excellent communication and leadership abilities to ensure smooth operations and customer satisfaction.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Shipping Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Shipping Manager interviews to help you prepare and succeed.

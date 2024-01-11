@@ -2,6 +2,8 @@
 
 Welcome to the Guidance, Navigation, and Control Engineer Interview Preparation ! This resource is designed to help you ace your Guidance, Navigation, and Control Engineer interviews with confidence.
 
+Aerospace Engineering is a specialized branch of engineering that focuses on the design, development, and maintenance of aircraft, spacecraft, and related systems. Within this field, Guidance, Navigation, and Control Engineers play a crucial role. These engineers are responsible for designing and implementing systems that enable accurate control, guidance, and navigation of aerospace vehicles. They develop algorithms and software to ensure precise positioning, trajectory calculations, and stability control. Additionally, they conduct extensive testing and simulations to validate the performance and reliability of these systems. A strong background in mathematics, physics, and computer science is essential for aspiring Guidance, Navigation, and Control Engineers in the aerospace industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Guidance, Navigation, and Control Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Guidance, Navigation, and Control Engineer interviews to help you prepare and succeed.

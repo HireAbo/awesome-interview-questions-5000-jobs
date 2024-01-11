@@ -2,6 +2,8 @@
 
 Welcome to the Research Veterinary Technician Interview Preparation ! This resource is designed to help you ace your Research Veterinary Technician interviews with confidence.
 
+Veterinary Medicine is a specialized field that focuses on the health and well-being of animals. It encompasses various aspects, including prevention, diagnosis, and treatment of diseases, injuries, and other medical conditions in animals. Within Veterinary Medicine, Veterinary Nursing plays a crucial role in assisting veterinarians in providing care to animals. Veterinary Nurses are skilled professionals who perform tasks like administering medications, monitoring anesthesia, assisting in surgeries, and providing post-operative care. Additionally, within Veterinary Nursing, there is a unique career path known as Research Veterinary Technician. These professionals work closely with scientists and researchers, conducting experiments, collecting data, and assisting in the development of new treatments and therapies for animals. They play a vital role in advancing veterinary medicine and improving animal health outcomes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Research Veterinary Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Research Veterinary Technician interviews to help you prepare and succeed.

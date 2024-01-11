@@ -2,6 +2,8 @@
 
 Welcome to the Criminologist Interview Preparation ! This resource is designed to help you ace your Criminologist interviews with confidence.
 
+A criminologist is a professional who studies and analyzes criminal behavior, its causes, and the impact it has on society. They employ various methodologies and theories from social sciences, particularly sociology, to understand crime patterns, criminal motivations, and the effectiveness of different criminal justice interventions. Criminologists often work closely with law enforcement agencies, government organizations, and academic institutions to conduct research, develop crime prevention strategies, and provide expert insights in criminal cases. They may specialize in areas such as juvenile delinquency, organized crime, or white-collar crime. Criminologists play a crucial role in shaping policies and practices that aim to reduce crime rates and create safer communities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Criminologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Criminologist interviews to help you prepare and succeed.

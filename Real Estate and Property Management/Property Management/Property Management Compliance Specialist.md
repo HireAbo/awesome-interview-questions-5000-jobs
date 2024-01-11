@@ -2,6 +2,8 @@
 
 Welcome to the Property Management Compliance Specialist Interview Preparation ! This resource is designed to help you ace your Property Management Compliance Specialist interviews with confidence.
 
+A Property Management Compliance Specialist plays a crucial role in the real estate and property management industry. Their primary responsibility is to ensure that all properties under their management comply with local, state, and federal regulations. They possess an in-depth understanding of the complex legal requirements related to property management and are responsible for ensuring that all necessary permits, licenses, and certifications are in place. Additionally, they conduct regular inspections to identify any potential compliance issues, and take necessary actions to address them promptly. Their expertise in maintaining compliance ensures that properties are managed ethically and legally, providing a safe and secure environment for both tenants and property owners.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Property Management Compliance Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Property Management Compliance Specialist interviews to help you prepare and succeed.

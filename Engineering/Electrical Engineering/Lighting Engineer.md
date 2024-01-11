@@ -2,6 +2,8 @@
 
 Welcome to the Lighting Engineer Interview Preparation ! This resource is designed to help you ace your Lighting Engineer interviews with confidence.
 
+A Lighting Engineer is a specialized professional within the field of Electrical Engineering who focuses on the design, installation, and maintenance of lighting systems. They work in various industries, such as architecture, theater, entertainment, and commercial buildings, to create optimal lighting environments. Lighting Engineers use their expertise in electrical principles, lighting technology, and energy efficiency to develop innovative lighting solutions. They analyze client requirements, assess lighting needs, and create detailed designs, including the selection of appropriate fixtures, controls, and lighting systems. Additionally, Lighting Engineers ensure compliance with safety regulations and collaborate with architects, interior designers, and electricians to successfully implement and manage lighting projects.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Lighting Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Lighting Engineer interviews to help you prepare and succeed.

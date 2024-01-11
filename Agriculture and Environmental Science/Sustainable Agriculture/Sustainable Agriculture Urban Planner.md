@@ -2,6 +2,8 @@
 
 Welcome to the Sustainable Agriculture Urban Planner Interview Preparation ! This resource is designed to help you ace your Sustainable Agriculture Urban Planner interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on the study of sustainable practices in agriculture to ensure the long-term health of our planet. Sustainable Agriculture Urban Planner is a crucial job within this field. These professionals work to develop and implement sustainable agricultural practices in urban areas. They collaborate with farmers, city planners, and environmentalists to design and manage urban farming systems that maximize productivity while minimizing environmental impact. Their role involves assessing land suitability, creating green spaces, promoting biodiversity, and integrating sustainable practices such as organic farming and water conservation. Sustainable Agriculture Urban Planners play a vital role in creating a sustainable future by bridging the gap between agriculture and urban development.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sustainable Agriculture Urban Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sustainable Agriculture Urban Planner interviews to help you prepare and succeed.

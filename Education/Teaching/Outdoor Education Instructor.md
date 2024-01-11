@@ -2,6 +2,8 @@
 
 Welcome to the Outdoor Education Instructor Interview Preparation ! This resource is designed to help you ace your Outdoor Education Instructor interviews with confidence.
 
+An Outdoor Education Instructor is a professional who specializes in teaching and facilitating educational experiences in outdoor settings. These individuals are passionate about connecting students with nature and fostering their personal and academic growth through experiential learning. As an Outdoor Education Instructor, one will be responsible for designing and delivering engaging lessons and activities that promote environmental awareness, teamwork, leadership skills, and personal development. This role typically involves leading groups of students on outdoor adventures, such as hiking, camping, rock climbing, and canoeing, while incorporating educational content and promoting safety. Outdoor Education Instructors play a vital role in inspiring a love for nature and helping students develop a deeper understanding of the natural world.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Outdoor Education Instructor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Outdoor Education Instructor interviews to help you prepare and succeed.

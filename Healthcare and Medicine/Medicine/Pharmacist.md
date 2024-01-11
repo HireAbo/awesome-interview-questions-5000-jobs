@@ -2,6 +2,8 @@
 
 Welcome to the Pharmacist Interview Preparation ! This resource is designed to help you ace your Pharmacist interviews with confidence.
 
+Pharmacists play a crucial role in healthcare and medicine by ensuring the safe and effective use of medications. As medication experts, they work alongside healthcare professionals to provide patients with optimal drug therapy. Pharmacists are responsible for dispensing prescription medications, educating patients on proper medication usage, and monitoring for potential drug interactions or adverse effects. They also collaborate with physicians and other healthcare providers to develop personalized treatment plans. Additionally, pharmacists may be involved in conducting research, compounding medications, and managing pharmacy operations. With their extensive knowledge in pharmacology, pharmacists play a vital role in promoting patient safety and improving healthcare outcomes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Pharmacist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Pharmacist interviews to help you prepare and succeed.

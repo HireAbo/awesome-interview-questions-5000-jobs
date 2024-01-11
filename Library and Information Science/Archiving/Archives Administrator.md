@@ -2,6 +2,12 @@
 
 Welcome to the Archives Administrator Interview Preparation ! This resource is designed to help you ace your Archives Administrator interviews with confidence.
 
+Library and Information Science is a field that encompasses the management and organization of information resources in various formats, including books, digital media, and archival materials. Archiving is a specialized area within this field that focuses on the preservation and accessibility of historical records and documents.
+
+Within the realm of archiving, the role of an Archives Administrator is crucial. Archives Administrators are responsible for overseeing the collection, arrangement, and description of archival materials. They ensure the proper storage, preservation, and security of these valuable records and work towards making them accessible to researchers and the public.
+
+Archives Administrators also play a vital role in acquiring new materials for the archive, organizing exhibitions, and conducting research. They possess a deep understanding of archival principles, preservation techniques, and information management systems. Their work is essential in preserving our cultural heritage and facilitating historical research.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Archives Administrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Archives Administrator interviews to help you prepare and succeed.

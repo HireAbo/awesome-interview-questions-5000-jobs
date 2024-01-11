@@ -2,6 +2,8 @@
 
 Welcome to the Pediatric Nurse Interview Preparation ! This resource is designed to help you ace your Pediatric Nurse interviews with confidence.
 
+A Pediatric Nurse is a specialized healthcare professional who focuses on providing medical care to infants, children, and adolescents. They work in various healthcare settings such as hospitals, clinics, and pediatric offices. Pediatric Nurses play a crucial role in promoting the health and well-being of young patients by providing preventive care, administering medications, monitoring vital signs, and assisting with medical procedures. They also educate parents and caregivers about child development, nutrition, and disease prevention. Additionally, Pediatric Nurses collaborate with other healthcare professionals to create individualized care plans and ensure the holistic health of their patients. Their compassion, patience, and ability to communicate effectively with children and their families make them essential members of the healthcare team.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Pediatric Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Pediatric Nurse interviews to help you prepare and succeed.

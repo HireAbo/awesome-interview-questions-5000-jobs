@@ -2,6 +2,8 @@
 
 Welcome to the Game Developer (Unity/Unreal) Interview Preparation ! This resource is designed to help you ace your Game Developer (Unity/Unreal) interviews with confidence.
 
+The role of a Game Developer (Unity/Unreal) in the field of Information Technology (IT) and Software Development is crucial in creating immersive and interactive gaming experiences. As a Game Developer, you will utilize your expertise in programming languages such as C# or C++ to design, develop, and implement games using popular game engines like Unity or Unreal. Your responsibilities may include writing code, creating game mechanics, optimizing performance, and collaborating with a team of artists and designers. With a strong understanding of game design principles, you will have the opportunity to bring virtual worlds to life and engage users through captivating gameplay and stunning visuals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Game Developer (Unity/Unreal) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Game Developer (Unity/Unreal) interviews to help you prepare and succeed.

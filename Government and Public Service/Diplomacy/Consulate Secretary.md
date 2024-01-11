@@ -2,6 +2,8 @@
 
 Welcome to the Consulate Secretary Interview Preparation ! This resource is designed to help you ace your Consulate Secretary interviews with confidence.
 
+The role of a Consulate Secretary is an integral part of the government and public service sector, specifically within the field of diplomacy. As a Consulate Secretary, one is responsible for providing administrative support to a consulate or embassy, ensuring the smooth functioning of daily operations. This includes managing correspondence, scheduling appointments, organizing meetings, and maintaining diplomatic records. Furthermore, Consulate Secretaries play a crucial role in facilitating diplomatic relations between host and home countries by actively engaging in public diplomacy initiatives. They serve as a vital link between the consulate and its respective citizens, assisting with consular services, visa applications, and providing assistance during emergencies. With a strong focus on diplomacy and public service, the role of a Consulate Secretary is essential in promoting international cooperation and fostering positive relations between nations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Consulate Secretary or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Consulate Secretary interviews to help you prepare and succeed.

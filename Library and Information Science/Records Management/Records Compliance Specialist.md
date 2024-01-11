@@ -2,6 +2,8 @@
 
 Welcome to the Records Compliance Specialist Interview Preparation ! This resource is designed to help you ace your Records Compliance Specialist interviews with confidence.
 
+A Library and Information Science Records Compliance Specialist is a professional responsible for ensuring that organizations adhere to records management policies and regulations. They possess a deep understanding of information governance, document management systems, and legal requirements related to records retention and disposal. These specialists design and implement effective records management programs, including the development of policies and procedures, training staff on compliance best practices, and conducting regular audits to assess compliance levels. They also collaborate with various stakeholders, such as legal teams and IT departments, to ensure records are managed securely and in accordance with industry standards. A records compliance specialist plays a crucial role in safeguarding and organizing an organization's information assets.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Records Compliance Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Records Compliance Specialist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Regulatory Affairs Specialist Interview Preparation ! This resource is designed to help you ace your Regulatory Affairs Specialist interviews with confidence.
 
+A Regulatory Affairs Specialist in Chemical Engineering is a professional responsible for ensuring compliance with regulations and standards in the chemical industry. They play a critical role in the development and approval process of chemical products, ensuring their safety, efficacy, and compliance with government regulations. These specialists work closely with cross-functional teams to gather and interpret data, prepare regulatory submissions, and communicate with regulatory authorities. Their expertise in chemical engineering principles, coupled with their knowledge of regulatory frameworks, enables them to navigate complex regulatory landscapes, provide guidance on compliance strategies, and contribute to the overall success of chemical engineering projects. Regulatory Affairs Specialists are indispensable in maintaining the highest standards of safety and quality in the chemical industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Regulatory Affairs Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Regulatory Affairs Specialist interviews to help you prepare and succeed.

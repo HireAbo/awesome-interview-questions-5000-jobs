@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Development Technology Specialist Interview Preparation ! This resource is designed to help you ace your Real Estate Development Technology Specialist interviews with confidence.
 
+A Real Estate Development Technology Specialist is a professional who combines expertise in real estate development and technological advancements to optimize the management and growth of real estate properties. This role involves leveraging cutting-edge technology tools and software to streamline processes, enhance efficiency, and drive innovation in the real estate industry. They work closely with real estate developers, property managers, and stakeholders to identify opportunities for implementing technology solutions that can improve property value, reduce costs, and enhance tenant experiences. A Real Estate Development Technology Specialist possesses a deep understanding of emerging trends in real estate technology, data analytics, smart building systems, and virtual reality, among others, to ensure successful project execution and sustainable property management practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Development Technology Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Development Technology Specialist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Data Center Network Engineer Interview Preparation ! This resource is designed to help you ace your Data Center Network Engineer interviews with confidence.
 
+A Data Center Network Engineer is a professional responsible for designing, implementing, and maintaining the network infrastructure of data centers. They play a crucial role in ensuring the seamless operation of computer networks that support various applications and services within the data center environment. These engineers are experts in configuring and troubleshooting network devices, including routers, switches, firewalls, and load balancers. They collaborate with cross-functional teams to ensure high availability, scalability, and security of the data center network. Additionally, they monitor network performance, analyze data traffic patterns, and implement network optimizations to enhance efficiency and minimize downtime. A Data Center Network Engineer possesses strong technical skills, problem-solving abilities, and a deep understanding of network protocols and architectures.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Center Network Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Center Network Engineer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Art Therapist Interview Preparation ! This resource is designed to help you ace your Art Therapist interviews with confidence.
 
+Social work and human services encompass a broad range of professions aimed at assisting individuals and communities in need. Within the field of counseling, one specialized role is that of an art therapist. Art therapists utilize the creative process to enhance the emotional, mental, and physical well-being of their clients. They work with individuals who may have experienced trauma, mental health issues, or are seeking personal growth and self-expression. Through various art forms, such as painting, drawing, or sculpture, art therapists facilitate healing and self-discovery. They develop personalized treatment plans, conduct assessments, and provide therapeutic interventions to empower individuals to explore their emotions and foster personal transformation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Art Therapist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Art Therapist interviews to help you prepare and succeed.

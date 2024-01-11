@@ -2,6 +2,8 @@
 
 Welcome to the Computational Fluid Dynamics (CFD) Engineer Interview Preparation ! This resource is designed to help you ace your Computational Fluid Dynamics (CFD) Engineer interviews with confidence.
 
+Aerospace Engineering is a branch of engineering that focuses on the design, development, testing, and production of aircraft and spacecraft. Within this field, Computational Fluid Dynamics (CFD) Engineers play a crucial role in analyzing and simulating fluid flow and its impact on aerospace components. These engineers utilize advanced computer modeling techniques to predict and optimize the performance of aircraft and spacecraft designs. CFD Engineers are responsible for conducting numerical simulations, analyzing data, and providing recommendations for improving aerodynamic performance, reducing drag, enhancing fuel efficiency, and ensuring structural integrity. They collaborate with other aerospace professionals to develop innovative solutions and contribute to the advancement of the aerospace industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Computational Fluid Dynamics (CFD) Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Computational Fluid Dynamics (CFD) Engineer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Forensic Odontologist Interview Preparation ! This resource is designed to help you ace your Forensic Odontologist interviews with confidence.
 
+Forensic Odontologists play a crucial role in the field of Forensic Science within the realm of Law and Criminal Justice. As highly skilled dental professionals, they utilize their expertise in dentistry to identify human remains and provide valuable evidence in criminal investigations. These professionals examine dental records, X-rays, and dental impressions to establish the identity of deceased individuals when other means of identification are unavailable or compromised. Additionally, Forensic Odontologists may analyze bite marks on victims or suspects, comparing them to dental impressions to assist in identifying potential perpetrators. Their meticulous work and attention to detail are instrumental in ensuring justice is served and aiding in the resolution of criminal cases.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forensic Odontologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forensic Odontologist interviews to help you prepare and succeed.

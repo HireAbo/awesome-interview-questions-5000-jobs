@@ -2,6 +2,8 @@
 
 Welcome to the Information Governance Manager Interview Preparation ! This resource is designed to help you ace your Information Governance Manager interviews with confidence.
 
+The role of an Information Governance Manager in Library and Information Science (LIS) is crucial in ensuring effective management and utilization of information within an organization. This position involves overseeing the development and implementation of information governance policies and procedures, ensuring compliance with legal and regulatory requirements. Information Governance Managers are responsible for identifying, classifying, and organizing information assets, as well as establishing systems for data retention and disposal. They collaborate with various stakeholders to establish best practices for information management, including data security and privacy. Additionally, Information Governance Managers play a vital role in promoting information literacy and facilitating access to relevant and reliable information for users.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Information Governance Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Information Governance Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Welding Instructor Interview Preparation ! This resource is designed to help you ace your Welding Instructor interviews with confidence.
 
+A Welding Instructor is a skilled trades professional who teaches and trains individuals in the art of welding. They are responsible for imparting their knowledge and expertise to students, equipping them with the necessary skills to become successful welders. Welding Instructors design and deliver instructional materials, such as lesson plans and hands-on demonstrations, to enable students to understand various welding techniques, safety procedures, and equipment usage. They also provide guidance and feedback to students, helping them improve their welding abilities and problem-solving skills. A successful Welding Instructor possesses excellent communication and interpersonal skills, along with a strong passion for the trade and a commitment to fostering the growth and development of future welders.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Welding Instructor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Welding Instructor interviews to help you prepare and succeed.

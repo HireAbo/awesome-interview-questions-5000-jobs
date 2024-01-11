@@ -2,6 +2,8 @@
 
 Welcome to the Metadata Specialist Interview Preparation ! This resource is designed to help you ace your Metadata Specialist interviews with confidence.
 
+A Metadata Specialist is a professional who specializes in managing and organizing information within the field of Library and Information Science. They play a crucial role in ensuring that information is properly labeled, categorized, and easily accessible for users. Their main responsibility is to create and maintain metadata, which includes descriptive, administrative, and structural information about different types of resources such as books, digital media, and online databases. Metadata Specialists are skilled in using various metadata standards and technologies to enhance the discoverability and usability of information. They also collaborate with other professionals to develop effective metadata strategies and workflows to optimize information management processes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Metadata Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Metadata Specialist interviews to help you prepare and succeed.

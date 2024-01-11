@@ -2,6 +2,8 @@
 
 Welcome to the Merchandising Analytics Manager Interview Preparation ! This resource is designed to help you ace your Merchandising Analytics Manager interviews with confidence.
 
+The role of a Merchandising Analytics Manager in the field of Retail and Sales is to effectively analyze and interpret data related to merchandising activities. This job entails utilizing various analytical tools and techniques to gather insights into customer behavior, sales trends, and product performance. The Merchandising Analytics Manager is responsible for providing recommendations to optimize product assortments, pricing, and promotional strategies. They collaborate with cross-functional teams including sales, marketing, and supply chain to drive business growth and enhance customer satisfaction. This position requires strong analytical skills, proficiency in data visualization tools, and the ability to translate complex data into actionable insights that drive profitability and improve overall merchandising strategies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Merchandising Analytics Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Merchandising Analytics Manager interviews to help you prepare and succeed.

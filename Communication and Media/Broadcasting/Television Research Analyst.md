@@ -2,6 +2,8 @@
 
 Welcome to the Television Research Analyst Interview Preparation ! This resource is designed to help you ace your Television Research Analyst interviews with confidence.
 
+A Television Research Analyst is a professional who specializes in studying and analyzing data related to television viewership and audience behavior. They play a crucial role in the broadcasting industry by providing valuable insights and recommendations to television networks and production companies. The main responsibilities of a Television Research Analyst include collecting and interpreting data from various sources, such as ratings, surveys, and audience feedback. They use this information to identify trends, patterns, and preferences among viewers, which helps in shaping programming decisions, advertising strategies, and audience targeting. A strong background in media studies, statistics, and market research is essential for this role, along with excellent analytical and communication skills.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Television Research Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Television Research Analyst interviews to help you prepare and succeed.

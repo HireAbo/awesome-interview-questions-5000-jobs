@@ -2,6 +2,8 @@
 
 Welcome to the Curriculum Integration Specialist Interview Preparation ! This resource is designed to help you ace your Curriculum Integration Specialist interviews with confidence.
 
+A Curriculum Integration Specialist is a highly skilled professional responsible for developing and implementing curriculum that aligns with educational goals and standards. This role involves collaborating with educators, administrators, and other stakeholders to design and integrate curriculum across various subjects and grade levels. The specialist analyzes current curriculum, identifies gaps, and creates strategies to enhance overall learning experiences. They also provide support and training to teachers, ensuring effective implementation of the integrated curriculum. This role requires strong communication and leadership skills, as well as a deep understanding of educational principles and best practices. A Curriculum Integration Specialist plays a crucial role in promoting a cohesive and comprehensive educational experience for students.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Curriculum Integration Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Curriculum Integration Specialist interviews to help you prepare and succeed.

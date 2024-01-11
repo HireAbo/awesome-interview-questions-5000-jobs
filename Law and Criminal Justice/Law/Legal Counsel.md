@@ -2,6 +2,8 @@
 
 Welcome to the Legal Counsel Interview Preparation ! This resource is designed to help you ace your Legal Counsel interviews with confidence.
 
+Legal Counsel is a crucial role within the field of Law and Criminal Justice. As legal advisors, they provide expert guidance and representation to individuals, businesses, or organizations involved in legal matters. These professionals play a pivotal role in ensuring compliance with laws and regulations, mitigating legal risks, and safeguarding their clients' interests. Legal Counsel conducts thorough research, drafts legal documents, and negotiates contracts on behalf of their clients. They also provide legal opinions and advice, analyze legal issues, and assist in formulating strategies for litigation or dispute resolution. Legal Counsel must possess strong analytical, communication, and negotiation skills, along with a deep understanding of legal principles and procedures.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Legal Counsel or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Legal Counsel interviews to help you prepare and succeed.

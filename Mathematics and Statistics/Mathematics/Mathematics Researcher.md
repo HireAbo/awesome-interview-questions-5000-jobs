@@ -2,6 +2,8 @@
 
 Welcome to the Mathematics Researcher Interview Preparation ! This resource is designed to help you ace your Mathematics Researcher interviews with confidence.
 
+Mathematics is a branch of science that deals with the study of numbers, quantities, and patterns. It involves logical reasoning, problem-solving, and critical thinking to understand and explain various phenomena in the world. Statistics, on the other hand, is a specialized area of mathematics that focuses on collecting, analyzing, interpreting, and presenting numerical data. It plays a crucial role in making informed decisions, predicting outcomes, and drawing conclusions from data. A Mathematics Researcher job entails conducting in-depth research, developing mathematical models, and solving complex problems. These professionals contribute to advancements in various fields, including physics, engineering, finance, and computer science, by applying mathematical theories and techniques.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Mathematics Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Mathematics Researcher interviews to help you prepare and succeed.

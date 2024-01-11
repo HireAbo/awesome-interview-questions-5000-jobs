@@ -2,6 +2,8 @@
 
 Welcome to the Cultural Anthropologist Interview Preparation ! This resource is designed to help you ace your Cultural Anthropologist interviews with confidence.
 
+A cultural anthropologist is a professional who studies human societies, cultures, and behavior to gain a deeper understanding of different communities and their way of life. As experts in social sciences, cultural anthropologists conduct extensive fieldwork, observing and interacting with individuals from diverse backgrounds. They examine cultural practices, traditions, beliefs, and social structures to identify patterns and trends within specific communities. Through their research, cultural anthropologists aim to contribute to the understanding of human diversity and the dynamics of cultural change. They may work in academic settings, conducting research and teaching students, or collaborate with organizations, governments, or non-profits to address social issues and develop culturally sensitive policies and programs.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cultural Anthropologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cultural Anthropologist interviews to help you prepare and succeed.

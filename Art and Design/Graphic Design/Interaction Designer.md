@@ -2,6 +2,8 @@
 
 Welcome to the Interaction Designer Interview Preparation ! This resource is designed to help you ace your Interaction Designer interviews with confidence.
 
+An Interaction Designer is a professional in the field of Graphic Design who specializes in creating engaging and intuitive user experiences for digital platforms. They possess a unique blend of artistic and analytical skills, combining their understanding of user behavior with their creativity to design interactive interfaces that are visually appealing and easy to navigate. These designers are responsible for crafting the overall look and feel of websites, mobile applications, and other digital products, ensuring that users can effortlessly interact with the content. Their expertise lies in creating seamless interactions, user flows, wireframes, and prototypes that enhance user satisfaction and drive engagement. As technology continues to evolve, the role of an Interaction Designer becomes increasingly vital in shaping the way we interact with digital interfaces.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Interaction Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Interaction Designer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Rural Economist Interview Preparation ! This resource is designed to help you ace your Rural Economist interviews with confidence.
 
+A rural economist is a professional who specializes in analyzing and understanding the economic dynamics and trends in rural areas. They focus on studying the economic systems, policies, and practices that impact rural communities, with the aim of improving their economic well-being. Rural economists conduct research, collect data, and analyze various factors such as agricultural production, income distribution, rural development, and natural resource management. They work closely with policymakers, government agencies, and community organizations to provide insights and recommendations for fostering sustainable economic growth in rural areas. Their expertise and knowledge play a crucial role in addressing the unique challenges and opportunities faced by rural communities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Rural Economist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Rural Economist interviews to help you prepare and succeed.

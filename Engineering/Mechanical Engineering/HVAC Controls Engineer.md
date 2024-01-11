@@ -2,6 +2,8 @@
 
 Welcome to the HVAC Controls Engineer Interview Preparation ! This resource is designed to help you ace your HVAC Controls Engineer interviews with confidence.
 
+A HVAC Controls Engineer is a specialist in the field of mechanical engineering, specifically focused on heating, ventilation, and air conditioning (HVAC) systems. They are responsible for designing, implementing, and maintaining HVAC control systems to ensure optimal performance and energy efficiency. This role involves analyzing building requirements, conducting feasibility studies, and collaborating with architects, contractors, and other engineers to develop cost-effective and sustainable solutions. HVAC Controls Engineers also play a crucial role in troubleshooting and resolving issues related to HVAC systems. Their expertise lies in programming and configuring control systems, integrating various components, and monitoring system performance to ensure compliance with industry standards and regulations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned HVAC Controls Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in HVAC Controls Engineer interviews to help you prepare and succeed.

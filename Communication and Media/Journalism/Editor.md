@@ -2,6 +2,8 @@
 
 Welcome to the Editor Interview Preparation ! This resource is designed to help you ace your Editor interviews with confidence.
 
+A Journalism Editor plays a crucial role in the field of Communication and Media. They are responsible for overseeing and managing the editorial process of a publication or media outlet. Their main objective is to ensure accuracy, clarity, fairness, and adherence to journalistic ethics in the content produced. Editors work closely with journalists, assigning and reviewing articles, providing feedback, and making necessary edits. They are also adept at staying updated with current events and trends to ensure the publication remains relevant. Additionally, Journalism Editors possess excellent communication skills, attention to detail, and the ability to work under tight deadlines to deliver high-quality content to the audience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Editor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Editor interviews to help you prepare and succeed.

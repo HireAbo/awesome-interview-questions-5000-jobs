@@ -2,6 +2,8 @@
 
 Welcome to the Residential Real Estate Sales Interview Preparation ! This resource is designed to help you ace your Residential Real Estate Sales interviews with confidence.
 
+Real Estate and Property Management involves the buying, selling, and management of properties. Within this field, one can specialize in various areas, such as Real Estate Sales. Residential Real Estate Sales, in particular, focuses on the sale of residential properties, such as houses, apartments, and condos. As a Residential Real Estate Sales professional, your main responsibility is to assist clients in the process of buying or selling their homes. This involves conducting market research, evaluating property values, negotiating deals, and guiding clients through the entire transaction process. Strong communication, negotiation, and interpersonal skills are essential in this role, along with a deep understanding of the local real estate market.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Residential Real Estate Sales or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Residential Real Estate Sales interviews to help you prepare and succeed.

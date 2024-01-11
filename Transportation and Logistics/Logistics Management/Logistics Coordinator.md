@@ -2,6 +2,8 @@
 
 Welcome to the Logistics Coordinator Interview Preparation ! This resource is designed to help you ace your Logistics Coordinator interviews with confidence.
 
+A Logistics Coordinator plays a crucial role in the transportation and logistics industry. They are responsible for overseeing the movement and storage of goods, ensuring that they reach their destination in a timely and cost-effective manner. This job requires excellent organizational and communication skills, as well as a strong attention to detail. A Logistics Coordinator collaborates with suppliers, carriers, and clients to coordinate shipments, track inventory, and resolve any issues that may arise. They also analyze data and make recommendations to improve efficiency and reduce costs. Overall, a Logistics Coordinator is an essential link in the supply chain, ensuring that goods are delivered efficiently and effectively.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Logistics Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Logistics Coordinator interviews to help you prepare and succeed.

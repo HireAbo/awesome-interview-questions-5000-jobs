@@ -2,6 +2,8 @@
 
 Welcome to the Financial Consultant Interview Preparation ! This resource is designed to help you ace your Financial Consultant interviews with confidence.
 
+A financial consultant is a professional who provides expert advice and guidance to individuals or businesses on various financial matters. They are skilled in analyzing financial data, assessing investment opportunities, and developing strategies to help clients achieve their financial goals. Financial consultants are well-versed in areas such as tax planning, retirement planning, risk management, and investment management. They conduct thorough financial analyses, identify potential risks and opportunities, and offer tailored solutions to clients based on their specific needs and objectives. Their expertise enables them to provide valuable insights and recommendations to clients, ultimately helping them make informed financial decisions and optimize their financial situation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Financial Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Financial Consultant interviews to help you prepare and succeed.

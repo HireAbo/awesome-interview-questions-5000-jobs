@@ -2,6 +2,8 @@
 
 Welcome to the Certified Lymphedema Therapist Interview Preparation ! This resource is designed to help you ace your Certified Lymphedema Therapist interviews with confidence.
 
+A Certified Lymphedema Therapist is a healthcare professional specializing in the treatment and management of lymphedema, a chronic condition characterized by swelling due to the accumulation of lymphatic fluid. These therapists play a crucial role in the field of physical therapy, as they assess, diagnose, and develop treatment plans to alleviate symptoms, improve mobility, and enhance the overall quality of life for patients suffering from lymphedema. They utilize various techniques such as manual lymphatic drainage, compression therapy, exercise programs, and patient education to minimize swelling, promote lymphatic flow, and prevent complications associated with this condition. Certified Lymphedema Therapists work closely with patients, providing physical and emotional support throughout their treatment journey.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Certified Lymphedema Therapist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Certified Lymphedema Therapist interviews to help you prepare and succeed.

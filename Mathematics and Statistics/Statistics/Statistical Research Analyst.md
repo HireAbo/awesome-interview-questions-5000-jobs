@@ -2,6 +2,8 @@
 
 Welcome to the Statistical Research Analyst Interview Preparation ! This resource is designed to help you ace your Statistical Research Analyst interviews with confidence.
 
+A Statistical Research Analyst job involves the application of mathematical and statistical techniques to analyze data and provide insights for decision-making. As a part of the field of statistics, it combines mathematical principles with data analysis to draw meaningful conclusions. Statistical Research Analysts play a crucial role in various industries, such as finance, healthcare, marketing, and social sciences, as they are responsible for designing and conducting experiments, collecting and analyzing data, and interpreting the results. They utilize statistical software and mathematical models to identify trends, patterns, correlations, and probabilities that assist organizations in making informed decisions and solving complex problems. Strong analytical skills, attention to detail, and a solid understanding of mathematics and statistics are essential for success in this profession.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Statistical Research Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Statistical Research Analyst interviews to help you prepare and succeed.

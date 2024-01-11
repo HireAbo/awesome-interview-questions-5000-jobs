@@ -2,6 +2,8 @@
 
 Welcome to the Budget Analyst Interview Preparation ! This resource is designed to help you ace your Budget Analyst interviews with confidence.
 
+A Budget Analyst is a professional who plays a crucial role in the field of economics within the social sciences. These individuals are responsible for analyzing and monitoring financial data to assist organizations and government agencies in creating and managing budgets effectively. Budget Analysts evaluate financial reports, identify trends, and forecast future financial needs. They are adept at conducting cost-benefit analyses, assessing revenue streams, and conducting budget reviews. Additionally, Budget Analysts provide recommendations for budget adjustments, assist in the development of financial policies, and ensure compliance with regulatory guidelines. Their expertise in financial planning and analysis contributes significantly to the success of organizations and government entities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Budget Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Budget Analyst interviews to help you prepare and succeed.

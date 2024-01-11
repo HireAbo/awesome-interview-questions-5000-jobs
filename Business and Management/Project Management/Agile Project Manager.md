@@ -2,6 +2,8 @@
 
 Welcome to the Agile Project Manager Interview Preparation ! This resource is designed to help you ace your Agile Project Manager interviews with confidence.
 
+An Agile Project Manager is a professional who oversees and manages projects using the Agile methodology. Agile project management is an iterative approach that emphasizes flexibility, collaboration, and continuous improvement. As an Agile Project Manager, your role is to lead a cross-functional team, set project goals, and ensure that the project is delivered on time, within budget, and according to the client's requirements. You will be responsible for facilitating communication and coordination between team members, tracking progress, and resolving any issues that may arise. Additionally, you will be expected to adapt to changing circumstances and promote a culture of innovation and adaptability within the team.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Agile Project Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Agile Project Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Healthcare Records Manager Interview Preparation ! This resource is designed to help you ace your Healthcare Records Manager interviews with confidence.
 
+Library and Information Science (LIS) is a field that encompasses the management, organization, and dissemination of information in various formats. Within LIS, Records Management focuses specifically on the systematic control and administration of records throughout their lifecycle. One specific career path within Records Management is that of a Healthcare Records Manager. This role is crucial in healthcare settings, where the proper management and maintenance of patient records is essential. A Healthcare Records Manager is responsible for ensuring the accuracy, confidentiality, and accessibility of healthcare records. They oversee the implementation and maintenance of electronic health record systems, develop policies and procedures, train staff on record management practices, and ensure compliance with legal and regulatory requirements.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Healthcare Records Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Healthcare Records Manager interviews to help you prepare and succeed.

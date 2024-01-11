@@ -2,6 +2,8 @@
 
 Welcome to the Information Architect Interview Preparation ! This resource is designed to help you ace your Information Architect interviews with confidence.
 
+Library and Information Science (LIS) is a multidisciplinary field that focuses on managing and organizing information resources. Within LIS, the subfield of Information Management involves the strategic planning, organization, and retrieval of information for various purposes. Information Architects, a specialized role within Information Management, play a critical role in designing and structuring information systems, ensuring efficient and effective access to relevant data. They analyze user needs, develop taxonomies and metadata schemas, and create intuitive information architectures. Information Architects also collaborate with web developers, designers, and content creators to ensure seamless user experiences and optimized information delivery. Their expertise is essential in today's data-driven world, where information overload necessitates organized and user-centered information management strategies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Information Architect or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Information Architect interviews to help you prepare and succeed.

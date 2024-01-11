@@ -2,6 +2,8 @@
 
 Welcome to the Corporate Finance Manager Interview Preparation ! This resource is designed to help you ace your Corporate Finance Manager interviews with confidence.
 
+A Corporate Finance Manager plays a crucial role in a company by overseeing and managing the financial activities within the organization. They are responsible for managing the company's financial planning, budgeting, and forecasting processes. This includes analyzing financial data, identifying trends, and making strategic recommendations to senior management. The Corporate Finance Manager also plays a vital role in evaluating investment opportunities, mergers, and acquisitions, and ensuring compliance with financial regulations. They work closely with other departments to develop and implement financial strategies that align with the company's goals and objectives. Strong analytical skills, financial acumen, and the ability to make sound financial decisions are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Corporate Finance Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Corporate Finance Manager interviews to help you prepare and succeed.

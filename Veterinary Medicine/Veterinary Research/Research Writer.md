@@ -2,6 +2,8 @@
 
 Welcome to the Research Writer Interview Preparation ! This resource is designed to help you ace your Research Writer interviews with confidence.
 
+Veterinary Medicine is a branch of medicine that deals with the prevention, diagnosis, and treatment of diseases, disorders, and injuries in animals. It plays a crucial role in ensuring the health and well-being of various species, from domestic pets to livestock and wildlife. Within this field, Veterinary Research focuses on advancing knowledge and understanding of animal health through scientific investigation. Research Writers in Veterinary Medicine contribute to this field by providing comprehensive and accurate written materials, such as research papers, articles, and reports. They play a vital role in disseminating research findings, promoting evidence-based practices, and contributing to the overall improvement of animal health and welfare.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Research Writer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Research Writer interviews to help you prepare and succeed.

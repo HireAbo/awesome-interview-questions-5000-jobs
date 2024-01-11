@@ -2,6 +2,8 @@
 
 Welcome to the Government Records Specialist Interview Preparation ! This resource is designed to help you ace your Government Records Specialist interviews with confidence.
 
+Library and Information Science encompasses various fields, including Records Management, which plays a vital role in preserving and organizing government records. Within this field, the Government Records Specialist job focuses on managing and maintaining the records of government agencies. These professionals are responsible for ensuring the accuracy, accessibility, and security of government records, both in physical and digital formats. They develop and implement records management policies and procedures, oversee the retention and disposition of records, and provide guidance on records-related regulations and compliance. Government Records Specialists possess a strong attention to detail, excellent organizational skills, and a thorough understanding of archival principles and practices. Their work is crucial in facilitating effective governance and upholding transparency and accountability within the public sector.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Government Records Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Government Records Specialist interviews to help you prepare and succeed.

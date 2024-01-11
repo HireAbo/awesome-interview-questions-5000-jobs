@@ -2,6 +2,8 @@
 
 Welcome to the Baker Interview Preparation ! This resource is designed to help you ace your Baker interviews with confidence.
 
+Hospitality and Tourism is a thriving industry that offers a wide range of exciting career opportunities. One such career path within this industry is Culinary Arts, specifically the role of a Baker. Bakers play a crucial role in the hospitality and tourism sector by creating delicious baked goods that tantalize the taste buds of guests and customers. They are responsible for preparing and baking an assortment of bread, pastries, cakes, and desserts. Bakers must possess excellent baking skills, creativity, and attention to detail to ensure the highest quality products. Whether working in a bakery, hotel, restaurant, or even on cruise ships, the Baker job is an integral part of the culinary arts and adds a delectable touch to the overall hospitality experience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Baker or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Baker interviews to help you prepare and succeed.

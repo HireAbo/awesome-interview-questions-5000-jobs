@@ -2,6 +2,8 @@
 
 Welcome to the Pharmacy Technician Interview Preparation ! This resource is designed to help you ace your Pharmacy Technician interviews with confidence.
 
+A Pharmacy Technician plays a crucial role in the healthcare and medicine field. As an integral member of the pharmacy team, they assist pharmacists in dispensing medications to patients, ensuring accuracy and safety. Pharmacy Technicians also help with inventory management, medication compounding, and maintaining patient records. They work closely with pharmacists and healthcare professionals to provide excellent customer service and ensure that patients receive the correct medications and dosage instructions. Attention to detail, strong organizational skills, and knowledge of pharmaceutical terminology and procedures are essential in this role. Pharmacy Technicians provide a vital service in the healthcare system, contributing to the overall well-being of patients and the delivery of efficient healthcare services.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Pharmacy Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Pharmacy Technician interviews to help you prepare and succeed.

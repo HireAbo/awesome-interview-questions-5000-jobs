@@ -2,6 +2,8 @@
 
 Welcome to the Energy Manager Interview Preparation ! This resource is designed to help you ace your Energy Manager interviews with confidence.
 
+An Energy Manager is a professional responsible for overseeing and optimizing energy usage in various industries and organizations. Their primary objective is to reduce energy consumption, minimize costs, and promote sustainability. Energy Managers analyze energy usage patterns, identify areas of improvement, and develop strategies to increase efficiency. They conduct energy audits, manage energy procurement, and implement energy conservation initiatives. They also monitor and analyze energy data, track energy performance, and provide recommendations for improvement. Energy Managers collaborate with internal teams, contractors, and suppliers to implement energy-saving technologies and practices. They stay updated with industry trends and regulations to ensure compliance and promote the use of renewable energy sources.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Energy Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Energy Manager interviews to help you prepare and succeed.

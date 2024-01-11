@@ -2,6 +2,8 @@
 
 Welcome to the Forensic Serologist Interview Preparation ! This resource is designed to help you ace your Forensic Serologist interviews with confidence.
 
+A Forensic Serologist is a crucial member of the field of Forensic Science within the domain of Law and Criminal Justice. This specialized profession involves the analysis of bodily fluids and biological evidence to aid in criminal investigations. Forensic Serologists play a crucial role in identifying, analyzing, and interpreting blood, semen, saliva, and other bodily fluids found at crime scenes. Through the use of advanced laboratory techniques and equipment, they are able to determine the presence of these substances, as well as their potential relevance to a criminal case. Their expertise helps to establish connections between suspects and victims, providing valuable evidence in the pursuit of justice.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forensic Serologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forensic Serologist interviews to help you prepare and succeed.

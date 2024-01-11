@@ -2,6 +2,8 @@
 
 Welcome to the Marine Cargo Inspector Interview Preparation ! This resource is designed to help you ace your Marine Cargo Inspector interviews with confidence.
 
+A Marine Cargo Inspector plays a crucial role in the transportation and logistics industry, specifically in maritime operations. As a Marine Cargo Inspector, your main responsibility is to ensure the safe and efficient transportation of goods by inspecting marine cargo shipments. You will be responsible for verifying the quantity, quality, condition, and documentation of the cargo. This includes conducting inspections at ports, terminals, and warehouses, as well as conducting tests and taking samples to ensure compliance with regulations and industry standards. Attention to detail, knowledge of cargo handling procedures, and strong communication skills are essential in this role to ensure the smooth flow of goods across international borders.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Marine Cargo Inspector or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Marine Cargo Inspector interviews to help you prepare and succeed.

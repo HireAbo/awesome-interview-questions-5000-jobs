@@ -2,6 +2,8 @@
 
 Welcome to the Archives Outreach Coordinator Interview Preparation ! This resource is designed to help you ace your Archives Outreach Coordinator interviews with confidence.
 
+The Library and Information Science field encompasses various roles and responsibilities, one of which is the position of an Archives Outreach Coordinator in the Archiving sector. As an Archives Outreach Coordinator, your primary objective is to engage with the community and promote awareness and utilization of archival resources and services. You will be responsible for planning and executing outreach programs, workshops, and events to educate the public on the importance of preserving and accessing archival materials. In addition, you will collaborate with other organizations, schools, and community groups to foster partnerships and develop innovative strategies to enhance public engagement with archives. This role requires strong communication and networking skills, along with a passion for preserving history and promoting access to valuable archival collections.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Archives Outreach Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Archives Outreach Coordinator interviews to help you prepare and succeed.

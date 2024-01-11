@@ -2,6 +2,8 @@
 
 Welcome to the Development Economist Interview Preparation ! This resource is designed to help you ace your Development Economist interviews with confidence.
 
+A Development Economist is a professional who specializes in studying and analyzing the social and economic factors that contribute to the growth and development of countries or regions. They focus on identifying strategies and policies that can foster economic progress and reduce poverty levels. Development economists conduct research, collect data, and analyze economic indicators to understand the current state of an economy and identify areas of improvement. They also provide recommendations to governments, non-profit organizations, and international institutions on how to implement effective development programs, promote sustainable economic growth, and address social inequalities. Development economists play a crucial role in shaping policies that can lead to poverty reduction, improved living standards, and overall social well-being.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Development Economist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Development Economist interviews to help you prepare and succeed.

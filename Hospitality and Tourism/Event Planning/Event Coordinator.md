@@ -2,6 +2,8 @@
 
 Welcome to the Event Coordinator Interview Preparation ! This resource is designed to help you ace your Event Coordinator interviews with confidence.
 
+Hospitality and Tourism is a thriving industry that encompasses various sectors, including Event Planning. Event Planning involves the organization and management of social, corporate, and recreational events. Within this field, the role of an Event Coordinator is crucial. An Event Coordinator is responsible for overseeing all aspects of an event, from initial conception to execution. This includes budgeting, venue selection, logistics, vendor coordination, and ensuring a seamless experience for attendees. They possess excellent communication and organizational skills, as well as the ability to think creatively and problem-solve on the spot. A career as an Event Coordinator offers exciting opportunities to work in a fast-paced and dynamic environment, creating memorable experiences for guests.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Event Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Event Coordinator interviews to help you prepare and succeed.

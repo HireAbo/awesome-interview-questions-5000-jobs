@@ -2,6 +2,8 @@
 
 Welcome to the Braille Transcriber Interview Preparation ! This resource is designed to help you ace your Braille Transcriber interviews with confidence.
 
+A Braille Transcriber is a specialized professional who plays a crucial role in facilitating education for individuals with visual impairments. They are responsible for converting written materials into Braille format, enabling visually impaired students to access and comprehend information effectively. A Braille Transcriber must possess exceptional knowledge of the Braille system, including its rules, symbols, and formatting guidelines. They utilize specialized software and equipment to transcribe textbooks, class notes, and other educational materials into Braille. Attention to detail, accuracy, and proficiency in proofreading are essential qualities for this job. By ensuring the availability of Braille materials, Braille Transcribers contribute significantly to creating an inclusive and accessible educational environment for visually impaired students.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Braille Transcriber or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Braille Transcriber interviews to help you prepare and succeed.

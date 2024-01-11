@@ -2,6 +2,8 @@
 
 Welcome to the Astrophysicist Interview Preparation ! This resource is designed to help you ace your Astrophysicist interviews with confidence.
 
+Aviation and Aerospace, encompassing various fields like engineering, technology, and science, revolutionize the way we explore the universe. Within this domain, Aerospace Technology plays a pivotal role in advancing our understanding of the cosmos. An astrophysicist, in particular, is a highly specialized job that involves studying celestial phenomena and the physical properties of the universe. These professionals utilize advanced instruments, such as telescopes and satellites, to gather data and analyze the behavior of stars, galaxies, and other cosmic objects. By conducting research and developing theoretical models, astrophysicists contribute to groundbreaking discoveries, helping us unravel the mysteries of the universe and pushing the boundaries of human knowledge.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Astrophysicist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Astrophysicist interviews to help you prepare and succeed.

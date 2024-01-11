@@ -2,6 +2,8 @@
 
 Welcome to the School Psychologist Interview Preparation ! This resource is designed to help you ace your School Psychologist interviews with confidence.
 
+A school psychologist is a crucial member of the education system, specializing in providing support and guidance to students, teachers, and parents. Their primary responsibility is to assess and address the social, emotional, and behavioral needs of students to ensure their academic success. School psychologists collaborate with teachers to develop effective learning strategies and interventions, and they also conduct psychological assessments to identify learning disabilities or mental health issues. Furthermore, they offer counseling sessions to help students cope with challenges, such as bullying or family problems. By promoting mental wellness and fostering a positive school environment, school psychologists play a vital role in enhancing students' overall educational experience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned School Psychologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in School Psychologist interviews to help you prepare and succeed.

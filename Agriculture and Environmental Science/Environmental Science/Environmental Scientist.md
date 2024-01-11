@@ -2,6 +2,10 @@
 
 Welcome to the Environmental Scientist Interview Preparation ! This resource is designed to help you ace your Environmental Scientist interviews with confidence.
 
+Agriculture and Environmental Science is a field that combines the principles of agriculture and environmental science to address the challenges of sustainable farming and land management practices. It focuses on understanding the impact of human activities on the environment and developing solutions to minimize negative effects while maximizing agricultural productivity. 
+
+Within this field, Environmental Scientists play a crucial role. They are responsible for conducting research, collecting and analyzing data, and providing recommendations to promote environmental sustainability and conservation. Environmental Scientists work closely with farmers and agricultural organizations to develop strategies that reduce pollution, conserve natural resources, and protect ecosystems. They also play a key role in assessing the environmental impact of agricultural practices, ensuring compliance with regulations, and promoting sustainable farming techniques.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Scientist interviews to help you prepare and succeed.

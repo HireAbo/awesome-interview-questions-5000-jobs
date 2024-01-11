@@ -2,6 +2,8 @@
 
 Welcome to the Risk Analyst Interview Preparation ! This resource is designed to help you ace your Risk Analyst interviews with confidence.
 
+Mathematics and Statistics play a crucial role in the field of quantitative analysis, particularly in the domain of risk analysis. A Risk Analyst job entails utilizing mathematical models and statistical techniques to evaluate and manage potential risks faced by individuals, organizations, or financial institutions. This role requires a deep understanding of probability theory, regression analysis, and other quantitative methods to assess the likelihood and impact of various risks. Risk Analysts use their analytical skills to identify potential threats and develop strategies to mitigate them. They also analyze historical data, forecast future trends, and assess the financial implications of different risk scenarios. Overall, this profession requires a strong foundation in Mathematics, Statistics, and a keen eye for detail.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Risk Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Risk Analyst interviews to help you prepare and succeed.

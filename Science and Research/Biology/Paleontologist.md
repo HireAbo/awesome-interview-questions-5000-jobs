@@ -2,6 +2,8 @@
 
 Welcome to the Paleontologist Interview Preparation ! This resource is designed to help you ace your Paleontologist interviews with confidence.
 
+A paleontologist is a professional who specializes in the study of prehistoric life through the examination of fossils. They are dedicated to understanding the history of life on Earth, with a particular focus on extinct organisms and their environments. Through careful excavation, analysis, and interpretation of fossil remains, paleontologists contribute to our understanding of evolution, biodiversity, and geological history. They often collaborate with geologists, biologists, and other scientists to reconstruct ancient ecosystems and uncover important clues about the past. Paleontologists also play a crucial role in discovering and identifying new species, documenting changes in ancient climates, and providing valuable insights into the origins and development of life.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Paleontologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Paleontologist interviews to help you prepare and succeed.

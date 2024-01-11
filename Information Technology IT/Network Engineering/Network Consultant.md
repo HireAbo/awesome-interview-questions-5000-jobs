@@ -2,6 +2,8 @@
 
 Welcome to the Network Consultant Interview Preparation ! This resource is designed to help you ace your Network Consultant interviews with confidence.
 
+Information Technology (IT) is a rapidly evolving field that encompasses the use of computers, software, and networks to manage, process, and distribute information. Within the IT realm, Network Engineering is a specialized area that focuses on designing, implementing, and maintaining computer networks. A Network Consultant is a professional who specializes in providing expert advice and solutions to organizations regarding their network infrastructure. They analyze business requirements, evaluate existing networks, and propose strategies to optimize network performance, security, and reliability. Network Consultants possess strong technical skills, such as network design, troubleshooting, and configuration, and also possess excellent communication and problem-solving abilities to effectively address client needs.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Network Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Network Consultant interviews to help you prepare and succeed.

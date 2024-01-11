@@ -2,6 +2,8 @@
 
 Welcome to the Trade Economist Interview Preparation ! This resource is designed to help you ace your Trade Economist interviews with confidence.
 
+A trade economist is a professional who specializes in analyzing and providing insights into the dynamics of international trade. They apply economic theories and tools to study the patterns, trends, and impact of trade on various aspects of the economy. Trade economists are responsible for conducting research, collecting and analyzing data, and generating reports to inform policymakers, businesses, and organizations about trade-related issues. They assess factors such as tariffs, quotas, exchange rates, and trade agreements to determine their effects on trade flows, competitiveness, and economic growth. By examining trade policies and their implications, trade economists play a crucial role in shaping trade strategies, promoting economic development, and fostering global cooperation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Trade Economist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Trade Economist interviews to help you prepare and succeed.

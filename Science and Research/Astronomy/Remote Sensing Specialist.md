@@ -2,6 +2,8 @@
 
 Welcome to the Remote Sensing Specialist Interview Preparation ! This resource is designed to help you ace your Remote Sensing Specialist interviews with confidence.
 
+A Remote Sensing Specialist in Astronomy is a highly skilled professional who uses advanced technology and methods to study celestial bodies and phenomena. They specialize in collecting and analyzing data from remote sensing instruments, such as telescopes and satellites. Their primary goal is to gain a deeper understanding of the universe and its components, including stars, galaxies, planets, and other celestial objects. Remote Sensing Specialists often work collaboratively with astronomers and scientists to design experiments, develop data collection strategies, and interpret the obtained information. Their expertise is crucial in uncovering new insights about the cosmos and contributing to the advancement of astronomical research.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Remote Sensing Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Remote Sensing Specialist interviews to help you prepare and succeed.

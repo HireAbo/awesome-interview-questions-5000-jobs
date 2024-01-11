@@ -2,6 +2,8 @@
 
 Welcome to the PR Manager Interview Preparation ! This resource is designed to help you ace your PR Manager interviews with confidence.
 
+A PR Manager is a professional responsible for managing the public image and reputation of a company or organization. They play a crucial role in ensuring effective communication and maintaining positive relationships with the media, stakeholders, and the public. As a PR Manager, their main objective is to strategically plan and execute communication strategies that promote the company's goals, products, or services. They are responsible for crafting compelling press releases, organizing media events, and coordinating interviews to ensure positive media coverage. Additionally, PR Managers may also handle crisis communication, reputation management, and maintain strong relationships with key influencers and journalists.
+
 ## 🚀 Overview
 
 Whether you're a seasoned PR Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in PR Manager interviews to help you prepare and succeed.

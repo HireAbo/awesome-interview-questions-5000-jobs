@@ -2,6 +2,8 @@
 
 Welcome to the Quantitative Analyst (Quant) Interview Preparation ! This resource is designed to help you ace your Quantitative Analyst (Quant) interviews with confidence.
 
+A Quantitative Analyst, commonly referred to as a Quant, is a crucial role within the field of Finance and Management. This position involves utilizing advanced mathematical and statistical techniques to analyze financial data and develop models for pricing securities, risk management, and investment strategies. Quants play a vital role in the decision-making process of financial institutions, providing insights into market trends, portfolio optimization, and the development of trading algorithms. They are responsible for conducting quantitative research, creating and implementing models, and collaborating with other teams to ensure accurate and effective financial analysis. Strong analytical skills, proficiency in programming languages, and a deep understanding of financial markets are essential for success in this challenging and rewarding career.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Quantitative Analyst (Quant) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Quantitative Analyst (Quant) interviews to help you prepare and succeed.

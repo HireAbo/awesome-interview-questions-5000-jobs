@@ -2,6 +2,8 @@
 
 Welcome to the Biostatistician Interview Preparation ! This resource is designed to help you ace your Biostatistician interviews with confidence.
 
+Veterinary Medicine is a branch of healthcare that focuses on the diagnosis, treatment, and prevention of diseases in animals. Within this field, Veterinary Research plays a crucial role in advancing our understanding of various animal-related health issues. Biostatisticians are an integral part of veterinary research teams, specializing in the collection, analysis, and interpretation of data. Their main objective is to use statistical methods to uncover patterns, trends, and correlations that help drive scientific discoveries and improve animal healthcare outcomes. Biostatisticians collaborate with veterinarians, scientists, and other professionals to design studies, develop research protocols, and provide statistical support, ultimately contributing to advancements in veterinary medicine.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Biostatistician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Biostatistician interviews to help you prepare and succeed.

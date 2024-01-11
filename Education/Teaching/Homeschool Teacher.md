@@ -2,6 +2,8 @@
 
 Welcome to the Homeschool Teacher Interview Preparation ! This resource is designed to help you ace your Homeschool Teacher interviews with confidence.
 
+A homeschool teacher is an educator who provides personalized instruction to students in a home setting. This job requires a deep understanding of various subjects, curriculum development, and the ability to cater to individual learning styles. Homeschool teachers play a crucial role in creating a supportive and engaging learning environment for their students. They are responsible for developing lesson plans, delivering instruction, assessing student progress, and providing feedback and guidance. Additionally, homeschool teachers often collaborate with parents to create a comprehensive educational experience tailored to each child's unique needs and interests. This role requires patience, adaptability, and strong communication skills to foster a positive and effective learning experience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Homeschool Teacher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Homeschool Teacher interviews to help you prepare and succeed.

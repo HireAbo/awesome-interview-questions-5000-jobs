@@ -2,6 +2,8 @@
 
 Welcome to the Aerospace Engineer Interview Preparation ! This resource is designed to help you ace your Aerospace Engineer interviews with confidence.
 
+Aerospace engineering is a specialized branch of engineering that focuses on the design, development, and production of aircraft, spacecraft, satellites, and missiles. Aerospace engineers apply scientific and mathematical principles to create innovative solutions for the aviation and space industries. As an aerospace engineer, your job responsibilities may include designing and testing aircraft and spacecraft components, conducting feasibility studies, analyzing aerodynamic performance, and overseeing the manufacturing process. You may also be involved in conducting research to improve flight safety, fuel efficiency, and environmental impact. Aerospace engineers work in various sectors, including government agencies, aerospace companies, research institutions, and defense organizations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Aerospace Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Aerospace Engineer interviews to help you prepare and succeed.

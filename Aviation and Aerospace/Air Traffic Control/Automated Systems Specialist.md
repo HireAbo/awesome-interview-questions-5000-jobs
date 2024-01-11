@@ -2,6 +2,8 @@
 
 Welcome to the Automated Systems Specialist Interview Preparation ! This resource is designed to help you ace your Automated Systems Specialist interviews with confidence.
 
+The job of an Automated Systems Specialist in Air Traffic Control (ATC) within the Aviation and Aerospace industry is a critical role in ensuring the safe and efficient movement of air traffic. These specialists are responsible for maintaining and troubleshooting the automated systems that support ATC operations. They play a vital role in keeping the systems operational, identifying and resolving technical issues, and implementing upgrades and enhancements. With the increasing reliance on technology in ATC, the expertise of Automated Systems Specialists is crucial in minimizing disruptions and maximizing the accuracy and reliability of the systems. Their work directly contributes to the overall safety and efficiency of air travel, making them indispensable in the aviation industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Automated Systems Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Automated Systems Specialist interviews to help you prepare and succeed.

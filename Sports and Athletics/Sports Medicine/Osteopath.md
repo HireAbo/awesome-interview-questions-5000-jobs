@@ -2,6 +2,8 @@
 
 Welcome to the Osteopath Interview Preparation ! This resource is designed to help you ace your Osteopath interviews with confidence.
 
+Sports and Athletics is a field that encompasses various physical activities, focusing on enhancing performance, promoting physical fitness, and preventing injuries. Within this domain, Sports Medicine plays a vital role in ensuring the well-being of athletes and individuals engaging in sports. Osteopaths, in particular, are healthcare professionals who specialize in diagnosing, treating, and preventing musculoskeletal injuries and disorders. They employ manual techniques, such as stretching, joint manipulation, and massage, to address injuries and optimize physical performance. Osteopaths work closely with athletes, providing personalized treatment plans, rehabilitation exercises, and expert advice on injury prevention. Their expertise is invaluable in aiding athletes in their pursuit of peak performance and overall physical well-being.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Osteopath or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Osteopath interviews to help you prepare and succeed.

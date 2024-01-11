@@ -2,6 +2,8 @@
 
 Welcome to the Provost Interview Preparation ! This resource is designed to help you ace your Provost interviews with confidence.
 
+A Provost, commonly known as the chief academic officer, plays a vital role in the field of Education Administration. As the senior executive responsible for overseeing and managing academic affairs within an educational institution, they work closely with the President or Chancellor to shape and implement the institution's vision and strategic direction. The Provost is responsible for supervising and evaluating academic programs, faculty recruitment and development, ensuring curricular excellence, fostering a positive learning environment, and promoting research and innovation. They collaborate with various stakeholders, including faculty, students, staff, and community partners, to enhance the quality of education and drive the institution's growth and success.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Provost or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Provost interviews to help you prepare and succeed.

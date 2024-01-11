@@ -2,6 +2,8 @@
 
 Welcome to the HR Project Manager Interview Preparation ! This resource is designed to help you ace your HR Project Manager interviews with confidence.
 
+A HR Project Manager is a crucial role within the field of Business and Management, specifically in Human Resources. This professional is responsible for overseeing and managing various HR projects within an organization. They are in charge of planning, organizing, and executing projects related to HR initiatives, such as talent acquisition, employee development, compensation and benefits, and performance management. The HR Project Manager collaborates with cross-functional teams, including HR staff, department heads, and external stakeholders, to ensure the successful completion of projects on time and within budget. Additionally, they provide strategic guidance, analyze project outcomes, and make recommendations to improve HR processes and practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned HR Project Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in HR Project Manager interviews to help you prepare and succeed.

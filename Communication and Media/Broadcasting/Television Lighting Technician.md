@@ -2,6 +2,8 @@
 
 Welcome to the Television Lighting Technician Interview Preparation ! This resource is designed to help you ace your Television Lighting Technician interviews with confidence.
 
+A Television Lighting Technician is responsible for the setup, operation, and maintenance of lighting equipment used in television broadcasting. They work closely with the production team to ensure that the lighting design enhances the visual appeal of the television programs. These professionals have a deep understanding of lighting techniques, color theory, and electrical systems. They also possess knowledge of various lighting fixtures, control consoles, and lighting software. Television Lighting Technicians collaborate with directors, camera operators, and other crew members to achieve the desired lighting effects for different scenes. They play a crucial role in creating the right mood and ambiance that complements the content being broadcasted.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Television Lighting Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Television Lighting Technician interviews to help you prepare and succeed.

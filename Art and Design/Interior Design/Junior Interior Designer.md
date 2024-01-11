@@ -2,6 +2,8 @@
 
 Welcome to the Junior Interior Designer Interview Preparation ! This resource is designed to help you ace your Junior Interior Designer interviews with confidence.
 
+A Junior Interior Designer plays a crucial role in the field of Art and Design, specifically in Interior Design. This entry-level position within the industry involves assisting senior designers in creating aesthetically pleasing and functional spaces. Junior Interior Designers work closely with clients to understand their requirements and preferences, and then develop design concepts that align with their vision. They contribute to space planning, material selection, furniture layout, and decorative elements. Additionally, they assist with creating 2D and 3D renderings, drafting floor plans, and sourcing furniture and accessories. A Junior Interior Designer collaborates with a team, learns from experienced professionals, and gains valuable hands-on experience to further develop their skills and creativity in the field of Interior Design.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Junior Interior Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Junior Interior Designer interviews to help you prepare and succeed.

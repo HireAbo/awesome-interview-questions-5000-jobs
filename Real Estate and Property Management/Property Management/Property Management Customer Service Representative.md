@@ -2,6 +2,8 @@
 
 Welcome to the Property Management Customer Service Representative Interview Preparation ! This resource is designed to help you ace your Property Management Customer Service Representative interviews with confidence.
 
+A Property Management Customer Service Representative plays a crucial role in the real estate and property management industry. This job involves interacting with tenants, property owners, and other stakeholders to ensure their satisfaction and address any concerns they may have. The representative acts as a liaison between all parties, coordinating maintenance requests, resolving issues, and facilitating lease agreements. Excellent communication and interpersonal skills are essential in this role, as the representative must effectively communicate policies, procedures, and property information to tenants and owners. Additionally, strong organizational and problem-solving abilities are required to handle multiple tasks efficiently and provide exceptional customer service in the property management field.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Property Management Customer Service Representative or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Property Management Customer Service Representative interviews to help you prepare and succeed.

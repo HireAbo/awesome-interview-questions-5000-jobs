@@ -2,6 +2,8 @@
 
 Welcome to the Trade Representative Interview Preparation ! This resource is designed to help you ace your Trade Representative interviews with confidence.
 
+The government and public service sector plays a crucial role in maintaining the functioning of society and protecting the interests of citizens. Within this sector, the role of a Trade Representative is of significant importance. A Trade Representative is a government official responsible for promoting and facilitating international trade between nations. They serve as diplomats, negotiators, and advocates for their country's economic interests abroad. Their primary objective is to develop and maintain positive trade relations with foreign governments, ensuring fair and mutually beneficial trade agreements. Trade Representatives work closely with domestic industries, analyzing market trends and identifying opportunities for growth. Their expertise in diplomacy and trade policies aids in fostering economic prosperity and strengthening global ties.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Trade Representative or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Trade Representative interviews to help you prepare and succeed.

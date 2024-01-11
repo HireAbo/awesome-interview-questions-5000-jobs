@@ -2,6 +2,8 @@
 
 Welcome to the Geophysicist Interview Preparation ! This resource is designed to help you ace your Geophysicist interviews with confidence.
 
+Geophysicists are professionals who specialize in the field of physics, specifically applying their knowledge to study the physical properties of the Earth and its natural phenomena. They conduct extensive research and investigations to understand various aspects of the Earth's structure, such as its composition, magnetic fields, and seismic activities. By utilizing advanced technologies and mathematical models, geophysicists analyze data obtained from field surveys, satellite imagery, and laboratory experiments to gain insights into geological processes, climate change, and natural resource exploration. These professionals play a crucial role in predicting natural disasters, assessing the impact of human activities on the environment, and aiding in the development of sustainable energy solutions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Geophysicist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Geophysicist interviews to help you prepare and succeed.

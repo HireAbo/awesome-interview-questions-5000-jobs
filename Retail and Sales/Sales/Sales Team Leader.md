@@ -2,6 +2,8 @@
 
 Welcome to the Sales Team Leader Interview Preparation ! This resource is designed to help you ace your Sales Team Leader interviews with confidence.
 
+A Sales Team Leader is a key role within the retail and sales industry, responsible for managing and leading a team of sales associates to achieve sales targets and provide outstanding customer service. They oversee the day-to-day operations of the sales team, including assigning tasks, setting sales goals, and providing training and guidance to team members. The Sales Team Leader plays a crucial role in driving sales performance, analyzing sales data, and implementing strategies to boost revenue. They also monitor inventory levels, ensure merchandise displays are visually appealing, and handle customer inquiries and complaints. Strong leadership, communication, and sales skills are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sales Team Leader or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sales Team Leader interviews to help you prepare and succeed.

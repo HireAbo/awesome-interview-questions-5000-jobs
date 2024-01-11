@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Health Specialist Interview Preparation ! This resource is designed to help you ace your Environmental Health Specialist interviews with confidence.
 
+Social work and human services encompass a range of professions dedicated to improving individuals and communities' well-being. These professionals advocate for social justice, provide support to vulnerable populations, and address societal issues. They work with diverse populations, such as children, the elderly, those struggling with addiction, and individuals facing homelessness. On the other hand, public health focuses on preventing disease, promoting health, and prolonging life through organized efforts. Environmental health specialists play a crucial role in this field by identifying and mitigating environmental risks that can harm public health, such as air and water pollution, hazardous waste, and occupational hazards. These professionals contribute to creating healthier and safer environments for individuals and communities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Health Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Health Specialist interviews to help you prepare and succeed.

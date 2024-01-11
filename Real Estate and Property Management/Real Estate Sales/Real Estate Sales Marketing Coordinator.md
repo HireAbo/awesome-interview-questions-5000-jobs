@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Sales Marketing Coordinator Interview Preparation ! This resource is designed to help you ace your Real Estate Sales Marketing Coordinator interviews with confidence.
 
+A Real Estate Sales Marketing Coordinator plays a crucial role in the real estate industry by overseeing and implementing marketing strategies to promote property sales. They work closely with real estate agents and brokers to create and execute effective marketing campaigns that attract potential buyers. Responsibilities of a Sales Marketing Coordinator include developing and maintaining online and offline marketing materials, organizing property showings and open houses, managing social media platforms, analyzing market trends, and assisting in the creation of sales presentations. With a strong understanding of real estate sales and marketing techniques, a Sales Marketing Coordinator contributes to the success of real estate sales by driving lead generation and increasing property visibility.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Sales Marketing Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Sales Marketing Coordinator interviews to help you prepare and succeed.

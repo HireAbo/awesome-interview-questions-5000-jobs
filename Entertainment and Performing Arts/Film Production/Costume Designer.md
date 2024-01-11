@@ -2,6 +2,8 @@
 
 Welcome to the Costume Designer Interview Preparation ! This resource is designed to help you ace your Costume Designer interviews with confidence.
 
+A Costume Designer in the field of film production plays a crucial role in bringing characters to life through their attire. This role involves collaborating closely with the director, production designer, and the rest of the creative team to develop the visual aesthetic of the film. The Costume Designer is responsible for researching, designing, and creating costumes that reflect the characters' personalities, time period, and setting. They must possess a keen eye for detail, as well as a comprehensive understanding of historical fashion, contemporary trends, and the overall vision of the film. This job requires creativity, excellent communication skills, and the ability to work within budget constraints. A successful Costume Designer can transform the script into a visually captivating and believable world for the audience to immerse themselves in.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Costume Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Costume Designer interviews to help you prepare and succeed.

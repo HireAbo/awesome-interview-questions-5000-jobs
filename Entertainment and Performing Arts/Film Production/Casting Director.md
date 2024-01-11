@@ -2,6 +2,8 @@
 
 Welcome to the Casting Director Interview Preparation ! This resource is designed to help you ace your Casting Director interviews with confidence.
 
+A Casting Director is a key player in the film production industry, responsible for finding and selecting the perfect actors for a film or television project. They work closely with the director and production team to understand the vision and requirements of the project, and then undertake the task of searching and auditioning potential candidates. Casting Directors have a deep knowledge of acting, and possess an eye for talent, as they carefully assess actors' abilities to bring characters to life. They also negotiate contracts and work closely with agents and talent agencies. A successful Casting Director plays a crucial role in shaping the final product and ensuring the right actors are chosen to enhance the overall storytelling experience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Casting Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Casting Director interviews to help you prepare and succeed.

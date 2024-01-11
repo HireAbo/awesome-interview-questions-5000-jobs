@@ -2,6 +2,8 @@
 
 Welcome to the Quality Assurance Tester Interview Preparation ! This resource is designed to help you ace your Quality Assurance Tester interviews with confidence.
 
+A Quality Assurance Tester is a crucial role in the field of Information Technology (IT) and Software Development. As an integral part of the software development process, a Quality Assurance Tester ensures that the software meets the desired quality standards and functions flawlessly. They are responsible for testing the software, identifying and documenting any defects or bugs, and working closely with developers to resolve issues. Quality Assurance Testers use various testing techniques and tools to perform functional, performance, and security testing. They play a vital role in delivering high-quality software products, ensuring customer satisfaction, and maintaining the reputation of the organization in the highly competitive IT industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Quality Assurance Tester or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Quality Assurance Tester interviews to help you prepare and succeed.

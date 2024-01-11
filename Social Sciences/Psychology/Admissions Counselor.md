@@ -2,6 +2,8 @@
 
 Welcome to the Admissions Counselor Interview Preparation ! This resource is designed to help you ace your Admissions Counselor interviews with confidence.
 
+An admissions counselor in the field of psychology plays a crucial role in guiding and assisting prospective students through the admissions process. With a strong foundation in social sciences and psychology, these professionals possess a deep understanding of human behavior and the factors that influence career choices and personal development. They provide comprehensive information about various psychology programs, admission requirements, and career prospects, helping students make informed decisions. Admissions counselors also offer guidance on the application process, including essay writing, interviews, and portfolio preparation. By leveraging their expertise in psychology, these counselors ensure a seamless transition for students, helping them find the best-fit program to meet their academic and career goals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Admissions Counselor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Admissions Counselor interviews to help you prepare and succeed.

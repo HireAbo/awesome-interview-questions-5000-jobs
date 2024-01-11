@@ -2,6 +2,8 @@
 
 Welcome to the Tree Nursery Manager Interview Preparation ! This resource is designed to help you ace your Tree Nursery Manager interviews with confidence.
 
+Agriculture and Environmental Science encompasses a wide range of fields, including forestry. Within forestry, one crucial role is that of a Tree Nursery Manager. As a Tree Nursery Manager, your primary responsibility is to oversee the production and maintenance of tree seedlings in a nursery setting. This involves managing the entire process, from seed collection and germination to plant care and distribution. Your expertise in nursery techniques, soil management, and pest control will be vital in ensuring the quality and health of the tree seedlings. This role requires strong leadership skills, as you will be responsible for supervising a team of nursery workers and coordinating with various stakeholders, such as government agencies and environmental organizations. Ultimately, as a Tree Nursery Manager, you play a critical role in the conservation and sustainable management of forests, contributing to environmental preservation and the overall well-being of our planet.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Tree Nursery Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Tree Nursery Manager interviews to help you prepare and succeed.

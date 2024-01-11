@@ -2,6 +2,8 @@
 
 Welcome to the Transportation Security Officer Interview Preparation ! This resource is designed to help you ace your Transportation Security Officer interviews with confidence.
 
+A Transportation Security Officer, commonly known as a TSO, plays a crucial role in maintaining the safety and security of transportation systems. This job involves enforcing and implementing security measures to protect passengers and transportation infrastructure. TSOs are responsible for screening passengers, their baggage, and personal belongings at airports, seaports, train stations, and other transportation hubs. They use specialized equipment to detect prohibited items and ensure compliance with security regulations. TSOs also provide assistance to travelers, answer their questions, and handle any security-related incidents that may arise. This profession demands a high level of attention to detail, excellent communication skills, and the ability to remain calm under pressure.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Transportation Security Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Transportation Security Officer interviews to help you prepare and succeed.

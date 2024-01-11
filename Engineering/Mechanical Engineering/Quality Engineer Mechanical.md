@@ -2,6 +2,8 @@
 
 Welcome to the Quality Engineer (Mechanical) Interview Preparation ! This resource is designed to help you ace your Quality Engineer (Mechanical) interviews with confidence.
 
+A Quality Engineer (Mechanical) plays a crucial role in ensuring the highest level of quality in mechanical engineering projects. These professionals are responsible for monitoring, evaluating, and improving the overall quality of mechanical systems, components, and products. They work closely with design teams, production managers, and suppliers to establish quality standards, conduct inspections, and perform tests. Quality Engineers (Mechanical) also analyze data, identify areas of improvement, and implement corrective actions to enhance product performance and reliability. Their expertise in quality control methodologies, statistical analysis, and mechanical engineering principles enables them to ensure compliance with industry regulations and customer requirements. Ultimately, Quality Engineers (Mechanical) contribute significantly to the success and reputation of mechanical engineering projects.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Quality Engineer (Mechanical) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Quality Engineer (Mechanical) interviews to help you prepare and succeed.

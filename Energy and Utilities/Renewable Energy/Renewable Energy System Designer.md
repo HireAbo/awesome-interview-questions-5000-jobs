@@ -2,6 +2,8 @@
 
 Welcome to the Renewable Energy System Designer Interview Preparation ! This resource is designed to help you ace your Renewable Energy System Designer interviews with confidence.
 
+A Renewable Energy System Designer plays a crucial role in the field of Energy and Utilities, specifically in the area of Renewable Energy. This job involves designing and developing renewable energy systems such as solar, wind, hydro, or geothermal power systems. The Renewable Energy System Designer conducts feasibility studies, analyzes energy needs, and assesses potential sites for renewable energy projects. They collaborate with engineers, architects, and other professionals to create sustainable and efficient renewable energy solutions. Additionally, they stay updated with the latest industry trends and regulations to ensure compliance and maximize the use of renewable energy sources. The Renewable Energy System Designer contributes significantly to reducing carbon emissions and promoting a cleaner and greener future.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Renewable Energy System Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Renewable Energy System Designer interviews to help you prepare and succeed.

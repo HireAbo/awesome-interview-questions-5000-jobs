@@ -2,6 +2,8 @@
 
 Welcome to the Adaptive Physical Activity Instructor Interview Preparation ! This resource is designed to help you ace your Adaptive Physical Activity Instructor interviews with confidence.
 
+The job of an Adaptive Physical Activity Instructor in the field of Physical Education focuses on providing specialized support and guidance to individuals with physical disabilities in sports and athletics. These professionals play a crucial role in helping individuals with disabilities to engage in physical activities, enhancing their overall well-being and quality of life. As an Adaptive Physical Activity Instructor, one must possess a deep understanding of various disabilities and their impact on physical abilities. They are responsible for creating tailored exercise programs, teaching adapted sports techniques, and ensuring the safety and inclusion of all participants. This role requires strong communication skills, empathy, and a passion for promoting physical activity for people with disabilities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Adaptive Physical Activity Instructor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Adaptive Physical Activity Instructor interviews to help you prepare and succeed.

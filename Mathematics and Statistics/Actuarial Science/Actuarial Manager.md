@@ -2,6 +2,8 @@
 
 Welcome to the Actuarial Manager Interview Preparation ! This resource is designed to help you ace your Actuarial Manager interviews with confidence.
 
+Mathematics and Statistics form the foundation of Actuarial Science, a field that combines mathematical skills, statistical analysis, and financial theory to assess and manage risk in various industries, particularly insurance. Actuarial Science involves using mathematical models to analyze data, predict future events, and design strategies to mitigate risks. Within this field, the role of an Actuarial Manager is crucial. An Actuarial Manager oversees a team of actuaries, guiding them in the development and implementation of actuarial methodologies and models. They collaborate with other departments to provide insights into financial risks and develop strategies to optimize business outcomes. Strong analytical, problem-solving, and leadership skills are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Actuarial Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Actuarial Manager interviews to help you prepare and succeed.

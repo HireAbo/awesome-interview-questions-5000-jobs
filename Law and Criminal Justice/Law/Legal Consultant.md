@@ -2,6 +2,8 @@
 
 Welcome to the Legal Consultant Interview Preparation ! This resource is designed to help you ace your Legal Consultant interviews with confidence.
 
+A legal consultant is a professional who provides expert advice and guidance on various legal matters within the field of law and criminal justice. They play a crucial role in assisting individuals, organizations, and businesses in navigating complex legal issues. Legal consultants often specialize in specific areas of law such as corporate law, criminal law, intellectual property law, or family law, among others. They conduct legal research, analyze documents, and provide recommendations to clients based on their expertise. Additionally, legal consultants may also assist in drafting legal documents, negotiating contracts, and representing clients in court proceedings. Their in-depth knowledge of the law and criminal justice system makes them valuable assets in guiding clients towards favorable legal outcomes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Legal Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Legal Consultant interviews to help you prepare and succeed.

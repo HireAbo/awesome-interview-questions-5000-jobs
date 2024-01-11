@@ -2,6 +2,8 @@
 
 Welcome to the Software Development Trainer Interview Preparation ! This resource is designed to help you ace your Software Development Trainer interviews with confidence.
 
+A Software Development Trainer is a professional responsible for imparting knowledge and skills related to software development to aspiring developers. They play a crucial role in enhancing the capabilities of individuals in the field of Information Technology (IT). As a trainer, they design and deliver effective training programs, workshops, and seminars to educate and guide learners on various aspects of software development. They possess a deep understanding of programming languages, software development methodologies, and tools. Their expertise enables them to provide hands-on training, mentorship, and guidance to help learners acquire practical skills and knowledge necessary for successful careers in software development.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Software Development Trainer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Software Development Trainer interviews to help you prepare and succeed.

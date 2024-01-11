@@ -2,6 +2,8 @@
 
 Welcome to the Correctional Officer Interview Preparation ! This resource is designed to help you ace your Correctional Officer interviews with confidence.
 
+A Correctional Officer is a vital position within the criminal justice system, responsible for overseeing and maintaining the security and safety of incarcerated individuals. These professionals play a crucial role in rehabilitating and supervising inmates to prevent further criminal activity. Correctional Officers enforce rules and regulations, conduct searches, and maintain order in correctional facilities. They monitor inmate behavior, resolve conflicts, and report any signs of potential disturbances or violations. These officers also ensure that inmates have access to necessary resources and facilitate their participation in educational and vocational programs. With their commitment to maintaining a secure environment, Correctional Officers contribute to the overall functioning of the criminal justice system.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Correctional Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Correctional Officer interviews to help you prepare and succeed.

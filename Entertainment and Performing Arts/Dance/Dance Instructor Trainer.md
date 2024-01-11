@@ -2,6 +2,8 @@
 
 Welcome to the Dance Instructor Trainer Interview Preparation ! This resource is designed to help you ace your Dance Instructor Trainer interviews with confidence.
 
+A Dance Instructor Trainer is a professional who specializes in training and mentoring aspiring dance instructors. They possess a deep understanding and mastery of various dance styles, techniques, and teaching methodologies. These trainers play a crucial role in shaping the next generation of dance instructors by imparting their knowledge, expertise, and guidance. They design and deliver training programs, workshops, and seminars that focus on enhancing teaching skills, choreography, musicality, and performance techniques. Additionally, Dance Instructor Trainers provide constructive feedback, mentorship, and support to help instructors develop their own unique teaching style and flourish in their careers. They are passionate about dance education and are dedicated to nurturing talent and inspiring a love for dance.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Dance Instructor Trainer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Dance Instructor Trainer interviews to help you prepare and succeed.

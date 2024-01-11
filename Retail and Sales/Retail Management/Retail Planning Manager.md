@@ -2,6 +2,8 @@
 
 Welcome to the Retail Planning Manager Interview Preparation ! This resource is designed to help you ace your Retail Planning Manager interviews with confidence.
 
+A Retail Planning Manager is responsible for overseeing and coordinating the retail planning process within an organization. They work closely with various departments such as merchandising, finance, and operations to develop strategies that optimize sales and profitability. The Retail Planning Manager analyzes market trends, consumer behavior, and sales data to identify opportunities and make informed decisions regarding product assortment, pricing, and inventory management. They also create and monitor sales forecasts, develop promotional strategies, and collaborate with suppliers to ensure timely delivery of goods. Strong analytical skills, excellent communication, and the ability to work in a fast-paced, dynamic environment are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Retail Planning Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Retail Planning Manager interviews to help you prepare and succeed.

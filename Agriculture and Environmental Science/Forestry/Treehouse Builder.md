@@ -2,6 +2,8 @@
 
 Welcome to the Treehouse Builder Interview Preparation ! This resource is designed to help you ace your Treehouse Builder interviews with confidence.
 
+Agriculture and Environmental Science encompasses a wide range of fields dedicated to sustainable resource management and conservation. Within this domain, Forestry plays a crucial role in the preservation of forests and the ecosystems they support. As part of this discipline, the Treehouse Builder job combines creativity, craftsmanship, and environmental consciousness. Treehouse Builders specialize in constructing unique and eco-friendly structures nestled within trees, harmoniously blending with nature. They possess a deep understanding of forestry practices, ensuring minimal impact on trees during construction. These professionals utilize their expertise in design, engineering, and carpentry to create safe, functional, and aesthetically pleasing treehouses, providing an immersive and sustainable experience for nature enthusiasts and eco-tourists.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Treehouse Builder or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Treehouse Builder interviews to help you prepare and succeed.

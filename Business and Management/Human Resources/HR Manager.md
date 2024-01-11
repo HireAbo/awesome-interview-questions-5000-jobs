@@ -2,6 +2,8 @@
 
 Welcome to the HR Manager Interview Preparation ! This resource is designed to help you ace your HR Manager interviews with confidence.
 
+The role of an HR Manager is crucial in any organization as they are responsible for managing the human resources function. HR Managers play a vital role in recruiting and hiring new employees, ensuring compliance with labor laws and regulations, developing and implementing employee policies, and handling employee relations issues. They are also responsible for managing employee benefits, compensation, and performance management systems. HR Managers are required to have strong communication and interpersonal skills, as they need to interact with employees at all levels of the organization. Additionally, they must possess solid problem-solving and decision-making abilities, as they are often required to address complex issues and make strategic HR-related decisions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned HR Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in HR Manager interviews to help you prepare and succeed.

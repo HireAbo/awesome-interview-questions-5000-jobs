@@ -2,6 +2,8 @@
 
 Welcome to the Assistant Coach Interview Preparation ! This resource is designed to help you ace your Assistant Coach interviews with confidence.
 
+The role of an Assistant Coach in the field of Sports and Athletics is vital to the success of a team or individual athlete. As an Assistant Coach, your primary responsibility is to support the Head Coach in developing and implementing effective training programs and strategies. You will assist in organizing practice sessions, providing feedback on performance, and analyzing game strategies. Additionally, you will play a crucial role in mentoring and motivating athletes, helping them improve their skills and reach their full potential. An Assistant Coach must possess excellent communication and leadership skills, along with a deep understanding of the sport and a passion for athletic development.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Assistant Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Assistant Coach interviews to help you prepare and succeed.

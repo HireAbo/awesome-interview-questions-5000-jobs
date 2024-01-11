@@ -2,6 +2,8 @@
 
 Welcome to the Research Associate Interview Preparation ! This resource is designed to help you ace your Research Associate interviews with confidence.
 
+A Research Associate in Veterinary Medicine plays a crucial role in advancing our understanding of animal health and welfare. They assist in conducting various research projects aimed at developing new treatments, diagnostics, and preventive measures for animal diseases. These professionals collaborate with veterinarians, scientists, and other research associates to design and implement experiments, collect and analyze data, and interpret research findings. They also contribute to writing scientific papers, reports, and grant proposals, and may present research findings at conferences and meetings. A strong background in veterinary medicine, excellent analytical skills, and a passion for improving animal health are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Research Associate or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Research Associate interviews to help you prepare and succeed.

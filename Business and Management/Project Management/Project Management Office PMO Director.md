@@ -2,6 +2,8 @@
 
 Welcome to the Project Management Office (PMO) Director Interview Preparation ! This resource is designed to help you ace your Project Management Office (PMO) Director interviews with confidence.
 
+The role of a Project Management Office (PMO) Director is critical in ensuring the successful execution of projects within an organization. As a PMO Director, you will be responsible for overseeing and managing all aspects of project management, including planning, organizing, and controlling project activities. Your primary goal will be to drive efficiency, consistency, and standardization across projects, ensuring that they are completed on time, within budget, and meeting the set objectives. You will also be responsible for developing and implementing project management methodologies, tools, and processes, while providing leadership and guidance to the project management team. Strong communication and leadership skills are essential for this role, along with a solid understanding of business strategies and objectives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Project Management Office (PMO) Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Project Management Office (PMO) Director interviews to help you prepare and succeed.

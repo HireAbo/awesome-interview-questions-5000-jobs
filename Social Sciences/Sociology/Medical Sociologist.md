@@ -2,6 +2,8 @@
 
 Welcome to the Medical Sociologist Interview Preparation ! This resource is designed to help you ace your Medical Sociologist interviews with confidence.
 
+Medical sociologists study the social factors that influence health, illness, and healthcare systems. Their primary focus is on understanding the social determinants of health and how they contribute to disparities in health outcomes. These professionals analyze the impact of various social factors such as race, gender, socioeconomic status, and healthcare policies on individuals and communities. They conduct research, collect data, and develop theories to better understand the complex interactions between society and health. Medical sociologists also collaborate with healthcare professionals to develop strategies for addressing health inequalities and improving healthcare delivery. Their work is crucial in informing public health policies and interventions to create a more equitable and accessible healthcare system.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Medical Sociologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Medical Sociologist interviews to help you prepare and succeed.

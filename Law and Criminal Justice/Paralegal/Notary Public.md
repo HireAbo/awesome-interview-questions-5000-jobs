@@ -2,6 +2,8 @@
 
 Welcome to the Notary Public Interview Preparation ! This resource is designed to help you ace your Notary Public interviews with confidence.
 
+Law and Criminal Justice is a field that encompasses a range of specialized roles, including that of a Paralegal and a Notary Public. Paralegals play a crucial role in legal proceedings, supporting attorneys by conducting legal research, drafting documents, and assisting with case management. They possess a comprehensive understanding of legal procedures and assist in ensuring the smooth functioning of law offices and courtrooms. Meanwhile, Notary Publics are responsible for verifying the authenticity of legal documents, witnessing signatures, and administering oaths. They act as impartial witnesses, ensuring that legal transactions are conducted in compliance with the law. Both roles are vital in upholding the integrity and efficiency of the legal system.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Notary Public or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Notary Public interviews to help you prepare and succeed.

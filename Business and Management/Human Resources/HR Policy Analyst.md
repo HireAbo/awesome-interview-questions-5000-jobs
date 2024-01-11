@@ -2,6 +2,8 @@
 
 Welcome to the HR Policy Analyst Interview Preparation ! This resource is designed to help you ace your HR Policy Analyst interviews with confidence.
 
+A HR Policy Analyst is a vital role within the field of Business and Management, specifically in the area of Human Resources. This position involves analyzing and developing policies, practices, and procedures related to human resources functions within an organization. The HR Policy Analyst is responsible for researching and interpreting employment laws and regulations, ensuring compliance, and making recommendations for policy improvements. They collaborate with HR teams, management, and other stakeholders to assess the impact of existing policies and propose innovative solutions. This role requires strong analytical skills, attention to detail, and a deep understanding of HR practices, allowing organizations to effectively manage their workforce and maintain a fair and inclusive work environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned HR Policy Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in HR Policy Analyst interviews to help you prepare and succeed.

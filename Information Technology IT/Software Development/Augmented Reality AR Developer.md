@@ -2,18 +2,20 @@
 
 Welcome to the Augmented Reality (AR) Developer Interview Preparation ! This resource is designed to help you ace your Augmented Reality (AR) Developer interviews with confidence.
 
+An Augmented Reality (AR) Developer is a professional responsible for creating and implementing software applications that integrate virtual elements into the real world. They harness their expertise in Information Technology (IT) and Software Development to design and develop AR applications and experiences. AR Developers possess a deep understanding of various programming languages and frameworks, such as Unity and Unreal Engine, to build interactive and immersive environments. Their role involves collaborating with designers and engineers to conceptualize ideas, develop prototypes, and optimize performance. Additionally, AR Developers stay up-to-date with emerging technologies and trends in AR to deliver cutting-edge solutions that enhance user experiences and push the boundaries of technological innovation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Augmented Reality (AR) Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Augmented Reality (AR) Developer interviews to help you prepare and succeed.
 
 ## 📝 Sample Questions
 
-1. How would you define augmented reality, and what are the key components?
-2. Can you explain the difference between marker-based and markerless AR?
-3. Have you worked with any specific AR development frameworks or SDKs?
-4. Describe your experience in developing AR applications for different platforms (iOS, Android, etc.).
-5. How familiar are you with computer vision algorithms and techniques used in AR?
-6. [CLICK HERE FOR MORE QUESTIONS](https://hireabo.com/job/0_0_85/Augmented%20Reality%20AR%20Developer)
+1. How would you define augmented reality (AR)?
+2. What motivated you to become an AR developer?
+3. Can you explain the difference between augmented reality and virtual reality?
+4. What programming languages are commonly used in AR development?
+5. Have you worked on any AR projects before? If so, please provide examples.
+6. [CLICK HERE FOR MORE QUESTIONS](https://hireabo.com/job/0_0_84/Augmented%20Reality%20AR%20Developer)
 
 ## 🌐 Explore Further
 

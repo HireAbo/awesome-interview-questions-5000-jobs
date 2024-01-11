@@ -2,6 +2,8 @@
 
 Welcome to the Pediatric Physical Therapist Interview Preparation ! This resource is designed to help you ace your Pediatric Physical Therapist interviews with confidence.
 
+A Pediatric Physical Therapist plays a crucial role in the healthcare and medicine field, specifically within the field of physical therapy. They specialize in providing therapeutic care to children and adolescents with various physical conditions, injuries, or disabilities. These professionals are highly skilled in assessing and treating developmental delays, neuromuscular disorders, and musculoskeletal injuries in young patients. Pediatric Physical Therapists work closely with pediatricians, parents, and other healthcare professionals to develop personalized treatment plans to improve mobility, strength, and overall physical function. Their expertise lies in utilizing various techniques such as exercises, stretches, and manual therapy to help children achieve their maximum potential and enhance their quality of life.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Pediatric Physical Therapist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Pediatric Physical Therapist interviews to help you prepare and succeed.

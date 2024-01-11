@@ -2,6 +2,8 @@
 
 Welcome to the Sustainable Agriculture Water Resource Manager Interview Preparation ! This resource is designed to help you ace your Sustainable Agriculture Water Resource Manager interviews with confidence.
 
+Agriculture and Environmental Science are two interconnected fields that focus on the sustainable management of natural resources and the environment. Sustainable agriculture aims to meet the current agricultural demands while preserving the environment for future generations. Within this field, the role of a Sustainable Agriculture Water Resource Manager is crucial. They are responsible for effectively managing water resources in agricultural practices to ensure sustainable water use, conservation, and quality. This involves implementing efficient irrigation systems, monitoring water usage, conducting water quality assessments, and developing strategies to mitigate water-related challenges. The job requires a deep understanding of agricultural practices, hydrology, water conservation techniques, and environmental regulations to ensure the long-term sustainability of agricultural water resources.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sustainable Agriculture Water Resource Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sustainable Agriculture Water Resource Manager interviews to help you prepare and succeed.

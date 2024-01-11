@@ -2,6 +2,10 @@
 
 Welcome to the Public Health Consultant Interview Preparation ! This resource is designed to help you ace your Public Health Consultant interviews with confidence.
 
+Social work and human services encompass a broad range of professions that aim to improve the overall well-being of individuals, families, and communities. These fields focus on addressing societal issues, such as poverty, mental health, substance abuse, and child welfare. Social workers and human service professionals provide direct support, advocacy, and counseling to individuals in need, while also engaging in community development and policy initiatives. 
+
+In the realm of public health, professionals work to promote and protect the health of populations. Public health consultants play a crucial role in this field by providing expert advice and guidance to organizations, governments, and communities. They assess health needs, develop strategies to address public health challenges, and monitor the effectiveness of interventions. Public health consultants collaborate with diverse stakeholders to create innovative solutions to improve health outcomes and reduce health disparities. Their work spans areas like disease prevention, health promotion, environmental health, and emergency preparedness.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Public Health Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Public Health Consultant interviews to help you prepare and succeed.

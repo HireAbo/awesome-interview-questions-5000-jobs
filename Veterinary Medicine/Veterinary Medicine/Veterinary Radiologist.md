@@ -2,6 +2,8 @@
 
 Welcome to the Veterinary Radiologist Interview Preparation ! This resource is designed to help you ace your Veterinary Radiologist interviews with confidence.
 
+Veterinary Medicine is a specialized field that focuses on the health and well-being of animals. Within this discipline, Veterinary Radiologists play a crucial role in diagnosing and treating animal diseases and injuries. These professionals are responsible for using advanced imaging techniques, such as X-rays, ultrasounds, CT scans, and MRIs, to obtain detailed images of animals' internal structures. Veterinary Radiologists then analyze and interpret these images to provide accurate diagnoses and treatment plans. They collaborate closely with veterinarians and other specialists to ensure the best possible care for animals. With their expertise in imaging technology, Veterinary Radiologists play a vital role in enhancing the overall quality of veterinary healthcare.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Veterinary Radiologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Veterinary Radiologist interviews to help you prepare and succeed.

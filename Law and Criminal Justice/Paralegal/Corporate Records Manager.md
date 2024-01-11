@@ -2,6 +2,8 @@
 
 Welcome to the Corporate Records Manager Interview Preparation ! This resource is designed to help you ace your Corporate Records Manager interviews with confidence.
 
+A Paralegal specializing in Corporate Records Management plays an integral role in the field of Law and Criminal Justice. They are responsible for maintaining and organizing legal documents, contracts, and records for corporate entities. This includes ensuring compliance with legal regulations, managing databases, and coordinating the retrieval of necessary documents for legal proceedings. These professionals work closely with attorneys, assisting in the preparation of legal briefs, drafting legal documents, and conducting research. They also play a crucial role in managing and preserving confidential and sensitive information. A career as a Corporate Records Manager requires excellent organizational skills, attention to detail, and a strong understanding of legal procedures.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Corporate Records Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Corporate Records Manager interviews to help you prepare and succeed.

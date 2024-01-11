@@ -2,6 +2,8 @@
 
 Welcome to the Railroad Engineer Interview Preparation ! This resource is designed to help you ace your Railroad Engineer interviews with confidence.
 
+A Railroad Engineer is a specialized civil engineering professional who designs, constructs, and maintains railroad systems. They play a crucial role in ensuring the safe and efficient transportation of goods and passengers by rail. A Railroad Engineer possesses extensive knowledge of railway engineering principles, including track layout, signaling systems, and train operations. They are responsible for overseeing the planning and design of new rail lines, conducting feasibility studies, and managing construction projects. Additionally, they monitor and maintain existing railroad infrastructure, ensuring compliance with safety regulations. Attention to detail, problem-solving skills, and a strong understanding of technical aspects are essential for success in this field.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Railroad Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Railroad Engineer interviews to help you prepare and succeed.

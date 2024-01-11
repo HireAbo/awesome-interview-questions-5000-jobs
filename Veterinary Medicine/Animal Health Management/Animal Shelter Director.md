@@ -2,6 +2,8 @@
 
 Welcome to the Animal Shelter Director Interview Preparation ! This resource is designed to help you ace your Animal Shelter Director interviews with confidence.
 
+Veterinary Medicine is a branch of healthcare that focuses on the diagnosis, treatment, and prevention of diseases and injuries in animals. Animal Health Management, on the other hand, encompasses a broader scope, including the overall well-being and maintenance of animal populations. Within this field, the role of an Animal Shelter Director is crucial. As a director, one is responsible for overseeing the daily operations and management of an animal shelter facility. This includes ensuring the health and welfare of the animals, coordinating veterinary care, implementing adoption programs, managing staff and volunteers, and promoting community education on animal care and responsibility.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Animal Shelter Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Animal Shelter Director interviews to help you prepare and succeed.

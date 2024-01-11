@@ -2,6 +2,8 @@
 
 Welcome to the Merchandising Analyst Interview Preparation ! This resource is designed to help you ace your Merchandising Analyst interviews with confidence.
 
+The role of a Merchandising Analyst in the field of retail and sales is to analyze and interpret data related to product performance, market trends, and consumer behavior. By utilizing various analytical tools and techniques, the Merchandising Analyst provides valuable insights and recommendations to optimize merchandise assortment, pricing strategies, and inventory planning. They collaborate with cross-functional teams such as sales, marketing, and operations to develop effective merchandising strategies that drive sales and maximize profitability. Attention to detail, strong analytical skills, and a deep understanding of the retail industry are essential for success in this role. The Merchandising Analyst plays a crucial role in supporting the overall growth and success of a retail organization.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Merchandising Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Merchandising Analyst interviews to help you prepare and succeed.

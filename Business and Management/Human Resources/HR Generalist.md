@@ -2,6 +2,8 @@
 
 Welcome to the HR Generalist Interview Preparation ! This resource is designed to help you ace your HR Generalist interviews with confidence.
 
+A Human Resources (HR) Generalist is a crucial role within an organization's HR department. HR Generalists are responsible for providing support in various HR functions and assisting in the implementation of HR policies and procedures. They act as a liaison between management and employees, ensuring effective communication and resolving any employee-related issues. HR Generalists are involved in recruitment and onboarding processes, conducting interviews, and ensuring compliance with employment laws and regulations. They also handle employee relations, performance management, training and development, compensation and benefits administration, and employee engagement initiatives. HR Generalists play a key role in fostering a positive work environment and promoting employee satisfaction and productivity.
+
 ## 🚀 Overview
 
 Whether you're a seasoned HR Generalist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in HR Generalist interviews to help you prepare and succeed.

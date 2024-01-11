@@ -2,6 +2,8 @@
 
 Welcome to the Firmware Engineer Interview Preparation ! This resource is designed to help you ace your Firmware Engineer interviews with confidence.
 
+A Firmware Engineer in the field of Electrical Engineering plays a crucial role in developing and maintaining software programs that control and operate electronic devices, systems, and equipment. They specialize in writing code and programming embedded systems, ensuring their proper functioning and integration with hardware components. Firmware Engineers work closely with hardware engineers to design and implement software solutions that meet specific requirements and optimize device performance. They are skilled in programming languages like C, C++, and assembly, and possess a deep understanding of microcontrollers, digital signal processors, and other electronic components. Firmware Engineers are essential in creating innovative and reliable products across various industries, such as telecommunications, automotive, and consumer electronics.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Firmware Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Firmware Engineer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Health Psychologist Interview Preparation ! This resource is designed to help you ace your Health Psychologist interviews with confidence.
 
+A health psychologist is a professional who specializes in the field of psychology within the broader context of social sciences. They work to understand the intricate relationship between psychological factors and physical health. Health psychologists are concerned with studying how behaviors, attitudes, and emotions impact an individual's overall well-being. They often work in healthcare settings, collaborating with medical professionals to develop interventions and treatment plans. They may conduct research to explore the psychological aspects of various health conditions, such as stress, chronic illness, addiction, or pain management. Health psychologists also play a crucial role in promoting health education and behavior change to improve individuals' quality of life.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Health Psychologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Health Psychologist interviews to help you prepare and succeed.

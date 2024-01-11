@@ -2,6 +2,12 @@
 
 Welcome to the Infection Control Practitioner Interview Preparation ! This resource is designed to help you ace your Infection Control Practitioner interviews with confidence.
 
+Social Work and Human Services is a dynamic field that focuses on improving the well-being and quality of life for individuals, families, and communities. Social workers provide support, advocacy, and resources to those in need, addressing various social issues such as poverty, mental health, addiction, and child welfare. 
+
+Public Health is a multidisciplinary field aimed at promoting and protecting the health of populations. It involves assessing community needs, developing policies, and implementing interventions to prevent diseases, promote healthy lifestyles, and ensure equitable access to healthcare. 
+
+Infection Control Practitioners play a crucial role in maintaining public health by preventing and controlling the spread of infectious diseases. They develop and implement infection control protocols, conduct surveillance, educate healthcare staff, and monitor compliance with infection control guidelines to safeguard patients and healthcare workers.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Infection Control Practitioner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Infection Control Practitioner interviews to help you prepare and succeed.

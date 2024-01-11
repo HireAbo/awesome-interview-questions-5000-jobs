@@ -2,6 +2,8 @@
 
 Welcome to the Statistical Programmer Interview Preparation ! This resource is designed to help you ace your Statistical Programmer interviews with confidence.
 
+A Statistical Programmer is a professional who combines the knowledge of mathematics and statistics to develop and implement statistical models and algorithms for data analysis. They play a crucial role in the field of mathematics by using their expertise to solve complex problems and draw meaningful insights from data. Statistical Programmers use programming languages like R, Python, or SAS to manipulate and analyze data, perform statistical tests, and create visualizations. They collaborate with researchers, statisticians, and data scientists to design experiments, interpret results, and provide statistical recommendations. A career as a Statistical Programmer requires a strong background in mathematics, statistics, and programming, along with excellent analytical and problem-solving skills.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Statistical Programmer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Statistical Programmer interviews to help you prepare and succeed.

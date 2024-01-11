@@ -2,6 +2,8 @@
 
 Welcome to the Nuclear Maintenance Technician Interview Preparation ! This resource is designed to help you ace your Nuclear Maintenance Technician interviews with confidence.
 
+A Nuclear Maintenance Technician plays a crucial role in the field of nuclear energy and utilities. These professionals are responsible for ensuring the safe and efficient operation of nuclear power plants and related facilities. They perform regular maintenance tasks, inspections, and repairs on various equipment and systems, including reactors, turbines, pumps, and cooling systems. Nuclear Maintenance Technicians also conduct tests, troubleshoot issues, and implement preventive measures to minimize potential hazards. Their expertise in maintaining and repairing nuclear equipment is vital to ensure compliance with safety regulations and prevent any potential risks to both the environment and public safety. Strong technical skills, attention to detail, and adherence to strict protocols are essential in this job role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nuclear Maintenance Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nuclear Maintenance Technician interviews to help you prepare and succeed.

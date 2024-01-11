@@ -2,6 +2,8 @@
 
 Welcome to the Medical Records Coordinator Interview Preparation ! This resource is designed to help you ace your Medical Records Coordinator interviews with confidence.
 
+Library and Information Science is a field that focuses on the management and organization of information resources. Within this discipline, Records Management plays a crucial role in ensuring the effective handling of records in various industries. One specific job role within Records Management is that of a Medical Records Coordinator. As a Medical Records Coordinator, individuals are responsible for managing and maintaining medical records in healthcare settings. They ensure the accuracy, confidentiality, and accessibility of medical records, adhering to legal and industry regulations. Additionally, they collaborate with healthcare professionals, administrators, and insurance companies to ensure the smooth flow of information and facilitate efficient patient care. The role requires strong organizational skills, attention to detail, and knowledge of medical terminology and documentation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Medical Records Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Medical Records Coordinator interviews to help you prepare and succeed.

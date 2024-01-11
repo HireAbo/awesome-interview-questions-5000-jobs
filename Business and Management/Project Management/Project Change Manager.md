@@ -2,6 +2,8 @@
 
 Welcome to the Project Change Manager Interview Preparation ! This resource is designed to help you ace your Project Change Manager interviews with confidence.
 
+A Project Change Manager is a key role within the field of project management, responsible for overseeing and implementing organizational changes within a project. They play a crucial role in ensuring that projects are delivered successfully, by effectively managing and communicating changes to stakeholders and team members. The Project Change Manager is responsible for assessing the impact of proposed changes on the project's objectives, scope, timeline, and resources. They develop and execute change management plans, which include identifying potential risks and mitigation strategies. Additionally, they collaborate with cross-functional teams to ensure that changes are implemented smoothly and aligned with the project's overall goals. A successful Project Change Manager possesses excellent communication, leadership, and problem-solving skills, enabling them to navigate through complex projects and lead teams through change.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Project Change Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Project Change Manager interviews to help you prepare and succeed.

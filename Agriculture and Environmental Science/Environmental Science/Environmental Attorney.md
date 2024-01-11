@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Attorney Interview Preparation ! This resource is designed to help you ace your Environmental Attorney interviews with confidence.
 
+Agriculture and Environmental Science are interdisciplinary fields that focus on the relationship between human activities and the environment. Environmental Science encompasses various branches, including environmental law. Environmental attorneys specialize in providing legal advice and representation on matters related to environmental regulations and policies. These professionals play a crucial role in ensuring compliance with environmental laws, advocating for sustainable practices, and protecting natural resources. They may work with government agencies, corporations, non-profit organizations, or as independent consultants. Environmental attorneys analyze the impact of human activities on the environment, assess potential risks, and develop strategies to mitigate environmental damage. They also handle litigation cases and negotiate settlements in disputes involving environmental issues.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Attorney or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Attorney interviews to help you prepare and succeed.

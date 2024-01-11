@@ -2,6 +2,8 @@
 
 Welcome to the Character Actor Interview Preparation ! This resource is designed to help you ace your Character Actor interviews with confidence.
 
+A character actor is a versatile performer in the field of acting who specializes in portraying unique and distinctive roles. Unlike leading actors who usually play the main characters, character actors excel in bringing secondary, supporting, or even more unconventional characters to life on stage, screen, or television. These actors possess exceptional skills in transforming their physical appearance, mannerisms, and voice to suit the specific role they are portraying. Their ability to adopt different accents, personalities, and physical attributes enables them to portray a wide range of characters, adding depth and complexity to the overall performance. Character actors are often praised for their ability to captivate audiences and contribute significantly to the overall success of a production.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Character Actor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Character Actor interviews to help you prepare and succeed.

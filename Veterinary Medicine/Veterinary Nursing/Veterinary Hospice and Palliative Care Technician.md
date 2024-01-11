@@ -2,6 +2,12 @@
 
 Welcome to the Veterinary Hospice and Palliative Care Technician Interview Preparation ! This resource is designed to help you ace your Veterinary Hospice and Palliative Care Technician interviews with confidence.
 
+Veterinary Medicine is a specialized field dedicated to the health and well-being of animals. Within this field, Veterinary Nursing plays a crucial role in assisting veterinarians with various tasks, including patient care, surgical procedures, and laboratory work. Veterinary Nurses are responsible for administering medications, collecting samples, monitoring vital signs, and providing comfort to animals and their owners.
+
+In recent years, the demand for specialized care for terminally ill or elderly animals has led to the emergence of Veterinary Hospice and Palliative Care Technicians. These professionals provide compassionate end-of-life care for animals, ensuring their comfort and dignity during their final stages. They work closely with veterinarians, families, and the animal to develop personalized care plans, administer pain management, and offer emotional support.
+
+Overall, Veterinary Hospice and Palliative Care Technicians play a vital role in enhancing the quality of life for animals in their final stages, providing comfort and support to both the animal and their human companions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Veterinary Hospice and Palliative Care Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Veterinary Hospice and Palliative Care Technician interviews to help you prepare and succeed.

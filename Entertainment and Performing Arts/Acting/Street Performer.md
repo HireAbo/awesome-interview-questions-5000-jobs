@@ -2,6 +2,8 @@
 
 Welcome to the Street Performer Interview Preparation ! This resource is designed to help you ace your Street Performer interviews with confidence.
 
+A Street Performer is an individual who entertains the public in outdoor settings, such as streets, parks, or squares, through various artistic acts. These performers engage in a wide range of talents including acting, singing, dancing, magic tricks, juggling, or playing musical instruments. They captivate audiences with their creativity, talent, and ability to interact with spectators in a spontaneous and engaging manner. Street performing offers a unique and dynamic platform for actors to showcase their skills and entertain people from all walks of life. It requires adaptability, improvisation, and the ability to captivate and hold an audience's attention in a bustling and unpredictable environment. Street performers often rely on the generosity of passersby to sustain their livelihood.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Street Performer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Street Performer interviews to help you prepare and succeed.

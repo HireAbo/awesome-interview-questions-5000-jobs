@@ -2,6 +2,8 @@
 
 Welcome to the Interior Designer Interview Preparation ! This resource is designed to help you ace your Interior Designer interviews with confidence.
 
+Interior design is a fascinating field that combines creativity, practicality, and aesthetic sense to transform interior spaces into functional and visually appealing environments. Interior designers possess a unique ability to understand clients' needs and translate them into captivating designs. They use their knowledge of color schemes, textures, furniture, lighting, and spatial planning to create harmonious and inviting spaces. Interior designers work closely with clients to develop design concepts, create detailed plans, select materials, and oversee the execution of their vision. Their expertise extends beyond mere decoration; they ensure that spaces are optimized for functionality, comfort, and safety, creating environments that enhance the quality of life for their clients.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Interior Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Interior Designer interviews to help you prepare and succeed.

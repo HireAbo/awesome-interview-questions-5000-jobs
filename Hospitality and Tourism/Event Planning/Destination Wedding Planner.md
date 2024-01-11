@@ -2,6 +2,8 @@
 
 Welcome to the Destination Wedding Planner Interview Preparation ! This resource is designed to help you ace your Destination Wedding Planner interviews with confidence.
 
+A destination wedding planner is a professional who specializes in organizing and coordinating all aspects of a wedding in a specific location away from the couple's hometown. This role falls under the broader field of event planning, specifically in the hospitality and tourism industry. Destination wedding planners work closely with the couple to create their dream wedding in a unique and picturesque setting. They handle logistics such as venue selection, travel arrangements, accommodations, vendor coordination, and budget management. With their expertise in hospitality and tourism, destination wedding planners ensure that every detail is meticulously planned and executed, creating unforgettable experiences for the couple and their guests.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Destination Wedding Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Destination Wedding Planner interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Education Manager Interview Preparation ! This resource is designed to help you ace your Education Manager interviews with confidence.
 
+Education Managers are professionals who play a vital role in overseeing the administrative aspects of educational institutions. They are responsible for planning, directing, and coordinating various educational programs and activities. Education Managers work closely with teachers, staff, and students to ensure a smooth and efficient operation of the institution. They develop and implement policies, manage budgets, and evaluate the effectiveness of educational programs. Additionally, Education Managers collaborate with stakeholders such as parents, local authorities, and community organizations to foster strong relationships and promote the institution's goals. These professionals possess excellent leadership and communication skills, as well as a strong understanding of educational practices and regulations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Education Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Education Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Costume Designer Interview Preparation ! This resource is designed to help you ace your Costume Designer interviews with confidence.
 
+A costume designer is an essential role in the field of theater arts, specializing in creating and designing costumes for stage productions. They work closely with directors, set designers, and actors to develop and bring characters to life through their costumes. Costume designers meticulously research and analyze the script, considering the historical context, themes, and characters' personalities to create the perfect visual representation. They sketch designs, select fabrics, and oversee the construction and fitting of costumes. Attention to detail, creativity, and a strong understanding of fashion and historical clothing are vital in this role. Costume designers play a crucial part in enhancing the overall visual experience of a theater production.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Costume Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Costume Designer interviews to help you prepare and succeed.

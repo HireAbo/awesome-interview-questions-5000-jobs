@@ -2,6 +2,8 @@
 
 Welcome to the Cloud Storage Specialist Interview Preparation ! This resource is designed to help you ace your Cloud Storage Specialist interviews with confidence.
 
+A Cloud Storage Specialist is a professional in the field of Information Technology (IT) who specializes in cloud computing and cloud storage. They are responsible for managing and maintaining the storage infrastructure for businesses and organizations in the cloud. Their role involves configuring, monitoring, and troubleshooting cloud storage systems to ensure data availability and security. Cloud Storage Specialists are proficient in various cloud storage technologies and platforms such as Amazon Web Services (AWS), Microsoft Azure, and Google Cloud. They possess in-depth knowledge of data storage protocols, backup and recovery mechanisms, and data migration processes. Their expertise helps organizations effectively leverage cloud storage solutions to optimize data management and enhance overall business operations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cloud Storage Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cloud Storage Specialist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Property Management Executive Assistant Interview Preparation ! This resource is designed to help you ace your Property Management Executive Assistant interviews with confidence.
 
+A Property Management Executive Assistant plays a crucial role in the real estate and property management industry. This job involves providing administrative support to property management executives, ensuring smooth operations and efficient management of properties. The Executive Assistant is responsible for coordinating meetings, managing schedules, and preparing reports. They may also assist in budgeting, lease agreements, and tenant relations. Attention to detail, excellent organizational skills, and strong communication abilities are essential in this role. A Property Management Executive Assistant must also have a good understanding of real estate laws and regulations, as well as the ability to handle multiple tasks simultaneously.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Property Management Executive Assistant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Property Management Executive Assistant interviews to help you prepare and succeed.

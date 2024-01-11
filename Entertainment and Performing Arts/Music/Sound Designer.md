@@ -2,6 +2,8 @@
 
 Welcome to the Sound Designer Interview Preparation ! This resource is designed to help you ace your Sound Designer interviews with confidence.
 
+A Sound Designer in the field of Entertainment and Performing Arts, specifically in the realm of music, is responsible for creating and manipulating sounds to enhance the overall auditory experience. They play a crucial role in live performances, recordings, and productions, working closely with musicians, composers, and producers. Sound Designers utilize their technical expertise to design and implement various sound effects, musical elements, and ambient sounds that align with the artistic vision of a project. They also possess a deep understanding of sound equipment and software, ensuring the highest quality sound production. A Sound Designer's creativity, attention to detail, and ability to collaborate make them indispensable in the music industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sound Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sound Designer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Theater Stage Manager Interview Preparation ! This resource is designed to help you ace your Theater Stage Manager interviews with confidence.
 
+A theater stage manager plays a crucial role in the world of entertainment and performing arts. They are responsible for overseeing the smooth execution of a theatrical production, from rehearsals to performances. This dynamic job requires exceptional organizational skills, attention to detail, and excellent communication and leadership abilities. The stage manager collaborates closely with the director, actors, and production team to ensure that all technical elements, such as lighting, sound, and set changes, are executed flawlessly. They also manage the backstage crew, coordinate cues, and maintain the integrity of the production. A stage manager is an integral part of any theater production, ensuring the seamless and successful delivery of the artistic vision.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Theater Stage Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Theater Stage Manager interviews to help you prepare and succeed.

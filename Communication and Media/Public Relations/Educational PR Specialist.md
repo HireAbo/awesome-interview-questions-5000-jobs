@@ -2,6 +2,8 @@
 
 Welcome to the Educational PR Specialist Interview Preparation ! This resource is designed to help you ace your Educational PR Specialist interviews with confidence.
 
+An Educational PR Specialist is a professional who specializes in promoting and maintaining a positive public image for educational institutions. Their role involves developing and implementing effective communication strategies to enhance the reputation of schools, colleges, universities, or other educational organizations. These specialists work closely with school administrators, teachers, students, and parents to create and distribute informative and engaging content across various media platforms. They are responsible for managing media relations, organizing press releases, arranging interviews, and handling crisis communication. Additionally, Educational PR Specialists may also collaborate with marketing teams to develop promotional materials and events that showcase the institution's achievements, programs, and initiatives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Educational PR Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Educational PR Specialist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Data Governance Specialist Interview Preparation ! This resource is designed to help you ace your Data Governance Specialist interviews with confidence.
 
+A Data Governance Specialist job in the field of Library and Information Science focuses on the management and organization of records within an organization. This role is responsible for ensuring that data is collected, stored, and disseminated in a structured and efficient manner. The specialist works closely with various departments to develop and implement data governance policies and procedures. They are also responsible for maintaining data quality and integrity, as well as monitoring compliance with regulatory requirements. Additionally, the specialist may be involved in data analysis and reporting to support decision-making processes within the organization. This role requires strong attention to detail, excellent communication skills, and a deep understanding of records management principles and best practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Governance Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Governance Specialist interviews to help you prepare and succeed.

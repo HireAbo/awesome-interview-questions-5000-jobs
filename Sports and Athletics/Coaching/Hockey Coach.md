@@ -2,6 +2,8 @@
 
 Welcome to the Hockey Coach Interview Preparation ! This resource is designed to help you ace your Hockey Coach interviews with confidence.
 
+A hockey coach plays a vital role in the development and success of a hockey team. As a hockey coach, your primary responsibility is to train and guide players in the sport of hockey. You will be responsible for creating practice plans, teaching fundamental skills, and implementing strategies during games. A hockey coach must possess excellent communication and leadership skills to effectively motivate and inspire players. Additionally, you will need to analyze game footage, provide constructive feedback, and make necessary adjustments to improve team performance. A successful hockey coach must have a deep understanding of the game, strong organizational skills, and a passion for helping athletes reach their full potential.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Hockey Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Hockey Coach interviews to help you prepare and succeed.

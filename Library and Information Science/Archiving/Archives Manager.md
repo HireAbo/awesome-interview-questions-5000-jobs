@@ -2,6 +2,8 @@
 
 Welcome to the Archives Manager Interview Preparation ! This resource is designed to help you ace your Archives Manager interviews with confidence.
 
+Library and Information Science (LIS) is a multidisciplinary field that encompasses the organization, preservation, and dissemination of information. Archiving is a crucial aspect of LIS, focusing on the management and preservation of valuable records, documents, and artifacts. An Archives Manager plays a pivotal role in this domain, responsible for overseeing the entire archival process. They handle the acquisition, arrangement, description, and accessibility of archival materials. Archives Managers also develop and implement preservation strategies, ensuring the long-term preservation of historical records. Additionally, they collaborate with researchers, scholars, and other professionals to facilitate access to archival resources, promoting the study and understanding of the past. This role requires in-depth knowledge of archival principles, technology, and best practices in order to effectively manage and maintain archival collections.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Archives Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Archives Manager interviews to help you prepare and succeed.

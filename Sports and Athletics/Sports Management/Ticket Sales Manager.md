@@ -2,6 +2,8 @@
 
 Welcome to the Ticket Sales Manager Interview Preparation ! This resource is designed to help you ace your Ticket Sales Manager interviews with confidence.
 
+The role of a Ticket Sales Manager in Sports Management involves overseeing and managing the ticket sales process for various sporting events and athletics. As a Ticket Sales Manager, you are responsible for developing and implementing effective sales strategies to maximize ticket revenue and meet sales targets. This includes coordinating ticket inventory, pricing, and promotions, as well as establishing relationships with corporate clients and season ticket holders. Additionally, you will collaborate with various departments, such as marketing and operations, to ensure a seamless ticketing experience for fans and attendees. Strong communication, organizational, and negotiation skills are essential for success in this dynamic and fast-paced role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Ticket Sales Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Ticket Sales Manager interviews to help you prepare and succeed.

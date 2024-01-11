@@ -2,6 +2,8 @@
 
 Welcome to the Property Management Finance Manager Interview Preparation ! This resource is designed to help you ace your Property Management Finance Manager interviews with confidence.
 
+The role of a Property Management Finance Manager within the real estate and property management industry is crucial in ensuring the smooth financial operations of a property management company. As a Property Management Finance Manager, you will be responsible for overseeing the financial aspects of a property portfolio, including budgeting, financial reporting, and analysis. This involves managing income and expenses, monitoring cash flows, preparing financial statements, and coordinating with property managers to ensure accurate financial records. Additionally, you will play a key role in providing valuable insights and recommendations to optimize revenue generation and cost control. Strong analytical skills, attention to detail, and a solid understanding of property management finance are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Property Management Finance Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Property Management Finance Manager interviews to help you prepare and succeed.

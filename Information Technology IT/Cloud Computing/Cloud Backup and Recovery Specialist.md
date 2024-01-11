@@ -2,6 +2,8 @@
 
 Welcome to the Cloud Backup and Recovery Specialist Interview Preparation ! This resource is designed to help you ace your Cloud Backup and Recovery Specialist interviews with confidence.
 
+A Cloud Backup and Recovery Specialist is a professional in the field of Information Technology (IT) specializing in cloud computing. They are responsible for ensuring the safety and security of data stored in the cloud. Cloud computing refers to the practice of storing and accessing data and applications over the internet rather than on physical servers or computers. As businesses increasingly rely on cloud storage, the role of a Cloud Backup and Recovery Specialist becomes crucial. They are responsible for implementing backup and recovery strategies, ensuring data is regularly backed up, and developing recovery plans in the event of a disaster or data loss. Their expertise in cloud technology and data management allows them to safeguard critical information and ensure business continuity.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cloud Backup and Recovery Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cloud Backup and Recovery Specialist interviews to help you prepare and succeed.

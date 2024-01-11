@@ -2,6 +2,8 @@
 
 Welcome to the Sports Event Photographer Interview Preparation ! This resource is designed to help you ace your Sports Event Photographer interviews with confidence.
 
+Sports and athletics play a significant role in our society, captivating millions of fans around the world. Behind the scenes, sports management professionals ensure the smooth functioning of various aspects of the sports industry. One such crucial role is that of a sports event photographer. As a sports event photographer, individuals are responsible for capturing the most dynamic moments during sporting events. They must possess exceptional technical skills, an eye for detail, and the ability to anticipate action-packed moments. Their photographs immortalize the excitement, passion, and intensity of sports, and are used for promotional purposes, publications, and digital media. Sports event photographers are essential in preserving the legacy and memories of sports events for both athletes and fans alike.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sports Event Photographer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sports Event Photographer interviews to help you prepare and succeed.

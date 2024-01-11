@@ -2,6 +2,8 @@
 
 Welcome to the Utility Health and Safety Officer Interview Preparation ! This resource is designed to help you ace your Utility Health and Safety Officer interviews with confidence.
 
+A Utility Health and Safety Officer is responsible for ensuring the health, safety, and well-being of employees in the energy and utilities sector. They play a vital role in managing and implementing safety protocols and procedures to minimize risks and prevent accidents. Their job involves conducting regular inspections, identifying potential hazards, and implementing corrective measures to maintain a safe working environment. Utility Health and Safety Officers also develop and deliver training programs to educate employees on best practices and compliance with safety regulations. Their goal is to proactively minimize workplace injuries and illnesses, promote safety culture, and ensure compliance with relevant health and safety laws and regulations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Utility Health and Safety Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Utility Health and Safety Officer interviews to help you prepare and succeed.

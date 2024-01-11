@@ -2,6 +2,8 @@
 
 Welcome to the Immunologist Interview Preparation ! This resource is designed to help you ace your Immunologist interviews with confidence.
 
+An immunologist job within the field of biology focuses on studying the immune system and its responses to diseases, infections, and other external factors. Immunologists conduct scientific research to understand how the immune system functions and how it can be manipulated to develop treatments and vaccines. They investigate the causes and mechanisms of immune-related disorders, such as allergies, autoimmune diseases, and immunodeficiencies. Immunologists also play a crucial role in studying the efficacy and safety of new drugs and treatments that target the immune system. Their work contributes to the advancement of medical knowledge and the development of innovative therapies to improve human health.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Immunologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Immunologist interviews to help you prepare and succeed.

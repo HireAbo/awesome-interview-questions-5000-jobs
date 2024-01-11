@@ -2,6 +2,8 @@
 
 Welcome to the Television Cameraperson Interview Preparation ! This resource is designed to help you ace your Television Cameraperson interviews with confidence.
 
+A television cameraperson is a vital member of the broadcasting industry, responsible for capturing and recording live events, news stories, and scripted programs for television. As a television cameraperson, their primary role is to operate camera equipment, ensuring that high-quality footage is captured and transmitted to viewers. They work closely with directors, producers, and other crew members to understand the vision and requirements of each shot. Television camerapersons must have technical expertise in operating various camera systems and equipment, as well as a keen eye for composition and framing. They need to be adaptable, able to work under pressure, and possess excellent communication skills to collaborate effectively with the production team.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Television Cameraperson or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Television Cameraperson interviews to help you prepare and succeed.

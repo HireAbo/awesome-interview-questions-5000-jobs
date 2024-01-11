@@ -2,6 +2,8 @@
 
 Welcome to the Disaster Recovery Coordinator Interview Preparation ! This resource is designed to help you ace your Disaster Recovery Coordinator interviews with confidence.
 
+A Disaster Recovery Coordinator plays a crucial role in the field of Emergency Management, which is a subset of Government and Public Service. This job entails overseeing the recovery process after a natural or man-made disaster. The coordinator serves as the point person for coordinating efforts among various agencies, organizations, and stakeholders involved in disaster recovery. They develop and implement comprehensive recovery plans, ensuring the restoration of essential services, infrastructure, and community support systems. This role requires extensive knowledge of disaster response and recovery principles, as well as excellent communication and leadership skills. Disaster Recovery Coordinators work tirelessly to rebuild communities and help affected individuals regain stability and resilience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Disaster Recovery Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Disaster Recovery Coordinator interviews to help you prepare and succeed.

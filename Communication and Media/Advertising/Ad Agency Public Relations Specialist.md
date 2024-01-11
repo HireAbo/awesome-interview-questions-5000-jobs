@@ -2,6 +2,8 @@
 
 Welcome to the Ad Agency Public Relations Specialist Interview Preparation ! This resource is designed to help you ace your Ad Agency Public Relations Specialist interviews with confidence.
 
+A Public Relations Specialist in an Ad Agency plays a crucial role in managing and maintaining a positive image of the agency and its clients. They are responsible for developing and implementing strategic communication plans to effectively promote and market the agency's services and the brands it represents. These specialists utilize various media channels, such as print, television, radio, and digital platforms, to create engaging content and campaigns that attract target audiences. Additionally, they establish and maintain relationships with media professionals to secure favorable coverage for clients. Strong communication, writing, and interpersonal skills are essential for success in this dynamic and fast-paced role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Ad Agency Public Relations Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Ad Agency Public Relations Specialist interviews to help you prepare and succeed.

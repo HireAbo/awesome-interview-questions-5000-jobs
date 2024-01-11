@@ -2,6 +2,8 @@
 
 Welcome to the Crowdfunding Specialist Interview Preparation ! This resource is designed to help you ace your Crowdfunding Specialist interviews with confidence.
 
+A Crowdfunding Specialist is a professional who specializes in the field of Entrepreneurship and specifically focuses on raising funds through crowdfunding platforms for various business ventures. This role involves helping entrepreneurs and businesses navigate the complex world of crowdfunding, developing effective crowdfunding strategies, and managing campaigns to achieve the desired financial goals. Crowdfunding Specialists possess a deep understanding of different crowdfunding platforms, trends, and best practices to create compelling campaigns that attract potential investors. They also possess excellent communication and marketing skills to engage with investors and promote the project. Their expertise lies in identifying the target audience, setting realistic funding goals, and implementing effective marketing tactics to ensure the success of crowdfunding campaigns.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Crowdfunding Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Crowdfunding Specialist interviews to help you prepare and succeed.

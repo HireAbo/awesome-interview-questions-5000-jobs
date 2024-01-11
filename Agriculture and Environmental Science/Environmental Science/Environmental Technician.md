@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Technician Interview Preparation ! This resource is designed to help you ace your Environmental Technician interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on the relationship between agriculture and the environment. It involves studying the impact of agricultural practices on the environment and developing sustainable solutions to ensure the long-term viability of our natural resources. Environmental Science encompasses various subfields, including environmental technology. An Environmental Technician plays a crucial role in this field by collecting and analyzing data to assess environmental conditions, monitoring pollution levels, and implementing strategies to mitigate environmental risks. They work in diverse settings, such as laboratories, field sites, and government agencies, collaborating with scientists and policymakers to address environmental challenges and promote a sustainable future.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Technician interviews to help you prepare and succeed.

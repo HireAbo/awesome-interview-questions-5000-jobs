@@ -2,6 +2,8 @@
 
 Welcome to the Infection Control Nurse Interview Preparation ! This resource is designed to help you ace your Infection Control Nurse interviews with confidence.
 
+The role of an Infection Control Nurse is crucial in maintaining high standards of healthcare and preventing the spread of infections within healthcare facilities. Infection Control Nurses play a vital role in developing and implementing infection prevention strategies, policies, and procedures. They are responsible for conducting surveillance and monitoring of infections, identifying potential outbreaks, and analyzing data to detect trends. Additionally, Infection Control Nurses educate healthcare staff and patients on infection prevention measures, such as hand hygiene techniques and proper use of personal protective equipment. They collaborate with other healthcare professionals to ensure a safe and clean environment for patients, reducing the risk of healthcare-associated infections.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Infection Control Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Infection Control Nurse interviews to help you prepare and succeed.

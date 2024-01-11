@@ -2,6 +2,8 @@
 
 Welcome to the Sports Information Director Interview Preparation ! This resource is designed to help you ace your Sports Information Director interviews with confidence.
 
+A Sports Information Director (SID) plays a crucial role in the field of Sports Management. They are responsible for managing and disseminating information related to sports and athletics. SIDs work closely with the media, coaches, and athletes to promote their organization's sports programs. Their main tasks include coordinating press releases, organizing media events, maintaining and updating team statistics, and managing social media accounts. SIDs also handle game-day operations, ensuring smooth communication between teams, officials, and the media. Their expertise in sports communication and public relations enables them to effectively promote their organization's sports programs and enhance its brand image in the industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sports Information Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sports Information Director interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Ad Agency Media Director Interview Preparation ! This resource is designed to help you ace your Ad Agency Media Director interviews with confidence.
 
+The role of an Ad Agency Media Director within the field of Communication and Media > Advertising is crucial in effectively managing and implementing advertising campaigns. As a Media Director, you are responsible for overseeing the planning, development, and execution of strategic media plans for clients. This involves collaborating with the creative team, account managers, and clients to understand their advertising goals and objectives. You will conduct market research, analyze target audiences, and identify the most suitable media platforms to reach them. Additionally, you will negotiate and maintain relationships with media vendors and ensure campaigns are delivered within budget and on time. Excellent communication, analytical, and strategic thinking skills are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Ad Agency Media Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Ad Agency Media Director interviews to help you prepare and succeed.

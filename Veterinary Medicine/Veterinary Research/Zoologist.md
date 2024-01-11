@@ -2,6 +2,8 @@
 
 Welcome to the Zoologist Interview Preparation ! This resource is designed to help you ace your Zoologist interviews with confidence.
 
+Veterinary medicine is a specialized field of healthcare that focuses on the treatment and prevention of diseases in animals. It encompasses a wide range of disciplines, including veterinary research, which plays a crucial role in advancing knowledge and improving animal health. Veterinary research involves conducting studies and experiments to better understand animal diseases, develop new treatments, and enhance overall animal well-being. Within veterinary research, a zoologist job focuses specifically on the study of animals in their natural habitats. Zoologists observe and analyze animal behavior, conduct research on their physiology and genetics, and contribute to conservation efforts to protect endangered species.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Zoologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Zoologist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Distributed Systems Engineer Interview Preparation ! This resource is designed to help you ace your Distributed Systems Engineer interviews with confidence.
 
+A Distributed Systems Engineer is a highly skilled IT professional who specializes in designing, developing, and maintaining software systems that operate across multiple computers or servers. They play a crucial role in the field of Information Technology (IT), specifically in the area of Software Development. These engineers are responsible for creating robust and scalable software solutions that can handle large amounts of data and ensure seamless communication between various components of a distributed system. Their expertise lies in programming languages, network protocols, data storage, and distributed computing technologies. Distributed Systems Engineers are in high demand as companies increasingly rely on distributed systems to support their complex business operations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Distributed Systems Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Distributed Systems Engineer interviews to help you prepare and succeed.

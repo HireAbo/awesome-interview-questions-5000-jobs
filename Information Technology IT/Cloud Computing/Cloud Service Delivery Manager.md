@@ -2,6 +2,8 @@
 
 Welcome to the Cloud Service Delivery Manager Interview Preparation ! This resource is designed to help you ace your Cloud Service Delivery Manager interviews with confidence.
 
+A Cloud Service Delivery Manager is a crucial role within the field of Information Technology (IT) and specifically focuses on Cloud Computing. This job involves overseeing the delivery of cloud services to clients and ensuring their satisfaction. The Cloud Service Delivery Manager acts as a liaison between the client and the cloud service provider, managing relationships, and ensuring that the services provided meet the client's requirements. They are responsible for coordinating resources, monitoring service performance, and resolving any issues that may arise. This role requires strong technical knowledge of cloud computing, excellent communication skills, and the ability to effectively manage projects and teams to deliver high-quality cloud services.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cloud Service Delivery Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cloud Service Delivery Manager interviews to help you prepare and succeed.

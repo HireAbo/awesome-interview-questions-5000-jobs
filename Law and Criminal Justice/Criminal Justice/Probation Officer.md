@@ -2,6 +2,8 @@
 
 Welcome to the Probation Officer Interview Preparation ! This resource is designed to help you ace your Probation Officer interviews with confidence.
 
+A probation officer plays a crucial role in the criminal justice system by supervising and assisting individuals who have been convicted of crimes and are serving probation instead of incarceration. These officers work closely with offenders to ensure they adhere to the terms and conditions of their probation, such as attending counseling sessions, finding employment, and refraining from criminal behavior. They conduct regular meetings with probationers, assess their progress, and provide guidance and support to help them reintegrate into society successfully. Additionally, probation officers may also collaborate with other professionals, such as social workers and law enforcement officials, to develop rehabilitation plans and provide resources for offenders to address underlying issues that contribute to criminal behavior.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Probation Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Probation Officer interviews to help you prepare and succeed.

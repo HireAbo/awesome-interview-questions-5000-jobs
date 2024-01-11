@@ -2,6 +2,8 @@
 
 Welcome to the Dance Archivist Interview Preparation ! This resource is designed to help you ace your Dance Archivist interviews with confidence.
 
+A Dance Archivist is a professional responsible for preserving and documenting the history, development, and cultural significance of dance. They play a vital role in the world of entertainment and performing arts by collecting, organizing, and maintaining records, photographs, videos, and other artifacts related to dance. These dedicated individuals work closely with dance companies, choreographers, and dancers to catalog and preserve their artistic work. They also conduct research and analysis to enhance the understanding and appreciation of dance as an art form. A Dance Archivist possesses a deep passion for dance, strong organizational skills, and a keen eye for detail, ensuring that the rich heritage of dance is safeguarded and accessible for future generations to enjoy.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Dance Archivist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Dance Archivist interviews to help you prepare and succeed.

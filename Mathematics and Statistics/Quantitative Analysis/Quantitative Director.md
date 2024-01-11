@@ -2,6 +2,8 @@
 
 Welcome to the Quantitative Director Interview Preparation ! This resource is designed to help you ace your Quantitative Director interviews with confidence.
 
+The role of a Quantitative Director within Mathematics and Statistics involves overseeing and leading a team of analysts to conduct in-depth quantitative analysis for businesses. This position requires a strong background in mathematics and statistics, as well as expertise in data analysis and modeling. The Quantitative Director is responsible for developing and implementing analytical strategies to solve complex problems and optimize business performance. They collaborate with various stakeholders to identify key business questions and provide data-driven insights. Additionally, the Quantitative Director plays a crucial role in developing and improving quantitative methodologies, ensuring accuracy and reliability of analysis results. This position requires excellent leadership and communication skills to effectively manage the team and present findings to senior management.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Quantitative Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Quantitative Director interviews to help you prepare and succeed.

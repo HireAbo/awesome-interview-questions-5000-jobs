@@ -2,6 +2,8 @@
 
 Welcome to the Cloud Project Manager Interview Preparation ! This resource is designed to help you ace your Cloud Project Manager interviews with confidence.
 
+The field of Information Technology (IT) encompasses a wide array of industries and roles, one of which is Cloud Computing. Cloud Computing refers to the practice of using remote servers hosted on the internet to store, manage, and process data, instead of using a local server or personal computer. Within this domain, the role of a Cloud Project Manager is crucial. A Cloud Project Manager is responsible for overseeing and managing the implementation of cloud computing projects within an organization. They work closely with various teams to ensure seamless integration, efficient resource allocation, and effective project delivery. Their expertise lies in understanding cloud technologies, managing budgets, mitigating risks, and ensuring project alignment with organizational goals and objectives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cloud Project Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cloud Project Manager interviews to help you prepare and succeed.

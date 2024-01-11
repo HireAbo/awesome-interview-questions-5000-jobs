@@ -2,6 +2,8 @@
 
 Welcome to the Sculptor Interview Preparation ! This resource is designed to help you ace your Sculptor interviews with confidence.
 
+A sculptor is an artist who specializes in creating three-dimensional artworks through the process of sculpting. This job requires immense creativity, technical skills, and a deep understanding of the materials used. Sculptors often work with various mediums, such as stone, metal, clay, wood, or even recycled materials. They use their hands, tools, and sometimes machinery to shape and manipulate these materials into expressive and visually captivating forms. Sculptors may work independently or collaborate with architects, designers, or other artists to create sculptures for public spaces, galleries, museums, or private collections. Their work not only requires a keen eye for aesthetics but also a profound understanding of art history and cultural context.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sculptor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sculptor interviews to help you prepare and succeed.

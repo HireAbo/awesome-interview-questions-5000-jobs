@@ -2,6 +2,8 @@
 
 Welcome to the Assessment Developer Interview Preparation ! This resource is designed to help you ace your Assessment Developer interviews with confidence.
 
+An Education Curriculum Development Assessment Developer is responsible for designing, implementing, and evaluating assessment tools and strategies to measure student learning outcomes. This job involves collaborating with subject matter experts and instructional designers to develop valid and reliable assessments that align with curriculum objectives. The Assessment Developer conducts research, analyzes data, and utilizes various assessment techniques to ensure accurate and comprehensive evaluations. They also provide recommendations for improvement and support faculty in implementing assessment initiatives. Strong analytical and problem-solving skills, along with knowledge of educational theories and assessment practices, are essential for success in this role. The Assessment Developer plays a vital role in promoting effective teaching and learning practices to enhance educational outcomes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Assessment Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Assessment Developer interviews to help you prepare and succeed.

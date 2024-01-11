@@ -2,6 +2,8 @@
 
 Welcome to the Project Management Office (PMO) Coordinator Interview Preparation ! This resource is designed to help you ace your Project Management Office (PMO) Coordinator interviews with confidence.
 
+A Project Management Office (PMO) Coordinator plays a crucial role in overseeing and managing projects within an organization. They are responsible for ensuring that projects are executed efficiently and effectively, meeting the set objectives, timelines, and budgets. A PMO Coordinator acts as a liaison between various stakeholders, including project managers, team members, and executives, ensuring clear communication and coordination. They assist in project planning, resource allocation, risk assessment, and monitoring project progress. Additionally, a PMO Coordinator may be involved in creating and implementing project management processes, methodologies, and tools to improve project delivery. This role requires strong organizational, analytical, and communication skills, as well as a solid understanding of project management principles and best practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Project Management Office (PMO) Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Project Management Office (PMO) Coordinator interviews to help you prepare and succeed.

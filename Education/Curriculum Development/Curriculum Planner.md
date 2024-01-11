@@ -2,6 +2,8 @@
 
 Welcome to the Curriculum Planner Interview Preparation ! This resource is designed to help you ace your Curriculum Planner interviews with confidence.
 
+A Curriculum Planner plays a vital role in education by developing and designing curriculum that aligns with educational goals, standards, and objectives. As a Curriculum Planner, you are responsible for creating a comprehensive and cohesive curriculum that meets the needs of students and promotes their learning and development. This involves conducting thorough research, collaborating with educators and subject matter experts, and staying up-to-date with the latest trends and advancements in education. Additionally, you will analyze data and feedback to continuously improve and refine the curriculum. A Curriculum Planner must possess strong organizational, analytical, and communication skills to effectively create and implement a successful curriculum.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Curriculum Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Curriculum Planner interviews to help you prepare and succeed.

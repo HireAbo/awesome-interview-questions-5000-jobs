@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Lawyer Interview Preparation ! This resource is designed to help you ace your Environmental Lawyer interviews with confidence.
 
+An environmental lawyer is a legal professional specializing in issues related to environmental law and policy. Their main objective is to protect the environment and ensure that laws and regulations are followed to prevent harm to the natural world. These lawyers represent individuals, organizations, or even governments in cases involving environmental violations, such as pollution, land use, wildlife protection, or climate change. They may work on a range of legal matters, including drafting and reviewing environmental regulations, conducting research, negotiating settlements, or representing clients in court. Environmental lawyers play a crucial role in advocating for sustainable practices and holding responsible parties accountable for their actions, ultimately contributing to the preservation and conservation of our planet.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Lawyer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Lawyer interviews to help you prepare and succeed.

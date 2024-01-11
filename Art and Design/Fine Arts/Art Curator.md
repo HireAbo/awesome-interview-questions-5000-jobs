@@ -2,6 +2,8 @@
 
 Welcome to the Art Curator Interview Preparation ! This resource is designed to help you ace your Art Curator interviews with confidence.
 
+An art curator is a professional responsible for managing and organizing art collections in museums, galleries, or cultural institutions. They play a crucial role in preserving and promoting artworks by selecting, researching, and acquiring pieces for display. Art curators possess a deep understanding of various art forms, styles, and historical contexts, allowing them to curate exhibitions and design engaging displays. They collaborate with artists, collectors, and other professionals to curate innovative and thought-provoking exhibitions that engage and educate audiences. In addition to their curatorial duties, art curators may also contribute to scholarly research, publication writing, and public programming. Their passion for art and design is instrumental in shaping the art world's narrative and connecting audiences with meaningful cultural experiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Art Curator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Art Curator interviews to help you prepare and succeed.

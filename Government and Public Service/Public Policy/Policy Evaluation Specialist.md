@@ -2,6 +2,8 @@
 
 Welcome to the Policy Evaluation Specialist Interview Preparation ! This resource is designed to help you ace your Policy Evaluation Specialist interviews with confidence.
 
+A Policy Evaluation Specialist is a crucial role within the government and public service sector, specifically in the field of public policy. These professionals are responsible for assessing and analyzing the effectiveness and impact of various policies implemented by the government. Their main focus is to measure the outcomes and consequences of policies, considering factors such as economic, social, and environmental impacts. Policy Evaluation Specialists employ a range of research methods and analytical tools to gather and analyze data, conduct surveys, and engage with stakeholders. By evaluating policies, they provide valuable insights and recommendations to policymakers, aiming to improve the overall efficiency and effectiveness of public policies for the betterment of society.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Policy Evaluation Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Policy Evaluation Specialist interviews to help you prepare and succeed.

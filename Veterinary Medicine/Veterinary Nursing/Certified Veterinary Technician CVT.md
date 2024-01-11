@@ -2,6 +2,10 @@
 
 Welcome to the Certified Veterinary Technician (CVT) Interview Preparation ! This resource is designed to help you ace your Certified Veterinary Technician (CVT) interviews with confidence.
 
+Veterinary medicine encompasses a wide range of healthcare services for animals, focusing on their diagnosis, treatment, and prevention of diseases and injuries. Within this field, veterinary nursing plays a crucial role in providing support and care to animals under the supervision of veterinarians. Veterinary nurses assist in various tasks, including animal handling, administering medications, conducting laboratory tests, and providing post-operative care. 
+
+Certified Veterinary Technicians (CVTs) are highly skilled professionals within the veterinary nursing field. They have completed accredited educational programs and passed national examinations to obtain their certification. CVTs possess a comprehensive understanding of veterinary medicine and are qualified to perform advanced procedures such as anesthesia administration, dental cleanings, and radiography. Their expertise ensures the well-being of animals and assists veterinarians in delivering quality healthcare services. CVTs play a vital role in the veterinary team and contribute significantly to the overall welfare of animals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Certified Veterinary Technician (CVT) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Certified Veterinary Technician (CVT) interviews to help you prepare and succeed.

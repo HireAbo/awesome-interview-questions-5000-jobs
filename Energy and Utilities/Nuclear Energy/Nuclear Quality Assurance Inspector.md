@@ -2,6 +2,8 @@
 
 Welcome to the Nuclear Quality Assurance Inspector Interview Preparation ! This resource is designed to help you ace your Nuclear Quality Assurance Inspector interviews with confidence.
 
+A Nuclear Quality Assurance Inspector plays a crucial role in ensuring the safety and reliability of nuclear energy facilities. As an inspector, you would be responsible for conducting inspections and audits to verify compliance with quality assurance procedures and regulations. This would involve reviewing documentation, conducting tests, and analyzing data to identify any potential issues or deviations. Your role would also include evaluating the effectiveness of quality control measures and providing recommendations for improvement. Attention to detail, strong analytical skills, and knowledge of nuclear safety regulations are essential for this job. As a Nuclear Quality Assurance Inspector, you would contribute to maintaining the high standards necessary for the successful operation of nuclear energy facilities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nuclear Quality Assurance Inspector or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nuclear Quality Assurance Inspector interviews to help you prepare and succeed.

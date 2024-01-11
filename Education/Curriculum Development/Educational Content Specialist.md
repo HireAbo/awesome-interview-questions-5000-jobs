@@ -2,6 +2,8 @@
 
 Welcome to the Educational Content Specialist Interview Preparation ! This resource is designed to help you ace your Educational Content Specialist interviews with confidence.
 
+An Educational Content Specialist plays a crucial role in the field of Curriculum Development. This job involves designing, developing, and improving educational materials, resources, and content for various educational institutions and organizations. The specialist collaborates with educators, subject matter experts, and instructional designers to create engaging and effective curriculum content that aligns with educational standards and objectives. They conduct research, analyze data, and stay updated with the latest educational trends and best practices to ensure the content is relevant and impactful. The Educational Content Specialist also provides guidance and support to educators in implementing the curriculum and continuously evaluates and revises the content to enhance learning outcomes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Educational Content Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Educational Content Specialist interviews to help you prepare and succeed.

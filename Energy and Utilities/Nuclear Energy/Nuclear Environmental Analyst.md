@@ -2,6 +2,8 @@
 
 Welcome to the Nuclear Environmental Analyst Interview Preparation ! This resource is designed to help you ace your Nuclear Environmental Analyst interviews with confidence.
 
+A Nuclear Environmental Analyst is a professional responsible for evaluating the environmental impact of nuclear energy production and ensuring compliance with safety regulations. This role involves conducting extensive research and analysis to assess potential risks associated with the nuclear industry, such as radioactive waste disposal, reactor operation, and decommissioning processes. The analyst must also develop strategies to minimize environmental hazards and propose sustainable solutions for waste management. Additionally, they collaborate with government agencies, stakeholders, and other experts to provide accurate reports, recommendations, and guidance on nuclear energy projects. The Nuclear Environmental Analyst plays a vital role in maintaining the safety and sustainability of nuclear energy production while protecting the environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nuclear Environmental Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nuclear Environmental Analyst interviews to help you prepare and succeed.

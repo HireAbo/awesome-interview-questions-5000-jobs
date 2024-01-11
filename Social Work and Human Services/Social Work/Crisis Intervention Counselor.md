@@ -2,6 +2,8 @@
 
 Welcome to the Crisis Intervention Counselor Interview Preparation ! This resource is designed to help you ace your Crisis Intervention Counselor interviews with confidence.
 
+A Crisis Intervention Counselor is a vital role within the field of Social Work and Human Services, specifically focused on providing immediate support and assistance to individuals facing emergencies or crises. These professionals are trained to respond swiftly and effectively to various situations, such as suicide attempts, domestic violence, natural disasters, or mental health crises. Crisis Intervention Counselors aim to stabilize the individual's immediate situation, assess their needs, and connect them with appropriate resources and support services. Their primary goal is to ensure the safety and well-being of individuals in distress, offering counseling, crisis management strategies, and advocating for their rights. These professionals play a crucial role in helping vulnerable individuals regain stability and navigate through challenging times.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Crisis Intervention Counselor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Crisis Intervention Counselor interviews to help you prepare and succeed.

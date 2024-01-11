@@ -2,6 +2,8 @@
 
 Welcome to the Advertising Analyst Interview Preparation ! This resource is designed to help you ace your Advertising Analyst interviews with confidence.
 
+An Advertising Analyst plays a crucial role in the field of Communication and Media. This role involves analyzing and evaluating advertising strategies and campaigns to ensure their effectiveness and efficiency. The primary responsibility of an Advertising Analyst is to conduct market research, gather data, and interpret consumer behavior to develop insights and recommendations for advertising campaigns. They work closely with advertising teams to provide data-driven insights, monitor campaign performance, and identify areas for improvement. Additionally, an Advertising Analyst is responsible for tracking industry trends, competitor analysis, and staying updated with the latest advertising technologies and platforms. Strong analytical and communication skills are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Advertising Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Advertising Analyst interviews to help you prepare and succeed.

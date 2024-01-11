@@ -2,6 +2,8 @@
 
 Welcome to the Blogger Interview Preparation ! This resource is designed to help you ace your Blogger interviews with confidence.
 
+A blogger is a professional in the field of journalism who utilizes digital platforms to communicate and engage with a specific audience. As a blogger, their primary role is to create and publish engaging and informative content on various topics of interest. Through their writing skills, bloggers present news, opinions, and personal experiences to captivate and influence readers. They often conduct research, interview sources, and fact-check their content to maintain credibility. Bloggers have the freedom to express their own unique voice, style, and perspective while adhering to the ethical standards of journalism. Their goal is to build a loyal readership base and foster meaningful conversations within the digital media landscape.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Blogger or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Blogger interviews to help you prepare and succeed.

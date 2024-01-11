@@ -2,6 +2,8 @@
 
 Welcome to the Traffic Planning Engineer Interview Preparation ! This resource is designed to help you ace your Traffic Planning Engineer interviews with confidence.
 
+A Traffic Planning Engineer plays a crucial role in the field of Civil Engineering, specializing in the design and management of transportation systems. This profession involves the analysis, planning, and implementation of traffic flow strategies to ensure efficient and safe movement of vehicles, pedestrians, and cyclists. Traffic Planning Engineers are responsible for conducting traffic surveys, studying traffic patterns, and developing innovative solutions to reduce congestion, improve safety, and enhance transportation infrastructure. They collaborate with various stakeholders, including government agencies, urban planners, and environmental experts, to develop sustainable and effective traffic management plans. Their expertise contributes to the creation of sustainable and well-connected cities, promoting economic growth and improving the quality of life for communities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Traffic Planning Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Traffic Planning Engineer interviews to help you prepare and succeed.

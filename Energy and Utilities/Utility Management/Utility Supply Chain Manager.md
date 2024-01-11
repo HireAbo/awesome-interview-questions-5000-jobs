@@ -2,6 +2,8 @@
 
 Welcome to the Utility Supply Chain Manager Interview Preparation ! This resource is designed to help you ace your Utility Supply Chain Manager interviews with confidence.
 
+A Utility Supply Chain Manager is responsible for overseeing the procurement and supply of materials and services necessary for the efficient operation of energy and utility companies. They play a crucial role in managing the complex supply chain processes, ensuring that all necessary resources are available at the right time and at the best cost. This includes negotiating contracts with suppliers, monitoring inventory levels, and optimizing logistics. Additionally, they collaborate with various internal stakeholders to identify cost-saving opportunities, develop strategic sourcing initiatives, and ensure compliance with regulatory requirements. A Utility Supply Chain Manager plays a vital role in streamlining operations, reducing costs, and ensuring uninterrupted service delivery in the energy and utilities sector.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Utility Supply Chain Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Utility Supply Chain Manager interviews to help you prepare and succeed.

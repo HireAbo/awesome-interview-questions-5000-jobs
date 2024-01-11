@@ -2,6 +2,8 @@
 
 Welcome to the Corporate Records Analyst Interview Preparation ! This resource is designed to help you ace your Corporate Records Analyst interviews with confidence.
 
+A corporate records analyst plays a crucial role in the field of Library and Information Science, specifically within the area of records management. This job entails managing and organizing records and information within a corporate setting. The primary responsibility of a corporate records analyst is to ensure that all corporate records are accurately maintained and easily accessible. This includes tasks such as creating and implementing records retention schedules, classifying and indexing records, and overseeing the disposal or transfer of records as necessary. Additionally, a corporate records analyst may be responsible for training employees on proper records management practices and ensuring compliance with legal and regulatory requirements. Overall, this role is vital for maintaining the integrity and efficiency of corporate records management systems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Corporate Records Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Corporate Records Analyst interviews to help you prepare and succeed.

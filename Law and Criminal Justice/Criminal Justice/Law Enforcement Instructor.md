@@ -2,6 +2,8 @@
 
 Welcome to the Law Enforcement Instructor Interview Preparation ! This resource is designed to help you ace your Law Enforcement Instructor interviews with confidence.
 
+A Law Enforcement Instructor is a highly skilled and experienced professional responsible for educating and training individuals in the field of law enforcement. They play a crucial role in shaping and preparing future law enforcement officers by providing them with the necessary knowledge and skills required to enforce laws and maintain public safety. These instructors are well-versed in various aspects of criminal justice, including criminal law, investigations, patrol procedures, and community policing. They design and deliver training programs that cover a wide range of topics such as firearms training, defensive tactics, emergency response, and ethical conduct. Law Enforcement Instructors also assess trainees' performance, provide feedback, and ensure they adhere to legal and ethical standards.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Law Enforcement Instructor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Law Enforcement Instructor interviews to help you prepare and succeed.

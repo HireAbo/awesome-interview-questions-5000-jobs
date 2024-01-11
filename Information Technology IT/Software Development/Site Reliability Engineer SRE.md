@@ -2,6 +2,8 @@
 
 Welcome to the Site Reliability Engineer (SRE) Interview Preparation ! This resource is designed to help you ace your Site Reliability Engineer (SRE) interviews with confidence.
 
+A Site Reliability Engineer (SRE) is a role within the field of Information Technology (IT), specifically in Software Development. SREs are responsible for ensuring the reliability, availability, and performance of software systems. They bridge the gap between software development and operations by combining software engineering practices with operations principles. SREs focus on designing, building, and maintaining highly scalable and reliable software systems that can handle heavy traffic and minimize downtime. They utilize automation, monitoring, and troubleshooting techniques to proactively identify and resolve issues, optimizing the overall system performance. SREs play a critical role in ensuring the smooth functioning of software applications, enhancing user experience, and contributing to the success of businesses in the digital age.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Site Reliability Engineer (SRE) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Site Reliability Engineer (SRE) interviews to help you prepare and succeed.

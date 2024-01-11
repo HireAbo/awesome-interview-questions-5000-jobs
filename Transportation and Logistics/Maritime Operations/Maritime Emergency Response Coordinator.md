@@ -2,6 +2,8 @@
 
 Welcome to the Maritime Emergency Response Coordinator Interview Preparation ! This resource is designed to help you ace your Maritime Emergency Response Coordinator interviews with confidence.
 
+The role of a Maritime Emergency Response Coordinator is vital in the field of Transportation and Logistics, specifically in Maritime Operations. This position is responsible for coordinating and managing emergency response activities in the event of maritime accidents or incidents. The coordinator works closely with various stakeholders such as government agencies, shipping companies, and local authorities to ensure effective response and recovery operations. They also develop emergency response plans, conduct drills, and provide training to the relevant personnel. With a deep understanding of maritime regulations and safety protocols, a Maritime Emergency Response Coordinator plays a crucial role in minimizing the impact of emergencies and safeguarding the marine environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Maritime Emergency Response Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Maritime Emergency Response Coordinator interviews to help you prepare and succeed.

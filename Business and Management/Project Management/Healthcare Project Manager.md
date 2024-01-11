@@ -2,6 +2,8 @@
 
 Welcome to the Healthcare Project Manager Interview Preparation ! This resource is designed to help you ace your Healthcare Project Manager interviews with confidence.
 
+A Healthcare Project Manager plays a crucial role in the successful execution of projects within the healthcare industry. They are responsible for overseeing the planning, implementation, and completion of projects related to healthcare facilities, systems, or services. This role requires strong leadership, organizational, and problem-solving skills, as well as extensive knowledge of healthcare regulations and processes. Healthcare Project Managers collaborate with various stakeholders, including healthcare professionals, administrators, and vendors, to ensure that projects are completed on time, within budget, and meet quality standards. Their ultimate goal is to improve healthcare delivery, enhance patient experiences, and drive positive outcomes in the healthcare sector.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Healthcare Project Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Healthcare Project Manager interviews to help you prepare and succeed.

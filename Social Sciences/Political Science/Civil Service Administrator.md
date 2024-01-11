@@ -2,6 +2,8 @@
 
 Welcome to the Civil Service Administrator Interview Preparation ! This resource is designed to help you ace your Civil Service Administrator interviews with confidence.
 
+A civil service administrator is a crucial role in the field of political science and the broader social sciences. As a civil service administrator, individuals are responsible for managing the operations and functions of government agencies at various levels, including local, state, and federal. They play a pivotal role in implementing policies, overseeing budgeting and financial management, and ensuring efficient and effective service delivery to the public. Civil service administrators work closely with elected officials, policymakers, and other stakeholders to formulate strategies, develop programs, and coordinate the activities of their respective agencies. Their work contributes to the smooth functioning of public administration, fostering good governance, and promoting public welfare.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Civil Service Administrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Civil Service Administrator interviews to help you prepare and succeed.

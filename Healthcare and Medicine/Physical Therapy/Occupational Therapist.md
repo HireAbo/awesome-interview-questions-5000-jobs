@@ -2,6 +2,8 @@
 
 Welcome to the Occupational Therapist Interview Preparation ! This resource is designed to help you ace your Occupational Therapist interviews with confidence.
 
+An Occupational Therapist (OT) is a healthcare professional who specializes in helping individuals recover and regain independence in their daily activities. They play a crucial role in the field of healthcare and medicine, specifically in physical therapy. OTs work with patients of all age groups who are experiencing physical, emotional, or cognitive challenges that hinder their ability to perform meaningful tasks. They assess patients' abilities and design personalized treatment plans to improve their functional abilities and quality of life. OTs utilize various therapeutic techniques, exercises, and assistive devices to enhance patients' physical and mental well-being. Their expertise and dedication make them an essential part of the healthcare team, promoting health, independence, and overall wellness.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Occupational Therapist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Occupational Therapist interviews to help you prepare and succeed.

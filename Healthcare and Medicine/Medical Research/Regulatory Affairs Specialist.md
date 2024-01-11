@@ -2,6 +2,8 @@
 
 Welcome to the Regulatory Affairs Specialist Interview Preparation ! This resource is designed to help you ace your Regulatory Affairs Specialist interviews with confidence.
 
+A Regulatory Affairs Specialist in the field of Healthcare and Medicine plays a crucial role in ensuring that medical products and devices meet the required regulatory standards before they can be made available to the public. This job involves conducting extensive research and analysis on new and existing medical products, drugs, or devices, and collaborating with various stakeholders such as research scientists, physicians, and government agencies. The Regulatory Affairs Specialist is responsible for compiling and submitting necessary documentation to regulatory authorities, ensuring compliance with regulations and guidelines. They also monitor and interpret changes in regulations, ensuring that companies adhere to the latest standards and protocols. Overall, the Regulatory Affairs Specialist plays a vital role in maintaining the safety and efficacy of medical products and devices for public use.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Regulatory Affairs Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Regulatory Affairs Specialist interviews to help you prepare and succeed.

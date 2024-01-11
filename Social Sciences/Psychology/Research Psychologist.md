@@ -2,6 +2,8 @@
 
 Welcome to the Research Psychologist Interview Preparation ! This resource is designed to help you ace your Research Psychologist interviews with confidence.
 
+A research psychologist is a professional who conducts scientific investigations and studies within the field of psychology. They play a crucial role in advancing our understanding of human behavior and mental processes through empirical research. Research psychologists design and implement studies, collect and analyze data, and interpret their findings. They work in diverse settings such as universities, research institutions, government agencies, and private organizations. Their research may cover various areas such as cognitive processes, developmental psychology, social behavior, personality traits, or mental health disorders. By conducting rigorous research, research psychologists contribute to the development of evidence-based interventions and strategies to improve the well-being of individuals and society as a whole.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Research Psychologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Research Psychologist interviews to help you prepare and succeed.

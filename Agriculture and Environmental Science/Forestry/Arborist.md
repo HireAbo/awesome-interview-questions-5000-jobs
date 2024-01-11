@@ -2,6 +2,8 @@
 
 Welcome to the Arborist Interview Preparation ! This resource is designed to help you ace your Arborist interviews with confidence.
 
+Agriculture and Environmental Science encompass various fields, and one specialized area is forestry, which focuses on the management and conservation of forests. Within this field, the role of an arborist is crucial. Arborists are professionals who specialize in the cultivation, care, and maintenance of trees and woody plants. They possess expertise in tree biology, identification, and the diagnosis and treatment of tree diseases. Arborists provide essential services such as tree pruning, removal, and planting, while also conducting assessments to ensure tree health and safety. Their work not only enhances the aesthetics of the environment but also promotes the sustainability and preservation of our natural resources.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Arborist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Arborist interviews to help you prepare and succeed.

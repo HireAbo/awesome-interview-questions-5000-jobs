@@ -2,6 +2,8 @@
 
 Welcome to the Audition Coach Interview Preparation ! This resource is designed to help you ace your Audition Coach interviews with confidence.
 
+An Audition Coach for Entertainment and Performing Arts, specifically in the field of acting, is a professional who provides guidance and support to aspiring actors during the audition process. They possess extensive knowledge and experience in the industry, and their primary aim is to help actors showcase their talent and increase their chances of success in auditions. An Audition Coach assists actors in refining their acting skills, developing effective audition techniques, and selecting appropriate monologues or scenes for auditions. They also offer valuable advice on how to present oneself confidently and make a lasting impression on casting directors. With their expertise, an Audition Coach plays a crucial role in helping actors navigate the competitive world of acting and maximize their potential.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Audition Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Audition Coach interviews to help you prepare and succeed.

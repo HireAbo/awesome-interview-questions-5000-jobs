@@ -2,6 +2,8 @@
 
 Welcome to the Solar Physicist Interview Preparation ! This resource is designed to help you ace your Solar Physicist interviews with confidence.
 
+A solar physicist is a highly specialized scientist who studies the physics and behavior of the sun, its magnetic fields, and the solar system. They play a crucial role in expanding our understanding of the sun's complex processes and phenomena. Solar physicists conduct research using advanced telescopes and satellites to observe and analyze solar flares, sunspots, solar wind, and other solar activities. They study the sun's magnetic field dynamics, solar radiation, and energy transfer mechanisms. These scientists contribute to the development of solar weather forecasts, which are crucial for space missions, satellite operations, and our understanding of the sun's impact on Earth's climate and technological systems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Solar Physicist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Solar Physicist interviews to help you prepare and succeed.

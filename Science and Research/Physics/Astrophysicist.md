@@ -2,6 +2,8 @@
 
 Welcome to the Astrophysicist Interview Preparation ! This resource is designed to help you ace your Astrophysicist interviews with confidence.
 
+Astrophysics is a fascinating branch of physics that focuses on exploring and understanding the universe. Astrophysicists are highly skilled scientists who study celestial objects, such as stars, galaxies, and black holes, as well as the fundamental laws of physics that govern their behavior. Their research involves collecting and analyzing data from various sources, including telescopes, satellites, and computer simulations. By studying the properties and interactions of celestial bodies, astrophysicists seek to uncover the mysteries of the cosmos, such as the origins of the universe, the formation of galaxies, and the existence of dark matter. Their work contributes to our understanding of the universe and pushes the boundaries of scientific knowledge.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Astrophysicist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Astrophysicist interviews to help you prepare and succeed.

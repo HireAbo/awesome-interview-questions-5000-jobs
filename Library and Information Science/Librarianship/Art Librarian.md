@@ -2,6 +2,10 @@
 
 Welcome to the Art Librarian Interview Preparation ! This resource is designed to help you ace your Art Librarian interviews with confidence.
 
+Library and Information Science, also known as Librarianship, is a field that focuses on the organization, management, and dissemination of information. Within this field, there are specialized roles, such as the Art Librarian. 
+
+An Art Librarian is responsible for curating, organizing, and maintaining a library’s collection of art-related materials, including books, journals, and digital resources. They work closely with artists, art historians, and researchers to provide access to relevant and valuable resources. Art Librarians are experts in art history, art theory, and various artistic mediums. They help patrons navigate the collection, assist in research, and provide guidance on finding relevant information. Additionally, they may collaborate with museums, galleries, and other cultural institutions to acquire and showcase art-related materials. Overall, Art Librarians play a crucial role in preserving and promoting artistic knowledge and understanding within the library community.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Art Librarian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Art Librarian interviews to help you prepare and succeed.

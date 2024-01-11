@@ -2,6 +2,8 @@
 
 Welcome to the HR Metrics Analyst Interview Preparation ! This resource is designed to help you ace your HR Metrics Analyst interviews with confidence.
 
+A HR Metrics Analyst is a key role within the field of Human Resources (HR) and plays a crucial role in analyzing and interpreting data to drive strategic decision-making. This position involves collecting, organizing, and analyzing HR-related data to measure key performance indicators and trends. The HR Metrics Analyst is responsible for creating reports and providing insights on areas such as employee turnover, performance management, recruitment, training, and compensation. By identifying patterns and trends, they assist in developing and implementing HR strategies that enhance organizational effectiveness and drive business outcomes. A successful HR Metrics Analyst possesses strong analytical skills, attention to detail, and a deep understanding of HR practices and metrics.
+
 ## 🚀 Overview
 
 Whether you're a seasoned HR Metrics Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in HR Metrics Analyst interviews to help you prepare and succeed.

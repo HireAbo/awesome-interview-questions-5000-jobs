@@ -2,6 +2,8 @@
 
 Welcome to the Freelance Correspondent Interview Preparation ! This resource is designed to help you ace your Freelance Correspondent interviews with confidence.
 
+A Freelance Correspondent in the field of Communication and Media, specifically Journalism, plays a vital role in delivering accurate and timely news to the public. As an independent journalist, a Freelance Correspondent is responsible for researching, investigating, and reporting news stories from various locations and perspectives. They have the flexibility to work for multiple media organizations or publications, utilizing their excellent writing and storytelling skills to inform and engage readers. With their ability to adapt to different topics and deadlines, Freelance Correspondents are adept at interviewing sources, conducting thorough research, and crafting compelling news articles that adhere to journalistic standards. Their work contributes to the dissemination of information, fostering a well-informed society.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Freelance Correspondent or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Freelance Correspondent interviews to help you prepare and succeed.

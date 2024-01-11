@@ -2,6 +2,8 @@
 
 Welcome to the Documentary Filmmaker Interview Preparation ! This resource is designed to help you ace your Documentary Filmmaker interviews with confidence.
 
+A Documentary Filmmaker specializing in journalism plays a vital role in the field of communication and media. Through their work, they aim to inform, educate, and entertain audiences by documenting real-life stories and events, often with a focus on social, cultural, or political issues. These professionals possess strong storytelling skills and use various mediums to communicate their message, including video, audio, and written content. They conduct extensive research, interviews, and often travel to different locations to capture authentic footage. Their ability to present unbiased and thought-provoking narratives makes them an integral part of the media landscape, contributing to a better-informed society.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Documentary Filmmaker or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Documentary Filmmaker interviews to help you prepare and succeed.

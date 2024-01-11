@@ -2,6 +2,8 @@
 
 Welcome to the Software Engineer Interview Preparation ! This resource is designed to help you ace your Software Engineer interviews with confidence.
 
+A Software Engineer is a professional who specializes in the design, development, and implementation of software applications. As part of the broader field of Information Technology (IT), Software Development focuses on creating computer programs that enhance productivity, solve complex problems, and improve user experiences. Software Engineers utilize their knowledge of programming languages, algorithms, and software development methodologies to design and build software systems that meet specific requirements. They collaborate with cross-functional teams, including project managers and quality assurance analysts, to ensure the successful delivery of software projects. A Software Engineer is responsible for writing clean, efficient, and maintainable code and constantly staying updated with the latest trends and advancements in the field of software development.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Software Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Software Engineer interviews to help you prepare and succeed.

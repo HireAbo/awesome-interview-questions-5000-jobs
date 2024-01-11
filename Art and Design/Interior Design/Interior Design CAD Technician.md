@@ -2,6 +2,8 @@
 
 Welcome to the Interior Design CAD Technician Interview Preparation ! This resource is designed to help you ace your Interior Design CAD Technician interviews with confidence.
 
+An Interior Design CAD Technician plays a crucial role in the world of Art and Design. This job focuses on utilizing computer-aided design (CAD) software to create detailed drawings and plans for interior spaces. These professionals work closely with Interior Designers and Architects to bring their vision to life, transforming empty spaces into functional and aesthetically pleasing environments. The CAD Technician is responsible for accurately measuring and documenting existing spaces, producing 2D and 3D renderings, and creating construction documents. They possess a strong eye for detail, understand spatial relationships, and have a solid understanding of building codes and materials. Their work is essential in helping clients visualize and execute their dream interiors.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Interior Design CAD Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Interior Design CAD Technician interviews to help you prepare and succeed.

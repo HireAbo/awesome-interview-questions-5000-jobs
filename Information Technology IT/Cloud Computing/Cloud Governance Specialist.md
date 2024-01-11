@@ -2,6 +2,12 @@
 
 Welcome to the Cloud Governance Specialist Interview Preparation ! This resource is designed to help you ace your Cloud Governance Specialist interviews with confidence.
 
+A Cloud Governance Specialist is a professional responsible for overseeing and implementing cloud computing strategies within an organization. They play a crucial role in ensuring the effective management and governance of cloud resources and services. This job requires expertise in information technology (IT) and a deep understanding of cloud computing principles.
+
+A Cloud Governance Specialist is responsible for designing and implementing policies, procedures, and best practices to optimize cloud usage, security, and compliance. They monitor cloud infrastructure, assess risks, and ensure adherence to industry standards and regulations. Additionally, they collaborate with various stakeholders to develop and maintain cloud governance frameworks and provide guidance on cloud-related decisions.
+
+In summary, a Cloud Governance Specialist plays a vital role in managing and securing cloud resources, ensuring effective governance, and maximizing the benefits of cloud computing for organizations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cloud Governance Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cloud Governance Specialist interviews to help you prepare and succeed.

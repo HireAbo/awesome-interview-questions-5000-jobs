@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Technician Interview Preparation ! This resource is designed to help you ace your Environmental Technician interviews with confidence.
 
+Environmental Science is a field of study that focuses on understanding the interactions between humans and the environment. It involves researching, analyzing, and finding solutions to environmental issues and challenges. Within this field, the role of an Environmental Technician is crucial in collecting and analyzing environmental data. Environmental Technicians work in the field, conducting various tests, measurements, and observations to assess the quality of air, water, and soil. They also assist in monitoring and managing pollution levels, conducting environmental assessments, and implementing measures to mitigate environmental damage. Their work plays a vital role in preserving and protecting the environment for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Technician interviews to help you prepare and succeed.

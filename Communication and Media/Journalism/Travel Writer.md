@@ -2,6 +2,8 @@
 
 Welcome to the Travel Writer Interview Preparation ! This resource is designed to help you ace your Travel Writer interviews with confidence.
 
+A travel writer is a professional journalist who specializes in documenting and sharing their experiences and observations while traveling to different destinations. They possess excellent communication skills and a keen eye for detail, allowing them to capture the essence of a place through their writing. Travel writers often work for various media outlets, including newspapers, magazines, online platforms, and travel guidebooks. Their main goal is to engage readers by providing them with accurate, informative, and inspiring content about different cultures, attractions, and experiences. These individuals possess a passion for exploration and storytelling, enabling them to transport readers to far-flung destinations through their vivid descriptions and captivating narratives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Travel Writer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Travel Writer interviews to help you prepare and succeed.

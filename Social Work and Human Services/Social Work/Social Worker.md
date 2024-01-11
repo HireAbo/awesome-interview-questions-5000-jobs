@@ -2,6 +2,8 @@
 
 Welcome to the Social Worker Interview Preparation ! This resource is designed to help you ace your Social Worker interviews with confidence.
 
+Social Work and Human Services encompass a wide range of professions dedicated to improving the well-being of individuals and communities. Social workers play a crucial role in this field, aiming to address social issues, promote social justice, and enhance the quality of life for vulnerable populations. As professionals, social workers may work in various settings such as schools, hospitals, government agencies, and nonprofit organizations. They engage in direct practice, advocating for clients' rights, providing counseling, linking individuals to resources, and assisting with crisis intervention. Social workers demonstrate empathy, compassion, and a commitment to social change, working tirelessly to empower individuals and communities towards positive outcomes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Social Worker or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Social Worker interviews to help you prepare and succeed.

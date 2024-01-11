@@ -2,6 +2,8 @@
 
 Welcome to the Tunneling Engineer Interview Preparation ! This resource is designed to help you ace your Tunneling Engineer interviews with confidence.
 
+A Tunneling Engineer is a highly specialized professional within the field of Civil Engineering, focusing on the design, construction, and maintenance of tunnels. These engineers play a crucial role in the development of transportation systems, underground utilities, and mining operations. Their primary responsibility is to ensure the safe and efficient excavation of tunnels while considering factors such as geotechnical conditions, environmental impacts, and structural integrity. Tunneling Engineers use advanced software and technologies to analyze and design tunnel structures, ventilation systems, and ground stabilization methods. They collaborate with geologists, geotechnical engineers, and construction teams to overcome challenges and deliver successful tunneling projects, contributing to the expansion and improvement of infrastructure worldwide.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Tunneling Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Tunneling Engineer interviews to help you prepare and succeed.

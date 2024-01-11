@@ -2,6 +2,8 @@
 
 Welcome to the Seismic Analyst Interview Preparation ! This resource is designed to help you ace your Seismic Analyst interviews with confidence.
 
+A seismic analyst job in civil engineering involves studying the behavior of structures and materials under seismic forces. Seismic analysts play a crucial role in ensuring the safety and resilience of buildings, bridges, dams, and other infrastructure against earthquakes and other seismic events. They use sophisticated computer software and analytical techniques to assess the potential seismic hazards and their impact on structures. These professionals analyze data from various sources, including seismic sensors and historical records, to develop predictive models and make recommendations for design and construction. Seismic analysts collaborate with engineers, architects, and construction teams to implement measures that enhance the structural integrity and minimize damage during seismic events.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Seismic Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Seismic Analyst interviews to help you prepare and succeed.

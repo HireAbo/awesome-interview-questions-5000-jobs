@@ -2,6 +2,8 @@
 
 Welcome to the Forensic Video Analyst Interview Preparation ! This resource is designed to help you ace your Forensic Video Analyst interviews with confidence.
 
+A Forensic Video Analyst is a crucial role within the field of Forensic Science, specifically within Law and Criminal Justice. This specialized profession involves the examination and analysis of video evidence to extract valuable information that can be used in criminal investigations and legal proceedings. Forensic Video Analysts possess a unique skill set, combining technical expertise in video enhancement and analysis with a deep understanding of investigative techniques and legal protocols. They meticulously examine videos, identifying key details, enhancing image quality, and analyzing the sequence of events. Their work often plays a critical role in solving crimes, providing evidence for court cases, and ensuring justice is served.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forensic Video Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forensic Video Analyst interviews to help you prepare and succeed.

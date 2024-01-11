@@ -2,6 +2,8 @@
 
 Welcome to the Sourcing Manager Interview Preparation ! This resource is designed to help you ace your Sourcing Manager interviews with confidence.
 
+A Sourcing Manager in Transportation and Logistics plays a crucial role in Supply Chain Management. They are responsible for developing and executing sourcing strategies to ensure the efficient and cost-effective procurement of goods and services required for the transportation and logistics operations. The Sourcing Manager collaborates with suppliers to negotiate contracts, manage supplier relationships, and evaluate supplier performance. They also analyze market trends, identify potential suppliers, and assess their capabilities to meet the organization's sourcing requirements. The Sourcing Manager plays a vital role in optimizing the supply chain, ensuring timely delivery of goods, reducing costs, and maintaining high-quality standards, ultimately contributing to the overall success of the transportation and logistics operations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sourcing Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sourcing Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Hydrologist Interview Preparation ! This resource is designed to help you ace your Hydrologist interviews with confidence.
 
+A hydrologist is a scientist who specializes in the study of water, its distribution, and its properties on Earth. They play a crucial role in environmental science by conducting research and collecting data about water resources, such as rivers, lakes, and groundwater. Hydrologists analyze the movement and quality of water, as well as its interactions with the environment and ecosystems. They use advanced technologies and mathematical models to assess water availability, predict floods and droughts, and develop sustainable water management strategies. Hydrologists also contribute to the understanding of climate change and its impact on water resources. Their work is crucial for ensuring water security and protecting the environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Hydrologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Hydrologist interviews to help you prepare and succeed.

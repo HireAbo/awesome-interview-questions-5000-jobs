@@ -2,6 +2,12 @@
 
 Welcome to the Data Science DevOps Engineer Interview Preparation ! This resource is designed to help you ace your Data Science DevOps Engineer interviews with confidence.
 
+Information Technology (IT) is a field that revolves around the use of computers, software, and networks to manage, store, and process data. It encompasses various aspects such as hardware, software development, network administration, cybersecurity, and more. 
+
+Data Science, on the other hand, is a multidisciplinary field that combines statistical analysis, machine learning, and computer science to extract valuable insights and knowledge from large sets of data. Data Scientists utilize advanced algorithms and techniques to analyze, interpret, and visualize data, enabling businesses to make informed decisions and predictions.
+
+A Data Science DevOps Engineer is a professional who combines the skills of a Data Scientist with those of a DevOps Engineer. They are responsible for maintaining and optimizing the data infrastructure and pipelines, ensuring smooth data flow, and automating processes to enhance efficiency. They work closely with Data Scientists and software development teams to deploy machine learning models into production environments, monitor their performance, and continuously improve them. This role requires expertise in data engineering, cloud computing, programming, and knowledge of data science principles.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Science DevOps Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Science DevOps Engineer interviews to help you prepare and succeed.

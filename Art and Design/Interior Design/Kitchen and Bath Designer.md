@@ -2,6 +2,8 @@
 
 Welcome to the Kitchen and Bath Designer Interview Preparation ! This resource is designed to help you ace your Kitchen and Bath Designer interviews with confidence.
 
+A Kitchen and Bath Designer is a professional who specializes in creating functional and aesthetically pleasing spaces in residential or commercial settings. They combine their artistic skills and technical knowledge to design and remodel kitchens and bathrooms that meet the specific needs and preferences of their clients. These professionals are responsible for developing layout plans, selecting materials, fixtures, and appliances, as well as coordinating with contractors and suppliers. They possess a keen eye for detail, an understanding of spatial planning, and a strong sense of style to create beautiful and functional spaces that enhance the overall design and functionality of a home or business.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Kitchen and Bath Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Kitchen and Bath Designer interviews to help you prepare and succeed.

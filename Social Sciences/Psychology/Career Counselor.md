@@ -2,6 +2,8 @@
 
 Welcome to the Career Counselor Interview Preparation ! This resource is designed to help you ace your Career Counselor interviews with confidence.
 
+A career counselor is a professional in the field of psychology who specializes in assisting individuals in making informed decisions about their career paths. They provide guidance and support to individuals who may be looking to explore new career opportunities, considering a career change, or seeking advice on how to advance in their current profession. Career counselors utilize various psychological theories and assessments to help clients identify their strengths, interests, and values, and match them with suitable career options. They also offer assistance with resume writing, interview preparation, and job search strategies. Overall, career counselors play a crucial role in helping individuals navigate the complexities of the job market and achieve their professional goals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Career Counselor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Career Counselor interviews to help you prepare and succeed.

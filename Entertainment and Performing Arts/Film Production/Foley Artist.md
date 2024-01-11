@@ -2,6 +2,8 @@
 
 Welcome to the Foley Artist Interview Preparation ! This resource is designed to help you ace your Foley Artist interviews with confidence.
 
+A Foley Artist is a key member of the film production team, specializing in creating and recording sound effects for movies and television shows. They work closely with the sound designer and director to enhance the audio experience and bring authenticity to on-screen actions. Using a variety of everyday objects and specialized tools, Foley Artists meticulously recreate sounds such as footsteps, clothing rustles, and object interactions to match the visuals on screen. Their skills and creativity are essential in adding depth and realism to the final product. Foley Artists play a vital role in shaping the overall audio landscape, creating a more immersive and engaging cinematic experience for audiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Foley Artist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Foley Artist interviews to help you prepare and succeed.

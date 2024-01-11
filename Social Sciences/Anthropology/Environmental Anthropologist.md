@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Anthropologist Interview Preparation ! This resource is designed to help you ace your Environmental Anthropologist interviews with confidence.
 
+An Environmental Anthropologist is a professional who studies the relationship between humans and their environment from a social and cultural perspective. They analyze how human societies interact with and adapt to their natural surroundings, and how these interactions shape cultural practices and beliefs. Environmental anthropologists conduct field research, collecting data on various environmental issues such as resource management, climate change, and sustainable development. They work closely with local communities, government agencies, and non-profit organizations to identify and address environmental challenges. Their findings and recommendations often contribute to policy-making decisions and the development of sustainable practices. Environmental anthropology is a multidisciplinary field that combines elements of anthropology, ecology, geography, and sociology.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Anthropologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Anthropologist interviews to help you prepare and succeed.

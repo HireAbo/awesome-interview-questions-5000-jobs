@@ -2,6 +2,8 @@
 
 Welcome to the Theater Fight Choreographer Interview Preparation ! This resource is designed to help you ace your Theater Fight Choreographer interviews with confidence.
 
+A Theater Fight Choreographer is a skilled professional who specializes in creating realistic and safe fight scenes for theatrical productions. They are responsible for designing and coordinating the physicality and movements of actors during fight sequences. This involves careful planning and rehearsal to ensure the actors' safety while maintaining the illusion of violence on stage. Theater Fight Choreographers possess a deep understanding of various combat techniques and weapons, and they work closely with directors, actors, and stage combat instructors to bring the vision of the production to life. They contribute their expertise in choreography, stagecraft, and storytelling to create thrilling and visually captivating fight scenes in theater productions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Theater Fight Choreographer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Theater Fight Choreographer interviews to help you prepare and succeed.

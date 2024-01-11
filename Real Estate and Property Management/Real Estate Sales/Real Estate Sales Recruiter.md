@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Sales Recruiter Interview Preparation ! This resource is designed to help you ace your Real Estate Sales Recruiter interviews with confidence.
 
+A Real Estate Sales Recruiter plays a crucial role in the real estate industry by identifying and recruiting talented individuals for real estate sales positions. As the demand for skilled real estate professionals continues to grow, the Sales Recruiter is responsible for sourcing, screening, and selecting candidates who possess the necessary skills and qualifications to succeed in sales roles. This involves conducting interviews, assessing candidates' abilities, and ensuring a good fit between the candidate and the real estate company. The Sales Recruiter also plays a vital role in building and maintaining relationships with potential candidates, real estate agents, and brokers, helping to drive the growth and success of the company.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Sales Recruiter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Sales Recruiter interviews to help you prepare and succeed.

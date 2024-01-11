@@ -2,6 +2,8 @@
 
 Welcome to the Junior Graphic Designer Interview Preparation ! This resource is designed to help you ace your Junior Graphic Designer interviews with confidence.
 
+A Junior Graphic Designer is an entry-level position in the field of graphic design, focused on creating visual concepts and digital artwork for various platforms. They work under the guidance of senior designers or art directors, assisting in the development and execution of design projects. Junior Graphic Designers are responsible for creating layouts, logos, illustrations, and other visual elements to communicate messages effectively. They use software such as Adobe Photoshop, Illustrator, and InDesign to design graphics for websites, social media, print materials, and other digital platforms. This role requires a strong eye for detail, creativity, and the ability to work collaboratively within a team.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Junior Graphic Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Junior Graphic Designer interviews to help you prepare and succeed.

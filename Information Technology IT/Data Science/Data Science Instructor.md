@@ -2,6 +2,12 @@
 
 Welcome to the Data Science Instructor Interview Preparation ! This resource is designed to help you ace your Data Science Instructor interviews with confidence.
 
+Information Technology (IT) is a field that encompasses the use of computers, software, and networks to store, retrieve, transmit, and manipulate data. It involves various aspects such as hardware, software development, database management, and cybersecurity. 
+
+Data Science, on the other hand, is a multidisciplinary field that uses scientific methods, algorithms, and systems to extract knowledge and insights from structured and unstructured data. It involves data collection, cleaning, analysis, and visualization, with the aim of making informed decisions and predictions.
+
+A Data Science Instructor job entails teaching and guiding individuals in the field of Data Science. These instructors possess a deep understanding of data science tools, programming languages, and statistical concepts. They design and deliver comprehensive courses, mentor students, and provide hands-on training, helping individuals develop the skills needed to excel in the data science industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Science Instructor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Science Instructor interviews to help you prepare and succeed.

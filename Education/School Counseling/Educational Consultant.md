@@ -2,6 +2,8 @@
 
 Welcome to the Educational Consultant Interview Preparation ! This resource is designed to help you ace your Educational Consultant interviews with confidence.
 
+An educational consultant in the field of school counseling plays a vital role in guiding students towards achieving their academic and personal goals. With expertise in educational psychology and counseling techniques, they provide valuable support to students, parents, and teachers. These professionals assist in identifying a student's strengths, weaknesses, and interests to create personalized educational plans. They offer advice on course selection, college admissions, and career paths. Additionally, educational consultants collaborate with school staff to develop intervention strategies for students facing challenges. Through their knowledge and guidance, they empower individuals to make informed decisions that enhance their educational journey, enabling them to reach their full potential.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Educational Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Educational Consultant interviews to help you prepare and succeed.

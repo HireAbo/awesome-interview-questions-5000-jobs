@@ -2,6 +2,8 @@
 
 Welcome to the Hotel Marketing Manager Interview Preparation ! This resource is designed to help you ace your Hotel Marketing Manager interviews with confidence.
 
+A Hotel Marketing Manager plays a pivotal role in the hospitality and tourism industry, specifically in hotel management. As the name suggests, their primary responsibility is to develop and implement effective marketing strategies to promote and sell hotel services and facilities. They work closely with the hotel management team to identify target markets, analyze market trends, and devise innovative marketing campaigns to attract potential guests. Hotel Marketing Managers are also responsible for managing online and offline marketing channels, such as social media, email marketing, advertising, and public relations. Their ultimate goal is to increase brand awareness, drive bookings, and maximize revenue for the hotel.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Hotel Marketing Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Hotel Marketing Manager interviews to help you prepare and succeed.

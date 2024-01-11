@@ -2,6 +2,8 @@
 
 Welcome to the Farm Equipment Mechanic Interview Preparation ! This resource is designed to help you ace your Farm Equipment Mechanic interviews with confidence.
 
+Agriculture is the practice of cultivating plants and rearing animals for food, fiber, medicinal plants, and other products used to sustain and enhance human life. It plays a vital role in the global economy and provides a significant source of employment. Farm equipment mechanics are crucial to the success of agricultural operations as they specialize in maintaining and repairing machinery used on farms. These skilled professionals ensure that tractors, harvesters, and other essential equipment are in optimal condition, minimizing downtime and maximizing productivity. By combining their knowledge of mechanics with a deep understanding of agricultural practices, farm equipment mechanics contribute to the efficiency and sustainability of modern farming.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Farm Equipment Mechanic or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Farm Equipment Mechanic interviews to help you prepare and succeed.

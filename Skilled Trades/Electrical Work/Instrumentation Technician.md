@@ -2,6 +2,8 @@
 
 Welcome to the Instrumentation Technician Interview Preparation ! This resource is designed to help you ace your Instrumentation Technician interviews with confidence.
 
+An Instrumentation Technician job falls under the skilled trades category of electrical work. Instrumentation Technicians are professionals who specialize in the installation, maintenance, and repair of electrical and electronic instruments used in various industrial settings. These technicians are responsible for ensuring the proper functioning of instruments that measure, monitor, and control the parameters of industrial processes, such as temperature, pressure, flow, and level. They work with a wide range of equipment, including sensors, transmitters, programmable logic controllers (PLCs), and calibration devices. Instrumentation Technicians possess strong technical skills, troubleshooting abilities, and a solid understanding of electrical principles, making them essential in maintaining the efficiency and safety of industrial operations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Instrumentation Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Instrumentation Technician interviews to help you prepare and succeed.

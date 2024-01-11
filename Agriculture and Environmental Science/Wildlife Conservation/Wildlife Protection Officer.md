@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife Protection Officer Interview Preparation ! This resource is designed to help you ace your Wildlife Protection Officer interviews with confidence.
 
+Agriculture and Environmental Science is the study of the relationship between agriculture and the environment, focusing on sustainable farming practices, conservation of natural resources, and the impact of agriculture on ecosystems. Wildlife Conservation is a crucial aspect of this field, aimed at preserving and protecting animal species and their habitats. As part of this conservation effort, Wildlife Protection Officers play a vital role. These professionals are responsible for enforcing wildlife protection laws, monitoring and controlling illegal activities such as poaching, ensuring the safety of wildlife habitats, and educating the public about conservation. They work closely with law enforcement agencies and conservation organizations to safeguard endangered species and maintain biodiversity.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Protection Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Protection Officer interviews to help you prepare and succeed.

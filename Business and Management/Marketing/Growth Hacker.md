@@ -2,6 +2,8 @@
 
 Welcome to the Growth Hacker Interview Preparation ! This resource is designed to help you ace your Growth Hacker interviews with confidence.
 
+A Growth Hacker job in the field of Business and Management focuses on the strategic implementation of marketing tactics to drive rapid growth for a company. Growth Hackers are responsible for finding innovative ways to attract and retain customers, increase brand awareness, and ultimately boost revenue. They possess a deep understanding of digital marketing tools, social media platforms, and data analytics to identify opportunities for growth. These professionals are highly creative, adaptable, and constantly seeking new and unconventional methods to optimize marketing campaigns. A Growth Hacker's expertise lies in their ability to think outside the box, experiment with different strategies, and deliver measurable results in a fast-paced and competitive business environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Growth Hacker or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Growth Hacker interviews to help you prepare and succeed.

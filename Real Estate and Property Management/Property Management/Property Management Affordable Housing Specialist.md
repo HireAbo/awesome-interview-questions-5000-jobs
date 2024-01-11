@@ -2,6 +2,8 @@
 
 Welcome to the Property Management Affordable Housing Specialist Interview Preparation ! This resource is designed to help you ace your Property Management Affordable Housing Specialist interviews with confidence.
 
+A Property Management Affordable Housing Specialist is a professional who specializes in managing affordable housing properties within the real estate industry. This role requires expertise in handling the unique challenges and regulations associated with affordable housing programs. The specialist is responsible for ensuring that properties comply with government guidelines and regulations, managing tenant applications and screenings, and maintaining accurate records of rental payments and subsidies. They also handle maintenance requests, resolve tenant issues, and oversee property inspections. The specialist works closely with property owners, government agencies, and social service organizations to provide affordable housing options to low-income individuals and families. Their goal is to create and maintain safe, comfortable, and affordable housing for those in need.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Property Management Affordable Housing Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Property Management Affordable Housing Specialist interviews to help you prepare and succeed.

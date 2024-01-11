@@ -2,6 +2,8 @@
 
 Welcome to the Archival Researcher Interview Preparation ! This resource is designed to help you ace your Archival Researcher interviews with confidence.
 
+Library and Information Science is a multidisciplinary field that focuses on the organization, preservation, and dissemination of information in various formats. Archiving is a crucial aspect of this field, involving the systematic collection, arrangement, and preservation of records and documents with historical, cultural, or legal significance. As an Archival Researcher, your role is to delve into these archives and utilize your research skills to uncover valuable information. Conducting thorough investigations, analyzing records, and documenting findings are essential tasks in this role. Archival Researchers play a vital role in preserving our collective memory and providing access to valuable historical resources for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Archival Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Archival Researcher interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife Data Analyst Interview Preparation ! This resource is designed to help you ace your Wildlife Data Analyst interviews with confidence.
 
+Agriculture and Environmental Science play a crucial role in understanding and sustaining our natural resources. It focuses on the study of plants, soils, water, and animals, aiming to optimize agricultural practices while minimizing environmental impacts. Within this field, Wildlife Conservation is a critical aspect that aims to protect and preserve endangered species and their habitats. As a Wildlife Data Analyst, your role will involve collecting, analyzing, and interpreting data related to wildlife populations, biodiversity, and habitat management. By utilizing advanced statistical and data analysis techniques, you will contribute to conservation strategies, ensuring the long-term survival and well-being of wildlife species in their natural ecosystems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Data Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Data Analyst interviews to help you prepare and succeed.

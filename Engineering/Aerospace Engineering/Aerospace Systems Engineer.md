@@ -2,6 +2,8 @@
 
 Welcome to the Aerospace Systems Engineer Interview Preparation ! This resource is designed to help you ace your Aerospace Systems Engineer interviews with confidence.
 
+Aerospace Systems Engineers play a crucial role in the field of Aerospace Engineering. They are responsible for designing, developing, and testing various aerospace systems, including aircraft, spacecraft, and missiles. These engineers work on different stages of the project, from conceptualization to implementation, ensuring the functionality, performance, and safety of the aerospace systems. They collaborate with a multidisciplinary team of professionals, including aerospace designers, technicians, and scientists, to analyze system requirements, conduct feasibility studies, and integrate advanced technologies. Aerospace Systems Engineers also contribute to the improvement of existing systems, troubleshoot issues, and ensure compliance with regulations and industry standards. Their expertise in aerospace systems engineering drives innovation and advancements in the aerospace industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Aerospace Systems Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Aerospace Systems Engineer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Ad Trafficker Interview Preparation ! This resource is designed to help you ace your Ad Trafficker interviews with confidence.
 
+An Ad Trafficker is a professional responsible for managing the technical aspects of digital advertising campaigns. They play a crucial role in the advertising industry by ensuring that ads are delivered accurately and effectively to the target audience. Ad Traffickers work closely with clients, creative teams, and media planners to implement advertising strategies and optimize campaign performance. They are proficient in using various ad-serving platforms and have a strong understanding of digital marketing metrics. Ad Traffickers possess excellent attention to detail, communication skills, and the ability to work under tight deadlines. They are instrumental in ensuring the success of advertising campaigns by delivering ads to the right audience at the right time.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Ad Trafficker or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Ad Trafficker interviews to help you prepare and succeed.

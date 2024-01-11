@@ -2,6 +2,8 @@
 
 Welcome to the Economic Development Specialist Interview Preparation ! This resource is designed to help you ace your Economic Development Specialist interviews with confidence.
 
+A Social Sciences - Economics - Economic Development Specialist is a professional who focuses on analyzing and developing strategies to enhance economic growth and improve living standards within a specific region or community. They possess a deep understanding of economic theories, policies, and practices, and are adept at conducting research and gathering data to assess the socio-economic conditions and identify areas for improvement. Economic Development Specialists collaborate with government organizations, non-profit entities, and private businesses to design and implement programs that stimulate economic activity, attract investments, create jobs, and foster sustainable development. They also provide expert advice on economic policies and assist in formulating strategies to address various challenges and promote inclusive growth.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Economic Development Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Economic Development Specialist interviews to help you prepare and succeed.

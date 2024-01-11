@@ -2,6 +2,8 @@
 
 Welcome to the Dance Historian Interview Preparation ! This resource is designed to help you ace your Dance Historian interviews with confidence.
 
+A Dance Historian is a professional who specializes in the study and documentation of the history of dance. This role involves extensive research, analysis, and interpretation of various dance forms, styles, and movements throughout different periods of time. Dance Historians are responsible for uncovering and preserving the rich cultural heritage associated with dance, as well as documenting the evolution and impact of dance on society. They often collaborate with other professionals in the field, such as choreographers, dancers, and scholars, to ensure accurate and comprehensive historical accounts. Additionally, Dance Historians may also contribute to educational programs, exhibitions, and publications to share their knowledge and passion for dance history with the public.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Dance Historian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Dance Historian interviews to help you prepare and succeed.

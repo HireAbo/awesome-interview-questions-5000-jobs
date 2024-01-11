@@ -2,6 +2,8 @@
 
 Welcome to the Naval Aviator Interview Preparation ! This resource is designed to help you ace your Naval Aviator interviews with confidence.
 
+Government and Public Service encompasses various sectors, including the military. Military Service, in particular, offers a unique opportunity to serve one's country and protect its interests. Within the military, the Naval Aviator job holds a distinct role and responsibility. Naval Aviators are highly trained officers who operate aircraft from naval ships and bases, ensuring the security and defense of their nation's maritime interests. These professionals undergo rigorous training, acquiring expertise in aviation, navigation, and combat tactics. Naval Aviators play a vital role in reconnaissance, surveillance, air strikes, and air support operations, contributing to the overall military strength and safeguarding national security.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Naval Aviator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Naval Aviator interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Curriculum Project Manager Interview Preparation ! This resource is designed to help you ace your Curriculum Project Manager interviews with confidence.
 
+A Curriculum Project Manager plays a crucial role in the field of education, specifically in curriculum development. This job involves overseeing and managing the entire curriculum creation process, from conceptualization to implementation. The Curriculum Project Manager collaborates with various stakeholders, including subject matter experts, instructional designers, teachers, and administrators, to develop a comprehensive and effective curriculum that aligns with educational goals and standards. They work on creating and modifying curriculum materials, coordinating curriculum revisions, and ensuring that the curriculum meets the needs of students and teachers. Strong leadership, organizational, and communication skills are vital for success in this role, as the Curriculum Project Manager is responsible for guiding and coordinating a team towards the successful execution of curriculum development projects.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Curriculum Project Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Curriculum Project Manager interviews to help you prepare and succeed.

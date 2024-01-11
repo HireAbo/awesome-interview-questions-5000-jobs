@@ -2,6 +2,8 @@
 
 Welcome to the Crisis Intervention Counselor Interview Preparation ! This resource is designed to help you ace your Crisis Intervention Counselor interviews with confidence.
 
+A crisis intervention counselor in the field of school counseling is a professional who specializes in providing support and guidance to students during times of crisis. These crises can range from personal issues such as mental health struggles, substance abuse, or family problems, to larger-scale emergencies like bullying, violence, or natural disasters. Crisis intervention counselors play a crucial role in schools by assessing and responding to these situations, offering immediate assistance, and connecting students with appropriate resources. They work closely with students, families, and school staff to ensure the safety and well-being of all individuals involved. Through their expertise and compassionate approach, crisis intervention counselors contribute to creating a safe and supportive learning environment for students.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Crisis Intervention Counselor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Crisis Intervention Counselor interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Supply Chain Specialist Interview Preparation ! This resource is designed to help you ace your Supply Chain Specialist interviews with confidence.
 
+A Supply Chain Specialist is a professional responsible for overseeing the movement of goods and materials from the point of origin to the final destination. They play a crucial role in the field of Transportation and Logistics, specifically within Supply Chain Management. Supply Chain Specialists collaborate with various stakeholders, including suppliers, manufacturers, distributors, and retailers, to ensure the efficient flow of products throughout the entire supply chain process. Their responsibilities include inventory management, demand forecasting, coordinating shipments, optimizing transportation routes, and implementing cost-effective strategies. They also analyze data, monitor performance, and identify areas for improvement to enhance the supply chain's overall efficiency and effectiveness. A Supply Chain Specialist must possess excellent communication, analytical, and problem-solving skills to successfully navigate the complex logistics landscape.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Supply Chain Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Supply Chain Specialist interviews to help you prepare and succeed.

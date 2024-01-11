@@ -2,6 +2,8 @@
 
 Welcome to the Animal Behaviorist Interview Preparation ! This resource is designed to help you ace your Animal Behaviorist interviews with confidence.
 
+Animal behaviorists are scientists who study the behavior of animals to understand their instincts, communication patterns, and social interactions. This field of biology focuses on observing and analyzing the behavior of various animal species, ranging from domestic pets to wild animals. Animal behaviorists conduct research to uncover the underlying reasons behind specific behaviors, such as mating rituals, aggression, and territoriality. By studying animal behavior, they aim to gain insights into evolutionary processes, ecological relationships, and the impact of human activities on animals. These professionals often work in research institutions, zoos, or conservation organizations, using their knowledge to develop strategies for animal conservation and welfare.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Animal Behaviorist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Animal Behaviorist interviews to help you prepare and succeed.

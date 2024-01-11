@@ -2,6 +2,8 @@
 
 Welcome to the Asset Manager Interview Preparation ! This resource is designed to help you ace your Asset Manager interviews with confidence.
 
+An Asset Manager plays a crucial role in the field of Business and Management, specifically in the realm of Finance. As a highly skilled financial professional, an Asset Manager is responsible for overseeing and maximizing the value of a company's assets. This includes managing various types of investments, such as stocks, bonds, real estate, and other financial instruments. Asset Managers analyze market trends, conduct research, and develop investment strategies to ensure the optimal allocation of assets. They also monitor and evaluate investment performance, make recommendations for portfolio adjustments, and provide guidance to clients or stakeholders. With their expertise in financial planning and risk management, Asset Managers play a vital role in helping organizations achieve their financial objectives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Asset Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Asset Manager interviews to help you prepare and succeed.

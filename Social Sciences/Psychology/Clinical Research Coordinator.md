@@ -2,6 +2,8 @@
 
 Welcome to the Clinical Research Coordinator Interview Preparation ! This resource is designed to help you ace your Clinical Research Coordinator interviews with confidence.
 
+A Clinical Research Coordinator (CRC) plays a crucial role in the field of psychology within the realm of social sciences. As a CRC, individuals are responsible for supporting and managing clinical research projects conducted in various settings, such as hospitals, universities, or private research facilities. They collaborate with other researchers, psychologists, and medical professionals to ensure the smooth execution of studies and experiments. CRCs oversee participant recruitment, data collection, and analysis, as well as ensuring compliance with ethical guidelines and regulatory requirements. Their work is instrumental in advancing psychological knowledge and improving treatments and interventions for various mental health conditions. A career as a Clinical Research Coordinator offers an exciting opportunity to contribute to the field of psychology and make a meaningful impact on individuals' well-being.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Clinical Research Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Clinical Research Coordinator interviews to help you prepare and succeed.

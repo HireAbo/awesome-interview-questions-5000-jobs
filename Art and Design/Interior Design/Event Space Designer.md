@@ -2,6 +2,8 @@
 
 Welcome to the Event Space Designer Interview Preparation ! This resource is designed to help you ace your Event Space Designer interviews with confidence.
 
+An Event Space Designer is a professional who specializes in creating visually captivating and functional spaces for various events. They possess a unique blend of artistic creativity and practicality, transforming ordinary venues into extraordinary environments. These designers possess a keen eye for detail and a deep understanding of aesthetics, color schemes, lighting, and spatial arrangements. They work closely with clients to understand their vision and objectives, conceptualizing and executing designs that align with the event's theme and purpose. Event Space Designers also consider factors such as traffic flow, acoustics, and safety regulations to ensure a seamless and memorable experience for attendees. Their expertise adds a touch of sophistication and elegance to any event, making it an unforgettable affair.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Event Space Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Event Space Designer interviews to help you prepare and succeed.

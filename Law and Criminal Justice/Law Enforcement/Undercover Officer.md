@@ -2,6 +2,8 @@
 
 Welcome to the Undercover Officer Interview Preparation ! This resource is designed to help you ace your Undercover Officer interviews with confidence.
 
+An undercover officer is a crucial role within the field of law enforcement and criminal justice. These officers work covertly to infiltrate criminal organizations, gather intelligence, and collect evidence to combat crime effectively. Their primary objective is to establish trust and build relationships with criminals to gain information and prevent criminal activities. Undercover officers must possess exceptional communication and acting skills to maintain their cover identity while gathering critical evidence. They often work in dangerous and high-risk situations, requiring them to be quick-thinking, adaptable, and highly observant. The work of undercover officers is vital in dismantling criminal networks, ensuring public safety, and upholding the principles of justice within society.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Undercover Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Undercover Officer interviews to help you prepare and succeed.

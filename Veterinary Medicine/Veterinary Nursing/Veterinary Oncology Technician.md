@@ -2,6 +2,8 @@
 
 Welcome to the Veterinary Oncology Technician Interview Preparation ! This resource is designed to help you ace your Veterinary Oncology Technician interviews with confidence.
 
+Veterinary Medicine is a field dedicated to the health and well-being of animals. Within this broad discipline, Veterinary Nursing focuses on providing essential care and support to animals under the supervision of veterinarians. A specialized role within Veterinary Nursing is that of a Veterinary Oncology Technician. These professionals play a crucial role in the diagnosis, treatment, and management of cancer in animals. They assist veterinarians in administering chemotherapy, monitoring patient responses, and ensuring the overall well-being of animals undergoing oncology treatments. Veterinary Oncology Technicians possess a deep understanding of cancer biology, treatment protocols, and possess excellent communication skills to educate and support pet owners during this challenging time.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Veterinary Oncology Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Veterinary Oncology Technician interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Biorepository Manager Interview Preparation ! This resource is designed to help you ace your Biorepository Manager interviews with confidence.
 
+A Biorepository Manager plays a crucial role in the field of healthcare and medicine, specifically in the area of medical research. As a Biorepository Manager, you are responsible for overseeing the collection, storage, and management of biological samples, such as blood, tissue, and DNA, for future research purposes. This role requires strong organizational skills to ensure proper cataloging and documentation of samples, as well as the ability to maintain sample quality and integrity throughout the storage process. Biorepository Managers also collaborate with researchers, ensuring that samples are available for their studies and following ethical guidelines for sample usage. This position contributes significantly to advancing medical knowledge and improving patient care through the facilitation of high-quality research.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Biorepository Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Biorepository Manager interviews to help you prepare and succeed.

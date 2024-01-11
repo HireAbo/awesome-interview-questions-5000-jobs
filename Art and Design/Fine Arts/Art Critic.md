@@ -2,6 +2,8 @@
 
 Welcome to the Art Critic Interview Preparation ! This resource is designed to help you ace your Art Critic interviews with confidence.
 
+An art critic plays a pivotal role in the world of art and design, specifically in the field of fine arts. With a keen eye for aesthetics and a deep understanding of artistic techniques, an art critic engages in the analysis and evaluation of various art forms. They provide valuable insights and interpretations of artworks, helping the audience to better appreciate and understand the artist's intentions and creative choices. Through their expertise, art critics contribute to the development and growth of the art community, influencing trends and shaping public opinion. Their critical assessments often bridge the gap between artists and viewers, fostering a dialogue that enriches the artistic experience for all.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Art Critic or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Art Critic interviews to help you prepare and succeed.

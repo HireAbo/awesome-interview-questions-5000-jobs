@@ -2,6 +2,8 @@
 
 Welcome to the Court Clerk Interview Preparation ! This resource is designed to help you ace your Court Clerk interviews with confidence.
 
+Law and Criminal Justice encompasses a wide range of career opportunities, including the roles of Paralegal and Court Clerk. As a Paralegal, you would be an essential member of a legal team, providing crucial support to attorneys by conducting legal research, drafting legal documents, and assisting in case preparation. Your expertise in legal procedures and knowledge of relevant laws would be instrumental in ensuring the smooth functioning of legal proceedings. On the other hand, as a Court Clerk, you would be responsible for managing court records, scheduling hearings, and facilitating the administrative aspects of the court system. Both roles require strong organizational skills, attention to detail, and a deep understanding of the legal system.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Court Clerk or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Court Clerk interviews to help you prepare and succeed.

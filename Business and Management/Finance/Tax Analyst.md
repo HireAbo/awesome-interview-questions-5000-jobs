@@ -2,6 +2,8 @@
 
 Welcome to the Tax Analyst Interview Preparation ! This resource is designed to help you ace your Tax Analyst interviews with confidence.
 
+A Tax Analyst is a professional who plays a crucial role in the field of Business and Management, specifically in Finance. Their main responsibility is to analyze and interpret tax laws and regulations to ensure compliance and minimize tax liabilities for businesses and individuals. Tax Analysts provide valuable advice and guidance on tax planning, preparation, and filing, helping organizations optimize their financial resources while adhering to legal requirements. They possess a deep understanding of tax codes and regulations, conducting thorough research and analysis to identify potential tax savings opportunities. With their expertise, Tax Analysts contribute significantly to the financial success and stability of businesses by efficiently managing tax-related matters.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Tax Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Tax Analyst interviews to help you prepare and succeed.

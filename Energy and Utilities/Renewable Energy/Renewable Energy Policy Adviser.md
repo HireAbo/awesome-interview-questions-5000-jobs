@@ -2,6 +2,8 @@
 
 Welcome to the Renewable Energy Policy Adviser Interview Preparation ! This resource is designed to help you ace your Renewable Energy Policy Adviser interviews with confidence.
 
+A Renewable Energy Policy Adviser plays a crucial role in shaping and implementing policies related to renewable energy. Their main responsibility is to provide advisory support and expertise to government agencies, energy companies, and other stakeholders. These professionals are responsible for analyzing and evaluating the economic, social, and environmental impacts of renewable energy policies. They also conduct research, monitor industry trends, and recommend strategies to promote the development and adoption of renewable energy technologies. A Renewable Energy Policy Adviser collaborates with various stakeholders to ensure the alignment of policies with national and international goals for sustainable energy. They play a vital role in driving the transition towards a greener and more sustainable energy future.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Renewable Energy Policy Adviser or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Renewable Energy Policy Adviser interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Sports Psychology Consultant Interview Preparation ! This resource is designed to help you ace your Sports Psychology Consultant interviews with confidence.
 
+A Sports Psychology Consultant is a professional who specializes in the mental and emotional aspects of sports and athletics. They provide guidance and support to athletes, coaches, and teams to enhance performance, improve mental toughness, and achieve optimal results. These consultants work closely with athletes of all levels, from amateurs to professionals, helping them develop mental skills such as focus, confidence, motivation, and resilience. Additionally, they assist in overcoming performance anxiety, managing stress, and coping with pressure. A Sports Psychology Consultant may also collaborate with coaches and trainers to create effective strategies for team dynamics, leadership, and communication. Ultimately, their expertise contributes to the overall success and well-being of athletes and teams.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sports Psychology Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sports Psychology Consultant interviews to help you prepare and succeed.

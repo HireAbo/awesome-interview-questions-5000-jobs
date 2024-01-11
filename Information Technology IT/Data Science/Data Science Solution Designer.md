@@ -2,6 +2,8 @@
 
 Welcome to the Data Science Solution Designer Interview Preparation ! This resource is designed to help you ace your Data Science Solution Designer interviews with confidence.
 
+Information Technology (IT) is the field that encompasses the use, development, and management of computer systems, software, and networks to store, process, transmit, and retrieve information. Within IT, Data Science is a specialized discipline that focuses on extracting insights and knowledge from large volumes of structured and unstructured data. As a Data Science Solution Designer, you would be responsible for designing and implementing data-driven solutions to address complex business problems. This role requires expertise in statistical analysis, machine learning, programming, and data visualization. The Data Science Solution Designer collaborates with stakeholders to understand requirements, develops data models, and creates algorithms to extract meaningful information from data, ultimately driving decision-making and improving business outcomes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Science Solution Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Science Solution Designer interviews to help you prepare and succeed.

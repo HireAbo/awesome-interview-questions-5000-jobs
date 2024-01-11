@@ -2,6 +2,8 @@
 
 Welcome to the Group Travel Specialist Interview Preparation ! This resource is designed to help you ace your Group Travel Specialist interviews with confidence.
 
+A Group Travel Specialist within the field of Hospitality and Tourism Travel Services plays a vital role in organizing and coordinating group travel arrangements for various organizations and clients. They are responsible for planning, booking, and managing all aspects of group travel, including transportation, accommodation, meals, and activities. Group Travel Specialists work closely with clients to understand their specific needs and preferences, ensuring a seamless and enjoyable experience for all participants. They negotiate contracts with travel suppliers, handle logistics, and provide guidance and support throughout the entire travel process. With excellent organizational and communication skills, Group Travel Specialists contribute to creating unforgettable group travel experiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Group Travel Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Group Travel Specialist interviews to help you prepare and succeed.

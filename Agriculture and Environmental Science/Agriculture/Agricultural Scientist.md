@@ -2,6 +2,8 @@
 
 Welcome to the Agricultural Scientist Interview Preparation ! This resource is designed to help you ace your Agricultural Scientist interviews with confidence.
 
+Agriculture is the practice of cultivating plants and rearing animals for food, fiber, medicinal plants, and other products used to sustain and enhance human life. It is a vital industry that plays a crucial role in feeding and nourishing the growing global population. Environmental Science in agriculture focuses on studying the impact of farming practices on the environment. Agricultural Scientists are professionals who apply scientific principles and techniques to improve agricultural productivity, sustainability, and environmental conservation. They conduct research, develop innovative farming techniques, and analyze data to optimize crop yields, manage pests and diseases, conserve natural resources, and promote sustainable farming practices. Their work is essential for ensuring a thriving agricultural sector that is environmentally friendly and economically viable.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Agricultural Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Agricultural Scientist interviews to help you prepare and succeed.

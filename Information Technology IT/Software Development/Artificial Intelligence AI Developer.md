@@ -2,6 +2,8 @@
 
 Welcome to the Artificial Intelligence (AI) Developer Interview Preparation ! This resource is designed to help you ace your Artificial Intelligence (AI) Developer interviews with confidence.
 
+An Artificial Intelligence (AI) Developer is a skilled professional who specializes in creating and implementing AI technology. As an AI Developer, you will be responsible for designing, developing, and maintaining AI-based software applications and systems. Your primary focus will be to build intelligent machines that can simulate human intelligence and perform tasks such as speech recognition, image processing, natural language processing, and decision-making. You will work closely with data scientists and software engineers to identify business needs and develop innovative AI solutions. Strong programming skills, knowledge of machine learning algorithms, and experience in software development are essential for this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Artificial Intelligence (AI) Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Artificial Intelligence (AI) Developer interviews to help you prepare and succeed.

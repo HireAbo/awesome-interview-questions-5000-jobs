@@ -2,6 +2,8 @@
 
 Welcome to the Autism Specialist Interview Preparation ! This resource is designed to help you ace your Autism Specialist interviews with confidence.
 
+An Autism Specialist is a professional who specializes in working with individuals on the autism spectrum. They play a crucial role in the field of special education, providing support, guidance, and tailored interventions to individuals with autism. These specialists have a deep understanding of the unique challenges faced by individuals with autism and are equipped with strategies to address their behavioral, communication, and social skill deficits. They work closely with students, their families, and other members of the educational team to develop individualized education plans, implement evidence-based interventions, and monitor progress. Autism Specialists also collaborate with other professionals to provide a supportive and inclusive learning environment for students with autism.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Autism Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Autism Specialist interviews to help you prepare and succeed.

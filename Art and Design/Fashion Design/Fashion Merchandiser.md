@@ -2,6 +2,8 @@
 
 Welcome to the Fashion Merchandiser Interview Preparation ! This resource is designed to help you ace your Fashion Merchandiser interviews with confidence.
 
+A Fashion Merchandiser plays a crucial role in the world of fashion design by bridging the gap between art and commerce. As an integral part of the fashion industry, their primary responsibility is to analyze market trends and consumer behavior to develop strategies that maximize sales and profitability. They work closely with fashion designers to determine which designs and collections will resonate with consumers and drive sales. Additionally, Fashion Merchandisers are responsible for overseeing the purchasing, pricing, and display of fashion products in retail stores, ensuring they align with the brand's image and target market. This dynamic role requires a keen eye for aesthetics, strong analytical skills, and a deep understanding of the fashion industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Fashion Merchandiser or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Fashion Merchandiser interviews to help you prepare and succeed.

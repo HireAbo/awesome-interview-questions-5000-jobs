@@ -2,6 +2,8 @@
 
 Welcome to the City Planner Interview Preparation ! This resource is designed to help you ace your City Planner interviews with confidence.
 
+Government and Public Service involves the management and provision of public services to the citizens of a country or community. Public Administration, a crucial component of this field, focuses on the efficient and effective implementation of government policies and programs. Within this domain, the role of a City Planner is of utmost importance. A City Planner is responsible for creating and implementing plans for the development and improvement of urban areas. They analyze various factors such as population growth, infrastructure requirements, and environmental considerations to ensure sustainable and well-designed cities. City Planners collaborate with government officials, architects, engineers, and community members to shape the future of cities and enhance the quality of life for its residents.
+
 ## 🚀 Overview
 
 Whether you're a seasoned City Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in City Planner interviews to help you prepare and succeed.

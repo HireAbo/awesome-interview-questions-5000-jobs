@@ -2,6 +2,8 @@
 
 Welcome to the Network Project Manager Interview Preparation ! This resource is designed to help you ace your Network Project Manager interviews with confidence.
 
+The field of Information Technology (IT) encompasses various disciplines, and Network Engineering is one of its key domains. Network Engineering involves designing, implementing, and managing computer networks to ensure efficient communication and connectivity within an organization. Within this field, the role of a Network Project Manager is crucial in overseeing the successful execution of network projects. A Network Project Manager is responsible for coordinating and leading a team of network engineers, ensuring that projects are completed within budget, scope, and timeline. They also collaborate with stakeholders to gather requirements, create project plans, allocate resources, mitigate risks, and monitor project progress. Strong technical knowledge, leadership skills, and the ability to manage complex projects are essential for this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Network Project Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Network Project Manager interviews to help you prepare and succeed.

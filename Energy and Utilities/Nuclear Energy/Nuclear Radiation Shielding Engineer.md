@@ -2,6 +2,8 @@
 
 Welcome to the Nuclear Radiation Shielding Engineer Interview Preparation ! This resource is designed to help you ace your Nuclear Radiation Shielding Engineer interviews with confidence.
 
+A Nuclear Radiation Shielding Engineer is a professional responsible for designing and implementing protective measures against the harmful effects of nuclear radiation. This specialized role falls under the Energy and Utilities sector, specifically in the field of Nuclear Energy. These engineers play a crucial role in ensuring the safety and efficiency of nuclear power plants, research facilities, and other nuclear-related operations. They utilize their expertise in physics, engineering principles, and radiation science to develop shield designs and evaluate materials for radiation protection. Additionally, they conduct thorough risk assessments, analyze data, and collaborate with fellow engineers and stakeholders to ensure compliance with safety regulations and standards.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nuclear Radiation Shielding Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nuclear Radiation Shielding Engineer interviews to help you prepare and succeed.

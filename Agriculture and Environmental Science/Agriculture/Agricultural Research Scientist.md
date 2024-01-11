@@ -2,6 +2,8 @@
 
 Welcome to the Agricultural Research Scientist Interview Preparation ! This resource is designed to help you ace your Agricultural Research Scientist interviews with confidence.
 
+Agriculture is a vital practice that involves cultivating plants and rearing animals for food, fiber, medicinal plants, and other products used to sustain human life. It plays a crucial role in meeting global food demands and ensuring food security for the growing population. Agricultural research scientists are professionals who contribute significantly to the agricultural industry by conducting research and experiments to improve farming practices, crop yields, disease resistance, livestock production, and environmental sustainability. They work to develop innovative technologies, techniques, and strategies to enhance agricultural productivity while minimizing negative environmental impacts. These scientists collaborate with farmers, policymakers, and other stakeholders to implement sustainable and efficient agricultural practices that promote economic growth and protect the environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Agricultural Research Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Agricultural Research Scientist interviews to help you prepare and succeed.

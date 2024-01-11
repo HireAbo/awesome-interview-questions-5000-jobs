@@ -2,6 +2,8 @@
 
 Welcome to the Biostatistician Interview Preparation ! This resource is designed to help you ace your Biostatistician interviews with confidence.
 
+A biostatistician is a crucial professional in the field of biology research. They apply statistical methods to analyze and interpret biological data, helping researchers draw meaningful conclusions and make informed decisions. Biostatisticians play a vital role in designing research studies, collecting and organizing data, developing statistical models, and conducting statistical analyses. Their expertise ensures the accuracy and validity of research findings, providing critical insights into various biological phenomena. Biostatisticians collaborate closely with biologists, epidemiologists, and other scientists, contributing to the advancement of knowledge in areas like disease patterns, drug development, genetics, and public health. Their work is essential in improving human health outcomes and shaping future biological research.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Biostatistician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Biostatistician interviews to help you prepare and succeed.

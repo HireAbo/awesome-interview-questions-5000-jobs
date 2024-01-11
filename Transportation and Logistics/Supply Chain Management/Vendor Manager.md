@@ -2,6 +2,8 @@
 
 Welcome to the Vendor Manager Interview Preparation ! This resource is designed to help you ace your Vendor Manager interviews with confidence.
 
+A Vendor Manager in the field of Transportation and Logistics, specifically in Supply Chain Management, is responsible for overseeing the relationships and operations between a company and its vendors or suppliers. This role plays a crucial part in ensuring the smooth flow of goods and services through the supply chain. The Vendor Manager is responsible for negotiating contracts, monitoring vendor performance, and managing any issues that may arise. They work closely with various departments, including procurement, operations, and finance, to ensure that the company's supply chain functions efficiently. Effective communication, strong negotiation skills, and a deep understanding of logistics and supply chain processes are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Vendor Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Vendor Manager interviews to help you prepare and succeed.

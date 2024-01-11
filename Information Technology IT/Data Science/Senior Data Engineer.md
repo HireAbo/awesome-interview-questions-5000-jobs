@@ -2,6 +2,8 @@
 
 Welcome to the Senior Data Engineer Interview Preparation ! This resource is designed to help you ace your Senior Data Engineer interviews with confidence.
 
+Information Technology (IT) is a field that encompasses the use, development, and management of computer-based systems, software, and technology to store, process, transmit, and retrieve information. Within the IT field, there is a specialized area called Data Science. Data Science is the practice of extracting insights and knowledge from large and complex datasets using statistical, mathematical, and programming techniques. A Senior Data Engineer is a professional within the Data Science field who specializes in designing, developing, and managing the infrastructure and systems required to store, process, and analyze large volumes of data. They are responsible for building and maintaining data pipelines, data warehouses, and implementing data governance practices to ensure data integrity and security. Their expertise is crucial in enabling organizations to make data-driven decisions and extract meaningful insights from their data.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Senior Data Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Senior Data Engineer interviews to help you prepare and succeed.

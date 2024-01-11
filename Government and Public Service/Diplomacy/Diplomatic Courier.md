@@ -2,6 +2,8 @@
 
 Welcome to the Diplomatic Courier Interview Preparation ! This resource is designed to help you ace your Diplomatic Courier interviews with confidence.
 
+A Diplomatic Courier is an essential role within the field of diplomacy and government public service. These professionals are responsible for securely transporting sensitive and classified materials, documents, and equipment between diplomatic missions, embassies, and government agencies worldwide. Diplomatic Couriers play a crucial role in ensuring the safe and efficient exchange of information and resources for diplomats and government officials. They must possess exceptional organizational skills, attention to detail, and the ability to adapt to dynamic environments. Their work requires extensive travel and a deep understanding of international protocols and customs. Diplomatic Couriers are dedicated individuals who contribute to the smooth functioning of diplomatic relations and the preservation of national security.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Diplomatic Courier or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Diplomatic Courier interviews to help you prepare and succeed.

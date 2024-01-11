@@ -2,6 +2,8 @@
 
 Welcome to the Physical Education Curriculum Developer Interview Preparation ! This resource is designed to help you ace your Physical Education Curriculum Developer interviews with confidence.
 
+A Physical Education Curriculum Developer is responsible for designing and implementing physical education programs that promote physical activity and overall wellness among students. This role involves creating engaging and age-appropriate lessons, activities, and assessments to enhance students' motor skills, fitness, and knowledge of sports and athletics. The curriculum developer collaborates with teachers, administrators, and other stakeholders to align the curriculum with educational standards and goals. They also conduct research to stay updated with current trends and advances in physical education. This role requires strong organizational and communication skills, as well as a passion for promoting healthy lifestyles through sports and athletics.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Physical Education Curriculum Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Physical Education Curriculum Developer interviews to help you prepare and succeed.

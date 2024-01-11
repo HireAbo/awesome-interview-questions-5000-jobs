@@ -2,6 +2,8 @@
 
 Welcome to the Security Engineer Interview Preparation ! This resource is designed to help you ace your Security Engineer interviews with confidence.
 
+A Security Engineer in the field of Information Technology (IT) Software Development is responsible for ensuring the safety and protection of computer systems, networks, and data from potential threats and breaches. They play a pivotal role in designing and implementing security measures to safeguard sensitive information and prevent unauthorized access. Security Engineers analyze potential risks, identify vulnerabilities, and develop strategies to mitigate security threats. They work closely with software developers to integrate security features into applications and systems, conduct regular security assessments, and respond promptly to any security incidents. A Security Engineer possesses strong technical skills, knowledge of emerging security trends, and the ability to create robust security solutions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Security Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Security Engineer interviews to help you prepare and succeed.

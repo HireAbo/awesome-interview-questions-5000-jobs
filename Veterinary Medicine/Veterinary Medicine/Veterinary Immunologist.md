@@ -2,6 +2,8 @@
 
 Welcome to the Veterinary Immunologist Interview Preparation ! This resource is designed to help you ace your Veterinary Immunologist interviews with confidence.
 
+A Veterinary Immunologist is a specialized professional in the field of Veterinary Medicine who focuses on diagnosing and treating diseases related to the immune system of animals. These professionals play a crucial role in safeguarding the health and well-being of animals by studying and understanding their immune responses to different pathogens. They are responsible for conducting laboratory tests, analyzing data, and developing effective vaccines and immunotherapies to combat various diseases that affect animals. Veterinary Immunologists work closely with veterinarians, researchers, and pharmaceutical companies to develop new treatment strategies and enhance animal health. Their expertise contributes significantly to the advancement of Veterinary Medicine and the overall welfare of animals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Veterinary Immunologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Veterinary Immunologist interviews to help you prepare and succeed.

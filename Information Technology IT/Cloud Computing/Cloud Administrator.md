@@ -2,6 +2,8 @@
 
 Welcome to the Cloud Administrator Interview Preparation ! This resource is designed to help you ace your Cloud Administrator interviews with confidence.
 
+Information Technology (IT) is a vast field that deals with the management, storage, and retrieval of information using various technologies. One prominent aspect of IT is cloud computing, which is the delivery of computing services over the internet. Cloud computing enables businesses to store and access data, applications, and resources remotely, eliminating the need for physical infrastructure. In this digital era, the role of a Cloud Administrator has become crucial. A Cloud Administrator is responsible for overseeing and managing the cloud infrastructure, including servers, storage, networks, and security. They play a vital role in ensuring the smooth operation, maintenance, and scalability of cloud-based systems, maximizing efficiency and minimizing downtime for organizations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cloud Administrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cloud Administrator interviews to help you prepare and succeed.

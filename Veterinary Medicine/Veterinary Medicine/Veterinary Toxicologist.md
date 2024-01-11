@@ -2,6 +2,8 @@
 
 Welcome to the Veterinary Toxicologist Interview Preparation ! This resource is designed to help you ace your Veterinary Toxicologist interviews with confidence.
 
+Veterinary Medicine is a specialized field that focuses on the health and well-being of animals. Within this broad discipline, the role of a Veterinary Toxicologist holds great importance. Veterinary Toxicologists are experts in identifying, diagnosing, and treating animals that have been exposed to harmful substances or toxins. Their primary responsibility is to assess the impact of these toxins on animals, provide immediate medical intervention, and develop strategies to prevent future occurrences. They collaborate with other professionals, such as veterinarians, researchers, and regulatory agencies, to conduct thorough investigations, determine the cause of toxicity, and develop effective treatment protocols. Veterinary Toxicologists play a vital role in safeguarding the health of animals and preventing potential harm caused by toxic substances.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Veterinary Toxicologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Veterinary Toxicologist interviews to help you prepare and succeed.

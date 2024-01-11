@@ -2,6 +2,8 @@
 
 Welcome to the Rooms Division Manager Interview Preparation ! This resource is designed to help you ace your Rooms Division Manager interviews with confidence.
 
+A Rooms Division Manager plays a crucial role in the hospitality and tourism industry, specifically in hotel management. Responsible for overseeing the day-to-day operations of a hotel's various departments, such as front office, housekeeping, reservations, and guest services, this role ensures smooth functioning and exceptional guest experiences. The Rooms Division Manager is in charge of managing staff, coordinating schedules, implementing policies and procedures, and ensuring high levels of customer satisfaction. They must possess excellent communication, leadership, and problem-solving skills, as well as a keen eye for detail. With a focus on delivering exceptional service and maintaining the hotel's reputation, a Rooms Division Manager contributes significantly to the success of the hotel and the overall guest experience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Rooms Division Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Rooms Division Manager interviews to help you prepare and succeed.

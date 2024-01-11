@@ -2,6 +2,8 @@
 
 Welcome to the Stylist Interview Preparation ! This resource is designed to help you ace your Stylist interviews with confidence.
 
+A Stylist is a professional in the field of fashion design who plays a crucial role in creating and defining a person's individual style. They are responsible for selecting clothing, accessories, and makeup to create a desired look for various occasions, such as photo shoots, fashion shows, or personal styling sessions. A Stylist possesses a deep understanding of current fashion trends, an eye for aesthetics, and excellent communication skills to effectively collaborate with clients, models, photographers, and other industry professionals. They must also have a keen attention to detail and the ability to create visually stunning and cohesive outfits that reflect the client's personality and enhance their overall appearance.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Stylist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Stylist interviews to help you prepare and succeed.

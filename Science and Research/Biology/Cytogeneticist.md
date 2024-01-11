@@ -2,6 +2,8 @@
 
 Welcome to the Cytogeneticist Interview Preparation ! This resource is designed to help you ace your Cytogeneticist interviews with confidence.
 
+A Cytogeneticist is a specialized scientist who focuses on the study of chromosomes and their role in genetic disorders and diseases. This field of biology, known as Cytogenetics, combines the principles of genetics and cell biology to understand the structure, function, and behavior of chromosomes. Cytogeneticists use various techniques, such as karyotyping, fluorescence in situ hybridization (FISH), and molecular genetic testing, to analyze and interpret chromosomal abnormalities. They play a crucial role in the diagnosis, prognosis, and treatment of genetic conditions, as well as in the advancement of genetic research. Cytogeneticists work in research laboratories, hospitals, and academic institutions, contributing to scientific breakthroughs and improving our understanding of human genetics.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cytogeneticist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cytogeneticist interviews to help you prepare and succeed.

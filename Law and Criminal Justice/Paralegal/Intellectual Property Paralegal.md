@@ -2,6 +2,8 @@
 
 Welcome to the Intellectual Property Paralegal Interview Preparation ! This resource is designed to help you ace your Intellectual Property Paralegal interviews with confidence.
 
+A career in Intellectual Property Paralegal offers a unique opportunity to work within the legal field, specializing in the area of intellectual property law. As an Intellectual Property Paralegal, you will play a crucial role in assisting attorneys with various tasks related to patents, trademarks, copyrights, and trade secrets. This may involve conducting research, drafting legal documents, and managing intellectual property portfolios. Additionally, you will work closely with clients, helping them protect their intellectual property rights and providing guidance on legal strategies. With a deep understanding of intellectual property laws and regulations, as well as excellent organizational and research skills, you will contribute to the success of clients in this fast-paced and dynamic field.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Intellectual Property Paralegal or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Intellectual Property Paralegal interviews to help you prepare and succeed.

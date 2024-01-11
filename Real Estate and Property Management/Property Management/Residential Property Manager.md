@@ -2,6 +2,8 @@
 
 Welcome to the Residential Property Manager Interview Preparation ! This resource is designed to help you ace your Residential Property Manager interviews with confidence.
 
+A Residential Property Manager is a professional responsible for overseeing the daily operations and management of residential properties on behalf of property owners or real estate companies. They play a crucial role in ensuring the smooth functioning of rental properties, including apartments, condominiums, and houses. Residential Property Managers handle various tasks, such as advertising and marketing properties, screening and selecting tenants, collecting rent payments, coordinating property maintenance and repairs, and addressing tenant concerns or complaints. They are also involved in lease negotiations, property inspections, and enforcing rental agreements. A successful Residential Property Manager possesses excellent organizational, communication, and problem-solving skills to effectively manage and maintain residential properties.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Residential Property Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Residential Property Manager interviews to help you prepare and succeed.

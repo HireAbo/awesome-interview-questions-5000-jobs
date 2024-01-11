@@ -2,6 +2,8 @@
 
 Welcome to the Statistical Policy Analyst Interview Preparation ! This resource is designed to help you ace your Statistical Policy Analyst interviews with confidence.
 
+A Statistical Policy Analyst is a professional who specializes in the field of mathematics and statistics, particularly in the context of policy analysis. This role involves applying statistical techniques and methodologies to analyze and interpret data related to various policy issues. Statistical Policy Analysts play a crucial role in shaping and informing policy decisions by providing insights and recommendations based on their statistical analysis. They are responsible for collecting, organizing, and analyzing data, as well as developing statistical models and forecasting future trends. In addition, they may also be involved in designing and conducting surveys, evaluating policy effectiveness, and communicating findings to policymakers and stakeholders. A strong background in mathematics, statistics, and policy analysis is essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Statistical Policy Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Statistical Policy Analyst interviews to help you prepare and succeed.

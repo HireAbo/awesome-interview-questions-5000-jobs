@@ -2,6 +2,8 @@
 
 Welcome to the Music Critic Interview Preparation ! This resource is designed to help you ace your Music Critic interviews with confidence.
 
+A music critic plays a vital role in the world of entertainment and performing arts. As a professional observer and evaluator of music, they provide insightful analysis and reviews of various musical compositions, performances, and recordings. Their expertise lies in understanding different genres, styles, and cultural contexts, enabling them to offer a comprehensive assessment of an artist's work. Music critics often attend live concerts, listen to albums, and engage with music industry professionals to gather information and form opinions. Their evaluations not only inform the general public but also contribute to shaping the music industry and influencing the success and reception of musicians.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Music Critic or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Music Critic interviews to help you prepare and succeed.

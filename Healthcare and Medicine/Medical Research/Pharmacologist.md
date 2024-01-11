@@ -2,6 +2,8 @@
 
 Welcome to the Pharmacologist Interview Preparation ! This resource is designed to help you ace your Pharmacologist interviews with confidence.
 
+Healthcare and Medicine is a vast field that encompasses various disciplines, including medical research. Medical research plays a crucial role in advancing our understanding of diseases, developing new treatments, and improving patient care. Within this domain, pharmacologists are integral members of the research team. Pharmacologists specialize in studying the effects of drugs on living organisms, including humans. They design and conduct experiments to evaluate the safety, efficacy, and potential side effects of medications. Pharmacologists also work closely with other healthcare professionals to develop personalized drug therapies and contribute to the development of new drugs. Their expertise is invaluable in ensuring the safe and effective use of medications for patient care.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Pharmacologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Pharmacologist interviews to help you prepare and succeed.

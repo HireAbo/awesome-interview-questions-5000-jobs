@@ -2,6 +2,8 @@
 
 Welcome to the Forest Ecologist Interview Preparation ! This resource is designed to help you ace your Forest Ecologist interviews with confidence.
 
+Forest ecologists are dedicated researchers who study the complex interaction between forests and their surrounding environment. They play a crucial role in understanding the ecological processes that shape forest ecosystems and their response to various environmental factors. These scientists investigate the relationships between trees, wildlife, soil, water, and climate. By conducting field studies, collecting data, and analyzing samples, forest ecologists contribute valuable insights into conservation and sustainable management practices. They also assess the impact of human activities, such as logging and development, on forest health and biodiversity. Forest ecologists work closely with government agencies, non-profit organizations, and landowners to develop strategies that protect and preserve these vital ecosystems for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forest Ecologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forest Ecologist interviews to help you prepare and succeed.

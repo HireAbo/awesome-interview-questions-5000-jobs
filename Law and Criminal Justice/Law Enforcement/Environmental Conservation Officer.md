@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Conservation Officer Interview Preparation ! This resource is designed to help you ace your Environmental Conservation Officer interviews with confidence.
 
+An Environmental Conservation Officer (ECO) is a specialized law enforcement professional who ensures the protection and preservation of our natural resources. These officers play a crucial role in enforcing laws related to environmental conservation, wildlife management, and public safety. They are responsible for monitoring and investigating violations, such as illegal hunting, fishing, or dumping hazardous waste. ECOs also participate in rescue and recovery operations, as well as educating the public about environmental laws and conservation practices. With a focus on sustainability and environmental justice, this career requires a deep understanding of both law enforcement and environmental science, making it an essential role in maintaining the balance between humans and nature.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Conservation Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Conservation Officer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the News Reporter Interview Preparation ! This resource is designed to help you ace your News Reporter interviews with confidence.
 
+A news reporter plays a crucial role in the field of communication and media, specifically in broadcasting. As a news reporter, their primary responsibility is to gather and report on current events, breaking news, and various stories of interest to the public. They conduct research, interview sources, and investigate facts to present accurate and unbiased information to the audience. News reporters often work under tight deadlines and in high-pressure situations, requiring excellent communication skills, adaptability, and the ability to think on their feet. Their work is essential in informing the public about local, national, and international events, shaping public opinion, and upholding the principles of responsible journalism.
+
 ## 🚀 Overview
 
 Whether you're a seasoned News Reporter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in News Reporter interviews to help you prepare and succeed.

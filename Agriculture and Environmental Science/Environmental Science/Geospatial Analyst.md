@@ -2,6 +2,8 @@
 
 Welcome to the Geospatial Analyst Interview Preparation ! This resource is designed to help you ace your Geospatial Analyst interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on the intersection of agriculture, environment, and natural resources. It aims to address the challenges of sustainable food production, land management, and environmental conservation. Within this field, the role of a Geospatial Analyst is crucial. Geospatial Analysts utilize advanced technology, such as Geographic Information Systems (GIS), to collect, analyze, and interpret geospatial data related to agriculture and the environment. They play a vital role in mapping, monitoring, and managing natural resources, land use patterns, and environmental changes. Geospatial Analysts contribute to informed decision-making processes and help develop strategies to promote sustainable agricultural practices and protect the environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Geospatial Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Geospatial Analyst interviews to help you prepare and succeed.

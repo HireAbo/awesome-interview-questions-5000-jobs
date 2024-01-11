@@ -2,6 +2,8 @@
 
 Welcome to the Network Compliance Engineer Interview Preparation ! This resource is designed to help you ace your Network Compliance Engineer interviews with confidence.
 
+A Network Compliance Engineer is a crucial role within the field of Information Technology (IT) and specifically Network Engineering. This job involves ensuring that a company's network infrastructure adheres to industry standards, regulatory requirements, and internal policies. Network Compliance Engineers are responsible for assessing the network's security, auditing its configuration, and identifying any vulnerabilities or compliance gaps. They work closely with other IT professionals to implement necessary changes, develop security policies, and conduct regular audits to maintain network compliance. These professionals possess strong technical knowledge, expertise in network protocols, security measures, and possess excellent problem-solving and communication skills to ensure the network's integrity and compliance.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Network Compliance Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Network Compliance Engineer interviews to help you prepare and succeed.

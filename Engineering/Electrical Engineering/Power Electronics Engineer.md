@@ -2,6 +2,8 @@
 
 Welcome to the Power Electronics Engineer Interview Preparation ! This resource is designed to help you ace your Power Electronics Engineer interviews with confidence.
 
+A Power Electronics Engineer is a specialized professional in the field of Electrical Engineering who focuses on the design and development of power electronic systems and devices. They work with various power conversion and control techniques to efficiently convert electrical power between different forms, such as from AC to DC or vice versa. Power Electronics Engineers are responsible for designing and optimizing power electronic circuits, developing control algorithms, selecting appropriate components, and conducting performance analysis and testing. They play a crucial role in the development of renewable energy systems, electric vehicles, industrial automation, and other advanced applications. A strong understanding of electrical circuit theory, semiconductor devices, and control systems is essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Power Electronics Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Power Electronics Engineer interviews to help you prepare and succeed.

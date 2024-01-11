@@ -2,6 +2,10 @@
 
 Welcome to the Economist Interview Preparation ! This resource is designed to help you ace your Economist interviews with confidence.
 
+Mathematics is a branch of science that deals with numbers, quantities, and shapes. It involves logical reasoning and problem-solving using mathematical concepts and principles. Statistics, on the other hand, is a discipline that focuses on collecting, analyzing, interpreting, and presenting data. It provides tools and techniques to make sense of large sets of information and draw meaningful conclusions. 
+
+In the context of an economist job, mathematics and statistics play a crucial role. Economists extensively use mathematical models to analyze economic phenomena, forecast outcomes, and make informed decisions. They employ statistical methods to analyze data, test hypotheses, and identify patterns and trends. These quantitative skills are essential for economists to understand complex economic systems and provide insights into policy-making, forecasting, and market analysis.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Economist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Economist interviews to help you prepare and succeed.

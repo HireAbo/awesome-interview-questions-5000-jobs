@@ -2,6 +2,8 @@
 
 Welcome to the Drain Technician Interview Preparation ! This resource is designed to help you ace your Drain Technician interviews with confidence.
 
+A Drain Technician is a skilled trades professional who specializes in the maintenance, repair, and installation of drainage systems. These professionals are responsible for effectively diagnosing and resolving issues related to clogged drains, sewer lines, and general plumbing problems. Drain Technicians utilize a range of tools and equipment to identify the cause of the problem, such as video inspection cameras, hydro-jetting machines, and pipe locators. They also apply their expertise to advise clients on preventive measures to avoid future plumbing issues. With a strong understanding of plumbing codes and regulations, Drain Technicians ensure that drainage systems are functioning efficiently and effectively, providing essential services to both residential and commercial clients.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Drain Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Drain Technician interviews to help you prepare and succeed.

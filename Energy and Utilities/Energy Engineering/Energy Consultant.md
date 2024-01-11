@@ -2,6 +2,8 @@
 
 Welcome to the Energy Consultant Interview Preparation ! This resource is designed to help you ace your Energy Consultant interviews with confidence.
 
+An Energy Consultant in the field of Energy Engineering is a professional who specializes in providing expertise and guidance to businesses, organizations, and individuals regarding energy usage, efficiency, and sustainable solutions. They play a crucial role in helping clients optimize their energy consumption, reduce costs, and minimize their environmental impact. Energy Consultants conduct energy audits, analyze data, and develop tailored strategies to improve energy efficiency, implement renewable energy projects, and meet regulatory requirements. They collaborate with clients to design and implement energy conservation measures, recommend energy-efficient technologies, and provide ongoing support to ensure optimal energy performance. Energy Consultants contribute to a more sustainable future by promoting efficient energy practices across various sectors.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Energy Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Energy Consultant interviews to help you prepare and succeed.

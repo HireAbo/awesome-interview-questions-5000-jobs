@@ -2,6 +2,8 @@
 
 Welcome to the User Experience (UX) Librarian Interview Preparation ! This resource is designed to help you ace your User Experience (UX) Librarian interviews with confidence.
 
+A User Experience (UX) Librarian is a specialized role within the field of Library and Information Science, focusing on enhancing user satisfaction by improving the design and usability of library services and resources. These professionals possess a unique combination of skills, blending their expertise in librarianship with a deep understanding of user-centered design principles. UX Librarians are responsible for conducting user research, analyzing data, and implementing strategies to create seamless user experiences. They collaborate with library staff to design user-friendly interfaces, optimize search functionality, and ensure accessibility. By prioritizing user needs and preferences, UX Librarians play a vital role in ensuring that libraries remain relevant and valuable in the digital age.
+
 ## 🚀 Overview
 
 Whether you're a seasoned User Experience (UX) Librarian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in User Experience (UX) Librarian interviews to help you prepare and succeed.

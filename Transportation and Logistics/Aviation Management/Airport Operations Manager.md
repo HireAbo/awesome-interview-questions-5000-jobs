@@ -2,6 +2,8 @@
 
 Welcome to the Airport Operations Manager Interview Preparation ! This resource is designed to help you ace your Airport Operations Manager interviews with confidence.
 
+An Airport Operations Manager is responsible for overseeing the day-to-day operations of an airport, ensuring efficient and safe functioning. This role requires strong leadership skills and the ability to handle multiple tasks simultaneously. The manager is responsible for coordinating with various departments, such as security, maintenance, and air traffic control, to ensure smooth operations. They must also ensure compliance with all safety regulations and implement measures to enhance security protocols. Additionally, an Airport Operations Manager is responsible for managing staff, including hiring, training, and evaluating performance. They must have excellent communication skills to liaise with airlines, ground handling agencies, and other stakeholders to maintain a high level of customer satisfaction.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Airport Operations Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Airport Operations Manager interviews to help you prepare and succeed.

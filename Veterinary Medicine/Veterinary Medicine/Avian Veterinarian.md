@@ -2,6 +2,10 @@
 
 Welcome to the Avian Veterinarian Interview Preparation ! This resource is designed to help you ace your Avian Veterinarian interviews with confidence.
 
+Veterinary Medicine is a branch of healthcare that focuses on the diagnosis, treatment, and prevention of diseases and injuries in animals. Avian Veterinarians specialize in providing medical care to birds, including both domesticated and wild species. These professionals play a crucial role in ensuring the health and well-being of our feathered friends.
+
+Avian Veterinarians are responsible for conducting thorough examinations, diagnosing illnesses, prescribing medications, and performing surgeries when necessary. They also provide preventative care through vaccinations and routine check-ups. Avian Veterinarians may work in private clinics, zoos, wildlife rehabilitation centers, or research institutes. Their expertise in avian medicine allows them to contribute to the conservation efforts of endangered bird species as well. Overall, Avian Veterinarians play an essential role in maintaining the health and welfare of birds, contributing to the field of Veterinary Medicine.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Avian Veterinarian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Avian Veterinarian interviews to help you prepare and succeed.

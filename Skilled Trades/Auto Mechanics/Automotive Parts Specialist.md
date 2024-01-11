@@ -2,6 +2,8 @@
 
 Welcome to the Automotive Parts Specialist Interview Preparation ! This resource is designed to help you ace your Automotive Parts Specialist interviews with confidence.
 
+The Automotive Parts Specialist job is a crucial role within the field of Auto Mechanics and skilled trades. These specialists are responsible for accurately identifying, sourcing, and providing automotive parts to technicians and customers. They possess a deep knowledge of different vehicles, including their makes, models, and specific parts required for repairs or upgrades. Automotive Parts Specialists work closely with technicians, providing them with the necessary components to complete repairs efficiently. They also assist customers in selecting the right parts for their vehicles, offering advice and expertise. Strong communication skills, attention to detail, and a comprehensive understanding of automotive systems are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Automotive Parts Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Automotive Parts Specialist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Electrical Test Engineer Interview Preparation ! This resource is designed to help you ace your Electrical Test Engineer interviews with confidence.
 
+The role of an Electrical Test Engineer is crucial in ensuring the proper functioning and safety of electrical systems and equipment. Electrical Test Engineers are responsible for designing and conducting tests on electrical products, components, and systems to ensure they meet quality and performance standards. They develop test plans, create test procedures, and analyze test data to identify any issues or areas for improvement. These professionals work closely with other engineers and technicians to troubleshoot problems, diagnose faults, and develop solutions. Strong knowledge of electrical principles, testing methodologies, and relevant software tools is essential in this role. Electrical Test Engineers play a vital role in ensuring the reliability and efficiency of electrical systems in various industries.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Electrical Test Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Electrical Test Engineer interviews to help you prepare and succeed.

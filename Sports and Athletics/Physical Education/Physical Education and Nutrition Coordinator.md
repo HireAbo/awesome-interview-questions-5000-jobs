@@ -2,6 +2,8 @@
 
 Welcome to the Physical Education and Nutrition Coordinator Interview Preparation ! This resource is designed to help you ace your Physical Education and Nutrition Coordinator interviews with confidence.
 
+The role of a Physical Education and Nutrition Coordinator in the field of Sports and Athletics is to promote and enhance the overall fitness and well-being of individuals. This position involves designing and implementing physical education programs that focus on improving students' physical abilities, coordination, and overall health. Additionally, the Coordinator is responsible for promoting healthy eating habits and providing nutritional guidance to students. By organizing and supervising various athletic activities and events, they strive to instill a love for physical fitness and encourage lifelong healthy habits. This role requires excellent communication skills, strong knowledge of exercise science and nutrition, and a passion for promoting a healthy lifestyle.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Physical Education and Nutrition Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Physical Education and Nutrition Coordinator interviews to help you prepare and succeed.

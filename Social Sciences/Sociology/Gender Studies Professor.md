@@ -2,6 +2,8 @@
 
 Welcome to the Gender Studies Professor Interview Preparation ! This resource is designed to help you ace your Gender Studies Professor interviews with confidence.
 
+The role of a Gender Studies Professor in the field of Social Sciences, particularly Sociology, is to provide comprehensive knowledge and critical analysis of the complex dynamics of gender in society. These professors conduct research, teach courses, and contribute to the advancement of knowledge in gender studies. They explore topics such as gender identity, sexuality, gender inequality, and the intersections of gender with race, class, and other social factors. Gender Studies Professors play a crucial role in shaping students' understanding of the social construction of gender and challenging traditional notions of masculinity and femininity. They also engage in activism and advocacy to promote gender equality and social justice in academia and beyond.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Gender Studies Professor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Gender Studies Professor interviews to help you prepare and succeed.

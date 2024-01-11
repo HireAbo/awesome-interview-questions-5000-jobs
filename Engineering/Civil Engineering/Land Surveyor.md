@@ -2,6 +2,8 @@
 
 Welcome to the Land Surveyor Interview Preparation ! This resource is designed to help you ace your Land Surveyor interviews with confidence.
 
+A Land Surveyor is a professional in the field of civil engineering who specializes in measuring and mapping land or other natural and man-made features. They play a crucial role in construction and development projects by determining accurate boundaries and locations of land, as well as providing data for designing and planning purposes. Land Surveyors use a variety of tools and techniques such as GPS, laser scanning, and traditional instruments to collect data and create detailed maps, which are then used by architects, engineers, and construction teams. They also survey existing structures and provide guidance on land use and zoning regulations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Land Surveyor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Land Surveyor interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Education Program Manager Interview Preparation ! This resource is designed to help you ace your Education Program Manager interviews with confidence.
 
+An Education Program Manager plays a critical role in the field of Education Administration. With a focus on managing educational programs, this role involves overseeing the design, implementation, and evaluation of curriculum, instructional strategies, and educational initiatives. Education Program Managers collaborate with teachers, school administrators, and stakeholders to ensure that programs align with the school's goals and objectives. They are responsible for coordinating resources, developing budgets, and monitoring program effectiveness. Strong leadership and communication skills are essential in this role, as Education Program Managers often provide guidance and support to teachers and staff. Ultimately, they strive to create an engaging and effective learning environment that enhances student success.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Education Program Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Education Program Manager interviews to help you prepare and succeed.

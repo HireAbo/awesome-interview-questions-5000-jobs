@@ -2,6 +2,8 @@
 
 Welcome to the Release Manager Interview Preparation ! This resource is designed to help you ace your Release Manager interviews with confidence.
 
+A Release Manager is a key role in the field of software development, specifically in the realm of Information Technology (IT). This role is responsible for managing the entire software release process, from planning to execution. The Release Manager collaborates with various teams such as developers, testers, and project managers to ensure the successful delivery of software products to customers or end-users. Their main responsibilities include coordinating release schedules, managing version control systems, conducting risk assessments, and coordinating with stakeholders to prioritize and implement software updates. A Release Manager plays a crucial role in ensuring the smooth and efficient release of software products, ultimately contributing to the overall success of an organization.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Release Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Release Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Project Administrator Interview Preparation ! This resource is designed to help you ace your Project Administrator interviews with confidence.
 
+A Project Administrator is a crucial role within the field of Business and Management, specifically in Project Management. This job involves overseeing and coordinating various aspects of a project to ensure its successful completion. The Project Administrator is responsible for organizing project documentation, maintaining project schedules, and monitoring project progress. They work closely with project managers and team members to facilitate communication and collaboration. Additionally, they may assist in budgeting and resource allocation, as well as preparing reports and presentations. A successful Project Administrator possesses excellent organizational and multitasking skills, attention to detail, and effective communication abilities to ensure projects are executed efficiently and within the given timeframe.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Project Administrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Project Administrator interviews to help you prepare and succeed.

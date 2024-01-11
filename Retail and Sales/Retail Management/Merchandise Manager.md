@@ -2,6 +2,8 @@
 
 Welcome to the Merchandise Manager Interview Preparation ! This resource is designed to help you ace your Merchandise Manager interviews with confidence.
 
+A Merchandise Manager is a crucial role in the field of Retail Management. They are responsible for overseeing and managing the merchandising operations within a retail organization. This includes planning, organizing, and implementing strategies to effectively maximize sales and profitability through product assortment, pricing, and promotional activities. The Merchandise Manager works closely with various departments such as marketing, sales, and inventory control to ensure the right products are available at the right time and in the right quantities. They also analyze market trends and customer preferences to make informed decisions on product selection and procurement. A successful Merchandise Manager possesses strong analytical, communication, and leadership skills to drive sales and achieve business objectives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Merchandise Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Merchandise Manager interviews to help you prepare and succeed.

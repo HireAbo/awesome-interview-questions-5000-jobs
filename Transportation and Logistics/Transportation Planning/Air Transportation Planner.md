@@ -2,6 +2,8 @@
 
 Welcome to the Air Transportation Planner Interview Preparation ! This resource is designed to help you ace your Air Transportation Planner interviews with confidence.
 
+An Air Transportation Planner plays a vital role in the field of Transportation and Logistics by ensuring the efficient movement of goods and people through air transportation. This job involves the strategic planning and coordination of air transportation services, aiming to maximize efficiency, minimize costs, and meet customer demands. The Air Transportation Planner is responsible for analyzing data and trends, forecasting demand, and developing schedules and routes that optimize resources and infrastructure. They collaborate with various stakeholders, including airlines, airports, and regulatory agencies, to facilitate smooth operations and ensure compliance with safety and security regulations. This job requires strong analytical and problem-solving skills, as well as excellent communication and organizational abilities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Air Transportation Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Air Transportation Planner interviews to help you prepare and succeed.

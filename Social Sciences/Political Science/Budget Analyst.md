@@ -2,6 +2,8 @@
 
 Welcome to the Budget Analyst Interview Preparation ! This resource is designed to help you ace your Budget Analyst interviews with confidence.
 
+A Budget Analyst in the field of Political Science is an essential role that involves analyzing, monitoring, and managing financial resources within government agencies or political organizations. These professionals play a crucial role in formulating budget plans, evaluating financial proposals, and ensuring efficient allocation of funds. They conduct comprehensive research to forecast expenditure patterns, identify potential risks, and provide recommendations for budget adjustments. Budget Analysts also collaborate with stakeholders to develop and implement financial policies that align with political objectives. Strong analytical skills, attention to detail, and knowledge of political dynamics are essential for success in this role. Budget Analysts contribute significantly to the effective functioning of government entities and political organizations by promoting transparency and accountability in financial decision-making.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Budget Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Budget Analyst interviews to help you prepare and succeed.

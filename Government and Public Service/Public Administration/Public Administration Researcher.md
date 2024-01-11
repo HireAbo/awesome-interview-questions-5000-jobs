@@ -2,6 +2,8 @@
 
 Welcome to the Public Administration Researcher Interview Preparation ! This resource is designed to help you ace your Public Administration Researcher interviews with confidence.
 
+A Public Administration Researcher plays a crucial role in the field of Government and Public Service. They are responsible for conducting in-depth research and analysis on various aspects of public administration, such as policy development, program evaluation, and organizational management. Their primary objective is to gather and analyze data to identify trends, patterns, and best practices that can inform decision-making and improve the efficiency and effectiveness of public administration processes. This includes studying different policies, regulations, and procedures to assess their impact and identify areas for improvement. Public Administration Researchers often collaborate with government agencies, non-profit organizations, and academic institutions to ensure evidence-based decision-making and contribute to the overall improvement of public administration practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Public Administration Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Public Administration Researcher interviews to help you prepare and succeed.

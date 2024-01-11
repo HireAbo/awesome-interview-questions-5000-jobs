@@ -2,6 +2,8 @@
 
 Welcome to the Policy Advocate Interview Preparation ! This resource is designed to help you ace your Policy Advocate interviews with confidence.
 
+The Government and Public Service sector plays a crucial role in shaping policies that impact the lives of citizens. Public Policy is a field within this sector that focuses on developing and implementing policies to address societal issues. Within this field, Policy Advocates are key players who work towards influencing policy decisions and promoting change. These professionals research, analyze, and propose policy solutions to policymakers, government agencies, and other stakeholders. They advocate for the interests of specific groups or communities, ensuring their concerns are addressed and their voices are heard. Policy Advocates strive to create positive societal impact by driving policy reforms and advocating for inclusive and equitable policies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Policy Advocate or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Policy Advocate interviews to help you prepare and succeed.

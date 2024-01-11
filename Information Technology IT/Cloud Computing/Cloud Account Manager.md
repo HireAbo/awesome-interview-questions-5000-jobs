@@ -2,6 +2,10 @@
 
 Welcome to the Cloud Account Manager Interview Preparation ! This resource is designed to help you ace your Cloud Account Manager interviews with confidence.
 
+Information Technology (IT) is a field that encompasses the use of computers, software, and telecommunications to store, retrieve, transmit, and manipulate data. Cloud computing, a subset of IT, refers to the practice of using remote servers hosted on the internet to store, manage, and process data instead of relying on local servers or personal computers.
+
+A Cloud Account Manager job in IT is a role that involves overseeing and managing the relationship between a cloud service provider and its clients. This includes understanding client requirements, ensuring smooth implementation and operation of cloud services, and providing technical support and guidance. Cloud Account Managers also play a crucial role in identifying opportunities for upselling or cross-selling cloud services to existing clients and building strong long-term relationships with customers. Strong communication, technical expertise, and customer service skills are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cloud Account Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cloud Account Manager interviews to help you prepare and succeed.

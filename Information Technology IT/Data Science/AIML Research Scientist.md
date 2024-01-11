@@ -2,6 +2,8 @@
 
 Welcome to the AI/ML Research Scientist Interview Preparation ! This resource is designed to help you ace your AI/ML Research Scientist interviews with confidence.
 
+The role of an Information Technology (IT) Data Science AI/ML Research Scientist is crucial in the ever-evolving world of technology. This job involves extensive research and analysis to develop advanced algorithms and machine learning models that can extract valuable insights from vast amounts of data. The research scientist is responsible for designing and implementing data-driven solutions to solve complex problems, optimize processes, and enhance decision-making capabilities. They collaborate with cross-functional teams to identify business requirements and develop innovative AI/ML solutions. A successful AI/ML research scientist possesses a strong background in mathematics, statistics, and programming, along with a deep understanding of data science methodologies and cutting-edge technologies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned AI/ML Research Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in AI/ML Research Scientist interviews to help you prepare and succeed.

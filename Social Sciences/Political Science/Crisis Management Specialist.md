@@ -2,6 +2,8 @@
 
 Welcome to the Crisis Management Specialist Interview Preparation ! This resource is designed to help you ace your Crisis Management Specialist interviews with confidence.
 
+A Crisis Management Specialist in Political Science is a professional who specializes in handling and managing crises within the political landscape. These specialists possess a deep understanding of political systems, international relations, and public policy, enabling them to effectively navigate complex political situations. Their main role is to anticipate potential crises, devise strategies to prevent or mitigate them, and respond swiftly and decisively when crises occur. Crisis Management Specialists work closely with government officials, politicians, and other stakeholders, providing valuable insights and recommendations to help manage and resolve crises. They play a crucial role in maintaining political stability, ensuring public safety, and safeguarding national interests in times of turmoil.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Crisis Management Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Crisis Management Specialist interviews to help you prepare and succeed.

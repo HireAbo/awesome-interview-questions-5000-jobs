@@ -2,6 +2,8 @@
 
 Welcome to the Space Scientist Interview Preparation ! This resource is designed to help you ace your Space Scientist interviews with confidence.
 
+Astronomy, an awe-inspiring branch of science, deals with the study of celestial objects and phenomena beyond Earth's atmosphere. Within this field, space scientists play a crucial role in advancing our knowledge of the universe. These talented professionals are responsible for conducting innovative research, utilizing cutting-edge technology, and analyzing data obtained from telescopes and satellites. They explore various aspects of space, such as the formation of galaxies, planetary systems, black holes, and the mysteries of dark matter and energy. Space scientists contribute to groundbreaking discoveries and contribute to our understanding of the cosmos, paving the way for future space exploration and unraveling the secrets of our vast universe.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Space Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Space Scientist interviews to help you prepare and succeed.

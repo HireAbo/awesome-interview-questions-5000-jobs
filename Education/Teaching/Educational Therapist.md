@@ -2,6 +2,8 @@
 
 Welcome to the Educational Therapist Interview Preparation ! This resource is designed to help you ace your Educational Therapist interviews with confidence.
 
+Educational therapists play a vital role in supporting students with learning disabilities or other educational challenges. As specialized educators, they work closely with students, parents, and teachers to develop effective strategies and interventions tailored to each student's unique needs. These professionals possess a deep understanding of various learning styles and educational techniques, enabling them to create a safe and inclusive learning environment. Educational therapists employ evidence-based practices to help students improve their academic skills, such as reading, writing, and mathematics, while also addressing emotional and behavioral difficulties that may hinder their progress. Through their dedication and expertise, educational therapists empower students to overcome obstacles and reach their full potential in the educational setting.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Educational Therapist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Educational Therapist interviews to help you prepare and succeed.

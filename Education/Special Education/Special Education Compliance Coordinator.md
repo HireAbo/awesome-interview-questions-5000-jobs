@@ -2,6 +2,8 @@
 
 Welcome to the Special Education Compliance Coordinator Interview Preparation ! This resource is designed to help you ace your Special Education Compliance Coordinator interviews with confidence.
 
+A Special Education Compliance Coordinator is a vital role within the field of special education. This professional is responsible for ensuring that all special education programs and services comply with state and federal regulations. They work closely with teachers, administrators, and parents to develop and implement Individualized Education Programs (IEPs) for students with disabilities. The Compliance Coordinator also coordinates evaluations and assessments, tracks student progress, and maintains accurate records. Additionally, they provide support and training to staff members to ensure they are knowledgeable about compliance requirements. A Special Education Compliance Coordinator plays a critical role in advocating for students with disabilities and ensuring they receive appropriate educational opportunities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Special Education Compliance Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Special Education Compliance Coordinator interviews to help you prepare and succeed.

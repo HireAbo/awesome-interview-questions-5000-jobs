@@ -2,6 +2,8 @@
 
 Welcome to the Sales Efficiency Analyst Interview Preparation ! This resource is designed to help you ace your Sales Efficiency Analyst interviews with confidence.
 
+A Sales Efficiency Analyst plays a crucial role in the retail and sales industry by analyzing and optimizing sales processes to improve overall efficiency and effectiveness. This job involves examining sales data, identifying trends and patterns, and developing strategies to maximize sales performance. The Sales Efficiency Analyst utilizes various tools and techniques to track sales metrics, evaluate sales pipelines, and assess the effectiveness of sales strategies. They work closely with sales teams and management to identify areas of improvement, streamline processes, and implement solutions that drive revenue growth. A Sales Efficiency Analyst requires strong analytical skills, attention to detail, and the ability to communicate insights effectively to stakeholders.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sales Efficiency Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sales Efficiency Analyst interviews to help you prepare and succeed.

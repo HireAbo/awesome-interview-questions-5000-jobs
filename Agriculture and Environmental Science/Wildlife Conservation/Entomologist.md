@@ -2,6 +2,8 @@
 
 Welcome to the Entomologist Interview Preparation ! This resource is designed to help you ace your Entomologist interviews with confidence.
 
+Agriculture and Environmental Science is an interdisciplinary field that focuses on the study of the relationship between humans and the environment. It encompasses various aspects, including the management of natural resources, sustainable agricultural practices, and the conservation of biodiversity. Within this field, Wildlife Conservation plays a crucial role in preserving and protecting the planet's wildlife and their habitats. One key profession in this domain is that of an Entomologist. Entomologists are scientists who specialize in the study of insects and their impact on the environment. They conduct research, monitor populations, and develop strategies to control harmful insects while promoting the conservation of beneficial ones. Their work is essential in maintaining the delicate balance of ecosystems and ensuring the survival of diverse species.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Entomologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Entomologist interviews to help you prepare and succeed.

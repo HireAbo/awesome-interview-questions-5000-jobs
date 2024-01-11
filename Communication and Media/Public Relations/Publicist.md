@@ -2,6 +2,8 @@
 
 Welcome to the Publicist Interview Preparation ! This resource is designed to help you ace your Publicist interviews with confidence.
 
+A Publicist is a crucial role within the field of Public Relations, responsible for managing and overseeing the communication and media strategies of individuals, organizations, or brands. This job requires excellent communication skills, as publicists act as the primary contact for media outlets, journalists, and other stakeholders. They create and maintain strong relationships with these contacts to ensure positive coverage and publicity. Publicists develop and execute media campaigns, organize press releases, arrange interviews and events, and monitor media coverage to assess the effectiveness of their strategies. They play a pivotal role in shaping public perception and maintaining a positive image for their clients or organizations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Publicist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Publicist interviews to help you prepare and succeed.

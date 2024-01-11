@@ -2,6 +2,8 @@
 
 Welcome to the Digital Art Director Interview Preparation ! This resource is designed to help you ace your Digital Art Director interviews with confidence.
 
+A Digital Art Director is a creative professional who combines artistic expertise with technical skills to develop visually compelling digital media campaigns. They are responsible for overseeing the visual direction and design of digital projects, ensuring that they align with the overall brand strategy and objectives. Digital Art Directors collaborate closely with clients, creative teams, and other stakeholders to conceptualize and execute innovative designs for websites, mobile applications, social media campaigns, and other digital platforms. They possess a deep understanding of graphic design principles, user experience, and emerging digital trends. Their ability to effectively communicate ideas and present visual concepts is crucial in driving successful digital media campaigns.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Digital Art Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Digital Art Director interviews to help you prepare and succeed.

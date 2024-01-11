@@ -2,6 +2,8 @@
 
 Welcome to the Mobile Advertising Specialist Interview Preparation ! This resource is designed to help you ace your Mobile Advertising Specialist interviews with confidence.
 
+A Mobile Advertising Specialist is a professional who specializes in planning, executing, and optimizing mobile advertising campaigns. They are responsible for developing strategies to reach target audiences effectively through mobile devices such as smartphones and tablets. These specialists possess a deep understanding of mobile advertising platforms, industry trends, and consumer behavior. Their role includes identifying key performance indicators (KPIs), setting campaign goals, and monitoring the effectiveness of advertisements. They collaborate with creative teams to design engaging mobile ads and work closely with data analysts to track and measure campaign performance. Mobile Advertising Specialists play a critical role in driving brand awareness, customer engagement, and ultimately, driving revenue through mobile advertising channels.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Mobile Advertising Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Mobile Advertising Specialist interviews to help you prepare and succeed.

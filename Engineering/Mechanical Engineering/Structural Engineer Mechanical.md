@@ -2,6 +2,8 @@
 
 Welcome to the Structural Engineer (Mechanical) Interview Preparation ! This resource is designed to help you ace your Structural Engineer (Mechanical) interviews with confidence.
 
+A Structural Engineer (Mechanical) is a professional who specializes in designing and analyzing mechanical systems within structures. They play a crucial role in the construction industry, ensuring the safety and integrity of buildings, bridges, and other infrastructure projects. These engineers work closely with architects, contractors, and other stakeholders to develop innovative and efficient mechanical systems that meet the project's requirements. They are responsible for performing calculations, simulations, and tests to determine the strength and stability of various components, such as HVAC systems, plumbing, and fire protection. Additionally, they oversee the installation and maintenance of mechanical systems, ensuring compliance with industry standards and regulations. A career in Structural Engineering (Mechanical) requires strong analytical, problem-solving, and communication skills, along with a solid understanding of mechanical principles and construction techniques.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Structural Engineer (Mechanical) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Structural Engineer (Mechanical) interviews to help you prepare and succeed.

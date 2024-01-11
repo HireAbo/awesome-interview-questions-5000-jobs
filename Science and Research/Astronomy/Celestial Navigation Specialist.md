@@ -2,6 +2,8 @@
 
 Welcome to the Celestial Navigation Specialist Interview Preparation ! This resource is designed to help you ace your Celestial Navigation Specialist interviews with confidence.
 
+A Celestial Navigation Specialist is a highly skilled professional in the field of astronomy and celestial navigation. They play a crucial role in the world of science and research, particularly in the area of understanding and navigating through space. These specialists possess a deep understanding of the celestial bodies such as stars, planets, moons, and other astronomical objects. They use their knowledge to calculate precise positions and movements of these celestial bodies to determine navigational coordinates. Celestial Navigation Specialists often work in fields such as aerospace, maritime navigation, and space exploration, ensuring accurate positioning and navigation of spacecraft, ships, and other vehicles. Their expertise is essential for successful exploration and understanding of the vast universe.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Celestial Navigation Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Celestial Navigation Specialist interviews to help you prepare and succeed.

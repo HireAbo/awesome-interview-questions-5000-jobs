@@ -2,6 +2,8 @@
 
 Welcome to the Epidemiologist Interview Preparation ! This resource is designed to help you ace your Epidemiologist interviews with confidence.
 
+An epidemiologist is a healthcare professional who specializes in studying and analyzing patterns, causes, and effects of diseases and injuries in populations. They play a crucial role in medical research by conducting studies and collecting data to identify and understand the distribution and determinants of diseases. Epidemiologists design and implement studies, develop surveys, and analyze data to identify risk factors, trends, and patterns in public health. They also contribute to the development of strategies and interventions to prevent and control the spread of diseases. With their expertise, epidemiologists play a vital role in informing public health policies and promoting the overall well-being of communities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Epidemiologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Epidemiologist interviews to help you prepare and succeed.

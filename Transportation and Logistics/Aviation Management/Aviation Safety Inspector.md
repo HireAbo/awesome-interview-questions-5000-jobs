@@ -2,6 +2,8 @@
 
 Welcome to the Aviation Safety Inspector Interview Preparation ! This resource is designed to help you ace your Aviation Safety Inspector interviews with confidence.
 
+The role of an Aviation Safety Inspector within the Transportation and Logistics field is crucial in ensuring the safety and security of aviation operations. These professionals are responsible for conducting inspections and audits to ensure compliance with aviation regulations, safety standards, and operating procedures. They play a vital role in identifying potential hazards, assessing risks, and implementing corrective measures to enhance aviation safety. Aviation Safety Inspectors also investigate accidents, incidents, and complaints to determine the root causes and prevent future occurrences. Their expertise in aviation management, safety protocols, and regulatory compliance is essential in maintaining a safe and efficient aviation industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Aviation Safety Inspector or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Aviation Safety Inspector interviews to help you prepare and succeed.

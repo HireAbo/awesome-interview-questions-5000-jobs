@@ -2,6 +2,8 @@
 
 Welcome to the Ad Agency Business Development Manager Interview Preparation ! This resource is designed to help you ace your Ad Agency Business Development Manager interviews with confidence.
 
+A Communication and Media Advertising Ad Agency Business Development Manager plays a crucial role in the growth and success of an advertising agency. As a Business Development Manager, their primary responsibility is to identify potential clients and generate new business opportunities. They are responsible for building and maintaining strong relationships with clients, understanding their advertising needs, and providing tailored solutions to meet their objectives. This role involves extensive market research, competitor analysis, and strategic planning to develop effective advertising campaigns. The Business Development Manager also collaborates with the creative and accounts teams to ensure client satisfaction and successful campaign execution. Strong communication, negotiation, and networking skills are essential for this position.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Ad Agency Business Development Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Ad Agency Business Development Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Healthcare Consultant Interview Preparation ! This resource is designed to help you ace your Healthcare Consultant interviews with confidence.
 
+Healthcare and Medicine are vital sectors that play a crucial role in ensuring the well-being of individuals and communities. Within this domain, Healthcare Administration is a field that focuses on the efficient management and organization of healthcare facilities and services. Healthcare Consultants, as professionals in this area, have a significant impact on the healthcare industry. They advise and assist healthcare organizations in improving their operations, strategic planning, financial management, and regulatory compliance. They analyze data, identify areas for improvement, and provide recommendations to optimize healthcare delivery. Healthcare Consultants possess a deep understanding of healthcare policies, regulations, and industry trends, enabling them to address complex challenges and drive positive change in the healthcare system.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Healthcare Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Healthcare Consultant interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Urban Forester Interview Preparation ! This resource is designed to help you ace your Urban Forester interviews with confidence.
 
+Agriculture and Environmental Science, specifically the field of Forestry, encompasses the study and management of forests and their resources. Within this realm, the role of an Urban Forester holds great significance. As an Urban Forester, one is responsible for planning and implementing strategies that promote the health and sustainability of trees in urban areas. This includes conducting tree inventories, overseeing tree planting and maintenance programs, and educating the public about the importance of urban forests. Urban Foresters also play a crucial role in mitigating the environmental impacts of urbanization, such as air pollution and heat island effects. Their expertise aids in creating greener and more livable cities for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Urban Forester or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Urban Forester interviews to help you prepare and succeed.

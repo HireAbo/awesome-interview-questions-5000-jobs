@@ -2,6 +2,8 @@
 
 Welcome to the Oncology Nurse Interview Preparation ! This resource is designed to help you ace your Oncology Nurse interviews with confidence.
 
+An Oncology Nurse is a specialized healthcare professional who provides compassionate and comprehensive care to patients diagnosed with cancer. These nurses play a crucial role in assisting patients throughout their cancer journey, from diagnosis to treatment and beyond. Their primary responsibilities include administering chemotherapy, monitoring patients' vital signs, managing symptoms, and educating patients and their families about the disease and treatment options. Oncology Nurses work closely with a multidisciplinary team of healthcare professionals to develop personalized care plans and ensure the physical and emotional well-being of their patients. They possess strong communication and critical thinking skills, empathy, and a deep commitment to improving the lives of individuals affected by cancer.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Oncology Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Oncology Nurse interviews to help you prepare and succeed.

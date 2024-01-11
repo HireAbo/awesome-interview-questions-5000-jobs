@@ -2,6 +2,8 @@
 
 Welcome to the E-commerce Subscription Box Manager Interview Preparation ! This resource is designed to help you ace your E-commerce Subscription Box Manager interviews with confidence.
 
+The role of an E-commerce Subscription Box Manager in the retail and sales industry is a dynamic and evolving one. As the e-commerce sector continues to flourish, subscription box services have gained immense popularity. In this position, you will be responsible for overseeing and managing all aspects of the subscription box service, from curating products to maintaining inventory and ensuring timely delivery. You will collaborate with various teams, including marketing, operations, and customer service, to enhance customer experience and drive sales. This role requires exceptional organizational skills, a keen eye for detail, and a deep understanding of e-commerce trends and consumer preferences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned E-commerce Subscription Box Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in E-commerce Subscription Box Manager interviews to help you prepare and succeed.

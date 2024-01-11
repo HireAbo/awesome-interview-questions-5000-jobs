@@ -2,6 +2,8 @@
 
 Welcome to the Commercial Pilot Interview Preparation ! This resource is designed to help you ace your Commercial Pilot interviews with confidence.
 
+A commercial pilot is a highly skilled professional responsible for operating and navigating aircraft used for commercial purposes such as passenger transport or cargo delivery. They play a critical role in the aviation industry, ensuring the safety and efficiency of air travel. Commercial pilots undergo extensive training and obtain various certifications, including a commercial pilot license and instrument rating. They must possess excellent communication and decision-making skills, as well as the ability to handle high-pressure situations. Commercial pilots are required to have in-depth knowledge of aircraft systems, aviation regulations, and weather patterns. They work closely with flight crews and air traffic controllers to execute smooth and successful flights.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Commercial Pilot or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Commercial Pilot interviews to help you prepare and succeed.

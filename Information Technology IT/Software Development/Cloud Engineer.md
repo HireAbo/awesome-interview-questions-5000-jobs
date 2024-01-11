@@ -2,6 +2,8 @@
 
 Welcome to the Cloud Engineer Interview Preparation ! This resource is designed to help you ace your Cloud Engineer interviews with confidence.
 
+A Cloud Engineer is a professional responsible for managing and implementing cloud computing solutions within an organization or business. As part of the Software Development field in Information Technology (IT), a Cloud Engineer plays a crucial role in designing, developing, and maintaining cloud infrastructure, platforms, and services. They are skilled in working with various cloud technologies such as Amazon Web Services (AWS), Microsoft Azure, or Google Cloud Platform. Their main responsibilities include deploying and configuring cloud resources, optimizing cloud performance, ensuring data security and compliance, and troubleshooting cloud-related issues. A Cloud Engineer is vital in enabling businesses to leverage the benefits of cloud computing, such as scalability, flexibility, and cost-efficiency.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cloud Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cloud Engineer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Hydronic Technician Interview Preparation ! This resource is designed to help you ace your Hydronic Technician interviews with confidence.
 
+A Hydronic Technician is a highly skilled tradesperson specializing in the installation, maintenance, and repair of hydronic heating and cooling systems. These systems use water or steam as a medium to transfer heat or cool air throughout residential, commercial, and industrial buildings. Hydronic Technicians are responsible for interpreting blueprints, selecting and installing pipes, valves, and fittings, and ensuring proper system functionality. They also perform routine inspections, troubleshoot and diagnose issues, and make necessary repairs or replacements. This job requires a strong understanding of plumbing principles, excellent problem-solving skills, and the ability to work in various settings, often in tight spaces.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Hydronic Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Hydronic Technician interviews to help you prepare and succeed.

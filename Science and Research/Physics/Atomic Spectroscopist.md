@@ -2,6 +2,8 @@
 
 Welcome to the Atomic Spectroscopist Interview Preparation ! This resource is designed to help you ace your Atomic Spectroscopist interviews with confidence.
 
+An Atomic Spectroscopist is a highly specialized physicist who focuses on studying the behavior and properties of atoms and molecules. They employ various spectroscopic techniques to investigate the interaction between matter and electromagnetic radiation. With a strong foundation in physics, this job requires in-depth knowledge of atomic structure and quantum mechanics. Atomic Spectroscopists conduct experiments to analyze and interpret the emission, absorption, and scattering of light by atoms and molecules. Their research contributes to advancements in various fields, such as materials science, environmental analysis, and astrophysics. They play a crucial role in understanding the fundamental principles of matter and developing new technologies based on atomic and molecular interactions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Atomic Spectroscopist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Atomic Spectroscopist interviews to help you prepare and succeed.

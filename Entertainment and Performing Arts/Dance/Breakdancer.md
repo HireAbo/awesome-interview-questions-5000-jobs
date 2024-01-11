@@ -2,6 +2,8 @@
 
 Welcome to the Breakdancer Interview Preparation ! This resource is designed to help you ace your Breakdancer interviews with confidence.
 
+A breakdancer is an individual who specializes in the dynamic and energetic art form of breakdance. This form of dance emerged in the 1970s as a part of hip-hop culture and has since gained worldwide popularity. Breakdancers, also known as B-boys or B-girls, possess exceptional skills in executing intricate dance moves, such as spins, flips, and freezes. They often perform in various settings, including competitions, concerts, and music videos. A breakdancer's job involves intense physical training to enhance flexibility, strength, and coordination. They are also responsible for choreographing unique routines that showcase their creativity and individuality, captivating audiences with their electrifying performances.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Breakdancer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Breakdancer interviews to help you prepare and succeed.

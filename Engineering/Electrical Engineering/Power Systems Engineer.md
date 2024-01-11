@@ -2,6 +2,8 @@
 
 Welcome to the Power Systems Engineer Interview Preparation ! This resource is designed to help you ace your Power Systems Engineer interviews with confidence.
 
+A Power Systems Engineer is a specialized professional in the field of Electrical Engineering. They are responsible for designing, developing, and maintaining electrical power systems that supply electricity to homes, businesses, and industries. These engineers work on various aspects of power systems, including generation, transmission, distribution, and utilization of electrical energy. They ensure the safe and efficient operation of power systems by analyzing their performance, identifying potential issues, and implementing solutions. Power Systems Engineers also work on renewable energy sources, such as solar and wind power, to integrate them into the existing electrical grid. They play a crucial role in ensuring a reliable and sustainable power supply for communities and industries.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Power Systems Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Power Systems Engineer interviews to help you prepare and succeed.

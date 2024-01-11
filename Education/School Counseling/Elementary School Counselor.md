@@ -2,6 +2,8 @@
 
 Welcome to the Elementary School Counselor Interview Preparation ! This resource is designed to help you ace your Elementary School Counselor interviews with confidence.
 
+The role of an Elementary School Counselor is crucial in ensuring the emotional, social, and academic well-being of young students. As an Elementary School Counselor, one plays a vital role in supporting students' personal growth and development. They work closely with teachers, parents, and administrators to identify and address any behavioral, emotional, or social issues that may hinder a student's success. Elementary School Counselors provide guidance and counseling services, conduct individual and group counseling sessions, and assist in the development of individualized education plans. Their aim is to foster positive relationships, promote healthy coping strategies, and create a nurturing and inclusive environment for all elementary school students.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Elementary School Counselor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Elementary School Counselor interviews to help you prepare and succeed.

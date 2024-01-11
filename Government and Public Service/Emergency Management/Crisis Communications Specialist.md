@@ -2,6 +2,8 @@
 
 Welcome to the Crisis Communications Specialist Interview Preparation ! This resource is designed to help you ace your Crisis Communications Specialist interviews with confidence.
 
+A Crisis Communications Specialist plays a crucial role in the field of Emergency Management, which focuses on preparing for, responding to, and recovering from various crises and disasters. As part of the Government and Public Service sector, these professionals are responsible for effectively communicating critical information during times of crisis to ensure public safety and minimize panic. They possess excellent verbal and written communication skills to convey messages clearly and concisely to diverse audiences. Crisis Communications Specialists work closely with emergency response teams, government agencies, and media outlets to disseminate accurate and timely information, manage public perceptions, and maintain public trust in times of uncertainty and distress.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Crisis Communications Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Crisis Communications Specialist interviews to help you prepare and succeed.

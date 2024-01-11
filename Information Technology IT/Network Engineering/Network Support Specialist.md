@@ -2,6 +2,8 @@
 
 Welcome to the Network Support Specialist Interview Preparation ! This resource is designed to help you ace your Network Support Specialist interviews with confidence.
 
+A Network Support Specialist is a vital role in the field of Information Technology (IT), specifically within Network Engineering. These professionals play a crucial role in ensuring the smooth operation of computer networks within an organization. They are responsible for providing technical support and troubleshooting assistance to users, resolving network-related issues, and maintaining network infrastructure. Network Support Specialists possess a deep understanding of network protocols, hardware, and software, enabling them to configure and optimize network systems. They collaborate with network administrators and engineers to implement security measures, monitor network performance, and install network upgrades. Their expertise ensures efficient and reliable network connectivity, thereby supporting the overall functioning of an organization's IT infrastructure.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Network Support Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Network Support Specialist interviews to help you prepare and succeed.

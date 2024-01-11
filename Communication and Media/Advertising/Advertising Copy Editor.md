@@ -2,6 +2,8 @@
 
 Welcome to the Advertising Copy Editor Interview Preparation ! This resource is designed to help you ace your Advertising Copy Editor interviews with confidence.
 
+A career as an Advertising Copy Editor revolves around the communication and media sector, specifically in the field of advertising. As an Advertising Copy Editor, your primary responsibility is to ensure the accuracy, clarity, and effectiveness of advertising content. You play a crucial role in proofreading and editing various advertising materials such as print ads, television commercials, online banners, and radio scripts. Attention to detail, excellent grammar and language skills, and a keen eye for aesthetics are essential for success in this role. Collaborating with creative teams and clients, you strive to enhance the impact of advertising campaigns by refining the copy to align with brand messaging and target audience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Advertising Copy Editor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Advertising Copy Editor interviews to help you prepare and succeed.

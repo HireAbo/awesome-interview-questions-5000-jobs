@@ -2,6 +2,8 @@
 
 Welcome to the Fire Department Chief Interview Preparation ! This resource is designed to help you ace your Fire Department Chief interviews with confidence.
 
+The role of a Fire Department Chief is crucial in ensuring the safety and well-being of the community during emergencies. As a part of the government and public service sector, the Fire Department Chief oversees the overall management and operations of the fire department. They are responsible for developing and implementing emergency response plans, coordinating with other agencies during crises, and ensuring the department's readiness to handle fire incidents, hazardous material spills, and other emergencies. The Fire Department Chief also plays a vital role in training and supervising firefighters, ensuring compliance with safety regulations, and promoting fire prevention and public education initiatives. Their leadership and expertise are instrumental in protecting lives and property within the community.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Fire Department Chief or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Fire Department Chief interviews to help you prepare and succeed.

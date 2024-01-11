@@ -2,6 +2,8 @@
 
 Welcome to the Knowledge Manager Interview Preparation ! This resource is designed to help you ace your Knowledge Manager interviews with confidence.
 
+Library and Information Science (LIS) is a field that focuses on the acquisition, organization, and dissemination of information resources. Within LIS, Information Management specializes in the efficient and effective handling of information for organizations. One key job role in this field is that of a Knowledge Manager. A Knowledge Manager is responsible for developing and implementing strategies to identify, capture, organize, and distribute knowledge within an organization. They work closely with different departments, ensuring that valuable knowledge and information are shared and utilized effectively. By implementing knowledge management systems and processes, Knowledge Managers enhance collaboration, innovation, and decision-making, ultimately improving the overall performance and competitiveness of the organization.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Knowledge Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Knowledge Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Data Analyst Interview Preparation ! This resource is designed to help you ace your Data Analyst interviews with confidence.
 
+Library and Information Science (LIS) is a field that focuses on the organization, retrieval, and dissemination of information. Within this field, there is a specialization known as Information Management, which deals specifically with the effective handling and utilization of data. One career path within Information Management is that of a Data Analyst. Data Analysts are professionals who collect, analyze, and interpret large sets of data to uncover patterns, trends, and insights. They play a crucial role in helping organizations make informed decisions and optimize their operations. A Data Analyst must have strong analytical and problem-solving skills, as well as proficiency in data manipulation tools and statistical software.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Analyst interviews to help you prepare and succeed.

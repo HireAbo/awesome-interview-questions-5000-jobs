@@ -2,6 +2,8 @@
 
 Welcome to the Wind Turbine Technician Interview Preparation ! This resource is designed to help you ace your Wind Turbine Technician interviews with confidence.
 
+A Wind Turbine Technician is a professional specialized in maintaining, repairing, and troubleshooting wind turbines, which are vital components of renewable energy generation. These professionals play a crucial role in the renewable energy sector by ensuring the efficient operation of wind turbine systems. Their responsibilities include conducting regular inspections, performing preventive maintenance tasks, identifying and resolving technical issues, and replacing faulty components. Wind Turbine Technicians also collaborate with engineers and other professionals to optimize turbine performance and maximize energy production. As the demand for clean and sustainable energy sources continues to grow, the role of Wind Turbine Technicians becomes increasingly important in supporting the transition towards a greener future.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wind Turbine Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wind Turbine Technician interviews to help you prepare and succeed.

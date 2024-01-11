@@ -2,6 +2,8 @@
 
 Welcome to the Sustainable Energy Consultant Interview Preparation ! This resource is designed to help you ace your Sustainable Energy Consultant interviews with confidence.
 
+A Sustainable Energy Consultant is a professional who specializes in advising individuals and organizations on how to achieve sustainable energy solutions. They play a crucial role in the Energy and Utilities sector by promoting the use of renewable energy sources to reduce environmental impact and create a more sustainable future. As a consultant, they assess energy consumption, evaluate current systems, and develop customized strategies to optimize energy efficiency. They also provide guidance on renewable energy technologies such as solar, wind, hydro, and geothermal power. Sustainable Energy Consultants collaborate with clients to implement energy-saving measures, monitor energy usage, and provide ongoing support to ensure long-term sustainability and cost savings.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sustainable Energy Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sustainable Energy Consultant interviews to help you prepare and succeed.

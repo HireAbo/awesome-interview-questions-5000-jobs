@@ -2,6 +2,8 @@
 
 Welcome to the Sports Facilities Design Consultant Interview Preparation ! This resource is designed to help you ace your Sports Facilities Design Consultant interviews with confidence.
 
+A Sports Facilities Design Consultant is a professional who specializes in creating and enhancing sports facilities for optimal performance and user experience. They work closely with architects, engineers, and stakeholders to design and plan sports venues such as stadiums, arenas, and training centers. These consultants possess a deep understanding of sports and athletics, as well as a strong background in sports management. They ensure that the facilities meet the specific needs of different sports, considering factors like playing surfaces, seating arrangements, lighting, acoustics, and safety regulations. Their role is to create functional, aesthetically pleasing, and sustainable spaces that enhance athletic performance, spectator engagement, and revenue generation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sports Facilities Design Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sports Facilities Design Consultant interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife Disease Researcher Interview Preparation ! This resource is designed to help you ace your Wildlife Disease Researcher interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that combines knowledge of biology, ecology, and environmental studies to sustainably manage natural resources and ensure food security. Within this field, Wildlife Conservation plays a crucial role in preserving and protecting various species and their habitats. As a Wildlife Disease Researcher, your primary responsibility would be to study and understand the diseases affecting wildlife populations. This involves conducting scientific research, collecting samples, analyzing data, and developing strategies to mitigate the impact of diseases on wildlife. By identifying and managing wildlife diseases, you would contribute to the overall conservation efforts and the preservation of biodiversity.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Disease Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Disease Researcher interviews to help you prepare and succeed.

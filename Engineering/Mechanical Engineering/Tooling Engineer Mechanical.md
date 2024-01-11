@@ -2,6 +2,10 @@
 
 Welcome to the Tooling Engineer (Mechanical) Interview Preparation ! This resource is designed to help you ace your Tooling Engineer (Mechanical) interviews with confidence.
 
+A Tooling Engineer (Mechanical) is a professional in the field of mechanical engineering with a specialization in tooling design and development. They are responsible for creating, improving, and modifying tools and equipment used in manufacturing processes. These professionals combine their technical expertise with creativity to design tools that optimize efficiency, productivity, and safety in various industries.
+
+Tooling Engineers analyze production requirements, collaborate with other engineering teams, and conduct feasibility studies to determine the most effective tooling solutions. They use computer-aided design (CAD) software to create detailed drawings and specifications for tooling components, ensuring they meet the required standards and specifications. Additionally, they oversee the installation, testing, and maintenance of tools and equipment, troubleshooting any issues that arise during the manufacturing process. A Tooling Engineer's role is crucial in developing innovative and cost-effective solutions to enhance manufacturing processes and drive overall productivity.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Tooling Engineer (Mechanical) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Tooling Engineer (Mechanical) interviews to help you prepare and succeed.

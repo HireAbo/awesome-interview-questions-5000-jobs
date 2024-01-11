@@ -2,6 +2,8 @@
 
 Welcome to the Metadata Librarian Interview Preparation ! This resource is designed to help you ace your Metadata Librarian interviews with confidence.
 
+A Metadata Librarian plays a crucial role in Library and Information Science, specifically in the field of Librarianship. This profession involves managing and organizing metadata, which is essential for effective information retrieval in libraries and digital repositories. Metadata Librarians are responsible for creating, maintaining, and enhancing metadata records to ensure accurate and consistent access to information resources. They possess a deep understanding of information organization, classification systems, and standards such as Dublin Core, MARC, and Linked Data. Additionally, Metadata Librarians collaborate with other professionals to develop strategies and workflows for metadata creation and quality control, ultimately contributing to the overall accessibility and usability of library collections.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Metadata Librarian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Metadata Librarian interviews to help you prepare and succeed.

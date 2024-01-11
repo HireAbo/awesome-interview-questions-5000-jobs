@@ -2,6 +2,8 @@
 
 Welcome to the Municipal Engineer Interview Preparation ! This resource is designed to help you ace your Municipal Engineer interviews with confidence.
 
+A municipal engineer plays a crucial role in the field of civil engineering, focusing specifically on the planning, design, and implementation of projects related to public infrastructure. These professionals are responsible for ensuring the safety, efficiency, and sustainability of various municipal facilities and systems, such as roads, bridges, water supply networks, waste management systems, and public buildings. Municipal engineers collaborate with government agencies, architects, contractors, and other stakeholders to develop and execute projects that meet the needs of the community while adhering to regulatory standards. Their expertise in analyzing data, conducting feasibility studies, and managing construction projects contributes to the development and maintenance of essential public infrastructure.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Municipal Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Municipal Engineer interviews to help you prepare and succeed.

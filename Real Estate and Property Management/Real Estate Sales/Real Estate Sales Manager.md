@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Sales Manager Interview Preparation ! This resource is designed to help you ace your Real Estate Sales Manager interviews with confidence.
 
+Real Estate and Property Management is a dynamic industry that involves the buying, selling, leasing, and managing of properties. It encompasses a wide range of activities, including residential, commercial, and industrial real estate. Within this field, Real Estate Sales is a crucial aspect that involves the promotion and negotiation of property sales. As a Real Estate Sales Manager, you would be responsible for leading and supervising a team of real estate agents, ensuring their productivity, setting sales targets, and implementing effective sales strategies. This role requires excellent communication and leadership skills, a deep understanding of the real estate market, and the ability to build strong client relationships.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Sales Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Sales Manager interviews to help you prepare and succeed.

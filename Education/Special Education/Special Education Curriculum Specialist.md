@@ -2,6 +2,8 @@
 
 Welcome to the Special Education Curriculum Specialist Interview Preparation ! This resource is designed to help you ace your Special Education Curriculum Specialist interviews with confidence.
 
+A Special Education Curriculum Specialist is a highly skilled professional responsible for developing and implementing specialized educational programs for students with disabilities. These specialists work closely with teachers, parents, and administrators to create individualized learning plans that cater to the unique needs of students with disabilities. They provide guidance and support to teachers in adapting curriculum materials, instructional strategies, and assessment methods to meet the diverse learning requirements of students with disabilities. Special Education Curriculum Specialists also collaborate with other professionals to ensure that students receive the necessary accommodations and modifications needed to succeed in the classroom. Their expertise and dedication play a crucial role in ensuring that every student receives a quality education that supports their individual growth and development.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Special Education Curriculum Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Special Education Curriculum Specialist interviews to help you prepare and succeed.

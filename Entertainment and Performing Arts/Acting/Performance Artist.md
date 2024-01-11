@@ -2,6 +2,8 @@
 
 Welcome to the Performance Artist Interview Preparation ! This resource is designed to help you ace your Performance Artist interviews with confidence.
 
+A performance artist is a professional who specializes in creating and delivering captivating and thought-provoking performances. This job requires a combination of acting skills, creativity, and the ability to connect with an audience on a deep emotional level. Performance artists often use their bodies, voices, and various artistic mediums to convey their messages and evoke powerful reactions from viewers. They may engage in a wide range of activities such as theatrical performances, live installations, interactive experiences, and multimedia presentations. By pushing boundaries, challenging societal norms, and exploring complex themes, performance artists strive to provoke meaningful conversations and inspire personal reflection in their audiences, making a lasting impact on the world of entertainment and performing arts.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Performance Artist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Performance Artist interviews to help you prepare and succeed.

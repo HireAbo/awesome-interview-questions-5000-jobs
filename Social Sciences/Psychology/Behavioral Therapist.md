@@ -2,6 +2,8 @@
 
 Welcome to the Behavioral Therapist Interview Preparation ! This resource is designed to help you ace your Behavioral Therapist interviews with confidence.
 
+A behavioral therapist is a professional in the field of psychology, specializing in the treatment of various mental health disorders and behavioral issues. They use evidence-based techniques to help individuals modify and change their behavior patterns, thoughts, and emotions. Behavioral therapists work closely with their clients to identify the underlying causes of their problems and develop customized treatment plans to address them. They may employ cognitive-behavioral therapy (CBT), dialectical behavior therapy (DBT), or other therapeutic approaches to help individuals overcome challenges such as anxiety, depression, addiction, and phobias. Additionally, behavioral therapists may work in a variety of settings, including clinics, hospitals, schools, or private practices, helping clients lead healthier and more fulfilling lives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Behavioral Therapist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Behavioral Therapist interviews to help you prepare and succeed.

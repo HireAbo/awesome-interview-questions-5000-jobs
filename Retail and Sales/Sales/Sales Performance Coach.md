@@ -2,6 +2,10 @@
 
 Welcome to the Sales Performance Coach Interview Preparation ! This resource is designed to help you ace your Sales Performance Coach interviews with confidence.
 
+A Sales Performance Coach is a professional who specializes in improving the sales performance of individuals and teams within a retail setting. They work closely with sales professionals, managers, and executives to identify areas of improvement, develop effective sales strategies, and enhance overall sales performance. 
+
+A Sales Performance Coach is responsible for providing personalized coaching and guidance to sales teams, helping them set and achieve sales goals, and identifying and addressing any performance gaps. They analyze sales data and metrics, conduct training sessions, and provide feedback and recommendations for improvement. A Sales Performance Coach also stays up-to-date with industry trends and best practices to ensure their advice is aligned with the latest sales techniques and methodologies. Their ultimate goal is to drive sales growth and improve customer satisfaction within the retail sector.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sales Performance Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sales Performance Coach interviews to help you prepare and succeed.

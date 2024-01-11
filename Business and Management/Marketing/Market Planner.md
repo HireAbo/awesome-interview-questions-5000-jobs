@@ -2,6 +2,8 @@
 
 Welcome to the Market Planner Interview Preparation ! This resource is designed to help you ace your Market Planner interviews with confidence.
 
+A Market Planner is a vital role within the field of Business and Management, specifically in the area of Marketing. Market Planners are responsible for conducting comprehensive market research and analysis to identify consumer trends, competitors' strategies, and market opportunities. They play a crucial role in developing effective marketing strategies and plans to maximize revenue and profitability for a company. Market Planners utilize their analytical skills to interpret data, forecast market trends, and make informed decisions regarding pricing, product positioning, and promotional activities. Additionally, they collaborate with cross-functional teams, such as sales and product development, to ensure alignment and successful implementation of marketing plans. A Market Planner's role is pivotal in driving business growth and maintaining a competitive edge in the market.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Market Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Market Planner interviews to help you prepare and succeed.

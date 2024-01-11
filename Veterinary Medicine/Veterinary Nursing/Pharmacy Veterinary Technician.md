@@ -2,6 +2,8 @@
 
 Welcome to the Pharmacy Veterinary Technician Interview Preparation ! This resource is designed to help you ace your Pharmacy Veterinary Technician interviews with confidence.
 
+Veterinary Medicine is a specialized field that focuses on the medical treatment and care of animals. It encompasses a wide range of areas, including surgery, diagnostics, and preventive medicine. Within this field, Veterinary Nursing plays a crucial role in supporting veterinarians in their practice. Veterinary Nurses assist with various tasks such as administering medications, monitoring anesthesia, and providing post-operative care. Another important role within Veterinary Medicine is that of a Pharmacy Veterinary Technician. These professionals are responsible for the accurate dispensing of medications and ensuring the proper handling and storage of pharmaceuticals. Their expertise in pharmacology and pharmacy management is indispensable in maintaining the health and well-being of animals in veterinary practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Pharmacy Veterinary Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Pharmacy Veterinary Technician interviews to help you prepare and succeed.

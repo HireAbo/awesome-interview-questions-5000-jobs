@@ -2,6 +2,8 @@
 
 Welcome to the Digital Design Engineer Interview Preparation ! This resource is designed to help you ace your Digital Design Engineer interviews with confidence.
 
+A Digital Design Engineer is a professional who specializes in creating and implementing digital systems using various programming languages and hardware description languages. They are responsible for designing, testing, and optimizing digital circuits and systems such as microprocessors, memory chips, and integrated circuits. Digital Design Engineers work closely with other engineers and professionals in the field of electrical engineering to develop innovative solutions for various industries, including telecommunications, automotive, aerospace, and consumer electronics. They utilize their knowledge of computer architecture, algorithms, and logic design principles to ensure the functionality, efficiency, and reliability of digital hardware. A career as a Digital Design Engineer offers exciting opportunities to contribute to the advancement of technology and shape the future of digital systems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Digital Design Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Digital Design Engineer interviews to help you prepare and succeed.

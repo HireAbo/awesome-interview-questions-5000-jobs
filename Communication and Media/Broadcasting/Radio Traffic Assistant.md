@@ -2,6 +2,8 @@
 
 Welcome to the Radio Traffic Assistant Interview Preparation ! This resource is designed to help you ace your Radio Traffic Assistant interviews with confidence.
 
+A Radio Traffic Assistant is a crucial role within the field of Communication and Media Broadcasting. This position involves coordinating and organizing the scheduling of advertisements, ensuring smooth operations of radio traffic, and managing the flow of commercial content. Radio Traffic Assistants work closely with sales and production teams to ensure accurate and timely delivery of commercials, while also maintaining an organized database of contracts and client information. They play a vital role in maintaining effective communication between various departments, ensuring that all commercials are aired correctly and in compliance with industry regulations. Strong organizational and administrative skills are essential in this role, as well as a keen eye for detail and excellent communication skills.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Radio Traffic Assistant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Radio Traffic Assistant interviews to help you prepare and succeed.

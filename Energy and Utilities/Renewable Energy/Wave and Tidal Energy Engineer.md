@@ -2,6 +2,8 @@
 
 Welcome to the Wave and Tidal Energy Engineer Interview Preparation ! This resource is designed to help you ace your Wave and Tidal Energy Engineer interviews with confidence.
 
+A Wave and Tidal Energy Engineer specializes in harnessing the power of waves and tides to generate renewable energy. They design, develop, and maintain systems that convert the mechanical energy of ocean waves and tides into electricity. These engineers work on various aspects of wave and tidal energy projects, including site selection, feasibility studies, systems design, and project management. They collaborate with multidisciplinary teams to ensure the safe and efficient operation of wave and tidal energy devices. Wave and Tidal Energy Engineers also conduct research to improve the performance and reliability of these renewable energy systems, contributing to the global transition towards sustainable and clean energy sources.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wave and Tidal Energy Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wave and Tidal Energy Engineer interviews to help you prepare and succeed.

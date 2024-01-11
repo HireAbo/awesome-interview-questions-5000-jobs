@@ -2,6 +2,8 @@
 
 Welcome to the Plumbing Foreman Interview Preparation ! This resource is designed to help you ace your Plumbing Foreman interviews with confidence.
 
+A Plumbing Foreman is a skilled tradesperson responsible for overseeing and managing plumbing projects. They play a crucial role in coordinating and supervising the work of a team of plumbers, ensuring that projects are completed efficiently and according to specifications. The Plumbing Foreman is responsible for interpreting blueprints, planning and scheduling work, ordering materials, and ensuring compliance with building codes and safety regulations. They also provide guidance and training to their team, assisting with problem-solving and troubleshooting. Strong leadership, communication, and organizational skills are essential for success in this role. Plumbing Foremen are in high demand due to the constant need for plumbing services in construction, maintenance, and renovation projects.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Plumbing Foreman or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Plumbing Foreman interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Reader Interview Preparation ! This resource is designed to help you ace your Reader interviews with confidence.
 
+A reader job in the field of acting within the entertainment and performing arts industry involves the crucial role of analyzing and interpreting scripts or texts. These individuals possess a deep understanding of dramatic literature, storytelling techniques, and character development. They work closely with directors, producers, and actors to provide valuable insights and suggestions regarding the script's structure, pacing, tone, and overall effectiveness. Readers play a vital role in auditions and casting processes by providing feedback and recommendations on actors' performances. With their keen eye for detail and creative instincts, readers contribute to the success and artistic quality of productions, ensuring that the story comes alive on stage or screen.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Reader or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Reader interviews to help you prepare and succeed.

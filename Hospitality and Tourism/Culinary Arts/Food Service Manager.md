@@ -2,6 +2,8 @@
 
 Welcome to the Food Service Manager Interview Preparation ! This resource is designed to help you ace your Food Service Manager interviews with confidence.
 
+Hospitality and Tourism encompass various sectors, including the culinary arts industry, which offers exciting career opportunities for those interested in food service management. A food service manager plays a crucial role in overseeing operations within dining establishments, such as restaurants, hotels, or resorts. They are responsible for ensuring high-quality food and beverage service, managing staff, monitoring inventory, and maintaining a pleasant dining experience for guests. With an emphasis on customer satisfaction, food service managers must possess strong leadership and organizational skills, as well as a passion for culinary excellence. This role offers the chance to work in a dynamic and fast-paced environment, making it an ideal career path for individuals with a love for hospitality and gastronomy.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Food Service Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Food Service Manager interviews to help you prepare and succeed.

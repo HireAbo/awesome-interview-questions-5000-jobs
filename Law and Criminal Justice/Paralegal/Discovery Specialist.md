@@ -2,6 +2,8 @@
 
 Welcome to the Discovery Specialist Interview Preparation ! This resource is designed to help you ace your Discovery Specialist interviews with confidence.
 
+A Paralegal Discovery Specialist plays a crucial role in the field of Law and Criminal Justice. This role involves assisting attorneys and legal teams in the discovery process, which is a critical phase in litigation. The Discovery Specialist is responsible for gathering and organizing relevant information, such as documents, evidence, and witness statements, to build a strong case. They have an in-depth understanding of legal procedures and regulations, ensuring compliance throughout the discovery process. Additionally, they may conduct research, draft legal documents, and assist in trial preparation. The Paralegal Discovery Specialist is an invaluable asset to attorneys, providing essential support and contributing to the successful resolution of legal cases.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Discovery Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Discovery Specialist interviews to help you prepare and succeed.

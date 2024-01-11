@@ -2,6 +2,8 @@
 
 Welcome to the Nutritionist Interview Preparation ! This resource is designed to help you ace your Nutritionist interviews with confidence.
 
+Social work and human services, as well as public health, play vital roles in promoting the overall well-being of individuals and communities. Social workers and human service professionals work to address social issues and provide support to vulnerable populations, aiming to enhance their quality of life. They engage in counseling, advocacy, and resource coordination to assist individuals and families in overcoming various challenges. On the other hand, public health professionals focus on preventing diseases, promoting healthy lifestyles, and improving healthcare systems. Within the realm of public health, nutritionists play a crucial role in educating individuals about healthy eating habits, designing personalized diet plans, and promoting a balanced approach to nutrition for optimal health.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nutritionist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nutritionist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Data Science Team Lead Interview Preparation ! This resource is designed to help you ace your Data Science Team Lead interviews with confidence.
 
+Information Technology (IT) is a rapidly evolving field that encompasses the use of computers, software, and networks to manage and process information. It involves the development, implementation, and maintenance of technology systems to support various business functions. Data Science is a specialized branch of IT that focuses on extracting insights and knowledge from large sets of data using statistical and analytical techniques. Data Science Team Lead is a crucial role within an organization's data science team. They are responsible for managing and leading a group of data scientists, setting goals and priorities, overseeing project execution, and ensuring the team is delivering high-quality and impactful data-driven solutions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Science Team Lead or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Science Team Lead interviews to help you prepare and succeed.

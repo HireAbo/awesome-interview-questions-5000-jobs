@@ -2,6 +2,8 @@
 
 Welcome to the Cloud Solutions Sales Specialist Interview Preparation ! This resource is designed to help you ace your Cloud Solutions Sales Specialist interviews with confidence.
 
+A Cloud Solutions Sales Specialist is a professional who specializes in selling cloud computing solutions in the field of Information Technology (IT). Cloud computing refers to the practice of utilizing a network of remote servers hosted on the internet to store, manage, and process data, rather than on a local server or personal computer. As a Cloud Solutions Sales Specialist, the primary responsibility is to understand the unique needs and requirements of clients, and then recommend and sell appropriate cloud-based solutions that align with their business objectives. This involves effectively communicating the benefits of cloud computing, addressing any concerns or objections, and providing ongoing support and guidance to clients throughout the sales process.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cloud Solutions Sales Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cloud Solutions Sales Specialist interviews to help you prepare and succeed.

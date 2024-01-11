@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Health Inspector Interview Preparation ! This resource is designed to help you ace your Environmental Health Inspector interviews with confidence.
 
+A government and public service career in emergency management offers a diverse range of roles, one of which is the environmental health inspector. These professionals play a crucial role in ensuring public safety and minimizing health risks during emergencies and disasters. Environmental health inspectors are responsible for conducting inspections and assessments to identify potential hazards, such as chemical spills, contaminated water supplies, or unsafe waste management practices. They enforce regulations and standards to protect public health, investigate complaints, and provide guidance to individuals, businesses, and communities on how to mitigate risks and improve environmental conditions. These dedicated individuals are instrumental in safeguarding communities and promoting a healthy and sustainable environment for all.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Health Inspector or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Health Inspector interviews to help you prepare and succeed.

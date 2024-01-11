@@ -2,6 +2,8 @@
 
 Welcome to the Product Manager Interview Preparation ! This resource is designed to help you ace your Product Manager interviews with confidence.
 
+A Product Manager is a key role in the field of Project Management. They are responsible for overseeing the development, launch, and success of a product or service. As a Product Manager, you will be involved in various stages of the project lifecycle, from conception to delivery. Your primary focus will be on understanding customer needs, conducting market research, and defining product requirements. Additionally, you will collaborate with cross-functional teams such as engineering, design, and marketing to ensure the product's alignment with business goals and objectives. A successful Product Manager possesses strong leadership skills, strategic thinking, and the ability to effectively communicate and prioritize tasks.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Product Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Product Manager interviews to help you prepare and succeed.

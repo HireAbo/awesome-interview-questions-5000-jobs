@@ -2,6 +2,8 @@
 
 Welcome to the Mushroom Grower Interview Preparation ! This resource is designed to help you ace your Mushroom Grower interviews with confidence.
 
+Agriculture is the practice of cultivating plants and rearing animals for food, fiber, medicinal plants, and other products. It plays a crucial role in sustaining human life and is essential for the global economy. Environmental science, on the other hand, focuses on studying the environment and its components, including the interactions between humans and nature. It aims to understand and solve environmental issues, such as pollution, climate change, and biodiversity loss. Within the field of agriculture, the role of a Mushroom Grower is to cultivate and harvest mushrooms. They are responsible for maintaining optimal growing conditions, monitoring disease and pest control, and ensuring a successful mushroom yield.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Mushroom Grower or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Mushroom Grower interviews to help you prepare and succeed.

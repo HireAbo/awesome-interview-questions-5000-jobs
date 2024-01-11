@@ -2,6 +2,8 @@
 
 Welcome to the EMC Engineer (Electromagnetic Compatibility Engineer) Interview Preparation ! This resource is designed to help you ace your EMC Engineer (Electromagnetic Compatibility Engineer) interviews with confidence.
 
+An EMC Engineer, also known as an Electromagnetic Compatibility Engineer, is a specialized professional within the field of Electrical Engineering. These engineers are responsible for ensuring that electronic devices and systems operate harmoniously without interfering with each other or with their surrounding environment. EMC Engineers design, develop, and test electrical systems to minimize electromagnetic interference and ensure compliance with regulatory standards. They utilize their knowledge of electromagnetic theory, circuitry, and signal processing to identify and resolve issues related to electromagnetic compatibility. Additionally, EMC Engineers may conduct electromagnetic compatibility tests, analyze data, and propose design modifications to improve the overall performance and reliability of electrical systems. Their expertise is crucial in industries such as telecommunications, automotive, aerospace, and consumer electronics.
+
 ## 🚀 Overview
 
 Whether you're a seasoned EMC Engineer (Electromagnetic Compatibility Engineer) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in EMC Engineer (Electromagnetic Compatibility Engineer) interviews to help you prepare and succeed.

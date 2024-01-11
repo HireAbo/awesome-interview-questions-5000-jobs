@@ -2,6 +2,8 @@
 
 Welcome to the Mechanical Engineer Interview Preparation ! This resource is designed to help you ace your Mechanical Engineer interviews with confidence.
 
+Aviation and aerospace are dynamic industries that involve the design, development, and manufacturing of aircraft and spacecraft. Aeronautical engineering is a specialized branch of engineering that focuses on the design and construction of aircraft. Within this field, mechanical engineers play a vital role. A mechanical engineer in the aeronautical industry is responsible for various tasks, including designing aircraft components, analyzing and testing prototypes, and ensuring compliance with safety regulations. They also work on improving fuel efficiency, reducing noise, and enhancing overall performance. With the rapid advancements in technology, the demand for skilled mechanical engineers in the aviation and aerospace sectors is steadily increasing, making it an exciting and rewarding career choice.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Mechanical Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Mechanical Engineer interviews to help you prepare and succeed.

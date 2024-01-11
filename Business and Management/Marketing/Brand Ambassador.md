@@ -2,6 +2,8 @@
 
 Welcome to the Brand Ambassador Interview Preparation ! This resource is designed to help you ace your Brand Ambassador interviews with confidence.
 
+A Brand Ambassador is a vital role within the field of marketing, specifically focusing on building and promoting a company's brand image. Brand Ambassadors act as the face of the organization, representing its values and mission to the public. They are responsible for creating awareness, generating interest, and fostering positive relationships with potential customers. This role requires exceptional communication skills, as Brand Ambassadors must effectively convey the company's message and key selling points. Moreover, they should possess strong interpersonal skills to engage with diverse audiences and build brand loyalty. Brand Ambassadors play a critical role in driving brand recognition, increasing customer engagement, and ultimately contributing to the overall success of a business.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Brand Ambassador or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Brand Ambassador interviews to help you prepare and succeed.

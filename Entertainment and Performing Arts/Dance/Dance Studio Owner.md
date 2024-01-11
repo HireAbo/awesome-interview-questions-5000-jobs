@@ -2,6 +2,8 @@
 
 Welcome to the Dance Studio Owner Interview Preparation ! This resource is designed to help you ace your Dance Studio Owner interviews with confidence.
 
+A dance studio owner is an individual who manages and operates a facility dedicated to the art of dance. This role requires a deep passion for dance, as well as strong business acumen. Dance studio owners are responsible for creating a nurturing and inspiring environment for dancers of all ages and skill levels. They oversee all aspects of the studio, including hiring and training dance instructors, scheduling classes, managing finances, and marketing the studio to attract new students. Additionally, dance studio owners often play a vital role in the artistic direction of the studio, curating dance programs and performances that showcase the talents of their students.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Dance Studio Owner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Dance Studio Owner interviews to help you prepare and succeed.

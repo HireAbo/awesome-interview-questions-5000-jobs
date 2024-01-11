@@ -2,6 +2,8 @@
 
 Welcome to the Renewable Energy Environmental Planner Interview Preparation ! This resource is designed to help you ace your Renewable Energy Environmental Planner interviews with confidence.
 
+A Renewable Energy Environmental Planner is a professional who specializes in the development and implementation of renewable energy projects with a focus on environmental sustainability. They play a crucial role in the energy and utilities sector by ensuring that renewable energy projects comply with environmental regulations and guidelines. Their responsibilities include conducting environmental impact assessments, analyzing data related to renewable energy resources, and proposing strategies to minimize negative environmental effects. Additionally, they collaborate with various stakeholders, including government agencies, environmental organizations, and local communities, to ensure that renewable energy projects are designed and executed in an environmentally responsible manner. The role of a Renewable Energy Environmental Planner is vital in promoting a greener and more sustainable future.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Renewable Energy Environmental Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Renewable Energy Environmental Planner interviews to help you prepare and succeed.

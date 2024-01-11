@@ -2,6 +2,8 @@
 
 Welcome to the Senior Mechanical Engineer Interview Preparation ! This resource is designed to help you ace your Senior Mechanical Engineer interviews with confidence.
 
+A Senior Mechanical Engineer job is a prominent position within the field of Engineering, specifically Mechanical Engineering. As a Senior Mechanical Engineer, individuals are responsible for overseeing and leading various projects related to the design, development, and implementation of mechanical systems and processes. This role requires extensive knowledge and experience in mechanical engineering principles, as well as expertise in utilizing computer-aided design (CAD) software and other specialized engineering tools. Senior Mechanical Engineers collaborate closely with cross-functional teams, including architects, technicians, and other engineers, to ensure the successful completion of projects. They often provide guidance, mentorship, and technical support to junior engineers, demonstrating strong leadership skills and problem-solving abilities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Senior Mechanical Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Senior Mechanical Engineer interviews to help you prepare and succeed.

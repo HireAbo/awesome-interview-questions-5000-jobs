@@ -2,6 +2,12 @@
 
 Welcome to the Commercial Real Estate Sales Interview Preparation ! This resource is designed to help you ace your Commercial Real Estate Sales interviews with confidence.
 
+Real Estate and Property Management is a dynamic industry that encompasses various aspects of buying, selling, and managing properties. Within this field, Real Estate Sales professionals specialize in different sectors, including Commercial Real Estate Sales. 
+
+Commercial Real Estate Sales involves facilitating the buying, selling, and leasing of commercial properties such as office buildings, retail spaces, and industrial facilities. These professionals play a crucial role in identifying potential buyers or tenants, showcasing properties, negotiating deals, and ensuring a smooth transaction process. 
+
+Successful Commercial Real Estate Sales agents possess excellent communication and negotiation skills, market knowledge, and the ability to build and maintain relationships with clients. This job offers exciting opportunities to work with diverse clients, participate in high-value transactions, and contribute to the growth of the commercial real estate market.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Commercial Real Estate Sales or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Commercial Real Estate Sales interviews to help you prepare and succeed.

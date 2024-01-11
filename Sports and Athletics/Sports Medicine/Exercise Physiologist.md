@@ -2,6 +2,8 @@
 
 Welcome to the Exercise Physiologist Interview Preparation ! This resource is designed to help you ace your Exercise Physiologist interviews with confidence.
 
+A Sports and Athletics Exercise Physiologist is a specialist who focuses on optimizing athletic performance and preventing injuries through exercise and training techniques. They work closely with athletes of all levels, from recreational to professional, to develop customized exercise programs that enhance their physical abilities and overall performance. The primary goal of a sports and athletics exercise physiologist is to improve an athlete's strength, endurance, flexibility, and coordination. They also play a crucial role in injury prevention and rehabilitation, developing strategies to help athletes recover and return to their sports activities safely and efficiently. This job requires extensive knowledge of human anatomy, physiology, and biomechanics, as well as a passion for sports and athletics.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Exercise Physiologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Exercise Physiologist interviews to help you prepare and succeed.

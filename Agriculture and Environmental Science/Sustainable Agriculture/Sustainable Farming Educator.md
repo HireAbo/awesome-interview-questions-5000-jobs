@@ -2,6 +2,8 @@
 
 Welcome to the Sustainable Farming Educator Interview Preparation ! This resource is designed to help you ace your Sustainable Farming Educator interviews with confidence.
 
+Agriculture and Environmental Science is a field that focuses on the study of sustainable farming practices and their impact on the environment. Sustainable Agriculture aims to produce food in a way that is environmentally friendly, economically viable, and socially responsible. As a Sustainable Farming Educator, your role would be to educate and train farmers on adopting sustainable farming techniques. This would involve conducting workshops, organizing field visits, and providing hands-on training on topics such as organic farming, soil conservation, water management, and integrated pest management. By promoting sustainable practices, you would contribute to the preservation of natural resources, the reduction of greenhouse gas emissions, and the overall well-being of our planet.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sustainable Farming Educator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sustainable Farming Educator interviews to help you prepare and succeed.

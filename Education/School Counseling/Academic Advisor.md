@@ -2,6 +2,8 @@
 
 Welcome to the Academic Advisor Interview Preparation ! This resource is designed to help you ace your Academic Advisor interviews with confidence.
 
+The role of an Academic Advisor within the field of School Counseling is essential in ensuring the academic success and personal development of students. Academic Advisors provide guidance and support to students in various aspects of their educational journey. They assist students in selecting the appropriate courses, developing personalized academic plans, and setting and achieving academic goals. Additionally, Academic Advisors provide information about academic programs, graduation requirements, and university transfer options. They also offer assistance in navigating educational resources, such as tutoring services and study skills workshops. Academic Advisors play a pivotal role in empowering students to make informed decisions about their academic and career paths, ultimately fostering a positive learning environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Academic Advisor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Academic Advisor interviews to help you prepare and succeed.

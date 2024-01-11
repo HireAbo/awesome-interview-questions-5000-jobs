@@ -2,6 +2,8 @@
 
 Welcome to the Structural Engineer (Aerospace) Interview Preparation ! This resource is designed to help you ace your Structural Engineer (Aerospace) interviews with confidence.
 
+Aerospace engineering is a highly specialized field that focuses on the design, development, and maintenance of aircraft and spacecraft. Within this discipline, a structural engineer plays a crucial role in ensuring the structural integrity and safety of aerospace vehicles. As a structural engineer in the aerospace industry, your primary responsibility is to design and analyze the various components and structures of aircraft and spacecraft. This includes evaluating materials, conducting stress and fatigue analyses, and ensuring compliance with safety regulations. You will also collaborate with other engineers and professionals to develop innovative solutions and troubleshoot any structural issues. A strong technical background, attention to detail, and a passion for aviation are essential for success in this challenging role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Structural Engineer (Aerospace) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Structural Engineer (Aerospace) interviews to help you prepare and succeed.

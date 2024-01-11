@@ -2,6 +2,8 @@
 
 Welcome to the Archival Specialist Interview Preparation ! This resource is designed to help you ace your Archival Specialist interviews with confidence.
 
+Library and Information Science (LIS) is a multidisciplinary field that focuses on the organization, preservation, and dissemination of information. Within LIS, archiving is a crucial aspect that involves managing and preserving records of enduring value. Archival Specialists play a vital role in this field by ensuring the proper maintenance and accessibility of archival materials. They are responsible for collecting, arranging, describing, and preserving documents, manuscripts, photographs, and other types of historical records. Archival Specialists possess excellent organizational and research skills, as they often collaborate with researchers, historians, and the general public to provide access to valuable information. Their expertise contributes to the preservation and understanding of our collective memory.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Archival Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Archival Specialist interviews to help you prepare and succeed.

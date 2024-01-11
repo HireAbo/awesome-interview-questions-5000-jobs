@@ -2,6 +2,8 @@
 
 Welcome to the Anthropologist Interview Preparation ! This resource is designed to help you ace your Anthropologist interviews with confidence.
 
+Anthropology is a branch of social sciences that focuses on the study of human beings, their cultures, societies, and behaviors. Within this field, anthropologists play a crucial role in understanding and interpreting human societies and their dynamics. An anthropologist's job involves conducting research, collecting data, and analyzing cultural patterns, social structures, and historical contexts. They may also engage in fieldwork, participating in communities to gain firsthand knowledge and insights. Anthropologists often collaborate with other professionals, such as archaeologists and sociologists, to create a comprehensive understanding of human culture and evolution. Their findings contribute to diverse areas, including academia, government policy-making, social work, and international development.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Anthropologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Anthropologist interviews to help you prepare and succeed.

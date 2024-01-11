@@ -2,6 +2,8 @@
 
 Welcome to the University Archivist Interview Preparation ! This resource is designed to help you ace your University Archivist interviews with confidence.
 
+Library and Information Science encompasses a wide range of disciplines, with one of them being archiving. Archiving involves the collection, preservation, and organization of historical records and materials for future reference and research. University Archivists play a crucial role in this field, focusing specifically on the preservation and management of archival materials within a university setting. They are responsible for acquiring, appraising, cataloging, and digitizing historical documents, photographs, audiovisual recordings, and other media. University Archivists also collaborate with faculty, students, and researchers to provide access to these resources, ensuring they are properly stored and protected. Their work is essential in preserving the rich history and cultural heritage of universities for generations to come.
+
 ## 🚀 Overview
 
 Whether you're a seasoned University Archivist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in University Archivist interviews to help you prepare and succeed.

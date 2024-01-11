@@ -2,6 +2,8 @@
 
 Welcome to the Special Education Physical Education Teacher Interview Preparation ! This resource is designed to help you ace your Special Education Physical Education Teacher interviews with confidence.
 
+A Special Education Physical Education Teacher is a professional who specializes in providing physical education instruction to students with special needs. This job involves adapting and modifying physical activities to meet the individual abilities and needs of students with disabilities. The teacher is responsible for creating inclusive and safe environments, promoting physical fitness, and enhancing motor skills development. They collaborate with other educators, therapists, and parents to develop individualized education plans and goals for each student. This role requires strong communication and interpersonal skills, as well as knowledge of various disabilities and adaptive techniques. A Special Education Physical Education Teacher plays a crucial role in promoting the overall well-being and inclusion of students with special needs in sports and athletics.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Special Education Physical Education Teacher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Special Education Physical Education Teacher interviews to help you prepare and succeed.

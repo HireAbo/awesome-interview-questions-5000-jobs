@@ -2,6 +2,8 @@
 
 Welcome to the Wholesale Sales Representative Interview Preparation ! This resource is designed to help you ace your Wholesale Sales Representative interviews with confidence.
 
+A Wholesale Sales Representative plays a crucial role in the retail and sales industry. This role involves selling products in bulk to retailers, distributors, or other businesses rather than individual customers. As a Wholesale Sales Representative, you are responsible for establishing and maintaining relationships with clients, negotiating contracts and terms, and ensuring timely and efficient delivery of goods. You will also analyze market trends, identify potential customers, and develop strategies to maximize sales and profitability. Excellent communication and interpersonal skills are essential for this position, as you will be required to build rapport with clients and provide exceptional customer service.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wholesale Sales Representative or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wholesale Sales Representative interviews to help you prepare and succeed.

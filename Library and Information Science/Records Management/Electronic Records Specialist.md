@@ -2,6 +2,8 @@
 
 Welcome to the Electronic Records Specialist Interview Preparation ! This resource is designed to help you ace your Electronic Records Specialist interviews with confidence.
 
+Library and Information Science, with its focus on the management and organization of information resources, encompasses various specialized fields, including Records Management. Within this field, the role of an Electronic Records Specialist plays a crucial part in ensuring the effective management of electronic records within organizations. As an Electronic Records Specialist, one is responsible for establishing and implementing policies and procedures for the creation, maintenance, retrieval, and disposal of electronic records. They possess expertise in data governance, metadata management, and information security. Additionally, they collaborate with IT professionals to develop and maintain electronic records systems, ensuring compliance with legal and regulatory requirements. The role requires strong analytical and problem-solving skills, as well as a deep understanding of information management principles in the digital age.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Electronic Records Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Electronic Records Specialist interviews to help you prepare and succeed.

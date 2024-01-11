@@ -2,6 +2,8 @@
 
 Welcome to the Dermatology Nurse Interview Preparation ! This resource is designed to help you ace your Dermatology Nurse interviews with confidence.
 
+A Dermatology Nurse is a specialized healthcare professional who provides care and treatment for patients with skin conditions and diseases. They work closely with dermatologists to diagnose, treat, and manage various skin-related issues such as acne, psoriasis, eczema, and skin cancer. Dermatology Nurses perform a wide range of tasks including conducting patient assessments, administering medications and treatments, assisting with procedures like biopsies and excisions, and educating patients about skincare and disease prevention. They may also assist with cosmetic procedures such as laser treatments and chemical peels. Dermatology Nurses play a crucial role in promoting skin health and improving the quality of life for patients by providing compassionate and comprehensive care.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Dermatology Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Dermatology Nurse interviews to help you prepare and succeed.

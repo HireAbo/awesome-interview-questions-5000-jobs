@@ -2,6 +2,8 @@
 
 Welcome to the Behavior Analyst Interview Preparation ! This resource is designed to help you ace your Behavior Analyst interviews with confidence.
 
+A Behavior Analyst job is a specialized role within the field of psychology, which falls under the broader umbrella of social sciences. Behavior analysts study human behavior and apply principles of psychology to understand and modify behaviors. They work with individuals who have behavioral issues, developmental disabilities, or mental health conditions. Behavior analysts assess, analyze, and design interventions to improve behavior patterns and promote positive outcomes. They use various techniques such as direct observation, data collection, and analysis to evaluate behavior and develop effective treatment plans. Behavior analysts often work in collaboration with other professionals, such as therapists, educators, and caregivers, to achieve desired behavioral changes and enhance overall well-being.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Behavior Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Behavior Analyst interviews to help you prepare and succeed.

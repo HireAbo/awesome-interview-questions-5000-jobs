@@ -2,6 +2,8 @@
 
 Welcome to the Information Analyst Interview Preparation ! This resource is designed to help you ace your Information Analyst interviews with confidence.
 
+Library and Information Science (LIS) is a field that focuses on the organization, management, and retrieval of information in various formats. Information Management is a subfield within LIS that deals specifically with the efficient handling and utilization of information resources. Within this subfield, Information Analysts play a crucial role in analyzing and interpreting data to provide valuable insights and support decision-making processes. They are responsible for collecting, organizing, and analyzing information from multiple sources, using various tools and techniques. Information Analysts also collaborate with other professionals to develop strategies for effective information management, ensuring that organizations have access to accurate and relevant information for their operations and decision-making.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Information Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Information Analyst interviews to help you prepare and succeed.

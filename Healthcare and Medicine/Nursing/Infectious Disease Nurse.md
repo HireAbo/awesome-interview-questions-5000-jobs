@@ -2,6 +2,8 @@
 
 Welcome to the Infectious Disease Nurse Interview Preparation ! This resource is designed to help you ace your Infectious Disease Nurse interviews with confidence.
 
+An Infectious Disease Nurse is a specialized healthcare professional who focuses on the prevention, treatment, and management of infectious diseases. These nurses play a crucial role in identifying, containing, and controlling the spread of infectious diseases, such as COVID-19, HIV/AIDS, tuberculosis, and other contagious illnesses. They work closely with physicians, epidemiologists, and other healthcare professionals to provide comprehensive care to patients with infectious diseases. Infectious Disease Nurses are responsible for performing assessments, administering medications, implementing infection control measures, educating patients and their families, and monitoring the progress of treatment. They possess extensive knowledge of infection control protocols and stay updated on emerging infectious diseases and best practices in prevention and treatment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Infectious Disease Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Infectious Disease Nurse interviews to help you prepare and succeed.

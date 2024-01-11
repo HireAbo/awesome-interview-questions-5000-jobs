@@ -2,6 +2,8 @@
 
 Welcome to the Cloud Network Engineer Interview Preparation ! This resource is designed to help you ace your Cloud Network Engineer interviews with confidence.
 
+Information Technology (IT) is the utilization of computers, software, networks, and electronic systems to store, process, transmit, and retrieve information. Cloud Computing, a critical aspect of IT, involves the delivery of on-demand computing resources, such as storage, servers, databases, and software over the internet. It enables organizations to access and manage their data and applications remotely, without the need for physical infrastructure. Within the realm of Cloud Computing, a Cloud Network Engineer plays a vital role. These professionals are responsible for designing, implementing, and maintaining the network infrastructure required to support cloud-based systems, ensuring efficient and secure data transfer, connectivity, and overall performance. They collaborate with cross-functional teams to optimize network capabilities, troubleshoot issues, and ensure smooth operation of cloud-based services.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cloud Network Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cloud Network Engineer interviews to help you prepare and succeed.

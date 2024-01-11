@@ -2,6 +2,8 @@
 
 Welcome to the HR Analytics Manager Interview Preparation ! This resource is designed to help you ace your HR Analytics Manager interviews with confidence.
 
+The role of an HR Analytics Manager is crucial in today's business world, where data-driven decision-making is becoming increasingly important. As an HR Analytics Manager, your primary responsibility is to collect, analyze, and interpret data related to human resources to provide actionable insights to the organization's management team. You will be responsible for developing and implementing HR analytics strategies and tools, identifying trends and patterns in employee data, and providing recommendations to optimize workforce planning, talent management, and employee engagement. Additionally, you will collaborate with stakeholders across the organization to ensure that HR initiatives align with the overall business objectives. A strong background in data analysis, HR metrics, and proficiency in HRIS systems is required for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned HR Analytics Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in HR Analytics Manager interviews to help you prepare and succeed.

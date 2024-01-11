@@ -2,6 +2,8 @@
 
 Welcome to the Investment Manager Interview Preparation ! This resource is designed to help you ace your Investment Manager interviews with confidence.
 
+An Investment Manager plays a crucial role in the field of finance and is responsible for overseeing the investment portfolios of individuals or organizations. They are skilled professionals who analyze market trends, assess risks, and make informed investment decisions to maximize returns. Investment Managers are well-versed in various financial instruments such as stocks, bonds, mutual funds, and real estate. They conduct thorough research, create investment strategies, and monitor the performance of investments to ensure they align with the client's goals and risk tolerance. Moreover, they also provide expert advice on financial planning, asset allocation, and wealth management. Strong analytical skills, a deep understanding of markets, and excellent interpersonal abilities are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Investment Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Investment Manager interviews to help you prepare and succeed.

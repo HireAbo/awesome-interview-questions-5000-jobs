@@ -2,6 +2,8 @@
 
 Welcome to the Registered Veterinary Technician (RVT) Interview Preparation ! This resource is designed to help you ace your Registered Veterinary Technician (RVT) interviews with confidence.
 
+Veterinary Medicine is a branch of healthcare focused on the treatment and care of animals. Within this field, Veterinary Nursing plays a crucial role in providing support and assistance to veterinarians. A Registered Veterinary Technician (RVT) is a highly skilled professional who has completed a formal education program and obtained a license or certification in veterinary technology. RVTs perform a wide range of tasks such as administering medications, collecting samples for testing, assisting in surgery, and providing general care to animals. They are trained to handle emergency situations, monitor anesthesia, and educate pet owners on proper care and treatment. RVTs are integral members of the veterinary healthcare team, ensuring the well-being of animals in need.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Registered Veterinary Technician (RVT) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Registered Veterinary Technician (RVT) interviews to help you prepare and succeed.

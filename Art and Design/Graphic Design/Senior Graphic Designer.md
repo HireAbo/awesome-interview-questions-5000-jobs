@@ -2,6 +2,8 @@
 
 Welcome to the Senior Graphic Designer Interview Preparation ! This resource is designed to help you ace your Senior Graphic Designer interviews with confidence.
 
+A Senior Graphic Designer is a highly experienced and skilled professional who specializes in creating visually appealing and impactful designs. They are responsible for leading and managing design projects, overseeing a team of designers, and ensuring the successful execution of creative concepts. This role requires a deep understanding of design principles, typography, color theory, and layout techniques. Senior Graphic Designers collaborate closely with clients, marketing teams, and other stakeholders to develop design strategies that align with business goals and objectives. They have a keen eye for detail and possess advanced proficiency in graphic design software. A Senior Graphic Designer plays a crucial role in shaping brand identities and delivering compelling visual experiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Senior Graphic Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Senior Graphic Designer interviews to help you prepare and succeed.

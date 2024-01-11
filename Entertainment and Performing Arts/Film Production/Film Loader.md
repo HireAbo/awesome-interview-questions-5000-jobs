@@ -2,6 +2,8 @@
 
 Welcome to the Film Loader Interview Preparation ! This resource is designed to help you ace your Film Loader interviews with confidence.
 
+A Film Loader plays a crucial role in the film production process. As part of the camera department, their primary responsibility is to load and unload film stock into the camera magazines. They work closely with the camera assistant and cinematographer to ensure the smooth operation of the camera during filming. Film Loaders must have a deep understanding of different film formats, loading techniques, and film stocks. They also need to be highly organized and attentive to detail as any mistakes in loading can lead to valuable footage being destroyed. This position requires physical stamina, as Film Loaders often work long hours on set and may need to carry heavy equipment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Film Loader or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Film Loader interviews to help you prepare and succeed.

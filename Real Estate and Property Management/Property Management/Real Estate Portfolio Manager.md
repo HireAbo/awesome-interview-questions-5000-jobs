@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Portfolio Manager Interview Preparation ! This resource is designed to help you ace your Real Estate Portfolio Manager interviews with confidence.
 
+A Real Estate Portfolio Manager is a professional responsible for overseeing and managing a real estate portfolio on behalf of clients or organizations. They play a crucial role in maximizing the value and profitability of the properties within the portfolio. The job involves various responsibilities, including property acquisition and disposition, lease management, financial analysis, tenant relations, and strategic planning. Real Estate Portfolio Managers must possess strong analytical skills, a deep understanding of the real estate market, and excellent communication and negotiation abilities. They work closely with property owners, tenants, and other professionals in the real estate industry to ensure the portfolio's success and meet the clients' objectives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Portfolio Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Portfolio Manager interviews to help you prepare and succeed.

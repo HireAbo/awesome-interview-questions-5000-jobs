@@ -2,6 +2,8 @@
 
 Welcome to the Nuclear Emergency Response Coordinator Interview Preparation ! This resource is designed to help you ace your Nuclear Emergency Response Coordinator interviews with confidence.
 
+The role of a Nuclear Emergency Response Coordinator is critical in the field of Energy and Utilities, specifically in the realm of Nuclear Energy. This professional is responsible for overseeing and coordinating emergency response activities in the event of a nuclear emergency or incident. They work closely with government agencies, nuclear power plants, and other stakeholders to develop and implement emergency response plans and procedures. Their primary objective is to ensure the safety and well-being of the public, workers, and the environment during nuclear emergencies. Additionally, they assess potential risks, train response teams, and provide guidance and support during drills and actual emergency situations. A Nuclear Emergency Response Coordinator plays a crucial role in safeguarding the community and minimizing the impact of nuclear incidents.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nuclear Emergency Response Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nuclear Emergency Response Coordinator interviews to help you prepare and succeed.

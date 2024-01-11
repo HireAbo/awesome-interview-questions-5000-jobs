@@ -2,6 +2,8 @@
 
 Welcome to the Corporate Event Planner Interview Preparation ! This resource is designed to help you ace your Corporate Event Planner interviews with confidence.
 
+Hospitality and Tourism is a thriving industry that encompasses various sectors, including event planning. Event planning plays a crucial role in creating memorable experiences for individuals and organizations. Within this field, the role of a Corporate Event Planner is of utmost importance. These professionals are responsible for organizing and coordinating corporate events, such as conferences, seminars, product launches, and business meetings. They work closely with clients to understand their objectives and requirements, and then develop detailed event proposals, manage budgets, liaise with vendors, and ensure smooth execution of events. A Corporate Event Planner must possess excellent organizational skills, attention to detail, creativity, and the ability to handle multiple tasks simultaneously to deliver successful events that leave a lasting impact on attendees.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Corporate Event Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Corporate Event Planner interviews to help you prepare and succeed.

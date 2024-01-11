@@ -2,6 +2,10 @@
 
 Welcome to the Petrochemical Engineer Interview Preparation ! This resource is designed to help you ace your Petrochemical Engineer interviews with confidence.
 
+A Petrochemical Engineer is a professional who specializes in the field of chemistry and research, specifically in the area of petrochemicals. Petrochemicals are derived from petroleum and natural gas, and are used to produce a wide range of products such as plastics, rubber, fertilizers, and pharmaceuticals. 
+
+Petrochemical Engineers play a crucial role in the development and optimization of petrochemical processes. They are responsible for designing and implementing efficient production methods, conducting research to improve existing processes, and ensuring compliance with safety and environmental regulations. They also analyze data, troubleshoot any issues that may arise, and work closely with other scientists and engineers to develop innovative solutions. A career in petrochemical engineering requires strong analytical skills, creativity, and a deep understanding of chemistry and chemical engineering principles.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Petrochemical Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Petrochemical Engineer interviews to help you prepare and succeed.

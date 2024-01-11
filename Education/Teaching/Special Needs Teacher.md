@@ -2,6 +2,8 @@
 
 Welcome to the Special Needs Teacher Interview Preparation ! This resource is designed to help you ace your Special Needs Teacher interviews with confidence.
 
+A Special Needs Teacher is an educator who specializes in working with students who have various learning disabilities or special needs. These professionals play a critical role in providing individualized support and tailored instruction to help students overcome their challenges and reach their full potential. They work closely with students, their families, and other educational professionals to develop and implement personalized education plans. Special Needs Teachers are skilled in adapting curriculum materials, using specialized teaching techniques, and employing assistive technologies to accommodate the unique needs of their students. They possess a deep understanding of different disabilities and are compassionate, patient, and dedicated to creating inclusive and supportive learning environments.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Special Needs Teacher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Special Needs Teacher interviews to help you prepare and succeed.

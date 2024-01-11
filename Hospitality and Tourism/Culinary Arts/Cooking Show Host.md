@@ -2,6 +2,8 @@
 
 Welcome to the Cooking Show Host Interview Preparation ! This resource is designed to help you ace your Cooking Show Host interviews with confidence.
 
+Hospitality and Tourism is a thriving industry that encompasses various sectors, including culinary arts. Within this field, the role of a Cooking Show Host holds immense significance. As a Cooking Show Host, individuals are responsible for creating an engaging and informative culinary experience for viewers. They showcase their culinary expertise, explore different cooking techniques, and introduce various recipes and ingredients in an entertaining manner. A Cooking Show Host must possess excellent communication skills, charisma, and a deep understanding of culinary arts. They must also have the ability to connect with their audience, inspire and educate them about the diverse world of cooking and gastronomy.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cooking Show Host or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cooking Show Host interviews to help you prepare and succeed.

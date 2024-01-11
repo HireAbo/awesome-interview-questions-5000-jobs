@@ -2,6 +2,8 @@
 
 Welcome to the Combat Engineer Interview Preparation ! This resource is designed to help you ace your Combat Engineer interviews with confidence.
 
+Government and Public Service encompasses a wide range of roles dedicated to serving and ensuring the welfare of the public. Within this sector, Military Service plays a crucial role in safeguarding national security and protecting citizens. Among the various military occupations, the Combat Engineer job holds immense significance. Combat Engineers are trained professionals responsible for constructing, maintaining, and dismantling military infrastructure, such as bridges, fortifications, and roads. They possess specialized skills in explosives, demolition, and construction, which are vital for providing tactical support during combat operations. These dedicated individuals work in challenging environments, often risking their lives to ensure the success and safety of military missions, making them integral to the defense and security of a nation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Combat Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Combat Engineer interviews to help you prepare and succeed.

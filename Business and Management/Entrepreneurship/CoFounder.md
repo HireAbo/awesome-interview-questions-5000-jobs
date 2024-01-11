@@ -2,6 +2,8 @@
 
 Welcome to the Co-Founder Interview Preparation ! This resource is designed to help you ace your Co-Founder interviews with confidence.
 
+A Co-Founder is a key role in the world of entrepreneurship, particularly in the realm of business and management. As a Co-Founder, you are responsible for launching and building a startup company alongside one or more individuals. This role requires a deep understanding of the business landscape, market trends, and consumer needs. You will be involved in developing the company's vision, mission, and strategies, as well as overseeing its day-to-day operations. Being a Co-Founder demands strong leadership, strategic thinking, and the ability to effectively collaborate and communicate with other team members. It is a dynamic and challenging role that requires a passion for innovation and the ability to navigate through uncertainties.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Co-Founder or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Co-Founder interviews to help you prepare and succeed.

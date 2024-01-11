@@ -2,6 +2,8 @@
 
 Welcome to the Crop Duster Pilot Interview Preparation ! This resource is designed to help you ace your Crop Duster Pilot interviews with confidence.
 
+A crop duster pilot is a specialized aviation professional responsible for the safe and efficient application of pesticides, fertilizers, and other agricultural products to crops from an aircraft. These skilled pilots, also known as agricultural aviators, play a crucial role in ensuring the success and productivity of the agriculture industry. They are responsible for flying low and navigating through fields, carefully spraying crops with precision and accuracy. Crop duster pilots must possess exceptional flying skills, as they often face challenging weather conditions, turbulent winds, and difficult terrain. They also need to have a deep understanding of different types of crops, pesticides, and regulations pertaining to aerial application. Overall, this occupation requires a combination of technical expertise, precision, and a passion for aviation and agriculture.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Crop Duster Pilot or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Crop Duster Pilot interviews to help you prepare and succeed.

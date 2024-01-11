@@ -2,6 +2,8 @@
 
 Welcome to the Multimedia Artist Interview Preparation ! This resource is designed to help you ace your Multimedia Artist interviews with confidence.
 
+A multimedia artist job within the field of fine arts combines creativity and technology to create visually engaging and interactive experiences. These artists are skilled in various art forms, such as drawing, painting, sculpting, and graphic design, while also possessing technical knowledge of multimedia tools and software. They utilize their expertise to develop compelling visual content for various platforms, including websites, video games, mobile applications, and virtual reality experiences. Multimedia artists often collaborate with a team to bring their artistic vision to life, utilizing their skills in animation, visual effects, and user interface design. Their work requires a balance between artistic expression and technical proficiency to captivate and engage audiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Multimedia Artist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Multimedia Artist interviews to help you prepare and succeed.

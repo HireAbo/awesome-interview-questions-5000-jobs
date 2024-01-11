@@ -2,6 +2,8 @@
 
 Welcome to the E-commerce Coordinator Interview Preparation ! This resource is designed to help you ace your E-commerce Coordinator interviews with confidence.
 
+The role of an E-commerce Coordinator in the retail and sales industry is crucial in driving the success of online businesses. As the world increasingly embraces technology, e-commerce has become a vital component of any retail strategy. An E-commerce Coordinator is responsible for managing and optimizing the online sales channels of a company, such as the company website and third-party marketplaces. They play a pivotal role in coordinating all aspects of e-commerce operations, from inventory management and product listings to digital marketing campaigns and customer service. Their goal is to enhance customer experience, increase sales, and ensure the smooth functioning of the e-commerce platform.
+
 ## 🚀 Overview
 
 Whether you're a seasoned E-commerce Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in E-commerce Coordinator interviews to help you prepare and succeed.

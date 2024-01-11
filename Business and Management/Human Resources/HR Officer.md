@@ -2,6 +2,8 @@
 
 Welcome to the HR Officer Interview Preparation ! This resource is designed to help you ace your HR Officer interviews with confidence.
 
+The role of an HR Officer in the field of Business and Management is crucial for the smooth functioning of any organization. HR Officers are responsible for managing all aspects of human resources within a company. They play a vital role in recruiting, selecting, and hiring employees, as well as developing and implementing HR policies and procedures. HR Officers also handle employee relations, including conflict resolution, performance management, and ensuring legal compliance. They are responsible for training and development programs to enhance employees' skills and knowledge. Additionally, HR Officers assist in managing benefits and compensations, maintaining employee records, and fostering a positive work environment. Their expertise is essential in creating a productive and harmonious workplace.
+
 ## 🚀 Overview
 
 Whether you're a seasoned HR Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in HR Officer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Urology Nurse Interview Preparation ! This resource is designed to help you ace your Urology Nurse interviews with confidence.
 
+A Urology Nurse is a specialized healthcare professional who focuses on the care and treatment of patients with urinary tract disorders and conditions related to the male reproductive system. They work closely with urologists to provide comprehensive care, including diagnosis, treatment, and post-operative monitoring. Urology Nurses perform various tasks such as conducting physical examinations, assisting in surgeries, administering medications, and educating patients on self-care and prevention. They play a crucial role in helping patients manage conditions like urinary incontinence, kidney stones, urinary tract infections, and prostate disorders. Urology Nurses possess excellent communication skills and compassion, as they often deal with sensitive and personal issues.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Urology Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Urology Nurse interviews to help you prepare and succeed.

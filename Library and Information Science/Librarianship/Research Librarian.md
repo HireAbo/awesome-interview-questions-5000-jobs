@@ -2,6 +2,8 @@
 
 Welcome to the Research Librarian Interview Preparation ! This resource is designed to help you ace your Research Librarian interviews with confidence.
 
+Library and Information Science (LIS) is a field that focuses on the organization, management, and dissemination of information in libraries and other information centers. Within LIS, librarianship is a specialized area that involves the provision of library services and resources to meet the needs of users. One specific role within librarianship is that of a Research Librarian. Research Librarians play a crucial role in supporting academic and scholarly research by assisting patrons in locating and accessing relevant resources, providing guidance on research methodologies, and conducting literature reviews. They are skilled in navigating various databases, cataloging systems, and reference tools to ensure efficient and accurate information retrieval. Research Librarians are vital in fostering the advancement of knowledge and aiding in the academic success of researchers.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Research Librarian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Research Librarian interviews to help you prepare and succeed.

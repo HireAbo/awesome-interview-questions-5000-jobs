@@ -2,6 +2,8 @@
 
 Welcome to the Agricultural Consultant Interview Preparation ! This resource is designed to help you ace your Agricultural Consultant interviews with confidence.
 
+Agriculture and Environmental Science is a field that encompasses the study of natural resources, food production, and the impact of agriculture on the environment. Within this field, the role of an Agricultural Consultant is crucial. Agricultural Consultants provide expert advice and guidance to farmers, agricultural businesses, and government agencies to optimize farming practices and ensure sustainable agricultural development. They assess soil quality, water resources, crop health, and pest management to devise effective strategies that enhance productivity while minimizing environmental impact. Agricultural Consultants also stay updated on emerging technologies and regulations to provide innovative solutions that promote efficient and environmentally friendly farming methods.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Agricultural Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Agricultural Consultant interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Law Paralegal Interview Preparation ! This resource is designed to help you ace your Real Estate Law Paralegal interviews with confidence.
 
+A Real Estate Law Paralegal plays a crucial role in the field of law, specifically within the realm of real estate. This specialized paralegal job involves providing support and assistance to attorneys in handling legal matters related to property transactions, land use, and property disputes. Responsibilities may include conducting legal research, preparing legal documents, drafting contracts, coordinating closings, and assisting with due diligence processes. A Real Estate Law Paralegal must possess a strong understanding of real estate laws and regulations, possess excellent communication and organizational skills, and have the ability to work collaboratively with clients, attorneys, and other professionals in the real estate industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Law Paralegal or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Law Paralegal interviews to help you prepare and succeed.

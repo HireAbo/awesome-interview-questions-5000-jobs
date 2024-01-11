@@ -2,6 +2,8 @@
 
 Welcome to the Financial Records Specialist Interview Preparation ! This resource is designed to help you ace your Financial Records Specialist interviews with confidence.
 
+Library and Information Science (LIS) is an interdisciplinary field that focuses on the organization, retrieval, and dissemination of information. Within LIS, one specialized area is Records Management, which involves the systematic control and maintenance of an organization's records. A crucial role within this field is that of a Financial Records Specialist. This job requires expertise in managing and organizing financial documents such as invoices, receipts, and financial statements. A Financial Records Specialist ensures the accuracy, security, and accessibility of financial records, while also adhering to legal and regulatory requirements. They may also assist in financial audits and provide support to colleagues in financial analysis and decision-making. Strong attention to detail, analytical skills, and knowledge of financial systems are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Financial Records Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Financial Records Specialist interviews to help you prepare and succeed.

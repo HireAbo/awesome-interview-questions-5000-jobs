@@ -2,6 +2,8 @@
 
 Welcome to the Cloud Sales Engineer Interview Preparation ! This resource is designed to help you ace your Cloud Sales Engineer interviews with confidence.
 
+A Cloud Sales Engineer is a professional who specializes in selling cloud computing solutions in the field of Information Technology (IT). Cloud computing refers to the delivery of computing services over the internet, such as storage, servers, databases, software, and networking. As businesses increasingly adopt cloud technology, the role of a Cloud Sales Engineer becomes crucial in effectively promoting and selling these solutions to clients. They possess a deep understanding of cloud computing technologies and are responsible for identifying customer needs, designing and presenting cloud-based solutions, and providing technical expertise to clients. A Cloud Sales Engineer plays a vital role in bridging the gap between technical aspects and business requirements, ensuring seamless integration and customer satisfaction.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cloud Sales Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cloud Sales Engineer interviews to help you prepare and succeed.

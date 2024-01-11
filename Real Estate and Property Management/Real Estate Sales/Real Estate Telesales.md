@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Telesales Interview Preparation ! This resource is designed to help you ace your Real Estate Telesales interviews with confidence.
 
+Real Estate and Property Management is a vast industry encompassing various roles, one of which is Real Estate Sales. This field involves buying, selling, and leasing properties, assisting clients in making informed decisions regarding their real estate investments. Within the realm of Real Estate Sales, there is a specialized area called Real Estate Telesales. This job involves connecting with potential clients over the phone, promoting properties, and generating leads. Real Estate Telesales professionals possess excellent communication skills, persuasive abilities, and a deep understanding of the real estate market. They play a crucial role in connecting buyers and sellers, providing valuable information, and facilitating successful property transactions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Telesales or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Telesales interviews to help you prepare and succeed.

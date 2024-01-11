@@ -2,6 +2,8 @@
 
 Welcome to the Legislative Assistant Interview Preparation ! This resource is designed to help you ace your Legislative Assistant interviews with confidence.
 
+A Legislative Assistant is a crucial role within the government and public service sector, specifically in the field of public policy. They play a pivotal role in supporting legislators and policymakers in the development, analysis, and implementation of legislation. Legislative Assistants possess a deep understanding of the legislative process and are responsible for conducting research, drafting reports, and analyzing data to help inform policy decisions. They collaborate with various stakeholders, including government officials, advocacy groups, and constituents, to gather input and ensure that proposed legislation aligns with the public interest. With their expertise in public policy, Legislative Assistants contribute to shaping and improving policies that impact society as a whole.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Legislative Assistant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Legislative Assistant interviews to help you prepare and succeed.

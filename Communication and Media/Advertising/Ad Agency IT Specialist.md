@@ -2,6 +2,8 @@
 
 Welcome to the Ad Agency IT Specialist Interview Preparation ! This resource is designed to help you ace your Ad Agency IT Specialist interviews with confidence.
 
+An Ad Agency IT Specialist plays a crucial role in the field of communication and media advertising. This job involves using technological expertise to support and enhance advertising campaigns for clients. The specialist is responsible for managing and maintaining the agency's computer systems, software, and digital infrastructure. They ensure that all IT systems are up and running smoothly, troubleshoot any technical issues, and provide technical support to the agency's staff. Additionally, they collaborate with the creative team to integrate technology into advertising strategies, such as developing interactive websites or mobile applications. Ultimately, the Ad Agency IT Specialist ensures the seamless integration of technology and advertising to effectively reach target audiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Ad Agency IT Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Ad Agency IT Specialist interviews to help you prepare and succeed.

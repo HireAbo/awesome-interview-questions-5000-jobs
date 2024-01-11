@@ -2,6 +2,8 @@
 
 Welcome to the Merchandise Strategist Interview Preparation ! This resource is designed to help you ace your Merchandise Strategist interviews with confidence.
 
+A Merchandise Strategist is a key role in the field of retail and sales merchandising. This position involves developing and implementing effective strategies to maximize the sales and profitability of a company's merchandise. The Merchandise Strategist is responsible for analyzing market trends, consumer behavior, and competitor activities to identify opportunities and create plans for product assortment, pricing, and promotions. They collaborate with various teams such as marketing, sales, and operations to develop and execute these strategies. A Merchandise Strategist must possess strong analytical skills, a deep understanding of consumer preferences, and the ability to think strategically to drive business growth and achieve sales targets.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Merchandise Strategist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Merchandise Strategist interviews to help you prepare and succeed.

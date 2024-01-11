@@ -2,6 +2,8 @@
 
 Welcome to the Sommelier Interview Preparation ! This resource is designed to help you ace your Sommelier interviews with confidence.
 
+Hospitality and Tourism is a thriving industry that encompasses a wide range of career opportunities, one of which is Culinary Arts. Within this field, the role of a Sommelier holds great significance. A Sommelier is a trained wine professional who specializes in the art of wine pairing, selection, and service. They possess an in-depth knowledge of different wine regions, grape varieties, and production techniques. A Sommelier's expertise extends beyond wine, as they are also well-versed in other alcoholic beverages like spirits and cocktails. They play a vital role in enhancing the dining experience by recommending and suggesting the perfect wine to complement a meal, ensuring customer satisfaction and delight.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sommelier or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sommelier interviews to help you prepare and succeed.

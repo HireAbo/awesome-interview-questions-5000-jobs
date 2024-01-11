@@ -2,6 +2,8 @@
 
 Welcome to the Medical Laboratory Technologist Interview Preparation ! This resource is designed to help you ace your Medical Laboratory Technologist interviews with confidence.
 
+A Medical Laboratory Technologist plays a crucial role in healthcare and medicine by conducting various laboratory tests and experiments to assist in the diagnosis, treatment, and prevention of diseases. These professionals work in medical research settings, utilizing their expertise in handling laboratory equipment, analyzing samples, and interpreting results. They collaborate with healthcare professionals to provide accurate and reliable data, contributing to the development of new medications, diagnostics, and treatment methods. Additionally, Medical Laboratory Technologists ensure the quality control and maintenance of laboratory equipment and supplies, following strict safety protocols. Their work significantly impacts patient care and outcomes, making them indispensable in the field of medical research.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Medical Laboratory Technologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Medical Laboratory Technologist interviews to help you prepare and succeed.

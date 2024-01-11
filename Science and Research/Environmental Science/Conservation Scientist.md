@@ -2,6 +2,12 @@
 
 Welcome to the Conservation Scientist Interview Preparation ! This resource is designed to help you ace your Conservation Scientist interviews with confidence.
 
+A Conservation Scientist is a professional who specializes in studying and preserving the environment. They use scientific research and analysis to develop strategies that protect and sustain natural resources, ecosystems, and wildlife habitats. Their primary goal is to find innovative ways to mitigate human impact on the environment and promote sustainable practices.
+
+Conservation Scientists play a crucial role in addressing environmental issues such as deforestation, climate change, pollution, and loss of biodiversity. They work in collaboration with government agencies, non-profit organizations, and private companies to develop and implement conservation plans. Their responsibilities may include conducting field surveys, collecting and analyzing data, identifying threats to habitats, and recommending measures to protect and restore ecosystems.
+
+Strong analytical skills, scientific knowledge, and a passion for the environment are essential for anyone interested in pursuing a career as a Conservation Scientist.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Conservation Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Conservation Scientist interviews to help you prepare and succeed.

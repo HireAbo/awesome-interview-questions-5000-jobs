@@ -2,6 +2,8 @@
 
 Welcome to the Nurse Educator Interview Preparation ! This resource is designed to help you ace your Nurse Educator interviews with confidence.
 
+A Nurse Educator is a vital professional within the healthcare and medicine field who specializes in teaching and training aspiring nurses. They play a crucial role in shaping the future of nursing by providing education, mentorship, and guidance to nursing students. Nurse educators work in academic institutions, healthcare facilities, and community settings to develop and implement nursing curriculum, conduct lectures and presentations, and supervise clinical experiences. They ensure that nursing students acquire the necessary knowledge, skills, and competencies to provide quality patient care. Additionally, nurse educators engage in research, stay updated with advancements in healthcare, and contribute to the overall improvement of nursing education and practice.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nurse Educator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nurse Educator interviews to help you prepare and succeed.

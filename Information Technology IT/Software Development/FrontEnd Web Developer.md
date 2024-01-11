@@ -2,6 +2,8 @@
 
 Welcome to the Front-End Web Developer Interview Preparation ! This resource is designed to help you ace your Front-End Web Developer interviews with confidence.
 
+A Front-End Web Developer is a professional who specializes in creating the user interface and visual elements of a website. They work closely with designers and back-end developers to ensure that the website is visually appealing, user-friendly, and functions properly. Front-End Web Developers are responsible for writing clean and efficient code using programming languages such as HTML, CSS, and JavaScript. They are skilled in responsive design and have a strong understanding of cross-browser compatibility. They also have knowledge of various frameworks and libraries to enhance the website's functionality. A Front-End Web Developer plays a crucial role in creating an engaging and seamless user experience on the web.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Front-End Web Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Front-End Web Developer interviews to help you prepare and succeed.

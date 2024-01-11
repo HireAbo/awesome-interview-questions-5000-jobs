@@ -2,6 +2,8 @@
 
 Welcome to the Solutions Architect Interview Preparation ! This resource is designed to help you ace your Solutions Architect interviews with confidence.
 
+A Solutions Architect in the field of Information Technology (IT) and Software Development plays a pivotal role in designing and implementing effective solutions for complex business problems. They bridge the gap between business requirements and technology solutions, ensuring that the software systems are aligned with organizational goals. Solutions Architects are responsible for analyzing and understanding client needs, defining system architectures, and overseeing the development and deployment of software solutions. They collaborate with teams of developers, project managers, and stakeholders to ensure successful project delivery. With their expertise in software design, integration, and scalability, Solutions Architects enable businesses to achieve their objectives by leveraging technology effectively.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Solutions Architect or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Solutions Architect interviews to help you prepare and succeed.

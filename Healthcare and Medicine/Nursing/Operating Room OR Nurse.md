@@ -2,6 +2,8 @@
 
 Welcome to the Operating Room (OR) Nurse Interview Preparation ! This resource is designed to help you ace your Operating Room (OR) Nurse interviews with confidence.
 
+Operating Room (OR) nurses play a crucial role in the healthcare system by providing specialized care to patients requiring surgical intervention. These highly skilled nurses work in the operating room, assisting surgeons and other healthcare professionals during surgical procedures. OR nurses are responsible for preparing the operating room, ensuring all necessary equipment and supplies are available, and maintaining a sterile environment. They monitor the patient's vital signs throughout the procedure, administer medications, and provide emotional support to patients and their families. OR nurses collaborate closely with the surgical team to ensure patient safety and optimal outcomes. Their expertise and dedication make them essential members of the healthcare team in delivering high-quality surgical care.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Operating Room (OR) Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Operating Room (OR) Nurse interviews to help you prepare and succeed.

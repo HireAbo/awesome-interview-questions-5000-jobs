@@ -2,6 +2,8 @@
 
 Welcome to the Wealth Manager Interview Preparation ! This resource is designed to help you ace your Wealth Manager interviews with confidence.
 
+A Wealth Manager is a professional who specializes in advising and managing the financial affairs of high net worth individuals and families. They are responsible for creating and implementing comprehensive financial plans that align with their clients' goals and objectives. Wealth Managers provide guidance on various aspects of finance, such as investment management, tax planning, estate planning, and retirement planning. They analyze market trends, evaluate investment opportunities, and develop strategies to grow their clients' wealth while minimizing risks. Additionally, Wealth Managers build and maintain strong relationships with their clients, offering personalized services and addressing their unique financial needs. They play a crucial role in helping individuals achieve and maintain financial security and long-term financial success.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wealth Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wealth Manager interviews to help you prepare and succeed.

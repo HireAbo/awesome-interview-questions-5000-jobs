@@ -2,6 +2,8 @@
 
 Welcome to the Assistant Store Manager Interview Preparation ! This resource is designed to help you ace your Assistant Store Manager interviews with confidence.
 
+The role of an Assistant Store Manager in the field of Retail and Sales is highly crucial to the smooth operation of any retail establishment. As a key member of the management team, their primary responsibility is to support the Store Manager in overseeing day-to-day operations. This includes managing and motivating staff, ensuring excellent customer service, monitoring sales targets, and implementing effective merchandising strategies. Assistant Store Managers also play a pivotal role in inventory management, stock replenishment, and creating a positive work environment. With strong leadership skills, a keen eye for detail, and a passion for delivering exceptional customer experiences, Assistant Store Managers drive sales growth and contribute to the overall success of the retail business.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Assistant Store Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Assistant Store Manager interviews to help you prepare and succeed.

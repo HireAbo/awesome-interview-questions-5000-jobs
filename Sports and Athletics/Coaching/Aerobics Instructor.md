@@ -2,6 +2,8 @@
 
 Welcome to the Aerobics Instructor Interview Preparation ! This resource is designed to help you ace your Aerobics Instructor interviews with confidence.
 
+The role of an Aerobics Instructor in the field of Sports and Athletics Coaching is to guide and inspire individuals in achieving their fitness goals through aerobic exercises. An Aerobics Instructor not only leads group classes but also provides personalized attention to participants, ensuring correct form and technique. They create and deliver dynamic workouts that incorporate various cardio exercises, dance routines, and strength training. Additionally, Aerobics Instructors motivate and encourage participants to push their limits, helping them improve endurance, flexibility, and overall fitness levels. With their expertise and passion for fitness, Aerobics Instructors play a crucial role in promoting a healthy and active lifestyle.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Aerobics Instructor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Aerobics Instructor interviews to help you prepare and succeed.

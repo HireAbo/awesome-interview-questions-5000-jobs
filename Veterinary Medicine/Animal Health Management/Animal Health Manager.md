@@ -2,6 +2,10 @@
 
 Welcome to the Animal Health Manager Interview Preparation ! This resource is designed to help you ace your Animal Health Manager interviews with confidence.
 
+Veterinary Medicine is a specialized branch of healthcare that focuses on the diagnosis, treatment, and prevention of diseases and injuries in animals. Within this field, Animal Health Management encompasses various roles, including Animal Health Manager. 
+
+Animal Health Managers play a crucial role in ensuring the well-being and overall health of animals under their care. They are responsible for overseeing the daily operations of animal health facilities, such as veterinary clinics, animal shelters, or farms. Their duties include managing staff, developing and implementing animal health programs, and maintaining compliance with regulations and standards. Animal Health Managers also collaborate with veterinarians to coordinate treatment plans, monitor animal health records, and educate owners on proper animal care practices. This role demands a strong background in veterinary medicine, exceptional organizational skills, and a genuine passion for animal welfare.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Animal Health Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Animal Health Manager interviews to help you prepare and succeed.

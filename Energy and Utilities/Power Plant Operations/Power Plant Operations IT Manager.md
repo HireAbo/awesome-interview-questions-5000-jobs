@@ -2,6 +2,8 @@
 
 Welcome to the Power Plant Operations IT Manager Interview Preparation ! This resource is designed to help you ace your Power Plant Operations IT Manager interviews with confidence.
 
+The role of a Power Plant Operations IT Manager is crucial in ensuring the smooth and efficient functioning of a power plant. This professional is responsible for overseeing the implementation and maintenance of information technology systems and processes that support power plant operations. They work closely with various departments, including operations, maintenance, and engineering, to identify technological needs and develop solutions to optimize plant performance. The Power Plant Operations IT Manager also manages a team of IT professionals, ensuring that they are equipped with the necessary tools and knowledge to effectively support the plant's IT infrastructure. They stay up-to-date with the latest advancements in technology to enhance operational efficiency and ensure compliance with industry regulations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Power Plant Operations IT Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Power Plant Operations IT Manager interviews to help you prepare and succeed.

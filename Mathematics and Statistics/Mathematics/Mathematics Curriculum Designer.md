@@ -2,6 +2,8 @@
 
 Welcome to the Mathematics Curriculum Designer Interview Preparation ! This resource is designed to help you ace your Mathematics Curriculum Designer interviews with confidence.
 
+A Mathematics Curriculum Designer is a professional responsible for creating and developing mathematics curricula for educational institutions. This role requires a deep understanding of mathematical concepts, curriculum design principles, and the ability to effectively communicate complex ideas to learners of various age groups. The primary objective of a Mathematics Curriculum Designer is to design engaging and comprehensive curricula that align with academic standards and promote student understanding and achievement in mathematics. This includes developing lesson plans, learning materials, assessments, and instructional strategies that cater to the diverse needs and learning styles of students. A Mathematics Curriculum Designer plays a crucial role in shaping the mathematical education of students and ensuring their success in the subject.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Mathematics Curriculum Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Mathematics Curriculum Designer interviews to help you prepare and succeed.

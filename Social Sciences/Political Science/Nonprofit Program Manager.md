@@ -2,6 +2,8 @@
 
 Welcome to the Nonprofit Program Manager Interview Preparation ! This resource is designed to help you ace your Nonprofit Program Manager interviews with confidence.
 
+A Nonprofit Program Manager in the field of Political Science plays a crucial role in the social sciences sector. As the name suggests, this position primarily focuses on managing programs for nonprofit organizations within the political science domain. These professionals are responsible for overseeing various aspects, such as program development, implementation, and evaluation. They collaborate with internal and external stakeholders to design and execute effective strategies for addressing social and political issues. A Nonprofit Program Manager in Political Science needs to possess strong leadership, communication, and analytical skills. They must also have a deep understanding of political systems, policy-making, and funding mechanisms to effectively manage and create lasting impact through nonprofit programs.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nonprofit Program Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nonprofit Program Manager interviews to help you prepare and succeed.

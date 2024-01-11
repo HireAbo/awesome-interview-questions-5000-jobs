@@ -2,6 +2,8 @@
 
 Welcome to the Conductor Interview Preparation ! This resource is designed to help you ace your Conductor interviews with confidence.
 
+A conductor is a pivotal figure in the world of music, particularly in the realm of orchestras. This role involves leading and directing a group of musicians to create a harmonious and captivating performance. Conductors possess exceptional musical skills, a deep understanding of various musical styles, and an ability to interpret and communicate the composer's intentions. They use their extensive knowledge of music theory and composition to guide the ensemble through rehearsals and performances, ensuring that each musician plays their part flawlessly. Conductors also have the responsibility of selecting repertoire, shaping the interpretation of the music, and inspiring the musicians to deliver exceptional performances that captivate audiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Conductor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Conductor interviews to help you prepare and succeed.

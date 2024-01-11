@@ -2,6 +2,8 @@
 
 Welcome to the Corrosion Engineer (Mechanical) Interview Preparation ! This resource is designed to help you ace your Corrosion Engineer (Mechanical) interviews with confidence.
 
+A Corrosion Engineer (Mechanical) is a specialized professional in the field of mechanical engineering who focuses on preventing and mitigating corrosion in various mechanical systems and equipment. They play a crucial role in industries such as oil and gas, manufacturing, automotive, and aerospace. These engineers conduct thorough inspections, analyze corrosion mechanisms, and design effective corrosion prevention strategies. They collaborate with other engineers and technicians to select appropriate materials, coatings, and corrosion inhibitors to ensure the longevity and reliability of mechanical systems. Additionally, they develop maintenance plans and provide recommendations for repair or replacement of corroded components. A Corrosion Engineer (Mechanical) requires a strong understanding of materials, metallurgy, chemical processes, and mechanical design principles.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Corrosion Engineer (Mechanical) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Corrosion Engineer (Mechanical) interviews to help you prepare and succeed.

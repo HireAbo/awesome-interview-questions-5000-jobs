@@ -2,6 +2,8 @@
 
 Welcome to the Policy Analyst Interview Preparation ! This resource is designed to help you ace your Policy Analyst interviews with confidence.
 
+A policy analyst is a professional who works within the field of political science, specifically in the area of social sciences. This role involves the study and analysis of various policies and their impact on society. Policy analysts are responsible for conducting research and evaluating existing policies, as well as proposing recommendations for improvement. They work closely with government officials, non-profit organizations, and other stakeholders to gather data, identify trends, and develop strategies to address social issues. A policy analyst must have strong analytical skills, excellent communication abilities, and a deep understanding of political processes. They play a crucial role in shaping public policies and driving social change.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Policy Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Policy Analyst interviews to help you prepare and succeed.

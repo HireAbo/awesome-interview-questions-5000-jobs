@@ -2,6 +2,8 @@
 
 Welcome to the Family Life Educator Interview Preparation ! This resource is designed to help you ace your Family Life Educator interviews with confidence.
 
+A Family Life Educator is a professional in the field of social work and human services, specializing in providing support and guidance to families. They play a crucial role in helping families navigate through various challenges and transitions, such as parenting, relationship issues, and life stressors. Family Life Educators are equipped with extensive knowledge and skills in areas like child development, family dynamics, communication, and conflict resolution. Their primary objective is to enhance the overall well-being of families by offering educational programs, workshops, and counseling services. They work collaboratively with individuals, couples, and families, striving to strengthen relationships, promote healthy communication, and create a positive family environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Family Life Educator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Family Life Educator interviews to help you prepare and succeed.

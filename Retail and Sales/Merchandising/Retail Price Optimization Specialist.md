@@ -2,6 +2,12 @@
 
 Welcome to the Retail Price Optimization Specialist Interview Preparation ! This resource is designed to help you ace your Retail Price Optimization Specialist interviews with confidence.
 
+A Retail Price Optimization Specialist is a professional responsible for analyzing and optimizing retail prices to maximize sales and profitability. They work closely with merchandising teams to develop pricing strategies that align with market trends, customer demand, and competitor pricing.
+
+These specialists utilize advanced analytical tools and software to conduct price elasticity studies, market research, and competitive analysis. They analyze historical sales data to identify pricing trends and patterns, and make recommendations on pricing strategies based on their findings. They also collaborate with cross-functional teams, such as marketing and finance, to ensure pricing strategies are implemented effectively.
+
+A Retail Price Optimization Specialist plays a crucial role in setting competitive and profitable prices, ultimately driving sales and revenue growth for the retail organization.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Retail Price Optimization Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Retail Price Optimization Specialist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Healthcare PR Specialist Interview Preparation ! This resource is designed to help you ace your Healthcare PR Specialist interviews with confidence.
 
+A Healthcare PR Specialist is a professional who specializes in managing communication and media relations in the healthcare industry. They play a crucial role in shaping public perception and building positive relationships between healthcare organizations, patients, and the general public. These specialists are responsible for developing and implementing strategic communication plans, creating and distributing press releases, organizing media events, and managing crisis communication. They also work closely with healthcare professionals, government agencies, and stakeholders to ensure accurate and timely information is shared with the public. A Healthcare PR Specialist must possess excellent communication and interpersonal skills, as well as a deep understanding of the healthcare industry and media landscape.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Healthcare PR Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Healthcare PR Specialist interviews to help you prepare and succeed.

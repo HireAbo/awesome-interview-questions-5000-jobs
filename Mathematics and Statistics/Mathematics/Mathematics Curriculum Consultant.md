@@ -2,6 +2,8 @@
 
 Welcome to the Mathematics Curriculum Consultant Interview Preparation ! This resource is designed to help you ace your Mathematics Curriculum Consultant interviews with confidence.
 
+A Mathematics Curriculum Consultant is a professional who specializes in designing, developing, and implementing mathematics curriculum for educational institutions. They are responsible for creating comprehensive and engaging math programs that align with the current educational standards and goals. These consultants collaborate with teachers, administrators, and other stakeholders to assess the needs of the students and develop strategies to enhance their mathematical skills and knowledge. They also conduct research, analyze data, and provide recommendations for improving the effectiveness of math instruction. Additionally, Mathematics Curriculum Consultants stay updated with the latest trends and advancements in math education to ensure that the curriculum remains relevant and impactful for students.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Mathematics Curriculum Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Mathematics Curriculum Consultant interviews to help you prepare and succeed.

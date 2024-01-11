@@ -2,6 +2,8 @@
 
 Welcome to the Solar Energy Technician Interview Preparation ! This resource is designed to help you ace your Solar Energy Technician interviews with confidence.
 
+A Solar Energy Technician is a specialized professional responsible for the installation, maintenance, and repair of solar energy systems. These systems capture sunlight and convert it into electricity or heat, providing a sustainable and renewable energy source. The role of a Solar Energy Technician involves conducting site assessments, determining system requirements, and designing solar panel arrays. They are also responsible for installing and connecting solar panels, wiring electrical components, and troubleshooting system issues. Solar Energy Technicians play a crucial role in promoting the adoption of solar energy as they contribute to reducing carbon emissions and dependence on fossil fuels, thus creating a more sustainable future.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Solar Energy Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Solar Energy Technician interviews to help you prepare and succeed.

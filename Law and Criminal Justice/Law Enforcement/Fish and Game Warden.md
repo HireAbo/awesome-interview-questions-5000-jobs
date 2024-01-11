@@ -2,6 +2,8 @@
 
 Welcome to the Fish and Game Warden Interview Preparation ! This resource is designed to help you ace your Fish and Game Warden interviews with confidence.
 
+A Fish and Game Warden is a law enforcement officer responsible for enforcing state and federal regulations related to wildlife and natural resources conservation. These dedicated professionals play a crucial role in protecting and preserving the environment, as well as ensuring public safety in outdoor recreational areas. Fish and Game Wardens patrol lakes, rivers, forests, and other natural habitats to prevent illegal hunting, fishing, and trapping activities. They investigate wildlife-related crimes, such as poaching or illegal trade of endangered species, and may even participate in search and rescue operations. Strong knowledge of wildlife biology, environmental laws, and excellent outdoor skills are essential for success in this challenging and rewarding career.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Fish and Game Warden or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Fish and Game Warden interviews to help you prepare and succeed.

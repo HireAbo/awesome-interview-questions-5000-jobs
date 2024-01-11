@@ -2,6 +2,8 @@
 
 Welcome to the Animal Surgeon Interview Preparation ! This resource is designed to help you ace your Animal Surgeon interviews with confidence.
 
+Veterinary Medicine is a specialized field of medicine that focuses on the health and well-being of animals. It encompasses various disciplines, including animal surgery. An Animal Surgeon is a highly skilled professional who performs surgical procedures on animals to diagnose and treat various medical conditions. They have extensive knowledge of animal anatomy and physiology, as well as surgical techniques and procedures. Animal Surgeons work closely with veterinarians to provide comprehensive and specialized care to animals in need. Their responsibilities may include performing surgeries, monitoring anesthesia, managing post-operative care, and ensuring the overall health and welfare of animals undergoing surgical procedures.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Animal Surgeon or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Animal Surgeon interviews to help you prepare and succeed.

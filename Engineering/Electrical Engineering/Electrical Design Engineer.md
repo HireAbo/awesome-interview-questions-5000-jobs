@@ -2,6 +2,8 @@
 
 Welcome to the Electrical Design Engineer Interview Preparation ! This resource is designed to help you ace your Electrical Design Engineer interviews with confidence.
 
+An Electrical Design Engineer is a professional who specializes in designing electrical systems and components for various industries. They play a crucial role in developing and implementing electrical designs that meet the specific requirements of a project. These engineers create detailed electrical schematics, circuit diagrams, and blueprints using computer-aided design (CAD) software. They also collaborate with other team members, such as architects and technicians, to ensure the successful integration of electrical systems into a project. Additionally, Electrical Design Engineers may be involved in troubleshooting and resolving technical issues related to electrical systems, as well as conducting testing and inspections to ensure compliance with safety standards.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Electrical Design Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Electrical Design Engineer interviews to help you prepare and succeed.

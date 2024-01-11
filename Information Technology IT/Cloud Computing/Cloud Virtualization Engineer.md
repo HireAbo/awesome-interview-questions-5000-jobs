@@ -2,6 +2,8 @@
 
 Welcome to the Cloud Virtualization Engineer Interview Preparation ! This resource is designed to help you ace your Cloud Virtualization Engineer interviews with confidence.
 
+A Cloud Virtualization Engineer is a highly skilled IT professional responsible for designing, implementing, and managing cloud computing systems. They play a crucial role in optimizing and virtualizing the infrastructure to ensure efficient use of resources. As a Cloud Virtualization Engineer, one must have a strong understanding of virtualization technologies and the ability to work with cloud platforms like Amazon Web Services (AWS), Microsoft Azure, or Google Cloud. They are responsible for creating and managing virtual machines, containers, and server instances, as well as ensuring high availability, scalability, and security of the cloud-based systems. Their expertise helps organizations leverage the benefits of cloud computing, such as cost savings, flexibility, and improved performance.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cloud Virtualization Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cloud Virtualization Engineer interviews to help you prepare and succeed.

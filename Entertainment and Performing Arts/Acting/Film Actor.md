@@ -2,6 +2,8 @@
 
 Welcome to the Film Actor Interview Preparation ! This resource is designed to help you ace your Film Actor interviews with confidence.
 
+A film actor is a professional performer who brings characters to life on the big screen. They are skilled individuals who use their talent, training, and creativity to portray various roles and emotions to captivate audiences. Film actors work in a wide range of genres, including drama, comedy, action, and romance. They collaborate with directors, producers, and fellow actors to interpret scripts and bring characters to life authentically. This involves studying and analyzing scripts, researching characters, memorizing lines, and rehearsing scenes. Film actors may also undergo physical transformations and learn specific skills to accurately portray their characters. Their performances entertain and inspire audiences, making them an integral part of the entertainment and performing arts industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Film Actor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Film Actor interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Graphic Designer (for interior design marketing materials) Interview Preparation ! This resource is designed to help you ace your Graphic Designer (for interior design marketing materials) interviews with confidence.
 
+A graphic designer specializing in interior design marketing materials plays a crucial role in creating visually appealing and compelling materials to promote interior design services. This individual combines their artistic talent with technical skills to develop eye-catching brochures, websites, advertisements, and social media content. They possess a deep understanding of the principles of design, color theory, typography, and layout, ensuring that their creations effectively communicate the unique selling points of a particular interior design project. With a keen eye for detail and a strong sense of aesthetics, the graphic designer collaborates closely with interior designers and marketing teams to produce materials that captivate audiences and entice potential clients to explore the world of interior design.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Graphic Designer (for interior design marketing materials) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Graphic Designer (for interior design marketing materials) interviews to help you prepare and succeed.

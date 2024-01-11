@@ -2,6 +2,8 @@
 
 Welcome to the Hospitality Interior Designer Interview Preparation ! This resource is designed to help you ace your Hospitality Interior Designer interviews with confidence.
 
+A Hospitality Interior Designer is a professional who specializes in creating aesthetically pleasing and functional interior spaces for hotels, restaurants, resorts, and other hospitality establishments. This job requires a deep understanding of design principles, creativity, and technical skills. Hospitality Interior Designers work closely with clients to determine their needs and preferences while considering various factors such as functionality, safety, and budget. They create detailed plans, select appropriate furniture, fixtures, and finishes, and coordinate with architects, contractors, and suppliers to ensure the successful implementation of the design. Ultimately, a Hospitality Interior Designer plays a crucial role in enhancing the guest experience by creating inviting and visually appealing spaces within the hospitality industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Hospitality Interior Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Hospitality Interior Designer interviews to help you prepare and succeed.

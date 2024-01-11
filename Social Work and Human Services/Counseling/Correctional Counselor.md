@@ -2,6 +2,8 @@
 
 Welcome to the Correctional Counselor Interview Preparation ! This resource is designed to help you ace your Correctional Counselor interviews with confidence.
 
+Social work and human services encompass a broad field dedicated to supporting individuals, families, and communities in need. Within this realm, counseling plays a vital role in providing guidance and assistance to individuals facing various challenges. One specific counseling role is that of a correctional counselor. These professionals work within correctional institutions, such as prisons or juvenile detention centers, to help individuals navigate the complex issues associated with incarceration and rehabilitation. Correctional counselors provide mental health support, substance abuse counseling, and assist in developing rehabilitation plans to promote successful reintegration into society. Their work aims to address the underlying causes of criminal behavior, reduce recidivism rates, and promote positive change in individuals' lives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Correctional Counselor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Correctional Counselor interviews to help you prepare and succeed.

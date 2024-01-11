@@ -2,6 +2,8 @@
 
 Welcome to the Energy Modeling Engineer Interview Preparation ! This resource is designed to help you ace your Energy Modeling Engineer interviews with confidence.
 
+An Energy Modeling Engineer plays a crucial role in the field of Energy Engineering, specifically within the Energy and Utilities sector. This job primarily involves designing, developing, and implementing energy models to assess and optimize the performance of various energy systems. These models help to evaluate the energy efficiency, consumption patterns, and environmental impacts of different energy sources and technologies. Energy Modeling Engineers analyze data, conduct simulations, and collaborate with multidisciplinary teams to create effective energy solutions. They also provide recommendations for energy conservation measures and assist in the implementation of energy-efficient strategies. This role requires strong analytical skills, proficiency in energy modeling software, and a deep understanding of energy systems and sustainable practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Energy Modeling Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Energy Modeling Engineer interviews to help you prepare and succeed.

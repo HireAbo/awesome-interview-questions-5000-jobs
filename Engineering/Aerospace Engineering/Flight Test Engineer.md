@@ -2,6 +2,8 @@
 
 Welcome to the Flight Test Engineer Interview Preparation ! This resource is designed to help you ace your Flight Test Engineer interviews with confidence.
 
+A Flight Test Engineer, working within the field of Aerospace Engineering, plays a vital role in the development and testing of aircraft. These professionals are responsible for designing, planning, and executing flight tests to ensure the safety, performance, and compliance of aircraft systems. They collaborate with multidisciplinary teams of engineers and technicians to develop test plans, collect and analyze flight data, and identify potential design improvements. Flight Test Engineers employ advanced technologies and simulation tools to evaluate flight characteristics, aerodynamics, and control systems. Their expertise and attention to detail are crucial for certifying aircraft for operational use, ensuring optimal performance, and enhancing overall aviation safety.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Flight Test Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Flight Test Engineer interviews to help you prepare and succeed.

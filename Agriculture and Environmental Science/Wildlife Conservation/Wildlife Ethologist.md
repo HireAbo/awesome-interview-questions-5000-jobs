@@ -2,6 +2,12 @@
 
 Welcome to the Wildlife Ethologist Interview Preparation ! This resource is designed to help you ace your Wildlife Ethologist interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on the intersection of agriculture and the environment. It involves studying the impact of agricultural practices on ecosystems, biodiversity, and natural resources. 
+
+Within this field, Wildlife Conservation plays a crucial role in preserving and protecting the Earth's diverse wildlife species and their habitats. Wildlife Conservation aims to prevent the extinction of species, maintain ecological balance, and promote sustainable use of natural resources. 
+
+One important job within Wildlife Conservation is that of a Wildlife Ethologist. Wildlife Ethologists study animal behavior in their natural habitats, focusing on understanding their social interactions, feeding patterns, migration, and reproductive behaviors. Through their research, they provide insights into the conservation and management of wildlife populations, helping to develop strategies to protect and preserve endangered species and their habitats.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Ethologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Ethologist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Social Media Coordinator Interview Preparation ! This resource is designed to help you ace your Social Media Coordinator interviews with confidence.
 
+A Social Media Coordinator plays a crucial role in the field of marketing and business management. As a key member of the marketing team, they are responsible for developing and implementing social media strategies to increase brand awareness and engagement across various platforms. Their primary objective is to create compelling content and manage social media campaigns that align with the company's overall marketing goals. Additionally, they monitor and analyze social media metrics to measure the effectiveness of campaigns and make data-driven recommendations for improvement. A successful Social Media Coordinator possesses excellent communication skills, a strong understanding of social media trends, and the ability to adapt to a rapidly evolving digital landscape.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Social Media Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Social Media Coordinator interviews to help you prepare and succeed.

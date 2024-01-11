@@ -2,6 +2,8 @@
 
 Welcome to the Textile Technologist Interview Preparation ! This resource is designed to help you ace your Textile Technologist interviews with confidence.
 
+A Textile Technologist in the field of Fashion Design plays a crucial role in the creation and development of innovative textiles and materials for the fashion industry. This job involves combining artistic creativity with technical expertise to produce fabrics that meet the specific requirements of fashion designers. Textile Technologists are responsible for researching and analyzing textile trends, sourcing new materials, and conducting tests to ensure fabric quality, durability, and performance. They work closely with designers, manufacturers, and suppliers to provide technical guidance and support throughout the design and production process. A strong understanding of fabric properties, manufacturing techniques, and market demands is essential for success in this dynamic and rapidly evolving industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Textile Technologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Textile Technologist interviews to help you prepare and succeed.

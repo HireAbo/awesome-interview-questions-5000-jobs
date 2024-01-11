@@ -2,6 +2,8 @@
 
 Welcome to the Fashion Blogger Interview Preparation ! This resource is designed to help you ace your Fashion Blogger interviews with confidence.
 
+A Fashion Blogger in the field of Art and Design is an individual who combines their passion for fashion with their knack for writing and online presence. As a Fashion Blogger, their main role is to create engaging and informative content related to the fashion industry. This can include writing about the latest fashion trends, reviewing designer collections, sharing personal style tips, and highlighting fashion events. Fashion Bloggers often collaborate with brands, attending fashion shows and events to provide firsthand experiences and insights. Their goal is to inspire and influence their audience by showcasing their unique fashion perspective and establishing themselves as a trusted voice in the fashion world.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Fashion Blogger or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Fashion Blogger interviews to help you prepare and succeed.

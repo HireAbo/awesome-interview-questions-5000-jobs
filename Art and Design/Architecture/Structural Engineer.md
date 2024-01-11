@@ -2,6 +2,8 @@
 
 Welcome to the Structural Engineer Interview Preparation ! This resource is designed to help you ace your Structural Engineer interviews with confidence.
 
+A Structural Engineer in the field of Architecture plays a crucial role in the creation and execution of innovative and functional structures. They are responsible for designing and analyzing the structural integrity of buildings and infrastructure projects. This involves using advanced software and tools to develop detailed plans, calculations, and specifications for construction. Structural Engineers collaborate closely with architects, contractors, and other design professionals to ensure that the final product meets safety standards, withstands loads and forces, and complies with building codes and regulations. They possess a deep understanding of materials, construction methods, and structural behavior, allowing them to bring artistic visions to life while prioritizing safety and durability.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Structural Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Structural Engineer interviews to help you prepare and succeed.

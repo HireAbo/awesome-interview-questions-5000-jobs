@@ -2,6 +2,8 @@
 
 Welcome to the Library Consultant Interview Preparation ! This resource is designed to help you ace your Library Consultant interviews with confidence.
 
+Library and Information Science (LIS) is a field that encompasses the study of libraries and the management and organization of information. Within this field, librarianship is a crucial profession that involves providing access to information, assisting users in their research needs, and managing library collections. However, there is another fascinating career path within librarianship known as Library Consultant. As a Library Consultant, professionals work in a more specialized capacity, offering their expertise and guidance to libraries and other information organizations. Their role involves advising on matters such as library design, technology implementation, collection development, cataloging, and user engagement strategies. Library Consultants play a vital role in helping libraries adapt to changing technological landscapes and ensure efficient and user-friendly service provision.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Library Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Library Consultant interviews to help you prepare and succeed.

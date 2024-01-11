@@ -2,6 +2,8 @@
 
 Welcome to the Industrial-Organizational Psychologist Interview Preparation ! This resource is designed to help you ace your Industrial-Organizational Psychologist interviews with confidence.
 
+Industrial-Organizational Psychology is a specialized field within the broader discipline of psychology that focuses on studying human behavior in the workplace. Industrial-Organizational Psychologists apply psychological principles and theories to enhance employee productivity, job satisfaction, and overall organizational effectiveness. They conduct research, design and implement training programs, and provide consultation to organizations on various topics such as employee selection, performance appraisal, and organizational development. These professionals strive to improve workplace dynamics, employee well-being, and enhance the overall effectiveness of organizations. Industrial-Organizational Psychologists play a crucial role in shaping work environments that promote employee motivation, job satisfaction, and organizational success.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Industrial-Organizational Psychologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Industrial-Organizational Psychologist interviews to help you prepare and succeed.

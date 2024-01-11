@@ -2,6 +2,8 @@
 
 Welcome to the Process Safety Consultant Interview Preparation ! This resource is designed to help you ace your Process Safety Consultant interviews with confidence.
 
+A Process Safety Consultant in the field of Chemical Engineering is a professional who specializes in ensuring the safety and reliability of chemical processes within industrial settings. They are responsible for identifying potential hazards, assessing risks, and implementing effective safety measures to prevent accidents and protect the environment. These consultants work closely with engineers, operators, and management teams to develop and implement process safety management systems, conduct safety audits, and provide training to employees. They also play a crucial role in investigating incidents and recommending corrective actions. A Process Safety Consultant must possess strong analytical, communication, and problem-solving skills to ensure the highest level of safety in chemical processes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Process Safety Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Process Safety Consultant interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Systems Engineer (Networking) Interview Preparation ! This resource is designed to help you ace your Systems Engineer (Networking) interviews with confidence.
 
+The field of Information Technology (IT) encompasses various roles and specializations, one of which is Network Engineering. Network Engineers are responsible for designing, implementing, and managing computer networks within an organization. They ensure the smooth functioning of network infrastructure, including routers, switches, firewalls, and servers, to facilitate efficient data transmission and communication. Within the Network Engineering domain, Systems Engineers (Networking) play a vital role in configuring, optimizing, and troubleshooting complex network systems. These professionals possess in-depth knowledge of network protocols, security measures, and performance analysis to maintain network stability, minimize downtime, and enhance overall network performance. Their expertise enables organizations to achieve seamless connectivity and reliable network operations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Systems Engineer (Networking) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Systems Engineer (Networking) interviews to help you prepare and succeed.

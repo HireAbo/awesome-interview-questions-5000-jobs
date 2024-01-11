@@ -2,6 +2,8 @@
 
 Welcome to the Maintenance Electrician Interview Preparation ! This resource is designed to help you ace your Maintenance Electrician interviews with confidence.
 
+A Maintenance Electrician is a skilled tradesperson who specializes in electrical work and is responsible for the repair, installation, and maintenance of electrical systems in various settings. These professionals play a crucial role in ensuring that electrical systems are functioning efficiently and safely. They are adept at diagnosing electrical issues, performing repairs, and replacing faulty components. Maintenance Electricians also conduct regular inspections to identify potential hazards and address them promptly. They work in a variety of environments, such as residential, commercial, and industrial settings, ensuring that electrical systems are up to code and meet the specific requirements of each establishment. A Maintenance Electrician is an essential part of any maintenance team, ensuring the smooth operation of electrical systems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Maintenance Electrician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Maintenance Electrician interviews to help you prepare and succeed.

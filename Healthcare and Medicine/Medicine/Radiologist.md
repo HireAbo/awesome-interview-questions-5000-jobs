@@ -2,6 +2,8 @@
 
 Welcome to the Radiologist Interview Preparation ! This resource is designed to help you ace your Radiologist interviews with confidence.
 
+A radiologist is a medical professional who specializes in diagnosing and treating diseases and injuries using medical imaging technologies. They play a crucial role in the healthcare industry by interpreting and analyzing various imaging techniques such as X-rays, CT scans, MRIs, ultrasounds, and nuclear medicine scans. Radiologists work closely with other healthcare providers, including physicians and surgeons, to provide accurate diagnoses and treatment plans for patients. They are responsible for identifying abnormalities, tumors, fractures, infections, and other medical conditions through the interpretation of medical images. Radiologists also perform interventional procedures using imaging guidance, such as biopsies and drainages. Their expertise and knowledge contribute significantly to the overall healthcare and medicine field.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Radiologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Radiologist interviews to help you prepare and succeed.

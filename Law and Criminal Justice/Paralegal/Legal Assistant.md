@@ -2,6 +2,8 @@
 
 Welcome to the Legal Assistant Interview Preparation ! This resource is designed to help you ace your Legal Assistant interviews with confidence.
 
+A career in Law and Criminal Justice as a Paralegal or Legal Assistant entails providing essential support to attorneys and legal professionals. Paralegals play a crucial role in assisting lawyers with a wide range of tasks, such as conducting legal research, drafting legal documents, and assisting in trial preparation. They also help with client interviews, document organization, and managing case files. Legal Assistants, on the other hand, primarily focus on administrative duties, including scheduling appointments, maintaining calendars, and managing correspondence. Both roles require exceptional organizational skills, excellent attention to detail, and a comprehensive understanding of legal procedures. Working as a Paralegal or Legal Assistant offers a challenging and rewarding career path for those interested in the field of Law and Criminal Justice.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Legal Assistant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Legal Assistant interviews to help you prepare and succeed.

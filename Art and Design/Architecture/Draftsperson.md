@@ -2,6 +2,8 @@
 
 Welcome to the Draftsperson Interview Preparation ! This resource is designed to help you ace your Draftsperson interviews with confidence.
 
+A draftsperson in the field of architecture plays a crucial role in transforming an architect's vision into tangible designs. With an emphasis on precision and attention to detail, a draftsperson utilizes their technical skills to create accurate and detailed architectural drawings. These drawings serve as a guide for construction teams, ensuring that the final structures are built according to the architect's plans. In addition to drafting, a draftsperson may also assist with research, cost estimation, and project management tasks. This role requires a strong understanding of architectural principles, knowledge of building codes and regulations, and proficiency in drafting software. A draftsperson's contribution is vital in bringing architectural designs to life.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Draftsperson or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Draftsperson interviews to help you prepare and succeed.

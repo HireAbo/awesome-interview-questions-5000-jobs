@@ -2,6 +2,8 @@
 
 Welcome to the Special Education Data Analyst Interview Preparation ! This resource is designed to help you ace your Special Education Data Analyst interviews with confidence.
 
+The role of a Special Education Data Analyst is crucial in ensuring the success and progress of special education programs. Special education data analysts collect, analyze, and interpret data related to students with disabilities, their academic performance, and the effectiveness of intervention strategies. They collaborate with educators, administrators, and other professionals to identify trends, patterns, and areas for improvement within the special education system. These professionals also develop reports and presentations to communicate their findings to stakeholders, helping them make informed decisions and modify instructional practices accordingly. Special Education Data Analysts possess strong analytical skills, attention to detail, and a deep understanding of special education policies and procedures.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Special Education Data Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Special Education Data Analyst interviews to help you prepare and succeed.

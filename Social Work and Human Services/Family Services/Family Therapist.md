@@ -2,6 +2,8 @@
 
 Welcome to the Family Therapist Interview Preparation ! This resource is designed to help you ace your Family Therapist interviews with confidence.
 
+A Family Therapist is a crucial member of the social work and human services field, specializing in providing support and counseling to families facing various challenges. They play a significant role in promoting healthy family dynamics, enhancing communication, and resolving conflicts. These professionals possess a deep understanding of family systems, mental health, and interpersonal relationships. They work closely with individuals, couples, and families to identify and address underlying issues affecting their well-being. Family Therapists utilize evidence-based therapeutic approaches to facilitate healing, encourage positive changes, and promote overall family cohesion. Their ultimate goal is to foster healthy relationships, enhance problem-solving skills, and empower families to overcome obstacles and thrive.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Family Therapist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Family Therapist interviews to help you prepare and succeed.

@@ -2,6 +2,10 @@
 
 Welcome to the Toxicologist Interview Preparation ! This resource is designed to help you ace your Toxicologist interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on understanding the interaction between agriculture practices and the environment. It encompasses various aspects such as soil health, water quality, crop production, and sustainable farming techniques. Environmental Science plays a crucial role in addressing environmental challenges and promoting the conservation of natural resources.
+
+Within the field of Environmental Science, one specific job role is that of a Toxicologist. Toxicologists study the effects of harmful substances on living organisms, including humans, animals, and plants. They assess the potential risks associated with exposure to toxic substances, such as pesticides or industrial pollutants, and develop strategies to minimize their negative impact on the environment and human health. Toxicologists play a vital role in ensuring the safety of agricultural practices and environmental sustainability.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Toxicologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Toxicologist interviews to help you prepare and succeed.

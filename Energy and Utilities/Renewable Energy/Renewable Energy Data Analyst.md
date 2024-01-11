@@ -2,6 +2,8 @@
 
 Welcome to the Renewable Energy Data Analyst Interview Preparation ! This resource is designed to help you ace your Renewable Energy Data Analyst interviews with confidence.
 
+A Renewable Energy Data Analyst plays a pivotal role in the energy and utilities sector, specifically within the realm of renewable energy. This job entails collecting, analyzing, and interpreting data related to renewable energy sources such as solar, wind, hydro, and geothermal power. The analyst's primary responsibility is to identify trends, patterns, and insights from the data to inform decision-making processes, optimize renewable energy generation, and drive overall sustainability efforts. Additionally, they collaborate with cross-functional teams to develop models and forecasts, assess the performance of renewable energy projects, and contribute to the development of renewable energy policies and strategies. Their expertise and analysis help shape the future of renewable energy, ensuring its efficient utilization and contribution to a greener world.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Renewable Energy Data Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Renewable Energy Data Analyst interviews to help you prepare and succeed.

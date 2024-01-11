@@ -2,6 +2,8 @@
 
 Welcome to the Consumer PR Specialist Interview Preparation ! This resource is designed to help you ace your Consumer PR Specialist interviews with confidence.
 
+A Consumer PR Specialist is a professional who specializes in managing and enhancing the public image and reputation of a company or brand. They play a crucial role in creating and maintaining positive relationships between the organization and its consumers. Their main responsibility is to develop and implement effective communication strategies to engage with the target audience, build brand awareness, and drive consumer engagement. Consumer PR Specialists work closely with marketing teams and media outlets to ensure consistent messaging and effective media coverage. They also handle crisis management, media relations, event planning, and social media management to promote a positive brand image and maintain consumer trust.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Consumer PR Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Consumer PR Specialist interviews to help you prepare and succeed.

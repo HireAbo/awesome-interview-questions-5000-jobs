@@ -2,6 +2,8 @@
 
 Welcome to the Housing Counselor Interview Preparation ! This resource is designed to help you ace your Housing Counselor interviews with confidence.
 
+A housing counselor is a professional who specializes in providing guidance and assistance to individuals and families in the area of housing. They work within the field of social sciences, specifically sociology, to analyze and address housing-related issues and concerns. Housing counselors play a crucial role in helping clients navigate the complex housing market, understand their rights and responsibilities as tenants or homeowners, and access resources and support services. They may provide counseling on topics such as mortgage foreclosure, eviction prevention, rental assistance programs, fair housing laws, and affordable housing options. By offering expert advice and support, housing counselors strive to ensure that individuals and families can secure safe and affordable housing, promoting social equity and well-being in communities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Housing Counselor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Housing Counselor interviews to help you prepare and succeed.

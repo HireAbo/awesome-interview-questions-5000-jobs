@@ -2,6 +2,8 @@
 
 Welcome to the Merchandising Data Analyst Interview Preparation ! This resource is designed to help you ace your Merchandising Data Analyst interviews with confidence.
 
+A Merchandising Data Analyst plays a crucial role in the retail and sales industry by analyzing merchandising data to drive business growth and maximize profitability. This job involves collecting, organizing, and interpreting data related to sales, inventory, customer behavior, and market trends. The analyst uses various tools and software to generate reports and identify patterns, trends, and insights. They provide recommendations to improve product assortment, pricing strategies, and promotional activities. Additionally, they collaborate with cross-functional teams such as sales, marketing, and supply chain to optimize merchandising strategies. A Merchandising Data Analyst possesses strong analytical skills, attention to detail, and a deep understanding of retail operations and consumer behavior.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Merchandising Data Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Merchandising Data Analyst interviews to help you prepare and succeed.

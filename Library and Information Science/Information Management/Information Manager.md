@@ -2,6 +2,8 @@
 
 Welcome to the Information Manager Interview Preparation ! This resource is designed to help you ace your Information Manager interviews with confidence.
 
+Library and Information Science is a field that focuses on the organization, management, and dissemination of information. It encompasses various areas, including information management. Information Management is concerned with the systematic organization, storage, and retrieval of information to meet the needs of individuals, organizations, or communities. Within this field, the role of an Information Manager is crucial. An Information Manager is responsible for overseeing the collection, analysis, and interpretation of data to support decision-making processes. They ensure that information is effectively managed, protected, and accessible to users. Information Managers play a vital role in ensuring that organizations can effectively utilize their information resources to achieve their goals and objectives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Information Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Information Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Retail Real Estate Manager Interview Preparation ! This resource is designed to help you ace your Retail Real Estate Manager interviews with confidence.
 
+The role of a Retail Real Estate Manager in Retail Management is a crucial one that involves overseeing and managing the real estate portfolio of a retail company. This job requires a deep understanding of the retail industry, as well as expertise in property management, leasing, and negotiation. A Retail Real Estate Manager is responsible for identifying and acquiring suitable locations for new stores, negotiating lease agreements, and managing the existing store portfolio. They also work closely with developers, landlords, and brokers to ensure optimal store locations and lease terms. This role requires excellent communication and analytical skills, as well as the ability to adapt to changing market conditions and trends.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Retail Real Estate Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Retail Real Estate Manager interviews to help you prepare and succeed.

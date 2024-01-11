@@ -2,6 +2,8 @@
 
 Welcome to the Talent Manager Interview Preparation ! This resource is designed to help you ace your Talent Manager interviews with confidence.
 
+A talent manager working in the field of entertainment and performing arts focuses on representing actors and helping them advance their careers. This job requires a deep understanding of the industry, as talent managers are responsible for discovering and developing talented individuals. They work closely with actors, providing guidance and advice, and they negotiate contracts and deals on their behalf. Talent managers also network with casting directors, producers, and other industry professionals to create opportunities for their clients. They play a crucial role in shaping an actor's career by identifying suitable roles, arranging auditions, and promoting their clients' talents to maximize their exposure and success in the entertainment industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Talent Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Talent Manager interviews to help you prepare and succeed.

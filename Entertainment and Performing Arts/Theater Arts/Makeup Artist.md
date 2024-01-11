@@ -2,6 +2,8 @@
 
 Welcome to the Makeup Artist Interview Preparation ! This resource is designed to help you ace your Makeup Artist interviews with confidence.
 
+A makeup artist in the field of theater arts plays a pivotal role in bringing characters to life on stage. They are highly skilled professionals who specialize in transforming actors' appearances through the use of makeup, prosthetics, and other visual aids. Their artistry and creativity are essential in enhancing facial features, creating realistic wounds or aging effects, and ensuring that performers’ appearances align with the production's vision. Beyond applying makeup, makeup artists also collaborate closely with directors, costume designers, and lighting technicians to achieve a cohesive look for the entire production. They possess a deep understanding of color theory, facial anatomy, and the ability to work efficiently under pressure to meet tight deadlines.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Makeup Artist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Makeup Artist interviews to help you prepare and succeed.

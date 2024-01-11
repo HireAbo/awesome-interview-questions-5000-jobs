@@ -2,6 +2,8 @@
 
 Welcome to the Flamenco Dancer Interview Preparation ! This resource is designed to help you ace your Flamenco Dancer interviews with confidence.
 
+A Flamenco Dancer is a skilled professional who specializes in the art of Flamenco dance. Flamenco is a passionate and expressive dance form originating from Spain, characterized by its intricate footwork, rhythmic hand clapping, and soulful music. As a Flamenco Dancer, one must possess exceptional coordination, flexibility, and stamina to execute the complex movements and maintain the intense energy associated with this art form. These dancers often perform in various settings, such as theaters, festivals, and cultural events, captivating audiences with their grace, emotion, and storytelling through dance. A career as a Flamenco Dancer requires years of training, dedication, and a deep understanding of the rich cultural heritage behind this enchanting dance style.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Flamenco Dancer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Flamenco Dancer interviews to help you prepare and succeed.

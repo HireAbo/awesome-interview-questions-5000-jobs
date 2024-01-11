@@ -2,6 +2,8 @@
 
 Welcome to the HR Operations Manager Interview Preparation ! This resource is designed to help you ace your HR Operations Manager interviews with confidence.
 
+An HR Operations Manager plays a crucial role in the smooth functioning of a company's human resources department. They are responsible for overseeing and managing all aspects of HR operations, including recruitment, employee onboarding, performance management, employee relations, and compliance with labor laws and regulations. They collaborate with various stakeholders, such as hiring managers and senior executives, to ensure effective HR strategies and policies are in place. Additionally, HR Operations Managers analyze HR metrics and data to identify areas for improvement and develop strategies to enhance employee engagement and productivity. This role requires strong leadership skills, excellent communication, and a deep understanding of HR principles and best practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned HR Operations Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in HR Operations Manager interviews to help you prepare and succeed.

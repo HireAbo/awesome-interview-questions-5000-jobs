@@ -2,6 +2,8 @@
 
 Welcome to the Cloud Performance Engineer Interview Preparation ! This resource is designed to help you ace your Cloud Performance Engineer interviews with confidence.
 
+A Cloud Performance Engineer is a professional responsible for ensuring the efficient and optimal performance of cloud computing systems. Their role involves monitoring and analyzing the performance of cloud-based applications, networks, and infrastructure to identify and resolve any performance issues. They work closely with development teams to optimize cloud-based solutions, using various tools and techniques to measure performance metrics, such as response time, throughput, and scalability. Cloud Performance Engineers also collaborate with system administrators and network engineers to implement performance enhancements, troubleshoot bottlenecks, and ensure high availability and reliability of cloud platforms. With their expertise in cloud computing and performance analysis, they play a crucial role in maximizing the benefits of cloud technology for organizations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cloud Performance Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cloud Performance Engineer interviews to help you prepare and succeed.

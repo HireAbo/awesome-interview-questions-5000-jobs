@@ -2,6 +2,8 @@
 
 Welcome to the Project Communication Manager Interview Preparation ! This resource is designed to help you ace your Project Communication Manager interviews with confidence.
 
+A Project Communication Manager plays a crucial role in the field of Business and Management, specifically in Project Management. This job involves overseeing and facilitating effective communication within a project team and stakeholders involved in a project. The main responsibility is to ensure that all project-related information is shared, understood, and acted upon by the relevant parties. The Project Communication Manager is responsible for developing and implementing communication plans, coordinating meetings, and maintaining communication channels. This role requires excellent interpersonal and communication skills, as well as the ability to analyze and interpret project information. A Project Communication Manager plays a vital role in ensuring the success of a project by fostering clear and efficient communication among team members and stakeholders.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Project Communication Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Project Communication Manager interviews to help you prepare and succeed.

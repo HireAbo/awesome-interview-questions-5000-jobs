@@ -2,6 +2,8 @@
 
 Welcome to the Research Project Manager Interview Preparation ! This resource is designed to help you ace your Research Project Manager interviews with confidence.
 
+A Research Project Manager in Veterinary Medicine plays a crucial role in advancing the field of veterinary research. With a deep understanding of veterinary medicine, this professional oversees and manages research projects, ensuring they are conducted efficiently and effectively. They collaborate with a team of researchers, veterinarians, and scientists to design and implement research studies, collect and analyze data, and interpret findings. The Research Project Manager also coordinates and manages resources, budgets, and timelines, ensuring projects are completed on schedule. With strong organizational and communication skills, they facilitate collaboration and knowledge exchange, ultimately contributing to the advancement of veterinary medicine and the improvement of animal health.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Research Project Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Research Project Manager interviews to help you prepare and succeed.

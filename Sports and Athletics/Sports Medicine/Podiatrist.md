@@ -2,6 +2,8 @@
 
 Welcome to the Podiatrist Interview Preparation ! This resource is designed to help you ace your Podiatrist interviews with confidence.
 
+A podiatrist, specializing in Sports Medicine, is a healthcare professional who focuses on the diagnosis, treatment, and prevention of foot and ankle injuries related to sports and athletics. These medical experts play a crucial role in helping athletes maintain optimal foot health and overcome various foot-related issues that may hinder their performance. Podiatrists in Sports Medicine possess in-depth knowledge of biomechanics, orthotics, and sports-specific injuries. They are skilled in performing comprehensive evaluations, conducting diagnostic tests, and providing personalized treatment plans to athletes. Additionally, they may collaborate with other healthcare professionals, such as orthopedic surgeons and physical therapists, to ensure the best possible outcomes for athletes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Podiatrist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Podiatrist interviews to help you prepare and succeed.

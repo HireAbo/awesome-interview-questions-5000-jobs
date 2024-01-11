@@ -2,6 +2,8 @@
 
 Welcome to the Political Attaché Interview Preparation ! This resource is designed to help you ace your Political Attaché interviews with confidence.
 
+A political attaché plays a crucial role in government and public service, particularly in the field of diplomacy. As a diplomatic representative, a political attaché serves as a liaison between their home country's government and the host country they are assigned to. Their primary responsibility is to gather and analyze political intelligence, facilitate communication between governments, and provide advice on matters of foreign policy. Political attachés are often stationed in embassies or consulates and work closely with diplomats, government officials, and local representatives. This role demands strong analytical and communication skills, cultural sensitivity, and a deep understanding of international relations, making it an essential component of successful diplomatic missions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Political Attaché or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Political Attaché interviews to help you prepare and succeed.

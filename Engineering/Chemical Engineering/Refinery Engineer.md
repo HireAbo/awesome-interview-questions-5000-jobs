@@ -2,6 +2,8 @@
 
 Welcome to the Refinery Engineer Interview Preparation ! This resource is designed to help you ace your Refinery Engineer interviews with confidence.
 
+A Refinery Engineer is a specialized professional within the field of Chemical Engineering who focuses on the design, construction, and maintenance of refineries. They play a crucial role in ensuring the efficiency and safety of refinery operations, as well as the production of high-quality petroleum products. Refinery Engineers are responsible for analyzing and optimizing various processes within the refinery, such as distillation, catalytic cracking, and hydrotreating, to enhance productivity and minimize environmental impact. They also collaborate with other engineers and technicians to troubleshoot issues, develop innovative solutions, and implement new technologies. Strong analytical skills, attention to detail, and a deep understanding of chemical processes are essential for success in this challenging and rewarding career.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Refinery Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Refinery Engineer interviews to help you prepare and succeed.

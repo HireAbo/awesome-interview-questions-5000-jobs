@@ -2,6 +2,8 @@
 
 Welcome to the Property Management Tenant Relations Specialist Interview Preparation ! This resource is designed to help you ace your Property Management Tenant Relations Specialist interviews with confidence.
 
+A Property Management Tenant Relations Specialist is a crucial role within the real estate and property management industry. They are responsible for establishing and maintaining positive relationships between property owners and tenants. This role involves ensuring tenant satisfaction by addressing concerns, resolving disputes, and coordinating necessary repairs or maintenance. A Tenant Relations Specialist also plays a key role in attracting and retaining tenants by marketing available properties, conducting property tours, and screening potential tenants. Additionally, they are responsible for enforcing lease agreements and collecting rent payments. This position requires excellent communication and customer service skills, as well as a strong understanding of landlord-tenant laws and regulations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Property Management Tenant Relations Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Property Management Tenant Relations Specialist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Sustainability Merchandiser Interview Preparation ! This resource is designed to help you ace your Sustainability Merchandiser interviews with confidence.
 
+A Sustainability Merchandiser plays a crucial role in the retail and sales industry by focusing on sustainable practices in merchandising. This job involves promoting and implementing environmentally friendly strategies throughout the entire merchandising process. The Sustainability Merchandiser collaborates with suppliers and vendors to source sustainable materials and products, ensuring ethical and responsible sourcing practices. They also work closely with the marketing team to communicate the company's commitment to sustainability to customers and stakeholders. Additionally, the Sustainability Merchandiser analyzes market trends and consumer preferences to develop strategies that align with sustainable practices. This job requires a deep understanding of sustainability initiatives and a passion for making a positive impact on the environment through merchandising efforts.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sustainability Merchandiser or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sustainability Merchandiser interviews to help you prepare and succeed.

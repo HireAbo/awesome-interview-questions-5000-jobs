@@ -2,6 +2,8 @@
 
 Welcome to the Guidance Counselor Interview Preparation ! This resource is designed to help you ace your Guidance Counselor interviews with confidence.
 
+A school counseling or guidance counselor is a vital member of the education system, playing a crucial role in supporting students' academic, social, and emotional development. These professionals work closely with students, teachers, parents, and administrators to address a wide range of issues that may impact a student's overall well-being and academic success. They provide guidance on course selection, career planning, and college applications. Moreover, they offer individual and group counseling sessions to help students navigate personal challenges, such as relationship issues, mental health concerns, and self-esteem problems. By promoting a positive and inclusive school environment, guidance counselors contribute to creating a supportive and nurturing educational experience for all students.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Guidance Counselor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Guidance Counselor interviews to help you prepare and succeed.

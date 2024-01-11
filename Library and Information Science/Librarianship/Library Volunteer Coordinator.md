@@ -2,6 +2,8 @@
 
 Welcome to the Library Volunteer Coordinator Interview Preparation ! This resource is designed to help you ace your Library Volunteer Coordinator interviews with confidence.
 
+Library and Information Science (LIS) is a field that encompasses the study of libraries, information organizations, and the management and dissemination of information. Librarianship, a subfield of LIS, focuses on the professional practice of librarians and their crucial role in providing access to information resources and services. Within librarianship, the position of a Library Volunteer Coordinator plays a vital role in the effective functioning of libraries. A Library Volunteer Coordinator is responsible for recruiting, training, and supervising volunteers who support library operations. They ensure that volunteers are assigned tasks that align with their skills and interests, fostering a positive and engaging experience for both volunteers and library patrons.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Library Volunteer Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Library Volunteer Coordinator interviews to help you prepare and succeed.

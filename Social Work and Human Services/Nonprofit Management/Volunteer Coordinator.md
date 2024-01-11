@@ -2,6 +2,8 @@
 
 Welcome to the Volunteer Coordinator Interview Preparation ! This resource is designed to help you ace your Volunteer Coordinator interviews with confidence.
 
+A Volunteer Coordinator plays a crucial role in the field of Social Work and Human Services, specifically in Nonprofit Management. This position involves overseeing and managing the volunteer program within an organization, ensuring effective recruitment, training, and coordination of volunteers. The Volunteer Coordinator acts as a liaison between volunteers and the organization, assessing their skills and matching them with suitable opportunities. They also provide necessary support, supervision, and recognition to volunteers, maintaining positive relationships. This role requires excellent interpersonal and communication skills, as well as strong organizational abilities. Ultimately, the Volunteer Coordinator contributes to the overall success of the organization by mobilizing volunteers to make a meaningful impact in the community.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Volunteer Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Volunteer Coordinator interviews to help you prepare and succeed.

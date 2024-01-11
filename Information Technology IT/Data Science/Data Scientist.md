@@ -2,6 +2,12 @@
 
 Welcome to the Data Scientist Interview Preparation ! This resource is designed to help you ace your Data Scientist interviews with confidence.
 
+Information Technology (IT) is a field that encompasses the use of computers, software, networks, and electronic systems to store, process, transmit, and retrieve information. It involves managing and manipulating data to meet the needs of organizations and individuals. 
+
+Data Science, on the other hand, is a multidisciplinary field that combines statistics, mathematics, programming, and machine learning techniques to extract insights and knowledge from large and complex datasets. Data Scientists are professionals who possess a strong understanding of data analysis, data visualization, and predictive modeling. They have the skills to identify patterns, develop algorithms, and create innovative solutions to solve complex business problems.
+
+In summary, Data Science is a specialized area within the broader field of Information Technology, and Data Scientists are highly sought-after professionals who play a vital role in leveraging data to drive decision-making and business success.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Scientist interviews to help you prepare and succeed.

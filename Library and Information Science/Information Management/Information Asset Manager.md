@@ -2,6 +2,8 @@
 
 Welcome to the Information Asset Manager Interview Preparation ! This resource is designed to help you ace your Information Asset Manager interviews with confidence.
 
+A Library and Information Science professional with a specialization in Information Management plays a crucial role as an Information Asset Manager. This job involves effectively organizing, storing, and retrieving valuable information assets within an organization. The Information Asset Manager ensures that information is properly classified, organized, and accessible to meet the needs of users. They are responsible for developing and implementing strategies to manage all types of information assets, including digital and physical documents, databases, and records. Moreover, they analyze the information landscape, identify information gaps, and recommend solutions to improve information management practices. Information Asset Managers are essential in ensuring efficient and effective information utilization, organization, and preservation within organizations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Information Asset Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Information Asset Manager interviews to help you prepare and succeed.

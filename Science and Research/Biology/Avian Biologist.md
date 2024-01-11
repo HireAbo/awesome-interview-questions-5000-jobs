@@ -2,6 +2,8 @@
 
 Welcome to the Avian Biologist Interview Preparation ! This resource is designed to help you ace your Avian Biologist interviews with confidence.
 
+Avian biologists are professionals dedicated to the study and understanding of birds, specializing in the field of biology. They conduct extensive research and scientific investigations to gain insights into various aspects of avian life, including behavior, physiology, ecology, and conservation. These scientists employ advanced techniques and tools to collect data, analyze samples, and observe avian species in their natural habitats. Avian biologists often collaborate with other experts, such as ecologists, geneticists, and ornithologists, to unravel complex avian phenomena and contribute to the advancement of scientific knowledge. Their work is crucial for the conservation and management of bird populations, as well as understanding the impacts of environmental changes on avian ecosystems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Avian Biologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Avian Biologist interviews to help you prepare and succeed.

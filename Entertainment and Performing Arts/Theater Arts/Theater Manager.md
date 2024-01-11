@@ -2,6 +2,8 @@
 
 Welcome to the Theater Manager Interview Preparation ! This resource is designed to help you ace your Theater Manager interviews with confidence.
 
+A theater manager is a crucial role within the field of entertainment and performing arts, specifically in the realm of theater arts. As a theater manager, one is responsible for overseeing all aspects of the theater, ensuring the smooth running of operations and the success of productions. This multifaceted role entails managing budgets, coordinating schedules, hiring and supervising staff, marketing and promoting shows, and maintaining the overall quality of the theater experience for audiences. A theater manager must possess strong organizational, communication, and leadership skills to effectively collaborate with a team and handle the various demands of the job, ultimately contributing to the vibrant world of theater.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Theater Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Theater Manager interviews to help you prepare and succeed.

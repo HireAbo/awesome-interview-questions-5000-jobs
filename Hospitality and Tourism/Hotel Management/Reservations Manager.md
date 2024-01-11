@@ -2,6 +2,8 @@
 
 Welcome to the Reservations Manager Interview Preparation ! This resource is designed to help you ace your Reservations Manager interviews with confidence.
 
+The hospitality and tourism industry is a thriving sector that encompasses various roles and responsibilities, including hotel management. As a Reservations Manager, your primary role is to oversee and manage the hotel's reservation system. You will be responsible for coordinating and maintaining accurate room inventory, updating rates and availability, and ensuring seamless communication between the hotel and guests. Additionally, you will handle guest inquiries, manage cancellations and modifications, and collaborate with other departments to ensure a smooth check-in and check-out process. A detail-oriented mindset, excellent communication skills, and strong organizational abilities are essential in this role to provide exceptional customer service and maximize revenue for the hotel.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Reservations Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Reservations Manager interviews to help you prepare and succeed.

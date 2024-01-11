@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Appraisal Trainer Interview Preparation ! This resource is designed to help you ace your Real Estate Appraisal Trainer interviews with confidence.
 
+Real Estate and Property Management involves the buying, selling, and managing of properties, whether residential, commercial, or industrial. It encompasses various aspects such as property valuation, marketing, leasing, and maintenance. Real Estate Appraisal, specifically, focuses on determining the value of a property through extensive research and analysis of market trends, comparable sales, and property characteristics. The role of a Real Estate Appraisal Trainer is to provide training and guidance to individuals aspiring to become real estate appraisers. They educate trainees on appraisal techniques, industry regulations, and best practices, equipping them with the necessary skills and knowledge to accurately evaluate properties and produce reliable appraisal reports.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Appraisal Trainer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Appraisal Trainer interviews to help you prepare and succeed.

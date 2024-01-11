@@ -2,6 +2,8 @@
 
 Welcome to the Social Researcher Interview Preparation ! This resource is designed to help you ace your Social Researcher interviews with confidence.
 
+A Social Researcher in the field of Political Science is a professional who conducts systematic investigations and studies to gain a deeper understanding of the social and political dynamics within a society. This role involves designing and implementing research projects, collecting and analyzing data, and interpreting findings to provide insights into various political phenomena. Social Researchers in Political Science often focus on studying political attitudes, behaviors, public opinion, power dynamics, and policy-making processes. They employ various research methodologies such as surveys, interviews, case studies, and statistical analysis to gather relevant information. The findings of their research are crucial in shaping public policies, informing political strategies, and contributing to the overall advancement of political science knowledge.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Social Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Social Researcher interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Guerrilla Marketing Specialist Interview Preparation ! This resource is designed to help you ace your Guerrilla Marketing Specialist interviews with confidence.
 
+A Guerrilla Marketing Specialist is a professional responsible for developing and implementing innovative advertising strategies to create a lasting impact on the target audience. They specialize in guerrilla marketing, which is a non-traditional and unconventional approach to marketing and advertising. These specialists use creative and disruptive techniques to capture the attention of consumers in unexpected ways. They work closely with clients to understand their brand, target audience, and marketing objectives. A Guerrilla Marketing Specialist combines their knowledge of consumer behavior, market trends, and creative thinking to design and execute campaigns that generate buzz, increase brand awareness, and ultimately drive sales. They are experts in thinking outside the box and creating memorable and engaging advertising experiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Guerrilla Marketing Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Guerrilla Marketing Specialist interviews to help you prepare and succeed.

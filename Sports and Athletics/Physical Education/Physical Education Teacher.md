@@ -2,6 +2,8 @@
 
 Welcome to the Physical Education Teacher Interview Preparation ! This resource is designed to help you ace your Physical Education Teacher interviews with confidence.
 
+Sports and Athletics are essential components of physical education, focusing on the development of physical fitness, skills, and teamwork. It involves various activities, such as team sports, individual sports, and recreational games, that promote physical well-being and holistic growth. Physical education teachers play a crucial role in shaping the physical, mental, and social development of students. As a physical education teacher, one is responsible for designing and implementing age-appropriate lesson plans, facilitating sports activities, educating students about the importance of fitness and healthy lifestyle choices, and promoting sportsmanship and fair play. This profession requires a passion for sports, excellent communication skills, and the ability to foster a positive and inclusive learning environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Physical Education Teacher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Physical Education Teacher interviews to help you prepare and succeed.

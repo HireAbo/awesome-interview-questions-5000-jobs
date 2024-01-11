@@ -2,6 +2,8 @@
 
 Welcome to the Reliability Engineer Interview Preparation ! This resource is designed to help you ace your Reliability Engineer interviews with confidence.
 
+A Reliability Engineer is a specialized position within the field of Electrical Engineering that focuses on ensuring the reliability and longevity of electrical systems. They are responsible for analyzing, monitoring, and improving the performance of electrical systems, including power distribution networks, equipment, and components. This involves conducting risk assessments, developing maintenance strategies, and implementing preventive measures to minimize failures and downtime. Reliability Engineers also play a crucial role in the design and development of new electrical systems, ensuring that they meet industry standards and are built to withstand various environmental and operational conditions. Their expertise is essential in industries such as manufacturing, aerospace, energy, and telecommunications, where electrical reliability is of utmost importance.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Reliability Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Reliability Engineer interviews to help you prepare and succeed.

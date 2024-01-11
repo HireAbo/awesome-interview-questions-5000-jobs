@@ -2,6 +2,8 @@
 
 Welcome to the Health Services Researcher Interview Preparation ! This resource is designed to help you ace your Health Services Researcher interviews with confidence.
 
+A Health Services Researcher plays a crucial role in advancing healthcare and medicine through their work in medical research. They focus on studying and analyzing various aspects of healthcare delivery, including the quality, effectiveness, and efficiency of health services. These professionals work closely with healthcare providers, policymakers, and other stakeholders to identify areas for improvement and develop evidence-based strategies to enhance patient care. Health Services Researchers also investigate healthcare disparities, access to services, and the impact of different interventions on patient outcomes. Their findings contribute to the development of policies, guidelines, and practices that improve the delivery and organization of health services, ultimately leading to better healthcare for individuals and populations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Health Services Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Health Services Researcher interviews to help you prepare and succeed.

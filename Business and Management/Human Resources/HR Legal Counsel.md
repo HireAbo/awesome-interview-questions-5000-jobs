@@ -2,6 +2,8 @@
 
 Welcome to the HR Legal Counsel Interview Preparation ! This resource is designed to help you ace your HR Legal Counsel interviews with confidence.
 
+The HR Legal Counsel role is a critical position within the Human Resources department of any organization. This job primarily involves providing legal guidance and support to the HR team and senior management on various employment law matters. HR Legal Counsel professionals ensure that the organization complies with all relevant employment laws and regulations, including but not limited to discrimination, harassment, labor relations, and employee benefits. They review and draft employment contracts, policies, and procedures, and handle disputes and litigation when necessary. Additionally, HR Legal Counsel professionals play a crucial role in advising HR on disciplinary actions, terminations, and employee grievances, while also keeping abreast of changing laws and regulations that may impact the organization's HR policies and practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned HR Legal Counsel or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in HR Legal Counsel interviews to help you prepare and succeed.

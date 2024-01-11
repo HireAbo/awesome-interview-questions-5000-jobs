@@ -2,6 +2,8 @@
 
 Welcome to the Theater Technician Interview Preparation ! This resource is designed to help you ace your Theater Technician interviews with confidence.
 
+A Theater Technician plays a vital role in the world of Entertainment and Performing Arts, specifically in the realm of Theater Arts. They are responsible for the technical aspects of a theatrical production, ensuring the smooth execution of lighting, sound, set design, and other technical elements. These professionals work closely with the director, designers, and performers to bring the artistic vision to life. Theater Technicians possess a wide range of skills, including knowledge of audio and visual equipment, stage rigging, and computer programming. They are adept at troubleshooting technical issues and are often required to work under pressure to meet tight deadlines. Overall, Theater Technicians are essential in creating an immersive and captivating theater experience for audiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Theater Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Theater Technician interviews to help you prepare and succeed.

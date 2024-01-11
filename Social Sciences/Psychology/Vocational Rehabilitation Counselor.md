@@ -2,6 +2,8 @@
 
 Welcome to the Vocational Rehabilitation Counselor Interview Preparation ! This resource is designed to help you ace your Vocational Rehabilitation Counselor interviews with confidence.
 
+A Vocational Rehabilitation Counselor is a professional who specializes in assisting individuals with disabilities to achieve employment and vocational goals. They work within the field of psychology, specifically in the area of vocational rehabilitation, which is a branch of social sciences. These counselors provide support, guidance, and counseling to individuals with physical, mental, developmental, or emotional disabilities, helping them identify their abilities, interests, and strengths. They assess their clients' skills and limitations, develop individualized employment plans, and provide training and counseling to enhance their job-seeking and job retention skills. Vocational Rehabilitation Counselors play a vital role in promoting inclusivity and independence for individuals with disabilities in the workforce.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Vocational Rehabilitation Counselor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Vocational Rehabilitation Counselor interviews to help you prepare and succeed.

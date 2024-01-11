@@ -2,6 +2,12 @@
 
 Welcome to the Data Analyst Interview Preparation ! This resource is designed to help you ace your Data Analyst interviews with confidence.
 
+Information Technology (IT) is a field that encompasses the use and management of various technologies to store, retrieve, transmit, and manipulate data. It involves the application of computer systems and software to process, protect, and distribute information. 
+
+Data Science is a multidisciplinary field that combines statistical analysis, machine learning, and computer science to extract insights and knowledge from data. It involves collecting, cleaning, and analyzing large sets of structured and unstructured data to uncover patterns, trends, and correlations. Data scientists use various tools and programming languages to create models and algorithms that can solve complex problems and make data-driven decisions.
+
+A Data Analyst job focuses on interpreting and analyzing data to provide valuable insights and support decision-making. They gather, organize, and clean data, apply statistical techniques, and use visualization tools to present findings in a clear and understandable manner. Data analysts play a crucial role in identifying trends, patterns, and relationships within data sets to help organizations improve their operations, optimize processes, and make informed business decisions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Analyst interviews to help you prepare and succeed.

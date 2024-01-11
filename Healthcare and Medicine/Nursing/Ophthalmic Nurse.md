@@ -2,6 +2,12 @@
 
 Welcome to the Ophthalmic Nurse Interview Preparation ! This resource is designed to help you ace your Ophthalmic Nurse interviews with confidence.
 
+An Ophthalmic Nurse is a specialized healthcare professional who focuses on eye care and specializes in ophthalmology. These nurses are essential in assisting ophthalmologists in diagnosing and treating eye conditions and diseases. They play a crucial role in providing comprehensive eye care to patients of all ages, from newborns to the elderly.
+
+Ophthalmic Nurses are responsible for conducting eye assessments, administering medications, providing pre and post-operative care, and assisting with eye surgeries. They also educate patients on eye health and proper eye care practices. Additionally, they are skilled in using various ophthalmic instruments and technologies to perform tests, such as visual acuity, visual field, and intraocular pressure measurements.
+
+Overall, Ophthalmic Nurses are dedicated professionals who contribute to the wellbeing of patients by ensuring excellent eye care and promoting healthy vision.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Ophthalmic Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Ophthalmic Nurse interviews to help you prepare and succeed.

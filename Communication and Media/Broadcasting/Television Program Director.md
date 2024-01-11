@@ -2,6 +2,8 @@
 
 Welcome to the Television Program Director Interview Preparation ! This resource is designed to help you ace your Television Program Director interviews with confidence.
 
+A Television Program Director is a key role in the field of Communication and Media, specifically in Broadcasting. As the head of a television program, they play a vital role in overseeing the production and execution of various programs. This includes managing the overall content, vision, and direction of the television shows, ensuring they align with the network's objectives and target audience. Television Program Directors collaborate closely with producers, writers, directors, and other production staff to create engaging and high-quality programming. They also make critical decisions regarding scheduling, budgeting, and resource allocation to ensure the smooth running of the programs. Excellent organizational, leadership, and creative skills are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Television Program Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Television Program Director interviews to help you prepare and succeed.

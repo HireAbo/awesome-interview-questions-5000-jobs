@@ -2,6 +2,8 @@
 
 Welcome to the Nuclear Regulatory Affairs Manager Interview Preparation ! This resource is designed to help you ace your Nuclear Regulatory Affairs Manager interviews with confidence.
 
+A Nuclear Regulatory Affairs Manager is a professional responsible for overseeing and ensuring compliance with regulatory requirements within the field of nuclear energy. They play a crucial role in the safe and efficient operation of nuclear power plants and related facilities. Their responsibilities include developing and implementing regulatory strategies, monitoring changes in regulations, and coordinating with regulatory agencies to obtain necessary permits and licenses. These managers also provide guidance and support to internal teams, ensuring that operational activities adhere to safety protocols and industry standards. A strong understanding of nuclear energy, regulatory frameworks, and excellent communication skills are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nuclear Regulatory Affairs Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nuclear Regulatory Affairs Manager interviews to help you prepare and succeed.

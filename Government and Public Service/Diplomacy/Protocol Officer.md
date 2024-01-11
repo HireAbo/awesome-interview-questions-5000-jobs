@@ -2,6 +2,8 @@
 
 Welcome to the Protocol Officer Interview Preparation ! This resource is designed to help you ace your Protocol Officer interviews with confidence.
 
+A Protocol Officer holds a vital role in the field of diplomacy and government public service. They are responsible for ensuring the smooth execution of diplomatic and official events, adhering to strict protocol guidelines. These professionals work closely with government officials, foreign dignitaries, and other key stakeholders to oversee the logistical aspects of high-profile meetings, conferences, and state visits. Protocol Officers meticulously plan and coordinate various aspects, including seating arrangements, gift exchanges, ceremonial procedures, and cultural sensitivities. They also play a crucial role in fostering positive relationships between nations by facilitating effective communication and promoting cultural understanding. A Protocol Officer's attention to detail, knowledge of international customs, and excellent interpersonal skills are essential for successfully executing diplomatic events and enhancing global relations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Protocol Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Protocol Officer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Health Outcomes Researcher Interview Preparation ! This resource is designed to help you ace your Health Outcomes Researcher interviews with confidence.
 
+A Health Outcomes Researcher is a professional who plays a crucial role in the field of healthcare and medicine. They are responsible for conducting extensive research and analysis to evaluate the impact of various medical interventions, treatments, and healthcare policies on patient outcomes. Their main objective is to improve the overall quality and effectiveness of healthcare by providing evidence-based insights. Health Outcomes Researchers utilize various research methodologies, including data analysis, statistical modeling, and qualitative research, to assess health outcomes such as mortality rates, disease progression, patient satisfaction, and quality of life. Their findings contribute to shaping healthcare policies, clinical guidelines, and medical decision-making, ultimately leading to better patient care and improved health outcomes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Health Outcomes Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Health Outcomes Researcher interviews to help you prepare and succeed.

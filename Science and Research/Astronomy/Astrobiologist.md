@@ -2,6 +2,8 @@
 
 Welcome to the Astrobiologist Interview Preparation ! This resource is designed to help you ace your Astrobiologist interviews with confidence.
 
+Astrobiologists are scientists who specialize in the field of astrobiology, a multidisciplinary branch of science that combines elements of biology, astronomy, chemistry, and geology. Their primary focus is to study the possibility of life beyond Earth, exploring the origins, evolution, and distribution of life in the universe. Astrobiologists investigate the conditions necessary for life to exist on other planets and moons, searching for evidence of habitable environments and potential biosignatures. They utilize various research methods, including remote sensing, laboratory experiments, and data analysis. Astrobiologists play a crucial role in advancing our understanding of the potential existence of extraterrestrial life and the conditions required for its sustenance.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Astrobiologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Astrobiologist interviews to help you prepare and succeed.

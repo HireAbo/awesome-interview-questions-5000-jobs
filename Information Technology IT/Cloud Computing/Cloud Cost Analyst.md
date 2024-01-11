@@ -2,6 +2,8 @@
 
 Welcome to the Cloud Cost Analyst Interview Preparation ! This resource is designed to help you ace your Cloud Cost Analyst interviews with confidence.
 
+A Cloud Cost Analyst is a crucial role within the field of Information Technology (IT) with a specific focus on Cloud Computing. Cloud Computing refers to the practice of using remote servers hosted on the internet to store, manage, and process data. The Cloud Cost Analyst is responsible for analyzing and optimizing the costs associated with cloud services. They monitor cloud usage, identify cost-saving opportunities, and provide recommendations to optimize resource allocation. This role requires expertise in cloud platforms and financial analysis. A Cloud Cost Analyst plays a vital role in helping organizations manage their cloud expenses efficiently while ensuring optimal performance and resource utilization.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cloud Cost Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cloud Cost Analyst interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the CRM Manager (Customer Relationship Management) Interview Preparation ! This resource is designed to help you ace your CRM Manager (Customer Relationship Management) interviews with confidence.
 
+A CRM Manager, also known as a Customer Relationship Management Manager, is a vital role in the field of marketing and business management. This professional is responsible for developing and implementing strategies to enhance customer satisfaction, retention, and loyalty. The role focuses on managing and optimizing the use of CRM systems and tools to ensure effective customer interactions and engagement. A CRM Manager works closely with various internal teams, such as sales, marketing, and customer service, to identify and address customer needs and preferences. They also analyze data and insights from CRM systems to develop targeted marketing campaigns, improve customer experiences, and drive business growth. Overall, a CRM Manager plays a crucial role in building and maintaining strong relationships with customers to achieve business objectives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned CRM Manager (Customer Relationship Management) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in CRM Manager (Customer Relationship Management) interviews to help you prepare and succeed.

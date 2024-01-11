@@ -2,6 +2,8 @@
 
 Welcome to the Epidemiologist Interview Preparation ! This resource is designed to help you ace your Epidemiologist interviews with confidence.
 
+Veterinary Medicine is a specialized field that focuses on the health and well-being of animals. Within this field, Veterinary Research plays a crucial role in advancing our understanding of various animal diseases and developing effective treatments and prevention strategies. Epidemiologists, as part of the Veterinary Research team, specifically investigate the patterns and causes of diseases in animal populations. They analyze data, conduct studies, and monitor disease outbreaks to identify risk factors and develop preventive measures. By studying the spread and impact of diseases, epidemiologists contribute to safeguarding animal health, improving public health, and ensuring the safety of food products derived from animals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Epidemiologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Epidemiologist interviews to help you prepare and succeed.

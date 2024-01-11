@@ -2,6 +2,8 @@
 
 Welcome to the Manufacturing Engineer Interview Preparation ! This resource is designed to help you ace your Manufacturing Engineer interviews with confidence.
 
+A Manufacturing Engineer in the field of Chemical Engineering plays a pivotal role in the development and improvement of manufacturing processes for chemical products. They are responsible for designing, implementing, and optimizing manufacturing systems, ensuring efficiency, safety, and quality standards are met. These professionals collaborate with cross-functional teams to identify areas of improvement, troubleshoot issues, and implement cost-effective solutions. They are also involved in the selection and installation of equipment, monitoring production metrics, and providing technical support to the production team. A Manufacturing Engineer in Chemical Engineering combines technical knowledge, problem-solving abilities, and strong analytical skills to drive continuous improvement and contribute to the success of manufacturing operations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Manufacturing Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Manufacturing Engineer interviews to help you prepare and succeed.

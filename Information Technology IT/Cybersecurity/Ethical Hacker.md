@@ -2,6 +2,8 @@
 
 Welcome to the Ethical Hacker Interview Preparation ! This resource is designed to help you ace your Ethical Hacker interviews with confidence.
 
+Information Technology (IT) is a broad field that encompasses the use of technology to store, retrieve, transmit, and manipulate data. Within the IT domain, cybersecurity plays a vital role in safeguarding digital assets and protecting against unauthorized access, data breaches, and other cyber threats. Ethical Hackers, also known as penetration testers or white-hat hackers, are professionals who specialize in identifying vulnerabilities in computer systems, networks, and applications. Their primary role is to conduct authorized hacking activities to assess and strengthen the security posture of organizations. Ethical hackers play a crucial role in preventing cyberattacks by proactively identifying and fixing security weaknesses before malicious hackers can exploit them.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Ethical Hacker or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Ethical Hacker interviews to help you prepare and succeed.

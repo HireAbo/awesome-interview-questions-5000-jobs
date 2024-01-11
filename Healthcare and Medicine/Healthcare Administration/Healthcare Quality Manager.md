@@ -2,6 +2,8 @@
 
 Welcome to the Healthcare Quality Manager Interview Preparation ! This resource is designed to help you ace your Healthcare Quality Manager interviews with confidence.
 
+A Healthcare Quality Manager is a crucial role within the field of Healthcare Administration, responsible for ensuring the delivery of high-quality healthcare services. They play a vital role in maintaining and improving patient care standards, as well as overseeing compliance with regulatory requirements. Healthcare Quality Managers are responsible for developing and implementing quality improvement initiatives, analyzing data to identify areas for improvement, and collaborating with healthcare professionals to create effective strategies. They also lead and coordinate quality improvement teams, conduct audits and assessments, and monitor performance indicators to measure the effectiveness of healthcare services. The role requires strong leadership, analytical, and communication skills, as well as a deep understanding of healthcare regulations and quality improvement methodologies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Healthcare Quality Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Healthcare Quality Manager interviews to help you prepare and succeed.

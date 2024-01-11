@@ -2,6 +2,8 @@
 
 Welcome to the Sports Fundraising Manager Interview Preparation ! This resource is designed to help you ace your Sports Fundraising Manager interviews with confidence.
 
+A Sports Fundraising Manager plays a crucial role in the field of Sports Management, specifically in the area of fundraising for sports and athletic programs. This job involves developing and implementing fundraising strategies to support various sports teams, clubs, and organizations. The Sports Fundraising Manager is responsible for identifying potential donors, cultivating relationships with sponsors, and coordinating fundraising events. They also create and manage fundraising campaigns, oversee the collection of donations, and ensure that funds are allocated appropriately to meet the financial needs of sports programs. This role requires strong organizational and communication skills, as well as a passion for sports and the ability to inspire others to contribute to the success of athletic programs.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sports Fundraising Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sports Fundraising Manager interviews to help you prepare and succeed.

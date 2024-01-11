@@ -2,6 +2,8 @@
 
 Welcome to the HVAC Engineer Interview Preparation ! This resource is designed to help you ace your HVAC Engineer interviews with confidence.
 
+An HVAC engineer is a professional who specializes in the design, installation, maintenance, and repair of heating, ventilation, and air conditioning (HVAC) systems. In the field of Energy Engineering, HVAC engineers play a crucial role in ensuring efficient and sustainable energy usage within buildings. They are responsible for assessing the energy needs of a structure and designing HVAC systems that optimize energy consumption while maintaining the desired thermal comfort. Additionally, HVAC engineers are involved in selecting energy-efficient equipment, conducting energy audits, and implementing energy-saving strategies. Their expertise is vital in promoting energy conservation, reducing carbon emissions, and improving indoor air quality in residential, commercial, and industrial spaces.
+
 ## 🚀 Overview
 
 Whether you're a seasoned HVAC Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in HVAC Engineer interviews to help you prepare and succeed.

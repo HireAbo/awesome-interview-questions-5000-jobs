@@ -2,6 +2,8 @@
 
 Welcome to the Mechanical Engineer Interview Preparation ! This resource is designed to help you ace your Mechanical Engineer interviews with confidence.
 
+A mechanical engineer is responsible for designing, developing, and maintaining mechanical systems, machinery, and components. They apply engineering principles and techniques to solve complex problems and improve existing systems. Mechanical engineers work across various industries such as automotive, aerospace, manufacturing, and energy. They collaborate with a team of professionals to ensure that projects are completed within budget and meet the required specifications. Additionally, they conduct research, perform tests, and analyze data to enhance the performance and efficiency of mechanical systems. Strong analytical skills, creativity, and knowledge of computer-aided design (CAD) software are essential for a successful career as a mechanical engineer.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Mechanical Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Mechanical Engineer interviews to help you prepare and succeed.

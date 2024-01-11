@@ -2,6 +2,8 @@
 
 Welcome to the Inventory Manager Interview Preparation ! This resource is designed to help you ace your Inventory Manager interviews with confidence.
 
+The role of an Inventory Manager in Retail Management is crucial to the efficient functioning of a retail business. As an Inventory Manager, your responsibilities revolve around overseeing and controlling the flow of merchandise, ensuring optimal stock levels, and minimizing costs while meeting customer demands. You will be responsible for analyzing sales trends, forecasting future demands, and coordinating with suppliers to ensure timely replenishment of stock. Additionally, you will be in charge of maintaining accurate records, conducting regular audits, and implementing strategies to minimize stock wastage and pilferage. A successful Inventory Manager plays a pivotal role in maximizing sales, profitability, and customer satisfaction within the retail industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Inventory Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Inventory Manager interviews to help you prepare and succeed.

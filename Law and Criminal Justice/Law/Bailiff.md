@@ -2,6 +2,8 @@
 
 Welcome to the Bailiff Interview Preparation ! This resource is designed to help you ace your Bailiff interviews with confidence.
 
+A Bailiff is an essential role within the legal system, responsible for maintaining order and security in the courtroom. As the first line of defense, they play a crucial role in ensuring the smooth functioning of court proceedings. Bailiffs are responsible for managing the entry and exit of individuals into the courtroom, confiscating prohibited items, and maintaining order during hearings. They also escort defendants to and from the courtroom, ensuring their safety and security. Additionally, bailiffs may assist judges and attorneys with administrative tasks, such as distributing documents and organizing court records. A career as a bailiff requires excellent communication skills, physical fitness, and a strong sense of justice.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Bailiff or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Bailiff interviews to help you prepare and succeed.

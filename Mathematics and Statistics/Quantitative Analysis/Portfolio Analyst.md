@@ -2,6 +2,8 @@
 
 Welcome to the Portfolio Analyst Interview Preparation ! This resource is designed to help you ace your Portfolio Analyst interviews with confidence.
 
+A Portfolio Analyst is a professional who utilizes mathematical and statistical techniques to analyze investment portfolios. This job requires a strong understanding of mathematics and statistics as they are used to evaluate and predict financial trends, risks, and returns. The Analyst uses quantitative analysis to assess the performance and composition of investment portfolios, identifying the most suitable investment strategies and opportunities. They work closely with financial institutions, asset managers, and individual investors to provide guidance on asset allocation, risk management, and investment decision-making. A Portfolio Analyst must possess excellent analytical skills, attention to detail, and the ability to interpret complex mathematical models to effectively manage client portfolios.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Portfolio Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Portfolio Analyst interviews to help you prepare and succeed.

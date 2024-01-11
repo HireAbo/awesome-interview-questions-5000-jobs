@@ -2,6 +2,8 @@
 
 Welcome to the Circuit Design Engineer Interview Preparation ! This resource is designed to help you ace your Circuit Design Engineer interviews with confidence.
 
+A Circuit Design Engineer is a specialized role within the field of Electrical Engineering. These professionals are responsible for designing and developing electronic circuits for various applications. They work closely with other engineers and stakeholders to understand project requirements and design circuits that meet the desired specifications. Circuit Design Engineers use computer-aided design (CAD) software and simulation tools to create and test circuit designs before implementing them. They also conduct research and stay updated with the latest advancements in electronic components and technology to ensure optimal circuit performance. Circuit Design Engineers play a crucial role in the development and innovation of electronic devices and systems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Circuit Design Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Circuit Design Engineer interviews to help you prepare and succeed.

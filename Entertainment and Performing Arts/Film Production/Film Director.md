@@ -2,6 +2,8 @@
 
 Welcome to the Film Director Interview Preparation ! This resource is designed to help you ace your Film Director interviews with confidence.
 
+A film director is a key figure in the world of entertainment and performing arts, specifically in the field of film production. They are responsible for overseeing the creative aspects of a film and bringing a screenplay to life through their artistic vision. Film directors work closely with the production team, including producers, cinematographers, and editors, to ensure that the film aligns with their intended vision. They make critical decisions regarding casting, set design, and shot composition, and are skilled in guiding actors to deliver compelling performances. A film director's ultimate goal is to create a visually striking and emotionally engaging film that resonates with audiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Film Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Film Director interviews to help you prepare and succeed.

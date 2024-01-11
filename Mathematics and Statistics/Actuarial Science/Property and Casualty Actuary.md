@@ -2,6 +2,8 @@
 
 Welcome to the Property and Casualty Actuary Interview Preparation ! This resource is designed to help you ace your Property and Casualty Actuary interviews with confidence.
 
+Mathematics and statistics form the foundation of actuarial science, a field that involves the application of mathematical and statistical techniques to assess risk and uncertainty in various industries. Actuaries play a crucial role in the insurance sector, specifically in property and casualty insurance. Property and casualty actuaries analyze data, develop mathematical models, and use statistical methods to evaluate potential risks associated with property damage, liability, and other related factors. They help insurance companies determine appropriate premiums, calculate reserves, and design policies that balance risk and profitability. With their strong analytical skills and expertise in mathematics and statistics, property and casualty actuaries ensure the financial stability and success of insurance companies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Property and Casualty Actuary or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Property and Casualty Actuary interviews to help you prepare and succeed.

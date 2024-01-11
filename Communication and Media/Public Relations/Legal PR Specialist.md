@@ -2,6 +2,8 @@
 
 Welcome to the Legal PR Specialist Interview Preparation ! This resource is designed to help you ace your Legal PR Specialist interviews with confidence.
 
+A Legal PR Specialist is a professional responsible for managing the public image and reputation of legal firms or individual attorneys. They play a crucial role in building and maintaining positive relationships with the media, clients, and the public. These specialists develop strategic communication plans, handle crisis management, and prepare press releases and media kits. They also organize and coordinate events, interviews, and media appearances. A strong understanding of legal terminology and procedures is essential for effectively communicating complex legal matters to the public. Legal PR specialists must possess excellent writing and interpersonal skills, as well as the ability to navigate sensitive legal issues with discretion and professionalism.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Legal PR Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Legal PR Specialist interviews to help you prepare and succeed.

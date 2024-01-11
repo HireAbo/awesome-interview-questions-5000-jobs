@@ -2,6 +2,8 @@
 
 Welcome to the Learning Designer Interview Preparation ! This resource is designed to help you ace your Learning Designer interviews with confidence.
 
+A Learning Designer is a professional who plays a crucial role in the field of education curriculum development. They are responsible for designing, developing, and implementing effective learning experiences for students across various educational settings. Their main objective is to create engaging and interactive curriculum materials that align with educational standards and promote students' academic growth. Learning Designers collaborate with educators, subject matter experts, and instructional technologists to identify learning goals, design instructional strategies, and select appropriate learning resources. They also incorporate innovative teaching methodologies, technology tools, and assessment strategies to ensure students' comprehension and retention of knowledge. Overall, Learning Designers contribute to the enhancement of educational experiences and facilitate effective learning outcomes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Learning Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Learning Designer interviews to help you prepare and succeed.

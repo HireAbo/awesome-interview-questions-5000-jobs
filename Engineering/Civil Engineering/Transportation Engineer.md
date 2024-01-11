@@ -2,6 +2,8 @@
 
 Welcome to the Transportation Engineer Interview Preparation ! This resource is designed to help you ace your Transportation Engineer interviews with confidence.
 
+A Transportation Engineer is a specialized professional within the field of Civil Engineering. They are responsible for designing, planning, and managing various transportation systems and infrastructure. These systems include roads, highways, railways, airports, and ports. The primary goal of a Transportation Engineer is to ensure the safe and efficient movement of people and goods. They analyze traffic patterns, conduct feasibility studies, and develop innovative solutions to optimize transportation networks. Additionally, they collaborate with other professionals such as urban planners and environmental scientists to ensure sustainable and environmentally friendly transportation systems. Strong analytical, problem-solving, and design skills are essential for success in this challenging and rewarding career.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Transportation Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Transportation Engineer interviews to help you prepare and succeed.

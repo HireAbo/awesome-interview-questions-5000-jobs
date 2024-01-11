@@ -2,6 +2,8 @@
 
 Welcome to the Biomedical Engineer (with a focus on chemical processes) Interview Preparation ! This resource is designed to help you ace your Biomedical Engineer (with a focus on chemical processes) interviews with confidence.
 
+A Biomedical Engineer with a focus on chemical processes is an integral part of the field of Chemical Engineering. This specialized engineer combines their knowledge of chemistry, biology, and engineering principles to develop and improve medical technologies and processes. They work towards finding innovative solutions to enhance the quality and efficiency of chemical processes used in the healthcare industry. These professionals play a crucial role in designing and developing drugs, medical devices, and therapies. They conduct research, analyze data, and collaborate with other engineers, scientists, and healthcare professionals to ensure the safety and effectiveness of chemical processes in the biomedical field. Their expertise contributes significantly to advancing medical treatments and improving patient care.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Biomedical Engineer (with a focus on chemical processes) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Biomedical Engineer (with a focus on chemical processes) interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Store Manager Interview Preparation ! This resource is designed to help you ace your Store Manager interviews with confidence.
 
+The role of a Store Manager in Retail Management is crucial in ensuring the smooth operation and success of a retail store. As a Store Manager, your primary responsibility is to oversee all aspects of the store's operations, including sales, customer service, inventory management, and staff supervision. You will be responsible for setting sales targets, developing strategies to increase revenue, and implementing effective marketing campaigns. Additionally, you will need to hire, train, and motivate a team of sales associates to deliver exceptional customer experiences. Strong leadership, communication, and problem-solving skills are essential for this role to drive sales, maximize profitability, and maintain a positive brand image.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Store Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Store Manager interviews to help you prepare and succeed.

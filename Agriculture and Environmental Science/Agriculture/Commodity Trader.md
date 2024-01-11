@@ -2,6 +2,10 @@
 
 Welcome to the Commodity Trader Interview Preparation ! This resource is designed to help you ace your Commodity Trader interviews with confidence.
 
+Agriculture and Environmental Science is a field that focuses on the study and application of scientific principles to improve agricultural practices while minimizing the negative impact on the environment. Within this field, one important job role is that of a Commodity Trader. 
+
+Commodity Traders in the agriculture sector are responsible for buying and selling agricultural products such as grains, oilseeds, livestock, and other commodities. They analyze market trends, supply and demand dynamics, and global trade patterns to make informed decisions regarding the buying and selling of these commodities. Commodity Traders often work closely with farmers, processors, and distributors to ensure the smooth flow of goods and to optimize profitability. This role requires strong analytical skills, market knowledge, and the ability to adapt to changing market conditions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Commodity Trader or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Commodity Trader interviews to help you prepare and succeed.

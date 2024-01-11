@@ -2,6 +2,8 @@
 
 Welcome to the Nuclear Security Specialist Interview Preparation ! This resource is designed to help you ace your Nuclear Security Specialist interviews with confidence.
 
+A Nuclear Security Specialist is a highly skilled professional responsible for ensuring the safety and security of nuclear energy facilities and their surrounding areas. They play a critical role in protecting against potential threats, such as sabotage, theft, and terrorist attacks. These specialists possess in-depth knowledge of nuclear energy systems, regulations, and protocols, and are adept at implementing and maintaining security measures to prevent unauthorized access and potential accidents. They conduct regular risk assessments, develop emergency response plans, and collaborate with law enforcement agencies and government bodies to ensure the highest level of security standards are upheld within the nuclear energy sector.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nuclear Security Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nuclear Security Specialist interviews to help you prepare and succeed.

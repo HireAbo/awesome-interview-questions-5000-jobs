@@ -2,6 +2,8 @@
 
 Welcome to the Economic Forecaster Interview Preparation ! This resource is designed to help you ace your Economic Forecaster interviews with confidence.
 
+A career as an Economic Forecaster within the field of Social Sciences, specifically Economics, involves analyzing and predicting economic trends and patterns based on various data sources. Economic Forecasters play a crucial role in helping businesses, organizations, and governments make informed decisions by providing insights into future economic conditions. They utilize statistical models, economic theories, and historical data to anticipate changes in key economic indicators such as GDP, inflation, interest rates, and employment rates. By examining these factors, they can forecast economic growth, identify potential risks, and suggest strategies to mitigate them. Economic Forecasters need strong analytical skills, a deep understanding of economic principles, and the ability to interpret complex data.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Economic Forecaster or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Economic Forecaster interviews to help you prepare and succeed.

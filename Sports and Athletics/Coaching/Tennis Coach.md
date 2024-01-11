@@ -2,6 +2,8 @@
 
 Welcome to the Tennis Coach Interview Preparation ! This resource is designed to help you ace your Tennis Coach interviews with confidence.
 
+A Tennis Coach is a professional who specializes in providing guidance and training to individuals or groups of players in the sport of tennis. They play a crucial role in helping athletes develop their skills, improve their techniques, and enhance their overall performance. Tennis Coaches are responsible for designing training programs tailored to the specific needs and goals of their players. They provide instruction on proper footwork, strokes, strategy, and match preparation. Additionally, Tennis Coaches also focus on physical conditioning, agility, and mental toughness. Their ultimate aim is to mentor and motivate players to reach their full potential and achieve success in the sport of tennis.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Tennis Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Tennis Coach interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Product Development Engineer Interview Preparation ! This resource is designed to help you ace your Product Development Engineer interviews with confidence.
 
+A Product Development Engineer in the field of Chemical Engineering is responsible for designing, developing, and improving various products and processes. They play a crucial role in bringing new products to the market by analyzing customer requirements, conducting research, and collaborating with cross-functional teams. These professionals utilize their knowledge of chemical engineering principles to create innovative solutions, ensuring products meet quality standards and regulatory requirements. They also conduct feasibility studies, perform cost analysis, and optimize production processes to enhance efficiency and profitability. A Product Development Engineer in Chemical Engineering requires strong analytical skills, problem-solving abilities, and a deep understanding of chemical processes to excel in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Product Development Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Product Development Engineer interviews to help you prepare and succeed.

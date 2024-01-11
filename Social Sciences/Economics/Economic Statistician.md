@@ -2,6 +2,8 @@
 
 Welcome to the Economic Statistician Interview Preparation ! This resource is designed to help you ace your Economic Statistician interviews with confidence.
 
+An Economic Statistician is a professional who specializes in collecting, analyzing, and interpreting data related to economic activities. They play a crucial role in the field of economics by providing accurate and reliable statistical information that helps businesses, governments, and organizations make informed decisions. Economic statisticians apply various statistical techniques to study economic trends, forecast future developments, and evaluate policy impacts. They design and conduct surveys, manage large datasets, and use statistical software to analyze data. Additionally, they create reports and presentations to communicate their findings effectively. Strong analytical skills, attention to detail, and a solid understanding of economic principles are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Economic Statistician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Economic Statistician interviews to help you prepare and succeed.

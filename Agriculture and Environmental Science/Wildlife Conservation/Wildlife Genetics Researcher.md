@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife Genetics Researcher Interview Preparation ! This resource is designed to help you ace your Wildlife Genetics Researcher interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on the sustainable management of natural resources, including wildlife conservation. Within this field, Wildlife Genetics Researcher plays a crucial role in understanding and conserving biodiversity. As a Wildlife Genetics Researcher, your primary responsibility is to study the genetic diversity and population structure of various wildlife species. This involves collecting and analyzing DNA samples, conducting genetic data analysis, and identifying key genetic variations that impact species survival. By studying wildlife genetics, you contribute to the development of effective conservation strategies, such as establishing protected areas, managing endangered species, and mitigating the impact of human activities on wildlife populations. Your work as a Wildlife Genetics Researcher plays a vital role in safeguarding the future of our planet's rich biodiversity.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Genetics Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Genetics Researcher interviews to help you prepare and succeed.

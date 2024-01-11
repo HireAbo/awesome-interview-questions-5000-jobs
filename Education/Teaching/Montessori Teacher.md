@@ -2,6 +2,8 @@
 
 Welcome to the Montessori Teacher Interview Preparation ! This resource is designed to help you ace your Montessori Teacher interviews with confidence.
 
+A Montessori Teacher is a dedicated education professional who specializes in the Montessori teaching method. Montessori education is an alternative educational approach that focuses on individualized learning and hands-on activities. As a Montessori Teacher, you will create a nurturing and stimulating environment where children can explore and learn at their own pace. Your role involves designing lesson plans, preparing materials, and guiding students through various activities that promote independence, critical thinking, and social skills development. Montessori Teachers are passionate about fostering a love for learning and supporting the holistic growth of each child. This role requires excellent communication skills, patience, creativity, and a genuine commitment to the well-being of students.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Montessori Teacher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Montessori Teacher interviews to help you prepare and succeed.

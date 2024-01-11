@@ -2,6 +2,8 @@
 
 Welcome to the Aircraft Upholsterer Interview Preparation ! This resource is designed to help you ace your Aircraft Upholsterer interviews with confidence.
 
+An aircraft upholsterer plays a vital role in the aviation and aerospace industry, specifically in aircraft maintenance. This specialized job involves the installation, repair, and maintenance of various interior components of aircraft, such as seats, carpets, curtains, and upholstery. Aircraft upholsterers ensure that the interior of the aircraft is visually appealing, comfortable, and functional. They work closely with other maintenance professionals to ensure that the aircraft's interior meets safety regulations and customer requirements. Attention to detail, knowledge of materials, and proficiency in using specialized tools and equipment are essential skills for an aircraft upholsterer. Their expertise contributes to ensuring a pleasant and comfortable flying experience for passengers.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Aircraft Upholsterer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Aircraft Upholsterer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Legal Support Coordinator Interview Preparation ! This resource is designed to help you ace your Legal Support Coordinator interviews with confidence.
 
+A Paralegal, also known as a Legal Support Coordinator, plays a vital role in the field of Law and Criminal Justice. They serve as a bridge between attorneys, clients, and the legal system. Paralegals assist lawyers in various tasks such as drafting legal documents, conducting research, organizing case files, and preparing for trials. They are responsible for ensuring the smooth flow of legal processes, coordinating with various parties, and maintaining accurate documentation. Additionally, they may assist in interviewing witnesses, gathering evidence, and providing administrative support to legal teams. Paralegals are essential in providing efficient and effective legal support, contributing to the overall success of the legal system.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Legal Support Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Legal Support Coordinator interviews to help you prepare and succeed.

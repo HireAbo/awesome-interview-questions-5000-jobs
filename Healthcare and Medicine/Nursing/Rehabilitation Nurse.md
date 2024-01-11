@@ -2,6 +2,8 @@
 
 Welcome to the Rehabilitation Nurse Interview Preparation ! This resource is designed to help you ace your Rehabilitation Nurse interviews with confidence.
 
+A Rehabilitation Nurse is a specialized healthcare professional who plays a crucial role in the field of healthcare and medicine. These nurses focus on assisting patients in their journey towards recovery and rehabilitation after an illness, injury, or surgery. They work closely with a multidisciplinary team to develop and implement personalized care plans for patients, which may include physical therapy, occupational therapy, and psychological support. Rehabilitation Nurses provide hands-on care, monitoring patients' progress, and advocating for their needs. They also educate patients and their families on self-care techniques and ensure a smooth transition from the hospital to home or other healthcare settings. Overall, Rehabilitation Nurses are dedicated to helping individuals regain their independence and improve their quality of life.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Rehabilitation Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Rehabilitation Nurse interviews to help you prepare and succeed.

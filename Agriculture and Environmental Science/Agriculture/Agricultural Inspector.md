@@ -2,6 +2,8 @@
 
 Welcome to the Agricultural Inspector Interview Preparation ! This resource is designed to help you ace your Agricultural Inspector interviews with confidence.
 
+Agriculture and Environmental Science is a field that focuses on the interaction between agriculture, the environment, and sustainable practices. In this discipline, professionals aim to ensure that agricultural practices are carried out in an environmentally friendly and responsible manner. One job within this field is that of an Agricultural Inspector. Agricultural Inspectors play a crucial role in monitoring and enforcing regulations related to agricultural practices. They inspect farms, ranches, and other agricultural facilities to assess compliance with safety and environmental standards. They also investigate complaints, collect samples, and analyze data to identify potential risks to the environment and public health. Agricultural Inspectors are essential in promoting sustainable farming practices and protecting the environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Agricultural Inspector or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Agricultural Inspector interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Genetic Counselor Interview Preparation ! This resource is designed to help you ace your Genetic Counselor interviews with confidence.
 
+A Genetic Counselor is a specialized healthcare professional who plays a crucial role in the field of healthcare and medicine, specifically in medical research. They are experts in genetics and provide guidance to individuals or families who may be at risk of inherited disorders or genetic conditions. These highly trained professionals work closely with patients to assess their medical history, analyze genetic information, and educate them about potential risks and available options. Genetic Counselors also collaborate with other healthcare professionals to develop personalized treatment plans and support patients in making informed decisions regarding genetic testing, family planning, and potential interventions. Their expertise contributes significantly to advancing medical research and improving patient outcomes in the field of genetics.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Genetic Counselor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Genetic Counselor interviews to help you prepare and succeed.

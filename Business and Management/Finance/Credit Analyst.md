@@ -2,6 +2,8 @@
 
 Welcome to the Credit Analyst Interview Preparation ! This resource is designed to help you ace your Credit Analyst interviews with confidence.
 
+A Credit Analyst plays a crucial role in the field of finance and is responsible for assessing the creditworthiness of individuals, businesses, or financial institutions. They analyze financial data, evaluate credit applications, and determine the risk associated with lending money or extending credit to borrowers. Credit Analysts review financial statements, credit reports, and other relevant documents to make informed decisions and recommendations regarding loan approvals or credit limits. They also monitor existing credit accounts and conduct periodic reviews to assess the borrower's ability to meet their financial obligations. Strong analytical skills, attention to detail, and a thorough understanding of financial markets and risk management are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Credit Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Credit Analyst interviews to help you prepare and succeed.

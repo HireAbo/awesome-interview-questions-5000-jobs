@@ -2,6 +2,8 @@
 
 Welcome to the Lighting Designer Interview Preparation ! This resource is designed to help you ace your Lighting Designer interviews with confidence.
 
+A Lighting Designer in the field of Theater Arts is responsible for creating and managing the lighting design for a theatrical production. This role involves collaborating with the director and other members of the production team to enhance the overall visual and emotional impact of the performance. A Lighting Designer utilizes various lighting techniques, equipment, and programming to create the desired ambiance, mood, and atmosphere for each scene. They carefully consider factors such as color, intensity, and placement of lights to effectively highlight actors, set elements, and create dynamic visual compositions. A Lighting Designer's expertise greatly contributes to the success and artistic quality of a theater production.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Lighting Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Lighting Designer interviews to help you prepare and succeed.

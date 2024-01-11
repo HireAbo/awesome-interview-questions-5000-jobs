@@ -2,6 +2,8 @@
 
 Welcome to the Network Performance Engineer Interview Preparation ! This resource is designed to help you ace your Network Performance Engineer interviews with confidence.
 
+A Network Performance Engineer is a crucial role within the field of Information Technology (IT) and specifically Network Engineering. This job focuses on ensuring the optimal functioning of computer networks by monitoring, analyzing, and improving network performance. Network Performance Engineers work closely with network administrators and technicians to identify and resolve issues related to network performance, including latency, bandwidth, and packet loss. They utilize various tools and techniques to assess network performance, conduct regular audits, and implement necessary improvements to enhance network efficiency and reliability. Additionally, they may also be responsible for designing, implementing, and managing network performance monitoring systems to ensure continuous network optimization. Overall, Network Performance Engineers play a vital role in maintaining smooth and efficient network operations within organizations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Network Performance Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Network Performance Engineer interviews to help you prepare and succeed.

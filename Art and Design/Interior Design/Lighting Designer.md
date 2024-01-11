@@ -2,6 +2,8 @@
 
 Welcome to the Lighting Designer Interview Preparation ! This resource is designed to help you ace your Lighting Designer interviews with confidence.
 
+A Lighting Designer in the field of Interior Design is responsible for creating captivating and functional lighting schemes that enhance the aesthetic appeal of a space. This profession combines technical expertise with artistic sensibilities to transform interiors into visually striking environments. Lighting Designers collaborate closely with architects, interior designers, and clients to understand their vision and requirements. They conceptualize lighting plans, select appropriate fixtures, and utilize innovative techniques to create the desired ambience. Additionally, they consider factors like natural light, energy efficiency, and sustainability while designing lighting schemes. A Lighting Designer brings spaces to life by using light as a medium, imbuing interiors with a sense of drama, style, and functionality.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Lighting Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Lighting Designer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Process Engineer (Mechanical) Interview Preparation ! This resource is designed to help you ace your Process Engineer (Mechanical) interviews with confidence.
 
+A Process Engineer (Mechanical) is a professional in the field of mechanical engineering who specializes in designing, developing, and optimizing manufacturing processes. They play a crucial role in various industries such as automotive, aerospace, pharmaceuticals, and consumer goods. The main objective of a Process Engineer is to ensure efficient and cost-effective production methods by analyzing existing processes, identifying areas for improvement, and implementing innovative solutions. They work closely with cross-functional teams to design equipment, conduct feasibility studies, and develop process control systems. Additionally, Process Engineers are responsible for troubleshooting production issues, ensuring compliance with safety regulations, and continuously monitoring and evaluating production performance to drive operational excellence.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Process Engineer (Mechanical) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Process Engineer (Mechanical) interviews to help you prepare and succeed.

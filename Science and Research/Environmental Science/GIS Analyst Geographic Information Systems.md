@@ -2,6 +2,8 @@
 
 Welcome to the GIS Analyst (Geographic Information Systems) Interview Preparation ! This resource is designed to help you ace your GIS Analyst (Geographic Information Systems) interviews with confidence.
 
+A GIS Analyst (Geographic Information Systems) job in the field of Environmental Science involves utilizing advanced technologies and software to gather, analyze, and interpret geographic data related to the environment. This role plays a crucial part in understanding the complex relationship between the environment and human activities. GIS Analysts collect and manage data from various sources, such as satellite imagery, aerial photographs, and field surveys, to create accurate maps and models. They use this information to identify patterns, trends, and potential environmental risks. Additionally, GIS Analysts collaborate with scientists, researchers, and policymakers to provide valuable insights and make informed decisions about environmental conservation and management strategies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned GIS Analyst (Geographic Information Systems) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in GIS Analyst (Geographic Information Systems) interviews to help you prepare and succeed.

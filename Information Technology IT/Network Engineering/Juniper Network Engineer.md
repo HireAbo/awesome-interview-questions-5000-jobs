@@ -2,6 +2,8 @@
 
 Welcome to the Juniper Network Engineer Interview Preparation ! This resource is designed to help you ace your Juniper Network Engineer interviews with confidence.
 
+A Juniper Network Engineer is a professional responsible for the design, implementation, and maintenance of network infrastructure specifically using Juniper Networks equipment and technologies. They play a crucial role in ensuring the smooth functioning of network systems, optimizing performance, and enhancing security measures. These engineers possess in-depth knowledge of Juniper Networks products and protocols, such as Junos OS, BGP, MPLS, and VPNs. They are proficient in configuring and troubleshooting network devices, resolving connectivity issues, and implementing network upgrades. A Juniper Network Engineer also collaborates with cross-functional teams to design network solutions that align with business objectives and provide technical support to resolve network-related incidents and problems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Juniper Network Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Juniper Network Engineer interviews to help you prepare and succeed.

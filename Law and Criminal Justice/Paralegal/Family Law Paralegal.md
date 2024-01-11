@@ -2,6 +2,8 @@
 
 Welcome to the Family Law Paralegal Interview Preparation ! This resource is designed to help you ace your Family Law Paralegal interviews with confidence.
 
+A Family Law Paralegal is a legal professional who assists attorneys in handling cases related to family law matters. They play a crucial role in the legal system by providing support in various aspects of the legal process. Family Law Paralegals are responsible for conducting research, drafting legal documents such as pleadings, motions, and affidavits, and organizing and maintaining case files. They also assist in client interviews, prepare for hearings and trials, and help with the negotiation and settlement of cases. A strong understanding of family law principles, excellent communication skills, and attention to detail are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Family Law Paralegal or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Family Law Paralegal interviews to help you prepare and succeed.

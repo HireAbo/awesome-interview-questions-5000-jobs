@@ -2,6 +2,8 @@
 
 Welcome to the Children's Librarian Interview Preparation ! This resource is designed to help you ace your Children's Librarian interviews with confidence.
 
+Library and Information Science (LIS) is a field that encompasses the study and application of organizing, managing, and disseminating information resources. Librarianship, as a specialization within LIS, focuses on the administration and provision of library services. One such specialization within librarianship is the role of a Children's Librarian. A Children's Librarian is responsible for creating and maintaining a nurturing and engaging environment for children within the library. They curate age-appropriate collections, develop programs and activities, and assist children in discovering the joy of reading and learning. They play a crucial role in promoting literacy, fostering a love for books, and supporting the educational and recreational needs of young library patrons.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Children's Librarian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Children's Librarian interviews to help you prepare and succeed.

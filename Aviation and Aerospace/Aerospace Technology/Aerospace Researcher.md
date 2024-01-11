@@ -2,6 +2,8 @@
 
 Welcome to the Aerospace Researcher Interview Preparation ! This resource is designed to help you ace your Aerospace Researcher interviews with confidence.
 
+Aviation and Aerospace are fascinating fields that involve the study, design, development, and operation of aircraft and spacecraft. Within the Aerospace Technology sector, there are various specialized roles, with one notable position being an Aerospace Researcher. As an Aerospace Researcher, individuals play a crucial role in advancing the industry through their innovative and cutting-edge research. They are responsible for conducting studies, experiments, and analysis to enhance aircraft and spacecraft technologies, improve safety measures, and explore new frontiers. Aerospace Researchers collaborate with engineers, scientists, and technicians to identify challenges, propose solutions, and contribute to the development of groundbreaking technologies. Their work is at the forefront of aerospace advancements, shaping the future of transportation and exploration.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Aerospace Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Aerospace Researcher interviews to help you prepare and succeed.

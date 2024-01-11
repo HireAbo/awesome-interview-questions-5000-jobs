@@ -2,6 +2,8 @@
 
 Welcome to the Renewable Energy Business Developer Interview Preparation ! This resource is designed to help you ace your Renewable Energy Business Developer interviews with confidence.
 
+A Renewable Energy Business Developer is a professional responsible for identifying and developing opportunities within the renewable energy sector. This role requires a deep understanding of the energy market and the ability to assess and capitalize on renewable energy opportunities. The Business Developer works closely with stakeholders, including government agencies, investors, and energy companies, to create and implement renewable energy projects. They conduct market research, analyze industry trends, and identify potential partners and clients. Additionally, they collaborate with engineering teams to design and develop renewable energy solutions. A Renewable Energy Business Developer plays a crucial role in driving the growth and adoption of renewable energy sources to combat climate change and ensure a sustainable future.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Renewable Energy Business Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Renewable Energy Business Developer interviews to help you prepare and succeed.

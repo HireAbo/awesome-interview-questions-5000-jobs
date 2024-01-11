@@ -2,6 +2,8 @@
 
 Welcome to the Plastic Surgery Nurse Interview Preparation ! This resource is designed to help you ace your Plastic Surgery Nurse interviews with confidence.
 
+A Plastic Surgery Nurse is a specialized healthcare professional who provides care and support to patients undergoing plastic surgery procedures. They work closely with plastic surgeons and other healthcare providers to ensure the safety and well-being of patients throughout their surgical journey. Plastic Surgery Nurses play a vital role in pre-operative assessments, assisting with surgical procedures, and post-operative care management. They are responsible for educating patients about the procedure, providing emotional support, and monitoring patients' vital signs and recovery progress. These nurses possess strong clinical skills, attention to detail, and a compassionate approach to patient care. They contribute to enhancing patients' physical appearance and overall well-being through their expertise in plastic surgery nursing.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Plastic Surgery Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Plastic Surgery Nurse interviews to help you prepare and succeed.

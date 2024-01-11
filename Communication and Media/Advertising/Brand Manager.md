@@ -2,6 +2,8 @@
 
 Welcome to the Brand Manager Interview Preparation ! This resource is designed to help you ace your Brand Manager interviews with confidence.
 
+A brand manager plays a crucial role in the world of advertising and media. They are responsible for overseeing the development and execution of marketing strategies to promote and enhance a brand's image and visibility. Their main objective is to establish a strong brand presence in the market and ensure consistent messaging across various media channels. Brand managers collaborate with creative teams and media planners to create compelling advertising campaigns that resonate with the target audience. They conduct market research, analyze consumer behavior, and monitor competitors to identify opportunities for brand growth. A successful brand manager possesses excellent communication skills, strategic thinking, and a deep understanding of consumer trends and preferences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Brand Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Brand Manager interviews to help you prepare and succeed.

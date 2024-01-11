@@ -2,6 +2,8 @@
 
 Welcome to the Carpenter Interview Preparation ! This resource is designed to help you ace your Carpenter interviews with confidence.
 
+A skilled trade that is both practical and creative, carpentry encompasses the construction, installation, and repair of wooden structures and fixtures. Carpenters are highly skilled craftsmen who work with precision and attention to detail. They are responsible for interpreting blueprints, measuring and cutting materials, as well as assembling and installing various wooden elements such as doors, cabinets, and furniture. Carpenters utilize a wide range of tools and machinery, including saws, drills, and routers, to shape and join wood. Their expertise in creating sturdy and aesthetically pleasing structures makes them vital in the construction industry, ensuring the successful completion of residential and commercial projects.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Carpenter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Carpenter interviews to help you prepare and succeed.

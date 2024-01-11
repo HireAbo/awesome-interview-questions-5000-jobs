@@ -2,6 +2,8 @@
 
 Welcome to the Screenwriter Interview Preparation ! This resource is designed to help you ace your Screenwriter interviews with confidence.
 
+A screenwriter is a highly creative professional who plays a crucial role in the film production process. As a storyteller, their primary responsibility is to develop compelling and engaging scripts for movies or television shows. They work closely with producers, directors, and other members of the production team to bring their ideas to life on the screen. Screenwriters must possess excellent writing skills, a keen understanding of narrative structure, and the ability to create memorable characters and dialogue. Their work involves extensive research, brainstorming, and revisions to ensure that the story effectively communicates the intended message and captivates the audience. A successful screenwriter can transform a concept into a powerful and visually stunning cinematic experience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Screenwriter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Screenwriter interviews to help you prepare and succeed.

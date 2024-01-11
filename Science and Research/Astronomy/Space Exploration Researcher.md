@@ -2,6 +2,8 @@
 
 Welcome to the Space Exploration Researcher Interview Preparation ! This resource is designed to help you ace your Space Exploration Researcher interviews with confidence.
 
+Astronomy, a branch of science that explores celestial objects and phenomena, has captivated humans for centuries. In recent times, space exploration has become a significant area of research within this field. Space exploration researchers play a crucial role in advancing our understanding of the universe beyond our planet. These professionals dedicate their careers to studying various aspects of space, including planets, stars, galaxies, and even black holes. They utilize advanced telescopes, spacecraft, and other scientific instruments to collect data and analyze it to uncover new insights about the cosmos. Space exploration researchers contribute to groundbreaking discoveries, expanding our knowledge of the universe and paving the way for future space missions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Space Exploration Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Space Exploration Researcher interviews to help you prepare and succeed.

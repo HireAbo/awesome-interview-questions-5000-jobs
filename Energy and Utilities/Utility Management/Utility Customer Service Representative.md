@@ -2,6 +2,8 @@
 
 Welcome to the Utility Customer Service Representative Interview Preparation ! This resource is designed to help you ace your Utility Customer Service Representative interviews with confidence.
 
+A Utility Customer Service Representative plays a crucial role in the Energy and Utilities industry by ensuring efficient and satisfactory customer service. They are responsible for addressing customer inquiries, concerns, and requests related to utility services such as electricity, gas, water, or telecommunications. These professionals are the primary point of contact for customers, providing assistance with billing inquiries, service connections, account changes, and resolving any service-related issues. A Utility Customer Service Representative also educates customers on conservation practices, informs them about new utility programs or policies, and assists with payment arrangements. Their goal is to maintain positive customer relationships and ensure customer satisfaction while adhering to utility regulations and policies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Utility Customer Service Representative or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Utility Customer Service Representative interviews to help you prepare and succeed.

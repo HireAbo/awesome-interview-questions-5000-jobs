@@ -2,6 +2,8 @@
 
 Welcome to the Financial Planner Interview Preparation ! This resource is designed to help you ace your Financial Planner interviews with confidence.
 
+A financial planner is a professional who assists individuals and organizations in managing their finances effectively. This job falls under the field of economics, specifically within the realm of social sciences. Financial planners are responsible for providing expert advice and guidance on various financial matters, including budgeting, investment strategies, retirement planning, tax management, and risk assessment. They analyze clients' financial situations, identify their goals, and develop personalized strategies to help them achieve financial stability and success. With a deep understanding of economic principles, markets, and trends, financial planners play a crucial role in helping clients make informed decisions to secure their financial future.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Financial Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Financial Planner interviews to help you prepare and succeed.

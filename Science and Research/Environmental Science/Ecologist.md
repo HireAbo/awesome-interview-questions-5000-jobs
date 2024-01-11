@@ -2,6 +2,8 @@
 
 Welcome to the Ecologist Interview Preparation ! This resource is designed to help you ace your Ecologist interviews with confidence.
 
+An ecologist is an environmental scientist who focuses on studying the relationships between organisms and their environments. They play a crucial role in understanding and preserving our natural ecosystems. Ecologists conduct research to examine the impact of human activities on the environment and develop strategies to mitigate these effects. They analyze data, conduct fieldwork, and use advanced technologies to monitor and assess the health of ecosystems. Ecologists also study the behavior, distribution, and abundance of species, as well as the interactions between different organisms and their habitats. Their work is vital for conserving biodiversity, managing natural resources, and ensuring sustainable development for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Ecologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Ecologist interviews to help you prepare and succeed.

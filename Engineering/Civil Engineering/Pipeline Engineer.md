@@ -2,6 +2,8 @@
 
 Welcome to the Pipeline Engineer Interview Preparation ! This resource is designed to help you ace your Pipeline Engineer interviews with confidence.
 
+A Pipeline Engineer is a professional specializing in the design, construction, and maintenance of pipelines. These pipelines are used to transport various substances, such as oil, gas, water, and chemicals, over long distances. Pipeline Engineers play a vital role in ensuring the safe and efficient transportation of these substances. They are responsible for designing the pipeline layout, determining the appropriate materials and equipment to be used, conducting feasibility studies, and overseeing the construction and maintenance processes. They must have a strong understanding of hydraulic systems, structural engineering principles, and industry regulations. Pipeline Engineers often work closely with other professionals, such as geologists, environmental scientists, and project managers, to ensure the successful completion of pipeline projects.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Pipeline Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Pipeline Engineer interviews to help you prepare and succeed.

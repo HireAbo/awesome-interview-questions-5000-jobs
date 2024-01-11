@@ -2,6 +2,8 @@
 
 Welcome to the E-commerce Operations Manager Interview Preparation ! This resource is designed to help you ace your E-commerce Operations Manager interviews with confidence.
 
+The role of an E-commerce Operations Manager in the field of Retail and Sales is crucial for the success of an online business. As an E-commerce Operations Manager, you will be responsible for overseeing and managing the day-to-day operations of the e-commerce platform. This includes handling inventory management, order fulfillment, logistics, and customer service. You will work closely with various teams such as marketing, sales, and IT to ensure that the e-commerce platform is running efficiently and effectively. Additionally, you will be responsible for analyzing data and making strategic decisions to optimize the online shopping experience and drive sales. Overall, this role requires strong leadership, organizational, and analytical skills to effectively manage the e-commerce operations and contribute to the growth of the business.
+
 ## 🚀 Overview
 
 Whether you're a seasoned E-commerce Operations Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in E-commerce Operations Manager interviews to help you prepare and succeed.

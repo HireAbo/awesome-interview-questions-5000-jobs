@@ -2,6 +2,8 @@
 
 Welcome to the Community Outreach Manager Interview Preparation ! This resource is designed to help you ace your Community Outreach Manager interviews with confidence.
 
+A Community Outreach Manager plays a vital role in the field of Social Work and Human Services, specifically in the realm of Nonprofit Management. The primary responsibility of a Community Outreach Manager is to bridge the gap between an organization and the community it serves. They work to establish and maintain relationships with community members, stakeholders, and partner organizations to ensure the effective delivery of social services. This involves coordinating and implementing outreach programs, organizing events, and developing strategies to engage and empower the community. A Community Outreach Manager's goal is to address social issues, promote social justice, and improve the overall well-being of the community by mobilizing resources and fostering collaboration.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Community Outreach Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Community Outreach Manager interviews to help you prepare and succeed.

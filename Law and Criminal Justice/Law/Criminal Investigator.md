@@ -2,6 +2,8 @@
 
 Welcome to the Criminal Investigator Interview Preparation ! This resource is designed to help you ace your Criminal Investigator interviews with confidence.
 
+A criminal investigator plays a vital role in the field of law and criminal justice. These professionals are responsible for gathering evidence, conducting interviews, and analyzing information to solve crimes. Their main objective is to uncover the truth and bring criminals to justice. Criminal investigators work closely with law enforcement agencies, gathering and analyzing evidence to build strong cases against suspects. They may also collaborate with forensic experts, conduct surveillance, and testify in court proceedings. This job requires excellent analytical and problem-solving skills, attention to detail, and the ability to work under pressure. A career as a criminal investigator offers an exciting and challenging path within the law enforcement sector.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Criminal Investigator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Criminal Investigator interviews to help you prepare and succeed.

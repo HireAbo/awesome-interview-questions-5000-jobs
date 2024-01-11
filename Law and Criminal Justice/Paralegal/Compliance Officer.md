@@ -2,6 +2,8 @@
 
 Welcome to the Compliance Officer Interview Preparation ! This resource is designed to help you ace your Compliance Officer interviews with confidence.
 
+Law and Criminal Justice is a field that encompasses various professions, including Paralegals and Compliance Officers. Paralegals play a crucial role in the legal system by assisting lawyers in their day-to-day activities. They conduct legal research, draft legal documents, and organize case files. Their expertise helps ensure that legal proceedings run smoothly and efficiently. On the other hand, Compliance Officers specialize in ensuring that organizations adhere to laws and regulations. They develop and implement policies and procedures, conduct audits, and provide training on compliance matters. Both professions require strong analytical skills, attention to detail, and a solid understanding of legal principles to maintain law and order within society.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Compliance Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Compliance Officer interviews to help you prepare and succeed.

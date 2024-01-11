@@ -2,6 +2,8 @@
 
 Welcome to the Estate Planning Attorney Interview Preparation ! This resource is designed to help you ace your Estate Planning Attorney interviews with confidence.
 
+An Estate Planning Attorney specializes in the legal practice area of estate planning, which involves advising and assisting individuals in making decisions about their assets and properties to ensure an organized and efficient distribution after their death. These professionals possess a deep understanding of wills, trusts, and other legal instruments used in estate planning. Their responsibilities typically include drafting wills, establishing trusts, creating power of attorney documents, and managing estate administration. Estate Planning Attorneys work closely with clients to understand their unique circumstances and develop personalized plans that align with their wishes and goals. They also provide guidance on minimizing tax liabilities and ensuring the smooth transfer of assets to beneficiaries.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Estate Planning Attorney or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Estate Planning Attorney interviews to help you prepare and succeed.

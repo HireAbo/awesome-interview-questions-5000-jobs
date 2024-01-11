@@ -2,6 +2,8 @@
 
 Welcome to the Quantitative Researcher Interview Preparation ! This resource is designed to help you ace your Quantitative Researcher interviews with confidence.
 
+A Quantitative Researcher job is a role that focuses on applying mathematical and statistical principles to analyze and interpret data. Mathematics and Statistics are fundamental tools in this field, as they provide the necessary framework to make sense of complex data sets and draw meaningful conclusions. Quantitative Researchers employ various techniques, such as regression analysis, hypothesis testing, and data modeling, to uncover patterns, trends, and relationships within the data. They play a crucial role in decision-making processes, providing valuable insights and recommendations to support evidence-based strategies. The job requires advanced mathematical and statistical skills, as well as proficiency in programming languages like Python or R, to effectively manipulate and analyze data.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Quantitative Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Quantitative Researcher interviews to help you prepare and succeed.

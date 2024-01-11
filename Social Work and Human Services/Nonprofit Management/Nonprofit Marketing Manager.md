@@ -2,6 +2,8 @@
 
 Welcome to the Nonprofit Marketing Manager Interview Preparation ! This resource is designed to help you ace your Nonprofit Marketing Manager interviews with confidence.
 
+A Nonprofit Marketing Manager is a vital role within the field of Social Work and Human Services, specifically in the domain of Nonprofit Management. This position is responsible for developing and implementing effective marketing strategies to promote the mission and programs of nonprofit organizations. They play a crucial role in raising awareness, engaging donors, and attracting volunteers to support the organization's objectives. A Nonprofit Marketing Manager utilizes various marketing channels such as social media, email campaigns, and website management to effectively communicate the organization's impact and drive engagement. This role requires a strong understanding of nonprofit operations, marketing principles, and the ability to connect with diverse stakeholders to maximize the organization's reach and impact.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nonprofit Marketing Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nonprofit Marketing Manager interviews to help you prepare and succeed.

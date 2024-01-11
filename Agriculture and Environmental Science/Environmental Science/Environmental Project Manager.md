@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Project Manager Interview Preparation ! This resource is designed to help you ace your Environmental Project Manager interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that combines knowledge of agriculture, biology, ecology, and environmental conservation. It focuses on sustainable practices in crop production, animal husbandry, and natural resource management to ensure food security and minimize negative environmental impacts. Within this field, an Environmental Project Manager plays a crucial role in overseeing and coordinating projects that aim to protect and enhance the environment. They are responsible for planning, implementing, and evaluating environmental initiatives, such as habitat restoration, pollution control, and sustainable land use. Their role requires strong leadership, communication, and problem-solving skills to ensure the successful execution of projects and the preservation of our natural resources.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Project Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Project Manager interviews to help you prepare and succeed.

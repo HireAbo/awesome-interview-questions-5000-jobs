@@ -2,6 +2,8 @@
 
 Welcome to the Cellist Interview Preparation ! This resource is designed to help you ace your Cellist interviews with confidence.
 
+A cellist is a professional musician who specializes in playing the cello, a bowed string instrument. As an integral part of the entertainment and performing arts industry, cellists contribute their musical skills to various settings such as orchestras, chamber ensembles, and solo performances. They are responsible for interpreting and performing music written for the cello, showcasing their technical proficiency and artistic expression. Cellists often collaborate with other musicians and work closely with conductors and composers to bring a musical composition to life. Additionally, they may also teach cello lessons and participate in recording sessions for film scores, albums, and live performances.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cellist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cellist interviews to help you prepare and succeed.

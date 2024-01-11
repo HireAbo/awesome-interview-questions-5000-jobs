@@ -2,6 +2,8 @@
 
 Welcome to the Physical Education and Wellness Coordinator Interview Preparation ! This resource is designed to help you ace your Physical Education and Wellness Coordinator interviews with confidence.
 
+The role of a Physical Education and Wellness Coordinator is an essential component in promoting and enhancing physical fitness and well-being within educational institutions. This position entails overseeing sports and athletics programs, designing and implementing physical education curricula, and coordinating wellness initiatives for students and staff. The coordinator collaborates with teachers, coaches, and administrators to ensure that physical education classes and athletic events align with educational goals and promote healthy lifestyles. They also play a crucial role in organizing and managing sports competitions, ensuring the safety of participants, and fostering a positive and inclusive environment. Ultimately, the Physical Education and Wellness Coordinator contributes to the overall development and health of individuals in the educational community.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Physical Education and Wellness Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Physical Education and Wellness Coordinator interviews to help you prepare and succeed.

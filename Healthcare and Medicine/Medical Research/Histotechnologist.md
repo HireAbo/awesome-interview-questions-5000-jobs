@@ -2,6 +2,8 @@
 
 Welcome to the Histotechnologist Interview Preparation ! This resource is designed to help you ace your Histotechnologist interviews with confidence.
 
+A Histotechnologist plays a crucial role in the field of healthcare and medicine, specifically in medical research. Histotechnologists are skilled professionals responsible for preparing tissue samples for microscopic examination by pathologists. They perform various laboratory techniques such as tissue processing, embedding, sectioning, staining, and mounting, ensuring accurate and high-quality results. Histotechnologists also operate and maintain laboratory equipment, troubleshoot technical issues, and adhere to safety protocols. They work closely with pathologists, scientists, and other healthcare professionals to analyze and interpret tissue samples, aiding in the diagnosis, treatment, and prevention of diseases. Their expertise is vital in advancing medical research and improving patient care by providing critical insights into the microscopic structure of tissues.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Histotechnologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Histotechnologist interviews to help you prepare and succeed.

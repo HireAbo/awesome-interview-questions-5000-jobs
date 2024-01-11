@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Developer Interview Preparation ! This resource is designed to help you ace your Real Estate Developer interviews with confidence.
 
+Real Estate and Property Management involves the management and operation of real estate properties on behalf of the owners. It includes activities such as marketing, leasing, maintenance, and financial management. Real Estate Development, on the other hand, refers to the process of acquiring, improving, and selling real estate properties. This field requires expertise in identifying potential development opportunities, conducting feasibility studies, securing financing, managing construction projects, and navigating legal and regulatory requirements. A Real Estate Developer is responsible for overseeing all aspects of the development process, from land acquisition to project completion, with the ultimate goal of creating profitable and sustainable real estate projects.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Developer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Physical Therapist Interview Preparation ! This resource is designed to help you ace your Physical Therapist interviews with confidence.
 
+Physical therapy is a crucial aspect of healthcare and medicine, focusing on restoring and enhancing patients' physical abilities. Physical therapists are highly skilled professionals who play a vital role in the rehabilitation process. They work closely with patients to evaluate their condition, develop personalized treatment plans, and provide hands-on therapy to improve mobility, reduce pain, and prevent disability. Physical therapists also educate patients on exercises and techniques to promote long-term health and well-being. This rewarding job requires strong communication and interpersonal skills, as therapists collaborate with other healthcare professionals to ensure comprehensive care. By helping individuals regain their independence and improve their quality of life, physical therapists make a significant impact in the field of healthcare and medicine.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Physical Therapist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Physical Therapist interviews to help you prepare and succeed.

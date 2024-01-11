@@ -2,6 +2,8 @@
 
 Welcome to the Baseball Coach Interview Preparation ! This resource is designed to help you ace your Baseball Coach interviews with confidence.
 
+A baseball coach plays a crucial role in the development and success of a baseball team. Their primary responsibility is to train and guide players in improving their skills, tactics, and overall performance. A baseball coach designs practice sessions, instructs players on proper techniques, and develops game strategies. They also focus on fostering teamwork, discipline, and sportsmanship among team members. A good coach not only helps players enhance their physical abilities but also instills a sense of dedication, perseverance, and leadership. They analyze players' performance, provide constructive feedback, and make necessary adjustments to maximize the team's potential. A baseball coach is an integral part of creating a cohesive and competitive team that strives for excellence on and off the field.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Baseball Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Baseball Coach interviews to help you prepare and succeed.

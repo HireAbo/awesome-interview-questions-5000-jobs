@@ -2,6 +2,8 @@
 
 Welcome to the Structural Engineer Interview Preparation ! This resource is designed to help you ace your Structural Engineer interviews with confidence.
 
+A Structural Engineer is a professional within the field of Civil Engineering who specializes in designing, analyzing, and ensuring the safety and stability of structures such as buildings, bridges, and dams. These professionals play a crucial role in the construction industry by applying their expertise to create sound and efficient structural designs. They work closely with architects, contractors, and other engineering disciplines to develop innovative solutions that can withstand various environmental and loading conditions. A Structural Engineer must possess strong analytical and problem-solving skills, as well as a deep understanding of structural mechanics, materials, and building codes. Additionally, they must stay updated with the latest advancements in technology and construction practices to ensure the highest level of safety and sustainability in their designs.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Structural Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Structural Engineer interviews to help you prepare and succeed.

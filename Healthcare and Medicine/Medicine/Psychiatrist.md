@@ -2,6 +2,8 @@
 
 Welcome to the Psychiatrist Interview Preparation ! This resource is designed to help you ace your Psychiatrist interviews with confidence.
 
+A psychiatrist is a medical doctor who specializes in the diagnosis, treatment, and prevention of mental illnesses and emotional disorders. They play a crucial role in the field of healthcare and medicine by providing comprehensive mental health care to their patients. Psychiatrists are trained to assess and diagnose mental disorders, prescribe medications, and implement various psychotherapy techniques to help individuals manage their conditions. They often work closely with other healthcare professionals, such as psychologists, social workers, and primary care physicians, to ensure holistic and effective treatment plans. Psychiatrists also conduct research, contribute to the development of new treatment methods, and educate the public about mental health issues.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Psychiatrist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Psychiatrist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Public Sector Consultant Interview Preparation ! This resource is designed to help you ace your Public Sector Consultant interviews with confidence.
 
+A Public Sector Consultant is a professional who provides expert advice and support to government organizations and public administration agencies. They play a crucial role in assisting these entities in improving their efficiency, effectiveness, and overall performance. These consultants possess a deep understanding of government policies, regulations, and procedures, enabling them to identify areas for improvement and develop strategies to address them. They work closely with government officials, analyzing data, conducting research, and evaluating existing programs to provide recommendations for improvement. Public Sector Consultants often specialize in specific areas such as finance, healthcare, education, or transportation, and their expertise is vital in driving positive change and delivering better services to the public.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Public Sector Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Public Sector Consultant interviews to help you prepare and succeed.

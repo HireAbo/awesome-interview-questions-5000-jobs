@@ -2,6 +2,8 @@
 
 Welcome to the Travel Agent Interview Preparation ! This resource is designed to help you ace your Travel Agent interviews with confidence.
 
+A travel agent is a professional who assists individuals and groups in planning and organizing their travel arrangements. They are experts in the field of hospitality and tourism and play a crucial role in the travel services industry. Travel agents provide personalized advice and recommendations to clients, helping them choose the most suitable destinations, accommodations, transportation, and activities based on their preferences and budget. They handle all aspects of travel planning, including booking flights, hotels, car rentals, and tours. By staying up-to-date with the latest trends and developments in the industry, travel agents ensure that their clients have the best travel experience possible.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Travel Agent or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Travel Agent interviews to help you prepare and succeed.

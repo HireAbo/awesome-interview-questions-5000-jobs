@@ -2,6 +2,8 @@
 
 Welcome to the Solopreneur Interview Preparation ! This resource is designed to help you ace your Solopreneur interviews with confidence.
 
+A solopreneur job refers to an individual who runs a business independently, managing all aspects of the venture on their own. This type of entrepreneurship revolves around self-reliance and self-employment. Solopreneurs often take advantage of their unique skills, knowledge, and expertise to offer specialized services or create innovative products. They typically handle everything from strategic planning, marketing, sales, finance, and customer service. Operating as a solopreneur offers flexibility, allowing individuals to work on their own terms and pursue their passion. However, it also requires great dedication and a strong sense of discipline to ensure the success and growth of the business.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Solopreneur or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Solopreneur interviews to help you prepare and succeed.

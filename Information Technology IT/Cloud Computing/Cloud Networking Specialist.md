@@ -2,6 +2,8 @@
 
 Welcome to the Cloud Networking Specialist Interview Preparation ! This resource is designed to help you ace your Cloud Networking Specialist interviews with confidence.
 
+A Cloud Networking Specialist is a professional who specializes in managing and optimizing cloud computing networks. They are responsible for designing, implementing, and maintaining cloud-based networking solutions that ensure seamless connectivity and efficient data transfer between various cloud platforms and applications. Their role also involves troubleshooting network issues, optimizing network performance, and ensuring data security in the cloud environment. Additionally, Cloud Networking Specialists collaborate with cross-functional teams to evaluate and select appropriate cloud networking technologies, while staying updated with the latest industry trends and best practices. Their expertise in cloud computing and networking plays a vital role in enabling organizations to harness the full potential of cloud-based infrastructure and maximize operational efficiency.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cloud Networking Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cloud Networking Specialist interviews to help you prepare and succeed.

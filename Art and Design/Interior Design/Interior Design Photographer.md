@@ -2,6 +2,8 @@
 
 Welcome to the Interior Design Photographer Interview Preparation ! This resource is designed to help you ace your Interior Design Photographer interviews with confidence.
 
+An Interior Design Photographer is a professional who captures and showcases the beauty and functionality of interior spaces through photography. They have a keen eye for detail and an understanding of how to highlight the unique elements and design concepts of a space. Their role involves collaborating with interior designers and architects to create visually stunning images that effectively communicate the essence of a project. Interior Design Photographers use various techniques to capture lighting, angles, and composition to showcase the ambiance, textures, and colors of a space. They play a crucial role in promoting and marketing interior design projects, creating a visual narrative that entices clients and the public.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Interior Design Photographer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Interior Design Photographer interviews to help you prepare and succeed.

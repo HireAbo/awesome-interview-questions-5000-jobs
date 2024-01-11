@@ -2,6 +2,8 @@
 
 Welcome to the Power Distribution Engineer Interview Preparation ! This resource is designed to help you ace your Power Distribution Engineer interviews with confidence.
 
+A Power Distribution Engineer is a professional who specializes in the field of electrical engineering, specifically focusing on the design, maintenance, and operation of power distribution systems. Their primary responsibility is to ensure the efficient and reliable supply of electricity to various residential, commercial, and industrial facilities. Power Distribution Engineers analyze power demands, plan and design electrical distribution networks, and coordinate the installation and commissioning of power distribution equipment. They also conduct regular inspections and maintenance activities to ensure the safety and efficiency of the power distribution system. Strong technical knowledge, problem-solving skills, and attention to detail are essential qualities for a successful Power Distribution Engineer.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Power Distribution Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Power Distribution Engineer interviews to help you prepare and succeed.

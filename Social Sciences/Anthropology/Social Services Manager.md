@@ -2,6 +2,8 @@
 
 Welcome to the Social Services Manager Interview Preparation ! This resource is designed to help you ace your Social Services Manager interviews with confidence.
 
+A Social Services Manager in the field of Anthropology is a professional who combines the principles of anthropology with the management skills required for overseeing social service programs. These individuals play a crucial role in coordinating and implementing social services aimed at improving the well-being of individuals and communities. They work closely with diverse populations, including marginalized groups, indigenous communities, and vulnerable populations, to identify their needs and develop appropriate interventions. Social Services Managers in anthropology also engage in research and analysis to understand the social, cultural, and historical context in which social issues arise. Their ultimate goal is to promote social justice, equality, and the empowerment of individuals and communities through the application of anthropological knowledge and effective management strategies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Social Services Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Social Services Manager interviews to help you prepare and succeed.

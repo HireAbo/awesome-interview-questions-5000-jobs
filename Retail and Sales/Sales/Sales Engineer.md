@@ -2,6 +2,8 @@
 
 Welcome to the Sales Engineer Interview Preparation ! This resource is designed to help you ace your Sales Engineer interviews with confidence.
 
+A Sales Engineer in the Retail and Sales industry is a professional responsible for combining technical expertise with sales skills to promote and sell complex products or services to clients. They act as a bridge between the sales team and the engineering and technical departments within a company. Sales Engineers possess in-depth knowledge of the product or service they sell and are adept at understanding and translating technical specifications and features into client benefits. They engage in pre-sales activities such as product demonstrations, technical presentations, and proposal development, and collaborate with clients to understand their needs and provide tailored solutions. A Sales Engineer plays a vital role in driving revenue growth and building strong customer relationships in the Retail and Sales sector.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sales Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sales Engineer interviews to help you prepare and succeed.

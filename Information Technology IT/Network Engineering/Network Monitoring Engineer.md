@@ -2,6 +2,8 @@
 
 Welcome to the Network Monitoring Engineer Interview Preparation ! This resource is designed to help you ace your Network Monitoring Engineer interviews with confidence.
 
+A Network Monitoring Engineer is a key role in the field of Information Technology (IT) that focuses on the efficient functioning of computer networks. These professionals are responsible for designing, implementing, and maintaining network monitoring systems to ensure the smooth running of network infrastructure. They use various tools and technologies to monitor network performance, identify potential issues, and troubleshoot problems in real-time. Network Monitoring Engineers play a vital role in optimizing network performance, enhancing security measures, and ensuring high availability of network resources. Their expertise in monitoring network traffic, analyzing data, and implementing necessary changes makes them crucial in maintaining network stability and minimizing downtime.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Network Monitoring Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Network Monitoring Engineer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Line Cook Interview Preparation ! This resource is designed to help you ace your Line Cook interviews with confidence.
 
+Hospitality and Tourism is a vast and dynamic industry that encompasses various sectors, including culinary arts. Culinary arts is an integral part of the hospitality and tourism industry, offering a diverse range of career opportunities. One such job in this field is the role of a Line Cook. A Line Cook is responsible for preparing and cooking food in a fast-paced kitchen environment. They work alongside the executive chef and sous chefs, following recipes and ensuring that the dishes meet quality standards. Line Cooks are highly skilled professionals who possess excellent culinary techniques, time management, and the ability to work well under pressure. Their dedication and passion for food contribute to creating unforgettable dining experiences for guests in the hospitality and tourism sector.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Line Cook or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Line Cook interviews to help you prepare and succeed.

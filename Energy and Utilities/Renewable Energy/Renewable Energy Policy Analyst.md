@@ -2,6 +2,8 @@
 
 Welcome to the Renewable Energy Policy Analyst Interview Preparation ! This resource is designed to help you ace your Renewable Energy Policy Analyst interviews with confidence.
 
+A Renewable Energy Policy Analyst is a professional responsible for analyzing and developing policies related to renewable energy sources. They play a crucial role in promoting sustainable and clean energy practices. These analysts evaluate current policies, conduct research, and make recommendations to government agencies, organizations, and corporations on strategies to enhance renewable energy adoption. Their job involves staying updated with the latest industry trends, conducting feasibility studies, and assessing the environmental, social, and economic impacts of renewable energy projects. Renewable Energy Policy Analysts also collaborate with stakeholders, such as energy regulators, environmental agencies, and industry experts, to ensure effective policy implementation and drive the transition towards a greener and more sustainable energy future.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Renewable Energy Policy Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Renewable Energy Policy Analyst interviews to help you prepare and succeed.

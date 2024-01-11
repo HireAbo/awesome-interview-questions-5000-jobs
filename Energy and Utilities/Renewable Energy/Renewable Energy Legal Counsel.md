@@ -2,6 +2,8 @@
 
 Welcome to the Renewable Energy Legal Counsel Interview Preparation ! This resource is designed to help you ace your Renewable Energy Legal Counsel interviews with confidence.
 
+The role of a Renewable Energy Legal Counsel within the Energy and Utilities sector is crucial in facilitating the transition to a sustainable energy future. As a Renewable Energy Legal Counsel, you will be responsible for providing legal advice and guidance to clients in the renewable energy industry. This includes navigating complex regulatory frameworks, drafting and negotiating contracts, and ensuring compliance with renewable energy laws and policies. You will also be involved in land acquisition, project development, and financing transactions. Moreover, you will play a pivotal role in assessing legal risks, resolving disputes, and staying up-to-date with evolving renewable energy legislation. A strong legal background, excellent communication skills, and a passion for environmental sustainability are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Renewable Energy Legal Counsel or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Renewable Energy Legal Counsel interviews to help you prepare and succeed.

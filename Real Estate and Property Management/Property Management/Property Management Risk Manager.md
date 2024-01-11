@@ -2,6 +2,8 @@
 
 Welcome to the Property Management Risk Manager Interview Preparation ! This resource is designed to help you ace your Property Management Risk Manager interviews with confidence.
 
+A Property Management Risk Manager is a professional responsible for overseeing and managing the potential risks associated with real estate and property management operations. This role requires a deep understanding of laws, regulations, and industry standards related to property management. The Risk Manager is responsible for identifying, assessing, and mitigating potential risks that could impact the financial and operational stability of a property management company. They develop and implement risk management strategies, policies, and procedures to ensure compliance and minimize liabilities. The Property Management Risk Manager also conducts regular inspections, audits, and assessments to identify potential hazards, ensure proper insurance coverage, and develop emergency response plans.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Property Management Risk Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Property Management Risk Manager interviews to help you prepare and succeed.

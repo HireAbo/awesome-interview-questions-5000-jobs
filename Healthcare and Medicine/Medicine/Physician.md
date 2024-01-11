@@ -2,6 +2,8 @@
 
 Welcome to the Physician Interview Preparation ! This resource is designed to help you ace your Physician interviews with confidence.
 
+A physician is a highly skilled medical professional responsible for diagnosing and treating illnesses, injuries, and diseases in patients. They play a crucial role in the healthcare system, providing primary care and specialized medical services. Physicians are trained to examine patients, order and interpret medical tests, prescribe medications, and develop treatment plans. They work in various settings including hospitals, clinics, and private practices. The role of a physician requires extensive medical knowledge, excellent communication skills, and the ability to make critical decisions in high-pressure situations. They often collaborate with other healthcare professionals to ensure the best possible patient care and outcomes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Physician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Physician interviews to help you prepare and succeed.

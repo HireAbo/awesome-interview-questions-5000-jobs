@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Educator Interview Preparation ! This resource is designed to help you ace your Environmental Educator interviews with confidence.
 
+An Environmental Educator in the field of Environmental Science plays a crucial role in promoting awareness and understanding of the environment and its importance. They are responsible for designing and delivering educational programs and activities that focus on environmental conservation, sustainability, and protection. These educators possess a deep understanding of scientific principles and research related to environmental issues and are adept at translating complex concepts into engaging and accessible learning experiences. They work closely with students, communities, and organizations to inspire a sense of responsibility towards the environment, fostering positive behavioral changes, and encouraging individuals to become active participants in environmental stewardship. Environmental Educators contribute significantly to shaping a sustainable future by fostering a generation of environmentally conscious individuals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Educator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Educator interviews to help you prepare and succeed.

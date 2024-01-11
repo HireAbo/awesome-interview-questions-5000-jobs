@@ -2,6 +2,8 @@
 
 Welcome to the Municipal Planner Interview Preparation ! This resource is designed to help you ace your Municipal Planner interviews with confidence.
 
+A municipal planner plays a significant role in government and public service by ensuring the effective development and management of a municipality's land use and infrastructure. These professionals work closely with government officials, community members, and various stakeholders to create and implement plans that promote sustainable growth and enhance the quality of life within a municipality. Municipal planners are responsible for conducting research, analyzing data, and making recommendations on zoning regulations, transportation systems, environmental protection, and economic development. Their expertise in urban planning and public administration helps shape communities, balance competing interests, and address the needs of both current and future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Municipal Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Municipal Planner interviews to help you prepare and succeed.

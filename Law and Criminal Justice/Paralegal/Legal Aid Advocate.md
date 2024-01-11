@@ -2,6 +2,8 @@
 
 Welcome to the Legal Aid Advocate Interview Preparation ! This resource is designed to help you ace your Legal Aid Advocate interviews with confidence.
 
+A career in Law and Criminal Justice as a Paralegal or Legal Aid Advocate involves providing vital support to attorneys and clients within the legal system. As a Paralegal, individuals assist lawyers by conducting legal research, drafting legal documents, organizing case files, and maintaining communication with clients. Their expertise in understanding legal procedures and regulations is crucial in ensuring the smooth functioning of legal proceedings. On the other hand, Legal Aid Advocates work specifically with individuals who cannot afford legal representation. They offer guidance, support, and representation to those in need, ensuring access to justice for all. Both roles play a critical role in upholding justice and ensuring a fair legal system.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Legal Aid Advocate or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Legal Aid Advocate interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Forest Firefighter Interview Preparation ! This resource is designed to help you ace your Forest Firefighter interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on the study of the environment and its interactions with human activities. It encompasses various areas such as ecology, biology, chemistry, and geology to better understand the complexities of our natural world. Within this field, the Forest Firefighter job plays a crucial role in protecting and preserving our forests and natural resources. Forest firefighters are highly trained individuals who combat wildfires, minimizing their impact on the environment. They employ various techniques such as controlled burns, fire suppression, and fire prevention strategies to maintain the balance of ecosystems and prevent the destruction of forests caused by uncontrolled wildfires.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forest Firefighter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forest Firefighter interviews to help you prepare and succeed.

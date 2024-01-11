@@ -2,6 +2,8 @@
 
 Welcome to the Education Coordinator Interview Preparation ! This resource is designed to help you ace your Education Coordinator interviews with confidence.
 
+An Education Coordinator is a vital role within the field of education and teaching. They are responsible for overseeing and coordinating various educational programs and initiatives. Their primary objective is to ensure that all educational activities are well-organized, efficient, and aligned with the goals and objectives of the institution. Education Coordinators play a crucial role in curriculum development, instructional planning, and assessment. They collaborate with teachers and other educators to design and implement effective teaching strategies and techniques. Additionally, they provide guidance and support to teachers, monitor student progress, and analyze data to make informed decisions for improving educational outcomes. A successful Education Coordinator possesses strong leadership, communication, and organizational skills, along with a deep passion for education and a commitment to fostering a positive learning environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Education Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Education Coordinator interviews to help you prepare and succeed.

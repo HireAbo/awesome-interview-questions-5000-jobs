@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Educator Interview Preparation ! This resource is designed to help you ace your Environmental Educator interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on the study of the environment, natural resource management, and sustainable agricultural practices. It strives to find innovative solutions to address the challenges faced by our planet, such as climate change, soil degradation, and biodiversity loss. Within this field, Wildlife Conservation plays a crucial role in protecting and preserving endangered species and their habitats. Environmental Educators play a pivotal role in this conservation effort by raising awareness and promoting understanding of environmental issues among different communities. They educate and inspire others to take action towards a more sustainable and harmonious coexistence with nature.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Educator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Educator interviews to help you prepare and succeed.

@@ -2,6 +2,10 @@
 
 Welcome to the Applied Mathematician Interview Preparation ! This resource is designed to help you ace your Applied Mathematician interviews with confidence.
 
+The field of mathematics involves the study of patterns, structures, and relationships using logical reasoning and abstract concepts. It is a fundamental discipline that is applicable in various fields, including physics, engineering, economics, and computer science. Applied mathematics focuses on the practical application of mathematical principles to solve real-world problems. 
+
+An applied mathematician job involves using mathematical techniques to analyze and solve problems in various industries. They may use statistical models, optimization algorithms, or computational methods to provide insights and make informed decisions. Applied mathematicians often work closely with professionals from other fields to develop mathematical models and simulations. They possess strong analytical skills, problem-solving abilities, and advanced knowledge of mathematical theories and techniques. The role of an applied mathematician is crucial in driving innovation and finding solutions to complex problems in today's data-driven world.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Applied Mathematician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Applied Mathematician interviews to help you prepare and succeed.

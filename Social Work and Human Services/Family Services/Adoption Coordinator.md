@@ -2,6 +2,8 @@
 
 Welcome to the Adoption Coordinator Interview Preparation ! This resource is designed to help you ace your Adoption Coordinator interviews with confidence.
 
+A Social Work and Human Services Adoption Coordinator plays a crucial role in connecting children in need of permanent homes with loving adoptive families. This job involves overseeing the entire adoption process, from the initial application through to post-placement support. Adoption Coordinators work closely with birth parents, adoptive parents, and the child welfare system, ensuring that all parties are well-informed, supported, and prepared for the adoption journey. They conduct home studies, facilitate adoption placements, and provide counseling and resources to families before, during, and after the adoption process. This role requires strong communication and organizational skills, empathy, and a deep commitment to improving the lives of children and families through adoption.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Adoption Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Adoption Coordinator interviews to help you prepare and succeed.

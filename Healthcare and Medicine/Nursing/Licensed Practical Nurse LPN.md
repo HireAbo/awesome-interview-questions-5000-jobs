@@ -2,6 +2,8 @@
 
 Welcome to the Licensed Practical Nurse (LPN) Interview Preparation ! This resource is designed to help you ace your Licensed Practical Nurse (LPN) interviews with confidence.
 
+A Licensed Practical Nurse (LPN) is an integral part of the healthcare team, providing essential care and support to patients in various healthcare settings. LPNs work under the supervision of registered nurses and physicians, assisting with patient care and ensuring their well-being. They perform a range of duties, including administering medications, monitoring vital signs, assisting with personal hygiene, and dressing wounds. LPNs also provide emotional support to patients and their families, ensuring their comfort and addressing their concerns. With their comprehensive training and expertise, LPNs play a crucial role in delivering quality healthcare services, promoting health, and improving patient outcomes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Licensed Practical Nurse (LPN) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Licensed Practical Nurse (LPN) interviews to help you prepare and succeed.

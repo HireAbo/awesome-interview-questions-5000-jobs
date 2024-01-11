@@ -2,6 +2,8 @@
 
 Welcome to the Colorist Interview Preparation ! This resource is designed to help you ace your Colorist interviews with confidence.
 
+A colorist in the field of fashion design is an essential role that brings life and vibrancy to clothing collections. Their main responsibility is to select and develop color palettes that align with the brand's vision and market trends. The colorist collaborates closely with fashion designers and stylists to ensure that the colors chosen enhance the overall aesthetic and evoke the desired emotions. They possess a keen eye for color theory, understanding how different shades and tones work together harmoniously. Additionally, they stay updated with the latest color trends and technology to create innovative and appealing color combinations that captivate the audience and make a lasting impact in the fashion industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Colorist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Colorist interviews to help you prepare and succeed.

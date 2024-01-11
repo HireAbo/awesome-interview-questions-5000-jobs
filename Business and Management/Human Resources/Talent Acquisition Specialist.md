@@ -2,6 +2,8 @@
 
 Welcome to the Talent Acquisition Specialist Interview Preparation ! This resource is designed to help you ace your Talent Acquisition Specialist interviews with confidence.
 
+A Talent Acquisition Specialist is a crucial role within the field of Human Resources and plays a pivotal role in the success of an organization. This job involves identifying, attracting, and hiring top talent for an organization. Talent Acquisition Specialists are responsible for creating and implementing effective recruitment strategies to ensure the organization has a skilled and diverse workforce. They work closely with hiring managers to understand the requirements and qualifications needed for various positions. Additionally, they utilize various sourcing techniques, such as job boards, social media, and networking, to locate and engage with potential candidates. Overall, a Talent Acquisition Specialist contributes to the growth and success of an organization by securing the best talent to meet its business objectives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Talent Acquisition Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Talent Acquisition Specialist interviews to help you prepare and succeed.

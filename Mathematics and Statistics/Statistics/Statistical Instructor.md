@@ -2,6 +2,8 @@
 
 Welcome to the Statistical Instructor Interview Preparation ! This resource is designed to help you ace your Statistical Instructor interviews with confidence.
 
+A Statistical Instructor plays a crucial role in teaching and guiding students in the field of Statistics. Mathematics and Statistics are closely intertwined, with Statistics being the branch that deals with the collection, analysis, interpretation, presentation, and organization of data. As a Statistical Instructor, one is responsible for designing and delivering lectures, preparing course materials, and conducting assessments to gauge students' understanding of statistical concepts and methodologies. They provide guidance and support to students, assisting them in acquiring the necessary skills to effectively analyze and interpret data. A Statistical Instructor also stays updated with emerging statistical techniques and trends to ensure the delivery of comprehensive and relevant instruction.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Statistical Instructor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Statistical Instructor interviews to help you prepare and succeed.

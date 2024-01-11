@@ -2,6 +2,8 @@
 
 Welcome to the Statistical Assessment Specialist Interview Preparation ! This resource is designed to help you ace your Statistical Assessment Specialist interviews with confidence.
 
+A Statistical Assessment Specialist is a professional who applies mathematical and statistical concepts to analyze data and provide insights for decision-making. They possess a deep understanding of mathematical principles and statistical methods to collect, organize, and interpret data. These specialists work with various industries, such as finance, healthcare, and market research, to conduct statistical assessments and identify trends, patterns, and correlations in data. They also design and implement surveys, experiments, and statistical models to gather and analyze data accurately. A Statistical Assessment Specialist plays a crucial role in helping organizations make informed decisions and develop strategies based on reliable data and statistical analysis.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Statistical Assessment Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Statistical Assessment Specialist interviews to help you prepare and succeed.

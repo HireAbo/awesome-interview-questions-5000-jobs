@@ -2,6 +2,8 @@
 
 Welcome to the Microelectronics Engineer Interview Preparation ! This resource is designed to help you ace your Microelectronics Engineer interviews with confidence.
 
+A Microelectronics Engineer is a specialized professional in the field of Electrical Engineering, focusing on the design, development, and manufacturing of microelectronic components and systems. This role involves working with cutting-edge technologies and materials to create miniaturized electronic devices, such as integrated circuits and microprocessors. Microelectronics engineers are responsible for researching, designing, and testing these components to ensure their functionality and performance. They also collaborate with other engineers and technicians to optimize production processes and troubleshoot any issues that may arise. Their expertise is crucial in various industries, including telecommunications, automotive, aerospace, and consumer electronics, where the demand for smaller and more efficient electronic devices continues to grow.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Microelectronics Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Microelectronics Engineer interviews to help you prepare and succeed.

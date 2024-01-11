@@ -2,6 +2,8 @@
 
 Welcome to the Corporate Archivist Interview Preparation ! This resource is designed to help you ace your Corporate Archivist interviews with confidence.
 
+Library and Information Science is a field that encompasses the management, preservation, and retrieval of information. Archiving, a key component of this discipline, involves the systematic organization and preservation of records and valuable documents. One specialized role within archiving is that of a Corporate Archivist. Corporate Archivists are professionals responsible for managing and safeguarding the historical records and materials of an organization. They collect, appraise, organize, and preserve important documents, photographs, digital files, and other media. Furthermore, they ensure the accessibility of these materials for research and reference purposes. Corporate Archivists play a vital role in helping organizations maintain their historical legacy and ensure the availability of information for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Corporate Archivist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Corporate Archivist interviews to help you prepare and succeed.

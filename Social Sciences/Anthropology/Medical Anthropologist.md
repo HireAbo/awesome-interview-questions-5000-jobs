@@ -2,6 +2,8 @@
 
 Welcome to the Medical Anthropologist Interview Preparation ! This resource is designed to help you ace your Medical Anthropologist interviews with confidence.
 
+A Medical Anthropologist job within the field of Anthropology involves the study of human health, illness, and healthcare systems within different cultural and social contexts. These professionals examine how cultural beliefs, practices, and social structures influence health and well-being. They conduct research, interviews, and observations to gain insights into various aspects of medical systems, including healing practices, traditional medicine, and health disparities. Medical anthropologists also analyze the impact of globalization, migration, and social inequalities on health outcomes. Their work aims to improve healthcare delivery, promote cultural competency in medical settings, and contribute to the understanding of human health and illness from a holistic perspective.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Medical Anthropologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Medical Anthropologist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Poultry Farm Manager Interview Preparation ! This resource is designed to help you ace your Poultry Farm Manager interviews with confidence.
 
+The role of a Poultry Farm Manager in the field of Agriculture and Environmental Science is crucial for ensuring the efficient and sustainable management of poultry farms. Poultry Farm Managers oversee the day-to-day operations of the farm, including the care and welfare of the poultry, managing the production process, and maintaining a healthy environment for the birds. They are responsible for monitoring and implementing biosecurity measures to prevent the spread of diseases, managing feed and nutrition programs, and ensuring compliance with regulations and industry standards. Additionally, Poultry Farm Managers play a vital role in promoting sustainable practices, such as waste management and minimizing environmental impacts associated with poultry farming.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Poultry Farm Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Poultry Farm Manager interviews to help you prepare and succeed.

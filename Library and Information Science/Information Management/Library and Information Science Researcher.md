@@ -2,6 +2,8 @@
 
 Welcome to the Library and Information Science Researcher Interview Preparation ! This resource is designed to help you ace your Library and Information Science Researcher interviews with confidence.
 
+A Library and Information Science (LIS) Researcher is a professional who specializes in conducting research within the field of Library and Information Science. They are responsible for investigating, analyzing, and interpreting information management practices and trends to enhance the efficiency and effectiveness of libraries and other information organizations. LIS Researchers play a vital role in advancing the knowledge and understanding of information science by studying and evaluating different information systems, technologies, and strategies. They design and execute research projects, collect and analyze data, and publish their findings in scholarly journals and other professional platforms. LIS Researchers contribute to the development of best practices and innovative solutions in information management, ultimately improving access to and utilization of information resources for users.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Library and Information Science Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Library and Information Science Researcher interviews to help you prepare and succeed.

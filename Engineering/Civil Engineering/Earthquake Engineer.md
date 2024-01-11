@@ -2,6 +2,8 @@
 
 Welcome to the Earthquake Engineer Interview Preparation ! This resource is designed to help you ace your Earthquake Engineer interviews with confidence.
 
+An Earthquake Engineer is a specialized civil engineer who focuses on designing and constructing structures that can withstand seismic activity. This crucial role involves assessing the potential impact of earthquakes on infrastructure and developing innovative engineering solutions to mitigate risks. Earthquake Engineers analyze geological data, conduct site investigations, and use advanced analytical techniques to understand the behavior of different materials during seismic events. They collaborate with architects, geologists, and other professionals to ensure that buildings, bridges, and other structures meet stringent safety standards. Additionally, Earthquake Engineers play a vital role in post-earthquake assessment, providing expertise in evaluating damage and developing strategies for reconstruction and retrofitting.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Earthquake Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Earthquake Engineer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Grief Counselor Interview Preparation ! This resource is designed to help you ace your Grief Counselor interviews with confidence.
 
+A grief counselor is a professional who specializes in providing support and guidance to individuals who have experienced the loss of a loved one. They work within the field of social work and human services, specifically in the area of counseling. Grief counselors aim to help individuals navigate the complex emotions and challenges associated with grief, providing a safe and empathetic space for clients to express their feelings and experiences. They utilize various therapeutic techniques and interventions to assist clients in processing their grief and finding healthy coping mechanisms. Grief counselors play a crucial role in helping individuals heal and rebuild their lives after the loss of a loved one.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Grief Counselor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Grief Counselor interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Digital Marketing Coordinator Interview Preparation ! This resource is designed to help you ace your Digital Marketing Coordinator interviews with confidence.
 
+A Digital Marketing Coordinator is a professional responsible for implementing and managing various digital marketing strategies to promote a company's products or services. They play a crucial role in enhancing brand visibility and generating online leads. This job requires strong communication and media skills, as the coordinator needs to effectively communicate with both internal teams and external stakeholders. They are responsible for planning and executing digital marketing campaigns, including social media marketing, email marketing, and search engine optimization. Additionally, they analyze campaign data and metrics to optimize strategies and ensure maximum ROI. The digital marketing coordinator is a vital role in today's highly competitive digital landscape.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Digital Marketing Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Digital Marketing Coordinator interviews to help you prepare and succeed.

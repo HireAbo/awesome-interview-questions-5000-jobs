@@ -2,6 +2,8 @@
 
 Welcome to the Forensic Interviewer Interview Preparation ! This resource is designed to help you ace your Forensic Interviewer interviews with confidence.
 
+A forensic interviewer is a specialized professional within the field of psychology, focusing on the application of social sciences in the legal system. This role involves conducting interviews with individuals involved in legal cases, particularly victims and witnesses of crimes. Forensic interviewers use their expertise in psychology to create a safe and supportive environment for interviewees to share information, ensuring accuracy and reliability of their statements. They employ various techniques, such as cognitive interviewing and trauma-informed practices, to gather essential details that can aid in investigations and legal proceedings. Forensic interviewers play a crucial role in the criminal justice system by providing valuable insights and evidence that contribute to the pursuit of justice.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forensic Interviewer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forensic Interviewer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Student Counselor Interview Preparation ! This resource is designed to help you ace your Student Counselor interviews with confidence.
 
+A student counselor plays a vital role in the field of education, specifically in the area of school counseling. As an integral part of the education system, student counselors provide guidance and support to students in various aspects of their academic and personal lives. They work closely with students to help them navigate through challenges such as academic difficulties, social issues, career planning, and emotional well-being. Student counselors also collaborate with teachers, parents, and other professionals to develop and implement programs that foster a positive learning environment and promote student success. Through their expertise and dedication, student counselors contribute to the holistic development and overall well-being of students.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Student Counselor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Student Counselor interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Senior Software Engineer Interview Preparation ! This resource is designed to help you ace your Senior Software Engineer interviews with confidence.
 
+A Senior Software Engineer is an experienced professional in the field of Information Technology (IT) and software development. They play a crucial role in designing, developing, and implementing software applications and systems. The primary responsibility of a Senior Software Engineer is to lead a team of developers in creating high-quality software solutions that meet the needs and requirements of clients or organizations. They possess strong technical skills, expertise in programming languages, and in-depth knowledge of software development methodologies. Senior Software Engineers also collaborate with stakeholders to understand project requirements, provide technical guidance, and ensure the successful delivery of software projects.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Senior Software Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Senior Software Engineer interviews to help you prepare and succeed.

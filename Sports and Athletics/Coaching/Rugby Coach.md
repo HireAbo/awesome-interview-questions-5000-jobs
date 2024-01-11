@@ -2,6 +2,8 @@
 
 Welcome to the Rugby Coach Interview Preparation ! This resource is designed to help you ace your Rugby Coach interviews with confidence.
 
+A Rugby Coach plays a crucial role in developing and enhancing the skills of rugby players. They are responsible for planning, organizing, and conducting training sessions and practices, focusing on improving the technical abilities, tactical awareness, and physical fitness of the team. A Rugby Coach also strategizes game plans, analyzes opponent teams, and provides guidance and feedback to players during matches. They are instrumental in fostering team spirit, discipline, and sportsmanship among players while also instilling a passion for the sport. A successful Rugby Coach possesses excellent communication and leadership skills, a deep understanding of the game, and the ability to motivate and inspire players to reach their full potential.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Rugby Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Rugby Coach interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Sales Analyst Interview Preparation ! This resource is designed to help you ace your Sales Analyst interviews with confidence.
 
+A Sales Analyst plays a crucial role in the Retail and Sales industry by analyzing sales data to provide valuable insights and support strategic decision-making. This job involves collecting and interpreting sales data, identifying trends, and forecasting sales performance. Sales Analysts collaborate with sales teams to develop sales strategies, optimize pricing, and improve overall sales performance. They also conduct market research to identify potential growth opportunities and assess competitors' activities. Excellent analytical skills, attention to detail, and proficiency in data analysis tools are essential in this role. Sales Analysts contribute to achieving sales goals, boosting revenue, and enhancing customer satisfaction in the dynamic and competitive retail industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sales Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sales Analyst interviews to help you prepare and succeed.

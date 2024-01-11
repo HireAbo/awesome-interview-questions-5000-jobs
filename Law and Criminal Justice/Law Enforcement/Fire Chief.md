@@ -2,6 +2,8 @@
 
 Welcome to the Fire Chief Interview Preparation ! This resource is designed to help you ace your Fire Chief interviews with confidence.
 
+A Fire Chief is a vital role within the field of Law Enforcement and Criminal Justice. As the head of a fire department, their primary responsibility is to oversee and manage all firefighting activities within their jurisdiction. They lead a team of firefighters and emergency personnel, ensuring proper training, equipment maintenance, and efficient emergency response. Fire Chiefs play a crucial role in developing and implementing fire safety programs, enforcing fire codes and regulations, and investigating the cause and origin of fires. They collaborate with other law enforcement agencies, emergency services, and community organizations to promote public safety and educate the public on fire prevention and emergency preparedness.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Fire Chief or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Fire Chief interviews to help you prepare and succeed.

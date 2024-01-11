@@ -2,6 +2,8 @@
 
 Welcome to the Pattern Maker Interview Preparation ! This resource is designed to help you ace your Pattern Maker interviews with confidence.
 
+A Pattern Maker in the field of Fashion Design plays a crucial role in bringing creative designs to life. They are responsible for creating precise templates, known as patterns, that serve as the foundation for constructing garments. This role requires a deep understanding of garment construction, fabric properties, and body measurements. Pattern Makers collaborate closely with fashion designers, translating their ideas into tangible patterns that can be used for production. They possess exceptional attention to detail, precision, and a strong sense of creativity. By creating accurate patterns, Pattern Makers ensure that garments fit the human body flawlessly, enhancing the overall aesthetics and functionality of the final fashion pieces.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Pattern Maker or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Pattern Maker interviews to help you prepare and succeed.

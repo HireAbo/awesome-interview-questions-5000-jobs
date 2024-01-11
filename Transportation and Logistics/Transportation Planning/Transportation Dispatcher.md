@@ -2,6 +2,8 @@
 
 Welcome to the Transportation Dispatcher Interview Preparation ! This resource is designed to help you ace your Transportation Dispatcher interviews with confidence.
 
+Transportation and Logistics is a crucial field that ensures the smooth movement of goods and materials from one place to another. Within this industry, Transportation Planning plays a vital role in coordinating and optimizing the transportation process. One of the key positions in this domain is that of a Transportation Dispatcher. A Transportation Dispatcher is responsible for effectively planning and coordinating the movement of goods and vehicles. They collaborate with drivers, suppliers, and clients to ensure on-time deliveries, resolve any transportation issues, and maintain efficient communication throughout the transportation process. This demanding role requires strong organizational and problem-solving skills, as well as effective decision-making abilities to ensure the efficient flow of goods.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Transportation Dispatcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Transportation Dispatcher interviews to help you prepare and succeed.

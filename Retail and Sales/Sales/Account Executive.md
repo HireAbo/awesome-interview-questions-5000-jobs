@@ -2,6 +2,8 @@
 
 Welcome to the Account Executive Interview Preparation ! This resource is designed to help you ace your Account Executive interviews with confidence.
 
+A Sales Account Executive is a crucial role in the retail and sales industry. As an Account Executive, your primary responsibility is to drive revenue growth by acquiring new clients and maintaining strong relationships with existing ones. You will be responsible for meeting sales targets, negotiating contracts, and ensuring customer satisfaction. This role requires exceptional communication and interpersonal skills to effectively understand client needs and offer appropriate solutions. Additionally, you will be expected to stay updated on industry trends, competitor activities, and market conditions to identify new business opportunities. A successful Sales Account Executive will possess strong sales acumen, a proactive approach, and a passion for building and maintaining long-term client partnerships.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Account Executive or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Account Executive interviews to help you prepare and succeed.

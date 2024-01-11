@@ -2,6 +2,8 @@
 
 Welcome to the Copywriter Interview Preparation ! This resource is designed to help you ace your Copywriter interviews with confidence.
 
+A Copywriter is a professional who specializes in crafting persuasive and compelling written content for marketing and advertising purposes. This role plays a crucial part in the field of business and management, specifically in marketing strategies. Copywriters are responsible for creating engaging copy for various platforms, including websites, social media, print materials, and more. Their main goal is to captivate the target audience and drive them to take action, whether it's making a purchase, signing up for a service, or subscribing to a newsletter. Strong writing skills, creativity, and the ability to understand consumer psychology are essential for a successful career as a Copywriter.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Copywriter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Copywriter interviews to help you prepare and succeed.

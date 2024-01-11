@@ -2,6 +2,8 @@
 
 Welcome to the Cloud Service Desk Analyst Interview Preparation ! This resource is designed to help you ace your Cloud Service Desk Analyst interviews with confidence.
 
+Information Technology (IT) is a field that encompasses the management and use of technology to store, retrieve, transmit, and manipulate data. Cloud Computing is a subset of IT that involves the delivery of computing services over the internet, allowing organizations to access and use shared resources, software, and information on-demand. Within the realm of Cloud Computing, a Cloud Service Desk Analyst plays a crucial role in providing technical support and assistance to users of cloud-based systems and applications. They are responsible for troubleshooting, resolving issues, and ensuring smooth functioning of cloud services, helping organizations maximize the benefits of cloud technology.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cloud Service Desk Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cloud Service Desk Analyst interviews to help you prepare and succeed.

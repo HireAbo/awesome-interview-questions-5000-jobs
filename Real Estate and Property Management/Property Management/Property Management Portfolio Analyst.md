@@ -2,6 +2,8 @@
 
 Welcome to the Property Management Portfolio Analyst Interview Preparation ! This resource is designed to help you ace your Property Management Portfolio Analyst interviews with confidence.
 
+A Property Management Portfolio Analyst plays a vital role in the real estate and property management industry. This professional is responsible for analyzing and managing a portfolio of properties on behalf of property owners or management companies. Their main objective is to ensure the optimal performance and profitability of each property within the portfolio. The analyst conducts in-depth financial analysis, market research, and property valuations to identify potential risks and opportunities. They also develop and implement strategic plans to maximize property values, minimize vacancies, and improve tenant relations. The Property Management Portfolio Analyst must possess strong analytical, communication, and problem-solving skills to excel in this dynamic and fast-paced field.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Property Management Portfolio Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Property Management Portfolio Analyst interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Business Broker Interview Preparation ! This resource is designed to help you ace your Business Broker interviews with confidence.
 
+A business broker is a professional who assists individuals or companies in buying or selling businesses. They act as intermediaries between buyers and sellers, facilitating the entire transaction process. Business brokers possess a deep understanding of the market, industry trends, and valuation techniques. Their primary role is to evaluate businesses, determine their market value, and develop marketing strategies to attract potential buyers. They also provide guidance and assistance throughout the negotiation and due diligence process. Business brokers are skilled in maintaining confidentiality and ensuring a smooth transition for both parties involved. Their expertise in business and management enables them to offer comprehensive solutions to clients seeking to maximize their investments or exit strategies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Business Broker or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Business Broker interviews to help you prepare and succeed.

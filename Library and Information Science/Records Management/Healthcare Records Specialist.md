@@ -2,6 +2,8 @@
 
 Welcome to the Healthcare Records Specialist Interview Preparation ! This resource is designed to help you ace your Healthcare Records Specialist interviews with confidence.
 
+Library and Information Science (LIS) is a multidisciplinary field that focuses on the management and organization of information resources. Within the realm of LIS, one specialized area is records management, which involves the systematic control of an organization's records throughout their lifecycle. One specific job within records management is that of a Healthcare Records Specialist. These professionals are responsible for managing and maintaining the medical records of patients within healthcare settings. They ensure that records are accurately organized, stored, and accessible, while also adhering to legal and regulatory requirements. Healthcare Records Specialists play a crucial role in maintaining the integrity and confidentiality of patient information, supporting effective healthcare delivery, and facilitating research and analysis in the healthcare industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Healthcare Records Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Healthcare Records Specialist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Advertising Sales Representative Interview Preparation ! This resource is designed to help you ace your Advertising Sales Representative interviews with confidence.
 
+An Advertising Sales Representative is a critical role within the field of Marketing and Business Management. This position involves promoting and selling advertising space to potential clients in various mediums such as print, online, radio, or television. The primary objective is to increase revenue by securing advertising contracts and partnerships. This role requires excellent communication and negotiation skills, as well as the ability to build and maintain strong relationships with clients. An Advertising Sales Representative should be knowledgeable about the market, target audience, and competitors to effectively pitch advertising solutions that meet clients' objectives. This job requires a proactive and persuasive approach to drive sales and achieve revenue targets.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Advertising Sales Representative or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Advertising Sales Representative interviews to help you prepare and succeed.

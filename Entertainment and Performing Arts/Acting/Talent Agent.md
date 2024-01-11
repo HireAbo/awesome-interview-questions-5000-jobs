@@ -2,6 +2,8 @@
 
 Welcome to the Talent Agent Interview Preparation ! This resource is designed to help you ace your Talent Agent interviews with confidence.
 
+A talent agent plays a crucial role in the world of entertainment and performing arts, specifically in the field of acting. These professionals act as mediators between actors and casting directors, helping actors secure auditions, negotiate contracts, and land roles in television, film, theater, and other performance mediums. Talent agents possess a deep understanding of the industry, maintaining strong relationships with casting professionals and staying updated on current trends and opportunities. They use their expertise to identify talented individuals, develop their careers, and strategically market them to industry decision-makers. Acting talent agents are instrumental in shaping the careers of actors, opening doors to new opportunities, and navigating the complex landscape of the entertainment industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Talent Agent or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Talent Agent interviews to help you prepare and succeed.

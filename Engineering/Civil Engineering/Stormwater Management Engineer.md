@@ -2,6 +2,8 @@
 
 Welcome to the Stormwater Management Engineer Interview Preparation ! This resource is designed to help you ace your Stormwater Management Engineer interviews with confidence.
 
+A Stormwater Management Engineer is a specialized professional within the field of Civil Engineering who focuses on designing and implementing effective stormwater management systems. These engineers play a crucial role in ensuring proper drainage and minimizing the environmental impact caused by stormwater runoff. They are responsible for analyzing and assessing the impact of stormwater on infrastructure, developing strategies to control and treat stormwater, and designing drainage systems that meet regulatory requirements. Stormwater Management Engineers also collaborate with other professionals, such as urban planners and environmental scientists, to develop sustainable and cost-effective solutions. Their expertise is vital in designing resilient and sustainable stormwater management systems that protect communities and the environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Stormwater Management Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Stormwater Management Engineer interviews to help you prepare and succeed.

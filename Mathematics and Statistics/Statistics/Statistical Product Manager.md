@@ -2,6 +2,8 @@
 
 Welcome to the Statistical Product Manager Interview Preparation ! This resource is designed to help you ace your Statistical Product Manager interviews with confidence.
 
+A Statistical Product Manager is a professional responsible for overseeing the development and management of statistical products within an organization. This role requires a strong background in mathematics and statistics, as well as expertise in data analysis and interpretation. The Statistical Product Manager collaborates with cross-functional teams to define product requirements, identify market trends, and develop statistical models and methodologies. They also play a crucial role in ensuring the accuracy and reliability of statistical products by conducting quality assurance tests and implementing data validation processes. This role combines a deep understanding of mathematics and statistics with strong project management and communication skills to drive the success of statistical products in various industries.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Statistical Product Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Statistical Product Manager interviews to help you prepare and succeed.

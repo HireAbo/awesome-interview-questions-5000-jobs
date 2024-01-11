@@ -2,6 +2,8 @@
 
 Welcome to the Judicial Assistant Interview Preparation ! This resource is designed to help you ace your Judicial Assistant interviews with confidence.
 
+A career in Law and Criminal Justice as a Paralegal or Judicial Assistant offers an exciting opportunity to play a crucial role in the legal system. As a Paralegal, you will work closely with attorneys, performing various tasks such as conducting legal research, drafting legal documents, and assisting in trial preparations. Your knowledge of the law and attention to detail will be essential in ensuring the smooth running of legal proceedings. On the other hand, as a Judicial Assistant, you will provide administrative support to judges, maintain court records, schedule hearings, and assist in managing courtrooms. Both positions require excellent communication skills, organizational abilities, and a passion for justice.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Judicial Assistant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Judicial Assistant interviews to help you prepare and succeed.

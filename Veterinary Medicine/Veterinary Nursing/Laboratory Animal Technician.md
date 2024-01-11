@@ -2,6 +2,8 @@
 
 Welcome to the Laboratory Animal Technician Interview Preparation ! This resource is designed to help you ace your Laboratory Animal Technician interviews with confidence.
 
+Veterinary Medicine is a branch of medical science that focuses on the prevention, diagnosis, and treatment of diseases and injuries in animals. It involves providing medical care and conducting research to improve animal health and welfare. Within Veterinary Medicine, Veterinary Nursing is a specialized field that involves providing support and assistance to veterinarians in various clinical settings. Veterinary nurses are responsible for administering medications, assisting in surgeries, monitoring patients, and educating pet owners about animal care. Another related occupation is that of a Laboratory Animal Technician, who is responsible for the care, handling, and well-being of animals used in research settings. They ensure the animals' comfort, monitor their health, and maintain cleanliness in laboratory environments.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Laboratory Animal Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Laboratory Animal Technician interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Marine Surveyor Interview Preparation ! This resource is designed to help you ace your Marine Surveyor interviews with confidence.
 
+A Marine Surveyor plays a vital role in the Transportation and Logistics sector, specifically in Maritime Operations. This profession involves conducting inspections and assessments of ships, boats, and other marine vessels to ensure compliance with safety regulations and standards. Marine Surveyors inspect various aspects of the vessel, such as its structure, machinery, equipment, and cargo, to identify any potential risks or defects. They also evaluate the vessel's condition for insurance purposes, assess damages in case of accidents, and provide recommendations for repairs or improvements. With their in-depth knowledge of maritime operations and extensive experience in the field, Marine Surveyors contribute to the safe and efficient transportation of goods and passengers by sea.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Marine Surveyor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Marine Surveyor interviews to help you prepare and succeed.

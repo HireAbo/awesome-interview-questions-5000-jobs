@@ -2,6 +2,8 @@
 
 Welcome to the Project Director Interview Preparation ! This resource is designed to help you ace your Project Director interviews with confidence.
 
+A Project Director is a key role in the field of project management within the business and management sector. As the leader of a project, the Project Director is responsible for overseeing the planning, execution, and successful completion of projects. They work closely with stakeholders, team members, and clients to ensure that project goals and objectives are met within the allocated time frame and budget. This role requires strong leadership skills, excellent communication, and the ability to multitask and prioritize effectively. A Project Director must possess extensive knowledge of project management methodologies and tools, and be adept at problem-solving and decision-making to drive project success.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Project Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Project Director interviews to help you prepare and succeed.

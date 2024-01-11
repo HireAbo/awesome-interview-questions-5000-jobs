@@ -2,6 +2,8 @@
 
 Welcome to the Learning Support Teacher Interview Preparation ! This resource is designed to help you ace your Learning Support Teacher interviews with confidence.
 
+A Learning Support Teacher, also known as a Special Education Teacher, plays a crucial role in the education of students with learning disabilities and special needs. These teachers work closely with students who require additional support to help them overcome academic and behavioral challenges. They design and implement individualized learning plans, adapting teaching methods to cater to the unique needs of each student. Learning Support Teachers collaborate with other educators, parents, and professionals to create an inclusive and supportive learning environment. They assess students' progress, provide feedback, and offer strategies to enhance their learning experience. Their dedication and expertise ensure that students with special needs receive the necessary support to succeed academically and socially.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Learning Support Teacher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Learning Support Teacher interviews to help you prepare and succeed.

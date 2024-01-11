@@ -2,6 +2,8 @@
 
 Welcome to the Terminal Radar Approach Control Specialist Interview Preparation ! This resource is designed to help you ace your Terminal Radar Approach Control Specialist interviews with confidence.
 
+The job of a Terminal Radar Approach Control (TRACON) Specialist is an integral part of the aviation and aerospace industry, specifically in air traffic control. These specialists are responsible for ensuring the safe and efficient movement of aircraft in the terminal airspace. They use radar systems to monitor the aircraft within their assigned area, provide instructions to pilots for takeoff, landing, and during flight, and maintain communication with pilots and other air traffic control personnel. TRACON specialists play a crucial role in managing the flow of air traffic, preventing collisions, and promoting aviation safety. Their expertise and attention to detail are vital for smooth operations in busy terminal areas.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Terminal Radar Approach Control Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Terminal Radar Approach Control Specialist interviews to help you prepare and succeed.

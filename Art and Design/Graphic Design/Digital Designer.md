@@ -2,6 +2,8 @@
 
 Welcome to the Digital Designer Interview Preparation ! This resource is designed to help you ace your Digital Designer interviews with confidence.
 
+A Digital Designer is a professional who combines artistic ability with technical expertise to create visually appealing and functional designs for various digital platforms. They utilize design software and digital tools to develop visual concepts, layouts, and graphics. Their primary role is to communicate ideas and messages effectively through digital mediums such as websites, mobile applications, and social media platforms. Digital Designers possess a strong understanding of user experience (UX) and user interface (UI) design principles, as well as knowledge of typography, color theory, and composition. They collaborate closely with clients and creative teams to ensure that the final design aligns with the brand's vision and objectives. Overall, Digital Designers play a crucial role in creating visually captivating and engaging digital experiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Digital Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Digital Designer interviews to help you prepare and succeed.

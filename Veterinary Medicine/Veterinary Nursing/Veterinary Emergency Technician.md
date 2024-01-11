@@ -2,6 +2,14 @@
 
 Welcome to the Veterinary Emergency Technician Interview Preparation ! This resource is designed to help you ace your Veterinary Emergency Technician interviews with confidence.
 
+Veterinary Medicine is a branch of healthcare that focuses on the prevention, diagnosis, and treatment of diseases and injuries in animals. It encompasses various roles, including Veterinary Nursing and Veterinary Emergency Technicians. 
+
+Veterinary Nursing involves providing support to veterinarians in clinics and hospitals. These professionals assist in administering medication, monitoring anesthesia during surgeries, performing laboratory tests, and educating pet owners on animal care. They play a vital role in ensuring the overall well-being of animals under a vet's care.
+
+On the other hand, Veterinary Emergency Technicians specialize in handling emergencies and critical care situations. They are trained to respond swiftly to animal emergencies, including trauma cases, poisonings, and life-threatening conditions. Their expertise lies in stabilizing and treating animals in distress, providing immediate medical attention, and assisting in life-saving procedures.
+
+Both Veterinary Nurses and Veterinary Emergency Technicians contribute significantly to the veterinary healthcare field, ensuring the welfare of animals and supporting veterinary professionals in delivering quality care.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Veterinary Emergency Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Veterinary Emergency Technician interviews to help you prepare and succeed.

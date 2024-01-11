@@ -2,6 +2,8 @@
 
 Welcome to the Transplant Nurse Interview Preparation ! This resource is designed to help you ace your Transplant Nurse interviews with confidence.
 
+A Transplant Nurse is a specialized healthcare professional who plays a crucial role in the field of healthcare and medicine, particularly within the nursing profession. These nurses are highly trained and skilled in providing care to patients who are undergoing organ transplantation procedures. They work closely with surgeons, physicians, and other healthcare professionals to ensure the successful transplantation of organs and the overall well-being of the patients before, during, and after the procedure. Transplant Nurses are responsible for assessing patients' medical history, coordinating pre-transplant evaluations, monitoring patients' vital signs, administering medications, and educating patients and their families on post-transplant care. Their expertise and compassion make them an invaluable asset in the field of healthcare and medicine, contributing to the improvement and preservation of patients' lives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Transplant Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Transplant Nurse interviews to help you prepare and succeed.

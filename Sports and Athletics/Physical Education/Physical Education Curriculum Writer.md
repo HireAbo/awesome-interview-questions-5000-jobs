@@ -2,6 +2,8 @@
 
 Welcome to the Physical Education Curriculum Writer Interview Preparation ! This resource is designed to help you ace your Physical Education Curriculum Writer interviews with confidence.
 
+A Physical Education Curriculum Writer is responsible for developing and designing educational materials that focus on sports and athletics in the field of Physical Education. This role requires a deep understanding of sports and athletics, as well as a strong background in education and curriculum development. The main responsibilities of a Physical Education Curriculum Writer include researching and analyzing current trends and best practices in sports and athletics education, creating engaging and comprehensive lesson plans, assessments, and instructional materials, and collaborating with educators and subject matter experts to ensure the curriculum meets the needs of students. This job requires excellent writing and communication skills, attention to detail, and a passion for promoting physical fitness and well-being through sports and athletics education.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Physical Education Curriculum Writer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Physical Education Curriculum Writer interviews to help you prepare and succeed.

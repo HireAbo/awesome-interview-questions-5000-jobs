@@ -2,6 +2,8 @@
 
 Welcome to the Petrochemical Engineer Interview Preparation ! This resource is designed to help you ace your Petrochemical Engineer interviews with confidence.
 
+Petrochemical engineers play a crucial role in the chemical engineering field, specifically within the petrochemical industry. These professionals are responsible for designing, developing, and optimizing processes involved in the production of various petrochemical products, such as plastics, fertilizers, and synthetic fibers. Petrochemical engineers work closely with other engineers and scientists to develop innovative solutions for improving production efficiency, safety, and environmental impact. They conduct research, analyze data, and utilize advanced technologies to develop new processes, troubleshoot issues, and ensure compliance with industry regulations. Petrochemical engineers possess strong technical skills, problem-solving abilities, and a deep understanding of chemical engineering principles. Their work plays an essential role in meeting the growing demands of the petrochemical industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Petrochemical Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Petrochemical Engineer interviews to help you prepare and succeed.

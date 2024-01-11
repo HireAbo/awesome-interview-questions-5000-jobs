@@ -2,6 +2,8 @@
 
 Welcome to the Physical Activity and Health Promotion Specialist Interview Preparation ! This resource is designed to help you ace your Physical Activity and Health Promotion Specialist interviews with confidence.
 
+A Physical Activity and Health Promotion Specialist is a professional who focuses on promoting physical activity and wellness in individuals and communities. They play a crucial role in the field of Sports and Athletics and Physical Education. These specialists are responsible for developing and implementing programs that encourage physical activity, educate individuals about the benefits of exercise, and promote overall health and wellbeing. They work closely with schools, community centers, and healthcare organizations to design and deliver effective physical activity initiatives. With their expertise in exercise science, nutrition, and behavior change, they aim to improve the health and quality of life of individuals by encouraging regular physical activity and healthy lifestyle choices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Physical Activity and Health Promotion Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Physical Activity and Health Promotion Specialist interviews to help you prepare and succeed.

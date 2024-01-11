@@ -2,6 +2,8 @@
 
 Welcome to the Curriculum and Instruction Coach Interview Preparation ! This resource is designed to help you ace your Curriculum and Instruction Coach interviews with confidence.
 
+A Curriculum and Instruction Coach plays a crucial role in the field of education, specifically in curriculum development. This job involves collaborating with teachers, administrators, and other stakeholders to design and implement effective curriculum plans that align with educational standards and goals. The coach provides guidance and support to teachers in curriculum development, instructional strategies, and assessment techniques. They also facilitate professional development workshops and trainings to enhance teachers' understanding of curriculum content and instructional techniques. Additionally, the coach conducts regular assessments and evaluations to monitor the effectiveness of the curriculum and provides feedback for improvement. The Curriculum and Instruction Coach is a vital position that ensures quality education and enhances student learning outcomes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Curriculum and Instruction Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Curriculum and Instruction Coach interviews to help you prepare and succeed.

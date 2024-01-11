@@ -2,6 +2,8 @@
 
 Welcome to the Proteomics Scientist Interview Preparation ! This resource is designed to help you ace your Proteomics Scientist interviews with confidence.
 
+A Proteomics Scientist is a professional who specializes in the field of biology and research, specifically focusing on the study of proteins and their functions within living organisms. They employ advanced scientific techniques and tools to analyze and identify proteins, study their structures, interactions, and modifications, as well as investigate their roles in various biological processes. Proteomics Scientists are responsible for designing and conducting experiments, collecting and analyzing data, and interpreting research findings. They collaborate with other scientists and researchers to contribute to the advancement of knowledge in the field of biology and to develop new treatments and therapies for diseases.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Proteomics Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Proteomics Scientist interviews to help you prepare and succeed.

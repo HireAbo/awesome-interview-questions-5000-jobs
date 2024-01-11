@@ -2,6 +2,8 @@
 
 Welcome to the Fashion Retail Manager Interview Preparation ! This resource is designed to help you ace your Fashion Retail Manager interviews with confidence.
 
+A Fashion Retail Manager in the field of Art and Design plays a crucial role in the fashion industry. This job involves overseeing the operations of a fashion retail store, ensuring that it meets sales targets, customer satisfaction, and brand image. The Fashion Retail Manager is responsible for managing a team, analyzing market trends, and strategizing visual merchandising displays. They collaborate with designers, buyers, and suppliers to curate a collection that aligns with the brand's aesthetic and target audience. Additionally, they are responsible for inventory management, sales forecasting, and implementing effective marketing strategies to maximize profitability. The Fashion Retail Manager requires strong leadership skills, creativity, business acumen, and a passion for fashion.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Fashion Retail Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Fashion Retail Manager interviews to help you prepare and succeed.

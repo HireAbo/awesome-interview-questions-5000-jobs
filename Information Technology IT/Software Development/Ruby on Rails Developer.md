@@ -2,6 +2,8 @@
 
 Welcome to the Ruby on Rails Developer Interview Preparation ! This resource is designed to help you ace your Ruby on Rails Developer interviews with confidence.
 
+A Ruby on Rails Developer is a professional specializing in software development within the field of Information Technology (IT). They possess a strong understanding of the Ruby programming language and the Rails framework, which enables them to build robust and scalable web applications. Ruby on Rails Developers are responsible for designing, coding, testing, and debugging software applications using these technologies. They collaborate with cross-functional teams to gather requirements, analyze user needs, and implement solutions that meet business objectives. These professionals also ensure the performance, security, and optimization of the software applications. A Ruby on Rails Developer plays a crucial role in developing innovative and user-friendly web applications that drive business success.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Ruby on Rails Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Ruby on Rails Developer interviews to help you prepare and succeed.

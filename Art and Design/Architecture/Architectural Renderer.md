@@ -2,6 +2,8 @@
 
 Welcome to the Architectural Renderer Interview Preparation ! This resource is designed to help you ace your Architectural Renderer interviews with confidence.
 
+An architectural renderer plays a crucial role in the field of architecture and design. They are responsible for creating visually stunning and realistic presentations of architectural designs using various software and tools. Their primary objective is to bring the architect's vision to life by transforming two-dimensional drawings into three-dimensional renderings that showcase the intricate details, materials, lighting, and textures of a building or space. Through their expertise in modeling, texturing, and rendering techniques, architectural renderers provide clients, architects, and stakeholders with a clear understanding of what the finished project will look like. Their work is essential in helping clients make informed decisions and ensuring that the final design meets their expectations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Architectural Renderer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Architectural Renderer interviews to help you prepare and succeed.

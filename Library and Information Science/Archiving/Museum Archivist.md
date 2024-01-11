@@ -2,6 +2,8 @@
 
 Welcome to the Museum Archivist Interview Preparation ! This resource is designed to help you ace your Museum Archivist interviews with confidence.
 
+Library and Information Science (LIS) is a field that focuses on the organization, management, and dissemination of information in various formats. One specialization within LIS is archiving, which involves preserving and providing access to historical records and documents. Specifically, museum archivists play a crucial role in maintaining the records and artifacts of museums. They carefully catalog, arrange, and preserve these items to ensure their longevity and accessibility for researchers, historians, and the public. Museum archivists also collaborate with curators and exhibit designers to select and display relevant materials, helping to bring history to life for museum visitors. Their expertise in archival principles and practices is essential in preserving our cultural heritage for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Museum Archivist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Museum Archivist interviews to help you prepare and succeed.

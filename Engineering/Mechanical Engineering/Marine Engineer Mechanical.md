@@ -2,6 +2,8 @@
 
 Welcome to the Marine Engineer (Mechanical) Interview Preparation ! This resource is designed to help you ace your Marine Engineer (Mechanical) interviews with confidence.
 
+Marine engineering is a specialized branch of mechanical engineering that focuses on the design, construction, operation, and maintenance of marine vessels and structures. A marine engineer (mechanical) is responsible for ensuring the smooth functioning of machinery and systems on ships, submarines, oil rigs, and other marine structures. They work in collaboration with naval architects and other professionals to develop and implement innovative solutions for propulsion systems, heating, ventilation, and air conditioning (HVAC), and power generation. Marine engineers also conduct inspections, repairs, and troubleshooting to ensure the safety and efficiency of marine equipment. This dynamic field offers exciting opportunities to work in the maritime industry and contribute to the development of sustainable and efficient marine technologies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Marine Engineer (Mechanical) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Marine Engineer (Mechanical) interviews to help you prepare and succeed.

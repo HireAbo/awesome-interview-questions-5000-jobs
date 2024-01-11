@@ -2,6 +2,8 @@
 
 Welcome to the Tourism Educator Interview Preparation ! This resource is designed to help you ace your Tourism Educator interviews with confidence.
 
+Hospitality and Tourism is an industry that encompasses various sectors such as hotels, restaurants, travel agencies, and event planning. It focuses on providing exceptional customer service and creating memorable experiences for tourists and travelers. Within this industry, Tourism Management plays a crucial role in overseeing and coordinating the operations and activities related to travel and tourism. As a Tourism Educator, one would be responsible for teaching and training individuals aspiring to pursue careers in the field. This role involves designing and delivering courses, conducting research, and mentoring students. A Tourism Educator plays a significant role in shaping the future professionals of the industry by imparting theoretical knowledge and practical skills.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Tourism Educator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Tourism Educator interviews to help you prepare and succeed.

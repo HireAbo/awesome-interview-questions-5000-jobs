@@ -2,6 +2,8 @@
 
 Welcome to the Sales Forecast Analyst Interview Preparation ! This resource is designed to help you ace your Sales Forecast Analyst interviews with confidence.
 
+The role of a Sales Forecast Analyst in the field of Retail and Sales is to analyze data and trends to accurately predict future sales performance. This involves analyzing historical sales data, market trends, and customer behavior to create sales forecasts and projections. The Sales Forecast Analyst collaborates with cross-functional teams such as marketing, finance, and operations to gather relevant information and ensure accurate forecasting. They use various analytical tools and software to develop models and reports that provide insights into sales performance and identify potential opportunities or risks. The Sales Forecast Analyst plays a crucial role in helping businesses make informed decisions and improve their sales strategies to achieve their revenue targets.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sales Forecast Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sales Forecast Analyst interviews to help you prepare and succeed.

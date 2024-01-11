@@ -2,6 +2,8 @@
 
 Welcome to the Air Pollution Control Engineer Interview Preparation ! This resource is designed to help you ace your Air Pollution Control Engineer interviews with confidence.
 
+An Air Pollution Control Engineer in the field of Chemical Engineering plays a crucial role in protecting the environment and public health. They specialize in designing and implementing innovative technologies and strategies to minimize air pollution and manage its impact. These professionals are responsible for developing and evaluating pollution control systems, such as scrubbers, filters, and catalysts, to reduce emissions from industrial processes and power plants. They also conduct extensive research and analysis to identify the sources of pollution and propose effective solutions. With their expertise, Air Pollution Control Engineers contribute significantly to promoting sustainable practices and ensuring cleaner air for communities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Air Pollution Control Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Air Pollution Control Engineer interviews to help you prepare and succeed.

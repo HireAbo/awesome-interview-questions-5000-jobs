@@ -2,6 +2,8 @@
 
 Welcome to the Senior Project Manager Interview Preparation ! This resource is designed to help you ace your Senior Project Manager interviews with confidence.
 
+A Senior Project Manager is a leadership role within the field of project management. They are responsible for overseeing and managing complex projects from start to finish. This includes planning and organizing resources, setting project goals and objectives, and ensuring the project is delivered on time and within budget. Senior Project Managers also lead and motivate project teams, providing guidance and support throughout the project lifecycle. They are skilled in risk management, problem-solving, and decision-making, and have a solid understanding of project management methodologies and tools. With their experience and expertise, Senior Project Managers play a critical role in ensuring the successful completion of projects and achieving business goals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Senior Project Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Senior Project Manager interviews to help you prepare and succeed.

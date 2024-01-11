@@ -2,6 +2,8 @@
 
 Welcome to the Digital Preservation Archivist Interview Preparation ! This resource is designed to help you ace your Digital Preservation Archivist interviews with confidence.
 
+The field of Library and Information Science encompasses various roles and specializations, one of which is the Archiving domain. Archivists play a crucial role in preserving and managing collections of historical records and documents. Within this domain, a Digital Preservation Archivist is responsible for ensuring the long-term accessibility and integrity of digital content. This entails managing and maintaining digital collections, creating and implementing preservation strategies, conducting digital migration and conversion, and ensuring compliance with copyright and intellectual property laws. Digital Preservation Archivists possess expertise in digital formats, metadata standards, and preservation techniques, utilizing specialized software and systems to safeguard valuable digital assets for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Digital Preservation Archivist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Digital Preservation Archivist interviews to help you prepare and succeed.

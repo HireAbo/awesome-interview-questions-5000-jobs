@@ -2,6 +2,8 @@
 
 Welcome to the Astronomer Interview Preparation ! This resource is designed to help you ace your Astronomer interviews with confidence.
 
+Aviation and Aerospace is a fascinating field that encompasses the study and development of aircraft and spacecraft. Within this domain lies the Aerospace Technology sector, which focuses on designing, manufacturing, and operating various aerospace systems. One prominent profession within this sector is that of an Astronomer. Astronomers play a vital role in the advancement of our understanding of the universe. They explore celestial bodies, study celestial phenomena, and conduct research to unravel the mysteries of space. These professionals utilize advanced telescopes, satellites, and other sophisticated equipment to observe and analyze astronomical data. With their expertise, astronomers contribute to our knowledge of the cosmos and drive innovation in aerospace technology.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Astronomer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Astronomer interviews to help you prepare and succeed.

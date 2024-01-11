@@ -2,6 +2,8 @@
 
 Welcome to the Government Relations Specialist Interview Preparation ! This resource is designed to help you ace your Government Relations Specialist interviews with confidence.
 
+A Government Relations Specialist is a professional who specializes in managing communication and media relations for government agencies or organizations. They play a crucial role in shaping public opinion, managing relationships with the media, and ensuring effective communication between the government and its constituents. These specialists are responsible for developing and implementing strategic communication plans, crafting press releases, organizing media events, and providing guidance on crisis management. They also liaise with various stakeholders including politicians, community leaders, and interest groups to advocate for their organization's interests. Excellent communication skills, media savvy, and a thorough understanding of government processes are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Government Relations Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Government Relations Specialist interviews to help you prepare and succeed.

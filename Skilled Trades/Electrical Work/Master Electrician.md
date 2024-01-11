@@ -2,6 +2,8 @@
 
 Welcome to the Master Electrician Interview Preparation ! This resource is designed to help you ace your Master Electrician interviews with confidence.
 
+A Master Electrician job is a highly skilled trade within the field of electrical work. As a Master Electrician, individuals possess extensive knowledge and experience in electrical systems, codes, and regulations. They are responsible for overseeing and managing complex electrical projects, ensuring compliance with safety standards and regulations. Master Electricians are proficient in reading blueprints, installing electrical systems, troubleshooting electrical issues, and maintaining electrical equipment. They possess strong problem-solving abilities and excellent attention to detail. With their expertise, Master Electricians play a crucial role in ensuring the safe and efficient operation of electrical systems in residential, commercial, and industrial settings.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Master Electrician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Master Electrician interviews to help you prepare and succeed.

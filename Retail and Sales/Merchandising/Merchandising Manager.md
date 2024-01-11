@@ -2,6 +2,8 @@
 
 Welcome to the Merchandising Manager Interview Preparation ! This resource is designed to help you ace your Merchandising Manager interviews with confidence.
 
+A Merchandising Manager plays a pivotal role in the retail and sales industry, specifically in the field of merchandising. This job involves overseeing and coordinating the strategic planning, development, and execution of merchandising initiatives to drive sales and maximize profitability. The Merchandising Manager collaborates with cross-functional teams, such as marketing, operations, and product development, to ensure that the right products are available in the right places at the right time. They analyze market trends, consumer preferences, and sales data to inform product assortment decisions, pricing strategies, and promotional activities. Strong leadership, analytical skills, and a keen eye for detail are crucial for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Merchandising Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Merchandising Manager interviews to help you prepare and succeed.

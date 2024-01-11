@@ -2,6 +2,8 @@
 
 Welcome to the Cryptanalyst Interview Preparation ! This resource is designed to help you ace your Cryptanalyst interviews with confidence.
 
+Mathematics and statistics are two closely related fields that play a crucial role in various domains, including cryptography. Cryptanalysts are professionals who leverage their mathematical and statistical skills to decrypt coded messages and ensure secure communication. These experts analyze and interpret complex algorithms, patterns, and mathematical models to break encryption codes and uncover hidden information. By using advanced mathematical techniques and statistical analysis, cryptanalysts help organizations protect sensitive data and identify vulnerabilities in encryption systems. They work in collaboration with computer scientists, statisticians, and security experts to develop robust encryption methods and enhance data protection strategies. Cryptanalysts play a vital role in safeguarding sensitive information in today's technology-driven world.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cryptanalyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cryptanalyst interviews to help you prepare and succeed.

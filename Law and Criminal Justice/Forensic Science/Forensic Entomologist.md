@@ -2,6 +2,8 @@
 
 Welcome to the Forensic Entomologist Interview Preparation ! This resource is designed to help you ace your Forensic Entomologist interviews with confidence.
 
+A forensic entomologist is a specialized professional within the field of forensic science, focusing on the study of insects and their role in criminal investigations. This unique job involves the examination of insect evidence found at crime scenes to determine the time of death, location of crime, and other crucial information. By analyzing the life cycle of insects that colonize decomposing bodies, forensic entomologists can provide valuable insights into criminal cases. They collect, identify, and analyze insect specimens found on corpses or at crime scenes, utilizing their knowledge of insect behavior, ecology, and forensic science techniques. Their expertise plays a crucial role in assisting law enforcement agencies and the criminal justice system in solving crimes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forensic Entomologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forensic Entomologist interviews to help you prepare and succeed.

@@ -2,6 +2,10 @@
 
 Welcome to the Librarian Interview Preparation ! This resource is designed to help you ace your Librarian interviews with confidence.
 
+Library and Information Science (LIS) is an academic field that focuses on the management, organization, and dissemination of information in various formats. It encompasses the study of libraries, information systems, and the role of information in society. Librarianship, a subfield of LIS, is the professional practice of working in libraries, where librarians apply their knowledge and skills to help people access and utilize information effectively.
+
+Librarians play a crucial role in connecting individuals with the information they need. They assist patrons in finding resources, conducting research, and navigating complex databases. Librarians also curate collections, develop programs and services, and provide instruction on information literacy. They are adept at using technology and possess strong organizational and communication skills. Librarianship is a rewarding profession that promotes intellectual growth, fosters lifelong learning, and serves as a vital resource for communities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Librarian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Librarian interviews to help you prepare and succeed.

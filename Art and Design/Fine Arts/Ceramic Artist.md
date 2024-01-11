@@ -2,6 +2,8 @@
 
 Welcome to the Ceramic Artist Interview Preparation ! This resource is designed to help you ace your Ceramic Artist interviews with confidence.
 
+A ceramic artist is a skilled professional who specializes in creating unique and intricate artwork using clay and other ceramics materials. This job requires a deep understanding of various ceramic techniques, including wheel throwing, handbuilding, glazing, and firing. Ceramic artists often use their creativity and artistic vision to design and produce functional pottery, decorative sculptures, and intricate ceramic installations. They may work in a range of settings, such as art studios, galleries, or even their own workshops. Attention to detail, patience, and a strong sense of aesthetics are crucial for a ceramic artist to succeed in this field. Their work adds beauty and creativity to our everyday lives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Ceramic Artist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Ceramic Artist interviews to help you prepare and succeed.

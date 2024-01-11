@@ -2,6 +2,8 @@
 
 Welcome to the Actuarial Director Interview Preparation ! This resource is designed to help you ace your Actuarial Director interviews with confidence.
 
+Mathematics and Statistics are fundamental branches of study that involve the analysis and interpretation of data, as well as the application of mathematical principles in problem-solving. Actuarial Science, on the other hand, is a field that utilizes mathematical and statistical tools to assess and manage risks, particularly in the insurance and financial industries. Within the realm of Actuarial Science, the role of an Actuarial Director is of paramount importance. An Actuarial Director is responsible for leading a team of actuaries, overseeing and guiding them in the development and implementation of actuarial strategies, and providing crucial insights and recommendations to senior management. This role requires a deep understanding of mathematics, statistics, and risk assessment, as well as excellent leadership and communication skills.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Actuarial Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Actuarial Director interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Financial Records Coordinator Interview Preparation ! This resource is designed to help you ace your Financial Records Coordinator interviews with confidence.
 
+Library and Information Science (LIS) is a multidisciplinary field that focuses on the organization, management, and dissemination of information in various formats. Within LIS, Records Management plays a crucial role in maintaining and preserving valuable records for organizations. As part of the Records Management profession, the Financial Records Coordinator job entails overseeing the management of financial records within an organization. This includes tasks such as creating and implementing efficient record-keeping systems, ensuring compliance with legal and regulatory requirements, maintaining accurate and up-to-date financial records, and coordinating with other departments to ensure seamless access to financial information. The Financial Records Coordinator plays a vital role in safeguarding financial data and ensuring its accessibility for decision-making and auditing purposes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Financial Records Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Financial Records Coordinator interviews to help you prepare and succeed.

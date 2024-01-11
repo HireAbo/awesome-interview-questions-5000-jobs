@@ -2,6 +2,8 @@
 
 Welcome to the Online Community Manager Interview Preparation ! This resource is designed to help you ace your Online Community Manager interviews with confidence.
 
+The role of an Online Community Manager is to oversee and engage with online communities on various digital platforms. This job requires excellent communication skills and a deep understanding of social media and online trends. Online Community Managers are responsible for building and maintaining relationships with community members, fostering a sense of belonging and engagement within the community. They create and curate content, moderate discussions, and provide support to community members. Additionally, they analyze data and feedback to optimize community strategies and improve user experience. In this digital age, Online Community Managers play a crucial role in enhancing brand reputation, driving customer engagement, and fostering a sense of community amongst online users.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Online Community Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Online Community Manager interviews to help you prepare and succeed.

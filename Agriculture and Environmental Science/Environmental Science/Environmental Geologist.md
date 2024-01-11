@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Geologist Interview Preparation ! This resource is designed to help you ace your Environmental Geologist interviews with confidence.
 
+Environmental Geologists are professionals who apply their knowledge of geology to understand and manage the impact of human activities on the environment. In the field of Agriculture and Environmental Science, their role is crucial in assessing and mitigating the potential environmental hazards associated with agricultural practices. These professionals work to identify and analyze the geological factors that can affect soil quality, water resources, and overall ecosystem health. They conduct thorough assessments of soil and water samples, monitor pollution levels, and develop strategies to minimize environmental damage caused by agriculture. Environmental Geologists play a vital role in promoting sustainable farming practices, ensuring the long-term viability of agricultural systems, and safeguarding the environment for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Geologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Geologist interviews to help you prepare and succeed.

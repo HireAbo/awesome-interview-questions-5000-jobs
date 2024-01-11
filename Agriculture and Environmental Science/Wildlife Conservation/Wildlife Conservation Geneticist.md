@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife Conservation Geneticist Interview Preparation ! This resource is designed to help you ace your Wildlife Conservation Geneticist interviews with confidence.
 
+Agriculture and Environmental Science is a multifaceted field that encompasses the study of natural resources, ecosystems, environmental issues, and sustainable agricultural practices. It aims to understand the interplay between human activities and the environment, seeking to find solutions that promote conservation and sustainable development. Within this field, Wildlife Conservation plays a crucial role in preserving the Earth's biodiversity and protecting endangered species. A Wildlife Conservation Geneticist is a specialized professional who focuses on studying and managing the genetic diversity within wildlife populations. They utilize genetic techniques to assess population health, identify genetic markers, and develop strategies to maintain genetic diversity, ultimately ensuring the long-term survival of species in their natural habitats.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Conservation Geneticist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Conservation Geneticist interviews to help you prepare and succeed.

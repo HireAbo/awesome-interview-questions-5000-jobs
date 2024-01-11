@@ -2,6 +2,8 @@
 
 Welcome to the Foreign Service Officer Interview Preparation ! This resource is designed to help you ace your Foreign Service Officer interviews with confidence.
 
+A Foreign Service Officer (FSO) is a crucial component of the diplomatic corps, representing their home country's interests abroad. FSOs work within the field of Political Science, a branch of Social Sciences that focuses on the study of power, governance, and political systems. As a diplomat, a Foreign Service Officer plays a pivotal role in analyzing and shaping foreign policy, promoting international relations, and managing diplomatic missions. They are responsible for conducting negotiations, fostering cultural exchange, providing consular services, and assisting citizens abroad. FSOs possess strong interpersonal skills, cultural sensitivity, and a deep understanding of global affairs, making them valuable assets in maintaining peaceful and collaborative relationships between nations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Foreign Service Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Foreign Service Officer interviews to help you prepare and succeed.

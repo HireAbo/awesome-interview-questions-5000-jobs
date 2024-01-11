@@ -2,6 +2,8 @@
 
 Welcome to the Sustainable Interior Designer Interview Preparation ! This resource is designed to help you ace your Sustainable Interior Designer interviews with confidence.
 
+A sustainable interior designer is a professional who specializes in creating environmentally-friendly and sustainable spaces. They combine their knowledge of art and design with a deep understanding of sustainable practices, materials, and technologies to create aesthetically pleasing and eco-friendly interiors. These designers prioritize the use of renewable resources, energy efficiency, and waste reduction in their projects. They carefully choose materials that are non-toxic, recyclable, and have a low carbon footprint. Sustainable interior designers also focus on incorporating natural light, utilizing energy-efficient lighting systems, and implementing efficient heating, cooling, and ventilation systems. By combining their passion for art and design with a commitment to sustainability, these professionals create spaces that are not only visually appealing but also promote a healthier and more sustainable future.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sustainable Interior Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sustainable Interior Designer interviews to help you prepare and succeed.

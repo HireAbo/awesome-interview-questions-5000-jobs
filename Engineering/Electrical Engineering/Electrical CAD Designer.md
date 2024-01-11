@@ -2,6 +2,8 @@
 
 Welcome to the Electrical CAD Designer Interview Preparation ! This resource is designed to help you ace your Electrical CAD Designer interviews with confidence.
 
+An Electrical CAD Designer is a specialized engineering professional who utilizes Computer-Aided Design (CAD) software to create and design electrical systems and components. They work closely with electrical engineers and other professionals to develop detailed and accurate drawings, schematics, and blueprints for electrical systems, such as power distribution, lighting, and control systems. Electrical CAD Designers also ensure compliance with industry standards and codes while considering factors like safety, efficiency, and cost-effectiveness. They possess a deep understanding of electrical principles, equipment, and materials, as well as proficiency in CAD software tools. Their expertise plays a crucial role in the successful implementation and maintenance of electrical systems in various industries.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Electrical CAD Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Electrical CAD Designer interviews to help you prepare and succeed.

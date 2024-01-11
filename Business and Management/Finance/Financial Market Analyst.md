@@ -2,6 +2,8 @@
 
 Welcome to the Financial Market Analyst Interview Preparation ! This resource is designed to help you ace your Financial Market Analyst interviews with confidence.
 
+A Financial Market Analyst is a professional responsible for analyzing and evaluating financial data and trends within the financial markets. They play a crucial role in assisting individuals, companies, and financial institutions in making informed investment decisions. The job requires a deep understanding of financial markets, including stocks, bonds, commodities, and currencies. Financial Market Analysts conduct extensive research, monitor market conditions, and interpret economic indicators to provide accurate forecasts and recommendations. They analyze financial statements, track market movements, and identify potential investment opportunities or risks. Strong analytical skills, attention to detail, and proficiency in financial modeling and data analysis are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Financial Market Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Financial Market Analyst interviews to help you prepare and succeed.

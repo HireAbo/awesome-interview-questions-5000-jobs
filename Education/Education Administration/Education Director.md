@@ -2,6 +2,8 @@
 
 Welcome to the Education Director Interview Preparation ! This resource is designed to help you ace your Education Director interviews with confidence.
 
+An Education Director is a vital role within the field of Education Administration. They are responsible for overseeing the planning, development, and implementation of educational programs and policies within an educational institution. This leadership position requires strong organizational skills, as Education Directors collaborate with teachers, staff, and stakeholders to ensure the effective functioning of the institution. They play a crucial role in curriculum development, student assessment, and staff training. Additionally, Education Directors are responsible for maintaining compliance with local, state, and federal regulations, as well as keeping abreast of current educational trends and best practices. Their ultimate goal is to provide a high-quality educational experience for students and promote academic excellence.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Education Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Education Director interviews to help you prepare and succeed.

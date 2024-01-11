@@ -2,6 +2,8 @@
 
 Welcome to the Television Continuity Director Interview Preparation ! This resource is designed to help you ace your Television Continuity Director interviews with confidence.
 
+A Television Continuity Director is responsible for ensuring seamless and consistent broadcasting of television programs. They play a crucial role in maintaining the flow of a television production by managing the smooth transition between different segments, commercials, and live events. Their primary objective is to maintain a high level of visual and audio consistency throughout the program. Continuity directors work closely with producers, directors, and technical staff to ensure that the program adheres to the predetermined schedule and meets the desired quality standards. This role requires excellent communication skills, attention to detail, and the ability to work under pressure to ensure a flawless viewing experience for the audience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Television Continuity Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Television Continuity Director interviews to help you prepare and succeed.

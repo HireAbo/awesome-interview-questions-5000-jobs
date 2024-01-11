@@ -2,6 +2,8 @@
 
 Welcome to the Public Opinion Analyst Interview Preparation ! This resource is designed to help you ace your Public Opinion Analyst interviews with confidence.
 
+A Public Opinion Analyst in the field of Political Science plays a crucial role in studying and interpreting public opinion to provide valuable insights into political decision-making processes. They are responsible for conducting extensive research, surveys, and data analysis to gauge the views, attitudes, and preferences of the public regarding various political issues or candidates. Public Opinion Analysts collect and analyze data from diverse sources, such as polls, interviews, focus groups, and social media platforms. Their findings are used by politicians, policymakers, and campaign strategists to shape their messaging and policy proposals according to the desires and concerns of the general public. This role requires excellent analytical skills, strong research abilities, and a deep understanding of political dynamics and social trends.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Public Opinion Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Public Opinion Analyst interviews to help you prepare and succeed.

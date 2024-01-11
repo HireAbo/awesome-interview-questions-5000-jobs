@@ -2,6 +2,8 @@
 
 Welcome to the Physical Education Tutor Interview Preparation ! This resource is designed to help you ace your Physical Education Tutor interviews with confidence.
 
+A Physical Education Tutor job in the field of Sports and Athletics involves providing specialized instruction and guidance to students in physical education classes. The tutor plays a crucial role in helping students develop their physical abilities, improve their fitness levels, and enhance their overall athletic performance. They design and implement personalized training programs, conduct fitness assessments, and offer guidance on proper exercise techniques and injury prevention. The tutor also educates students on the importance of physical activity and healthy lifestyle choices. Additionally, they may organize and supervise sports activities and events, fostering teamwork, sportsmanship, and a love for physical education among students.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Physical Education Tutor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Physical Education Tutor interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Mathematics Content Developer Interview Preparation ! This resource is designed to help you ace your Mathematics Content Developer interviews with confidence.
 
+A Mathematics Content Developer is responsible for creating and designing educational materials related to mathematics. They play a vital role in developing curriculum, textbooks, online courses, and other resources that help students understand complex mathematical concepts. These professionals possess a strong background in mathematics and are skilled in analyzing and solving mathematical problems. They have a deep understanding of mathematical theories, formulas, and principles, and are able to effectively communicate these concepts to students of all levels. A Mathematics Content Developer also stays updated with the latest advancements in the field and ensures that the content is accurate, engaging, and aligned with educational standards.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Mathematics Content Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Mathematics Content Developer interviews to help you prepare and succeed.

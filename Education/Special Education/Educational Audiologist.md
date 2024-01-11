@@ -2,6 +2,8 @@
 
 Welcome to the Educational Audiologist Interview Preparation ! This resource is designed to help you ace your Educational Audiologist interviews with confidence.
 
+An Educational Audiologist is a specialized professional who works in the field of special education, focusing on students with hearing impairments or related auditory disorders. They play a crucial role in ensuring that these students have equal access to education by assessing and managing their hearing needs within educational settings. Educational audiologists work closely with teachers, parents, and students to develop individualized plans and interventions to support academic success. They conduct comprehensive hearing evaluations, provide recommendations for assistive listening devices or technology, and collaborate with other professionals to create inclusive learning environments. Their expertise helps facilitate effective communication and participation for students with hearing challenges, enabling them to thrive academically and socially.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Educational Audiologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Educational Audiologist interviews to help you prepare and succeed.

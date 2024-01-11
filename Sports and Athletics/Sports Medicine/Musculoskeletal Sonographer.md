@@ -2,6 +2,8 @@
 
 Welcome to the Musculoskeletal Sonographer Interview Preparation ! This resource is designed to help you ace your Musculoskeletal Sonographer interviews with confidence.
 
+A Musculoskeletal Sonographer specializing in Sports Medicine plays a crucial role in diagnosing and treating sports-related injuries. They are highly skilled professionals who use ultrasound technology to assess and evaluate the musculoskeletal system of athletes and individuals engaged in physical activities. These sonographers work closely with sports medicine physicians, orthopedic surgeons, physiotherapists, and other healthcare professionals to provide accurate diagnoses and develop appropriate treatment plans. Their responsibilities include performing ultrasound examinations, analyzing images, identifying abnormalities or injuries in muscles, tendons, ligaments, and joints, and providing detailed reports to aid in the management of sports injuries. Their expertise helps in improving athletes' performance, preventing further injuries, and guiding rehabilitation programs for a safe return to sports activities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Musculoskeletal Sonographer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Musculoskeletal Sonographer interviews to help you prepare and succeed.

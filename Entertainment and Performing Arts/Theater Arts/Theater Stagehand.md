@@ -2,6 +2,8 @@
 
 Welcome to the Theater Stagehand Interview Preparation ! This resource is designed to help you ace your Theater Stagehand interviews with confidence.
 
+A Theater Stagehand job is an integral part of the Entertainment and Performing Arts industry, specifically in Theater Arts. These professionals play a crucial role in the production of live performances, ensuring the smooth running of shows behind the scenes. Theater stagehands are responsible for various tasks, including setting up and dismantling stage equipment, props, and scenery, operating lighting and sound systems, managing backstage logistics, and assisting with costume changes or scene transitions. They work closely with stage managers, directors, actors, and other production staff to ensure that performances are executed flawlessly, providing an immersive and captivating experience for the audience. A Theater Stagehand job requires physical stamina, technical skills, coordination, and a passion for bringing theatrical productions to life.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Theater Stagehand or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Theater Stagehand interviews to help you prepare and succeed.

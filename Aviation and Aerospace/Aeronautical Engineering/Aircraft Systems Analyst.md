@@ -2,6 +2,8 @@
 
 Welcome to the Aircraft Systems Analyst Interview Preparation ! This resource is designed to help you ace your Aircraft Systems Analyst interviews with confidence.
 
+An Aircraft Systems Analyst is a professional in the field of aeronautical engineering, specializing in aviation and aerospace. They are responsible for analyzing and optimizing the performance of various aircraft systems to ensure their efficient and safe operation. This job involves conducting research, gathering data, and performing thorough analysis to identify potential improvements or issues within the aircraft systems. They work closely with engineers, technicians, and other professionals to develop innovative solutions and enhance the overall functionality of the aircraft. Strong technical skills, attention to detail, and a deep understanding of aviation principles are crucial for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Aircraft Systems Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Aircraft Systems Analyst interviews to help you prepare and succeed.

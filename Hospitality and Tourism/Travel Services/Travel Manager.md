@@ -2,6 +2,8 @@
 
 Welcome to the Travel Manager Interview Preparation ! This resource is designed to help you ace your Travel Manager interviews with confidence.
 
+A Travel Manager is an integral part of the Hospitality and Tourism industry, specifically in the field of Travel Services. They play a crucial role in coordinating and managing travel arrangements for individuals, groups, and organizations. Their primary responsibility lies in ensuring smooth and efficient travel experiences by handling bookings, itineraries, transportation, accommodation, and other travel-related services. Travel Managers are adept at negotiating travel rates and contracts with suppliers, ensuring cost-effectiveness while maintaining high-quality services. They possess excellent organizational and communication skills, enabling them to handle multiple tasks simultaneously and provide exceptional customer service. Their expertise in managing travel logistics contributes significantly to the success and satisfaction of travelers in the fast-paced world of Hospitality and Tourism.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Travel Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Travel Manager interviews to help you prepare and succeed.

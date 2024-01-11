@@ -2,6 +2,8 @@
 
 Welcome to the Health Policy Analyst Interview Preparation ! This resource is designed to help you ace your Health Policy Analyst interviews with confidence.
 
+A Health Policy Analyst in Healthcare Administration plays a crucial role in shaping healthcare policies and improving the overall quality of healthcare services. They are responsible for conducting research, analyzing data, and making informed recommendations to policymakers and healthcare organizations. Health Policy Analysts closely monitor healthcare regulations and legislation, assessing their impact on patient care, cost, and access to services. They collaborate with stakeholders, including government agencies, healthcare providers, and advocacy groups, to develop evidence-based policies that address healthcare challenges. Their work helps ensure the delivery of effective and efficient healthcare services, promote patient safety, and contribute to the overall well-being of individuals and communities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Health Policy Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Health Policy Analyst interviews to help you prepare and succeed.

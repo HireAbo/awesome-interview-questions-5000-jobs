@@ -2,6 +2,8 @@
 
 Welcome to the Retail Buyer Interview Preparation ! This resource is designed to help you ace your Retail Buyer interviews with confidence.
 
+A Retail Buyer is a professional responsible for selecting and purchasing merchandise for a retail establishment. They play a crucial role in ensuring that a company's inventory aligns with consumer demand and market trends. Retail Buyers analyze sales data, identify customer preferences, and negotiate with suppliers to secure the best prices and terms. They collaborate with the Retail Management team to develop buying strategies, set sales goals, and maximize profitability. Additionally, Retail Buyers monitor market conditions, attend trade shows, and conduct competitor analysis to stay updated on industry trends. Strong analytical skills, negotiation abilities, and a keen eye for fashion and trends are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Retail Buyer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Retail Buyer interviews to help you prepare and succeed.

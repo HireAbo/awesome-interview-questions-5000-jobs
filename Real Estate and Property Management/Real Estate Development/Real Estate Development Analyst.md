@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Development Analyst Interview Preparation ! This resource is designed to help you ace your Real Estate Development Analyst interviews with confidence.
 
+Real Estate and Property Management involves the acquisition, operation, and maintenance of real estate assets, including residential and commercial properties. It encompasses various activities such as property valuation, leasing, marketing, and maintenance. Real estate development, on the other hand, focuses on the creation and enhancement of real estate projects through strategic planning, financing, and construction. Within this field, the role of a Real Estate Development Analyst is crucial. They conduct in-depth market research, financial analysis, and feasibility studies to evaluate potential development projects. Their responsibilities include identifying investment opportunities, conducting due diligence, and providing recommendations to assist in decision-making processes. A Real Estate Development Analyst plays a pivotal role in shaping successful real estate projects by ensuring their profitability, sustainability, and market competitiveness.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Development Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Development Analyst interviews to help you prepare and succeed.

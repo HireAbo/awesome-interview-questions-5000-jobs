@@ -2,6 +2,8 @@
 
 Welcome to the Cardiopulmonary Rehabilitation Specialist Interview Preparation ! This resource is designed to help you ace your Cardiopulmonary Rehabilitation Specialist interviews with confidence.
 
+A Cardiopulmonary Rehabilitation Specialist is a healthcare professional who specializes in sports medicine and focuses on the rehabilitation and treatment of individuals with heart and lung conditions. They work in collaboration with athletes, coaches, and other healthcare providers to develop personalized exercise programs that improve cardiovascular and respiratory function, enhance endurance, and promote overall physical well-being. These specialists are skilled in conducting various diagnostic tests, such as stress tests and pulmonary function tests, to evaluate the patient's cardiac and pulmonary capacity. They also provide education and guidance on lifestyle modifications, nutrition, and medication management to optimize recovery and prevent future complications. The role of a Cardiopulmonary Rehabilitation Specialist is critical in ensuring athletes and patients with heart and lung conditions receive the appropriate care and support to resume an active and healthy lifestyle.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cardiopulmonary Rehabilitation Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cardiopulmonary Rehabilitation Specialist interviews to help you prepare and succeed.

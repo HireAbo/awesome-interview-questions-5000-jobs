@@ -2,6 +2,8 @@
 
 Welcome to the Digital Archivist Interview Preparation ! This resource is designed to help you ace your Digital Archivist interviews with confidence.
 
+Library and Information Science, or LIS, is a multidisciplinary field that focuses on the organization and management of information resources. Librarianship, a specialized area within LIS, involves the provision of library services and the facilitation of access to information. As technology continues to evolve, the role of librarians has expanded to include digital archiving. Digital archivists play a crucial role in preserving and maintaining digital collections and ensuring their accessibility for future generations. They are responsible for organizing, digitizing, and managing digital materials, such as manuscripts, photographs, and audiovisual records. Their expertise in information organization and digital preservation makes them essential in the contemporary digital landscape.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Digital Archivist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Digital Archivist interviews to help you prepare and succeed.

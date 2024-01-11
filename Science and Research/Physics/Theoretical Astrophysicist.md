@@ -2,6 +2,8 @@
 
 Welcome to the Theoretical Astrophysicist Interview Preparation ! This resource is designed to help you ace your Theoretical Astrophysicist interviews with confidence.
 
+A Theoretical Astrophysicist is a specialized physicist who focuses on studying the fundamental principles and theories of astrophysics. Their work involves utilizing mathematical models and computational techniques to understand the behavior and properties of the universe. Theoretical astrophysicists conduct research to explore topics such as the origins of galaxies, the formation of stars, black holes, and the nature of dark matter and energy. They develop theoretical frameworks and predictions that are tested against observational data to further our understanding of the cosmos. This job requires a strong background in physics, mathematics, and computer programming, along with a passion for unraveling the mysteries of the universe.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Theoretical Astrophysicist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Theoretical Astrophysicist interviews to help you prepare and succeed.

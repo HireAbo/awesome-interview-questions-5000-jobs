@@ -2,6 +2,8 @@
 
 Welcome to the College Counselor Interview Preparation ! This resource is designed to help you ace your College Counselor interviews with confidence.
 
+A college counselor plays a vital role in guiding and assisting students in their journey towards higher education. As an integral part of the education system, they provide personalized guidance and support to students, helping them explore various career options, understand admission requirements, and make informed decisions about their college choices. College counselors also assist students in navigating the complex college application process, including essay writing, interview preparation, and scholarship applications. They provide valuable resources and information about colleges, majors, and financial aid options to help students achieve their academic and career goals. Overall, college counselors are dedicated professionals who ensure students have the necessary tools and guidance to succeed in their college journey.
+
 ## 🚀 Overview
 
 Whether you're a seasoned College Counselor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in College Counselor interviews to help you prepare and succeed.

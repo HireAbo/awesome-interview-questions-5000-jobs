@@ -2,6 +2,8 @@
 
 Welcome to the Biomedical Engineer Interview Preparation ! This resource is designed to help you ace your Biomedical Engineer interviews with confidence.
 
+Biomedical engineering is a specialized field within electrical engineering that focuses on the development and application of technology in the healthcare industry. Biomedical engineers play a crucial role in improving patient care and advancing medical science by designing and creating innovative medical devices, equipment, and systems. They combine their expertise in electrical engineering principles with knowledge of biology and medicine to develop cutting-edge solutions for diagnosing, treating, and preventing diseases. Biomedical engineers work closely with healthcare professionals, scientists, and other engineers to ensure that their designs meet safety regulations and effectively address the needs of patients and healthcare providers.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Biomedical Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Biomedical Engineer interviews to help you prepare and succeed.

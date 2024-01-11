@@ -2,6 +2,8 @@
 
 Welcome to the Theater Critic Interview Preparation ! This resource is designed to help you ace your Theater Critic interviews with confidence.
 
+A theater critic is a professional who evaluates and provides insightful analysis of theatrical performances. They attend various plays, musicals, and other live performances, carefully observing the actors' performances, set designs, directing choices, and overall execution of the production. The critic's main responsibility is to write detailed reviews that offer a comprehensive assessment of the theatrical experience. These reviews may be published in newspapers, magazines, or online platforms, helping audiences make informed decisions about which shows to attend. Theater critics possess a deep understanding of theatrical techniques and history, allowing them to provide a critical perspective on the artistic and technical aspects of a production.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Theater Critic or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Theater Critic interviews to help you prepare and succeed.

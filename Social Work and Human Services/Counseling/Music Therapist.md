@@ -2,6 +2,8 @@
 
 Welcome to the Music Therapist Interview Preparation ! This resource is designed to help you ace your Music Therapist interviews with confidence.
 
+Social work and human services encompass a broad range of professions aimed at improving the well-being and quality of life for individuals, families, and communities. Within this field, counseling plays a crucial role in providing emotional support and guidance to those in need. Music therapy is a unique specialization within counseling that utilizes music as a therapeutic tool to address physical, emotional, cognitive, and social needs of individuals. Music therapists employ various techniques such as songwriting, listening, and performing to facilitate self-expression, reduce stress, enhance communication, and promote overall mental and emotional well-being. Through the power of music, music therapists contribute to the healing and growth of individuals in need of therapeutic support.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Music Therapist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Music Therapist interviews to help you prepare and succeed.

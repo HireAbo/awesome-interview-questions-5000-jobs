@@ -2,6 +2,8 @@
 
 Welcome to the Test Analyst Interview Preparation ! This resource is designed to help you ace your Test Analyst interviews with confidence.
 
+As an essential part of the Information Technology (IT) industry, software development plays a crucial role in creating and maintaining software applications. Within this field, Test Analysts are responsible for ensuring the quality and functionality of the developed software. Test Analysts meticulously analyze the software's requirements, design test cases, execute them, and report any issues found to the development team. They work closely with software developers and project managers to identify and resolve defects, ensuring that the software meets the desired standards. Moreover, Test Analysts also play a key role in automating test cases, ensuring efficient and effective software testing processes. Their expertise and attention to detail contribute to the overall success and reliability of software applications.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Test Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Test Analyst interviews to help you prepare and succeed.

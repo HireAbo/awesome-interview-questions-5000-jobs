@@ -2,6 +2,8 @@
 
 Welcome to the Renewable Energy Project Manager Interview Preparation ! This resource is designed to help you ace your Renewable Energy Project Manager interviews with confidence.
 
+A Renewable Energy Project Manager is responsible for overseeing and coordinating all aspects of renewable energy projects. They play a crucial role in planning, implementing, and managing projects that focus on generating clean, sustainable energy from renewable sources such as solar, wind, hydro, or geothermal energy. These professionals work closely with a team of engineers, technicians, and contractors to ensure the successful completion of projects within budget and time constraints. They also conduct feasibility studies, develop project plans, obtain permits, manage resources, and ensure compliance with regulations and safety standards. A Renewable Energy Project Manager plays a vital role in driving the transition towards a greener and more sustainable future.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Renewable Energy Project Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Renewable Energy Project Manager interviews to help you prepare and succeed.

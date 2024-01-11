@@ -2,6 +2,8 @@
 
 Welcome to the Tattoo Artist Interview Preparation ! This resource is designed to help you ace your Tattoo Artist interviews with confidence.
 
+A Tattoo Artist is an individual who possesses the creative ability to design and ink permanent artworks onto a client's skin. This specialized role within the field of Fine Arts combines artistic talent, technical skill, and a deep understanding of the human body's contours and composition. Tattoo Artists collaborate closely with clients to conceptualize and create custom designs that reflect their clients' personal stories, beliefs, or aesthetic preferences. They use a range of tools and techniques, such as tattoo machines, needles, and pigments, to produce intricate and visually striking tattoos. A successful Tattoo Artist not only possesses exceptional artistic skills but also prioritizes hygiene, safety, and maintaining a professional environment to ensure the client's satisfaction and wellbeing.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Tattoo Artist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Tattoo Artist interviews to help you prepare and succeed.

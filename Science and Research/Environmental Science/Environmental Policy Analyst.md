@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Policy Analyst Interview Preparation ! This resource is designed to help you ace your Environmental Policy Analyst interviews with confidence.
 
+A career as an Environmental Policy Analyst combines the fields of science and research to address critical environmental issues. These professionals play a crucial role in formulating policies and strategies to mitigate environmental risks and promote sustainable development. Environmental Policy Analysts conduct extensive research, analyzing scientific data and gathering information on various environmental challenges such as climate change, pollution, and natural resource management. They assess the impact of existing policies and propose innovative solutions to enhance environmental sustainability. These individuals often collaborate with government agencies, non-profit organizations, and private sectors to influence decision-making processes and advocate for policies that protect the environment and ensure a sustainable future.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Policy Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Policy Analyst interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Development Director Interview Preparation ! This resource is designed to help you ace your Real Estate Development Director interviews with confidence.
 
+Real estate and property management involve the buying, selling, and leasing of properties, as well as their maintenance, marketing, and financial operations. Real estate development, on the other hand, focuses on the creation and improvement of properties through construction, renovation, and infrastructure development. In this context, the role of a real estate development director is crucial. As a key decision-maker, this professional oversees all aspects of the development process, including site selection, feasibility studies, budgeting, design, construction, and marketing. They collaborate with architects, contractors, investors, and other stakeholders to ensure successful and profitable real estate ventures. Strong leadership, strategic planning, negotiation, and project management skills are essential for this demanding and rewarding job.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Development Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Development Director interviews to help you prepare and succeed.

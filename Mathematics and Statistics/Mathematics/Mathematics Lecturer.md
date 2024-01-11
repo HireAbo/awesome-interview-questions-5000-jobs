@@ -2,6 +2,8 @@
 
 Welcome to the Mathematics Lecturer Interview Preparation ! This resource is designed to help you ace your Mathematics Lecturer interviews with confidence.
 
+A Mathematics Lecturer job involves teaching mathematical concepts and theories to students at various levels of education, ranging from high school to university. The role requires deep knowledge and expertise in mathematics, as well as effective communication skills to engage and educate students. Mathematics Lecturers are responsible for preparing and delivering lectures, designing course materials, and assessing student performance through assignments and exams. They may also provide one-on-one guidance and support to struggling students. Additionally, Mathematics Lecturers may conduct research to contribute to the field of mathematics and stay updated with the latest developments. A passion for mathematics, strong analytical skills, and the ability to inspire and motivate students are key qualities for a successful Mathematics Lecturer.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Mathematics Lecturer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Mathematics Lecturer interviews to help you prepare and succeed.

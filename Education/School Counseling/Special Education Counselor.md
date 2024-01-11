@@ -2,6 +2,8 @@
 
 Welcome to the Special Education Counselor Interview Preparation ! This resource is designed to help you ace your Special Education Counselor interviews with confidence.
 
+A Special Education Counselor plays a crucial role in the field of education, specifically within the realm of special needs students. These professionals are responsible for providing guidance and support to students with disabilities, helping them navigate their academic journey and achieve their full potential. Special Education Counselors collaborate closely with educators, parents, and other professionals to develop individualized education plans (IEPs) tailored to each student's unique needs. They assess students' strengths and weaknesses, provide counseling services, and offer strategies to enhance their academic, social, and emotional development. Special Education Counselors also advocate for students' rights and ensure they receive the necessary accommodations and resources to succeed in the classroom.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Special Education Counselor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Special Education Counselor interviews to help you prepare and succeed.

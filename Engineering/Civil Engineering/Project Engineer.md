@@ -2,6 +2,8 @@
 
 Welcome to the Project Engineer Interview Preparation ! This resource is designed to help you ace your Project Engineer interviews with confidence.
 
+A Project Engineer in the field of Civil Engineering is responsible for overseeing and managing construction projects from inception to completion. They play a crucial role in planning, designing, and executing various civil engineering projects such as roads, bridges, buildings, and infrastructure. Project Engineers collaborate with architects, contractors, and other stakeholders to ensure that projects are delivered on time, within budget, and meet quality standards. They are involved in site inspections, project scheduling, cost estimation, and monitoring progress. Strong technical skills, problem-solving abilities, and effective communication are vital qualities for a Project Engineer to successfully navigate the complexities of civil engineering projects.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Project Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Project Engineer interviews to help you prepare and succeed.

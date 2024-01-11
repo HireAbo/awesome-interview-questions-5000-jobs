@@ -2,6 +2,8 @@
 
 Welcome to the Climate Scientist Interview Preparation ! This resource is designed to help you ace your Climate Scientist interviews with confidence.
 
+A climate scientist is a professional who specializes in studying and analyzing the Earth's climate patterns and changes. Their main role is to understand how various factors, such as greenhouse gas emissions and natural processes, impact the climate system. These scientists conduct extensive research and collect data to develop models and predictions about future climate scenarios. They also study the effects of climate change on ecosystems, human health, and socio-economic systems. Climate scientists play a crucial role in providing scientific evidence to support policy-making decisions and developing strategies to mitigate the impacts of climate change. Their work is essential in shaping our understanding of the environment and ensuring a sustainable future.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Climate Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Climate Scientist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Machine Learning Engineer Interview Preparation ! This resource is designed to help you ace your Machine Learning Engineer interviews with confidence.
 
+The field of Information Technology (IT) revolves around the use of computers and software to manage and process information. Within IT, the role of a Data Science professional involves analyzing, interpreting, and deriving valuable insights from large volumes of data. Data Science is a multidisciplinary field that requires expertise in statistics, mathematics, programming, and domain knowledge. A Machine Learning Engineer, on the other hand, focuses on developing and implementing algorithms that enable computers to learn from data and make accurate predictions or decisions. This role requires strong programming skills, knowledge of machine learning algorithms, and the ability to work with big data. Machine Learning Engineers play a crucial role in building intelligent systems and advancing technological innovations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Machine Learning Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Machine Learning Engineer interviews to help you prepare and succeed.

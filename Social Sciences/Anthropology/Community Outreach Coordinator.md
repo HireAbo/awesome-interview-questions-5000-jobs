@@ -2,6 +2,8 @@
 
 Welcome to the Community Outreach Coordinator Interview Preparation ! This resource is designed to help you ace your Community Outreach Coordinator interviews with confidence.
 
+The role of a Community Outreach Coordinator in the field of Anthropology within Social Sciences is a vital one. This position involves working closely with local communities to bridge the gap between academic research and the needs of the community. The Community Outreach Coordinator is responsible for facilitating communication, collaboration, and engagement between anthropologists and community members. They play a crucial role in organizing and implementing projects that address community concerns, promoting cultural understanding, and fostering positive relationships. The ultimate goal is to ensure that anthropological research is both beneficial and relevant to the community, while also promoting awareness and appreciation of diverse cultures and traditions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Community Outreach Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Community Outreach Coordinator interviews to help you prepare and succeed.

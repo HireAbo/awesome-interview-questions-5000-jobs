@@ -2,6 +2,8 @@
 
 Welcome to the Technical Lead Interview Preparation ! This resource is designed to help you ace your Technical Lead interviews with confidence.
 
+A Technical Lead in the field of Software Development within Information Technology (IT) is a crucial role responsible for overseeing the technical aspects of a software development project. As a Technical Lead, one is responsible for coordinating and managing a team of software developers, ensuring the successful delivery of projects within given timelines. They play a pivotal role in designing, developing, and implementing software solutions, while also providing guidance and support to team members. Technical Leads are expected to possess strong technical expertise, excellent problem-solving skills, and the ability to communicate effectively with both technical and non-technical stakeholders. They are instrumental in driving innovation, ensuring quality deliverables, and leading a team towards success in the dynamic and ever-evolving IT industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Technical Lead or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Technical Lead interviews to help you prepare and succeed.

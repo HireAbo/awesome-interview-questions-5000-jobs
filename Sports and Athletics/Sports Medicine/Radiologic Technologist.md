@@ -2,6 +2,8 @@
 
 Welcome to the Radiologic Technologist Interview Preparation ! This resource is designed to help you ace your Radiologic Technologist interviews with confidence.
 
+Sports and Athletics, being an integral part of our society, require specialized medical care to ensure the well-being of athletes. In this context, Sports Medicine plays a crucial role in providing comprehensive healthcare services to athletes. Within the realm of Sports Medicine, Radiologic Technologists hold an essential position. These professionals are responsible for operating sophisticated imaging equipment to diagnose and treat sports-related injuries. They work closely with orthopedic surgeons, physicians, and other medical staff to accurately capture images, such as X-rays, CT scans, and MRIs. Their expertise in imaging techniques helps in the early detection and appropriate management of injuries, facilitating the recovery and performance of athletes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Radiologic Technologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Radiologic Technologist interviews to help you prepare and succeed.

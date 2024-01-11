@@ -2,6 +2,8 @@
 
 Welcome to the Civil Engineering Technician Interview Preparation ! This resource is designed to help you ace your Civil Engineering Technician interviews with confidence.
 
+A Civil Engineering Technician plays a crucial role in the field of Civil Engineering. They assist Civil Engineers in various aspects of project planning, design, and construction. These professionals are responsible for conducting site inspections, collecting data, and preparing technical drawings and specifications. They also assist in the testing and analysis of materials used in construction projects. Civil Engineering Technicians work closely with engineers to ensure that projects are completed within budget and meet all necessary regulations and safety standards. Their expertise is vital in the development of infrastructure such as roads, bridges, buildings, and water supply systems. A career as a Civil Engineering Technician offers exciting opportunities to contribute to the built environment and improve the quality of life for communities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Civil Engineering Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Civil Engineering Technician interviews to help you prepare and succeed.

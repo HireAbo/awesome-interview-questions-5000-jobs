@@ -2,6 +2,8 @@
 
 Welcome to the Category Manager Interview Preparation ! This resource is designed to help you ace your Category Manager interviews with confidence.
 
+A Category Manager in Retail and Sales is a crucial role responsible for overseeing the merchandising and sales strategy for a specific category of products within a retail organization. They are responsible for analyzing market trends, consumer demands, and competitor activities to develop and execute effective category plans. The Category Manager collaborates with suppliers, buyers, and cross-functional teams to ensure the availability of the right products at the right time and at competitive prices. They are also responsible for managing inventory levels, optimizing product assortment, and implementing pricing strategies to maximize sales and profitability. Strong analytical skills, strategic thinking, and excellent communication abilities are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Category Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Category Manager interviews to help you prepare and succeed.

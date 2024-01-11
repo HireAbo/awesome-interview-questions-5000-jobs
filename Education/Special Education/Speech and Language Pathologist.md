@@ -2,6 +2,8 @@
 
 Welcome to the Speech and Language Pathologist Interview Preparation ! This resource is designed to help you ace your Speech and Language Pathologist interviews with confidence.
 
+A Speech and Language Pathologist (SLP) is a specialized professional in the field of Special Education who assesses, diagnoses, and treats individuals with communication disorders. These disorders may include difficulties in speech, language, voice, fluency, or swallowing. SLPs work with people of all ages, from infants to the elderly, and in a variety of settings such as schools, hospitals, rehabilitation centers, and private practices. They develop individualized treatment plans to improve communication skills, help individuals overcome speech and language barriers, and enhance their quality of life. SLPs also collaborate with teachers, parents, and other professionals to provide comprehensive support and ensure effective communication for individuals with special needs.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Speech and Language Pathologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Speech and Language Pathologist interviews to help you prepare and succeed.

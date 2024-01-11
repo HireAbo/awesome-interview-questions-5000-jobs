@@ -2,6 +2,8 @@
 
 Welcome to the Research Scientist (in Chemical Engineering) Interview Preparation ! This resource is designed to help you ace your Research Scientist (in Chemical Engineering) interviews with confidence.
 
+A Research Scientist in Chemical Engineering is a highly skilled professional who specializes in conducting research and development activities within the field of chemical engineering. These professionals work on projects that involve the application of chemical principles and techniques to develop new products, improve existing processes, or solve complex problems. They are responsible for designing and conducting experiments, analyzing data, and interpreting results to make scientific advancements. Research Scientists in Chemical Engineering work in various settings, including academic institutions, research laboratories, and industrial companies. Their work plays a crucial role in advancing technology and innovation in areas such as pharmaceuticals, energy, environmental protection, and materials science.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Research Scientist (in Chemical Engineering) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Research Scientist (in Chemical Engineering) interviews to help you prepare and succeed.

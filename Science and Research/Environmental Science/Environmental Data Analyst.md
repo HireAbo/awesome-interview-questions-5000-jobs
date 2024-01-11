@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Data Analyst Interview Preparation ! This resource is designed to help you ace your Environmental Data Analyst interviews with confidence.
 
+As an Environmental Data Analyst, you will be at the forefront of scientific research and data analysis in the field of Environmental Science. Your role will involve collecting, organizing, and analyzing vast amounts of data related to the environment, such as air quality, water resources, climate change, and biodiversity. You will utilize advanced statistical and analytical techniques to identify patterns, trends, and relationships within the data, ultimately providing insights and recommendations to support environmental decision-making and policy development. In this position, you will collaborate with interdisciplinary teams, including scientists, researchers, and policymakers, to contribute to the development of strategies and solutions for sustainable environmental management and conservation. Your work will play a crucial role in understanding and mitigating the impacts of human activities on the environment, ensuring a healthier and more sustainable future for our planet.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Data Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Data Analyst interviews to help you prepare and succeed.

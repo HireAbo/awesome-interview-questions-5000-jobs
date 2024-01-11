@@ -2,6 +2,8 @@
 
 Welcome to the Maritime Safety Specialist Interview Preparation ! This resource is designed to help you ace your Maritime Safety Specialist interviews with confidence.
 
+A Maritime Safety Specialist plays a crucial role in ensuring the safety and security of maritime operations. Their primary responsibility is to develop and implement safety measures to prevent accidents, injuries, and environmental hazards within the maritime industry. They conduct thorough assessments of vessels, equipment, and facilities to ensure compliance with national and international safety regulations. Maritime Safety Specialists also provide training and guidance to maritime personnel on safety procedures and emergency response protocols. They actively monitor and investigate incidents and accidents to identify root causes and implement corrective actions. A strong attention to detail, excellent communication skills, and a comprehensive understanding of maritime safety regulations are essential for this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Maritime Safety Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Maritime Safety Specialist interviews to help you prepare and succeed.

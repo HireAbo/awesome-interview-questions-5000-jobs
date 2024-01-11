@@ -2,6 +2,8 @@
 
 Welcome to the Special Education Aide Interview Preparation ! This resource is designed to help you ace your Special Education Aide interviews with confidence.
 
+A Special Education Aide plays a crucial role in supporting students with special needs in an educational setting. They work closely with special education teachers to provide individualized assistance and ensure the inclusion and success of students with disabilities. Special Education Aides assist students with their academic tasks, help with behavior management, and provide emotional support. They may also assist with the implementation of Individualized Education Programs (IEPs) and help monitor student progress. These professionals are compassionate, patient, and possess excellent communication skills. They make a significant impact on the lives of students with special needs, creating an inclusive and supportive learning environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Special Education Aide or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Special Education Aide interviews to help you prepare and succeed.

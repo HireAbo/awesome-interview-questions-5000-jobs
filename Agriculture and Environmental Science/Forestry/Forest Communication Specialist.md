@@ -2,6 +2,8 @@
 
 Welcome to the Forest Communication Specialist Interview Preparation ! This resource is designed to help you ace your Forest Communication Specialist interviews with confidence.
 
+Agriculture and Environmental Science is an interdisciplinary field that focuses on the sustainability and conservation of natural resources. Within this field, Forestry plays a crucial role in managing and preserving forests, which are vital for maintaining biodiversity and mitigating climate change. A Forest Communication Specialist is an integral part of this process, responsible for facilitating effective communication between various stakeholders such as government agencies, communities, and industry professionals. They utilize their expertise in forestry and environmental science to disseminate information, raise awareness about forest management practices, and promote sustainable forestry practices. This role requires excellent communication skills, a deep understanding of forestry principles, and a passion for environmental conservation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forest Communication Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forest Communication Specialist interviews to help you prepare and succeed.

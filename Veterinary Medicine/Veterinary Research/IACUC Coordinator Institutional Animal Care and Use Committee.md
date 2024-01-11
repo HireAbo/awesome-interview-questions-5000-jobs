@@ -2,6 +2,8 @@
 
 Welcome to the IACUC Coordinator (Institutional Animal Care and Use Committee) Interview Preparation ! This resource is designed to help you ace your IACUC Coordinator (Institutional Animal Care and Use Committee) interviews with confidence.
 
+The role of an IACUC Coordinator in Veterinary Medicine is crucial for ensuring the ethical and humane treatment of animals used in research. As part of the Institutional Animal Care and Use Committee, these coordinators play a pivotal role in overseeing animal research protocols and ensuring compliance with federal regulations and institutional policies. They collaborate with researchers, veterinarians, and other stakeholders to review and approve research proposals, ensuring that the welfare of animals is protected throughout the entire research process. Additionally, IACUC Coordinators are responsible for conducting inspections, monitoring animal welfare, and providing training and guidance to researchers and staff. Their dedication to animal welfare and commitment to upholding ethical standards make them essential contributors to veterinary research.
+
 ## 🚀 Overview
 
 Whether you're a seasoned IACUC Coordinator (Institutional Animal Care and Use Committee) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in IACUC Coordinator (Institutional Animal Care and Use Committee) interviews to help you prepare and succeed.

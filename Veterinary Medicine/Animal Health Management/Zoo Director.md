@@ -2,6 +2,8 @@
 
 Welcome to the Zoo Director Interview Preparation ! This resource is designed to help you ace your Zoo Director interviews with confidence.
 
+Veterinary Medicine is a specialized field of medicine that focuses on the health and well-being of animals. It involves the diagnosis, treatment, and prevention of diseases and injuries in animals, as well as providing medical care and advice to animal owners. Animal Health Management, on the other hand, encompasses a broader perspective, including the management of animal populations, their habitats, and the overall welfare of animals in various settings. Within this realm, the role of a Zoo Director is crucial in overseeing the operations and management of a zoo, including animal care, conservation efforts, and educational programs to ensure the health and welfare of the animals under their care.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Zoo Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Zoo Director interviews to help you prepare and succeed.

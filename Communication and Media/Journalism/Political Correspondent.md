@@ -2,6 +2,8 @@
 
 Welcome to the Political Correspondent Interview Preparation ! This resource is designed to help you ace your Political Correspondent interviews with confidence.
 
+A Political Correspondent is a journalist who specializes in reporting on political events, policies, and developments. They play a crucial role in providing accurate and timely information to the public about political matters. Their primary responsibility is to gather news and report on political activities, including elections, policy debates, and government decisions. Political Correspondents often work for newspapers, news agencies, or broadcasting networks, and they may cover local, national, or international politics. They conduct interviews with politicians, attend press conferences, and analyze political trends to provide comprehensive and in-depth coverage. Their role is vital in ensuring transparency, accountability, and informed decision-making in a democratic society.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Political Correspondent or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Political Correspondent interviews to help you prepare and succeed.

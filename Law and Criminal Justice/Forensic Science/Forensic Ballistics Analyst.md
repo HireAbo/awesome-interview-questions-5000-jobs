@@ -2,6 +2,8 @@
 
 Welcome to the Forensic Ballistics Analyst Interview Preparation ! This resource is designed to help you ace your Forensic Ballistics Analyst interviews with confidence.
 
+A Forensic Ballistics Analyst is a vital professional in the field of Forensic Science, specializing in the study and analysis of firearms and ammunition in criminal investigations. These experts play a crucial role in the criminal justice system by examining firearms, bullets, and cartridge cases to determine their origins, linking them to crimes, and providing valuable evidence in court proceedings. Forensic Ballistics Analysts employ advanced techniques and specialized tools to examine ballistic evidence, such as comparing striations on bullets, identifying firearm models, and reconstructing crime scenes. Their expertise helps law enforcement agencies unravel complex cases, identify perpetrators, and ensure justice is served. With their meticulous analysis and scientific knowledge, Forensic Ballistics Analysts contribute significantly to the advancement of law and criminal justice.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forensic Ballistics Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forensic Ballistics Analyst interviews to help you prepare and succeed.

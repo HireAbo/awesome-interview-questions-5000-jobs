@@ -2,6 +2,8 @@
 
 Welcome to the Supply Chain Manager Interview Preparation ! This resource is designed to help you ace your Supply Chain Manager interviews with confidence.
 
+Transportation and logistics are vital aspects of any industry, ensuring the smooth flow of goods and materials from production to distribution. Supply chain management, as a subfield, focuses on overseeing and optimizing this process. A supply chain manager plays a crucial role in this domain, responsible for coordinating and managing the entire supply chain. They are tasked with planning, implementing, and controlling the movement of goods, from sourcing raw materials to delivering the finished product. Supply chain managers also collaborate with various stakeholders, such as suppliers, manufacturers, and distributors, to enhance efficiency, minimize costs, and mitigate risks. Their expertise is indispensable in achieving seamless operations and customer satisfaction.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Supply Chain Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Supply Chain Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the SEM Manager (Search Engine Marketing) Interview Preparation ! This resource is designed to help you ace your SEM Manager (Search Engine Marketing) interviews with confidence.
 
+A SEM Manager, also known as a Search Engine Marketing Manager, plays a vital role in the field of marketing and business management. They are responsible for developing, implementing, and managing effective search engine marketing campaigns for a company or organization. Their primary goal is to increase online visibility and drive qualified traffic to the company's website through paid search advertising strategies such as Google AdWords and Bing Ads. A SEM Manager conducts keyword research, creates ad copies, monitors campaign performance, and optimizes campaigns to maximize return on investment. They possess a strong understanding of online advertising trends, search engine algorithms, and competitor analysis to achieve marketing objectives and enhance brand visibility.
+
 ## 🚀 Overview
 
 Whether you're a seasoned SEM Manager (Search Engine Marketing) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in SEM Manager (Search Engine Marketing) interviews to help you prepare and succeed.

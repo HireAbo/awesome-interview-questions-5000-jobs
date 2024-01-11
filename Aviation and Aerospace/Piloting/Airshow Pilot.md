@@ -2,6 +2,8 @@
 
 Welcome to the Airshow Pilot Interview Preparation ! This resource is designed to help you ace your Airshow Pilot interviews with confidence.
 
+The job of an Airshow Pilot is an exhilarating and highly specialized field within the aviation industry. These skilled professionals are responsible for showcasing their precision flying skills and thrilling maneuvers to captivate audiences at airshows and aviation events worldwide. Airshow pilots possess exceptional piloting abilities, a deep understanding of aerodynamics, and extensive experience in both aviation and aerospace. They undergo rigorous training and must maintain a high level of physical fitness to withstand the intense G-forces experienced during their performances. Airshow pilots demonstrate their mastery of various aerobatic maneuvers, such as loops, rolls, and spins, while ensuring strict adherence to safety protocols. Their performances combine precision, grace, and adrenaline, leaving spectators awe-inspired and in awe of the capabilities of aviation and aerospace technology.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Airshow Pilot or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Airshow Pilot interviews to help you prepare and succeed.

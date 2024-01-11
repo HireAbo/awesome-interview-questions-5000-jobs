@@ -2,6 +2,8 @@
 
 Welcome to the Stunt Performer Interview Preparation ! This resource is designed to help you ace your Stunt Performer interviews with confidence.
 
+A Stunt Performer is a highly skilled professional who specializes in performing daring and physically demanding stunts in the entertainment and performing arts industry. These individuals are responsible for executing thrilling and realistic action sequences in various mediums such as film, television, theater, and live performances. Stunt Performers undergo rigorous training in combat, falls, wirework, and other specialized skills to ensure the safety and authenticity of their performances. They work closely with directors, choreographers, and other members of the production team to plan and execute these stunts seamlessly. Stunt Performers possess exceptional physical fitness, fearlessness, and the ability to perform under pressure, creating breathtaking and memorable moments for audiences worldwide.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Stunt Performer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Stunt Performer interviews to help you prepare and succeed.

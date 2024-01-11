@@ -2,6 +2,8 @@
 
 Welcome to the Online Teacher or E-Learning Instructor Interview Preparation ! This resource is designed to help you ace your Online Teacher or E-Learning Instructor interviews with confidence.
 
+The role of an online teacher or e-learning instructor is to facilitate virtual learning experiences through various digital platforms. As technology continues to advance, the demand for online education has grown significantly. These professionals utilize their expertise in specific subjects to design and deliver interactive lessons, engage students in virtual discussions, and provide personalized feedback. Online teachers and e-learning instructors play a crucial role in shaping the future of education by providing accessible and flexible learning opportunities to a diverse range of students. Their ability to adapt to different learning styles and utilize innovative teaching methods makes them indispensable in the ever-evolving field of online education.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Online Teacher or E-Learning Instructor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Online Teacher or E-Learning Instructor interviews to help you prepare and succeed.

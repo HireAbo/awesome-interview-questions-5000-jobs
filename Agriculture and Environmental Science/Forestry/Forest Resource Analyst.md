@@ -2,6 +2,8 @@
 
 Welcome to the Forest Resource Analyst Interview Preparation ! This resource is designed to help you ace your Forest Resource Analyst interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on the study of plant and animal life, as well as the interaction between organisms and their environment. Within this field, Forestry plays a crucial role in managing and preserving forest ecosystems. A Forest Resource Analyst is a professional who specializes in assessing the health and sustainability of forests. They collect and analyze data related to forest resources, such as tree growth, biodiversity, and wildlife populations. By utilizing advanced technology and statistical models, Forest Resource Analysts provide valuable insights and recommendations for sustainable forest management practices, ensuring the long-term viability of our natural resources.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forest Resource Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forest Resource Analyst interviews to help you prepare and succeed.

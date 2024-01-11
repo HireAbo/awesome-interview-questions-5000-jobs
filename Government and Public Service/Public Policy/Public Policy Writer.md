@@ -2,6 +2,8 @@
 
 Welcome to the Public Policy Writer Interview Preparation ! This resource is designed to help you ace your Public Policy Writer interviews with confidence.
 
+A Public Policy Writer is a professional who specializes in crafting and analyzing policies that shape government actions and decision-making processes. Their role is crucial in formulating effective strategies and solutions to address societal issues and promote the common good. Public Policy Writers extensively research and gather data on public opinion, economic trends, and social concerns to develop informed and evidence-based policies. They possess excellent writing and communication skills to convey complex ideas in a clear and concise manner. Public Policy Writers work closely with government officials, think tanks, and non-profit organizations to develop policies that reflect the needs and aspirations of the public while considering legal and ethical frameworks.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Public Policy Writer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Public Policy Writer interviews to help you prepare and succeed.

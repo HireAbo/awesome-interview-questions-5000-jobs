@@ -2,6 +2,8 @@
 
 Welcome to the Behavior Veterinary Technician Interview Preparation ! This resource is designed to help you ace your Behavior Veterinary Technician interviews with confidence.
 
+Veterinary Medicine is a branch of healthcare that focuses on the diagnosis, treatment, and prevention of diseases and injuries in animals. Within this field, Veterinary Nursing is a specialized area that involves providing comprehensive care and support to animals under the supervision of a veterinarian. A crucial aspect of Veterinary Nursing is the Behavior Veterinary Technician job, which focuses on understanding and addressing animal behavior issues. These technicians work closely with veterinarians and animal owners to assess and manage behavior problems, such as anxiety, aggression, or phobias. They utilize various techniques, including behavioral modification, training, and environmental enrichment, to improve the overall well-being and quality of life for animals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Behavior Veterinary Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Behavior Veterinary Technician interviews to help you prepare and succeed.

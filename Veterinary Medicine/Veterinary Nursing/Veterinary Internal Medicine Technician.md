@@ -2,6 +2,10 @@
 
 Welcome to the Veterinary Internal Medicine Technician Interview Preparation ! This resource is designed to help you ace your Veterinary Internal Medicine Technician interviews with confidence.
 
+Veterinary Medicine is a specialized branch of healthcare that focuses on the diagnosis, treatment, and prevention of diseases in animals. Within this field, Veterinary Nursing plays a crucial role in assisting veterinarians in providing optimal care for animals. Veterinary Nurses are skilled professionals who provide hands-on care, administer medications, perform diagnostic tests, assist in surgical procedures, and educate pet owners on animal health. 
+
+A sub-specialty within Veterinary Nursing is Veterinary Internal Medicine Technician. These professionals work closely with veterinary internal medicine specialists to diagnose and treat complex medical conditions in animals. They assist in performing advanced diagnostic procedures such as ultrasounds, endoscopies, and advanced imaging techniques. They also administer treatments, monitor patients during procedures, and provide post-operative care. Veterinary Internal Medicine Technicians possess in-depth knowledge and skills to deliver high-quality care to animals in need of specialized medical attention.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Veterinary Internal Medicine Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Veterinary Internal Medicine Technician interviews to help you prepare and succeed.

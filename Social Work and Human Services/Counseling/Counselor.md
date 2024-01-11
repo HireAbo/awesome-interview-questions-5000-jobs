@@ -2,6 +2,8 @@
 
 Welcome to the Counselor Interview Preparation ! This resource is designed to help you ace your Counselor interviews with confidence.
 
+Social work and human services encompass a broad range of professions dedicated to improving the well-being and quality of life for individuals, families, and communities. Within this field, counseling is a crucial component, providing individuals with guidance, support, and tools to navigate through personal challenges and achieve emotional and mental wellness. Counselors play a pivotal role in assessing clients' needs, developing treatment plans, and offering therapeutic interventions tailored to their specific circumstances. They may specialize in various areas, such as addiction, marriage and family, or mental health. A counselor's ultimate goal is to empower clients to overcome obstacles, enhance their coping skills, and foster personal growth and resilience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Counselor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Counselor interviews to help you prepare and succeed.

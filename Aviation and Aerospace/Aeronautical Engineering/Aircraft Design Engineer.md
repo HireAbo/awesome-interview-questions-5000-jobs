@@ -2,6 +2,8 @@
 
 Welcome to the Aircraft Design Engineer Interview Preparation ! This resource is designed to help you ace your Aircraft Design Engineer interviews with confidence.
 
+An Aircraft Design Engineer is a specialized role within the field of Aeronautical Engineering, which focuses on the design and development of aircraft. These professionals play a crucial role in the aviation and aerospace industry, as they are responsible for designing safe, efficient, and innovative aircraft. They work closely with a team of engineers, technicians, and other professionals to conceptualize, analyze, and create detailed designs of various aircraft components, systems, and structures. Aircraft Design Engineers utilize their technical expertise, knowledge of aerodynamics, materials, and manufacturing processes to ensure that the aircraft meets performance, safety, and regulatory requirements. Their work involves utilizing advanced computer-aided design (CAD) software, conducting simulations and tests, and collaborating with suppliers and manufacturers to bring their designs to life. Overall, Aircraft Design Engineers contribute significantly to the advancement and evolution of aviation technology.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Aircraft Design Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Aircraft Design Engineer interviews to help you prepare and succeed.

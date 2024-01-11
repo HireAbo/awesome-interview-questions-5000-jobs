@@ -2,6 +2,8 @@
 
 Welcome to the Special Education Program Coordinator Interview Preparation ! This resource is designed to help you ace your Special Education Program Coordinator interviews with confidence.
 
+A Special Education Program Coordinator plays a crucial role in ensuring that children with special needs receive the appropriate education and support they require. This position involves overseeing and coordinating special education programs within a school or district. The Program Coordinator collaborates with teachers, parents, and administrators to develop individualized education plans (IEPs) for students, ensuring that their unique needs are met. They also provide guidance and support to teachers and staff in implementing specialized instructional strategies and accommodations. Additionally, they monitor student progress, evaluate program effectiveness, and advocate for resources and services to enhance the overall special education program. Overall, a Special Education Program Coordinator is dedicated to promoting inclusivity and providing exceptional educational opportunities for students with special needs.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Special Education Program Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Special Education Program Coordinator interviews to help you prepare and succeed.

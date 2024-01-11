@@ -2,6 +2,8 @@
 
 Welcome to the Approach and Departure Controller Interview Preparation ! This resource is designed to help you ace your Approach and Departure Controller interviews with confidence.
 
+The job of an Approach and Departure Controller in the field of Air Traffic Control (ATC) is crucial for the safe and efficient movement of aircraft within the aviation and aerospace industry. These professionals are responsible for managing the flow of air traffic during takeoff and landing procedures at airports. They ensure that aircraft maintain a safe distance from each other, follow designated routes, and adhere to altitude restrictions. Approach and Departure Controllers work in coordination with other ATC personnel, including Tower Controllers and En Route Controllers, to ensure seamless transitions during the critical phases of flight. Their expertise and quick decision-making skills are essential for maintaining the highest level of safety and minimizing delays in air traffic.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Approach and Departure Controller or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Approach and Departure Controller interviews to help you prepare and succeed.

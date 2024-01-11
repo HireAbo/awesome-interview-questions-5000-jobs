@@ -2,6 +2,8 @@
 
 Welcome to the Merchandise UX Designer Interview Preparation ! This resource is designed to help you ace your Merchandise UX Designer interviews with confidence.
 
+A Merchandise UX Designer in the field of Retail and Sales is responsible for creating a seamless and engaging shopping experience for customers. This role involves combining user experience design principles with merchandising strategies to optimize the presentation and placement of products. A Merchandise UX Designer collaborates with cross-functional teams, including merchandisers, buyers, and marketing professionals, to understand customer behavior, market trends, and business goals. They leverage their expertise in visual design, information architecture, and user research to develop intuitive navigation, compelling product displays, and persuasive calls-to-action. By focusing on enhancing the overall merchandise user experience, these professionals contribute to driving sales and maximizing customer satisfaction in the retail industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Merchandise UX Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Merchandise UX Designer interviews to help you prepare and succeed.

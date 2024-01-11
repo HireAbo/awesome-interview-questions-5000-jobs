@@ -2,6 +2,8 @@
 
 Welcome to the Merchandise Forecast Analyst Interview Preparation ! This resource is designed to help you ace your Merchandise Forecast Analyst interviews with confidence.
 
+The role of a Merchandise Forecast Analyst in the field of Retail and Sales is crucial for maintaining efficient inventory management and maximizing profitability. This position involves analyzing sales data, market trends, and historical patterns to accurately forecast future demand for merchandise. By closely monitoring inventory levels, the Merchandise Forecast Analyst ensures optimal stock levels to meet customer demand while minimizing excess inventory or stockouts. They collaborate with sales and marketing teams to develop effective strategies for product promotions, pricing, and assortment planning. Additionally, they play a key role in identifying emerging trends, monitoring competitors, and making data-driven recommendations to enhance overall sales and profitability for the organization.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Merchandise Forecast Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Merchandise Forecast Analyst interviews to help you prepare and succeed.

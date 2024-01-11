@@ -2,6 +2,8 @@
 
 Welcome to the Social Entrepreneur Interview Preparation ! This resource is designed to help you ace your Social Entrepreneur interviews with confidence.
 
+A social entrepreneur is an individual who establishes and operates a business with the primary objective of creating positive social change. This unique type of entrepreneurship combines business acumen with a deep commitment to addressing social, environmental, and economic problems. Social entrepreneurs identify pressing issues in society and develop innovative and sustainable solutions through their ventures. They focus on maximizing social impact rather than solely pursuing profit. By leveraging their business skills and creativity, social entrepreneurs aim to create a sustainable and equitable society. Their work encompasses a wide range of sectors, including education, healthcare, poverty alleviation, environmental conservation, and more. Through their ventures, social entrepreneurs strive to make a lasting difference in the world.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Social Entrepreneur or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Social Entrepreneur interviews to help you prepare and succeed.

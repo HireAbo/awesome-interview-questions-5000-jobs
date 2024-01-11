@@ -2,6 +2,8 @@
 
 Welcome to the Franchise Owner Interview Preparation ! This resource is designed to help you ace your Franchise Owner interviews with confidence.
 
+A Franchise Owner in Retail Management is responsible for overseeing the operations of a franchise store or multiple franchise locations. They are responsible for managing all aspects of the business, including sales, marketing, customer service, and staff management. Franchise Owners work closely with the franchisor to ensure that the store is run in accordance with the established brand guidelines and standards. They are also responsible for developing and implementing strategies to maximize sales and profitability, as well as ensuring that the store complies with all legal and regulatory requirements. The role requires strong leadership, business acumen, and excellent communication skills to successfully manage a franchise business.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Franchise Owner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Franchise Owner interviews to help you prepare and succeed.

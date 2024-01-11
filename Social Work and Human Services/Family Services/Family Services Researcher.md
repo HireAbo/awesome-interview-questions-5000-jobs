@@ -2,6 +2,8 @@
 
 Welcome to the Family Services Researcher Interview Preparation ! This resource is designed to help you ace your Family Services Researcher interviews with confidence.
 
+A Family Services Researcher is a professional who focuses on studying, analyzing, and improving the well-being of families through social work and human services. They play a crucial role in conducting research and gathering data related to family services, including family dynamics, child welfare, domestic violence, and parenting support. The primary objective of a Family Services Researcher is to identify the needs and challenges faced by families, develop effective interventions and strategies, and evaluate the outcomes of various family programs and policies. Their research findings are used to inform and shape family-centered programs, policies, and services that aim to enhance the overall quality of life for families in need.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Family Services Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Family Services Researcher interviews to help you prepare and succeed.

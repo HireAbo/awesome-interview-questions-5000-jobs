@@ -2,6 +2,8 @@
 
 Welcome to the Aircraft Maintenance Engineer (AME) Interview Preparation ! This resource is designed to help you ace your Aircraft Maintenance Engineer (AME) interviews with confidence.
 
+The aviation and aerospace industry is a dynamic and ever-evolving field that involves the design, manufacturing, maintenance, and operation of aircraft and space vehicles. Aircraft maintenance plays a crucial role in ensuring the safety and airworthiness of aircraft. An Aircraft Maintenance Engineer (AME) is responsible for inspecting, troubleshooting, repairing, and maintaining various aircraft systems and components. They work closely with pilots, flight crews, and ground staff to ensure that all maintenance tasks are carried out in accordance with strict aviation regulations and safety standards. AMEs possess in-depth knowledge of aircraft mechanics, electrical systems, avionics, and propulsion systems, making them an integral part of the aviation industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Aircraft Maintenance Engineer (AME) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Aircraft Maintenance Engineer (AME) interviews to help you prepare and succeed.

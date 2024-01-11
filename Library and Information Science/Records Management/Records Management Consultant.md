@@ -2,6 +2,8 @@
 
 Welcome to the Records Management Consultant Interview Preparation ! This resource is designed to help you ace your Records Management Consultant interviews with confidence.
 
+Library and Information Science is a field that focuses on the organization, preservation, and retrieval of information resources in various formats. Within this field, Records Management is a specialized area that deals with the efficient and systematic control of an organization's records throughout their lifecycle. A Records Management Consultant plays a crucial role in this process by providing expert advice and assistance to organizations in managing their records effectively. They develop and implement recordkeeping policies and procedures, conduct audits, and provide training to staff members. A skilled Records Management Consultant ensures that organizations comply with legal and regulatory requirements, while also maximizing the accessibility and usability of their records for business needs.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Records Management Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Records Management Consultant interviews to help you prepare and succeed.

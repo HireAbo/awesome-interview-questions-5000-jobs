@@ -2,6 +2,8 @@
 
 Welcome to the Nuclear Regulatory Compliance Analyst Interview Preparation ! This resource is designed to help you ace your Nuclear Regulatory Compliance Analyst interviews with confidence.
 
+A Nuclear Regulatory Compliance Analyst in the field of Energy and Utilities is responsible for ensuring the safe and efficient operation of nuclear energy facilities. They play a crucial role in assessing and maintaining compliance with all federal, state, and local regulations governing the use of nuclear energy. These professionals work closely with regulatory agencies to interpret and implement rules and guidelines, as well as develop and update compliance programs and procedures. They conduct thorough inspections, audits, and evaluations of nuclear facilities to identify potential risks and ensure adherence to safety protocols. Their expertise is essential in promoting the responsible and secure use of nuclear energy.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nuclear Regulatory Compliance Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nuclear Regulatory Compliance Analyst interviews to help you prepare and succeed.

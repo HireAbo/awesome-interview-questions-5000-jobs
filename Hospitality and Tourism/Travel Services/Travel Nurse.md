@@ -2,6 +2,8 @@
 
 Welcome to the Travel Nurse Interview Preparation ! This resource is designed to help you ace your Travel Nurse interviews with confidence.
 
+A travel nurse is a healthcare professional who is hired on a temporary basis to fill in nursing vacancies in various healthcare facilities across different locations. This unique job role falls under the category of Travel Services in the Hospitality and Tourism industry. Travel nurses play a vital role in providing quality healthcare to patients in need, while also enjoying the opportunity to explore new places and cultures. They are responsible for administering medical care, monitoring patient progress, and collaborating with the healthcare team. This job requires flexibility, adaptability, and a passion for both nursing and travel. Travel nurses also have the chance to gain valuable experience working in diverse healthcare settings and build a strong professional network.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Travel Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Travel Nurse interviews to help you prepare and succeed.

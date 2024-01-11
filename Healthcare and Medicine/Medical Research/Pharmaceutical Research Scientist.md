@@ -2,6 +2,8 @@
 
 Welcome to the Pharmaceutical Research Scientist Interview Preparation ! This resource is designed to help you ace your Pharmaceutical Research Scientist interviews with confidence.
 
+A Pharmaceutical Research Scientist plays a vital role in healthcare and medicine by conducting extensive research to develop new drugs and improve existing medications. These professionals work in laboratories and collaborate with a team of scientists, physicians, and technicians to study the effectiveness, safety, and potential side effects of drugs. They design and conduct experiments, analyze data, and interpret findings to determine the efficacy of different compounds. Pharmaceutical Research Scientists also stay up-to-date with the latest advancements in their field and contribute to scientific publications. Their work significantly contributes to the development of new treatments, ultimately improving patient outcomes and advancing medical knowledge.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Pharmaceutical Research Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Pharmaceutical Research Scientist interviews to help you prepare and succeed.

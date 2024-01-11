@@ -2,6 +2,8 @@
 
 Welcome to the Supporting Actor Interview Preparation ! This resource is designed to help you ace your Supporting Actor interviews with confidence.
 
+A Supporting Actor is a crucial component of the entertainment and performing arts industry. They play a pivotal role in enhancing the overall narrative of a film, play, or television show. Supporting Actors provide depth and complexity to the story by portraying characters that complement and interact with the main protagonist. They work closely with the lead actors, directors, and other members of the production team to bring the script to life. This job requires exceptional acting skills, versatility, and the ability to embody different personalities and emotions. Supporting Actors contribute significantly to the success and impact of a performance, making them indispensable in the realm of entertainment and performing arts.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Supporting Actor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Supporting Actor interviews to help you prepare and succeed.

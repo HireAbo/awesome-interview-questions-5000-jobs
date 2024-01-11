@@ -2,6 +2,8 @@
 
 Welcome to the Aircraft Welder Interview Preparation ! This resource is designed to help you ace your Aircraft Welder interviews with confidence.
 
+An aircraft welder is a highly skilled professional who specializes in welding and fabricating metal components used in the aviation industry. These professionals play a crucial role in ensuring the safety and structural integrity of aircraft. Their responsibilities include interpreting blueprints and technical drawings, selecting appropriate welding techniques and materials, and operating specialized equipment such as welding torches and plasma cutters. Aircraft welders must possess a strong attention to detail and precision, as even the smallest welding defects can compromise the functionality and safety of an aircraft. They are also required to adhere to strict quality standards and safety regulations to maintain the highest level of craftsmanship in their work.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Aircraft Welder or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Aircraft Welder interviews to help you prepare and succeed.

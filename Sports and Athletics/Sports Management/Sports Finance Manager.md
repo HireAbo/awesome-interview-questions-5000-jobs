@@ -2,6 +2,8 @@
 
 Welcome to the Sports Finance Manager Interview Preparation ! This resource is designed to help you ace your Sports Finance Manager interviews with confidence.
 
+A Sports Finance Manager is a crucial role in the field of Sports Management. As the financial backbone of sports organizations, they are responsible for overseeing all financial aspects of the business. This includes budgeting, financial planning, forecasting, and managing revenue streams. They analyze financial data, identify trends, and provide strategic recommendations to maximize profitability and ensure the financial stability of the organization. A Sports Finance Manager also collaborates with other departments to develop and implement financial strategies that align with the organization's goals. They possess strong analytical skills, a deep understanding of finance and accounting principles, and a passion for the sports industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sports Finance Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sports Finance Manager interviews to help you prepare and succeed.

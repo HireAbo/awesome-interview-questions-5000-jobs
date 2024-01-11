@@ -2,6 +2,10 @@
 
 Welcome to the Content Manager Interview Preparation ! This resource is designed to help you ace your Content Manager interviews with confidence.
 
+Library and Information Science is a multidisciplinary field that focuses on the organization, management, and retrieval of information resources. Within this field, Information Management is a crucial aspect that involves the strategic planning, acquisition, organization, and dissemination of information within an organization. 
+
+As part of the Information Management domain, the Content Manager job plays a vital role in ensuring the effective management of an organization's digital content. A Content Manager is responsible for overseeing the creation, editing, and publishing of content across various platforms, ensuring accuracy, relevance, and consistency. They collaborate with different departments to develop content strategies, manage digital assets, and implement content management systems. Additionally, Content Managers analyze user engagement and behavior, making data-driven decisions to optimize content for better user experience and achieve organizational goals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Content Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Content Manager interviews to help you prepare and succeed.

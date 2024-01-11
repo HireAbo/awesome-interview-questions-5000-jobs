@@ -2,6 +2,8 @@
 
 Welcome to the Forensic Anthropologist Interview Preparation ! This resource is designed to help you ace your Forensic Anthropologist interviews with confidence.
 
+A forensic anthropologist plays a crucial role in the field of law and criminal justice, specifically within the realm of forensic science. This specialized professional utilizes the principles of anthropology to analyze human remains and solve mysteries surrounding unidentified or deceased individuals. With a deep understanding of human anatomy, skeletal structure, and biological markers, forensic anthropologists assist law enforcement agencies in determining the cause of death, identifying victims, and providing critical evidence in criminal investigations. They are trained to assess skeletal remains, estimate age, sex, and stature, analyze trauma or injury patterns, and reconstruct facial features. Through their expertise, forensic anthropologists help bring justice to victims and closure to families affected by crime.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forensic Anthropologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forensic Anthropologist interviews to help you prepare and succeed.

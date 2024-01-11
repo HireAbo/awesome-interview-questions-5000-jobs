@@ -2,6 +2,8 @@
 
 Welcome to the Interior Design Visual Merchandiser Interview Preparation ! This resource is designed to help you ace your Interior Design Visual Merchandiser interviews with confidence.
 
+An Interior Design Visual Merchandiser is responsible for creating visually appealing and enticing displays within a retail or commercial space. This role combines the principles of interior design with marketing strategies to effectively showcase products and promote sales. The Visual Merchandiser collaborates with the interior design team to develop innovative concepts that align with the brand's image and target audience. They have a keen eye for aesthetics, color schemes, and spatial arrangements, ensuring that the displays are visually cohesive and aesthetically pleasing. Additionally, they stay updated with the latest design trends, furniture, and decor options, allowing them to create captivating and inspiring environments for customers to experience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Interior Design Visual Merchandiser or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Interior Design Visual Merchandiser interviews to help you prepare and succeed.

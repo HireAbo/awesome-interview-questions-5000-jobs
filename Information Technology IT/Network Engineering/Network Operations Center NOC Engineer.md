@@ -2,6 +2,8 @@
 
 Welcome to the Network Operations Center (NOC) Engineer Interview Preparation ! This resource is designed to help you ace your Network Operations Center (NOC) Engineer interviews with confidence.
 
+A Network Operations Center (NOC) Engineer is a crucial role within the field of Information Technology (IT) Network Engineering. NOC Engineers are responsible for monitoring, managing, and maintaining the smooth operation of computer networks for organizations. They play a vital role in ensuring network efficiency, uptime, and security. NOC Engineers are proficient in network devices, protocols, and troubleshooting techniques, enabling them to identify and address network issues promptly. They are skilled in configuring and optimizing network equipment, monitoring network performance, and providing technical support to resolve network-related problems. NOC Engineers work closely with other IT professionals to ensure seamless connectivity, network stability, and data integrity.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Network Operations Center (NOC) Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Network Operations Center (NOC) Engineer interviews to help you prepare and succeed.

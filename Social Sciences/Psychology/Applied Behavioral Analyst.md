@@ -2,6 +2,8 @@
 
 Welcome to the Applied Behavioral Analyst Interview Preparation ! This resource is designed to help you ace your Applied Behavioral Analyst interviews with confidence.
 
+Applied Behavior Analysis (ABA) is a specialized field within the realm of psychology that focuses on understanding and modifying human behavior for the purpose of improving individuals' lives. ABA professionals, known as Applied Behavioral Analysts (ABAs), utilize scientific principles and evidence-based practices to assess and treat various behavioral issues and disorders. These skilled practitioners work closely with individuals of all ages, including children with autism spectrum disorder, individuals with developmental disabilities, and those with mental health conditions. ABAs employ techniques such as reinforcement, shaping, and prompting to teach social, communication, and daily living skills, while also reducing challenging behaviors. Through their expertise, ABAs play a critical role in enhancing the overall functioning and quality of life of their clients.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Applied Behavioral Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Applied Behavioral Analyst interviews to help you prepare and succeed.

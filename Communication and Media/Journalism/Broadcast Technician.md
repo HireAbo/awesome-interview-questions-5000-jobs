@@ -2,6 +2,8 @@
 
 Welcome to the Broadcast Technician Interview Preparation ! This resource is designed to help you ace your Broadcast Technician interviews with confidence.
 
+A Broadcast Technician plays a crucial role in the field of Journalism and Communication. This job involves working behind the scenes to ensure the smooth operation of broadcasting equipment and systems. These professionals are responsible for setting up and maintaining audio and video equipment, such as cameras, microphones, and editing machines. They also handle technical issues, troubleshoot problems, and ensure the quality of sound and visuals during live broadcasts. Broadcast Technicians work closely with journalists, producers, and other media personnel to ensure that the final product meets the highest standards. Their expertise in broadcast technology and their ability to adapt to fast-paced environments make them indispensable in the world of media and journalism.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Broadcast Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Broadcast Technician interviews to help you prepare and succeed.

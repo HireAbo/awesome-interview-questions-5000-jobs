@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife Biologist Interview Preparation ! This resource is designed to help you ace your Wildlife Biologist interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on the sustainable management of natural resources, including soil, water, and air. It encompasses various aspects such as crop production, land management, and wildlife conservation. In the realm of wildlife conservation, professionals like wildlife biologists play a crucial role. Wildlife biologists study and analyze the behavior, habitat, and population dynamics of various animal species, aiming to conserve and protect their natural habitats. They conduct field research, collect data, and collaborate with other experts to develop conservation strategies. Wildlife biologists also work on projects to restore endangered species and educate the public about the importance of wildlife preservation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Biologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Biologist interviews to help you prepare and succeed.

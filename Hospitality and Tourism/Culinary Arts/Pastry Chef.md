@@ -2,6 +2,8 @@
 
 Welcome to the Pastry Chef Interview Preparation ! This resource is designed to help you ace your Pastry Chef interviews with confidence.
 
+Hospitality and Tourism is a vast industry that encompasses various sectors, including the culinary arts. The culinary arts field offers a plethora of career opportunities, one of which is being a Pastry Chef. A Pastry Chef is an expert in creating delectable desserts and baked goods. They specialize in the art of pastry making, using their creativity and technical skills to produce visually appealing and mouth-watering treats. Pastry Chefs work in a variety of establishments, such as hotels, restaurants, bakeries, and patisseries, where they design menus, create recipes, and oversee the production of pastries. This role requires a strong passion for baking, attention to detail, and a thorough understanding of flavor combinations and techniques.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Pastry Chef or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Pastry Chef interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Fish and Game Warden Interview Preparation ! This resource is designed to help you ace your Fish and Game Warden interviews with confidence.
 
+Agriculture and Environmental Science is an interdisciplinary field that focuses on the study of the environment and the impact of human activities on natural resources. Within this field, the role of a Fish and Game Warden is crucial in ensuring the conservation and protection of fish and wildlife species. Fish and Game Wardens are responsible for enforcing laws and regulations related to hunting, fishing, and trapping. They monitor and patrol protected areas, investigate poaching or illegal activities, and work closely with local communities to educate them about conservation practices. Their work is essential in maintaining the delicate balance between human activities and the preservation of our natural resources.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Fish and Game Warden or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Fish and Game Warden interviews to help you prepare and succeed.

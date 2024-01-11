@@ -2,6 +2,8 @@
 
 Welcome to the Software Architect Interview Preparation ! This resource is designed to help you ace your Software Architect interviews with confidence.
 
+A Software Architect is a crucial role in the field of Information Technology (IT) and software development. They are responsible for designing and implementing software solutions that meet the needs of an organization. A Software Architect is an expert in software design principles and possesses a deep understanding of various programming languages, frameworks, and technologies. They collaborate with stakeholders, including business analysts, developers, and project managers, to gather requirements and create architectural designs that ensure scalability, performance, and security. A Software Architect also provides guidance and support to the development team throughout the software development lifecycle, ensuring the successful delivery of high-quality software solutions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Software Architect or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Software Architect interviews to help you prepare and succeed.

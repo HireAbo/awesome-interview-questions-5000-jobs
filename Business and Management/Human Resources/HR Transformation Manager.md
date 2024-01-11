@@ -2,6 +2,8 @@
 
 Welcome to the HR Transformation Manager Interview Preparation ! This resource is designed to help you ace your HR Transformation Manager interviews with confidence.
 
+The HR Transformation Manager is a crucial role within the field of Business and Management, specifically in Human Resources. This role involves leading and driving strategic initiatives to transform HR operations and processes within an organization. The HR Transformation Manager is responsible for developing and implementing innovative HR strategies and programs to improve efficiency, reduce costs, and enhance employee experience. They collaborate with cross-functional teams to identify and address HR needs, such as talent acquisition, performance management, employee engagement, and organizational development. The HR Transformation Manager must possess strong leadership, project management, and change management skills to successfully navigate the complex landscape of HR transformation and drive positive organizational change.
+
 ## 🚀 Overview
 
 Whether you're a seasoned HR Transformation Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in HR Transformation Manager interviews to help you prepare and succeed.

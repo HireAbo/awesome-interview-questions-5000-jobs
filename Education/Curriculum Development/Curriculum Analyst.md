@@ -2,6 +2,8 @@
 
 Welcome to the Curriculum Analyst Interview Preparation ! This resource is designed to help you ace your Curriculum Analyst interviews with confidence.
 
+A Curriculum Analyst plays a crucial role in the field of Education, specifically in Curriculum Development. As a Curriculum Analyst, one is responsible for evaluating, analyzing, and developing educational curricula that align with objectives, standards, and student needs. This role involves collaborating with teachers, administrators, and subject matter experts to ensure the curriculum is comprehensive, engaging, and effective. A Curriculum Analyst conducts thorough research, gathers data, and identifies trends to make informed decisions on curriculum enhancements or revisions. They also design assessments and evaluate instructional materials to ensure they meet educational standards. Ultimately, a Curriculum Analyst contributes to creating a dynamic, relevant, and impactful educational experience for students.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Curriculum Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Curriculum Analyst interviews to help you prepare and succeed.

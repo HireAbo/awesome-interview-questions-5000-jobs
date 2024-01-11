@@ -2,6 +2,8 @@
 
 Welcome to the Sales Trainer Interview Preparation ! This resource is designed to help you ace your Sales Trainer interviews with confidence.
 
+A Sales Trainer is a professional who specializes in training, coaching, and mentoring sales teams to enhance their selling skills and achieve sales targets. They play a crucial role in the retail and sales industry by designing and delivering effective training programs that improve sales techniques, product knowledge, customer service, and overall performance of sales representatives. Sales Trainers are responsible for evaluating the strengths and weaknesses of sales teams, identifying areas of improvement, and developing customized training strategies to address these needs. Their goal is to empower sales professionals with the necessary skills and knowledge to build customer relationships, increase revenue, and drive business growth.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sales Trainer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sales Trainer interviews to help you prepare and succeed.

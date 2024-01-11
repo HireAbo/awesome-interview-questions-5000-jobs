@@ -2,6 +2,8 @@
 
 Welcome to the Business Analyst Interview Preparation ! This resource is designed to help you ace your Business Analyst interviews with confidence.
 
+A Business Analyst job in the field of Mathematics and Statistics, specifically focused on quantitative analysis, involves utilizing mathematical and statistical techniques to analyze and interpret complex data sets in order to provide valuable insights and recommendations to businesses. This role requires a strong foundation in mathematical concepts such as calculus, probability, and linear algebra, as well as proficiency in statistical methodologies. Business Analysts in this domain employ various quantitative tools and software to model business processes, forecast trends, identify patterns, and optimize decision-making. Their ability to translate data into meaningful information helps organizations make informed strategic choices and drive growth and profitability.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Business Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Business Analyst interviews to help you prepare and succeed.

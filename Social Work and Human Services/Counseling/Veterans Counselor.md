@@ -2,6 +2,8 @@
 
 Welcome to the Veterans Counselor Interview Preparation ! This resource is designed to help you ace your Veterans Counselor interviews with confidence.
 
+Social Work and Human Services encompass a wide range of professions aimed at helping individuals and communities overcome challenges and improve their overall well-being. Within this field, the role of a Veterans Counselor is of particular importance. Veterans Counselors specialize in providing counseling and support to veterans who may be experiencing physical, mental, or emotional health issues as a result of their service. These professionals work closely with veterans, their families, and relevant organizations to address a variety of concerns such as trauma, substance abuse, reintegration into civilian life, and mental health disorders like PTSD. Veterans Counselors play a vital role in ensuring that those who have served their country receive the care and support they need to lead fulfilling lives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Veterans Counselor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Veterans Counselor interviews to help you prepare and succeed.

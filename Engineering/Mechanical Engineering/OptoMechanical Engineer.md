@@ -2,6 +2,8 @@
 
 Welcome to the Opto-Mechanical Engineer Interview Preparation ! This resource is designed to help you ace your Opto-Mechanical Engineer interviews with confidence.
 
+An Opto-Mechanical Engineer is a specialized mechanical engineer who focuses on the design, development, and integration of optical and mechanical systems. They play a crucial role in industries such as aerospace, defense, telecommunications, and manufacturing. Opto-Mechanical Engineers are responsible for designing and optimizing systems that involve the interaction of light and mechanical components. They work closely with optical engineers and other professionals to develop innovative solutions and ensure the seamless integration of optical and mechanical elements. Their expertise includes precision machining, optical component selection, system alignment, thermal management, and vibration control. Opto-Mechanical Engineers possess a strong understanding of both mechanical engineering principles and optical physics, allowing them to create cutting-edge technologies and contribute to various industries.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Opto-Mechanical Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Opto-Mechanical Engineer interviews to help you prepare and succeed.

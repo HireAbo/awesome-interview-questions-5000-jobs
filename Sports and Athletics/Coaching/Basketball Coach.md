@@ -2,6 +2,8 @@
 
 Welcome to the Basketball Coach Interview Preparation ! This resource is designed to help you ace your Basketball Coach interviews with confidence.
 
+A Basketball Coach plays a vital role in the world of sports and athletics, specifically in the game of basketball. They are responsible for training, mentoring, and guiding their team to achieve their full potential. This job requires a deep understanding of the game, strategic thinking, and strong leadership skills. The Basketball Coach designs practice sessions, develops game plans, and evaluates the performance of players. They provide constructive feedback, motivate players, and instill discipline and teamwork. A successful Basketball Coach not only focuses on improving the players' physical skills but also helps in their personal growth and character development.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Basketball Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Basketball Coach interviews to help you prepare and succeed.

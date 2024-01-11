@@ -2,6 +2,8 @@
 
 Welcome to the Criminal Defense Attorney Interview Preparation ! This resource is designed to help you ace your Criminal Defense Attorney interviews with confidence.
 
+A Criminal Defense Attorney is a legal professional who specializes in the defense of individuals or organizations charged with criminal activities. Their main responsibility is to protect the rights of their clients and provide legal representation during criminal proceedings. Criminal Defense Attorneys possess a deep understanding of criminal law and have extensive knowledge of the legal system. They examine evidence, interview witnesses, and build a strong defense strategy to challenge the prosecution's case. Their expertise allows them to negotiate plea deals, advocate for reduced charges, or present a strong defense in court. Criminal Defense Attorneys play a crucial role in ensuring fair and just legal proceedings for all individuals accused of crimes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Criminal Defense Attorney or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Criminal Defense Attorney interviews to help you prepare and succeed.

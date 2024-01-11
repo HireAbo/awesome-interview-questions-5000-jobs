@@ -2,6 +2,8 @@
 
 Welcome to the Automotive Service Advisor Interview Preparation ! This resource is designed to help you ace your Automotive Service Advisor interviews with confidence.
 
+The Automotive Service Advisor is a vital role within the field of auto mechanics. As a liaison between customers and technicians, this skilled trades professional plays a crucial role in ensuring customer satisfaction and efficient vehicle repairs. Automotive Service Advisors possess in-depth knowledge of automotive systems, maintenance requirements, and repair procedures. They communicate with customers to understand their concerns, conduct vehicle inspections, and provide accurate estimates for repairs. Moreover, they schedule appointments, coordinate service orders, and communicate updates to customers throughout the repair process. Strong communication, problem-solving, and organizational skills are essential for success in this role, making Automotive Service Advisors an invaluable asset to any automotive repair facility.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Automotive Service Advisor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Automotive Service Advisor interviews to help you prepare and succeed.

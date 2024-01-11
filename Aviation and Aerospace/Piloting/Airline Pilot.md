@@ -2,6 +2,8 @@
 
 Welcome to the Airline Pilot Interview Preparation ! This resource is designed to help you ace your Airline Pilot interviews with confidence.
 
+Aviation and Aerospace industry encompasses various fields, and one of the most prestigious and sought-after careers within this sector is that of an Airline Pilot. Airline Pilots are responsible for safely operating and navigating commercial aircraft to transport passengers and cargo across domestic and international destinations. This role demands a high level of skill, knowledge, and professionalism. Airline Pilots undergo rigorous training and obtain the necessary licenses and certifications to ensure the utmost safety of the flight. They must possess excellent decision-making abilities, communication skills, and the ability to work well under pressure. As ambassadors of the aviation industry, Airline Pilots play a crucial role in ensuring the smooth and efficient functioning of the global air transport system.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Airline Pilot or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Airline Pilot interviews to help you prepare and succeed.

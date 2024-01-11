@@ -2,6 +2,8 @@
 
 Welcome to the Cargo Pilot Interview Preparation ! This resource is designed to help you ace your Cargo Pilot interviews with confidence.
 
+A cargo pilot is a professional aviator who operates aircraft specifically designed for transporting cargo. They play a crucial role in the aviation and aerospace industry by ensuring the timely and safe delivery of goods and supplies across different locations. Cargo pilots are responsible for planning and executing flight routes, conducting pre-flight inspections, and ensuring that cargo is properly loaded and secured. They work closely with ground crews, air traffic controllers, and other aviation professionals to coordinate efficient and smooth operations. Attention to detail, strong decision-making skills, and the ability to work under pressure are essential traits for a successful cargo pilot.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cargo Pilot or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cargo Pilot interviews to help you prepare and succeed.

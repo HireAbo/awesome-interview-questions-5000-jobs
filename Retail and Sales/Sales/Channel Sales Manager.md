@@ -2,6 +2,8 @@
 
 Welcome to the Channel Sales Manager Interview Preparation ! This resource is designed to help you ace your Channel Sales Manager interviews with confidence.
 
+A Channel Sales Manager is responsible for overseeing the sales activities and partnerships within a specific channel or distribution network for a company. This role involves developing and maintaining relationships with channel partners, such as wholesalers, distributors, and retailers, to drive sales growth and meet revenue targets. The Channel Sales Manager works closely with the sales team to provide training, support, and resources necessary for channel partners to effectively sell the company's products or services. They also analyze market trends, identify new opportunities, and develop strategies to increase market share and maximize channel performance. Excellent communication, negotiation, and analytical skills are crucial for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Channel Sales Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Channel Sales Manager interviews to help you prepare and succeed.

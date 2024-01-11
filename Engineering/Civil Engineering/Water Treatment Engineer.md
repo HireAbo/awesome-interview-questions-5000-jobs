@@ -2,6 +2,8 @@
 
 Welcome to the Water Treatment Engineer Interview Preparation ! This resource is designed to help you ace your Water Treatment Engineer interviews with confidence.
 
+A Water Treatment Engineer is a specialized civil engineer who focuses on designing, constructing, and maintaining water treatment facilities and systems. They play a crucial role in ensuring the availability of clean and safe water for communities, industries, and agriculture. These engineers are responsible for developing innovative solutions to treat water from various sources such as rivers, lakes, and groundwater, making it suitable for consumption or industrial use. They design and oversee the installation of treatment plants, including components like filtration systems, chemical dosing units, and disinfection processes. Water Treatment Engineers also monitor and optimize the efficiency of existing facilities, ensuring compliance with environmental regulations and promoting sustainable water management practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Water Treatment Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Water Treatment Engineer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the School Administrator Interview Preparation ! This resource is designed to help you ace your School Administrator interviews with confidence.
 
+A School Administrator plays a vital role in the education system as they are responsible for overseeing the overall operations and management of a school. Their primary focus is to ensure that the school is functioning effectively and efficiently, providing students with a conducive learning environment. School Administrators are involved in various tasks, including budgeting, curriculum development, staff supervision, student discipline, and community relations. They work closely with teachers, parents, and support staff to create a positive and inclusive learning environment. Strong leadership, communication, and organizational skills are essential for individuals pursuing a career as a School Administrator to effectively support and enhance the educational experience for students.
+
 ## 🚀 Overview
 
 Whether you're a seasoned School Administrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in School Administrator interviews to help you prepare and succeed.

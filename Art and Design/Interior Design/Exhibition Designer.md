@@ -2,6 +2,8 @@
 
 Welcome to the Exhibition Designer Interview Preparation ! This resource is designed to help you ace your Exhibition Designer interviews with confidence.
 
+An Exhibition Designer is a creative professional who specializes in the art and design field of interior design, specifically focusing on the creation and planning of exhibitions. They play a crucial role in transforming spaces into visually captivating and immersive environments that showcase various artworks, artifacts, or products. Exhibition Designers possess a keen eye for aesthetics, understanding how to effectively use colors, lighting, textures, and spatial arrangements to evoke specific emotions and enhance the overall visitor experience. They collaborate closely with artists, curators, architects, and other stakeholders to develop innovative concepts, design layouts, and select suitable materials. Their expertise lies in merging art, design, and functionality to create memorable exhibition spaces that engage and inspire audiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Exhibition Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Exhibition Designer interviews to help you prepare and succeed.

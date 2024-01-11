@@ -2,6 +2,8 @@
 
 Welcome to the Database Developer Interview Preparation ! This resource is designed to help you ace your Database Developer interviews with confidence.
 
+A Database Developer plays a crucial role in the field of Information Technology (IT) and Software Development. They are responsible for designing, implementing, and maintaining databases that store and organize vast amounts of data. Their expertise lies in creating efficient and secure database systems, ensuring data integrity, and optimizing performance. Database Developers collaborate with other IT professionals, such as software engineers and system administrators, to develop and integrate database solutions that meet the specific needs of an organization. They also contribute to data modeling, data migration, and database troubleshooting. In a technology-driven world, Database Developers are essential for businesses to effectively manage and utilize their data assets.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Database Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Database Developer interviews to help you prepare and succeed.

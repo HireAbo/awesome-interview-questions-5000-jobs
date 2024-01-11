@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Sales Consultant Interview Preparation ! This resource is designed to help you ace your Real Estate Sales Consultant interviews with confidence.
 
+A Real Estate Sales Consultant is a professional who assists clients in buying, selling, or renting properties. They specialize in understanding the local real estate market and provide valuable insights to clients, helping them make informed decisions. These consultants work closely with clients to determine their needs, preferences, and budget, and then match them with suitable properties. They conduct property inspections, negotiate prices, prepare contracts, and guide clients through the entire sales process. Real Estate Sales Consultants must possess excellent communication and negotiation skills, as well as a deep understanding of market trends and legalities related to property sales. Their goal is to ensure a smooth and successful transaction for both buyers and sellers.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Sales Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Sales Consultant interviews to help you prepare and succeed.

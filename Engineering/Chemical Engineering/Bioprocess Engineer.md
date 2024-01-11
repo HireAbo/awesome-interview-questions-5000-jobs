@@ -2,6 +2,8 @@
 
 Welcome to the Bioprocess Engineer Interview Preparation ! This resource is designed to help you ace your Bioprocess Engineer interviews with confidence.
 
+A Bioprocess Engineer is a specialized professional within the field of Chemical Engineering. They play a crucial role in the development and implementation of biotechnology processes for the production of pharmaceuticals, biofuels, and other industrial products. These engineers work at the intersection of biology, chemistry, and engineering, utilizing their knowledge to design, optimize, and scale-up bioprocesses. They are responsible for designing equipment, creating process models, and conducting experiments to ensure efficient and safe production. Bioprocess Engineers also collaborate with research and development teams to innovate and improve processes, as well as troubleshoot any issues that may arise during production. Their work contributes to the advancement of sustainable and environmentally friendly technologies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Bioprocess Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Bioprocess Engineer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Electrical Controls Engineer Interview Preparation ! This resource is designed to help you ace your Electrical Controls Engineer interviews with confidence.
 
+An Electrical Controls Engineer is a professional who specializes in designing, developing, and implementing electrical control systems for various industries. They play a crucial role in ensuring the safe and efficient operation of electrical equipment and machinery. Electrical Controls Engineers are responsible for analyzing system requirements, designing control systems, and selecting appropriate components. They also develop and test prototypes, create electrical schematics, and oversee the installation and maintenance of control systems. Additionally, these engineers collaborate with other team members, such as mechanical and software engineers, to integrate electrical control systems into larger projects. A career as an Electrical Controls Engineer offers challenging and rewarding opportunities in diverse industries, including manufacturing, automation, and renewable energy.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Electrical Controls Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Electrical Controls Engineer interviews to help you prepare and succeed.

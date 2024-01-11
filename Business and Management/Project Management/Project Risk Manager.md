@@ -2,6 +2,8 @@
 
 Welcome to the Project Risk Manager Interview Preparation ! This resource is designed to help you ace your Project Risk Manager interviews with confidence.
 
+A Project Risk Manager is a vital role in the field of Business and Management, specifically in Project Management. This professional is responsible for identifying, assessing, and mitigating potential risks that may arise during a project's lifecycle. They play a crucial role in ensuring project success by developing risk management strategies, conducting risk assessments, and implementing risk mitigation plans. Project Risk Managers utilize their expertise to identify potential threats and opportunities, evaluate their potential impact on project objectives, and develop contingency plans to minimize the impact of risks. Their skills in problem-solving, communication, and teamwork are crucial in effectively managing and controlling project risks.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Project Risk Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Project Risk Manager interviews to help you prepare and succeed.

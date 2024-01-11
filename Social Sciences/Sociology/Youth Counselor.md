@@ -2,6 +2,8 @@
 
 Welcome to the Youth Counselor Interview Preparation ! This resource is designed to help you ace your Youth Counselor interviews with confidence.
 
+A youth counselor plays a crucial role in the field of social sciences, specifically sociology. They are professionals dedicated to supporting and guiding young individuals facing various challenges in their lives. As a youth counselor, they work closely with adolescents and young adults to address their emotional, social, and psychological needs. This job requires a deep understanding of social dynamics, human behavior, and the ability to build trusting relationships with young people. Youth counselors provide guidance, counseling, and mentorship to help young individuals navigate through personal issues, make informed decisions, and develop essential life skills. Their goal is to empower young people to overcome obstacles and achieve their full potential.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Youth Counselor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Youth Counselor interviews to help you prepare and succeed.

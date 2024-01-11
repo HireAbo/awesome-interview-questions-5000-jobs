@@ -2,6 +2,8 @@
 
 Welcome to the Electric Utility Manager Interview Preparation ! This resource is designed to help you ace your Electric Utility Manager interviews with confidence.
 
+An Electric Utility Manager is a professional responsible for overseeing and managing the operations of an electric utility company. This role requires a deep understanding of energy and utilities, specifically regarding the generation, distribution, and transmission of electricity. The Electric Utility Manager's primary responsibilities include ensuring the safe and efficient delivery of electricity to customers, managing the utility's infrastructure, and developing strategies to improve operational efficiency and customer satisfaction. They also collaborate with various stakeholders such as engineers, technicians, and regulatory bodies to ensure compliance with industry standards and regulations. A successful Electric Utility Manager must possess strong leadership skills, technical knowledge, and a commitment to sustainability and renewable energy initiatives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Electric Utility Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Electric Utility Manager interviews to help you prepare and succeed.

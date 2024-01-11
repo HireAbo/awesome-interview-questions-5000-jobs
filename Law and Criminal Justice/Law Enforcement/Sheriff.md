@@ -2,6 +2,8 @@
 
 Welcome to the Sheriff Interview Preparation ! This resource is designed to help you ace your Sheriff interviews with confidence.
 
+A Sheriff is a critical position within the law enforcement sector, responsible for upholding law and order in a specific county or jurisdiction. The role of a Sheriff involves managing and overseeing various aspects of law enforcement, including maintaining public safety, preventing crime, and enforcing state and local laws. Sheriffs are typically elected officials, accountable to the community they serve. They lead a team of deputies and staff, ensuring a proactive approach to crime prevention, investigating criminal activities, apprehending suspects, and providing security within courtrooms and correctional facilities. Sheriffs also play a vital role in community outreach, fostering positive relationships with residents and promoting crime prevention initiatives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sheriff or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sheriff interviews to help you prepare and succeed.

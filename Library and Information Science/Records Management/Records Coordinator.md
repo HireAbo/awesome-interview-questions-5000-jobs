@@ -2,6 +2,8 @@
 
 Welcome to the Records Coordinator Interview Preparation ! This resource is designed to help you ace your Records Coordinator interviews with confidence.
 
+Library and Information Science is a field that encompasses the management and organization of information resources in various formats. Within this field, Records Management is a specialized area that focuses on the systematic control and maintenance of records throughout their lifecycle. A Records Coordinator is a professional responsible for overseeing and implementing effective records management practices within an organization. They ensure compliance with legal and regulatory requirements, develop and maintain record retention policies, and coordinate the storage, retrieval, and disposal of records. Additionally, a Records Coordinator may assist in the development of training programs for staff, conduct audits, and provide guidance on best practices for records management.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Records Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Records Coordinator interviews to help you prepare and succeed.

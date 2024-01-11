@@ -2,6 +2,8 @@
 
 Welcome to the Optics Physicist Interview Preparation ! This resource is designed to help you ace your Optics Physicist interviews with confidence.
 
+A career in Optics Physics as a physicist involves conducting scientific research and applying principles of physics to study light and its interactions with matter. Optics physicists explore the fundamental properties of light, such as its behavior, propagation, and interaction with different materials. They design and develop optical devices, instruments, and systems for various applications, including telecommunications, imaging, and medical technologies. Optics physicists also contribute to the development of advanced optical materials, lasers, and optical sensors. They use sophisticated experimental techniques and mathematical models to analyze and interpret data, and collaborate with other scientists and engineers to advance our understanding of optics and contribute to technological advancements in various industries.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Optics Physicist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Optics Physicist interviews to help you prepare and succeed.

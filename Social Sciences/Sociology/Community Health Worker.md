@@ -2,6 +2,8 @@
 
 Welcome to the Community Health Worker Interview Preparation ! This resource is designed to help you ace your Community Health Worker interviews with confidence.
 
+A community health worker, within the field of sociology and social sciences, is an integral part of healthcare systems, focusing on promoting and improving the well-being of individuals and communities. These professionals play a vital role in bridging the gap between healthcare providers and underserved populations. Community health workers work closely with community members, identifying their specific healthcare needs and providing education and support. They assist in navigating healthcare systems, advocating for health equity, and implementing preventive measures. With their knowledge of social determinants of health, cultural competence, and communication skills, community health workers aim to empower individuals and communities to make informed decisions about their health, fostering overall well-being for all.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Community Health Worker or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Community Health Worker interviews to help you prepare and succeed.

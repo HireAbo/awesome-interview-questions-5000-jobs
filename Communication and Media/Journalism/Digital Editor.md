@@ -2,6 +2,8 @@
 
 Welcome to the Digital Editor Interview Preparation ! This resource is designed to help you ace your Digital Editor interviews with confidence.
 
+A Digital Editor plays a crucial role in the field of Communication and Media, specifically within Journalism. As technology continues to shape the media landscape, Digital Editors are responsible for overseeing the production and distribution of digital content across various platforms. With a focus on accuracy, quality, and engagement, they curate and edit articles, videos, and multimedia elements to ensure they resonate with the target audience. Additionally, Digital Editors collaborate closely with journalists, writers, and content creators to develop effective strategies for online publications. They possess a deep understanding of digital trends, SEO practices, and social media platforms to optimize content and drive traffic to the news outlet's website.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Digital Editor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Digital Editor interviews to help you prepare and succeed.

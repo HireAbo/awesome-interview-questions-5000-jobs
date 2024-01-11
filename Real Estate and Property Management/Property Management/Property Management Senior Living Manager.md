@@ -2,6 +2,8 @@
 
 Welcome to the Property Management Senior Living Manager Interview Preparation ! This resource is designed to help you ace your Property Management Senior Living Manager interviews with confidence.
 
+A Property Management Senior Living Manager is a professional responsible for overseeing the operations and maintenance of senior living properties. This role involves managing the day-to-day activities of the property, ensuring the safety and well-being of the residents, and maintaining excellent customer service. The Senior Living Manager is also in charge of supervising staff members, handling resident inquiries and concerns, and maintaining a high occupancy rate. Additionally, they collaborate with vendors and contractors to ensure the property is well-maintained and meets all regulatory standards. The role requires strong leadership, organizational, and communication skills, as well as a deep understanding of the unique needs and challenges of senior living communities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Property Management Senior Living Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Property Management Senior Living Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Welding Quality Control Inspector Interview Preparation ! This resource is designed to help you ace your Welding Quality Control Inspector interviews with confidence.
 
+A Welding Quality Control Inspector plays a critical role in ensuring the integrity and safety of welded structures and components. They are responsible for evaluating and examining welds to ensure compliance with industry standards, specifications, and codes. This position requires a deep understanding of welding processes, techniques, and materials. Welding Quality Control Inspectors perform visual inspections, conduct non-destructive tests, and use advanced tools and equipment to assess weld quality. They also collaborate with welders and engineers to identify and rectify any defects or deviations. Attention to detail, strong analytical skills, and a commitment to maintaining high-quality standards are essential in this profession.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Welding Quality Control Inspector or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Welding Quality Control Inspector interviews to help you prepare and succeed.

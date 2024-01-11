@@ -2,6 +2,8 @@
 
 Welcome to the Onboarding Specialist Interview Preparation ! This resource is designed to help you ace your Onboarding Specialist interviews with confidence.
 
+An Onboarding Specialist is a key member of the Human Resources team who plays a crucial role in welcoming and integrating new employees into an organization. Their primary responsibility is to ensure a smooth transition for new hires by designing and implementing effective onboarding processes. This includes coordinating orientation programs, providing necessary training, and facilitating the completion of all required paperwork. Onboarding Specialists also act as a point of contact for new employees, addressing any questions or concerns they may have during their initial period of employment. They contribute to enhancing employee engagement, retention, and overall productivity by fostering a positive onboarding experience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Onboarding Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Onboarding Specialist interviews to help you prepare and succeed.

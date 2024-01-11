@@ -2,6 +2,8 @@
 
 Welcome to the Nuclear Instrumentation Engineer Interview Preparation ! This resource is designed to help you ace your Nuclear Instrumentation Engineer interviews with confidence.
 
+A Nuclear Instrumentation Engineer is a professional responsible for designing, developing, and maintaining the instruments and control systems used in nuclear power plants. They play a crucial role in ensuring the safe and efficient operation of nuclear reactors. These engineers are involved in the design, installation, calibration, testing, and maintenance of nuclear instrumentation systems, including radiation detection and measurement devices, control panels, and safety systems. They work closely with other engineers and technicians to troubleshoot and resolve any issues related to instrumentation and control systems. A strong background in engineering principles, nuclear physics, and radiation safety is essential for success in this dynamic and highly specialized field.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nuclear Instrumentation Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nuclear Instrumentation Engineer interviews to help you prepare and succeed.

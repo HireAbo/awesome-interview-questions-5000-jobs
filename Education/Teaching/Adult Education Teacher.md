@@ -2,6 +2,8 @@
 
 Welcome to the Adult Education Teacher Interview Preparation ! This resource is designed to help you ace your Adult Education Teacher interviews with confidence.
 
+An Adult Education Teacher plays a crucial role in providing educational opportunities for adults who are seeking to further their knowledge and skills. As an Adult Education Teacher, you would be responsible for developing and delivering lessons that cater to the specific needs and interests of adult learners. This would include teaching a wide range of subjects, such as literacy, numeracy, English as a second language, and vocational skills. You would also be responsible for assessing student progress, creating a supportive and inclusive learning environment, and adapting teaching methods to accommodate different learning styles. Overall, this job requires strong communication skills, patience, adaptability, and a passion for empowering adults through education.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Adult Education Teacher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Adult Education Teacher interviews to help you prepare and succeed.

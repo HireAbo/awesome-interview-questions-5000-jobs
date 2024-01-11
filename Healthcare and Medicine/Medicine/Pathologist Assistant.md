@@ -2,6 +2,8 @@
 
 Welcome to the Pathologist Assistant Interview Preparation ! This resource is designed to help you ace your Pathologist Assistant interviews with confidence.
 
+A Pathologist Assistant is a highly skilled healthcare professional who plays a crucial role in the field of healthcare and medicine. Working under the supervision of a licensed pathologist, they assist in the diagnosis and treatment of diseases through various laboratory procedures. Pathologist Assistants are responsible for performing autopsies, examining and dissecting tissue specimens, preparing samples for analysis, and conducting complex laboratory tests. They are well-versed in operating sophisticated medical equipment and computer systems to analyze and interpret data accurately. With their expertise in identifying abnormalities and diseases at a microscopic level, Pathologist Assistants contribute significantly to patient care and treatment decisions. Their valuable contributions make them an integral part of the healthcare team.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Pathologist Assistant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Pathologist Assistant interviews to help you prepare and succeed.

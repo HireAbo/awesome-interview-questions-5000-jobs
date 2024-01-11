@@ -2,6 +2,8 @@
 
 Welcome to the Service Plumber Interview Preparation ! This resource is designed to help you ace your Service Plumber interviews with confidence.
 
+A Service Plumber is a skilled tradesperson who specializes in the installation, repair, and maintenance of plumbing systems. They are responsible for ensuring that residential, commercial, and industrial buildings have properly functioning plumbing systems. This includes tasks such as installing pipes, fixtures, and appliances, as well as repairing leaks, unclogging drains, and troubleshooting plumbing issues. Service Plumbers must possess strong problem-solving skills, as they often need to diagnose and resolve complex plumbing problems. They also need to have excellent communication skills to interact with clients, provide them with accurate estimates, and explain plumbing issues in a clear and concise manner.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Service Plumber or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Service Plumber interviews to help you prepare and succeed.

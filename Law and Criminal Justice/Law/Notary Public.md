@@ -2,6 +2,8 @@
 
 Welcome to the Notary Public Interview Preparation ! This resource is designed to help you ace your Notary Public interviews with confidence.
 
+A Notary Public is a crucial figure within the legal system, responsible for administering oaths, witnessing and authenticating signatures, and validating important documents. As an impartial and trusted officer, they play a vital role in ensuring the legality and authenticity of various transactions and legal processes. Notaries are appointed by the state government and must adhere to strict guidelines and ethical standards. They are knowledgeable about legal procedures, document authentication, and the proper execution of legal instruments. With their expertise, Notary Publics contribute to maintaining the integrity and credibility of legal documents, contracts, and agreements, thereby promoting trust and confidence in the legal system.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Notary Public or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Notary Public interviews to help you prepare and succeed.

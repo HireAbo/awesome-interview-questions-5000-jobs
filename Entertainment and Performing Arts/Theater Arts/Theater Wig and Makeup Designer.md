@@ -2,6 +2,8 @@
 
 Welcome to the Theater Wig and Makeup Designer Interview Preparation ! This resource is designed to help you ace your Theater Wig and Makeup Designer interviews with confidence.
 
+A Theater Wig and Makeup Designer is a creative professional responsible for designing and creating wigs and makeup for theater productions. They play a crucial role in bringing characters to life by designing and enhancing their appearance on stage. These designers work closely with directors, costume designers, and actors to understand the vision and requirements of the production. They utilize their artistic skills, knowledge of historical periods, and contemporary trends to design and construct wigs that fit the characters' personalities and time periods. Additionally, they create makeup looks that enhance the actors' features and effectively communicate the desired emotions and expressions. Theater Wig and Makeup Designers are essential in creating a visually captivating and immersive theatrical experience for the audience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Theater Wig and Makeup Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Theater Wig and Makeup Designer interviews to help you prepare and succeed.

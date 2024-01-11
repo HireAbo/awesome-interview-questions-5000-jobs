@@ -2,6 +2,8 @@
 
 Welcome to the Utilities Manager Interview Preparation ! This resource is designed to help you ace your Utilities Manager interviews with confidence.
 
+A Utilities Manager is responsible for overseeing the efficient and effective management of energy and utility resources within an organization. They play a crucial role in ensuring the smooth operation of utilities such as electricity, water, gas, and waste management. The Utilities Manager is responsible for developing and implementing strategies to optimize resource usage, reduce costs, and improve sustainability. They are also accountable for maintaining compliance with regulatory requirements and ensuring the safety and reliability of utility systems. Additionally, a Utilities Manager may lead a team of professionals, coordinate with external service providers, and collaborate with other departments to achieve operational excellence in utility management.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Utilities Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Utilities Manager interviews to help you prepare and succeed.

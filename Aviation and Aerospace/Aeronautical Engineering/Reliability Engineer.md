@@ -2,6 +2,8 @@
 
 Welcome to the Reliability Engineer Interview Preparation ! This resource is designed to help you ace your Reliability Engineer interviews with confidence.
 
+Aerospace and aviation industries have revolutionized the way we travel, explore, and understand the world around us. Within the field of aeronautical engineering, the role of a reliability engineer is crucial in ensuring the safe and efficient operation of aircraft and aerospace systems. A reliability engineer is responsible for analyzing and improving the reliability, maintainability, and safety of aircraft components, systems, and processes. They conduct thorough risk assessments, develop preventive maintenance plans, and troubleshoot any potential issues to minimize downtime and maximize performance. Their expertise in data analysis, quality control, and failure analysis is essential in improving overall aircraft safety, reducing maintenance costs, and enhancing customer satisfaction.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Reliability Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Reliability Engineer interviews to help you prepare and succeed.

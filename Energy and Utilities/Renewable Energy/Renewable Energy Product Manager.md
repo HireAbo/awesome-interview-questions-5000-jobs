@@ -2,6 +2,8 @@
 
 Welcome to the Renewable Energy Product Manager Interview Preparation ! This resource is designed to help you ace your Renewable Energy Product Manager interviews with confidence.
 
+A Renewable Energy Product Manager is responsible for overseeing the development and implementation of renewable energy products within the energy and utilities sector. They play a vital role in driving the transition from traditional power sources to renewable energy solutions. This involves conducting market research, identifying customer needs, and developing innovative and sustainable products that meet these requirements. The Product Manager also collaborates with cross-functional teams to ensure successful product launches, manages product lifecycle, and monitors market trends and competitor activities. They must possess strong analytical and project management skills, as well as a deep understanding of renewable energy technologies and the regulatory landscape.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Renewable Energy Product Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Renewable Energy Product Manager interviews to help you prepare and succeed.

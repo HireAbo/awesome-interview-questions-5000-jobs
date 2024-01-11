@@ -2,6 +2,8 @@
 
 Welcome to the Project Management Coordinator Interview Preparation ! This resource is designed to help you ace your Project Management Coordinator interviews with confidence.
 
+A Project Management Coordinator plays a crucial role in the successful execution of projects within an organization. They are responsible for overseeing and coordinating various aspects of project management, ensuring that projects are completed on time, within budget, and meet all quality standards. The coordinator collaborates with project managers, team members, and stakeholders to develop project plans, define objectives, allocate resources, and monitor progress. They also track project milestones, identify potential risks, and implement necessary adjustments to mitigate any issues that may arise. Excellent organizational, communication, and problem-solving skills are essential in this role, as well as a strong understanding of project management principles and methodologies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Project Management Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Project Management Coordinator interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Archives Cataloger Interview Preparation ! This resource is designed to help you ace your Archives Cataloger interviews with confidence.
 
+Library and Information Science is a field that focuses on the management and organization of information resources within libraries and other information centers. One area of specialization within this field is archiving, which involves the preservation, arrangement, and description of historical records and materials. An Archives Cataloger is a professional who plays a crucial role in this process. They are responsible for creating detailed records and finding aids for archival collections, ensuring that the materials are easily discoverable and accessible to researchers. By meticulously cataloging and indexing archival materials, Archives Catalogers contribute to the preservation of our collective history and facilitate research and discovery in various academic and cultural institutions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Archives Cataloger or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Archives Cataloger interviews to help you prepare and succeed.

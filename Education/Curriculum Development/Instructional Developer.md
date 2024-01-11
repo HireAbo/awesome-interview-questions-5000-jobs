@@ -2,6 +2,8 @@
 
 Welcome to the Instructional Developer Interview Preparation ! This resource is designed to help you ace your Instructional Developer interviews with confidence.
 
+An Instructional Developer is a professional involved in the field of Education and Curriculum Development. This role primarily focuses on designing, creating, and implementing instructional materials and strategies to enhance the learning experience. Instructional Developers work closely with educators, subject matter experts, and technology specialists to develop engaging and effective curriculum content. They conduct research, analyze learning objectives, and assess student needs to ensure that the curriculum aligns with educational standards and goals. Additionally, Instructional Developers may also train and provide support to teachers or instructional staff on the proper use of instructional materials and technology. Overall, this role plays a vital role in shaping the educational experience and promoting effective teaching and learning methodologies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Instructional Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Instructional Developer interviews to help you prepare and succeed.

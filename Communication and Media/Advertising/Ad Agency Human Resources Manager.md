@@ -2,6 +2,8 @@
 
 Welcome to the Ad Agency Human Resources Manager Interview Preparation ! This resource is designed to help you ace your Ad Agency Human Resources Manager interviews with confidence.
 
+A Human Resources Manager in an Advertising Agency is responsible for overseeing the personnel and staffing needs within the agency's creative and marketing departments. They play a crucial role in recruiting, hiring, and onboarding new employees, as well as managing employee relations and performance evaluations. As an HR Manager in the ad agency, they ensure compliance with labor laws and company policies, and handle employee benefits and compensation. They also facilitate professional development opportunities and training programs to foster employee growth. The HR Manager acts as a liaison between the agency's management and its employees, ensuring effective communication and a positive work environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Ad Agency Human Resources Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Ad Agency Human Resources Manager interviews to help you prepare and succeed.

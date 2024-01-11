@@ -2,6 +2,8 @@
 
 Welcome to the Automotive Engine Rebuilder Interview Preparation ! This resource is designed to help you ace your Automotive Engine Rebuilder interviews with confidence.
 
+The Automotive Engine Rebuilder job is a skilled trade within the field of auto mechanics. As an Automotive Engine Rebuilder, professionals specialize in the rebuilding and repair of automotive engines. This involves disassembling, inspecting, cleaning, and replacing damaged or worn engine parts. Skilled in using various tools and diagnostic equipment, Automotive Engine Rebuilders diagnose engine problems and determine the necessary repairs or replacements. They meticulously assemble engines, ensuring proper adjustments and alignments. Additionally, they test the engines for performance and functionality. Automotive Engine Rebuilders possess a strong understanding of engine mechanics and are trained in adhering to safety protocols and industry standards. They play a vital role in keeping vehicles running smoothly and efficiently.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Automotive Engine Rebuilder or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Automotive Engine Rebuilder interviews to help you prepare and succeed.

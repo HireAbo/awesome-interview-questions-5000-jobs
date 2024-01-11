@@ -2,6 +2,8 @@
 
 Welcome to the Policy Advocacy Campaign Manager Interview Preparation ! This resource is designed to help you ace your Policy Advocacy Campaign Manager interviews with confidence.
 
+As a Government and Public Service professional, the role of a Policy Advocacy Campaign Manager is crucial in shaping and implementing effective public policies. This position involves leading and coordinating advocacy campaigns to influence policy decisions and promote positive change. The Campaign Manager plays a key role in strategizing, planning, and executing campaigns that align with the organization's goals and objectives. This includes conducting research, analyzing data, and developing comprehensive policy proposals. Strong communication and interpersonal skills are essential as the Campaign Manager collaborates with stakeholders, policymakers, and community leaders to build coalitions and mobilize support. This role requires a deep understanding of government processes, policy analysis, and the ability to navigate complex political landscapes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Policy Advocacy Campaign Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Policy Advocacy Campaign Manager interviews to help you prepare and succeed.

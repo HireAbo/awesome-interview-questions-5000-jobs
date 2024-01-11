@@ -2,6 +2,8 @@
 
 Welcome to the Analog Design Engineer Interview Preparation ! This resource is designed to help you ace your Analog Design Engineer interviews with confidence.
 
+An Analog Design Engineer is a specialized role within the field of Electrical Engineering that focuses on designing and developing analog electronic circuits and systems. These professionals play a crucial role in the development of various electronic devices and systems, such as amplifiers, filters, sensors, and power supplies. They are responsible for designing circuit components, selecting appropriate electronic components, and conducting thorough testing and troubleshooting to ensure the functionality and performance of the analog systems. Analog Design Engineers possess strong knowledge of electronic principles, circuit analysis, and design techniques, as well as proficiency in using specialized software tools and test equipment. Their expertise is essential in creating reliable and efficient analog solutions for various industries and applications.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Analog Design Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Analog Design Engineer interviews to help you prepare and succeed.

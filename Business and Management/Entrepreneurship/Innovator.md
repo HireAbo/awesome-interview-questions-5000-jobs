@@ -2,6 +2,8 @@
 
 Welcome to the Innovator Interview Preparation ! This resource is designed to help you ace your Innovator interviews with confidence.
 
+The role of an Innovator in the field of Business and Management Entrepreneurship is crucial in driving success and growth. As an Innovator, one is responsible for identifying and creating new business opportunities through the development of innovative ideas, products, or processes. This involves constantly researching and analyzing market trends, consumer needs, and technological advancements to stay ahead of the competition. Innovators possess a strong entrepreneurial mindset, striving to disrupt traditional business models and find creative solutions to problems. They possess excellent leadership and communication skills, as they collaborate with cross-functional teams to bring their ideas to life. Ultimately, Innovators play a pivotal role in shaping the future of businesses and industries through their ability to think outside the box and drive innovation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Innovator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Innovator interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Marriage and Family Therapist Interview Preparation ! This resource is designed to help you ace your Marriage and Family Therapist interviews with confidence.
 
+A Marriage and Family Therapist is a specialized professional in the field of psychology who focuses on helping individuals, couples, and families navigate and improve their relationships. These therapists have a deep understanding of human behavior, emotions, and interactions, and they apply this knowledge to assist clients in resolving conflicts and developing healthier communication patterns. They employ various therapeutic techniques to address issues such as marital distress, parenting challenges, domestic violence, and substance abuse within the context of family dynamics. Marriage and Family Therapists work in a variety of settings, including private practice, clinics, hospitals, and community centers, providing essential support to individuals and families in need.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Marriage and Family Therapist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Marriage and Family Therapist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Sitecore Developer Interview Preparation ! This resource is designed to help you ace your Sitecore Developer interviews with confidence.
 
+A Sitecore Developer is a professional who specializes in creating and maintaining web applications using the Sitecore platform. Sitecore is a leading content management system (CMS) that enables organizations to effectively manage and personalize their digital experiences. As a Sitecore Developer, one is responsible for designing, developing, and implementing software solutions that meet the client's requirements and enhance user experience. This role requires strong programming skills, particularly in .NET technologies, along with expertise in SQL, JavaScript, and HTML/CSS. Sitecore Developers collaborate with cross-functional teams, including project managers, designers, and content strategists, to ensure the successful delivery of high-quality web applications.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sitecore Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sitecore Developer interviews to help you prepare and succeed.

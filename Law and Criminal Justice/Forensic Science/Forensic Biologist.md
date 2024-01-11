@@ -2,6 +2,8 @@
 
 Welcome to the Forensic Biologist Interview Preparation ! This resource is designed to help you ace your Forensic Biologist interviews with confidence.
 
+A forensic biologist is a crucial professional in the field of law and criminal justice. Their role primarily involves the application of scientific methods to analyze biological evidence found at crime scenes. Through the examination of DNA, bodily fluids, hair, and other biological materials, forensic biologists help to identify suspects and establish connections between individuals and crime scenes. They employ advanced laboratory techniques to extract and analyze DNA samples, conduct microscopic examinations, and interpret complex scientific data. Additionally, forensic biologists may testify as expert witnesses in court, providing valuable insights and aiding in the pursuit of justice. Their work plays a vital role in solving crimes and ensuring the integrity of the criminal justice system.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forensic Biologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forensic Biologist interviews to help you prepare and succeed.

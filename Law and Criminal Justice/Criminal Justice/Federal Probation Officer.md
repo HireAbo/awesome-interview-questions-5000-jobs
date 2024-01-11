@@ -2,6 +2,8 @@
 
 Welcome to the Federal Probation Officer Interview Preparation ! This resource is designed to help you ace your Federal Probation Officer interviews with confidence.
 
+A Federal Probation Officer is an integral part of the criminal justice system in the United States. They play a crucial role in supervising and rehabilitating individuals who have been convicted of federal crimes and are serving probation. As a Federal Probation Officer, you will work closely with offenders to ensure they comply with the conditions of their probation, which may include regular check-ins, drug testing, and attending treatment programs. Additionally, you will assess their risks and needs, develop individualized rehabilitation plans, and connect them with community resources to support their reintegration into society. This challenging and rewarding career requires strong communication, problem-solving, and interpersonal skills, as you strive to promote public safety and help offenders turn their lives around.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Federal Probation Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Federal Probation Officer interviews to help you prepare and succeed.

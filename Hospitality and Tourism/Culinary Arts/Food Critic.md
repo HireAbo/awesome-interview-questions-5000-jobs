@@ -2,6 +2,8 @@
 
 Welcome to the Food Critic Interview Preparation ! This resource is designed to help you ace your Food Critic interviews with confidence.
 
+Hospitality and Tourism is a vast industry that encompasses a wide range of services, including accommodation, transportation, and food and beverage. Within this industry, Culinary Arts plays a crucial role in providing guests with exceptional dining experiences. One notable career within the culinary field is that of a Food Critic. A Food Critic is responsible for evaluating and reviewing restaurants, cafes, and other food establishments. They assess the quality of food, presentation, and service, and provide detailed feedback to help consumers make informed decisions. A Food Critic's expertise and knowledge of various cuisines and culinary techniques are vital in guiding people towards exceptional gastronomic experiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Food Critic or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Food Critic interviews to help you prepare and succeed.

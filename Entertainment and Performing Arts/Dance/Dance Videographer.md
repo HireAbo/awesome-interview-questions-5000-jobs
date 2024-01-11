@@ -2,6 +2,8 @@
 
 Welcome to the Dance Videographer Interview Preparation ! This resource is designed to help you ace your Dance Videographer interviews with confidence.
 
+A Dance Videographer is a skilled professional who specializes in capturing and documenting dance performances through the medium of video. They work closely with dancers, choreographers, and directors to understand the artistic vision and translate it into visually captivating footage. Dance Videographers are responsible for setting up and operating video equipment, selecting appropriate angles and shots, and ensuring the technical aspects of the video production are of high quality. They possess a keen eye for detail, composition, and movement, and are able to capture the essence and energy of a dance performance. Dance Videographers play a crucial role in promoting and preserving the art of dance through their visual storytelling skills.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Dance Videographer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Dance Videographer interviews to help you prepare and succeed.

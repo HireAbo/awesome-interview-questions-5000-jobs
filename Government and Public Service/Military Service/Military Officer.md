@@ -2,6 +2,8 @@
 
 Welcome to the Military Officer Interview Preparation ! This resource is designed to help you ace your Military Officer interviews with confidence.
 
+Government and Public Service encompasses a wide range of roles and responsibilities, including Military Service. Military Officers are integral members of the armed forces who play a crucial role in maintaining national security and defending the nation against external threats. These officers are commissioned through various military academies and undergo rigorous training to develop their leadership skills, strategic thinking abilities, and tactical expertise. As military leaders, they are entrusted with the responsibility of commanding troops, making critical decisions in high-pressure situations, and ensuring the successful execution of military operations. Military Officers serve as role models, leading by example and upholding the values of discipline, honor, and sacrifice to protect their country and its citizens.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Military Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Military Officer interviews to help you prepare and succeed.

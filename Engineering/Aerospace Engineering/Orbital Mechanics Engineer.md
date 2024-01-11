@@ -2,6 +2,8 @@
 
 Welcome to the Orbital Mechanics Engineer Interview Preparation ! This resource is designed to help you ace your Orbital Mechanics Engineer interviews with confidence.
 
+An Orbital Mechanics Engineer, a specialized role within Aerospace Engineering, focuses on the study and application of the principles governing the motion of objects in space. These professionals play a vital role in designing, analyzing, and optimizing the trajectories of satellites, spacecraft, and other space vehicles. They utilize their expertise in mathematics, physics, and computer modeling to calculate and predict the positions, velocities, and orbits of these objects. Orbital Mechanics Engineers work closely with other engineers and scientists to ensure the successful launch, navigation, and operation of space missions. Their work is crucial in ensuring the safety, efficiency, and accuracy of space exploration and satellite communication systems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Orbital Mechanics Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Orbital Mechanics Engineer interviews to help you prepare and succeed.

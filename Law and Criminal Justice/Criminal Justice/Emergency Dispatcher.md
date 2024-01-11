@@ -2,6 +2,8 @@
 
 Welcome to the Emergency Dispatcher Interview Preparation ! This resource is designed to help you ace your Emergency Dispatcher interviews with confidence.
 
+An emergency dispatcher plays a crucial role in the field of criminal justice by ensuring the safety and well-being of individuals in need of immediate assistance. As the first point of contact for emergency situations, their primary responsibility is to receive and prioritize calls for help. Dispatchers must remain calm and composed in high-pressure situations, accurately gathering vital information from callers and relaying it to the appropriate emergency response teams. Additionally, they must have excellent communication skills and the ability to multitask effectively, as they may need to coordinate multiple emergency responses simultaneously. Overall, emergency dispatchers are essential in upholding public safety and providing rapid response in times of crisis.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Emergency Dispatcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Emergency Dispatcher interviews to help you prepare and succeed.

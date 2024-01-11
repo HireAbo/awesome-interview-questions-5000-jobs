@@ -2,6 +2,8 @@
 
 Welcome to the Legal Researcher Interview Preparation ! This resource is designed to help you ace your Legal Researcher interviews with confidence.
 
+A legal researcher is a crucial role within the field of law and criminal justice. As a legal researcher, one's primary responsibility is to conduct in-depth research and analysis to support legal cases and assist attorneys in building strong arguments. This involves gathering and reviewing relevant statutes, case law, regulations, and legal precedents to provide accurate and up-to-date information. Legal researchers also collaborate with lawyers to identify key legal issues, develop strategies, and draft legal documents. They possess excellent analytical skills, attention to detail, and proficiency in legal research databases and tools. Their expertise contributes significantly to the success of legal proceedings and ensures the delivery of justice.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Legal Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Legal Researcher interviews to help you prepare and succeed.

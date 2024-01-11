@@ -2,6 +2,8 @@
 
 Welcome to the Actuarial Curriculum Developer Interview Preparation ! This resource is designed to help you ace your Actuarial Curriculum Developer interviews with confidence.
 
+Mathematics and Statistics serve as the foundation of Actuarial Science, a field dedicated to managing financial risk through mathematical models and statistical analysis. Actuaries play a crucial role in various industries, including insurance, finance, and consulting, by providing valuable insights and predictions to assist decision-making processes. As an Actuarial Curriculum Developer, you would be responsible for designing and creating educational materials that train aspiring actuaries. This involves developing courses, syllabi, lesson plans, and assessments that cover a wide range of topics, including probability theory, financial mathematics, and statistical modeling. Attention to detail, strong mathematical skills, and the ability to communicate complex concepts effectively are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Actuarial Curriculum Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Actuarial Curriculum Developer interviews to help you prepare and succeed.

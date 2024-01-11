@@ -2,6 +2,8 @@
 
 Welcome to the E-commerce Robotics Engineer Interview Preparation ! This resource is designed to help you ace your E-commerce Robotics Engineer interviews with confidence.
 
+A Retail and Sales E-commerce Robotics Engineer is a professional responsible for designing, implementing, and maintaining robotic systems used in the e-commerce industry. They apply their engineering skills to create innovative solutions that improve the efficiency and productivity of online retail operations. These engineers work closely with cross-functional teams to identify business requirements and develop robotic systems tailored to specific e-commerce needs. They are adept at programming and integrating robots with various e-commerce platforms to automate tasks such as inventory management, order fulfillment, and warehouse operations. E-commerce Robotics Engineers continually explore emerging technologies to enhance the performance and scalability of robotics systems in the retail and sales sector.
+
 ## 🚀 Overview
 
 Whether you're a seasoned E-commerce Robotics Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in E-commerce Robotics Engineer interviews to help you prepare and succeed.

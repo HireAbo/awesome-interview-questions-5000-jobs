@@ -2,6 +2,8 @@
 
 Welcome to the Calligrapher Interview Preparation ! This resource is designed to help you ace your Calligrapher interviews with confidence.
 
+A Calligrapher is a skilled artist who specializes in the beautiful art of writing. They create intricate and decorative lettering using various tools such as pens, brushes, and ink. Calligraphers possess a deep understanding of typography, composition, and design principles. Their work can be seen in a multitude of applications, including invitations, certificates, logos, and artworks. This ancient art form requires immense precision, patience, and a keen eye for detail. Calligraphers often collaborate with designers and clients to create custom pieces that reflect their unique style and vision. Their work not only preserves the rich history of handwriting but also adds elegance and sophistication to various forms of communication.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Calligrapher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Calligrapher interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Pavement Engineer Interview Preparation ! This resource is designed to help you ace your Pavement Engineer interviews with confidence.
 
+A Pavement Engineer, a specialized civil engineering professional, is responsible for designing, constructing, and maintaining various types of pavements. These professionals work in the field of civil engineering, focusing on the design and development of roadways, highways, airports, and other transportation infrastructures. A Pavement Engineer's job primarily involves conducting assessments, analyzing data, and providing technical expertise to ensure the durability, safety, and functionality of pavements. They employ various techniques, including materials testing, pavement performance evaluations, and innovative technologies, to optimize the design and construction processes. Additionally, Pavement Engineers collaborate with other engineering disciplines, government agencies, and construction teams to ensure compliance with regulations, codes, and standards, ultimately contributing to the efficient movement of people and goods.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Pavement Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Pavement Engineer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Braille Teacher Interview Preparation ! This resource is designed to help you ace your Braille Teacher interviews with confidence.
 
+A Braille Teacher is an integral part of the special education system, focused on empowering visually impaired students to access knowledge and communication through Braille. These professionals possess a deep understanding of Braille, a tactile writing system used by individuals with visual impairments. They work closely with students, providing individualized instruction in reading, writing, and interpreting Braille. Braille Teachers adapt curriculum materials and create lesson plans to meet the unique needs of each student. They also collaborate with other educators, parents, and support staff to ensure a comprehensive and inclusive learning experience. By fostering independence and confidence, Braille Teachers play a pivotal role in enabling visually impaired students to thrive academically and emotionally.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Braille Teacher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Braille Teacher interviews to help you prepare and succeed.

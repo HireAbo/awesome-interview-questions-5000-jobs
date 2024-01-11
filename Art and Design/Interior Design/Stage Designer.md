@@ -2,6 +2,8 @@
 
 Welcome to the Stage Designer Interview Preparation ! This resource is designed to help you ace your Stage Designer interviews with confidence.
 
+A stage designer plays a crucial role in the world of interior design, specifically within the realm of stage and theater productions. This highly creative and dynamic profession involves conceptualizing and creating the visual elements of a stage, including sets, props, lighting, and overall ambiance. Stage designers are responsible for translating the script and director's vision into a physical reality that enhances the storytelling experience for the audience. They collaborate closely with directors, production teams, and other designers to ensure that the stage design aligns with the production's theme, mood, and narrative. This challenging yet fulfilling job requires a keen eye for detail, strong artistic skills, and a deep understanding of spatial arrangements and audience engagement.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Stage Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Stage Designer interviews to help you prepare and succeed.

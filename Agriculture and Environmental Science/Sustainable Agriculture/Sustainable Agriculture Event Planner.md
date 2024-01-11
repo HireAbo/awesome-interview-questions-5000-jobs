@@ -2,6 +2,8 @@
 
 Welcome to the Sustainable Agriculture Event Planner Interview Preparation ! This resource is designed to help you ace your Sustainable Agriculture Event Planner interviews with confidence.
 
+Agriculture and Environmental Science is an interdisciplinary field that focuses on the sustainable management of natural resources and ecosystems for agricultural purposes. It aims to strike a balance between meeting the world's food demands and preserving the environment. Sustainable Agriculture, a subset of this field, emphasizes environmentally-friendly farming practices that promote long-term productivity and biodiversity conservation. Within this domain, the role of a Sustainable Agriculture Event Planner is crucial. As an event planner, one would be responsible for organizing and coordinating sustainable agriculture events, such as conferences, workshops, and training sessions. This role requires a deep understanding of sustainable farming practices, strong organizational skills, and a passion for promoting sustainable agriculture to create a positive impact on our environment and food systems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sustainable Agriculture Event Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sustainable Agriculture Event Planner interviews to help you prepare and succeed.

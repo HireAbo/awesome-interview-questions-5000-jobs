@@ -2,6 +2,8 @@
 
 Welcome to the Sales Manager Interview Preparation ! This resource is designed to help you ace your Sales Manager interviews with confidence.
 
+Hospitality and Tourism encompasses various sectors, including hotel management, which plays a crucial role in the industry. The position of a Sales Manager within hotel management is a key role that drives revenue and promotes the hotel's services to potential clients. A Sales Manager is responsible for developing and implementing sales strategies, attracting new customers, and maintaining relationships with existing clients. They work closely with the marketing team to create effective promotional campaigns and actively participate in industry events and trade shows. A successful Sales Manager in hotel management possesses excellent communication and negotiation skills, a deep understanding of market trends, and a passion for delivering exceptional customer service to enhance the hotel's profitability and reputation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sales Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sales Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Power Plant Electrical Technician Interview Preparation ! This resource is designed to help you ace your Power Plant Electrical Technician interviews with confidence.
 
+A Power Plant Electrical Technician plays a crucial role in ensuring the efficient and safe operation of a power plant. They are responsible for the installation, maintenance, and repair of electrical equipment and systems within the power plant. This includes generators, transformers, switchgear, control panels, and other electrical components. Power Plant Electrical Technicians also conduct regular inspections and tests to identify and resolve any electrical faults or malfunctions. They must have a strong understanding of electrical principles, safety protocols, and troubleshooting techniques. Additionally, they may assist in the development of maintenance plans, perform equipment upgrades, and collaborate with other technicians and engineers to optimize plant performance.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Power Plant Electrical Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Power Plant Electrical Technician interviews to help you prepare and succeed.

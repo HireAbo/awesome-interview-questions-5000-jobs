@@ -2,6 +2,8 @@
 
 Welcome to the Dance Publicist Interview Preparation ! This resource is designed to help you ace your Dance Publicist interviews with confidence.
 
+A Dance Publicist is an integral part of the entertainment and performing arts industry, specifically focusing on promoting and managing the image of dance events, performances, and artists. They are responsible for creating publicity campaigns, coordinating press releases, and organizing media coverage for dance shows, festivals, and individual dancers. A Dance Publicist works closely with dance companies, choreographers, and individual artists to create buzz and generate interest in their work. They utilize their strong communication and networking skills to build relationships with media outlets, journalists, and influencers to secure interviews, features, and reviews. A successful Dance Publicist plays a crucial role in ensuring the visibility and success of dance events and artists in the public eye.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Dance Publicist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Dance Publicist interviews to help you prepare and succeed.

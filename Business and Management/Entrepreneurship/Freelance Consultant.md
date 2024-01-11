@@ -2,6 +2,8 @@
 
 Welcome to the Freelance Consultant Interview Preparation ! This resource is designed to help you ace your Freelance Consultant interviews with confidence.
 
+A freelance consultant job in the field of business and management entrepreneurship entails providing expert advice and guidance to clients on various aspects of their business operations. As a freelance consultant, you have the opportunity to work independently and collaborate with a diverse range of clients across different industries. Your role involves assessing business needs, identifying areas of improvement, and recommending strategies to enhance efficiency, profitability, and growth. This may include conducting market research, developing business plans, implementing marketing strategies, and providing ongoing support and guidance. Being a freelance consultant allows you to leverage your expertise, work flexibly, and contribute to the success of businesses seeking your specialized knowledge and skills.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Freelance Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Freelance Consultant interviews to help you prepare and succeed.

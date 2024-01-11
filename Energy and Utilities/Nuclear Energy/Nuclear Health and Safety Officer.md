@@ -2,6 +2,8 @@
 
 Welcome to the Nuclear Health and Safety Officer Interview Preparation ! This resource is designed to help you ace your Nuclear Health and Safety Officer interviews with confidence.
 
+A Nuclear Health and Safety Officer plays a crucial role in the field of Energy and Utilities, specifically in the realm of Nuclear Energy. This specialized job involves ensuring the well-being and safety of workers, the public, and the environment in nuclear power plants or facilities. The officer is responsible for implementing and enforcing strict safety regulations and protocols to prevent accidents, exposure to radiation, and other health risks. They conduct thorough inspections, audits, and risk assessments to identify potential hazards and develop appropriate control measures. Additionally, they monitor radiation levels, oversee emergency response plans, and provide training to personnel, thereby contributing to the safe and efficient operation of nuclear energy facilities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nuclear Health and Safety Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nuclear Health and Safety Officer interviews to help you prepare and succeed.

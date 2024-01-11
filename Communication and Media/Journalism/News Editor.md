@@ -2,6 +2,8 @@
 
 Welcome to the News Editor Interview Preparation ! This resource is designed to help you ace your News Editor interviews with confidence.
 
+A News Editor plays a crucial role in the field of journalism, specifically within the realm of Communication and Media. As a News Editor, their primary responsibility is to oversee the editorial process of news content. They work closely with reporters, journalists, and other team members to ensure accuracy, relevance, and quality of news articles. News Editors have a keen eye for detail, excellent news judgment, and the ability to identify compelling stories. They are responsible for fact-checking, copy-editing, and proofreading news pieces before publication. Additionally, News Editors may also be involved in assigning stories, coordinating with photographers, and managing newsroom operations. Their role is vital in ensuring that news articles are informative, engaging, and adhere to journalistic standards.
+
 ## 🚀 Overview
 
 Whether you're a seasoned News Editor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in News Editor interviews to help you prepare and succeed.

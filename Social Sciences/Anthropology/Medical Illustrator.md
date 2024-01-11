@@ -2,6 +2,8 @@
 
 Welcome to the Medical Illustrator Interview Preparation ! This resource is designed to help you ace your Medical Illustrator interviews with confidence.
 
+A medical illustrator specializing in anthropology combines the fields of art and science to visually communicate complex medical and anatomical concepts related to human evolution and biological variation. This unique job involves creating accurate and detailed illustrations, diagrams, and animations that depict anatomical structures, skeletal remains, and human fossils. These visual representations play a crucial role in research, education, and public outreach, aiding professionals in understanding and explaining human biological processes, cultural practices, and the evolution of our species. Medical illustrators in anthropology often work closely with anthropologists, archaeologists, and other scientists to accurately depict and interpret data, making their work an essential component of the field.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Medical Illustrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Medical Illustrator interviews to help you prepare and succeed.

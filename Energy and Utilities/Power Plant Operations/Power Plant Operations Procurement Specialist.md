@@ -2,6 +2,8 @@
 
 Welcome to the Power Plant Operations Procurement Specialist Interview Preparation ! This resource is designed to help you ace your Power Plant Operations Procurement Specialist interviews with confidence.
 
+A Power Plant Operations Procurement Specialist plays a crucial role in the energy and utilities industry, specifically within power plant operations. This specialist is responsible for managing and executing procurement activities to ensure the smooth and efficient functioning of power plants. They work closely with vendors and suppliers to source and procure materials, equipment, and services required for power plant operations. The specialist also negotiates contracts, reviews supplier performance, and ensures compliance with procurement policies and guidelines. With a strong focus on cost-effectiveness and quality, this role requires excellent analytical, negotiation, and communication skills to meet the energy demands and maintain optimal plant performance.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Power Plant Operations Procurement Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Power Plant Operations Procurement Specialist interviews to help you prepare and succeed.

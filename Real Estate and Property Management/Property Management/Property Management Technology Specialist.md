@@ -2,6 +2,8 @@
 
 Welcome to the Property Management Technology Specialist Interview Preparation ! This resource is designed to help you ace your Property Management Technology Specialist interviews with confidence.
 
+A Property Management Technology Specialist is a professional who specializes in leveraging technology to streamline and enhance property management processes. This role involves the implementation and maintenance of software platforms and systems that facilitate efficient property management operations. With a strong background in real estate and property management, these specialists are responsible for selecting, customizing, and integrating technology solutions that improve tenant communication, lease management, financial reporting, maintenance tracking, and other essential tasks. They also provide training and support to property management teams, ensuring smooth adoption and utilization of the technology. A Property Management Technology Specialist plays a crucial role in optimizing property management workflows, increasing productivity, and enhancing overall tenant satisfaction.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Property Management Technology Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Property Management Technology Specialist interviews to help you prepare and succeed.

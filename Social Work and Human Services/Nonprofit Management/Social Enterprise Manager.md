@@ -2,6 +2,8 @@
 
 Welcome to the Social Enterprise Manager Interview Preparation ! This resource is designed to help you ace your Social Enterprise Manager interviews with confidence.
 
+Social Work and Human Services encompass a range of professions dedicated to improving individuals' quality of life and promoting social justice. Within the field, Nonprofit Management focuses on the effective administration and strategic direction of organizations dedicated to social causes. A Social Enterprise Manager plays a crucial role in this sector, overseeing the operations and sustainability of social enterprises. These individuals combine business acumen with a deep commitment to social impact. They develop innovative strategies, manage finances, and build relationships with stakeholders to maximize the organization's social mission while ensuring financial viability. Social Enterprise Managers bridge the gap between profit and purpose, driving sustainable change and making a tangible difference in society.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Social Enterprise Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Social Enterprise Manager interviews to help you prepare and succeed.

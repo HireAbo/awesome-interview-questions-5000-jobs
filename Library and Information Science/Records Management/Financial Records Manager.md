@@ -2,6 +2,8 @@
 
 Welcome to the Financial Records Manager Interview Preparation ! This resource is designed to help you ace your Financial Records Manager interviews with confidence.
 
+Library and Information Science encompasses various fields, one of which is Records Management. Within this field, the Financial Records Manager plays a crucial role in ensuring the efficient organization and maintenance of financial records. As a Financial Records Manager, you would be responsible for overseeing the management and preservation of financial documents, such as invoices, receipts, and financial reports. You would ensure that these records are accurately maintained, easily accessible, and compliant with legal and regulatory requirements. Additionally, you may be involved in developing and implementing systems for record retention, retrieval, and disposal. A strong attention to detail, knowledge of financial management principles, and expertise in information organization are key skills required for this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Financial Records Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Financial Records Manager interviews to help you prepare and succeed.

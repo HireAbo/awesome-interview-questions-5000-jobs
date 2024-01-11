@@ -2,6 +2,8 @@
 
 Welcome to the Sales Administrator Interview Preparation ! This resource is designed to help you ace your Sales Administrator interviews with confidence.
 
+A Sales Administrator plays a crucial role in the Retail and Sales industry by providing essential administrative support to the sales team. They are responsible for managing and processing sales orders, coordinating with suppliers and customers, and ensuring the smooth flow of sales operations. Sales Administrators assist in preparing sales reports, maintaining sales databases, and monitoring sales targets. They also handle customer inquiries, resolve any issues or complaints, and maintain customer relationships. With excellent organizational and communication skills, Sales Administrators contribute to the overall success of the sales department and help optimize sales processes, ultimately driving revenue growth for the organization.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sales Administrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sales Administrator interviews to help you prepare and succeed.

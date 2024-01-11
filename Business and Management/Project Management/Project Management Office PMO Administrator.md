@@ -2,6 +2,8 @@
 
 Welcome to the Project Management Office (PMO) Administrator Interview Preparation ! This resource is designed to help you ace your Project Management Office (PMO) Administrator interviews with confidence.
 
+A Project Management Office (PMO) Administrator plays a crucial role in overseeing and coordinating various aspects of project management within an organization. They are responsible for ensuring the smooth functioning of the PMO by managing project schedules, budgets, and resources. The PMO Administrator also assists in developing project management methodologies and processes, ensuring compliance with organizational standards. They collaborate with project managers, team members, and stakeholders to gather and analyze data, create reports, and provide insights for decision-making. Additionally, the PMO Administrator may be involved in training and supporting project management tools and software. This role requires excellent organizational, communication, and problem-solving skills, as well as a strong understanding of project management principles.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Project Management Office (PMO) Administrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Project Management Office (PMO) Administrator interviews to help you prepare and succeed.

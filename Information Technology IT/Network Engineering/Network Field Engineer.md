@@ -2,6 +2,8 @@
 
 Welcome to the Network Field Engineer Interview Preparation ! This resource is designed to help you ace your Network Field Engineer interviews with confidence.
 
+A Network Field Engineer is a professional who plays a crucial role in the Information Technology (IT) field, specifically in Network Engineering. This job requires a solid understanding of networking technologies and the ability to implement, maintain, and troubleshoot network infrastructures. Network Field Engineers are responsible for configuring routers, switches, firewalls, and other network devices to ensure optimal performance and security. They also handle network installation, upgrades, and equipment replacements, and collaborate with other IT professionals to resolve complex network issues. A Network Field Engineer must possess excellent problem-solving skills, strong communication abilities, and a keen eye for detail to ensure smooth network operations and efficient connectivity for organizations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Network Field Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Network Field Engineer interviews to help you prepare and succeed.

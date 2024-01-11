@@ -2,6 +2,8 @@
 
 Welcome to the Supply Chain Coordinator Interview Preparation ! This resource is designed to help you ace your Supply Chain Coordinator interviews with confidence.
 
+A Supply Chain Coordinator plays a crucial role in the field of Transportation and Logistics, specifically in Logistics Management. As a Supply Chain Coordinator, you are responsible for overseeing and coordinating all aspects of the supply chain process. This includes managing the movement of goods from suppliers to manufacturers, distributors, and ultimately to the customers. Your responsibilities may include inventory management, transportation coordination, demand forecasting, and ensuring timely delivery of products. Effective communication skills are essential in this role as you will be required to collaborate with suppliers, vendors, and internal departments to ensure smooth operations. A Supply Chain Coordinator is vital in optimizing efficiency and minimizing costs within the supply chain, resulting in streamlined logistics operations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Supply Chain Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Supply Chain Coordinator interviews to help you prepare and succeed.

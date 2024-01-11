@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Psychologist Interview Preparation ! This resource is designed to help you ace your Environmental Psychologist interviews with confidence.
 
+Environmental psychology is a specialized field within the broader discipline of psychology that focuses on the interrelationship between human behavior and the physical environment. As an environmental psychologist, professionals strive to understand how people interact, perceive, and respond to their surroundings. They analyze the impact of the environment on individuals' emotions, cognition, and overall well-being. Environmental psychologists study various settings, such as homes, workplaces, urban spaces, and natural environments, to identify ways to improve these spaces for enhanced human experience. They may collaborate with urban planners, architects, and policymakers to design environments that promote positive outcomes, including stress reduction, increased productivity, and improved mental health. Through their research and expertise, environmental psychologists contribute to creating sustainable and people-centric environments.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Psychologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Psychologist interviews to help you prepare and succeed.

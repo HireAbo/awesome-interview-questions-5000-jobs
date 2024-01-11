@@ -2,6 +2,8 @@
 
 Welcome to the Science Librarian Interview Preparation ! This resource is designed to help you ace your Science Librarian interviews with confidence.
 
+Library and Information Science, also known as Librarianship, is a field dedicated to the organization, management, and dissemination of information resources. One specialized role within this field is that of a Science Librarian. A Science Librarian is responsible for curating and providing access to scientific literature, research materials, and databases related to various scientific disciplines. They assist researchers, students, and faculty members in finding and evaluating relevant information, as well as providing guidance on effective research strategies and citation management. Science Librarians are often proficient in using specialized scientific databases and tools, and they play a crucial role in supporting scientific research and innovation within academic institutions and research organizations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Science Librarian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Science Librarian interviews to help you prepare and succeed.

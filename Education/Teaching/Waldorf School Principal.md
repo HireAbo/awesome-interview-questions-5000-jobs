@@ -2,6 +2,8 @@
 
 Welcome to the Waldorf School Principal Interview Preparation ! This resource is designed to help you ace your Waldorf School Principal interviews with confidence.
 
+The role of a Waldorf School Principal is crucial in shaping the educational experience for students in a Waldorf School. As the head of the school, the Principal is responsible for overseeing the academic and administrative aspects of the institution. They work closely with teachers, staff, and parents to create a nurturing and holistic learning environment that aligns with the Waldorf philosophy. The Principal also plays a vital role in curriculum development, ensuring that it meets the unique needs of each student. Additionally, they are responsible for maintaining a positive school culture, fostering professional development opportunities for teachers, and building strong relationships with the community.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Waldorf School Principal or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Waldorf School Principal interviews to help you prepare and succeed.

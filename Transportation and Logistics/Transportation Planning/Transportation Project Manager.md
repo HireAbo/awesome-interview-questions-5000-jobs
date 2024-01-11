@@ -2,6 +2,8 @@
 
 Welcome to the Transportation Project Manager Interview Preparation ! This resource is designed to help you ace your Transportation Project Manager interviews with confidence.
 
+A Transportation Project Manager plays a crucial role in the field of Transportation and Logistics, specifically in the area of Transportation Planning. This job involves overseeing and managing various transportation projects from start to finish, ensuring their successful completion. The project manager is responsible for developing comprehensive transportation plans, coordinating with stakeholders, and implementing strategies to optimize transportation systems. They work closely with a team of professionals to analyze data, identify potential issues, and devise solutions to improve the efficiency and effectiveness of transportation networks. Strong organizational and communication skills are vital for this role, as the project manager must collaborate with different departments, contractors, and government agencies to ensure seamless project execution.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Transportation Project Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Transportation Project Manager interviews to help you prepare and succeed.

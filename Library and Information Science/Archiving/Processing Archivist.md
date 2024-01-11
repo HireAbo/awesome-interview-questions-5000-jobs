@@ -2,6 +2,8 @@
 
 Welcome to the Processing Archivist Interview Preparation ! This resource is designed to help you ace your Processing Archivist interviews with confidence.
 
+Library and Information Science is a multidisciplinary field that focuses on the organization, management, and dissemination of information. One important aspect of this field is archiving, which involves the collection, preservation, and accessibility of valuable records and documents. A key role within archiving is that of a Processing Archivist. As a Processing Archivist, individuals are responsible for arranging, describing, and making archival collections accessible to researchers. This involves organizing records, creating finding aids, and ensuring proper preservation techniques are utilized. Processing Archivists play a crucial role in maintaining the historical and cultural heritage of society by preserving and providing access to important archival materials.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Processing Archivist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Processing Archivist interviews to help you prepare and succeed.

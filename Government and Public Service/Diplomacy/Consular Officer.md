@@ -2,6 +2,8 @@
 
 Welcome to the Consular Officer Interview Preparation ! This resource is designed to help you ace your Consular Officer interviews with confidence.
 
+A Consular Officer is an important role within the field of Diplomacy, specifically in the realm of Government and Public Service. Consular Officers are responsible for providing support and assistance to citizens of their own country who are living or traveling abroad. They play a crucial role in safeguarding the interests and well-being of their fellow citizens, ensuring their safety, and promoting their rights and welfare. These officers are responsible for issuing visas, providing information and guidance on travel requirements, assisting with legal matters, and providing emergency services to citizens in distress. Consular Officers are the frontline representatives of their government, working tirelessly to build strong relationships between nations and protect the interests of their citizens on foreign soil.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Consular Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Consular Officer interviews to help you prepare and succeed.

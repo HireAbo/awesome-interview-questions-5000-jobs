@@ -2,6 +2,8 @@
 
 Welcome to the Contracts Administrator Interview Preparation ! This resource is designed to help you ace your Contracts Administrator interviews with confidence.
 
+Law and Criminal Justice encompasses a wide range of professions, including Paralegals and Contracts Administrators. Paralegals play a crucial role in the legal system as they assist attorneys in various tasks such as conducting legal research, drafting legal documents, and organizing case files. They possess in-depth knowledge of legal procedures and are highly skilled in analyzing and summarizing complex legal documents. Contracts Administrators, on the other hand, focus on the management and negotiation of contracts. They ensure that contracts comply with legal requirements, review terms and conditions, and facilitate communication between parties involved. Both professions require strong organizational skills, attention to detail, and a solid understanding of the legal framework.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Contracts Administrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Contracts Administrator interviews to help you prepare and succeed.

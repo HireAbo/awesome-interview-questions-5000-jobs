@@ -2,6 +2,8 @@
 
 Welcome to the Music Business Manager Interview Preparation ! This resource is designed to help you ace your Music Business Manager interviews with confidence.
 
+A Music Business Manager plays a crucial role in the entertainment and performing arts industry, specifically within the domain of music. This dynamic job involves overseeing the business aspects of an artist's career, ensuring their success and profitability. A Music Business Manager is responsible for negotiating contracts, managing finances, coordinating bookings and tours, and handling licensing and royalties. They work closely with artists, record labels, agents, and promoters to develop effective strategies for promoting and marketing music. This profession requires excellent communication and negotiation skills, a deep understanding of the music industry, and a keen eye for spotting talent and potential. A Music Business Manager acts as a vital bridge between the artistic and commercial aspects of the music world, ultimately shaping the success of artists and contributing to the vibrant music industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Music Business Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Music Business Manager interviews to help you prepare and succeed.

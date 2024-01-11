@@ -2,6 +2,8 @@
 
 Welcome to the Back-End Engineer Interview Preparation ! This resource is designed to help you ace your Back-End Engineer interviews with confidence.
 
+A Back-End Engineer, also known as a Software Development Engineer, is a crucial role in the field of Information Technology (IT). They specialize in designing, developing, and maintaining the server-side of software applications and systems. These professionals are responsible for ensuring the smooth functioning of databases, APIs, and other back-end processes that connect the front-end of applications with the server. Back-End Engineers work with programming languages such as Python, Java, or Ruby and utilize frameworks like Django or Spring to build scalable and efficient solutions. Their expertise in data management, server optimization, and security ensures that software applications run seamlessly, making them indispensable in the IT industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Back-End Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Back-End Engineer interviews to help you prepare and succeed.

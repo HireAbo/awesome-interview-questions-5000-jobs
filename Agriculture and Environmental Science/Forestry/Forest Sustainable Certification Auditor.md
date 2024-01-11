@@ -2,6 +2,8 @@
 
 Welcome to the Forest Sustainable Certification Auditor Interview Preparation ! This resource is designed to help you ace your Forest Sustainable Certification Auditor interviews with confidence.
 
+Agriculture and Environmental Science is a field that focuses on the study of the environment and its interaction with agricultural practices. Forestry, a subfield of environmental science, deals specifically with the management and conservation of forests. Within forestry, one crucial role is that of a Forest Sustainable Certification Auditor. These professionals are responsible for assessing and verifying the sustainability of forest management practices and ensuring compliance with established standards and regulations. They conduct audits to evaluate forest operations, review documentation, and monitor compliance with environmental, social, and economic criteria. Forest Sustainable Certification Auditors play a vital role in promoting sustainable forestry practices and preserving the health and biodiversity of forest ecosystems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forest Sustainable Certification Auditor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forest Sustainable Certification Auditor interviews to help you prepare and succeed.

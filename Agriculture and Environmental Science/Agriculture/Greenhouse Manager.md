@@ -2,6 +2,8 @@
 
 Welcome to the Greenhouse Manager Interview Preparation ! This resource is designed to help you ace your Greenhouse Manager interviews with confidence.
 
+Agriculture and Environmental Science involves the study of sustainable practices to enhance agricultural productivity while minimizing the negative impact on the environment. Within the field of agriculture, the role of a Greenhouse Manager is crucial in ensuring optimal plant growth, resource management, and environmental conservation. A Greenhouse Manager is responsible for overseeing all aspects of greenhouse operations, such as plant propagation, pest and disease control, irrigation systems, and greenhouse maintenance. They collaborate with researchers, horticulturists, and agricultural technicians to develop and implement innovative techniques, aiming to improve crop quality and quantity. By managing greenhouse conditions, a Greenhouse Manager plays a vital role in advancing sustainable agricultural practices and contributing to environmental preservation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Greenhouse Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Greenhouse Manager interviews to help you prepare and succeed.

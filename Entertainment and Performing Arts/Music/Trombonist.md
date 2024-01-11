@@ -2,6 +2,8 @@
 
 Welcome to the Trombonist Interview Preparation ! This resource is designed to help you ace your Trombonist interviews with confidence.
 
+A trombonist is a professional musician specializing in playing the trombone, a brass instrument with a unique sliding mechanism that produces distinct tones. As part of the entertainment and performing arts industry, trombonists play a crucial role in enhancing musical performances across various genres, including classical, jazz, pop, and orchestral music. They collaborate with composers, conductors, and fellow musicians to create harmonious and melodic arrangements. Trombonists showcase their technical skills, creativity, and musicality through solo performances, as well as in ensembles such as orchestras, bands, and jazz groups. Their ability to control tone, dynamics, and articulation adds depth and texture to musical compositions, captivating audiences and creating memorable experiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Trombonist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Trombonist interviews to help you prepare and succeed.

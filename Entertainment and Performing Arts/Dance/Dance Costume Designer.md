@@ -2,6 +2,8 @@
 
 Welcome to the Dance Costume Designer Interview Preparation ! This resource is designed to help you ace your Dance Costume Designer interviews with confidence.
 
+A Dance Costume Designer is a highly skilled professional who creates visually stunning and functional costumes for dancers. This job requires a deep understanding of dance styles, movements, and the ability to translate choreography into beautiful costumes that enhance the performance. Dance Costume Designers work closely with choreographers, directors, and dancers to bring their artistic visions to life. They are responsible for selecting fabrics, colors, and textures that not only reflect the theme and mood of the dance but also allow for freedom of movement. Their attention to detail and creativity contribute to the overall aesthetic and success of a dance production.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Dance Costume Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Dance Costume Designer interviews to help you prepare and succeed.

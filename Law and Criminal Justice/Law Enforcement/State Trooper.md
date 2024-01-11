@@ -2,6 +2,8 @@
 
 Welcome to the State Trooper Interview Preparation ! This resource is designed to help you ace your State Trooper interviews with confidence.
 
+A State Trooper is a law enforcement officer who plays a crucial role in maintaining public safety and enforcing laws on state highways and roadways. With a primary focus on traffic enforcement, State Troopers are responsible for ensuring compliance with traffic laws, investigating accidents, and responding to emergencies. They handle a wide range of duties, including issuing citations, apprehending suspects, and providing assistance to motorists in distress. State Troopers are also trained in criminal investigations, making them capable of handling various types of crimes. This demanding profession requires physical fitness, excellent communication skills, and the ability to make quick decisions under pressure to protect the communities they serve.
+
 ## 🚀 Overview
 
 Whether you're a seasoned State Trooper or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in State Trooper interviews to help you prepare and succeed.

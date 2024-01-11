@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife Advocacy Manager Interview Preparation ! This resource is designed to help you ace your Wildlife Advocacy Manager interviews with confidence.
 
+The role of a Wildlife Advocacy Manager within the field of Agriculture and Environmental Science is crucial in ensuring the preservation and protection of wildlife. As a Wildlife Advocacy Manager, you will be responsible for coordinating and implementing conservation strategies to safeguard endangered species and their habitats. Your duties may include conducting research, monitoring wildlife populations, and collaborating with various stakeholders such as government agencies, non-profit organizations, and local communities. Furthermore, you will play a vital role in advocating for wildlife protection policies, educating the public on conservation issues, and raising awareness about the importance of wildlife conservation. This position requires a strong passion for wildlife and a deep understanding of environmental science principles.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Advocacy Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Advocacy Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Medical Director Interview Preparation ! This resource is designed to help you ace your Medical Director interviews with confidence.
 
+A Medical Director is a highly skilled and experienced healthcare professional who plays a crucial role in overseeing and managing the medical operations within a healthcare organization. They are responsible for providing leadership and guidance to physicians, nurses, and other medical staff to ensure the delivery of high-quality patient care. The Medical Director collaborates with other healthcare professionals to develop and implement medical policies, protocols, and procedures. They also review and analyze medical data and research to stay updated with the latest advancements in medicine. Additionally, Medical Directors may participate in strategic planning, budgeting, and quality improvement initiatives to enhance the overall effectiveness of healthcare services.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Medical Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Medical Director interviews to help you prepare and succeed.

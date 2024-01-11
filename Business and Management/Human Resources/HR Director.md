@@ -2,6 +2,8 @@
 
 Welcome to the HR Director Interview Preparation ! This resource is designed to help you ace your HR Director interviews with confidence.
 
+The HR Director job is a crucial role in the field of Business and Management, specifically in Human Resources. As an HR Director, you are responsible for overseeing all aspects of the HR department within an organization. Your primary focus is to manage and develop the company's human resources strategies, policies, and programs. This includes talent acquisition, employee relations, compensation and benefits, performance management, training and development, and compliance with labor laws and regulations. Additionally, you play a key role in fostering a positive work environment, ensuring employee engagement, and promoting diversity and inclusion. The HR Director is an essential position that contributes to the overall success and growth of the business.
+
 ## 🚀 Overview
 
 Whether you're a seasoned HR Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in HR Director interviews to help you prepare and succeed.

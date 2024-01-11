@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife Educator Interview Preparation ! This resource is designed to help you ace your Wildlife Educator interviews with confidence.
 
+Agriculture and Environmental Science is an interdisciplinary field that combines knowledge from various branches of science to understand and manage the natural environment. It encompasses the study of ecosystems, soil science, water resources, and the impact of human activities on the environment. Wildlife conservation is an important aspect of this field, aiming to protect and preserve endangered species and their habitats. Within wildlife conservation, the role of a Wildlife Educator is crucial. As a Wildlife Educator, one is responsible for educating the public about wildlife conservation, organizing educational programs, conducting research, and promoting awareness and appreciation for the natural world. This job requires a passion for wildlife, excellent communication skills, and the ability to inspire and engage people of all ages.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Educator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Educator interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Nuclear Reactor Control Room Supervisor Interview Preparation ! This resource is designed to help you ace your Nuclear Reactor Control Room Supervisor interviews with confidence.
 
+A Nuclear Reactor Control Room Supervisor is a crucial role in the field of energy and utilities, specifically in the domain of nuclear energy. As a supervisor, their primary responsibility is to oversee and manage the operation of nuclear reactors. They are responsible for ensuring the safe and efficient functioning of the reactor, monitoring and controlling various parameters, and making critical decisions during emergencies. This role requires extensive knowledge of nuclear physics, reactor design, and safety protocols. A Nuclear Reactor Control Room Supervisor also manages a team of operators, providing guidance and training to ensure adherence to strict regulatory requirements and maintain the integrity and reliability of nuclear power plants.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nuclear Reactor Control Room Supervisor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nuclear Reactor Control Room Supervisor interviews to help you prepare and succeed.

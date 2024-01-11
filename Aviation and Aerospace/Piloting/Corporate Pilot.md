@@ -2,6 +2,8 @@
 
 Welcome to the Corporate Pilot Interview Preparation ! This resource is designed to help you ace your Corporate Pilot interviews with confidence.
 
+A corporate pilot is a highly skilled professional who operates aircraft for private companies and individuals. This specialized job falls under the broader field of aviation and aerospace, specifically in the area of piloting. As a corporate pilot, one is responsible for safely transporting executives, clients, and high-profile individuals to their destinations. This role requires exceptional flying skills, in-depth knowledge of aircraft systems, and the ability to handle various weather conditions and emergency situations. Corporate pilots also play a crucial role in flight planning, ensuring efficient travel routes, and adhering to strict schedules. Their dedication to safety, professionalism, and exceptional customer service are paramount in this challenging yet rewarding career.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Corporate Pilot or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Corporate Pilot interviews to help you prepare and succeed.

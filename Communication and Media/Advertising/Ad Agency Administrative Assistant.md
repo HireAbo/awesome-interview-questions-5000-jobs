@@ -2,6 +2,8 @@
 
 Welcome to the Ad Agency Administrative Assistant Interview Preparation ! This resource is designed to help you ace your Ad Agency Administrative Assistant interviews with confidence.
 
+The role of an Ad Agency Administrative Assistant in the field of Communication and Media > Advertising is crucial in ensuring the smooth operation of an advertising agency. As an Administrative Assistant, you will be responsible for providing exceptional administrative support to the agency's team and clients. This will include managing calendars, scheduling meetings, coordinating travel arrangements, handling correspondence, and organizing files and documents. Additionally, you will assist in preparing reports, presentations, and proposals, as well as maintaining databases and client records. A detail-oriented approach, excellent organizational skills, strong communication abilities, and proficiency in various office software are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Ad Agency Administrative Assistant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Ad Agency Administrative Assistant interviews to help you prepare and succeed.

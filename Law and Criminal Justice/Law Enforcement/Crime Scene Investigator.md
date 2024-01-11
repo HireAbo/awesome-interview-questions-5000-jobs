@@ -2,6 +2,8 @@
 
 Welcome to the Crime Scene Investigator Interview Preparation ! This resource is designed to help you ace your Crime Scene Investigator interviews with confidence.
 
+A Crime Scene Investigator (CSI) plays a crucial role in the field of Law Enforcement and Criminal Justice. They are responsible for gathering and analyzing evidence found at crime scenes to help solve crimes. CSIs meticulously document and collect physical evidence such as fingerprints, footprints, blood samples, and fibers, ensuring that the chain of custody is maintained. They also photograph and sketch the crime scene, providing a detailed visual record for further analysis. Additionally, CSIs may conduct interviews, collaborate with forensic experts, and testify in court as expert witnesses. This demanding profession requires strong attention to detail, analytical skills, and the ability to work effectively under pressure to bring justice to victims and their families.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Crime Scene Investigator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Crime Scene Investigator interviews to help you prepare and succeed.

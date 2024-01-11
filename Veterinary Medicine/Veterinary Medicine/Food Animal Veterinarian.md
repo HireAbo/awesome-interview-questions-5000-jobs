@@ -2,6 +2,8 @@
 
 Welcome to the Food Animal Veterinarian Interview Preparation ! This resource is designed to help you ace your Food Animal Veterinarian interviews with confidence.
 
+A Food Animal Veterinarian is a specialized professional within the field of Veterinary Medicine. These veterinarians focus on the health and well-being of food-producing animals, such as cattle, sheep, pigs, and poultry. Their primary responsibility is to ensure the proper care, treatment, and disease prevention of these animals, as they play a crucial role in maintaining food safety and security. Food Animal Veterinarians are trained in various aspects of animal health, including nutrition, reproduction, herd health management, and infectious disease control. They work closely with farmers, ranchers, and other agricultural professionals to provide veterinary services, including vaccinations, herd health evaluations, surgical procedures, and disease diagnosis and treatment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Food Animal Veterinarian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Food Animal Veterinarian interviews to help you prepare and succeed.

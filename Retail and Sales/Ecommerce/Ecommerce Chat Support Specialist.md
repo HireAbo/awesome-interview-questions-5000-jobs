@@ -2,6 +2,8 @@
 
 Welcome to the E-commerce Chat Support Specialist Interview Preparation ! This resource is designed to help you ace your E-commerce Chat Support Specialist interviews with confidence.
 
+A Retail and Sales E-commerce Chat Support Specialist is a professional responsible for providing assistance and support to customers in the e-commerce industry. They are trained to handle customer inquiries, complaints, and provide product information through online chat platforms. These specialists play a crucial role in ensuring customer satisfaction and building brand loyalty. They possess excellent communication skills, product knowledge, and the ability to multitask effectively. Their main objective is to resolve customer issues promptly and efficiently, while also upselling and cross-selling products or services. A successful E-commerce Chat Support Specialist must be tech-savvy, empathetic, and possess a strong problem-solving mindset.
+
 ## 🚀 Overview
 
 Whether you're a seasoned E-commerce Chat Support Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in E-commerce Chat Support Specialist interviews to help you prepare and succeed.

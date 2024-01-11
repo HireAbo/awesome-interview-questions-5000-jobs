@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife GIS Specialist Interview Preparation ! This resource is designed to help you ace your Wildlife GIS Specialist interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on the sustainable management of natural resources and the environment. It encompasses various aspects related to the production of food, fiber, and other agricultural products while minimizing environmental degradation. Wildlife conservation is an integral part of this discipline, aiming to protect and preserve the Earth's biodiversity and ecosystems. Within wildlife conservation, the role of a Wildlife GIS Specialist is crucial. This professional utilizes Geographic Information Systems (GIS) technology to collect, analyze, and interpret spatial data related to wildlife populations, habitats, and conservation efforts. They play a vital role in developing effective conservation strategies and ensuring the long-term viability of wildlife species and their habitats.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife GIS Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife GIS Specialist interviews to help you prepare and succeed.

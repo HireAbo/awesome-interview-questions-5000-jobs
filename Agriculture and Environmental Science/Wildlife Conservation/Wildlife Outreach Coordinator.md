@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife Outreach Coordinator Interview Preparation ! This resource is designed to help you ace your Wildlife Outreach Coordinator interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on sustainable farming practices, environmental conservation, and wildlife preservation. It seeks to find a balance between human activities and the natural environment. Within this realm, the role of a Wildlife Outreach Coordinator is crucial. As a Wildlife Outreach Coordinator, one is responsible for developing and implementing programs that raise awareness about wildlife conservation, engage communities, and promote responsible behavior towards wildlife. This job involves organizing educational events, collaborating with stakeholders, and advocating for wildlife protection. It requires strong communication and organizational skills, as well as a deep passion for wildlife and the environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Outreach Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Outreach Coordinator interviews to help you prepare and succeed.

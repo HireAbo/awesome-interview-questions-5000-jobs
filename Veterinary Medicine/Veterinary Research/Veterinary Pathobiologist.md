@@ -2,6 +2,8 @@
 
 Welcome to the Veterinary Pathobiologist Interview Preparation ! This resource is designed to help you ace your Veterinary Pathobiologist interviews with confidence.
 
+Veterinary Medicine is a specialized field that focuses on the health and well-being of animals. Within this broader field, Veterinary Research plays a crucial role in advancing our understanding of animal diseases, prevention strategies, and treatment options. As part of this research, Veterinary Pathobiologists are integral in studying the causes, mechanisms, and progression of diseases in animals. These professionals investigate the pathological changes that occur at the cellular and molecular level during disease development. They conduct research to identify new diagnostic tools, therapeutic interventions, and vaccines. Veterinary Pathobiologists also play a vital role in public health by studying zoonotic diseases that can be transmitted from animals to humans. Their work contributes significantly to the field of veterinary medicine and helps protect both animal and human health.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Veterinary Pathobiologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Veterinary Pathobiologist interviews to help you prepare and succeed.

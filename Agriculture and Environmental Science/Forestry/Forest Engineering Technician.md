@@ -2,6 +2,8 @@
 
 Welcome to the Forest Engineering Technician Interview Preparation ! This resource is designed to help you ace your Forest Engineering Technician interviews with confidence.
 
+Agriculture and Environmental Science encompass various fields, one of which is Forestry. Within the discipline of Forestry, the role of a Forest Engineering Technician is crucial. Forest Engineering Technicians play a vital role in managing, protecting, and sustaining forests. They are responsible for planning and implementing forest management activities, ensuring the sustainable use of forest resources, and minimizing environmental impact. These professionals conduct field surveys, collect data, and analyze information to develop forest management plans. They also assist in the design and construction of forest roads, bridges, and other infrastructure. Forest Engineering Technicians are essential in maintaining the delicate balance between economic development and environmental preservation in the forestry sector.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forest Engineering Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forest Engineering Technician interviews to help you prepare and succeed.

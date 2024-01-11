@@ -2,6 +2,8 @@
 
 Welcome to the PHP Developer Interview Preparation ! This resource is designed to help you ace your PHP Developer interviews with confidence.
 
+A PHP Developer job is a specialized position within the field of Information Technology (IT) and Software Development. PHP, which stands for Hypertext Preprocessor, is a versatile programming language used to develop dynamic websites and web applications. As a PHP Developer, your primary responsibility is to design, develop, and maintain PHP-based applications. This entails writing clean, efficient, and secure code, collaborating with cross-functional teams, and troubleshooting and debugging applications as needed. Additionally, a PHP Developer must have a strong understanding of front-end technologies, such as HTML, CSS, and JavaScript, in order to create seamless user experiences. Overall, a PHP Developer plays a crucial role in creating and enhancing web-based solutions for businesses and organizations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned PHP Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in PHP Developer interviews to help you prepare and succeed.

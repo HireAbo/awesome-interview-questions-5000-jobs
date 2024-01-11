@@ -2,6 +2,8 @@
 
 Welcome to the Casting Actor Interview Preparation ! This resource is designed to help you ace your Casting Actor interviews with confidence.
 
+The job of a Casting Actor plays a crucial role in the world of entertainment and performing arts. Casting actors are responsible for selecting the most suitable actors for specific roles in television shows, films, theater productions, commercials, and other forms of media. They work closely with directors, producers, and casting directors to interpret character descriptions and find individuals who possess the necessary skills and qualities. Casting actors often hold auditions, review resumes, conduct interviews, and assess performances to make informed decisions. They must have a keen eye for talent, excellent communication and negotiation skills, and a deep understanding of the industry. Ultimately, casting actors are vital in bringing characters to life and ensuring the success of a production.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Casting Actor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Casting Actor interviews to help you prepare and succeed.

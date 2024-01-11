@@ -2,6 +2,8 @@
 
 Welcome to the Aircraft Mechanic Interview Preparation ! This resource is designed to help you ace your Aircraft Mechanic interviews with confidence.
 
+Government and Public Service encompasses a wide range of professions dedicated to serving the needs of the public and ensuring the smooth functioning of society. One crucial profession within this sector is Military Service, which involves individuals who dedicate their lives to protecting their country and its citizens. Among the different roles within Military Service, the Aircraft Mechanic job holds great significance. Aircraft Mechanics play a vital role in maintaining and repairing military aircraft, ensuring their safety and operational readiness. Their expertise and attention to detail are essential in guaranteeing the success of military missions, safeguarding the lives of service members, and maintaining national security.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Aircraft Mechanic or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Aircraft Mechanic interviews to help you prepare and succeed.

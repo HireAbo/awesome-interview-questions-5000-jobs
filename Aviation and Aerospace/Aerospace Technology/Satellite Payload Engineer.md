@@ -2,6 +2,8 @@
 
 Welcome to the Satellite Payload Engineer Interview Preparation ! This resource is designed to help you ace your Satellite Payload Engineer interviews with confidence.
 
+A Satellite Payload Engineer plays a crucial role in the field of Aviation and Aerospace, specifically in the realm of Aerospace Technology. This job involves designing, developing, and testing payloads for satellites that are deployed into space. The engineer is responsible for ensuring the successful transmission and reception of data, including voice, video, and various forms of information. They work closely with a team of experts to integrate these payloads into the satellite system, ensuring their functionality and reliability. Satellite Payload Engineers also conduct extensive research to improve existing systems, identify potential issues, and propose innovative solutions to enhance overall satellite performance. With their expertise, they contribute to the advancement of space exploration and communication technologies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Satellite Payload Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Satellite Payload Engineer interviews to help you prepare and succeed.

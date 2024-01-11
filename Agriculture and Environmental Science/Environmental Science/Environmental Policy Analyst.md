@@ -2,6 +2,10 @@
 
 Welcome to the Environmental Policy Analyst Interview Preparation ! This resource is designed to help you ace your Environmental Policy Analyst interviews with confidence.
 
+Agriculture and Environmental Science is an interdisciplinary field that focuses on the study of the environment and its relationship with agriculture. It encompasses various aspects, such as soil science, crop production, animal science, and environmental conservation. Environmental Science specifically delves into the understanding of natural ecosystems, their dynamics, and the impact of human activities on the environment.
+
+Within this field, the role of an Environmental Policy Analyst is crucial in shaping environmental policies and regulations. These professionals analyze data, conduct research, and assess the potential environmental impact of proposed policies. They work closely with government agencies, NGOs, and other stakeholders to develop effective strategies for sustainable development and environmental protection. Environmental Policy Analysts play a vital role in ensuring that policies are based on scientific evidence and promote environmental sustainability and conservation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Policy Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Policy Analyst interviews to help you prepare and succeed.

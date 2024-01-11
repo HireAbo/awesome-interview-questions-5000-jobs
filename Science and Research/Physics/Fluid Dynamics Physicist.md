@@ -2,6 +2,8 @@
 
 Welcome to the Fluid Dynamics Physicist Interview Preparation ! This resource is designed to help you ace your Fluid Dynamics Physicist interviews with confidence.
 
+A Fluid Dynamics Physicist is a professional who specializes in the study of fluid behavior and its application to various fields. Fluid dynamics is a branch of physics that deals with the properties and movement of fluids, including gases and liquids. These professionals conduct scientific research to understand the fundamental principles governing fluid flow, turbulence, and related phenomena. They use mathematical models, computer simulations, and experimental techniques to analyze and predict fluid behavior in real-world scenarios. Fluid Dynamics Physicists work in diverse industries such as aerospace, automotive, energy, and environmental engineering. Their expertise is crucial in designing efficient systems, optimizing performance, and solving complex fluid-related problems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Fluid Dynamics Physicist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Fluid Dynamics Physicist interviews to help you prepare and succeed.

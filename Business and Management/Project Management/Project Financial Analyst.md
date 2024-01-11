@@ -2,6 +2,8 @@
 
 Welcome to the Project Financial Analyst Interview Preparation ! This resource is designed to help you ace your Project Financial Analyst interviews with confidence.
 
+A Project Financial Analyst is a vital role within the field of Project Management, specifically focusing on the financial aspects of a project. They play a crucial role in ensuring the financial success and viability of a project by analyzing and interpreting financial data and providing recommendations to project managers. This includes preparing financial reports, tracking project expenses, monitoring budget allocations, and conducting financial risk assessments. A Project Financial Analyst must possess strong analytical skills, attention to detail, and a solid understanding of financial principles and project management methodologies. They must also possess excellent communication skills to effectively collaborate with cross-functional teams and stakeholders.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Project Financial Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Project Financial Analyst interviews to help you prepare and succeed.

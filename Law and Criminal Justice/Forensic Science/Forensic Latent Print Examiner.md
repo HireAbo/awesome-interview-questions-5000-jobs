@@ -2,6 +2,8 @@
 
 Welcome to the Forensic Latent Print Examiner Interview Preparation ! This resource is designed to help you ace your Forensic Latent Print Examiner interviews with confidence.
 
+A Forensic Latent Print Examiner plays a crucial role in the field of law and criminal justice, specifically within the realm of forensic science. This specialized job involves the analysis and comparison of fingerprints found at crime scenes to identify potential suspects or link evidence to individuals. Forensic Latent Print Examiners use advanced techniques and tools to collect, preserve, and analyze latent prints, which are often invisible to the naked eye. Their expertise enables them to provide valuable insights and testimony in criminal investigations and court proceedings. This highly skilled profession requires attention to detail, meticulousness, and a deep understanding of fingerprint identification principles and techniques.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forensic Latent Print Examiner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forensic Latent Print Examiner interviews to help you prepare and succeed.

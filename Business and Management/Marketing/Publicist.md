@@ -2,6 +2,8 @@
 
 Welcome to the Publicist Interview Preparation ! This resource is designed to help you ace your Publicist interviews with confidence.
 
+A publicist is a professional who specializes in promoting individuals, organizations, or businesses to the public and media. This crucial role is part of the broader field of marketing, focusing on building and maintaining a positive public image for their clients. Publicists utilize various strategies, such as media relations, event planning, social media management, and content creation, to generate positive publicity and increase brand awareness. They work closely with clients to understand their goals and develop effective communication strategies to reach target audiences. Strong communication, interpersonal, and organizational skills are essential in this role to successfully navigate the evolving landscape of public relations and marketing.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Publicist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Publicist interviews to help you prepare and succeed.

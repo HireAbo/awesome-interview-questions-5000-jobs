@@ -2,6 +2,8 @@
 
 Welcome to the Records Retention Analyst Interview Preparation ! This resource is designed to help you ace your Records Retention Analyst interviews with confidence.
 
+Library and Information Science (LIS) is a multidisciplinary field that encompasses the study of managing and organizing information resources in various formats. One of the specialized areas within LIS is Records Management, which focuses on the systematic control and maintenance of records throughout their lifecycle. A crucial role within Records Management is that of a Records Retention Analyst. As a Records Retention Analyst, you are responsible for developing and implementing records retention policies and schedules, ensuring compliance with legal and regulatory requirements. You will analyze records and information needs, assess the value and significance of records, and make recommendations for their retention or disposal. This role requires strong analytical skills, attention to detail, and knowledge of relevant laws and policies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Records Retention Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Records Retention Analyst interviews to help you prepare and succeed.

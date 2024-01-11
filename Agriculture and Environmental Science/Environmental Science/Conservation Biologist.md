@@ -2,6 +2,8 @@
 
 Welcome to the Conservation Biologist Interview Preparation ! This resource is designed to help you ace your Conservation Biologist interviews with confidence.
 
+Conservation Biologists play a critical role in safeguarding the environment and preserving biodiversity. As professionals in the field of environmental science, they focus on studying and implementing strategies to protect and restore ecosystems, wildlife, and natural resources. These scientists work closely with government agencies, non-profit organizations, and communities to address pressing environmental issues such as habitat destruction, species extinction, and climate change. They conduct research, monitor wildlife populations, develop conservation plans, and advocate for sustainable practices. Conservation Biologists also contribute to policy-making initiatives, educate the public, and collaborate with other scientists to find innovative solutions for balancing human needs with the protection of the natural world.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Conservation Biologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Conservation Biologist interviews to help you prepare and succeed.

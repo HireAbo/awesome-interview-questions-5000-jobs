@@ -2,6 +2,8 @@
 
 Welcome to the RF Engineer (Radio Frequency Engineer) Interview Preparation ! This resource is designed to help you ace your RF Engineer (Radio Frequency Engineer) interviews with confidence.
 
+An RF Engineer, also known as a Radio Frequency Engineer, is a specialized type of Electrical Engineer who focuses on the design, development, and maintenance of wireless communication systems. They are responsible for creating and optimizing radio frequency circuits and systems used in various applications such as mobile phones, satellite communications, and radar systems. RF Engineers are skilled in understanding and manipulating electromagnetic waves and their behavior in different environments. They work closely with other engineers and technicians to ensure the efficient transmission and reception of wireless signals, troubleshoot any issues that may arise, and improve the overall performance of communication systems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned RF Engineer (Radio Frequency Engineer) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in RF Engineer (Radio Frequency Engineer) interviews to help you prepare and succeed.

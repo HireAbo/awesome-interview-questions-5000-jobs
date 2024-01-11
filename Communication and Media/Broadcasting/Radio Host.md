@@ -2,6 +2,8 @@
 
 Welcome to the Radio Host Interview Preparation ! This resource is designed to help you ace your Radio Host interviews with confidence.
 
+A radio host is a dynamic and influential individual responsible for creating engaging and entertaining content for radio listeners. This job in the field of communication and media requires excellent communication skills and a captivating personality. Radio hosts are the voice of the station and are responsible for delivering news, conducting interviews, hosting talk shows, and playing music. They must possess exceptional knowledge of current events, popular culture, and music trends to keep their audience engaged. Additionally, radio hosts often interact with listeners through phone calls, social media, and live events. This role requires creativity, quick thinking, and the ability to connect with diverse audiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Radio Host or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Radio Host interviews to help you prepare and succeed.

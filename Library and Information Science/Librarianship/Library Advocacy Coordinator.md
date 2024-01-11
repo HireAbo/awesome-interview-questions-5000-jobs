@@ -2,6 +2,8 @@
 
 Welcome to the Library Advocacy Coordinator Interview Preparation ! This resource is designed to help you ace your Library Advocacy Coordinator interviews with confidence.
 
+The Library and Information Science field encompasses various roles, one of which is the Library Advocacy Coordinator. As a Library Advocacy Coordinator, your primary responsibility is to promote and advocate for the library and its services within the community. You play a crucial role in building relationships with local organizations, government officials, and stakeholders to raise awareness about the library's importance and impact. You collaborate with the library team to develop and implement strategic initiatives, such as organizing events, creating marketing materials, and engaging in public speaking engagements. Your goal is to ensure the library remains a vital resource, advocating for increased funding, support, and recognition for its valuable contributions to education, literacy, and community development.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Library Advocacy Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Library Advocacy Coordinator interviews to help you prepare and succeed.

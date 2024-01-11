@@ -2,6 +2,8 @@
 
 Welcome to the Radio Advertising Specialist Interview Preparation ! This resource is designed to help you ace your Radio Advertising Specialist interviews with confidence.
 
+A Radio Advertising Specialist is a professional responsible for creating and implementing effective advertising campaigns specifically for radio platforms. They play a crucial role in bridging the gap between businesses and their target audience. Radio Advertising Specialists possess expertise in market research, consumer behavior, and advertising techniques to develop strategies that maximize the impact of radio ads. They collaborate with clients to understand their marketing goals and target audience, and then create compelling radio ads that effectively convey the client's message. These specialists also negotiate ad placements, manage budgets, and monitor campaign performance to ensure optimal results. A successful Radio Advertising Specialist is creative, analytical, and possesses excellent communication and negotiation skills.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Radio Advertising Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Radio Advertising Specialist interviews to help you prepare and succeed.

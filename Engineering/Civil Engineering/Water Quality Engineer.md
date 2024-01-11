@@ -2,6 +2,8 @@
 
 Welcome to the Water Quality Engineer Interview Preparation ! This resource is designed to help you ace your Water Quality Engineer interviews with confidence.
 
+A Water Quality Engineer, within the field of Civil Engineering, is responsible for ensuring the safety and cleanliness of water sources such as rivers, lakes, and reservoirs. These professionals play a crucial role in designing and implementing effective systems to monitor, assess, and improve water quality. They collaborate with environmental scientists, hydrologists, and other engineers to develop strategies for water treatment and pollution control. Water Quality Engineers also conduct thorough research, collect water samples, and perform various tests to identify potential contaminants and develop appropriate mitigation measures. Their work is essential in safeguarding public health and preserving the environment for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Water Quality Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Water Quality Engineer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Robotic Welding Programmer Interview Preparation ! This resource is designed to help you ace your Robotic Welding Programmer interviews with confidence.
 
+A Robotic Welding Programmer is a skilled tradesperson who specializes in operating and programming robotic welding systems. They play a crucial role in the manufacturing industry, as they are responsible for setting up and maintaining automated welding equipment. These professionals possess a deep understanding of welding techniques, materials, and robotic programming languages. They work closely with engineers and designers to interpret blueprints and specifications, and then program robots to perform precise welding tasks. Robotic Welding Programmers are highly trained in troubleshooting and debugging robotic systems to ensure optimal performance and quality. They are essential in streamlining production processes and improving efficiency in the welding industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Robotic Welding Programmer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Robotic Welding Programmer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Veterinary Pathologist Interview Preparation ! This resource is designed to help you ace your Veterinary Pathologist interviews with confidence.
 
+The field of Veterinary Medicine encompasses various specialized areas, one of which is Veterinary Pathology. A Veterinary Pathologist is a professional who plays a crucial role in diagnosing and treating diseases in animals. They are trained to examine animal tissues, fluids, and cells to identify the cause, progression, and impact of diseases. These experts work closely with other veterinarians, conducting autopsies and analyzing samples, to determine the best course of treatment or preventive measures. Veterinary Pathologists also contribute to research and public health initiatives, studying the impact of diseases on both animal and human populations. Their expertise is vital in ensuring the health and well-being of animals and safeguarding public health.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Veterinary Pathologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Veterinary Pathologist interviews to help you prepare and succeed.

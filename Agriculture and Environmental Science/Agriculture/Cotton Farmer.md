@@ -2,6 +2,8 @@
 
 Welcome to the Cotton Farmer Interview Preparation ! This resource is designed to help you ace your Cotton Farmer interviews with confidence.
 
+Agriculture, a vital sector of our economy, involves the cultivation of plants and rearing of animals for food, fiber, medicinal plants, and other products used to sustain and enhance human life. Environmental science, on the other hand, focuses on understanding the interactions between the environment and human activities. Within the agricultural sector, the role of a cotton farmer is crucial. Cotton farmers are responsible for growing and maintaining cotton crops, ensuring optimal soil conditions, managing pests and diseases, and harvesting the cotton bolls. They play a significant role in meeting the global demand for cotton, while also considering the environmental impact of their farming practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cotton Farmer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cotton Farmer interviews to help you prepare and succeed.

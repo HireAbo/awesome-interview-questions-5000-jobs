@@ -2,6 +2,8 @@
 
 Welcome to the Ethnographic Archivist Interview Preparation ! This resource is designed to help you ace your Ethnographic Archivist interviews with confidence.
 
+Library and Information Science is a multidisciplinary field that focuses on the organization, preservation, and dissemination of information. Within this domain, the role of an Ethnographic Archivist is crucial in preserving and documenting cultural heritage. Ethnographic archivists specialize in collecting, organizing, and maintaining ethnographic materials, such as photographs, field notes, audiovisual recordings, and artifacts. They work closely with communities and researchers to ensure the collection and preservation of valuable cultural resources. Ethnographic archivists also play a vital role in providing access to these materials, facilitating research, and promoting cultural understanding. Their work encompasses not only archival management but also research, cataloging, and exhibit development to preserve and promote cultural diversity.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Ethnographic Archivist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Ethnographic Archivist interviews to help you prepare and succeed.

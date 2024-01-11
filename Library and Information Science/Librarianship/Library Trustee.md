@@ -2,6 +2,10 @@
 
 Welcome to the Library Trustee Interview Preparation ! This resource is designed to help you ace your Library Trustee interviews with confidence.
 
+Library and Information Science is a field that focuses on the organization, management, and dissemination of information within libraries and other information centers. It encompasses various aspects such as cataloging, collection development, reference services, and digital librarianship. Librarianship, a career within Library and Information Science, involves providing access to information resources, assisting patrons in their research needs, and promoting literacy and lifelong learning. 
+
+Library Trustees play a crucial role in the governance and oversight of public libraries. As volunteers or appointed officials, they ensure that libraries meet the needs of their communities by setting policies, advocating for funding, and hiring qualified staff. Library Trustees work closely with librarians and other stakeholders to develop strategic plans, evaluate library services, and make informed decisions regarding budget allocations and resource management. Their commitment to the library's mission and their understanding of community needs make them essential in shaping the future of libraries and ensuring their continued relevance in the digital age.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Library Trustee or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Library Trustee interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Child Welfare Case Worker Interview Preparation ! This resource is designed to help you ace your Child Welfare Case Worker interviews with confidence.
 
+A Child Welfare Case Worker is a vital professional in the field of social sciences, particularly in sociology. They play a pivotal role in protecting the welfare and well-being of children who are at risk or have experienced abuse, neglect, or other forms of maltreatment. These dedicated individuals work closely with families, children, and various stakeholders to assess the needs of the child and develop intervention plans that aim to ensure their safety and improve their overall quality of life. Child Welfare Case Workers are responsible for conducting investigations, providing counseling and support services, coordinating resources, and advocating for the best interests of the child. Their commitment and expertise are essential in promoting the social welfare and protection of vulnerable children in our society.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Child Welfare Case Worker or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Child Welfare Case Worker interviews to help you prepare and succeed.

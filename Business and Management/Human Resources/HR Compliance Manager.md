@@ -2,6 +2,8 @@
 
 Welcome to the HR Compliance Manager Interview Preparation ! This resource is designed to help you ace your HR Compliance Manager interviews with confidence.
 
+A Human Resources (HR) Compliance Manager plays a crucial role in ensuring that an organization follows all applicable laws and regulations related to employment and labor practices. This role involves developing, implementing, and monitoring HR policies and procedures to ensure compliance with federal, state, and local laws. The HR Compliance Manager is responsible for conducting audits and investigations to identify any non-compliance issues and recommend corrective actions. They also collaborate with other HR professionals to provide guidance and training to employees and management on compliance matters. Strong analytical and problem-solving skills, as well as up-to-date knowledge of employment laws, are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned HR Compliance Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in HR Compliance Manager interviews to help you prepare and succeed.

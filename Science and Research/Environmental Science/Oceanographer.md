@@ -2,6 +2,8 @@
 
 Welcome to the Oceanographer Interview Preparation ! This resource is designed to help you ace your Oceanographer interviews with confidence.
 
+An oceanographer is a specialist in the field of environmental science who focuses on studying the ocean and its various components. This fascinating job involves conducting research and gathering data to better understand marine life, oceanic currents, ecosystems, and natural phenomena in order to address environmental issues and find sustainable solutions. Oceanographers employ advanced technologies such as sonar, satellite imaging, and underwater vehicles to explore the deep sea and collect valuable information. They often work collaboratively with scientists from different disciplines to analyze data, conduct experiments, and develop models to predict climate change, sea-level rise, and the impacts of human activities on marine ecosystems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Oceanographer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Oceanographer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Workforce Planning Analyst Interview Preparation ! This resource is designed to help you ace your Workforce Planning Analyst interviews with confidence.
 
+A workforce planning analyst plays a vital role in the field of human resources by ensuring that an organization's workforce is strategically aligned with its business goals and objectives. This job involves analyzing and forecasting workforce needs, developing staffing plans, and identifying gaps in skills and talent. The workforce planning analyst collaborates with various departments to gather data and generate reports, which are used to guide recruitment, training, and retention strategies. They also monitor workforce trends, evaluate the effectiveness of workforce programs, and make recommendations to improve overall workforce efficiency and productivity. This role requires strong analytical skills, attention to detail, and the ability to interpret data to support informed decision-making in managing human capital.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Workforce Planning Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Workforce Planning Analyst interviews to help you prepare and succeed.

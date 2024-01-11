@@ -2,6 +2,8 @@
 
 Welcome to the Avionics Engineer Interview Preparation ! This resource is designed to help you ace your Avionics Engineer interviews with confidence.
 
+An Avionics Engineer is a highly skilled professional who specializes in the design, development, and maintenance of electronic systems used in aircraft. In the field of Aerospace Engineering, Avionics Engineers play a critical role in ensuring the safe and efficient operation of aircraft. They are responsible for designing and integrating various electronic systems, such as navigation, communication, and flight control systems, into aircraft. Avionics Engineers also conduct testing and troubleshooting of these systems to ensure they meet the stringent safety standards set by regulatory authorities. Their expertise is essential in advancing aviation technology, improving aircraft performance, and enhancing the overall flying experience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Avionics Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Avionics Engineer interviews to help you prepare and succeed.

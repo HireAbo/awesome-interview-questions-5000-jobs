@@ -2,6 +2,8 @@
 
 Welcome to the Curriculum Editor Interview Preparation ! This resource is designed to help you ace your Curriculum Editor interviews with confidence.
 
+A Curriculum Editor plays a crucial role in the field of education, specifically in curriculum development. This job involves reviewing and enhancing existing curricula, creating new educational materials, and ensuring that the content aligns with educational standards and objectives. A Curriculum Editor collaborates with subject matter experts, instructional designers, and educators to ensure that the curriculum is engaging, relevant, and effectively meets the needs of students. They critically analyze and revise content, check for accuracy, coherence, and appropriateness, and make necessary modifications to improve the overall quality of the curriculum. A Curriculum Editor must possess strong writing and editing skills, a deep understanding of educational principles, and a passion for enhancing the learning experience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Curriculum Editor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Curriculum Editor interviews to help you prepare and succeed.

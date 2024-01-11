@@ -2,6 +2,8 @@
 
 Welcome to the Public Information Officer (PIO) Interview Preparation ! This resource is designed to help you ace your Public Information Officer (PIO) interviews with confidence.
 
+A Public Information Officer (PIO) is a crucial role within the field of Emergency Management, which is concerned with planning for and responding to emergencies and disasters. The primary responsibility of a PIO is to act as a liaison between the government and the public, ensuring effective communication during crisis situations. PIOs are responsible for disseminating accurate and timely information to the public, media, and other stakeholders. They develop and implement communication strategies, manage social media platforms, coordinate press conferences, and respond to inquiries from the media and the public. PIOs play a vital role in maintaining transparency, building public trust, and ensuring public safety during emergencies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Public Information Officer (PIO) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Public Information Officer (PIO) interviews to help you prepare and succeed.

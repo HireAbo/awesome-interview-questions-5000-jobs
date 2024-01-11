@@ -2,6 +2,8 @@
 
 Welcome to the Energy Economist Interview Preparation ! This resource is designed to help you ace your Energy Economist interviews with confidence.
 
+A job as an Energy Economist within the field of Social Sciences, specifically Economics, involves the analysis and evaluation of energy-related policies, markets, and trends. Energy Economists are responsible for conducting research, collecting and analyzing data, and providing insights on the economic impact of energy production, consumption, and distribution. They assess the costs and benefits of various energy sources, such as renewable and fossil fuels, and develop strategies to optimize energy efficiency and sustainability. Energy Economists also contribute to the development of energy policies and regulations, suggesting measures to mitigate climate change and ensure a secure and affordable energy supply.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Energy Economist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Energy Economist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Supplier Relationship Manager Interview Preparation ! This resource is designed to help you ace your Supplier Relationship Manager interviews with confidence.
 
+The Supplier Relationship Manager plays a crucial role in the field of Transportation and Logistics, specifically in Supply Chain Management. This job involves managing relationships with suppliers to ensure the smooth and efficient flow of goods and services throughout the supply chain. The Supplier Relationship Manager is responsible for sourcing and selecting suppliers, negotiating contracts, and monitoring their performance. They also collaborate with cross-functional teams to identify opportunities for cost savings, process improvements, and risk mitigation. Excellent communication and negotiation skills are essential in this role, as the Supplier Relationship Manager acts as a liaison between the company and its suppliers to maintain strong partnerships and achieve strategic objectives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Supplier Relationship Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Supplier Relationship Manager interviews to help you prepare and succeed.

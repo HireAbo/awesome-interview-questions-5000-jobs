@@ -2,6 +2,8 @@
 
 Welcome to the Pediatrician Interview Preparation ! This resource is designed to help you ace your Pediatrician interviews with confidence.
 
+A pediatrician is a specialized medical professional who focuses on providing healthcare to infants, children, and adolescents. They play a crucial role in ensuring the overall well-being and development of young patients. Pediatricians are trained to diagnose and treat various illnesses and injuries specific to children, as well as monitor their growth and development. They are knowledgeable about childhood diseases, immunizations, and developmental milestones. Pediatricians often work closely with parents and guardians to educate and provide guidance on child nutrition, behavior, and safety. Their expertise and compassionate care make them essential in promoting the health and well-being of children from birth through adolescence.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Pediatrician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Pediatrician interviews to help you prepare and succeed.

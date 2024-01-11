@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Economist Interview Preparation ! This resource is designed to help you ace your Environmental Economist interviews with confidence.
 
+An Environmental Economist is a specialized professional within the field of economics who focuses on the impact of economic activities on the environment. They analyze the relationship between economic systems and natural resources, studying how human activities affect the environment and how environmental issues impact economic outcomes. Environmental Economists assess the costs and benefits of environmental policies, develop strategies to promote sustainable development, and provide guidance to policymakers, businesses, and organizations on how to mitigate environmental damage while maximizing economic growth. They conduct research, collect and analyze data, and utilize economic theories and models to understand and predict environmental changes and their economic implications.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Economist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Economist interviews to help you prepare and succeed.

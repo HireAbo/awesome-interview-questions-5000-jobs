@@ -2,6 +2,8 @@
 
 Welcome to the Labor Relations Specialist Interview Preparation ! This resource is designed to help you ace your Labor Relations Specialist interviews with confidence.
 
+A Labor Relations Specialist is a professional who specializes in managing and resolving conflicts between employers and employees within a workplace. They play a crucial role in ensuring fair treatment, effective communication, and positive working relationships between management and employees. Labor Relations Specialists are responsible for facilitating negotiations, mediating disputes, and implementing policies and procedures related to labor laws and regulations. They provide guidance and support to both employers and employees to maintain a productive and harmonious work environment. Additionally, they may conduct research, analyze data, and provide recommendations on labor-related issues such as wages, benefits, and working conditions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Labor Relations Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Labor Relations Specialist interviews to help you prepare and succeed.

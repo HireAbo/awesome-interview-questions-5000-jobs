@@ -2,6 +2,12 @@
 
 Welcome to the Business Intelligence Analyst Interview Preparation ! This resource is designed to help you ace your Business Intelligence Analyst interviews with confidence.
 
+Library and Information Science (LIS) is a multidisciplinary field that focuses on the organization, management, and dissemination of information. Within LIS, Information Management is a specialized area that deals with the systematic management of information resources. A crucial role within Information Management is that of a Business Intelligence Analyst.
+
+A Business Intelligence Analyst is responsible for gathering, analyzing, and interpreting large volumes of data to provide valuable insights and support strategic decision-making within an organization. They utilize various tools and techniques to identify trends, patterns, and opportunities for improving business performance. By analyzing data from different sources, such as customer behavior, market trends, and financial records, Business Intelligence Analysts help businesses make informed decisions, optimize processes, and achieve their goals.
+
+In summary, a Business Intelligence Analyst in the field of Library and Information Science plays a vital role in harnessing the power of data to drive organizational success and growth.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Business Intelligence Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Business Intelligence Analyst interviews to help you prepare and succeed.

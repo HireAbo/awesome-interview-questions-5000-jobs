@@ -2,6 +2,8 @@
 
 Welcome to the Geriatric Social Worker Interview Preparation ! This resource is designed to help you ace your Geriatric Social Worker interviews with confidence.
 
+A geriatric social worker is a professional in the field of social work who specializes in providing support and assistance to elderly individuals and their families. They work closely with the elderly population to address their unique needs and challenges, such as physical and mental health issues, social isolation, and navigating the complex healthcare and long-term care systems. Geriatric social workers play a vital role in advocating for the rights and well-being of older adults, helping them maintain their independence and improve their quality of life. They collaborate with healthcare professionals, community organizations, and families to develop comprehensive care plans and connect seniors with necessary resources and services.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Geriatric Social Worker or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Geriatric Social Worker interviews to help you prepare and succeed.

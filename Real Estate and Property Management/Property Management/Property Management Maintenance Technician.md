@@ -2,6 +2,8 @@
 
 Welcome to the Property Management Maintenance Technician Interview Preparation ! This resource is designed to help you ace your Property Management Maintenance Technician interviews with confidence.
 
+A Property Management Maintenance Technician is a crucial role in the field of Real Estate and Property Management. This job involves ensuring the proper functioning and maintenance of residential or commercial properties. Maintenance Technicians are responsible for performing routine inspections, troubleshooting, and repairing various systems and equipment within the property. They handle tasks like plumbing repairs, electrical work, HVAC maintenance, and general upkeep. Additionally, they may also manage and coordinate contractors for major repairs or renovations. A Maintenance Technician plays a vital role in ensuring that properties are safe, well-maintained, and comfortable for tenants or occupants, thus contributing to the overall success of property management.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Property Management Maintenance Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Property Management Maintenance Technician interviews to help you prepare and succeed.

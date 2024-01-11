@@ -2,6 +2,8 @@
 
 Welcome to the Agricultural Chemical Engineer Interview Preparation ! This resource is designed to help you ace your Agricultural Chemical Engineer interviews with confidence.
 
+Agricultural Chemical Engineering is a specialized field within the broader discipline of Chemical Engineering. Agricultural Chemical Engineers are responsible for developing and implementing chemical processes and technologies to enhance agricultural production and efficiency. They work closely with farmers, agronomists, and other professionals in the agricultural industry to develop innovative solutions for crop protection, fertilization, and pest control. These engineers utilize their expertise in chemistry, biology, and engineering principles to design and optimize chemical formulations, analyze data, and ensure compliance with environmental regulations. Agricultural Chemical Engineers play a crucial role in addressing the global challenge of feeding a growing population sustainably by developing safe and effective chemical solutions for agricultural practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Agricultural Chemical Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Agricultural Chemical Engineer interviews to help you prepare and succeed.

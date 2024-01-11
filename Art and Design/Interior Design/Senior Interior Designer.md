@@ -2,6 +2,8 @@
 
 Welcome to the Senior Interior Designer Interview Preparation ! This resource is designed to help you ace your Senior Interior Designer interviews with confidence.
 
+A Senior Interior Designer is a highly experienced professional in the field of Art and Design, specializing in Interior Design. With a keen eye for aesthetics and a deep understanding of spatial planning, they are responsible for creating functional and visually appealing interior spaces. This role involves collaborating with clients, architects, and contractors to develop design concepts, selecting appropriate materials and finishes, and overseeing the implementation of the design plan. A Senior Interior Designer also manages a team of junior designers, providing guidance and mentorship. Their expertise lies in creating innovative and sustainable designs that enhance the overall ambiance and functionality of a space.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Senior Interior Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Senior Interior Designer interviews to help you prepare and succeed.

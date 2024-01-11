@@ -2,6 +2,8 @@
 
 Welcome to the Child and Family Policy Analyst Interview Preparation ! This resource is designed to help you ace your Child and Family Policy Analyst interviews with confidence.
 
+A Child and Family Policy Analyst within the Family Services sector of Social Work and Human Services plays a crucial role in shaping and improving the well-being of children and families. This professional is responsible for conducting in-depth research and analysis of policies related to child and family welfare. They assess the effectiveness of existing policies, identify gaps and areas for improvement, and propose evidence-based recommendations to government agencies, non-profit organizations, and other stakeholders. The Child and Family Policy Analyst contributes to the development of policies that address child protection, education, healthcare, poverty alleviation, and other critical areas. By advocating for policy changes, they strive to create a better future for vulnerable children and families, ensuring their rights and needs are prioritized.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Child and Family Policy Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Child and Family Policy Analyst interviews to help you prepare and succeed.

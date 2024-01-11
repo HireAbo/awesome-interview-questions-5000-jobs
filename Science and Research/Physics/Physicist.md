@@ -2,6 +2,8 @@
 
 Welcome to the Physicist Interview Preparation ! This resource is designed to help you ace your Physicist interviews with confidence.
 
+A physicist is a professional who specializes in the field of physics, which is the branch of science that studies the fundamental principles of matter and energy. Physicists play a crucial role in advancing scientific knowledge and understanding through research and experimentation. They apply mathematical and theoretical models to explain the behavior of the universe, from the smallest particles to the vastness of space. Physicists work in various settings, such as universities, research institutions, and government laboratories. They are involved in a wide range of activities, including conducting experiments, developing new theories, designing and testing equipment, and analyzing data. Their work contributes to technological advancements and helps us understand the fundamental laws that govern our universe.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Physicist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Physicist interviews to help you prepare and succeed.

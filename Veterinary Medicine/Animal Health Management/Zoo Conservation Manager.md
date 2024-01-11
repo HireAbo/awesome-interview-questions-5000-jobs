@@ -2,6 +2,8 @@
 
 Welcome to the Zoo Conservation Manager Interview Preparation ! This resource is designed to help you ace your Zoo Conservation Manager interviews with confidence.
 
+A Zoo Conservation Manager is a professional responsible for overseeing the veterinary medicine and animal health management practices within a zoo or wildlife conservation organization. This role involves ensuring the well-being and health of animals in captivity, as well as implementing conservation strategies to protect endangered species. The Zoo Conservation Manager works closely with a team of veterinarians, animal caretakers, and conservationists to develop and execute comprehensive animal health programs, including disease prevention, nutrition, and behavioral enrichment. They also collaborate with research institutions and government agencies to develop and implement conservation initiatives, such as breeding programs and habitat restoration, to ensure the long-term survival of endangered species.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Zoo Conservation Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Zoo Conservation Manager interviews to help you prepare and succeed.

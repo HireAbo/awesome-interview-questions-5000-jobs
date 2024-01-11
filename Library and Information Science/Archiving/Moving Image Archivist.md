@@ -2,6 +2,8 @@
 
 Welcome to the Moving Image Archivist Interview Preparation ! This resource is designed to help you ace your Moving Image Archivist interviews with confidence.
 
+Library and Information Science is a multidisciplinary field that focuses on managing and organizing information in various formats. Within this field, archiving plays a crucial role in preserving and providing access to valuable historical records and materials. Moving Image Archivists are professionals specialized in the preservation, cataloging, and management of audiovisual materials such as films, videos, and digital media. They ensure the long-term survival of these materials by employing various techniques, including digitization and conservation methods. Moreover, Moving Image Archivists are responsible for organizing and classifying these materials, making them accessible to researchers, scholars, and the general public. They play a vital role in safeguarding our cultural heritage and promoting a better understanding of our past through moving images.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Moving Image Archivist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Moving Image Archivist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Sustainable Agriculture Landscape Designer Interview Preparation ! This resource is designed to help you ace your Sustainable Agriculture Landscape Designer interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on the intersection of agriculture, ecology, and sustainability. Sustainable Agriculture, within this field, aims to develop and implement farming practices that are environmentally friendly, economically viable, and socially responsible. One specific career path within Sustainable Agriculture is that of a Sustainable Agriculture Landscape Designer. These professionals work to design and manage agricultural landscapes that promote sustainable practices, such as crop rotation, soil conservation, and water management. They also integrate ecological principles into their designs to enhance biodiversity, reduce pesticide use, and improve overall environmental health. Sustainable Agriculture Landscape Designers play a crucial role in creating and maintaining sustainable food production systems that prioritize both environmental stewardship and food security.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sustainable Agriculture Landscape Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sustainable Agriculture Landscape Designer interviews to help you prepare and succeed.

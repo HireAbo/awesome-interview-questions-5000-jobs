@@ -2,6 +2,8 @@
 
 Welcome to the Government Affairs Director Interview Preparation ! This resource is designed to help you ace your Government Affairs Director interviews with confidence.
 
+A Government Affairs Director is a highly influential role within the field of Political Science, specifically in the realm of Social Sciences. This position involves overseeing and managing the relationship between an organization and government entities, ensuring that the organization's interests are represented and protected. The Government Affairs Director is responsible for developing and implementing strategies to influence public policies, advocating for legislative changes, and building strong relationships with government officials. They work closely with internal stakeholders to align organizational goals with government regulations and legislation. This role requires strong analytical, communication, and negotiation skills, as well as a deep understanding of political systems and processes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Government Affairs Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Government Affairs Director interviews to help you prepare and succeed.

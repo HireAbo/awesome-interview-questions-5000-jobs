@@ -2,6 +2,8 @@
 
 Welcome to the Neuropsychologist Interview Preparation ! This resource is designed to help you ace your Neuropsychologist interviews with confidence.
 
+A neuropsychologist is a specialized professional within the field of psychology who investigates the relationship between brain function and behavior. They utilize their extensive knowledge of both neuroscience and psychology to assess, diagnose, and treat individuals with various neurological disorders or injuries. Neuropsychologists conduct comprehensive evaluations to determine the impact of brain-related conditions on cognitive abilities, emotional functioning, and behavior. They administer a range of tests and assessments to measure memory, attention, language, problem-solving skills, and other cognitive functions. With their expertise, they are able to develop personalized treatment plans, provide counseling, and offer recommendations for rehabilitation and intervention strategies. Neuropsychologists often collaborate with other healthcare professionals to ensure the best outcomes for their patients.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Neuropsychologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Neuropsychologist interviews to help you prepare and succeed.

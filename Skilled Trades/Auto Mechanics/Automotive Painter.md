@@ -2,6 +2,8 @@
 
 Welcome to the Automotive Painter Interview Preparation ! This resource is designed to help you ace your Automotive Painter interviews with confidence.
 
+An automotive painter is a skilled tradesperson who specializes in the art of paint application and finishing for automobiles. They play a crucial role in the automotive industry by ensuring that vehicles have an attractive and durable finish. Automotive painters are responsible for preparing vehicles for the painting process, which involves sanding, masking, and priming surfaces to create a smooth canvas for paint application. They carefully select and mix paint colors, apply paint using various techniques such as spraying or brushing, and ensure an even and flawless finish. Additionally, they may also be responsible for repairing paint defects and maintaining painting equipment. Automotive painters possess excellent attention to detail, color perception, and manual dexterity to produce high-quality work that meets industry standards.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Automotive Painter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Automotive Painter interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Cycling Coach Interview Preparation ! This resource is designed to help you ace your Cycling Coach interviews with confidence.
 
+A Cycling Coach plays a crucial role in the development and success of athletes participating in the sport of cycling. As a coach, they are responsible for providing personalized training plans, guidance, and support to help cyclists improve their skills, performance, and overall fitness levels. They work closely with athletes to identify their strengths and weaknesses, analyze their technique, and develop strategies to enhance their performance during races and competitions. A cycling coach also educates athletes on nutrition, injury prevention, and recovery techniques. They monitor progress, provide feedback, and adjust training programs accordingly, aiming to maximize the potential of cyclists and help them achieve their goals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cycling Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cycling Coach interviews to help you prepare and succeed.

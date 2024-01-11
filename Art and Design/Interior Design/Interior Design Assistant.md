@@ -2,6 +2,8 @@
 
 Welcome to the Interior Design Assistant Interview Preparation ! This resource is designed to help you ace your Interior Design Assistant interviews with confidence.
 
+An Interior Design Assistant is a crucial role within the field of Art and Design, specifically in the realm of Interior Design. This position involves providing support and assistance to Interior Designers in creating functional and aesthetically pleasing spaces. The Assistant collaborates with the design team to develop concepts, select materials, create layouts, and communicate with clients. They also assist with administrative tasks such as organizing samples, preparing presentations, and managing project schedules. With a strong eye for detail, creativity, and excellent communication skills, an Interior Design Assistant plays a vital role in executing design plans and ensuring the successful completion of projects.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Interior Design Assistant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Interior Design Assistant interviews to help you prepare and succeed.

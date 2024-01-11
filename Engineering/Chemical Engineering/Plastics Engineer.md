@@ -2,6 +2,8 @@
 
 Welcome to the Plastics Engineer Interview Preparation ! This resource is designed to help you ace your Plastics Engineer interviews with confidence.
 
+A Plastics Engineer plays a crucial role in the field of Chemical Engineering, specializing in the production and development of plastic materials. They are responsible for designing, testing, and implementing processes to create various plastic products, ensuring their quality, functionality, and safety. Plastics Engineers work closely with research and development teams to innovate new plastic materials and improve existing ones. They analyze raw materials, develop production methods, and troubleshoot any issues that may arise during the manufacturing process. With their deep understanding of chemical reactions and engineering principles, Plastics Engineers contribute significantly to the advancement of industries such as packaging, automotive, aerospace, and consumer goods.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Plastics Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Plastics Engineer interviews to help you prepare and succeed.

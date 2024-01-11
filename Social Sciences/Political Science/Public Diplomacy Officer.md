@@ -2,6 +2,8 @@
 
 Welcome to the Public Diplomacy Officer Interview Preparation ! This resource is designed to help you ace your Public Diplomacy Officer interviews with confidence.
 
+A Public Diplomacy Officer is a professional who specializes in promoting and managing the international image and reputation of a country or organization. This role falls under the field of Political Science within the broader spectrum of Social Sciences. Public Diplomacy Officers work closely with government officials, diplomats, and public relations experts to shape public opinion, build relationships, and disseminate information about their country's policies, values, and culture. They engage in various activities such as organizing cultural events, conducting media outreach, facilitating exchange programs, and managing social media platforms. By effectively communicating and fostering positive relationships, Public Diplomacy Officers play a crucial role in enhancing international understanding and cooperation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Public Diplomacy Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Public Diplomacy Officer interviews to help you prepare and succeed.

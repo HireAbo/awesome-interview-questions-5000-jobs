@@ -2,6 +2,8 @@
 
 Welcome to the Forest Supply Chain Analyst Interview Preparation ! This resource is designed to help you ace your Forest Supply Chain Analyst interviews with confidence.
 
+Agriculture and Environmental Science encompass a wide range of disciplines aimed at sustainable practices and the preservation of our natural resources. Within this field, the role of a Forest Supply Chain Analyst is crucial in managing and optimizing the flow of timber and forest products from forest to market. As a Forest Supply Chain Analyst, one is responsible for collecting and analyzing data related to the forest supply chain, including inventory, transportation, and market demand. They play a vital role in ensuring the efficient utilization of forest resources, minimizing waste, and promoting sustainable practices. This job requires a strong understanding of forestry practices, analytical skills, and the ability to collaborate with various stakeholders to achieve environmental and economic goals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forest Supply Chain Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forest Supply Chain Analyst interviews to help you prepare and succeed.

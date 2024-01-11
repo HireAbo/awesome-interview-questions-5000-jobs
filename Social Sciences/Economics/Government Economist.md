@@ -2,6 +2,8 @@
 
 Welcome to the Government Economist Interview Preparation ! This resource is designed to help you ace your Government Economist interviews with confidence.
 
+A government economist is a professional who specializes in understanding and analyzing the economic policies and impacts of government actions. They play a crucial role in shaping and implementing economic policies that drive a country's growth and development. Government economists conduct extensive research, collect and analyze data, and provide insights and recommendations to policymakers on various economic issues, such as taxation, budgeting, and public spending. They also monitor and evaluate the effects of government policies on different sectors of the economy and advise on strategies to mitigate risks and maximize economic benefits. Their work is vital in ensuring the stability and prosperity of a nation's economy.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Government Economist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Government Economist interviews to help you prepare and succeed.

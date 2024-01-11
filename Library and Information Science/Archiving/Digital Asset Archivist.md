@@ -2,6 +2,8 @@
 
 Welcome to the Digital Asset Archivist Interview Preparation ! This resource is designed to help you ace your Digital Asset Archivist interviews with confidence.
 
+Library and Information Science is a field that encompasses the organization, management, and dissemination of information in various formats. Within this field, archiving plays a crucial role in preserving and providing access to valuable records and resources. Archivists are professionals who specialize in this domain and work diligently to ensure the longevity and accessibility of historical documents, photographs, audiovisual materials, and other cultural artifacts. In recent years, the advent of digital technology has led to the emergence of a new role within archiving: the Digital Asset Archivist. This position focuses on the management, preservation, and curation of digital assets, such as electronic records, digital photographs, and multimedia files. Digital Asset Archivists employ specialized tools and techniques to ensure the integrity, authenticity, and accessibility of these digital resources for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Digital Asset Archivist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Digital Asset Archivist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Adventure Education Instructor Interview Preparation ! This resource is designed to help you ace your Adventure Education Instructor interviews with confidence.
 
+The role of a Sports and Athletics/Physical Education/Adventure Education Instructor is to provide guidance, instruction, and inspiration to individuals participating in various sports and physical activities. This job entails designing and implementing lesson plans that focus on developing skills, improving fitness, and promoting teamwork and sportsmanship. Instructors may work in schools, colleges, fitness centers, or adventure camps, and their responsibilities may include organizing and supervising games, leading fitness sessions, providing personalized coaching, and ensuring the safety of participants. They play a vital role in fostering a love for sports, promoting a healthy lifestyle, and helping individuals of all ages and abilities reach their full potential.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Adventure Education Instructor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Adventure Education Instructor interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Internal Communications Specialist Interview Preparation ! This resource is designed to help you ace your Internal Communications Specialist interviews with confidence.
 
+An Internal Communications Specialist plays a critical role in fostering effective communication within an organization. They are responsible for developing and implementing strategies to facilitate internal communication processes and ensure consistent messaging across all levels of the company. This role involves creating and distributing engaging content through various channels such as email, intranet, newsletters, and social media platforms. Internal Communications Specialists collaborate closely with different departments to gather information, draft internal announcements, and coordinate company-wide events. They also monitor feedback from employees, measure the effectiveness of communication initiatives, and make necessary adjustments to ensure optimal engagement and alignment within the organization.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Internal Communications Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Internal Communications Specialist interviews to help you prepare and succeed.

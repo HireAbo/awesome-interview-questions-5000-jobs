@@ -2,6 +2,8 @@
 
 Welcome to the Residential Real Estate Developer Interview Preparation ! This resource is designed to help you ace your Residential Real Estate Developer interviews with confidence.
 
+A Real Estate Developer is an individual or company involved in the process of acquiring, developing, and selling properties. Residential Real Estate Developers specifically focus on developing residential properties such as apartment complexes, housing communities, or single-family homes. Their job entails identifying potential real estate opportunities, conducting market research, securing financing, and overseeing the entire development process from start to finish. This includes tasks such as land acquisition, obtaining necessary permits, managing construction, and marketing the finished product. Residential Real Estate Developers must have a strong understanding of market trends, financing options, construction processes, and legal regulations to successfully navigate the competitive real estate industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Residential Real Estate Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Residential Real Estate Developer interviews to help you prepare and succeed.

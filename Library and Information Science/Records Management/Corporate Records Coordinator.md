@@ -2,6 +2,8 @@
 
 Welcome to the Corporate Records Coordinator Interview Preparation ! This resource is designed to help you ace your Corporate Records Coordinator interviews with confidence.
 
+A Corporate Records Coordinator is a professional responsible for managing and coordinating the records management system within a corporate setting. This role falls under the field of Library and Information Science, which focuses on organizing and preserving information in various formats. As a Corporate Records Coordinator, one's primary objective is to ensure the efficient and effective management of corporate records, both physical and digital. This includes tasks such as classifying and categorizing records, implementing retention policies, overseeing the destruction or archiving of records, and ensuring compliance with legal and regulatory requirements. The role also involves collaborating with different departments, training staff on records management practices, and implementing technological solutions to streamline processes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Corporate Records Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Corporate Records Coordinator interviews to help you prepare and succeed.

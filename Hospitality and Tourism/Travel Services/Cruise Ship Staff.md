@@ -2,6 +2,8 @@
 
 Welcome to the Cruise Ship Staff Interview Preparation ! This resource is designed to help you ace your Cruise Ship Staff interviews with confidence.
 
+The Cruise Ship Staff job is an exciting and dynamic role within the hospitality and tourism industry. As part of the travel services sector, cruise ship staff members play a vital role in ensuring the smooth operation and unforgettable experiences for guests on board. This multifaceted job involves a range of responsibilities, including guest services, entertainment, food and beverage, and housekeeping. From welcoming guests and organizing activities to providing exceptional customer service and maintaining cleanliness, cruise ship staff members are dedicated to creating a memorable and enjoyable voyage for passengers. This career path offers the opportunity to travel to exotic destinations, work alongside diverse international teams, and contribute to the vibrant world of cruise ship hospitality.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cruise Ship Staff or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cruise Ship Staff interviews to help you prepare and succeed.

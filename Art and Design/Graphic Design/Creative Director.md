@@ -2,6 +2,8 @@
 
 Welcome to the Creative Director Interview Preparation ! This resource is designed to help you ace your Creative Director interviews with confidence.
 
+A Creative Director in Graphic Design is a highly skilled and experienced professional who plays a crucial role in the field of Art and Design. They are responsible for overseeing and leading the creative team, ensuring that the visual communications produced align with the brand's overall strategy and objectives. A Creative Director possesses a deep understanding of design principles, trends, and technologies, which they utilize to develop innovative and compelling visual concepts. They collaborate with clients, marketers, and other stakeholders to translate their ideas into effective visual solutions. With their expertise in art direction, project management, and team leadership, Creative Directors play a vital role in shaping the visual identity of a brand and creating impactful design experiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Creative Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Creative Director interviews to help you prepare and succeed.

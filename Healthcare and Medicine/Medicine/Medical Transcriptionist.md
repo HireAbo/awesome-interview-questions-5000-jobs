@@ -2,6 +2,8 @@
 
 Welcome to the Medical Transcriptionist Interview Preparation ! This resource is designed to help you ace your Medical Transcriptionist interviews with confidence.
 
+A medical transcriptionist is an essential part of the healthcare and medicine field, responsible for converting voice-recorded medical reports into written documents. This job requires a strong understanding of medical terminology, anatomy, and physiology, as well as excellent listening and typing skills. Medical transcriptionists work closely with healthcare professionals, such as doctors and nurses, to ensure accurate and detailed medical reports are maintained. They play a crucial role in documenting patient information, diagnoses, treatments, and procedures. By producing high-quality transcripts, medical transcriptionists contribute to effective communication among healthcare providers and facilitate proper patient care. They work in various healthcare settings, including hospitals, clinics, and transcription service companies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Medical Transcriptionist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Medical Transcriptionist interviews to help you prepare and succeed.

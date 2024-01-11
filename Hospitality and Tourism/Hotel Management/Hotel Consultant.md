@@ -2,6 +2,8 @@
 
 Welcome to the Hotel Consultant Interview Preparation ! This resource is designed to help you ace your Hotel Consultant interviews with confidence.
 
+Hospitality and Tourism is a thriving industry that encompasses various sectors, including hotel management. As a Hotel Consultant, your role is to provide expert advice and assistance to hotels to enhance their operations and overall guest experience. You will be responsible for conducting thorough assessments of hotel facilities, services, and operations, identifying areas for improvement, and developing strategic plans to optimize efficiency and profitability. Additionally, you will offer guidance on marketing strategies, revenue management, and employee training, ensuring that hotels meet and exceed industry standards. A Hotel Consultant must possess strong analytical, communication, and problem-solving skills to deliver exceptional results in this dynamic and competitive field.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Hotel Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Hotel Consultant interviews to help you prepare and succeed.

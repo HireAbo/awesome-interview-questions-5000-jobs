@@ -2,6 +2,12 @@
 
 Welcome to the Plumbing Designer Interview Preparation ! This resource is designed to help you ace your Plumbing Designer interviews with confidence.
 
+A Plumbing Designer is a skilled tradesperson responsible for designing and planning plumbing systems for residential, commercial, and industrial buildings. They work closely with architects, engineers, and construction teams to ensure that plumbing systems meet building codes, regulations, and client requirements. 
+
+Plumbing Designers utilize their expertise to create detailed drawings, schematics, and specifications for plumbing installations. They analyze building blueprints and assess plumbing needs, including water supply, drainage, and gas systems. They also consider factors such as water efficiency, sustainability, and energy conservation. 
+
+Plumbing Designers must have a strong understanding of plumbing codes, materials, and industry best practices. They collaborate with other professionals to coordinate plumbing layouts, provide cost estimates, and troubleshoot any design issues. Overall, their role is crucial in ensuring efficient and effective plumbing systems that meet safety and functionality standards.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Plumbing Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Plumbing Designer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the RF Hardware Engineer Interview Preparation ! This resource is designed to help you ace your RF Hardware Engineer interviews with confidence.
 
+A RF Hardware Engineer in the field of Electrical Engineering specializes in designing, developing, and testing radio frequency (RF) hardware components and systems. These professionals play a crucial role in the design and implementation of RF circuits, such as amplifiers, filters, mixers, and oscillators. They are responsible for ensuring the optimal performance, efficiency, and reliability of RF systems that are used in various industries, including telecommunications, aerospace, and defense. RF Hardware Engineers conduct extensive testing, measurements, and analysis to troubleshoot and resolve any issues related to signal interference, noise, or distortion. They also collaborate with cross-functional teams to develop innovative solutions and stay updated with the latest advancements in RF technology.
+
 ## 🚀 Overview
 
 Whether you're a seasoned RF Hardware Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in RF Hardware Engineer interviews to help you prepare and succeed.

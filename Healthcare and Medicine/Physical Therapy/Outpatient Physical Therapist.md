@@ -2,6 +2,8 @@
 
 Welcome to the Outpatient Physical Therapist Interview Preparation ! This resource is designed to help you ace your Outpatient Physical Therapist interviews with confidence.
 
+An outpatient physical therapist is a healthcare professional who specializes in providing therapy and rehabilitation services to patients on an outpatient basis. They work closely with individuals who have suffered from injuries, illnesses, or undergone surgery, aiming to improve their mobility, strength, and overall physical well-being. These therapists assess patients' conditions, develop personalized treatment plans, and utilize various techniques and exercises to help restore their function and alleviate pain. They may also educate patients on injury prevention and self-management techniques. Outpatient physical therapists play a vital role in helping patients regain independence and improve their quality of life.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Outpatient Physical Therapist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Outpatient Physical Therapist interviews to help you prepare and succeed.

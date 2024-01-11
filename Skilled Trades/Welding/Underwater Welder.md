@@ -2,6 +2,8 @@
 
 Welcome to the Underwater Welder Interview Preparation ! This resource is designed to help you ace your Underwater Welder interviews with confidence.
 
+The job of an underwater welder falls under the skilled trade of welding, which requires specialized training and expertise. Underwater welders are professionals who perform welding tasks in aquatic environments, such as the construction and maintenance of offshore structures, pipelines, and underwater equipment. This occupation demands a unique set of skills, as underwater welders must be proficient in both welding techniques and diving procedures. They must possess exceptional knowledge of welding equipment, materials, and safety protocols, as well as the ability to work effectively in high-pressure and potentially hazardous conditions. Underwater welding offers exciting opportunities for those seeking a challenging and rewarding career at the intersection of welding and marine exploration.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Underwater Welder or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Underwater Welder interviews to help you prepare and succeed.

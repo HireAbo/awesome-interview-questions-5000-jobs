@@ -2,6 +2,8 @@
 
 Welcome to the Psychotherapist Interview Preparation ! This resource is designed to help you ace your Psychotherapist interviews with confidence.
 
+A psychotherapist is a professional who specializes in the field of psychology and provides therapeutic interventions to individuals, couples, families, or groups. They work within the broader field of social sciences, specifically psychology, to help clients overcome emotional, behavioral, or mental health issues. Psychotherapists use various evidence-based techniques and therapies to assist clients in gaining insight, developing coping mechanisms, and achieving personal growth. They often work closely with clients to establish a trusting and confidential relationship, creating a safe space for open communication and exploration of thoughts and feelings. Psychotherapists play a crucial role in supporting individuals in their journey towards improved mental well-being and overall quality of life.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Psychotherapist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Psychotherapist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Aircraft Maintenance Technician (AMT) Interview Preparation ! This resource is designed to help you ace your Aircraft Maintenance Technician (AMT) interviews with confidence.
 
+The field of aviation and aerospace is an exciting and dynamic industry that encompasses the design, development, manufacturing, operation, and maintenance of aircraft and spacecraft. Within the realm of aircraft maintenance, the role of an Aircraft Maintenance Technician (AMT) is crucial. AMTs are responsible for ensuring the safe and efficient functioning of aircraft through regular inspections, troubleshooting mechanical issues, and performing necessary repairs and maintenance tasks. They possess a comprehensive understanding of aircraft systems, including engines, electrical systems, avionics, and airframes. AMTs play a vital role in maintaining the airworthiness of aircraft, ensuring compliance with safety regulations, and ensuring the overall reliability and performance of aircraft.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Aircraft Maintenance Technician (AMT) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Aircraft Maintenance Technician (AMT) interviews to help you prepare and succeed.

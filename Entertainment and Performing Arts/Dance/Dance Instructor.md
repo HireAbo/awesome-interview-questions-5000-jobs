@@ -2,6 +2,8 @@
 
 Welcome to the Dance Instructor Interview Preparation ! This resource is designed to help you ace your Dance Instructor interviews with confidence.
 
+A Dance Instructor is a professional who imparts knowledge, skills, and techniques in various dance forms to individuals or groups. They play a significant role in the world of entertainment and performing arts by teaching dance routines, choreographing performances, and coaching dancers to refine their talent. Dance Instructors typically work in dance studios, schools, community centers, or even privately. They possess a deep understanding of different dance styles such as ballet, jazz, contemporary, hip hop, or ballroom, and are adept at instructing students of all ages and skill levels. Their passion for dance, coupled with their ability to motivate and inspire, allows them to shape aspiring dancers into confident performers.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Dance Instructor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Dance Instructor interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Property Management Leasing Agent Interview Preparation ! This resource is designed to help you ace your Property Management Leasing Agent interviews with confidence.
 
+A Property Management Leasing Agent is a vital role in the real estate and property management industry. As a leasing agent, their primary responsibility is to market and lease properties on behalf of property owners or management companies. They act as a liaison between property owners and prospective tenants, ensuring a seamless leasing process. Leasing agents are knowledgeable about the local real estate market and assist in setting competitive rental prices. They conduct property tours, screen potential tenants, negotiate lease terms, and handle all necessary paperwork. Additionally, leasing agents provide exceptional customer service, address tenant concerns, and promote tenant retention. They play a crucial role in maximizing property occupancy and generating rental income.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Property Management Leasing Agent or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Property Management Leasing Agent interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Clinical Research Manager Interview Preparation ! This resource is designed to help you ace your Clinical Research Manager interviews with confidence.
 
+A Clinical Research Manager is a crucial role within the field of healthcare and medicine, specifically in medical research. As a Clinical Research Manager, you will oversee and coordinate all aspects of clinical trials and research studies, ensuring their successful execution. Responsibilities include managing the research team, developing protocols and study designs, obtaining necessary regulatory approvals, and monitoring the progress and outcomes of studies. You will also be responsible for budgeting, resource allocation, and ensuring compliance with ethical guidelines and regulations. A Clinical Research Manager plays a vital role in advancing medical knowledge and improving patient care by overseeing the safe and effective implementation of clinical research studies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Clinical Research Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Clinical Research Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife Spatial Analyst Interview Preparation ! This resource is designed to help you ace your Wildlife Spatial Analyst interviews with confidence.
 
+Agriculture and Environmental Science are interdisciplinary fields that focus on sustainable practices and the conservation of natural resources. Wildlife Conservation, a branch of Environmental Science, specifically aims to protect and preserve wild animals and their habitats. Within this field, the role of a Wildlife Spatial Analyst is crucial. These professionals use advanced technology and tools to analyze spatial data and monitor wildlife populations. By studying animal behavior, migration patterns, and habitat suitability, they provide valuable insights for effective conservation efforts. Their work plays a significant role in identifying wildlife corridors, managing protected areas, and developing conservation plans that balance the needs of animals and the environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Spatial Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Spatial Analyst interviews to help you prepare and succeed.

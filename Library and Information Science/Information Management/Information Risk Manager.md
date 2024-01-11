@@ -2,6 +2,8 @@
 
 Welcome to the Information Risk Manager Interview Preparation ! This resource is designed to help you ace your Information Risk Manager interviews with confidence.
 
+Library and Information Science is a field that focuses on the organization, preservation, and dissemination of information. Within this field, Information Management plays a crucial role in ensuring that information is effectively collected, stored, and utilized. One specific job within Information Management is that of an Information Risk Manager. This role involves identifying potential risks that may threaten the security and integrity of information systems, and developing strategies to mitigate these risks. Information Risk Managers work closely with other professionals, such as IT specialists and data analysts, to assess vulnerabilities, implement security measures, and create disaster recovery plans. Their expertise is essential in safeguarding valuable information in today's digital age.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Information Risk Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Information Risk Manager interviews to help you prepare and succeed.

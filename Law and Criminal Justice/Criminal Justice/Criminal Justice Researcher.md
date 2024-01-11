@@ -2,6 +2,8 @@
 
 Welcome to the Criminal Justice Researcher Interview Preparation ! This resource is designed to help you ace your Criminal Justice Researcher interviews with confidence.
 
+A Criminal Justice Researcher plays a crucial role in the field of law and criminal justice by conducting in-depth research and analysis on various aspects of the criminal justice system. These professionals are responsible for collecting and analyzing data, statistics, and legal documents to provide valuable insights and support decision-making processes. They may investigate crime patterns, evaluate law enforcement strategies, and assess the effectiveness of policies and programs related to criminal justice. Additionally, Criminal Justice Researchers often collaborate with law enforcement agencies, courts, and academic institutions to contribute to the development of evidence-based practices and policies that aim to improve the efficiency and fairness of the criminal justice system.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Criminal Justice Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Criminal Justice Researcher interviews to help you prepare and succeed.

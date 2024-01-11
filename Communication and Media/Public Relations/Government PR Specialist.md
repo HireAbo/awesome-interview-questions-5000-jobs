@@ -2,6 +2,8 @@
 
 Welcome to the Government PR Specialist Interview Preparation ! This resource is designed to help you ace your Government PR Specialist interviews with confidence.
 
+A Government PR Specialist is a professional who specializes in managing communication and media relations for government entities. Their primary role is to create and maintain a positive image of the government organization they represent, while effectively disseminating information to the public. This includes developing strategic communication plans, writing press releases, organizing press conferences, and responding to media inquiries. Government PR Specialists also collaborate with government officials to craft key messages and ensure consistency in communications. They serve as a liaison between the government and the public, ensuring transparency, building trust, and managing the reputation of the government organization they work for.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Government PR Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Government PR Specialist interviews to help you prepare and succeed.

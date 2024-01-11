@@ -2,6 +2,8 @@
 
 Welcome to the Border Patrol Agent Interview Preparation ! This resource is designed to help you ace your Border Patrol Agent interviews with confidence.
 
+A Border Patrol Agent is an integral part of the Law Enforcement division within the field of Criminal Justice. These agents play a crucial role in securing the borders of a country, primarily focusing on preventing illegal immigration, drug trafficking, and smuggling activities. They are responsible for patrolling the border, inspecting individuals and vehicles, and apprehending those who violate immigration or customs laws. Border Patrol Agents work tirelessly to maintain the safety and security of the nation by enforcing federal laws and regulations, working closely with other law enforcement agencies, and conducting intelligence gathering operations. Their commitment to protecting borders and upholding the law makes them an essential component of the criminal justice system.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Border Patrol Agent or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Border Patrol Agent interviews to help you prepare and succeed.

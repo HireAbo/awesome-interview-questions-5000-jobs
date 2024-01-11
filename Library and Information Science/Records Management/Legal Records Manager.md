@@ -2,6 +2,8 @@
 
 Welcome to the Legal Records Manager Interview Preparation ! This resource is designed to help you ace your Legal Records Manager interviews with confidence.
 
+Library and Information Science is a field that encompasses the management, organization, and dissemination of information in various formats. Within this field, Records Management focuses specifically on the systematic control and maintenance of an organization's records. One specialized role within Records Management is that of a Legal Records Manager. A Legal Records Manager is responsible for overseeing and maintaining legal documents and records for a company or organization. This includes ensuring compliance with legal requirements, managing document retention policies, and coordinating with legal staff to retrieve and organize records for legal proceedings. The role requires strong organizational skills, attention to detail, and knowledge of legal procedures and regulations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Legal Records Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Legal Records Manager interviews to help you prepare and succeed.

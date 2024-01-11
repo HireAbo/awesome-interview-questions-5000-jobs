@@ -2,6 +2,8 @@
 
 Welcome to the Utility Marketing Coordinator Interview Preparation ! This resource is designed to help you ace your Utility Marketing Coordinator interviews with confidence.
 
+The role of a Utility Marketing Coordinator in the Energy and Utilities sector is crucial in managing and promoting utility services effectively. As a Utility Marketing Coordinator, you will be responsible for developing and implementing marketing strategies to attract and retain customers. Your main objective will be to increase awareness of utility services and drive customer engagement through various channels such as digital marketing, advertising campaigns, and promotional events. You will also collaborate with internal teams to analyze market trends, conduct customer surveys, and identify opportunities for improvement. Strong communication and analytical skills, along with a passion for promoting sustainable energy solutions, are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Utility Marketing Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Utility Marketing Coordinator interviews to help you prepare and succeed.

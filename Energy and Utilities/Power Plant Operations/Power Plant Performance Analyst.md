@@ -2,6 +2,8 @@
 
 Welcome to the Power Plant Performance Analyst Interview Preparation ! This resource is designed to help you ace your Power Plant Performance Analyst interviews with confidence.
 
+A Power Plant Performance Analyst is a professional responsible for monitoring and optimizing the efficiency and performance of power plants. Their main objective is to ensure that the power plant operates at its maximum capacity, producing electricity in the most cost-effective and environmentally friendly manner. The analyst collects and analyzes data from various systems and equipment within the power plant, including turbines, generators, boilers, and control systems. They identify any issues or inefficiencies, propose solutions, and implement strategies to improve overall plant performance. Additionally, they may develop performance indicators and reports to track and communicate the plant's operational and financial performance to management and stakeholders.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Power Plant Performance Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Power Plant Performance Analyst interviews to help you prepare and succeed.

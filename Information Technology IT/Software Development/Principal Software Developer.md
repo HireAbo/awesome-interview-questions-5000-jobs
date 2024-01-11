@@ -2,6 +2,8 @@
 
 Welcome to the Principal Software Developer Interview Preparation ! This resource is designed to help you ace your Principal Software Developer interviews with confidence.
 
+A Principal Software Developer is a key role within the field of Information Technology (IT), specifically in the area of Software Development. This job entails leading a team of software developers and engineers, overseeing the design, development, and implementation of software solutions. Principal Software Developers are responsible for analyzing business requirements, identifying technical solutions, and providing guidance on software development methodologies. They also contribute to the creation of technical specifications, perform code reviews, and ensure adherence to coding standards and best practices. This position requires strong leadership skills, extensive knowledge of software development principles, and expertise in various programming languages and tools. Principal Software Developers play a crucial role in the successful delivery of software projects, driving innovation, and ensuring high-quality software solutions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Principal Software Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Principal Software Developer interviews to help you prepare and succeed.

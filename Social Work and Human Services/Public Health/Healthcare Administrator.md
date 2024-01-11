@@ -2,6 +2,12 @@
 
 Welcome to the Healthcare Administrator Interview Preparation ! This resource is designed to help you ace your Healthcare Administrator interviews with confidence.
 
+Social Work and Human Services is a field dedicated to improving the well-being and quality of life for individuals, families, and communities. Social workers and human service professionals advocate for social justice, provide support and resources, and address various social issues such as poverty, mental health, domestic violence, and substance abuse.
+
+Public Health, on the other hand, focuses on preventing diseases, promoting health, and improving the overall health outcomes of populations. Professionals in this field work on initiatives like disease prevention, health education, policy development, and community outreach.
+
+Healthcare Administrators play a crucial role in managing and coordinating healthcare services. They oversee the operations of medical facilities, manage budgets, implement policies, and ensure the delivery of quality healthcare services to patients. Their responsibilities range from strategic planning and staff management to financial analysis and regulatory compliance.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Healthcare Administrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Healthcare Administrator interviews to help you prepare and succeed.

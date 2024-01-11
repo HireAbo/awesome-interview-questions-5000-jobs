@@ -2,6 +2,8 @@
 
 Welcome to the Color Consultant Interview Preparation ! This resource is designed to help you ace your Color Consultant interviews with confidence.
 
+A Color Consultant job in the field of Interior Design involves a deep understanding and expertise in the art and science of colors. These professionals play a vital role in creating aesthetically pleasing and harmonious spaces by selecting the perfect color schemes for various interior spaces. They work closely with clients, architects, and interior designers to understand their preferences, needs, and goals. By analyzing the space, lighting, and existing elements, Color Consultants recommend and implement color palettes that enhance the ambiance, mood, and functionality of the space. Their knowledge of color psychology, trends, and technical aspects helps them create visually appealing environments that reflect the client's personality and lifestyle.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Color Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Color Consultant interviews to help you prepare and succeed.

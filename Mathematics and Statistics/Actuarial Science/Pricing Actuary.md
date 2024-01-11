@@ -2,6 +2,8 @@
 
 Welcome to the Pricing Actuary Interview Preparation ! This resource is designed to help you ace your Pricing Actuary interviews with confidence.
 
+Mathematics and Statistics are disciplines that delve into the study of numbers, patterns, and relationships. They provide the foundation for Actuarial Science, which is the field of applying mathematical and statistical methods to assess and manage risks in the insurance and financial sectors. Within Actuarial Science, the Pricing Actuary job plays a crucial role in determining the appropriate premium rates for insurance products. Pricing actuaries analyze complex data sets, assess risks, and incorporate statistical models to develop pricing strategies that ensure profitability while maintaining competitiveness in the market. Their expertise in mathematics and statistics allows them to make informed decisions that balance the needs of both the insurer and the insured.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Pricing Actuary or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Pricing Actuary interviews to help you prepare and succeed.

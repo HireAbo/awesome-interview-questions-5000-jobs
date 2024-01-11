@@ -2,6 +2,8 @@
 
 Welcome to the Real-Time Systems Developer Interview Preparation ! This resource is designed to help you ace your Real-Time Systems Developer interviews with confidence.
 
+A Real-Time Systems Developer is a professional in the field of Information Technology (IT) specializing in Software Development. They are responsible for designing, creating, and maintaining real-time systems that operate at high speeds with minimal latency. These systems are crucial in industries such as aerospace, defense, finance, and telecommunications, where timely and accurate data processing is essential. Real-Time Systems Developers are proficient in programming languages like C, C++, Java, and Python, and possess a deep understanding of algorithms and data structures. They collaborate with cross-functional teams to ensure the smooth operation of real-time systems, troubleshoot any issues, and optimize performance. Attention to detail, problem-solving ability, and a passion for technology are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real-Time Systems Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real-Time Systems Developer interviews to help you prepare and succeed.

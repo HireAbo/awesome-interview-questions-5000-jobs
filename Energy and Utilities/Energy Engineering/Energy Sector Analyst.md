@@ -2,6 +2,8 @@
 
 Welcome to the Energy Sector Analyst Interview Preparation ! This resource is designed to help you ace your Energy Sector Analyst interviews with confidence.
 
+A Energy Sector Analyst in the field of Energy Engineering is responsible for analyzing and evaluating the energy sector, providing valuable insights and recommendations to optimize operations and improve overall efficiency. This role involves conducting detailed research, collecting and analyzing data, and staying updated with industry trends and regulations. Energy Sector Analysts assess market conditions, economic factors, and environmental impacts to identify opportunities for growth, cost reduction, and sustainability. They collaborate with cross-functional teams, including engineers, project managers, and executives, to develop strategies and implement innovative solutions. A successful Energy Sector Analyst possesses strong analytical skills, a deep understanding of energy systems, and the ability to communicate complex information effectively.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Energy Sector Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Energy Sector Analyst interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Investment Strategist Interview Preparation ! This resource is designed to help you ace your Investment Strategist interviews with confidence.
 
+An Investment Strategist is a crucial role in the field of Business and Management, specifically in Finance. This position requires a deep understanding of financial markets and a strong ability to analyze investment opportunities. Investment Strategists are responsible for developing and implementing investment strategies that align with the goals and objectives of their clients or organizations. They conduct thorough research, assess risk factors, and make informed decisions to maximize returns on investments. Additionally, Investment Strategists provide financial advice and recommendations to clients, ensuring their portfolios are diversified and optimized for long-term growth. This job requires excellent analytical skills, market knowledge, and the ability to navigate complex financial systems to achieve financial success.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Investment Strategist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Investment Strategist interviews to help you prepare and succeed.

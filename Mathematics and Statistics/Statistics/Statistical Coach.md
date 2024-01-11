@@ -2,6 +2,8 @@
 
 Welcome to the Statistical Coach Interview Preparation ! This resource is designed to help you ace your Statistical Coach interviews with confidence.
 
+A Statistical Coach is a professional who provides guidance and support to individuals or teams seeking to improve their understanding and application of statistical concepts and methods. They possess a deep knowledge of mathematics and statistics and are skilled in effectively communicating complex ideas in a clear and concise manner. A Statistical Coach may work in various settings, such as academic institutions, research organizations, or private consulting firms. They play a crucial role in helping individuals and teams analyze data, interpret statistical results, and make informed decisions based on statistical evidence. A Statistical Coach also assists in designing experiments, selecting appropriate statistical tools, and interpreting and presenting findings.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Statistical Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Statistical Coach interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Sports Analytics Manager Interview Preparation ! This resource is designed to help you ace your Sports Analytics Manager interviews with confidence.
 
+A Sports Analytics Manager plays a vital role in the field of sports management, specifically in the domain of sports analytics. This job involves collecting, analyzing, and interpreting data to gain insights and make informed decisions that can enhance the performance of sports teams or athletes. The Sports Analytics Manager collaborates with coaches, players, and other stakeholders to identify key performance metrics, develop strategies, and improve sports performance. They utilize advanced statistical models, data visualization techniques, and cutting-edge technology to monitor and evaluate sports performance, identify trends, and provide actionable recommendations. A Sports Analytics Manager possesses a strong background in statistics, data analysis, and a deep understanding of sports to drive data-driven decision-making and enhance overall team or individual performance.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sports Analytics Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sports Analytics Manager interviews to help you prepare and succeed.

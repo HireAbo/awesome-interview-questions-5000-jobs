@@ -2,6 +2,8 @@
 
 Welcome to the Energy Procurement Consultant Interview Preparation ! This resource is designed to help you ace your Energy Procurement Consultant interviews with confidence.
 
+An Energy Procurement Consultant plays a crucial role in the field of Energy Engineering within the Energy and Utilities sector. As an expert in energy procurement, they are responsible for advising clients on the best strategies to procure energy resources, ensuring cost-effectiveness and sustainability. These professionals analyze energy markets, identify potential suppliers, negotiate contracts, and manage the procurement process from start to finish. Additionally, Energy Procurement Consultants stay up-to-date with industry regulations and trends to provide accurate guidance and recommendations to clients. Their goal is to optimize energy procurement practices, minimize risks, and maximize savings, while also promoting the use of renewable energy sources and reducing the environmental impact of energy consumption.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Energy Procurement Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Energy Procurement Consultant interviews to help you prepare and succeed.

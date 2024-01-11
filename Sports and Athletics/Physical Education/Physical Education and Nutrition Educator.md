@@ -2,6 +2,8 @@
 
 Welcome to the Physical Education and Nutrition Educator Interview Preparation ! This resource is designed to help you ace your Physical Education and Nutrition Educator interviews with confidence.
 
+A Physical Education and Nutrition Educator is a professional who specializes in promoting and enhancing physical fitness and nutrition knowledge among individuals and communities. This role involves designing and implementing physical education programs, activities, and curricula that cater to different age groups and fitness levels. These educators play a vital role in teaching individuals the importance of leading an active and healthy lifestyle through sports and athletics. They provide guidance on proper exercise techniques, nutrition planning, and lifestyle choices to help individuals achieve their fitness goals. Additionally, they may also organize and oversee sports events, competitions, and clubs to encourage participation and foster a love for sports and physical activity.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Physical Education and Nutrition Educator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Physical Education and Nutrition Educator interviews to help you prepare and succeed.

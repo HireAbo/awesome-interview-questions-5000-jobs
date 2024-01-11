@@ -2,6 +2,8 @@
 
 Welcome to the E-commerce Fraud Analyst Interview Preparation ! This resource is designed to help you ace your E-commerce Fraud Analyst interviews with confidence.
 
+A Retail and Sales > E-commerce > E-commerce Fraud Analyst is a professional responsible for safeguarding online transactions and preventing fraudulent activities in the e-commerce industry. They play a crucial role in protecting both customers and businesses from financial losses and reputational damage. E-commerce Fraud Analysts utilize various techniques and tools to detect and analyze suspicious transactions, patterns, and behaviors. They monitor and investigate fraudulent activities, identify vulnerabilities in the e-commerce platform, and recommend strategies to mitigate risks. Additionally, they collaborate with cross-functional teams, such as IT and customer service, to implement security measures and ensure a safe and secure online shopping experience for all stakeholders.
+
 ## 🚀 Overview
 
 Whether you're a seasoned E-commerce Fraud Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in E-commerce Fraud Analyst interviews to help you prepare and succeed.

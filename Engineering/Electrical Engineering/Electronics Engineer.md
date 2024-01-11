@@ -2,6 +2,8 @@
 
 Welcome to the Electronics Engineer Interview Preparation ! This resource is designed to help you ace your Electronics Engineer interviews with confidence.
 
+An Electronics Engineer is a professional who specializes in the design, development, and maintenance of electrical systems and components. They utilize their knowledge of electronics to create innovative solutions for a wide range of industries. Electronics Engineers work on various projects, including the design of circuits, control systems, and electronic devices. They are responsible for ensuring that these systems meet safety standards and are reliable and efficient. Additionally, Electronics Engineers may also be involved in troubleshooting and repairing electrical equipment. This role requires strong analytical and problem-solving skills, as well as a deep understanding of electrical principles and circuitry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Electronics Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Electronics Engineer interviews to help you prepare and succeed.

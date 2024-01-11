@@ -2,6 +2,8 @@
 
 Welcome to the Glassblower Interview Preparation ! This resource is designed to help you ace your Glassblower interviews with confidence.
 
+A glassblower is an artist who transforms molten glass into stunning and intricate works of art using various techniques and tools. This ancient craft requires exceptional skill, creativity, and a deep understanding of glass properties. Glassblowers work in hot and often hazardous environments, meticulously shaping the molten material into delicate shapes, vessels, sculptures, and decorative objects. They possess a keen eye for detail, as they carefully manipulate the glass with precision and control. A glassblower's work can be seen in art galleries, museums, and even in functional items like glassware and lighting fixtures. Their artistry and craftsmanship contribute to the beauty and elegance of our everyday lives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Glassblower or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Glassblower interviews to help you prepare and succeed.

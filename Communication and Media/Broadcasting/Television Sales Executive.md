@@ -2,6 +2,8 @@
 
 Welcome to the Television Sales Executive Interview Preparation ! This resource is designed to help you ace your Television Sales Executive interviews with confidence.
 
+A Television Sales Executive is responsible for overseeing the sales and marketing of television advertising space or airtime. They play a critical role in generating revenue for television networks or stations. As a Television Sales Executive, one must possess excellent communication and negotiation skills to build and maintain relationships with clients, advertising agencies, and media buyers. They analyze market trends, identify potential clients, and develop effective sales strategies to meet revenue targets. This role requires a deep understanding of the television industry, including audience demographics, programming, and advertising rates. Television Sales Executives must be persuasive and have a strong ability to pitch and close deals to maximize advertising sales.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Television Sales Executive or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Television Sales Executive interviews to help you prepare and succeed.

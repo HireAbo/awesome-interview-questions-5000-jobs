@@ -2,6 +2,8 @@
 
 Welcome to the Gas Utility Manager Interview Preparation ! This resource is designed to help you ace your Gas Utility Manager interviews with confidence.
 
+A Gas Utility Manager is responsible for overseeing the efficient and effective operations of a gas utility company. They manage a team of professionals and ensure the delivery of safe, reliable, and cost-effective gas services to customers. The Gas Utility Manager is involved in strategic planning, budgeting, and forecasting to optimize the company's performance. They also collaborate with government agencies, regulatory bodies, and other stakeholders to ensure compliance with safety and environmental regulations. The Gas Utility Manager stays updated with industry trends and technological advancements to enhance the infrastructure and operations. Strong leadership, communication, and problem-solving skills are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Gas Utility Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Gas Utility Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Rehabilitation Counselor Interview Preparation ! This resource is designed to help you ace your Rehabilitation Counselor interviews with confidence.
 
+Social Work and Human Services encompass a diverse range of professions aimed at helping individuals and communities improve their overall well-being. Within the field of Social Work, the role of a Rehabilitation Counselor plays a crucial part in assisting individuals with disabilities to live independently and achieve their personal goals. Rehabilitation Counselors work closely with clients to assess their strengths, limitations, and needs, and develop customized plans to enhance their quality of life. They provide counseling, guidance, and support to empower individuals to overcome physical, emotional, or social barriers and regain their independence. Rehabilitation Counselors are dedicated professionals committed to advocating for their clients' rights and promoting inclusion within society.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Rehabilitation Counselor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Rehabilitation Counselor interviews to help you prepare and succeed.

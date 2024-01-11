@@ -2,6 +2,8 @@
 
 Welcome to the Gymnastics Coach Interview Preparation ! This resource is designed to help you ace your Gymnastics Coach interviews with confidence.
 
+A Gymnastics Coach is a highly skilled professional who specializes in training and coaching individuals in the sport of gymnastics. They play a crucial role in developing athletes' physical abilities, technical skills, and mental strength, enabling them to perform at their best in competitions. Gymnastics coaches design and implement training programs, teach proper techniques for various gymnastics disciplines, and provide guidance on improving strength, flexibility, and coordination. They also monitor athletes' progress, assess their performance, and provide feedback and encouragement to help them reach their full potential. A Gymnastics Coach must possess excellent communication and interpersonal skills, as well as a deep understanding of the sport and its safety guidelines.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Gymnastics Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Gymnastics Coach interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Electrical Supervisor Interview Preparation ! This resource is designed to help you ace your Electrical Supervisor interviews with confidence.
 
+An Electrical Supervisor plays a crucial role in overseeing and managing electrical projects and teams. As a skilled trades professional, they are responsible for supervising and coordinating activities related to electrical installations, repairs, and maintenance. They ensure that all electrical work is carried out in compliance with safety regulations and industry standards. Additionally, Electrical Supervisors are responsible for scheduling and assigning work to electricians, monitoring progress, and providing technical guidance when needed. They also collaborate with clients, architects, and engineers to ensure that project specifications are met. Strong leadership, problem-solving, and communication skills are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Electrical Supervisor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Electrical Supervisor interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Retail Sales Specialist Interview Preparation ! This resource is designed to help you ace your Retail Sales Specialist interviews with confidence.
 
+The Retail Sales Specialist job is a crucial role in the field of sales within the retail industry. These professionals are responsible for maximizing sales and profit by providing exceptional customer service and promoting products or services to customers. They possess a deep understanding of the company's products or services, and utilize their knowledge to assist customers in making informed purchasing decisions. Retail Sales Specialists are skilled in building strong relationships with customers, identifying their needs, and recommending suitable products or services. They are also responsible for maintaining product displays, organizing inventory, and ensuring the store is visually appealing to customers.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Retail Sales Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Retail Sales Specialist interviews to help you prepare and succeed.

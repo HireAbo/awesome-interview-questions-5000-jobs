@@ -2,6 +2,8 @@
 
 Welcome to the Mathematics Consultant Interview Preparation ! This resource is designed to help you ace your Mathematics Consultant interviews with confidence.
 
+A Mathematics Consultant is a professional who specializes in providing expert advice and guidance in the field of mathematics. They possess extensive knowledge and expertise in various mathematical concepts and methodologies. Their role involves assisting individuals or organizations in solving complex mathematical problems, developing mathematical models, and analyzing data using statistical techniques. Mathematics Consultants work closely with clients to understand their specific needs and develop tailored solutions to address their mathematical challenges. They may also provide training and workshops to enhance mathematical skills and promote a deeper understanding of mathematical concepts. A Mathematics Consultant plays a crucial role in helping individuals and organizations optimize their mathematical capabilities and make informed decisions based on data analysis and interpretation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Mathematics Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Mathematics Consultant interviews to help you prepare and succeed.

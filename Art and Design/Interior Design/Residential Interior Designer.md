@@ -2,6 +2,8 @@
 
 Welcome to the Residential Interior Designer Interview Preparation ! This resource is designed to help you ace your Residential Interior Designer interviews with confidence.
 
+A Residential Interior Designer is a professional who specializes in creating functional and aesthetically pleasing living spaces for individuals and families. They possess a keen eye for detail, color coordination, and spatial arrangement to transform residential spaces into beautiful and comfortable homes. Their responsibilities include collaborating with clients to understand their needs and preferences, creating design concepts, selecting furniture and decor, managing budgets, and overseeing the entire design process from start to finish. Residential Interior Designers combine their artistic skills with practical knowledge to create personalized interiors that reflect the client's personality and lifestyle while ensuring functionality and comfort. Their goal is to create spaces that are visually appealing, functional, and aligned with the client's vision.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Residential Interior Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Residential Interior Designer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Research and Development (R&D) Engineer Interview Preparation ! This resource is designed to help you ace your Research and Development (R&D) Engineer interviews with confidence.
 
+A Research and Development (R&D) Engineer job in Chemical Engineering involves exploring new ideas, concepts, and technologies to develop and improve chemical processes, products, and materials. These professionals work in various industries, such as pharmaceuticals, energy, food and beverage, and manufacturing. R&D Engineers conduct experiments, analyze data, and collaborate with multidisciplinary teams to design and optimize processes, ensuring safety, efficiency, and cost-effectiveness. They are responsible for evaluating and developing innovative solutions, troubleshooting technical issues, and staying up-to-date with advancements in the field. R&D Engineers play a vital role in driving innovation, enhancing product quality, and contributing to the growth and success of their organizations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Research and Development (R&D) Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Research and Development (R&D) Engineer interviews to help you prepare and succeed.

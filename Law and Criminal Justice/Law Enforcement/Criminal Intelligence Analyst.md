@@ -2,6 +2,8 @@
 
 Welcome to the Criminal Intelligence Analyst Interview Preparation ! This resource is designed to help you ace your Criminal Intelligence Analyst interviews with confidence.
 
+A Criminal Intelligence Analyst is a crucial role within the field of Law Enforcement and Criminal Justice. These professionals play a vital part in analyzing and interpreting complex data to identify patterns, trends, and potential threats related to criminal activities. They gather and evaluate information from various sources such as surveillance reports, interviews, and databases to provide actionable intelligence to law enforcement agencies and assist in decision-making processes. Criminal Intelligence Analysts possess strong analytical skills, attention to detail, and the ability to think critically. Their work contributes significantly to solving crimes, identifying criminal networks, and preventing future criminal activities, ensuring public safety and maintaining law and order.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Criminal Intelligence Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Criminal Intelligence Analyst interviews to help you prepare and succeed.

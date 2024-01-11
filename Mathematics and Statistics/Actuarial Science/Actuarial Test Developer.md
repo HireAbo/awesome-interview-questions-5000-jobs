@@ -2,6 +2,8 @@
 
 Welcome to the Actuarial Test Developer Interview Preparation ! This resource is designed to help you ace your Actuarial Test Developer interviews with confidence.
 
+Mathematics and Statistics are essential fields that deal with the study of numbers, quantities, and patterns. They provide a framework for understanding and solving complex problems in various disciplines. Actuarial Science is a specialized branch that applies mathematical and statistical principles to assess and manage risk in industries such as insurance and finance. Within this field, an Actuarial Test Developer plays a crucial role in the design, development, and maintenance of actuarial exams. They create test questions, evaluate their difficulty level, ensure accuracy, and update exams to reflect the latest industry standards. This job requires a strong background in mathematics, statistics, and excellent attention to detail.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Actuarial Test Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Actuarial Test Developer interviews to help you prepare and succeed.

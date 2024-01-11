@@ -2,6 +2,8 @@
 
 Welcome to the Clinical Research Scientist Interview Preparation ! This resource is designed to help you ace your Clinical Research Scientist interviews with confidence.
 
+A Clinical Research Scientist is a crucial role in the field of healthcare and medicine. They are responsible for conducting and overseeing medical research studies that aim to improve patient care and treatment outcomes. These professionals work closely with a team of researchers, physicians, and other healthcare professionals to design and execute clinical trials, analyze data, and interpret results. Their work plays a vital role in advancing medical knowledge and developing new therapies, drugs, and medical devices. Clinical Research Scientists must have a strong background in science and research methodology, as well as excellent analytical and communication skills to effectively contribute to the field of medical research.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Clinical Research Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Clinical Research Scientist interviews to help you prepare and succeed.

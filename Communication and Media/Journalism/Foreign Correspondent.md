@@ -2,6 +2,8 @@
 
 Welcome to the Foreign Correspondent Interview Preparation ! This resource is designed to help you ace your Foreign Correspondent interviews with confidence.
 
+A Foreign Correspondent is a journalist who reports on news and events happening in a different country or region than their own. They play a critical role in providing accurate and unbiased news coverage to their audience, bridging the gap between cultures and offering unique perspectives on global issues. Their job involves conducting in-depth research, interviewing key individuals, and witnessing events firsthand. They must possess excellent communication skills, as they need to effectively convey complex information to their audience in a clear and engaging manner. Foreign Correspondents often work in challenging and high-pressure environments, requiring adaptability, resilience, and a deep understanding of the local culture and politics.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Foreign Correspondent or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Foreign Correspondent interviews to help you prepare and succeed.

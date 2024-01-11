@@ -2,6 +2,8 @@
 
 Welcome to the Career Services Director Interview Preparation ! This resource is designed to help you ace your Career Services Director interviews with confidence.
 
+The Career Services Director plays a vital role in the field of Education Administration. As an integral part of the education system, they are responsible for guiding and supporting students in their career development and job search process. This role involves collaborating with students, faculty, and employers to enhance career development programs and services. The Career Services Director provides resources, advice, and assistance to students in areas such as resume writing, interview preparation, and job search strategies. They also establish and maintain relationships with employers to facilitate internship and job placement opportunities for students. This position requires strong communication, leadership, and organizational skills to ensure the success of students in their career pursuits.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Career Services Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Career Services Director interviews to help you prepare and succeed.

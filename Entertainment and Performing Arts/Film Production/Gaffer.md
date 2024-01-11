@@ -2,6 +2,8 @@
 
 Welcome to the Gaffer Interview Preparation ! This resource is designed to help you ace your Gaffer interviews with confidence.
 
+A gaffer is a crucial role in the film production industry, specifically in the field of lighting. They are responsible for managing the electrical department and overseeing the lighting setup on a film set. The gaffer works closely with the director of photography (DP) to achieve the desired lighting effects and mood for each scene. They collaborate with the grip department to ensure the proper placement of lighting equipment and rigging. Additionally, the gaffer is responsible for operating and maintaining the lighting equipment, troubleshooting any technical issues that may arise during production. Their expertise in lighting techniques and equipment plays a vital role in bringing the director's vision to life on the screen.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Gaffer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Gaffer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Quality Control Engineer Interview Preparation ! This resource is designed to help you ace your Quality Control Engineer interviews with confidence.
 
+A Quality Control Engineer in the field of Chemical Engineering is responsible for ensuring the quality and efficiency of processes and products within a manufacturing or production facility. They play a crucial role in maintaining compliance with industry regulations and standards, as well as identifying and addressing any potential issues that may affect the quality of the final product. These professionals utilize their expertise in chemical engineering principles and techniques to develop and implement quality control procedures, conduct inspections and tests, analyze data, and provide recommendations for process improvement. A Quality Control Engineer in Chemical Engineering plays a vital role in ensuring the safety, reliability, and effectiveness of chemical products and processes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Quality Control Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Quality Control Engineer interviews to help you prepare and succeed.

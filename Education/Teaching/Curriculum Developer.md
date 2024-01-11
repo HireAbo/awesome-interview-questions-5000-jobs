@@ -2,6 +2,8 @@
 
 Welcome to the Curriculum Developer Interview Preparation ! This resource is designed to help you ace your Curriculum Developer interviews with confidence.
 
+A Curriculum Developer is a vital role within the field of education, responsible for designing and implementing educational programs and materials. These professionals play a key role in shaping the learning experiences of students by developing comprehensive and engaging curriculum plans aligned with educational standards and objectives. They work closely with teachers, administrators, and subject matter experts to identify learning needs, create instructional materials, and assess the effectiveness of curriculum strategies. Curriculum Developers are also responsible for researching and incorporating innovative teaching methods, technologies, and resources into the curriculum to enhance student learning outcomes. Their work is crucial in ensuring a well-rounded and effective education system.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Curriculum Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Curriculum Developer interviews to help you prepare and succeed.

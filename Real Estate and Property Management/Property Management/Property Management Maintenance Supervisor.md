@@ -2,6 +2,8 @@
 
 Welcome to the Property Management Maintenance Supervisor Interview Preparation ! This resource is designed to help you ace your Property Management Maintenance Supervisor interviews with confidence.
 
+A Property Management Maintenance Supervisor plays a crucial role in the world of real estate and property management. This position involves overseeing all aspects of property maintenance, ensuring that properties are well-maintained and in optimal condition. The Maintenance Supervisor is responsible for managing a team of maintenance technicians, organizing and scheduling repairs and maintenance tasks, and ensuring that work is completed efficiently and within budget. They collaborate with property managers and owners to develop and implement maintenance plans, prioritize repairs, and resolve any issues that may arise. The role requires strong leadership skills, excellent organizational abilities, and a solid understanding of building systems and maintenance procedures.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Property Management Maintenance Supervisor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Property Management Maintenance Supervisor interviews to help you prepare and succeed.

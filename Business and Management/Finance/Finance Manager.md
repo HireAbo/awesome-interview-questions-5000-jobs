@@ -2,6 +2,8 @@
 
 Welcome to the Finance Manager Interview Preparation ! This resource is designed to help you ace your Finance Manager interviews with confidence.
 
+A Finance Manager plays a crucial role in the success of any organization by overseeing and managing all financial aspects of the business. As a key member of the management team, they are responsible for analyzing financial data, creating budgets, and developing strategies to ensure the company's financial health. Finance Managers also collaborate with other departments to provide financial insights and advice, assisting in decision-making processes. They monitor cash flow, manage investments, and ensure compliance with financial regulations. With their expertise in financial analysis and forecasting, Finance Managers help drive growth, maximize profits, and mitigate risks for the organization.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Finance Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Finance Manager interviews to help you prepare and succeed.

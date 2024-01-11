@@ -2,6 +2,8 @@
 
 Welcome to the Climate Scientist Interview Preparation ! This resource is designed to help you ace your Climate Scientist interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on studying the relationship between agricultural practices and the environment. It encompasses various aspects such as soil science, water management, crop production, and sustainability. Environmental Science, on the other hand, is the study of the environment and its interactions with living organisms. One of the key career paths within this field is that of a Climate Scientist. Climate Scientists analyze and study atmospheric conditions and their impact on climate patterns. They investigate factors such as temperature, precipitation, and greenhouse gas emissions to understand and predict climate change. Additionally, they may also develop strategies and solutions to mitigate the effects of climate change on agricultural practices and the environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Climate Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Climate Scientist interviews to help you prepare and succeed.

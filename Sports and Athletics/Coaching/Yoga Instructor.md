@@ -2,6 +2,8 @@
 
 Welcome to the Yoga Instructor Interview Preparation ! This resource is designed to help you ace your Yoga Instructor interviews with confidence.
 
+A Yoga Instructor job within the field of Sports and Athletics Coaching involves teaching yoga techniques and guiding individuals towards physical and mental well-being. As a Yoga Instructor, you will have the opportunity to work with individuals of all fitness levels and ages, designing and leading yoga classes that cater to their specific needs. This role requires a deep understanding of yoga principles, as well as the ability to effectively communicate and demonstrate poses and breathing techniques. Additionally, a Yoga Instructor may provide guidance on meditation and mindfulness practices, helping individuals find balance and inner peace. Overall, this job combines a passion for yoga with a desire to inspire and support others in their wellness journey.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Yoga Instructor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Yoga Instructor interviews to help you prepare and succeed.

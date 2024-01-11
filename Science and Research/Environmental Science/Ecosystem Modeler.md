@@ -2,6 +2,8 @@
 
 Welcome to the Ecosystem Modeler Interview Preparation ! This resource is designed to help you ace your Ecosystem Modeler interviews with confidence.
 
+The role of an Ecosystem Modeler in the field of Environmental Science is vital in understanding and predicting the complex interactions within natural ecosystems. These professionals employ scientific research and advanced modeling techniques to simulate and analyze the behavior of various ecological systems. Ecosystem modelers collect and analyze data, develop mathematical models, and apply computer simulations to assess the impacts of human activities, climate change, and other factors on ecosystems. By studying the intricate relationships between organisms, their habitats, and environmental factors, ecosystem modelers provide valuable insights into the functioning of ecosystems, aiding in the development of sustainable management strategies and policies to protect and preserve our natural environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Ecosystem Modeler or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Ecosystem Modeler interviews to help you prepare and succeed.

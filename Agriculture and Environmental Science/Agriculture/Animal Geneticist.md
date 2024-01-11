@@ -2,6 +2,8 @@
 
 Welcome to the Animal Geneticist Interview Preparation ! This resource is designed to help you ace your Animal Geneticist interviews with confidence.
 
+An Animal Geneticist is a specialized professional within the field of Agriculture and Environmental Science. This job focuses on studying and manipulating the genetic makeup of animals to improve their traits and characteristics for agricultural purposes. Animal geneticists work with various animal species, including livestock and poultry, to enhance their breeding programs and increase productivity. They conduct research and experiments to understand the genetic basis of traits such as growth rate, disease resistance, and meat quality. Animal geneticists also play a crucial role in developing sustainable farming practices and preserving endangered species. Their work is vital in ensuring food security and maintaining a healthy and diverse animal population.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Animal Geneticist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Animal Geneticist interviews to help you prepare and succeed.

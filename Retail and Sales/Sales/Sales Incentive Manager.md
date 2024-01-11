@@ -2,6 +2,8 @@
 
 Welcome to the Sales Incentive Manager Interview Preparation ! This resource is designed to help you ace your Sales Incentive Manager interviews with confidence.
 
+A Sales Incentive Manager is a crucial role within the Retail and Sales industry. This position is responsible for developing, implementing, and managing effective sales incentive programs to motivate and drive the sales team's performance. The Sales Incentive Manager collaborates with the sales team to understand their goals and objectives, then designs incentive plans that align with these targets. They continuously analyze sales data and market trends to evaluate the effectiveness of the incentive programs and make necessary adjustments. Furthermore, the Sales Incentive Manager communicates and promotes the programs to the sales team, ensuring their understanding and engagement to maximize productivity and achieve organizational sales goals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sales Incentive Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sales Incentive Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Forensic Ballistics Expert Interview Preparation ! This resource is designed to help you ace your Forensic Ballistics Expert interviews with confidence.
 
+A Forensic Ballistics Expert plays a critical role in the field of Law and Criminal Justice, specifically within the realm of Forensic Science. This specialized profession involves the examination and analysis of firearms, ammunition, and related evidence to provide crucial insights in criminal investigations. Forensic Ballistics Experts utilize their extensive knowledge of firearms and their components, along with various scientific techniques, to determine the origin of bullets, match firearms to crime scenes, and reconstruct shooting incidents. They work closely with law enforcement agencies, attorneys, and forensic scientists to present expert testimony in court proceedings. Their meticulous analysis and expert opinions often serve as powerful evidence in proving guilt or innocence and ensuring justice is served.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forensic Ballistics Expert or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forensic Ballistics Expert interviews to help you prepare and succeed.

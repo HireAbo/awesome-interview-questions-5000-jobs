@@ -2,6 +2,8 @@
 
 Welcome to the Materials Engineer Interview Preparation ! This resource is designed to help you ace your Materials Engineer interviews with confidence.
 
+A Materials Engineer in the field of Chemical Engineering is responsible for developing, testing, and analyzing materials used in various industries. This role involves understanding the properties and behavior of different materials, such as metals, ceramics, polymers, and composites, and finding innovative ways to enhance their performance and durability. Materials Engineers work closely with scientists, researchers, and manufacturing teams to design and produce materials that meet specific requirements, such as strength, corrosion resistance, and heat tolerance. They also evaluate materials for safety and environmental impact. With their expertise, Materials Engineers play a vital role in improving existing materials and discovering new materials for a wide range of applications, from aerospace and automotive to healthcare and electronics.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Materials Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Materials Engineer interviews to help you prepare and succeed.

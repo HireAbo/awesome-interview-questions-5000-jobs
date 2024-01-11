@@ -2,6 +2,10 @@
 
 Welcome to the Dairy Farmer Interview Preparation ! This resource is designed to help you ace your Dairy Farmer interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on the sustainable production of food, fiber, and other agricultural products while preserving and protecting the environment. Within this field, one prominent job is that of a Dairy Farmer. 
+
+Dairy Farmers are responsible for the management and operation of dairy farms, where they raise and care for dairy cattle to produce milk and other dairy products. They oversee the entire process, from feeding and breeding the animals to milking and maintaining their health. Additionally, they manage the farm's resources, such as land, water, and equipment, to ensure optimal productivity and environmental sustainability. Dairy Farmers play a crucial role in meeting the growing global demand for dairy products while promoting environmentally friendly farming practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Dairy Farmer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Dairy Farmer interviews to help you prepare and succeed.

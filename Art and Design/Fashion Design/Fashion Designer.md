@@ -2,6 +2,8 @@
 
 Welcome to the Fashion Designer Interview Preparation ! This resource is designed to help you ace your Fashion Designer interviews with confidence.
 
+Fashion Design is a dynamic and ever-evolving field within the broader realm of Art and Design. Fashion designers are creative professionals who combine practical skills with a keen eye for aesthetics to create innovative and visually appealing clothing and accessories. They are responsible for conceptualizing and sketching designs, selecting fabrics and materials, and overseeing the production process. Fashion designers must stay up-to-date with current trends, market demands, and consumer preferences to create pieces that resonate with their target audience. They work closely with manufacturers, pattern makers, and merchandisers to bring their designs to life. A successful fashion designer possesses a strong sense of style, attention to detail, and the ability to think critically and creatively.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Fashion Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Fashion Designer interviews to help you prepare and succeed.

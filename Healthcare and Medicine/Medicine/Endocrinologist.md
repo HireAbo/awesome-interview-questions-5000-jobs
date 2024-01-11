@@ -2,6 +2,8 @@
 
 Welcome to the Endocrinologist Interview Preparation ! This resource is designed to help you ace your Endocrinologist interviews with confidence.
 
+An endocrinologist is a specialized medical professional who focuses on diagnosing and treating disorders related to the endocrine system, which includes hormones and the glands that produce them. These professionals play a crucial role in managing conditions such as diabetes, thyroid disorders, hormonal imbalances, and metabolic disorders. Endocrinologists are highly trained in interpreting hormone tests, performing procedures like biopsies, and providing appropriate treatment plans. They work closely with patients to monitor their condition, adjust medication dosages, and provide lifestyle recommendations. Endocrinologists also collaborate with other healthcare professionals to ensure comprehensive care for patients. Their expertise is vital in promoting overall well-being and maintaining hormonal balance in the body.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Endocrinologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Endocrinologist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Safety Engineer Interview Preparation ! This resource is designed to help you ace your Safety Engineer interviews with confidence.
 
+A Safety Engineer, specializing in Chemical Engineering, plays a critical role in ensuring the safety and well-being of individuals working in chemical processing plants, laboratories, or other industrial settings. They are responsible for identifying and assessing potential hazards, designing and implementing safety protocols, and ensuring compliance with safety regulations. Safety Engineers develop and conduct training programs to educate employees on safe work practices, emergency response procedures, and the proper use of protective equipment. They also investigate accidents or incidents, analyze data, and recommend improvements to prevent future occurrences. With their expertise in chemical engineering, Safety Engineers provide invaluable guidance in managing risks and promoting a safe working environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Safety Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Safety Engineer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Veterinary Technologist Interview Preparation ! This resource is designed to help you ace your Veterinary Technologist interviews with confidence.
 
+Veterinary medicine is a specialized field of medicine that focuses on the health and well-being of animals. It involves the diagnosis, treatment, and prevention of diseases and injuries in animals, ensuring their overall health and welfare. Veterinary nursing is an integral part of veterinary medicine, with veterinary nurses providing support and assistance to veterinarians in caring for animals. They administer medications, assist in surgeries, perform diagnostic tests, and provide nursing care to animals. On the other hand, veterinary technologists are highly skilled professionals who work closely with veterinarians to perform complex diagnostic tests, analyze samples, and assist in surgical procedures. Their expertise and knowledge are vital in providing comprehensive veterinary care.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Veterinary Technologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Veterinary Technologist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Statistical Data Analyst Interview Preparation ! This resource is designed to help you ace your Statistical Data Analyst interviews with confidence.
 
+A statistical data analyst job involves the use of mathematical and statistical techniques to analyze data and provide insights for decision-making processes. This role requires a strong foundation in mathematics and statistics, as well as proficiency in programming languages such as R or Python. Statistical data analysts are responsible for collecting, organizing, and interpreting large datasets, identifying patterns, trends, and correlations. They often collaborate with other professionals, such as researchers or business analysts, to ensure accurate data analysis and reporting. A statistical data analyst job requires excellent problem-solving and critical thinking skills, as well as the ability to communicate complex findings in a clear and concise manner.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Statistical Data Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Statistical Data Analyst interviews to help you prepare and succeed.

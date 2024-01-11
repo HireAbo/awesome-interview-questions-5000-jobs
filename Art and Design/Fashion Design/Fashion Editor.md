@@ -2,6 +2,8 @@
 
 Welcome to the Fashion Editor Interview Preparation ! This resource is designed to help you ace your Fashion Editor interviews with confidence.
 
+A Fashion Editor is a key player in the world of fashion design, responsible for creating and curating captivating visual narratives. Combining a keen eye for style, creativity, and a deep understanding of fashion trends, they play a critical role in shaping the aesthetic direction of magazines, websites, and other fashion media outlets. Fashion Editors work closely with designers, photographers, and stylists to select and style outfits for fashion shoots, ensuring that each image tells a compelling story. They have a strong understanding of the fashion industry, brand positioning, and consumer preferences, and are adept at translating these insights into visually striking fashion editorials that captivate audiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Fashion Editor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Fashion Editor interviews to help you prepare and succeed.

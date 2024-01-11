@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Sales CRM Administrator Interview Preparation ! This resource is designed to help you ace your Real Estate Sales CRM Administrator interviews with confidence.
 
+The Real Estate Sales CRM Administrator is a key role within the real estate sales industry, specifically in the area of property management. This job entails managing and utilizing customer relationship management (CRM) software to streamline and optimize the sales process. The CRM Administrator is responsible for maintaining and updating the database, analyzing data, generating reports, and ensuring data accuracy. This role requires excellent organizational and communication skills, as well as a strong understanding of the real estate sales process. The CRM Administrator plays a crucial role in driving sales growth and improving customer relationships by leveraging the power of technology and data management.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Sales CRM Administrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Sales CRM Administrator interviews to help you prepare and succeed.

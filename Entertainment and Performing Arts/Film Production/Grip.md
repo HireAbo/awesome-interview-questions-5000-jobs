@@ -2,6 +2,8 @@
 
 Welcome to the Grip Interview Preparation ! This resource is designed to help you ace your Grip interviews with confidence.
 
+A grip job in film production is a crucial role within the entertainment and performing arts industry. Grips are responsible for setting up and operating various equipment used on film sets, such as dollies, cranes, and camera mounts. They work closely with the camera department to ensure smooth camera movement and stability during filming. Grips also play a vital role in lighting setups, utilizing their expertise to position and secure lights for desired effects. Additionally, they assist in the construction and rigging of sets, ensuring the safety and functionality of props, scenery, and equipment. A grip job requires physical strength, technical knowledge, and teamwork to contribute to the overall success of a film production.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Grip or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Grip interviews to help you prepare and succeed.

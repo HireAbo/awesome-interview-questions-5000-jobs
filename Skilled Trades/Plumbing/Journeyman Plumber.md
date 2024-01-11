@@ -2,6 +2,8 @@
 
 Welcome to the Journeyman Plumber Interview Preparation ! This resource is designed to help you ace your Journeyman Plumber interviews with confidence.
 
+A Journeyman Plumber is a skilled tradesperson who specializes in the installation, repair, and maintenance of plumbing systems. They possess a high level of expertise and experience in working with pipes, fixtures, and appliances that are used for water supply, heating, sanitation, and drainage purposes. Journeyman Plumbers typically work in residential, commercial, or industrial settings, ensuring that plumbing systems are properly functioning and meet safety standards. They are responsible for reading blueprints, interpreting building codes, and utilizing various tools and equipment to complete projects efficiently. A Journeyman Plumber must possess excellent problem-solving skills, attention to detail, and the ability to work independently or as part of a team.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Journeyman Plumber or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Journeyman Plumber interviews to help you prepare and succeed.

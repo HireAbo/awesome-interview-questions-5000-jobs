@@ -2,6 +2,8 @@
 
 Welcome to the Dance Promoter Interview Preparation ! This resource is designed to help you ace your Dance Promoter interviews with confidence.
 
+A dance promoter is a professional responsible for organizing and promoting dance events and performances to attract audiences and generate interest in the art form. They work closely with dance companies, choreographers, and venues to plan and execute successful shows and productions. Dance promoters are skilled in marketing and public relations, using various platforms to advertise events and connect with potential attendees. They negotiate contracts, secure sponsorships, and manage budgets to ensure the financial success of the events. Additionally, they may coordinate ticket sales, handle logistics, and oversee the overall production to ensure a seamless and enjoyable experience for both performers and audiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Dance Promoter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Dance Promoter interviews to help you prepare and succeed.

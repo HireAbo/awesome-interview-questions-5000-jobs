@@ -2,6 +2,8 @@
 
 Welcome to the Inventory Analyst Interview Preparation ! This resource is designed to help you ace your Inventory Analyst interviews with confidence.
 
+The role of an Inventory Analyst in Transportation and Logistics, specifically within the Supply Chain Management field, is crucial for effective inventory management. This job entails overseeing and optimizing inventory levels throughout the supply chain network. The Inventory Analyst is responsible for analyzing demand patterns, monitoring stock levels, and identifying potential inventory discrepancies or issues. They collaborate with various stakeholders, including suppliers, warehouse personnel, and procurement teams, to ensure timely replenishment and minimize stockouts. Additionally, the Inventory Analyst utilizes various software systems and tools to generate reports and forecasts, enabling accurate decision-making and improving overall inventory performance. This role requires strong analytical skills, attention to detail, and a solid understanding of supply chain dynamics.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Inventory Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Inventory Analyst interviews to help you prepare and succeed.

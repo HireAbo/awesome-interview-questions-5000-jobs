@@ -2,6 +2,8 @@
 
 Welcome to the Data Engineer Interview Preparation ! This resource is designed to help you ace your Data Engineer interviews with confidence.
 
+Information Technology (IT) is a vast field that encompasses the use and management of technology to store, retrieve, transmit, and manipulate data. Within IT, Data Science is a specialized area that focuses on extracting valuable insights from large sets of data. Data Scientists utilize statistical analysis, machine learning, and programming skills to uncover patterns and make predictions. On the other hand, a Data Engineer is responsible for designing, constructing, and maintaining the infrastructure required to store and process vast amounts of data. They work closely with Data Scientists to ensure data availability, reliability, and efficiency. Data Engineers play a crucial role in building and optimizing data pipelines, databases, and data warehouses.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Engineer interviews to help you prepare and succeed.

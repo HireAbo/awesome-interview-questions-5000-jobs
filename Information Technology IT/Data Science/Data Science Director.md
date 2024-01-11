@@ -2,6 +2,8 @@
 
 Welcome to the Data Science Director Interview Preparation ! This resource is designed to help you ace your Data Science Director interviews with confidence.
 
+Information Technology (IT) is a broad field that involves the use of computers, software, networks, and other technologies to manage and process information. It plays a crucial role in various industries, providing solutions for data storage, communication, and system management. Data Science, on the other hand, is a specialized branch of IT that focuses on extracting insights and knowledge from large volumes of data. It combines statistical analysis, machine learning, and programming to analyze and interpret complex data sets. A Data Science Director is a senior-level professional responsible for overseeing the development and implementation of data science strategies, managing teams of data scientists, and driving data-driven decision-making within an organization. They possess a strong technical background and leadership skills to effectively guide and shape data science initiatives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Science Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Science Director interviews to help you prepare and succeed.

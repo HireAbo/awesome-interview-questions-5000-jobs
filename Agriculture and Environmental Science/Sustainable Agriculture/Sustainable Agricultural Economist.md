@@ -2,6 +2,8 @@
 
 Welcome to the Sustainable Agricultural Economist Interview Preparation ! This resource is designed to help you ace your Sustainable Agricultural Economist interviews with confidence.
 
+Agriculture and Environmental Science is an interdisciplinary field that focuses on the sustainable management of natural resources and the promotion of sustainable agricultural practices. Sustainable agriculture aims to meet the growing demands for food, fiber, and fuel while minimizing negative impacts on the environment, such as soil erosion, water pollution, and greenhouse gas emissions. Within this field, Sustainable Agricultural Economists play a crucial role in analyzing the economic viability of sustainable agricultural practices. They evaluate the costs and benefits of different farming techniques, assess market trends, and develop strategies to promote sustainable farming systems. Their work is essential for ensuring the long-term sustainability and profitability of agricultural activities while protecting the environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sustainable Agricultural Economist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sustainable Agricultural Economist interviews to help you prepare and succeed.

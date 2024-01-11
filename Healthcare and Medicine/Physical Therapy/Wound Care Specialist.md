@@ -2,6 +2,8 @@
 
 Welcome to the Wound Care Specialist Interview Preparation ! This resource is designed to help you ace your Wound Care Specialist interviews with confidence.
 
+A Wound Care Specialist is a healthcare professional specializing in the treatment and management of various types of wounds. They play a crucial role in the field of healthcare and medicine, specifically within the realm of physical therapy. These specialists are trained to assess, diagnose, and provide effective treatment plans for patients with complex wounds, such as pressure sores, surgical wounds, and diabetic ulcers. They work closely with a multidisciplinary team to develop personalized care plans and employ various techniques to promote wound healing, including debridement, dressing changes, and infection control. Wound Care Specialists are dedicated to improving patients' quality of life by preventing complications and facilitating the healing process.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wound Care Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wound Care Specialist interviews to help you prepare and succeed.

@@ -2,6 +2,10 @@
 
 Welcome to the Applied Statistician Interview Preparation ! This resource is designed to help you ace your Applied Statistician interviews with confidence.
 
+Mathematics and Statistics are two closely related fields that involve the study and analysis of numerical data. Mathematics deals with the abstract concepts and theories behind numbers, while Statistics focuses on the collection, interpretation, and presentation of data. Applied Statistics is the practical application of statistical methods to real-world problems and scenarios.
+
+An Applied Statistician is a professional who utilizes statistical techniques to analyze data and make informed decisions. They work across various industries, such as healthcare, finance, marketing, and government, helping organizations to make evidence-based decisions and solve complex problems. They design experiments, collect and analyze data, and develop mathematical models to predict trends and patterns. With a strong background in mathematics and statistical theories, Applied Statisticians play a crucial role in extracting valuable insights from data and driving data-driven decision-making.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Applied Statistician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Applied Statistician interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the E-commerce Inventory Manager Interview Preparation ! This resource is designed to help you ace your E-commerce Inventory Manager interviews with confidence.
 
+The role of an E-commerce Inventory Manager in the Retail and Sales industry is crucial in ensuring efficient and effective management of online product inventory. This role involves overseeing the entire inventory system of an e-commerce platform, including ordering, tracking, and maintaining stock levels. The E-commerce Inventory Manager is responsible for analyzing sales data, forecasting demand, and strategizing procurement strategies to avoid stockouts or overstock situations. They collaborate with various stakeholders, such as suppliers, warehouse teams, and sales personnel, to optimize inventory turnover and enhance customer satisfaction. Strong analytical skills, attention to detail, and knowledge of inventory management software are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned E-commerce Inventory Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in E-commerce Inventory Manager interviews to help you prepare and succeed.

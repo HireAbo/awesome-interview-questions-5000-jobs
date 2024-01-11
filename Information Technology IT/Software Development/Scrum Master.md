@@ -2,6 +2,8 @@
 
 Welcome to the Scrum Master Interview Preparation ! This resource is designed to help you ace your Scrum Master interviews with confidence.
 
+A Scrum Master is a crucial role in the field of Information Technology (IT) and specifically in software development. As a Scrum Master, your primary responsibility is to facilitate and ensure the successful implementation of the Scrum framework in software development projects. You act as a servant leader, guiding and coaching the development team to deliver high-quality software products. You are responsible for organizing and leading Scrum meetings, including daily stand-ups, sprint planning, and retrospectives. Additionally, you remove any obstacles that may hinder the team's progress, foster collaboration and communication, and ensure adherence to Scrum principles and values. A Scrum Master plays a vital role in promoting efficiency, productivity, and continuous improvement within the software development process.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Scrum Master or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Scrum Master interviews to help you prepare and succeed.

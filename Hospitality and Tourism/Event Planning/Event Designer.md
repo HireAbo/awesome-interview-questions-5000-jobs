@@ -2,6 +2,8 @@
 
 Welcome to the Event Designer Interview Preparation ! This resource is designed to help you ace your Event Designer interviews with confidence.
 
+Hospitality and Tourism Event Planning involves the exciting and dynamic field of event design. An event designer plays a crucial role in orchestrating and creating unforgettable experiences for guests. With a keen eye for detail and creativity, event designers conceptualize and design various elements of an event, including decor, lighting, entertainment, and overall ambiance. They work closely with clients to understand their vision and execute it flawlessly, ensuring that every aspect of the event reflects the desired theme or message. From corporate conferences to weddings and social gatherings, event designers are responsible for transforming spaces into captivating environments that leave a lasting impression on attendees.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Event Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Event Designer interviews to help you prepare and succeed.

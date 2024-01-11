@@ -2,6 +2,8 @@
 
 Welcome to the Data Science Support Specialist Interview Preparation ! This resource is designed to help you ace your Data Science Support Specialist interviews with confidence.
 
+Information Technology (IT) is a field that encompasses the use and management of technology to store, retrieve, transmit, and manipulate data. It involves various aspects such as computer hardware, software, networking, and databases. Within the IT domain, Data Science is a rapidly growing field that focuses on extracting valuable insights and knowledge from large sets of data. Data Science involves the use of statistical analysis, machine learning, and programming to uncover patterns, trends, and correlations. A Data Science Support Specialist plays a crucial role in this field by providing technical assistance and support to data scientists, helping them with data acquisition, cleaning, and analysis, as well as troubleshooting any technical issues that may arise.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Science Support Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Science Support Specialist interviews to help you prepare and succeed.

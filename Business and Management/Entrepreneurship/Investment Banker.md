@@ -2,6 +2,8 @@
 
 Welcome to the Investment Banker Interview Preparation ! This resource is designed to help you ace your Investment Banker interviews with confidence.
 
+An investment banker is a professional who works in the financial sector, specifically in investment banking. This highly sought-after job role requires individuals to assist companies and organizations in raising capital by providing financial advice and offering investment opportunities. Investment bankers play a crucial role in facilitating mergers and acquisitions, initial public offerings (IPOs), and other financial transactions. They analyze market trends, assess risks, and develop strategic solutions to maximize returns for their clients. As an investment banker, strong analytical skills, financial literacy, and networking abilities are essential to thrive in this competitive field. This job offers lucrative compensation and career advancement opportunities for individuals who are passionate about finance and have a keen eye for investment opportunities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Investment Banker or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Investment Banker interviews to help you prepare and succeed.

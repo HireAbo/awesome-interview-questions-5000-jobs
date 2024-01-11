@@ -2,6 +2,8 @@
 
 Welcome to the Project Management Office (PMO) Consultant Interview Preparation ! This resource is designed to help you ace your Project Management Office (PMO) Consultant interviews with confidence.
 
+A Project Management Office (PMO) Consultant is a professional who specializes in providing expert advice and guidance on project management practices and strategies within an organization. They are responsible for establishing and maintaining effective project management processes, tools, and methodologies to ensure successful project delivery. PMO Consultants work closely with project managers and stakeholders to identify project goals, develop project plans, and allocate resources effectively. They also conduct project assessments, identify potential risks, and provide solutions to mitigate these risks. In addition, PMO Consultants provide training and support to project teams, ensuring adherence to project management best practices and standards. Overall, their role is crucial in optimizing project performance and achieving organizational objectives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Project Management Office (PMO) Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Project Management Office (PMO) Consultant interviews to help you prepare and succeed.

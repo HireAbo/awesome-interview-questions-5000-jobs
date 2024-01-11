@@ -2,6 +2,8 @@
 
 Welcome to the Ad Agency Social Media Manager Interview Preparation ! This resource is designed to help you ace your Ad Agency Social Media Manager interviews with confidence.
 
+The role of an Ad Agency Social Media Manager is crucial in today's digital age. This position requires a deep understanding of both communication and media, specifically in the context of advertising. As a Social Media Manager, you will be responsible for creating and implementing effective social media strategies to promote ad agency clients' brands and campaigns. Your duties will involve managing various social media platforms, developing engaging content, analyzing performance data, and optimizing advertising campaigns for maximum reach and impact. Excellent communication skills, creativity, and strong knowledge of social media trends and platforms are essential to succeed in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Ad Agency Social Media Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Ad Agency Social Media Manager interviews to help you prepare and succeed.

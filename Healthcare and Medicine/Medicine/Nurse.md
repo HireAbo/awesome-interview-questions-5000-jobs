@@ -2,6 +2,8 @@
 
 Welcome to the Nurse Interview Preparation ! This resource is designed to help you ace your Nurse interviews with confidence.
 
+A nurse plays a vital role in the healthcare and medicine field, serving as a crucial link between patients and doctors. Nurses are trained professionals who provide compassionate care to individuals of all ages, backgrounds, and health conditions. They are responsible for monitoring patients' vital signs, administering medications, and assisting with various medical procedures. Moreover, nurses also play a pivotal role in patient education, providing valuable information about disease prevention, treatment options, and lifestyle modifications. Their expertise extends across various healthcare settings, including hospitals, clinics, nursing homes, and home healthcare. With their dedication, knowledge, and empathy, nurses contribute significantly to improving patient outcomes and overall healthcare delivery.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nurse interviews to help you prepare and succeed.

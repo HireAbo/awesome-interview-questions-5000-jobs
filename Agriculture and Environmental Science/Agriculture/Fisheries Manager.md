@@ -2,6 +2,8 @@
 
 Welcome to the Fisheries Manager Interview Preparation ! This resource is designed to help you ace your Fisheries Manager interviews with confidence.
 
+Agriculture and Environmental Science is an interdisciplinary field that examines the relationship between agriculture and the environment. Within this field, one important job role is that of a Fisheries Manager. Fisheries Managers are responsible for overseeing and managing fisheries resources in order to ensure their sustainability and conservation. They work closely with fishermen, scientists, and government agencies to develop and implement policies and regulations that protect fish populations, prevent overfishing, and promote habitat restoration. Additionally, Fisheries Managers conduct research, monitor fish populations, and collaborate with stakeholders to promote sustainable fishing practices. This role requires strong analytical skills, a deep understanding of aquatic ecosystems, and a commitment to environmental conservation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Fisheries Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Fisheries Manager interviews to help you prepare and succeed.

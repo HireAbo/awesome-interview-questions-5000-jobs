@@ -2,6 +2,8 @@
 
 Welcome to the Nuclear Radiation Monitoring Specialist Interview Preparation ! This resource is designed to help you ace your Nuclear Radiation Monitoring Specialist interviews with confidence.
 
+A Nuclear Radiation Monitoring Specialist is a professional responsible for monitoring and assessing radiation levels in nuclear energy facilities. They play a critical role in ensuring the safety and security of workers, the public, and the environment. These specialists are trained in the operation and maintenance of radiation monitoring equipment, including dosimeters, Geiger-Muller counters, and scintillation detectors. They conduct regular inspections and measurements to identify any abnormal levels of radiation and take immediate action to mitigate risks. Additionally, they analyze and interpret data, prepare reports, and collaborate with other professionals to develop safety protocols and emergency response plans. This role requires a strong understanding of nuclear physics, radiation protection regulations, and a meticulous attention to detail.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nuclear Radiation Monitoring Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nuclear Radiation Monitoring Specialist interviews to help you prepare and succeed.

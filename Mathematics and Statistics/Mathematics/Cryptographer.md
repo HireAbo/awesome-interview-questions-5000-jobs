@@ -2,6 +2,8 @@
 
 Welcome to the Cryptographer Interview Preparation ! This resource is designed to help you ace your Cryptographer interviews with confidence.
 
+A cryptographer is a specialist in the field of mathematics who applies mathematical principles and techniques to create and decipher codes and ciphers. Their role is crucial in ensuring the security and privacy of sensitive data and information. Cryptographers use advanced mathematical concepts, such as number theory, algebraic structures, and probability theory, to develop encryption algorithms and cryptographic protocols. They work closely with computer scientists and cybersecurity experts to design secure communication systems, protect data from unauthorized access, and detect and prevent cyberattacks. Strong analytical and problem-solving skills are essential for a cryptographer, as they must constantly adapt and stay ahead of emerging cryptographic threats and techniques.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cryptographer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cryptographer interviews to help you prepare and succeed.

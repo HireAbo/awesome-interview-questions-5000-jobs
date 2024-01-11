@@ -2,6 +2,8 @@
 
 Welcome to the Data Scientist Interview Preparation ! This resource is designed to help you ace your Data Scientist interviews with confidence.
 
+Mathematics and Statistics are two interconnected fields that involve the study of numerical data, patterns, and relationships. Statistics, in particular, focuses on collecting, analyzing, and interpreting data to draw meaningful conclusions and make informed decisions. Within the field of Statistics, one prominent job role is that of a Data Scientist. A Data Scientist is a professional who applies statistical techniques, programming skills, and domain knowledge to extract valuable insights from large and complex datasets. They develop and implement algorithms, build predictive models, and communicate findings to help businesses make data-driven decisions. Data Scientists play a crucial role in various industries, such as finance, healthcare, marketing, and technology, driving innovation and growth.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Scientist interviews to help you prepare and succeed.

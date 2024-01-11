@@ -2,6 +2,8 @@
 
 Welcome to the Flutist Interview Preparation ! This resource is designed to help you ace your Flutist interviews with confidence.
 
+A flutist is a skilled musician who specializes in playing the flute. As an integral part of the entertainment and performing arts industry, flutists bring the enchanting sound of the flute to various musical compositions and performances. They possess a deep understanding of music theory, technique, and interpretation, allowing them to create captivating melodies and harmonies. Flutists may perform as soloists, in small ensembles, or as part of larger orchestras, showcasing their talent in a wide range of musical genres, including classical, jazz, and contemporary. With their exceptional musical abilities and dedication to their craft, flutists play a vital role in bringing joy, emotion, and artistic expression to audiences worldwide.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Flutist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Flutist interviews to help you prepare and succeed.

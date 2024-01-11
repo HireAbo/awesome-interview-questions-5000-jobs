@@ -2,6 +2,8 @@
 
 Welcome to the Air Quality Specialist Interview Preparation ! This resource is designed to help you ace your Air Quality Specialist interviews with confidence.
 
+An Air Quality Specialist is a professional who specializes in monitoring, assessing, and improving the air quality in various environments. In the field of Environmental Science, this role plays a crucial part in ensuring the well-being of both the environment and human health. The job involves conducting air quality assessments, collecting and analyzing data, implementing pollution control measures, and developing strategies to minimize air pollution. These specialists work closely with government agencies, industries, and communities to develop and enforce air quality regulations. They also play a vital role in educating the public about the importance of clean air and promoting sustainable practices to protect the environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Air Quality Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Air Quality Specialist interviews to help you prepare and succeed.

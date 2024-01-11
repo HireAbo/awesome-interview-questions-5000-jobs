@@ -2,6 +2,8 @@
 
 Welcome to the Radio News Writer Interview Preparation ! This resource is designed to help you ace your Radio News Writer interviews with confidence.
 
+A Radio News Writer plays a crucial role in the field of Communication and Media, specifically in broadcasting. This dynamic job involves crafting accurate, concise, and engaging news stories for radio platforms. As a Radio News Writer, you are responsible for researching and gathering information on current events, interviewing sources, and writing scripts that effectively convey news stories to the audience. Attention to detail and the ability to work under tight deadlines are essential in this role. Additionally, Radio News Writers must possess excellent writing and communication skills to ensure that news stories are presented in a clear and compelling manner to keep listeners informed and engaged.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Radio News Writer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Radio News Writer interviews to help you prepare and succeed.

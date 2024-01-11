@@ -2,6 +2,8 @@
 
 Welcome to the Digital Asset Manager Interview Preparation ! This resource is designed to help you ace your Digital Asset Manager interviews with confidence.
 
+Library and Information Science is a multidisciplinary field that focuses on the organization, preservation, and dissemination of information. Archiving is a vital component of this field, as it involves the management and preservation of historical records and documents. Within archiving, the role of a Digital Asset Manager is crucial in today's digital age. A Digital Asset Manager is responsible for the organization, retrieval, and preservation of digital materials, such as photographs, videos, audio files, and other digital assets. They ensure that these assets are properly stored, categorized, and accessible, while also implementing strategies for long-term preservation and security. This role requires a strong understanding of information management principles, digital preservation techniques, and emerging technologies in the field.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Digital Asset Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Digital Asset Manager interviews to help you prepare and succeed.

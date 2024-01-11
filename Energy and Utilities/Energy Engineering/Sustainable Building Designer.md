@@ -2,6 +2,8 @@
 
 Welcome to the Sustainable Building Designer Interview Preparation ! This resource is designed to help you ace your Sustainable Building Designer interviews with confidence.
 
+A Sustainable Building Designer specializing in Energy Engineering plays a pivotal role in the field of Energy and Utilities. This job involves designing and implementing sustainable building systems that optimize energy efficiency and reduce environmental impact. The Sustainable Building Designer collaborates with architects, engineers, and stakeholders to create innovative solutions that integrate renewable energy sources, efficient HVAC systems, and advanced insulation techniques. They conduct energy audits, perform modeling and analysis, and develop comprehensive sustainability plans. By utilizing their expertise in energy engineering and sustainable design principles, these professionals contribute to the development of environmentally friendly buildings that minimize energy consumption and promote a greener future.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sustainable Building Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sustainable Building Designer interviews to help you prepare and succeed.

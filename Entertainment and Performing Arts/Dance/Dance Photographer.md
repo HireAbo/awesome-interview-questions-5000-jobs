@@ -2,6 +2,8 @@
 
 Welcome to the Dance Photographer Interview Preparation ! This resource is designed to help you ace your Dance Photographer interviews with confidence.
 
+A dance photographer is a professional who captures the artistic beauty and essence of dance through the lens of a camera. This specialized role involves documenting performances, rehearsals, and dance-related events, aiming to freeze moments in time and convey the emotions and movements of dancers. Dance photographers possess a deep understanding of both photography techniques and the intricacies of dance. They skillfully utilize lighting, composition, and various angles to capture the dynamic energy, elegance, and grace of dancers. Their work is not only essential for preserving the history of dance, but also plays a vital role in promoting dance companies, artists, and productions, contributing to the overall appreciation and recognition of dance as a performing art.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Dance Photographer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Dance Photographer interviews to help you prepare and succeed.

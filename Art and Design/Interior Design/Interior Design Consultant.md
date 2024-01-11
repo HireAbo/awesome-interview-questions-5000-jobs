@@ -2,6 +2,8 @@
 
 Welcome to the Interior Design Consultant Interview Preparation ! This resource is designed to help you ace your Interior Design Consultant interviews with confidence.
 
+An Interior Design Consultant is a professional who specializes in providing expert advice and guidance on various aspects of interior design. Their role involves understanding the client's needs, preferences, and budget, and translating them into functional and aesthetically pleasing spaces. They possess a keen eye for detail, a strong sense of style, and a deep understanding of design principles and trends. Interior Design Consultants work closely with clients, architects, contractors, and other professionals to develop and execute design plans, select furnishings and materials, and create cohesive and visually appealing interiors. Their goal is to create spaces that enhance both the functionality and visual appeal of a room or building.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Interior Design Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Interior Design Consultant interviews to help you prepare and succeed.

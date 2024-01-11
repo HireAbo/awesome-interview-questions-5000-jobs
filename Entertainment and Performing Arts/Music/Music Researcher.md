@@ -2,6 +2,8 @@
 
 Welcome to the Music Researcher Interview Preparation ! This resource is designed to help you ace your Music Researcher interviews with confidence.
 
+A Music Researcher is an integral part of the entertainment and performing arts industry, specifically within the field of music. Their primary responsibility is to conduct in-depth research on various music-related topics such as composers, genres, historical periods, and specific pieces of music. They analyze and interpret musical scores, recordings, and historical documents to gather valuable insights and information. A Music Researcher is also involved in cataloging and organizing music collections, contributing to academic publications, and providing expertise and guidance to musicologists, educators, and performers. This role requires a strong passion for music, exceptional analytical skills, and a keen eye for detail to contribute to the advancement and understanding of music as an art form.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Music Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Music Researcher interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Game Warden Interview Preparation ! This resource is designed to help you ace your Game Warden interviews with confidence.
 
+A Game Warden is a law enforcement officer responsible for protecting wildlife and enforcing laws related to conservation and natural resources. This exciting and challenging job involves patrolling designated areas such as national parks, wildlife refuges, and forests to ensure compliance with hunting, fishing, and trapping regulations. Game Wardens also investigate cases of illegal hunting, fishing, and wildlife trafficking, working closely with other law enforcement agencies. They play a vital role in preserving and managing wildlife populations, promoting conservation education, and maintaining the ecological balance. Game Wardens are dedicated professionals who combine their love for the outdoors with their commitment to upholding laws that protect our natural resources for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Game Warden or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Game Warden interviews to help you prepare and succeed.

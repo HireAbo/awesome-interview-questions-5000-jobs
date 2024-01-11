@@ -2,6 +2,8 @@
 
 Welcome to the Healthcare Records Compliance Officer Interview Preparation ! This resource is designed to help you ace your Healthcare Records Compliance Officer interviews with confidence.
 
+The Library and Information Science field encompasses various specializations, one of which is Records Management. This specialization focuses on organizing and maintaining records within an organization, ensuring their accessibility and compliance with legal and regulatory requirements. Within the realm of Records Management, the role of a Healthcare Records Compliance Officer holds great significance. This job involves overseeing the management of healthcare records, ensuring compliance with privacy laws, security measures, and ethical guidelines. The Healthcare Records Compliance Officer plays a crucial role in maintaining the confidentiality, integrity, and availability of healthcare records, thus safeguarding sensitive patient information and upholding the quality and ethics of healthcare services.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Healthcare Records Compliance Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Healthcare Records Compliance Officer interviews to help you prepare and succeed.

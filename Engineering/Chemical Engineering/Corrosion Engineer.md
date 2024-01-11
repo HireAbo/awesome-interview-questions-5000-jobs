@@ -2,6 +2,8 @@
 
 Welcome to the Corrosion Engineer Interview Preparation ! This resource is designed to help you ace your Corrosion Engineer interviews with confidence.
 
+A Corrosion Engineer is a specialized professional within the field of Chemical Engineering who focuses on preventing and mitigating the damaging effects of corrosion on industrial equipment, structures, and materials. They play a crucial role in industries such as oil and gas, manufacturing, aerospace, and automotive, among others. Corrosion Engineers conduct thorough assessments, perform experiments, and develop strategies to identify and combat corrosion issues. Their responsibilities may include designing corrosion-resistant materials, implementing corrosion control measures, conducting inspections, and recommending maintenance and repair procedures. They work closely with other engineers, technicians, and maintenance personnel to ensure the safety, reliability, and longevity of equipment and structures in various industries.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Corrosion Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Corrosion Engineer interviews to help you prepare and succeed.

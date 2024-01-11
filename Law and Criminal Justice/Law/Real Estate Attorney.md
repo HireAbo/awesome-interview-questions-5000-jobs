@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Attorney Interview Preparation ! This resource is designed to help you ace your Real Estate Attorney interviews with confidence.
 
+A real estate attorney is a legal professional who specializes in the legal aspects of real estate transactions. They are experts in property law and play a crucial role in ensuring that all legal obligations are met during real estate transactions. Real estate attorneys handle a wide range of responsibilities, including drafting and reviewing contracts, negotiating terms and conditions, conducting title searches, resolving disputes, and providing legal advice to clients involved in buying, selling, or leasing properties. These attorneys work closely with clients, real estate agents, lenders, and other professionals to navigate complex legal issues and ensure compliance with local, state, and federal laws.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Attorney or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Attorney interviews to help you prepare and succeed.

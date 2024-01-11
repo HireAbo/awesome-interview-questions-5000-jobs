@@ -2,6 +2,8 @@
 
 Welcome to the Construction Project Manager Interview Preparation ! This resource is designed to help you ace your Construction Project Manager interviews with confidence.
 
+A Construction Project Manager in the field of Civil Engineering is responsible for overseeing the planning, design, and execution of construction projects. They play a crucial role in ensuring that projects are completed efficiently, on time, and within budget. These professionals collaborate with architects, engineers, and contractors to develop project plans, manage resources, and coordinate construction activities. Construction Project Managers are skilled in project scheduling, cost estimation, and risk management. They also monitor progress, resolve any issues that may arise, and ensure compliance with building codes and regulations. Their expertise in managing construction projects ensures the successful completion of infrastructure development and improvement initiatives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Construction Project Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Construction Project Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Marine Risk Analyst Interview Preparation ! This resource is designed to help you ace your Marine Risk Analyst interviews with confidence.
 
+A Marine Risk Analyst plays a critical role in the field of Transportation and Logistics, specifically within Maritime Operations. This job entails assessing potential risks and evaluating their impact on marine vessels, cargo, and operations. By conducting thorough analysis and utilizing various risk management tools, a Marine Risk Analyst identifies potential hazards, such as piracy, accidents, or natural disasters, and develops strategies to mitigate these risks. Additionally, they monitor industry trends, regulatory changes, and global events to ensure compliance with international maritime regulations and best practices. Effective communication and collaboration with stakeholders, including shipowners, insurers, and port authorities, are essential in this role to ensure the safe and efficient transportation of goods across oceans.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Marine Risk Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Marine Risk Analyst interviews to help you prepare and succeed.

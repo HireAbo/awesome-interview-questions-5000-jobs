@@ -2,6 +2,8 @@
 
 Welcome to the Intensive Care Unit (ICU) Nurse Interview Preparation ! This resource is designed to help you ace your Intensive Care Unit (ICU) Nurse interviews with confidence.
 
+An Intensive Care Unit (ICU) Nurse plays a vital role in healthcare and medicine. These highly skilled professionals are responsible for providing specialized care to critically ill patients in the ICU. ICU Nurses possess a deep understanding of complex medical conditions and have the ability to manage life-threatening situations. They closely monitor patients' vital signs, administer medications, and perform various medical procedures such as intubation and ventilation. ICU Nurses work collaboratively with a multidisciplinary team to ensure the best possible patient outcomes. Their expertise and quick decision-making skills are crucial in stabilizing and improving the condition of critically ill individuals. ICU Nurses are compassionate, resilient, and dedicated professionals who strive to provide the highest quality care to those in need.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Intensive Care Unit (ICU) Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Intensive Care Unit (ICU) Nurse interviews to help you prepare and succeed.

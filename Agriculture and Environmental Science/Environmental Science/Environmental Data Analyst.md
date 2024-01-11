@@ -2,6 +2,10 @@
 
 Welcome to the Environmental Data Analyst Interview Preparation ! This resource is designed to help you ace your Environmental Data Analyst interviews with confidence.
 
+Agriculture and Environmental Science is a field that focuses on the study of the environment and its impact on agricultural practices. It involves understanding the intricate relationship between the environment, agriculture, and sustainability. Environmental Science professionals play a crucial role in this field by collecting and analyzing environmental data to identify potential risks and develop sustainable solutions.
+
+An Environmental Data Analyst job within the field of Environmental Science entails collecting, organizing, and interpreting complex environmental data. These professionals utilize statistical techniques and data modeling to evaluate environmental trends and patterns. They provide valuable insights and recommendations to stakeholders, helping them make informed decisions regarding land use, resource management, and environmental conservation. This role requires a strong understanding of environmental regulations, data analysis tools, and excellent problem-solving skills to address the challenges associated with maintaining a sustainable agricultural system.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Data Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Data Analyst interviews to help you prepare and succeed.

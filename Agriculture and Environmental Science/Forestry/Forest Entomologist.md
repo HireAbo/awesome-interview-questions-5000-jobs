@@ -2,6 +2,8 @@
 
 Welcome to the Forest Entomologist Interview Preparation ! This resource is designed to help you ace your Forest Entomologist interviews with confidence.
 
+Agriculture and Environmental Science encompasses a wide range of disciplines, including forestry, which plays a crucial role in the management and conservation of forests. Within forestry, Forest Entomologists specialize in studying the interactions between insects and forests. These professionals investigate the impact of insect infestations and develop strategies to control and mitigate their effects. Forest Entomologists conduct field research to identify insect species, monitor population dynamics, and assess damage caused by pests. They also collaborate with other experts to develop sustainable forest management practices that promote the health and resilience of forest ecosystems. This vital role ensures the long-term health and sustainability of forests, benefiting both the environment and the communities that depend on them.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forest Entomologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forest Entomologist interviews to help you prepare and succeed.

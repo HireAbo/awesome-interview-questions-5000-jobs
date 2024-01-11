@@ -2,6 +2,8 @@
 
 Welcome to the Behavior Support Specialist Interview Preparation ! This resource is designed to help you ace your Behavior Support Specialist interviews with confidence.
 
+A Behavior Support Specialist in the field of Special Education is a professional who plays a vital role in supporting the behavioral and emotional needs of students with disabilities. These specialists work closely with students, teachers, and parents to develop and implement behavior intervention plans, aiming to improve the social and academic outcomes of students with behavioral challenges. They assess students' behavior, provide individualized strategies, and collaborate with educational teams to create a positive and inclusive learning environment. Behavior Support Specialists also offer training and guidance to teachers and staff on effective behavior management techniques. Ultimately, their goal is to help students overcome behavioral obstacles and achieve their full potential in an educational setting.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Behavior Support Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Behavior Support Specialist interviews to help you prepare and succeed.

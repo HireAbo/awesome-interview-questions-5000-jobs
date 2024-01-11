@@ -2,6 +2,8 @@
 
 Welcome to the Green Building Consultant Interview Preparation ! This resource is designed to help you ace your Green Building Consultant interviews with confidence.
 
+A Green Building Consultant specializing in Renewable Energy plays a crucial role in the Energy and Utilities sector. Their main responsibility is to provide expert guidance and advice to clients on implementing sustainable and energy-efficient practices in the construction and operation of buildings. These professionals possess a deep understanding of renewable energy technologies and their integration into green building projects. They assess and analyze the energy needs of buildings, conduct energy audits, and develop customized strategies to optimize energy usage while reducing environmental impact. Green Building Consultants also stay updated on emerging trends and regulations in the field to ensure clients achieve their sustainability goals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Green Building Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Green Building Consultant interviews to help you prepare and succeed.

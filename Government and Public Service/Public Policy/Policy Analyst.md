@@ -2,6 +2,8 @@
 
 Welcome to the Policy Analyst Interview Preparation ! This resource is designed to help you ace your Policy Analyst interviews with confidence.
 
+A policy analyst plays a vital role in the field of government and public service, specifically in the realm of public policy. Public policy refers to the decisions and actions taken by government bodies to address societal issues and promote the well-being of citizens. A policy analyst is responsible for researching, analyzing, and evaluating existing policies, as well as proposing and developing new ones. They assess the potential impacts and outcomes of policies, considering economic, social, and political factors. Policy analysts collaborate with government officials, stakeholders, and experts to develop evidence-based recommendations that can guide decision-making and lead to effective policy implementation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Policy Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Policy Analyst interviews to help you prepare and succeed.

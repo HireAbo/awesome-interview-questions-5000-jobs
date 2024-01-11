@@ -2,6 +2,8 @@
 
 Welcome to the Nonprofit Consultant Interview Preparation ! This resource is designed to help you ace your Nonprofit Consultant interviews with confidence.
 
+A nonprofit consultant in the field of social work and human services plays a crucial role in supporting and strengthening nonprofit organizations. This specialized job involves providing expert guidance and advice to nonprofits, helping them maximize their impact and achieve their goals. Nonprofit consultants utilize their extensive knowledge of nonprofit management and strategic planning to assist organizations in areas such as fundraising, program development, board governance, and financial management. By offering their expertise and insights, they enable nonprofits to operate more efficiently, effectively allocate resources, and ultimately make a positive difference in the communities they serve. Nonprofit consultants are instrumental in building strong and sustainable nonprofit organizations that address critical social issues and promote social justice.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nonprofit Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nonprofit Consultant interviews to help you prepare and succeed.

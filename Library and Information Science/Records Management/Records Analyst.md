@@ -2,18 +2,20 @@
 
 Welcome to the Records Analyst Interview Preparation ! This resource is designed to help you ace your Records Analyst interviews with confidence.
 
+Library and Information Science is a multidisciplinary field that encompasses the management, organization, and retrieval of information in various formats. Within this field, Records Management focuses on the systematic control and maintenance of records to ensure their integrity, accessibility, and compliance with legal and regulatory requirements. As a Records Analyst, professionals are responsible for analyzing, classifying, and managing records throughout their lifecycle. They work closely with organizations to develop and implement effective records management strategies, including the creation of retention schedules, records disposal procedures, and digital preservation techniques. Additionally, Records Analysts may conduct audits, provide training, and offer guidance on records management best practices to ensure efficient and secure information governance.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Records Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Records Analyst interviews to help you prepare and succeed.
 
 ## 📝 Sample Questions
 
-1. Can you explain the role of a records analyst in a library and information science setting?
-2. What experience do you have in records management within the library and information science field?
-3. How do you ensure compliance with records management policies and procedures?
-4. Can you describe your knowledge of records classification and retention schedules?
-5. How do you handle the disposal of records in accordance with legal and organizational requirements?
-6. [CLICK HERE FOR MORE QUESTIONS](https://hireabo.com/job/18_3_22/Records%20Analyst)
+1. Can you explain what records management is and its importance in a library setting?
+2. What specific experience do you have in records management?
+3. How familiar are you with the principles and best practices of records management?
+4. What is the role of a Records Analyst in a library?
+5. How would you ensure that records are properly organized and classified?
+6. [CLICK HERE FOR MORE QUESTIONS](https://hireabo.com/job/18_3_2/Records%20Analyst)
 
 ## 🌐 Explore Further
 

@@ -2,6 +2,8 @@
 
 Welcome to the Family Law Attorney Interview Preparation ! This resource is designed to help you ace your Family Law Attorney interviews with confidence.
 
+A Family Law Attorney specializes in dealing with legal matters related to family relationships and domestic issues. They provide legal representation and guidance to clients involved in cases such as divorce, child custody, adoption, spousal support, and domestic violence. Family Law Attorneys assist their clients in understanding their rights, obligations, and legal options, while also advocating for their best interests in court proceedings. They play a crucial role in resolving disputes and helping families navigate through emotionally charged matters, aiming to secure fair outcomes and protect the well-being of all parties involved. Family Law Attorneys must possess strong communication, negotiation, and problem-solving skills to effectively address complex family law issues.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Family Law Attorney or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Family Law Attorney interviews to help you prepare and succeed.

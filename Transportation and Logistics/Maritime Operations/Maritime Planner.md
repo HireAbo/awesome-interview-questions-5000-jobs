@@ -2,6 +2,8 @@
 
 Welcome to the Maritime Planner Interview Preparation ! This resource is designed to help you ace your Maritime Planner interviews with confidence.
 
+A Maritime Planner is a professional responsible for overseeing and coordinating various aspects of transportation and logistics in the maritime industry. This role plays a crucial part in ensuring efficient and cost-effective operations for shipping companies, ports, and other maritime organizations. The Maritime Planner's key responsibilities typically include analyzing shipping routes, optimizing vessel schedules, managing cargo movements, and coordinating with port authorities and other stakeholders. They also utilize advanced software and data analysis techniques to forecast demand, plan vessel capacities, and minimize operational disruptions. A Maritime Planner must possess excellent analytical, organizational, and communication skills to effectively manage complex logistics processes in a dynamic and challenging maritime environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Maritime Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Maritime Planner interviews to help you prepare and succeed.

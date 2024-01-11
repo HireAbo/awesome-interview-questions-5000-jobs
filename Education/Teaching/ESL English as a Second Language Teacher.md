@@ -2,6 +2,8 @@
 
 Welcome to the ESL (English as a Second Language) Teacher Interview Preparation ! This resource is designed to help you ace your ESL (English as a Second Language) Teacher interviews with confidence.
 
+Being an ESL (English as a Second Language) Teacher is a rewarding and fulfilling career path within the field of education. As an ESL teacher, your primary responsibility is to help non-native English speakers learn and improve their English language skills. This job requires a strong understanding of the English language as well as excellent communication and teaching abilities. ESL teachers create lesson plans, deliver engaging and interactive lessons, assess students' progress, and provide feedback to enhance their language proficiency. By fostering a supportive and inclusive learning environment, ESL teachers play a crucial role in helping individuals overcome language barriers and achieve their academic and professional goals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned ESL (English as a Second Language) Teacher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in ESL (English as a Second Language) Teacher interviews to help you prepare and succeed.

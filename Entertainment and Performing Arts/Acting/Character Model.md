@@ -2,6 +2,8 @@
 
 Welcome to the Character Model Interview Preparation ! This resource is designed to help you ace your Character Model interviews with confidence.
 
+A Character Model job in the field of Entertainment and Performing Arts, specifically in Acting, involves bringing fictional characters to life through physical appearance and mannerisms. As a Character Model, you play a crucial role in creating unique and memorable characters for various mediums such as film, television, theater, and video games. Your ability to transform into different personas and accurately portray their traits, emotions, and physical attributes is essential. This job requires exceptional acting skills, versatility, creativity, and a keen eye for detail. Collaboration with directors, costume designers, and makeup artists is common, as you work together to accurately represent the envisioned characters and contribute to the overall storytelling process.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Character Model or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Character Model interviews to help you prepare and succeed.

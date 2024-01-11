@@ -2,6 +2,8 @@
 
 Welcome to the Renewable Energy Economist Interview Preparation ! This resource is designed to help you ace your Renewable Energy Economist interviews with confidence.
 
+A Renewable Energy Economist is a professional who specializes in analyzing, researching, and advising on the economic aspects of renewable energy sources. They play a crucial role in the energy and utilities field by evaluating the financial viability, cost-effectiveness, and potential benefits of renewable energy projects. Renewable Energy Economists conduct comprehensive studies and develop models to assess the impact of renewable energy policies, subsidies, and incentives. They also analyze market trends, forecast energy demand, and evaluate the economic feasibility of transitioning from traditional energy sources to renewable alternatives. Their expertise helps to drive sustainable and environmentally-friendly energy solutions, contributing to the global shift towards a low-carbon economy.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Renewable Energy Economist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Renewable Energy Economist interviews to help you prepare and succeed.

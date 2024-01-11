@@ -2,6 +2,8 @@
 
 Welcome to the Technical Services Librarian Interview Preparation ! This resource is designed to help you ace your Technical Services Librarian interviews with confidence.
 
+A Technical Services Librarian is a crucial role within the field of Library and Information Science, specifically within the domain of Librarianship. This profession primarily focuses on the management and organization of library collections and resources. Technical Services Librarians possess a deep understanding of cataloging, metadata, classification systems, and library automation. They play a vital role in acquiring, processing, and maintaining library materials, ensuring their accessibility to users. Additionally, their responsibilities include managing electronic resources, overseeing interlibrary loan services, and collaborating with other librarians and staff to improve information retrieval strategies. A Technical Services Librarian combines their expertise in librarianship with technical skills to provide efficient and effective information services for library users.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Technical Services Librarian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Technical Services Librarian interviews to help you prepare and succeed.

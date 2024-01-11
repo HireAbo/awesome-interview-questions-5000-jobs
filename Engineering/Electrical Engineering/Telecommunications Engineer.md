@@ -2,6 +2,8 @@
 
 Welcome to the Telecommunications Engineer Interview Preparation ! This resource is designed to help you ace your Telecommunications Engineer interviews with confidence.
 
+A Telecommunications Engineer is a specialist in the field of Electrical Engineering that focuses on designing, developing, and maintaining communication systems. They play a crucial role in the development and implementation of various communication technologies, including wired and wireless networks, satellite systems, and internet protocols. Telecommunications Engineers are responsible for analyzing system requirements, conducting feasibility studies, and designing efficient solutions to enable seamless communication between individuals, organizations, and devices. They also ensure the optimal performance of communication networks, troubleshoot issues, and provide technical support. With the rapid advancements in technology, Telecommunications Engineers are at the forefront of shaping the future of global connectivity and revolutionizing how we communicate.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Telecommunications Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Telecommunications Engineer interviews to help you prepare and succeed.

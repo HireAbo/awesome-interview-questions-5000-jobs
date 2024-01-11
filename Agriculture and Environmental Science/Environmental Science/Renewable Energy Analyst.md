@@ -2,6 +2,8 @@
 
 Welcome to the Renewable Energy Analyst Interview Preparation ! This resource is designed to help you ace your Renewable Energy Analyst interviews with confidence.
 
+The field of Agriculture and Environmental Science focuses on the study of sustainable practices for the betterment of our environment and the production of food. Within this field, one can pursue a career as a Renewable Energy Analyst. As a Renewable Energy Analyst, individuals play a crucial role in developing and implementing renewable energy projects that reduce our reliance on fossil fuels. This job involves conducting research, analyzing data, and assessing the feasibility and potential impact of renewable energy initiatives. Renewable Energy Analysts also collaborate with stakeholders, such as government agencies and private organizations, to promote and advocate for the adoption of renewable energy technologies and policies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Renewable Energy Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Renewable Energy Analyst interviews to help you prepare and succeed.

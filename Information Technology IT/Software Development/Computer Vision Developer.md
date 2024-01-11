@@ -2,6 +2,8 @@
 
 Welcome to the Computer Vision Developer Interview Preparation ! This resource is designed to help you ace your Computer Vision Developer interviews with confidence.
 
+A Computer Vision Developer is a professional who specializes in the field of computer vision, a subset of artificial intelligence and machine learning. This role primarily focuses on developing software applications that can interpret and analyze visual data, such as images and videos. Computer Vision Developers work closely with software engineers and data scientists to design and implement algorithms and models that enable computers to understand and extract meaningful information from visual content. They are responsible for developing and optimizing computer vision systems, image recognition software, and object detection algorithms, with the aim of improving various applications like autonomous vehicles, medical imaging, surveillance systems, and augmented reality.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Computer Vision Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Computer Vision Developer interviews to help you prepare and succeed.

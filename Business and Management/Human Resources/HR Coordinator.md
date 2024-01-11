@@ -2,6 +2,8 @@
 
 Welcome to the HR Coordinator Interview Preparation ! This resource is designed to help you ace your HR Coordinator interviews with confidence.
 
+The HR Coordinator role is a critical position within the field of Human Resources and plays a vital role in the success of an organization. The HR Coordinator is responsible for managing various aspects of the employee lifecycle, including recruitment, onboarding, employee engagement, and performance management. They act as a liaison between employees and management, ensuring effective communication, addressing employee concerns, and providing support in areas such as benefits administration and policy implementation. Additionally, HR Coordinators play a key role in maintaining accurate employee records, ensuring compliance with labor laws and regulations, and assisting with the development and implementation of HR strategies and initiatives. Overall, the HR Coordinator is an essential link between the organization's HR department and its employees, contributing to the smooth functioning of the business.
+
 ## 🚀 Overview
 
 Whether you're a seasoned HR Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in HR Coordinator interviews to help you prepare and succeed.

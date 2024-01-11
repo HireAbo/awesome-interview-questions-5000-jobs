@@ -2,6 +2,8 @@
 
 Welcome to the Federal Air Marshal Interview Preparation ! This resource is designed to help you ace your Federal Air Marshal interviews with confidence.
 
+The Federal Air Marshal (FAM) job is an integral part of the criminal justice system, specifically within the field of aviation security. FAMs are highly trained law enforcement officers who work undercover to protect passengers, crew members, and aircrafts from potential threats. Their primary role is to prevent and respond to acts of terrorism, hijackings, or any unlawful activities onboard domestic and international flights. FAMs employ advanced surveillance techniques and tactical skills to identify and neutralize potential risks, ensuring the safety of air travel. With a strong background in law enforcement and extensive training in firearms, self-defense, and emergency response, Federal Air Marshals play a crucial role in maintaining national security within the aviation industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Federal Air Marshal or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Federal Air Marshal interviews to help you prepare and succeed.

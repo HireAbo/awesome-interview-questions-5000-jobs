@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife Veterinarian Interview Preparation ! This resource is designed to help you ace your Wildlife Veterinarian interviews with confidence.
 
+Agriculture and Environmental Science encompasses the study of the interactions between the environment and agricultural practices. It seeks to find sustainable solutions to ensure food security while minimizing the negative impact on the environment. Wildlife Conservation, on the other hand, focuses on protecting and preserving wildlife and their habitats to maintain biodiversity. Wildlife Veterinarians play a crucial role in this field. They are responsible for the health and well-being of wildlife species, providing medical care, conducting research, and implementing conservation strategies. Wildlife Veterinarians work closely with wildlife biologists, conservationists, and government agencies to ensure the long-term survival of endangered species and the overall health of ecosystems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Veterinarian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Veterinarian interviews to help you prepare and succeed.

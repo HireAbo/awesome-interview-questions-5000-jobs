@@ -2,6 +2,8 @@
 
 Welcome to the Policy Analyst Interview Preparation ! This resource is designed to help you ace your Policy Analyst interviews with confidence.
 
+A policy analyst in the field of economics plays a critical role in shaping and implementing effective policies that drive economic growth and development. As a social science discipline, economics examines the production, distribution, and consumption of goods and services. A policy analyst in this field utilizes their expertise to assess and evaluate the impact of existing economic policies, propose alternative solutions, and provide recommendations to government agencies, non-profit organizations, or private corporations. They conduct extensive research, analyze data, and apply economic theories to identify trends, forecast outcomes, and inform decision-making processes. The role of a policy analyst in economics requires a deep understanding of economic principles, excellent analytical skills, and the ability to communicate complex concepts to a diverse audience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Policy Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Policy Analyst interviews to help you prepare and succeed.

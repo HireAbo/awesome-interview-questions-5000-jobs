@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Development Risk Manager Interview Preparation ! This resource is designed to help you ace your Real Estate Development Risk Manager interviews with confidence.
 
+Real Estate and Property Management is a vast industry that deals with the buying, selling, leasing, and management of properties. It encompasses various roles, one of which is Real Estate Development. Real Estate Development involves the planning, construction, and renovation of properties to enhance their value or create new ones. Within this field, the role of a Real Estate Development Risk Manager is crucial. These professionals are responsible for identifying and analyzing potential risks associated with development projects. They assess financial, legal, and environmental risks, and develop strategies to mitigate them. Their expertise ensures that projects are executed successfully, minimizing potential losses and safeguarding investments.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Development Risk Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Development Risk Manager interviews to help you prepare and succeed.

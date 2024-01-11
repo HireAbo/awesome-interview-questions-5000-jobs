@@ -2,6 +2,8 @@
 
 Welcome to the Zoo Veterinary Technician Interview Preparation ! This resource is designed to help you ace your Zoo Veterinary Technician interviews with confidence.
 
+Veterinary medicine is a field dedicated to the health and well-being of animals. It involves diagnosing, treating, and preventing diseases and injuries in various animal species. Veterinary nursing is an essential component of veterinary medicine, providing support to veterinarians in the care and treatment of animals. Veterinary nurses assist with surgeries, administer medications, and provide general care to animals. A specialized branch within veterinary nursing is zoo veterinary technician job. Zoo veterinary technicians work closely with veterinarians in zoos and wildlife parks, assisting in the care and treatment of a wide range of exotic animals. This unique role involves a deep understanding of different species, their habitats, and specific medical needs.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Zoo Veterinary Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Zoo Veterinary Technician interviews to help you prepare and succeed.

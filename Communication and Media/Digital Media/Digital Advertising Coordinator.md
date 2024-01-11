@@ -2,6 +2,8 @@
 
 Welcome to the Digital Advertising Coordinator Interview Preparation ! This resource is designed to help you ace your Digital Advertising Coordinator interviews with confidence.
 
+A Digital Advertising Coordinator is a professional responsible for managing and implementing digital advertising campaigns. They work closely with clients and internal teams to develop effective strategies to promote products or services through various digital channels such as websites, social media platforms, and mobile apps. This role requires strong analytical skills to track and evaluate campaign performance, as well as excellent communication skills to collaborate with stakeholders and ensure the delivery of advertising materials on time. A successful Digital Advertising Coordinator should be well-versed in digital marketing trends, possess a creative mindset, and have a solid understanding of audience targeting and segmentation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Digital Advertising Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Digital Advertising Coordinator interviews to help you prepare and succeed.

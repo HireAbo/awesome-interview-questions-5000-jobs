@@ -2,6 +2,8 @@
 
 Welcome to the Power Plant Asset Manager Interview Preparation ! This resource is designed to help you ace your Power Plant Asset Manager interviews with confidence.
 
+The role of a Power Plant Asset Manager in the field of Energy and Utilities is to oversee and manage the assets of a power plant, ensuring optimal performance and efficiency. These professionals are responsible for monitoring and maintaining the plant's equipment, including turbines, generators, boilers, and control systems. They develop and implement maintenance strategies to minimize downtime and maximize asset lifespan. Additionally, Power Plant Asset Managers collaborate with other departments to plan and execute capital projects, such as equipment upgrades and plant expansions. Their expertise and knowledge in asset management play a critical role in ensuring the reliable and cost-effective operation of power plants.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Power Plant Asset Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Power Plant Asset Manager interviews to help you prepare and succeed.

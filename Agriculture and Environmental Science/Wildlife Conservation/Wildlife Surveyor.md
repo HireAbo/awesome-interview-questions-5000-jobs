@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife Surveyor Interview Preparation ! This resource is designed to help you ace your Wildlife Surveyor interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that combines knowledge of biology, ecology, and environmental studies to promote sustainable practices in agriculture while preserving the natural environment. Within this field, wildlife conservation plays a crucial role in maintaining biodiversity and ecosystem balance. Wildlife surveyors are professionals who specialize in studying and monitoring wildlife populations in their natural habitats. They conduct extensive research, collect data, and analyze patterns and trends to assess the health and abundance of various species. By understanding the dynamics of wildlife populations, surveyors help develop effective conservation strategies, protect endangered species, and promote sustainable land management practices that minimize human-wildlife conflicts.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Surveyor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Surveyor interviews to help you prepare and succeed.

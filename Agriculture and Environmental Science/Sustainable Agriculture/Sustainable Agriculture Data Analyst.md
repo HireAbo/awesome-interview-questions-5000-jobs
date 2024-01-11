@@ -2,6 +2,8 @@
 
 Welcome to the Sustainable Agriculture Data Analyst Interview Preparation ! This resource is designed to help you ace your Sustainable Agriculture Data Analyst interviews with confidence.
 
+As a Sustainable Agriculture Data Analyst, you play a vital role in bridging the gap between agriculture and environmental science. With a deep understanding of sustainable agriculture practices, you utilize your analytical skills to collect, interpret, and analyze data related to farming practices, crop yield, soil health, and environmental impact. By examining this data, you identify trends, patterns, and areas for improvement in order to enhance the sustainability of agricultural operations. Your findings enable farmers and policymakers to make informed decisions, optimize resource utilization, minimize environmental degradation, and promote the long-term viability of agricultural systems. As a Sustainable Agriculture Data Analyst, you contribute to the development of innovative and sustainable solutions that ensure food security while safeguarding the environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sustainable Agriculture Data Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sustainable Agriculture Data Analyst interviews to help you prepare and succeed.

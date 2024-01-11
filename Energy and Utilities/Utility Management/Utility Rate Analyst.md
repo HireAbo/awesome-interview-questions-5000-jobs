@@ -2,6 +2,8 @@
 
 Welcome to the Utility Rate Analyst Interview Preparation ! This resource is designed to help you ace your Utility Rate Analyst interviews with confidence.
 
+A Utility Rate Analyst plays a crucial role in the Energy and Utilities sector by analyzing and managing utility rates. This job involves reviewing and evaluating utility rate structures, tariffs, and pricing models to ensure their accuracy and compliance with regulatory requirements. Utility Rate Analysts also conduct research and data analysis to develop cost-effective rate proposals and make recommendations for improvements. They collaborate with internal teams and external stakeholders to gather and analyze data, prepare reports, and present findings. Strong analytical and problem-solving skills, knowledge of utility regulations and market trends, and proficiency in data analysis tools are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Utility Rate Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Utility Rate Analyst interviews to help you prepare and succeed.

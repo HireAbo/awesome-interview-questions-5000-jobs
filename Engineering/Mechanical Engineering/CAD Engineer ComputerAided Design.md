@@ -2,6 +2,8 @@
 
 Welcome to the CAD Engineer (Computer-Aided Design) Interview Preparation ! This resource is designed to help you ace your CAD Engineer (Computer-Aided Design) interviews with confidence.
 
+A CAD Engineer, also known as a Computer-Aided Design Engineer, is a specialized professional within the field of Mechanical Engineering. They play a crucial role in the design and development of various mechanical systems and products using advanced software tools. CAD Engineers utilize computer software to create detailed 2D and 3D models, blueprints, and technical drawings that serve as the foundation for the manufacturing and fabrication processes. They collaborate closely with other engineers and designers to optimize product designs, ensure functionality, and address any potential issues. CAD Engineers possess a deep understanding of mechanical principles, materials, and manufacturing processes, coupled with exceptional technical and problem-solving skills.
+
 ## 🚀 Overview
 
 Whether you're a seasoned CAD Engineer (Computer-Aided Design) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in CAD Engineer (Computer-Aided Design) interviews to help you prepare and succeed.

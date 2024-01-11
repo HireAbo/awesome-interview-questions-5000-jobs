@@ -2,6 +2,8 @@
 
 Welcome to the Network Deployment Engineer Interview Preparation ! This resource is designed to help you ace your Network Deployment Engineer interviews with confidence.
 
+A Network Deployment Engineer is a vital role within the field of Information Technology (IT) Network Engineering. This job involves the planning, implementation, and maintenance of network infrastructure for organizations. A Network Deployment Engineer is responsible for designing and deploying various network systems, including routers, switches, firewalls, and wireless solutions. They collaborate with other IT professionals to ensure network security, performance, and reliability. This role requires strong technical skills in network protocols, hardware, and software, as well as the ability to troubleshoot and resolve network issues. A Network Deployment Engineer must also possess excellent communication and problem-solving skills to effectively manage network projects and provide technical support to end-users.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Network Deployment Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Network Deployment Engineer interviews to help you prepare and succeed.

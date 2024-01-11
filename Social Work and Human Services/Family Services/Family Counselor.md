@@ -2,6 +2,8 @@
 
 Welcome to the Family Counselor Interview Preparation ! This resource is designed to help you ace your Family Counselor interviews with confidence.
 
+A Family Counselor is a professional in the field of social work and human services who specializes in providing guidance, support, and counseling to individuals and families facing various challenges within their familial relationships. They play a crucial role in helping families navigate through difficult times, improve communication, and resolve conflicts. Family Counselors possess a strong understanding of human behavior, psychology, and social dynamics, which allows them to address issues such as marital problems, parenting difficulties, domestic violence, substance abuse, and mental health concerns. By fostering healthy relationships and promoting emotional well-being, Family Counselors contribute to the overall welfare and stability of families, promoting a harmonious and nurturing environment for all members involved.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Family Counselor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Family Counselor interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Power Plant Asset Planner Interview Preparation ! This resource is designed to help you ace your Power Plant Asset Planner interviews with confidence.
 
+A Power Plant Asset Planner plays a crucial role in the field of Energy and Utilities, specifically in Power Plant Operations. This job involves the strategic planning and coordination of power plant assets to ensure optimal efficiency and productivity. The Asset Planner is responsible for analyzing data and trends, developing maintenance and repair schedules, and coordinating with various departments to ensure smooth operations. They collaborate with engineers, technicians, and other professionals to identify and address any issues or risks that may impact the power plant's performance. The Power Plant Asset Planner also plays a key role in implementing cost-effective strategies to maximize the lifespan and profitability of the power plant.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Power Plant Asset Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Power Plant Asset Planner interviews to help you prepare and succeed.

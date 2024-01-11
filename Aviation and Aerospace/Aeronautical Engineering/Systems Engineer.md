@@ -2,6 +2,8 @@
 
 Welcome to the Systems Engineer Interview Preparation ! This resource is designed to help you ace your Systems Engineer interviews with confidence.
 
+Aviation and Aerospace are fascinating industries that encompass the design, development, and maintenance of aircraft and spacecraft. Within this field, Aeronautical Engineering plays a crucial role in ensuring the safe and efficient operation of these vehicles. Aeronautical Systems Engineers are an integral part of the engineering team, responsible for designing, testing, and implementing complex systems that govern the functionality and performance of aircraft and spacecraft. They collaborate with various professionals, including aerospace engineers, pilots, and technicians, to develop innovative solutions and ensure compliance with regulations. Aeronautical Systems Engineers possess strong analytical and problem-solving skills, as they are constantly striving to improve the safety, reliability, and performance of aviation and aerospace systems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Systems Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Systems Engineer interviews to help you prepare and succeed.

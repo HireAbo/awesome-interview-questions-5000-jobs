@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Development Commercial Lease Administrator Interview Preparation ! This resource is designed to help you ace your Real Estate Development Commercial Lease Administrator interviews with confidence.
 
+Real Estate and Property Management involves the buying, selling, and leasing of properties, as well as the management and maintenance of these properties. Real Estate Development, a crucial aspect of this field, refers to the process of creating new real estate projects, such as commercial buildings, residential complexes, or mixed-use developments. Within Real Estate Development, the role of a Commercial Lease Administrator is essential. These professionals are responsible for overseeing the leasing and negotiation of commercial properties, ensuring that lease agreements are in compliance with legal and regulatory requirements, and managing tenant relations. They play a crucial role in optimizing revenue and maintaining a positive relationship between landlords and tenants.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Development Commercial Lease Administrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Development Commercial Lease Administrator interviews to help you prepare and succeed.

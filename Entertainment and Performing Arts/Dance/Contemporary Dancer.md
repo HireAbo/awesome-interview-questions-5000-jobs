@@ -2,6 +2,8 @@
 
 Welcome to the Contemporary Dancer Interview Preparation ! This resource is designed to help you ace your Contemporary Dancer interviews with confidence.
 
+A contemporary dancer is a professional artist who specializes in the field of dance, specifically in the genre of contemporary dance. This form of dance is characterized by its fluidity, versatility, and focus on self-expression. Contemporary dancers possess a high level of technical skill and artistic creativity, allowing them to push the boundaries of movement and explore new possibilities. They are adept at integrating various dance techniques and styles, such as ballet, jazz, and modern dance, to create unique and compelling performances. Contemporary dancers often work with choreographers and dance companies, both in traditional theater settings and in experimental and site-specific performances.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Contemporary Dancer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Contemporary Dancer interviews to help you prepare and succeed.

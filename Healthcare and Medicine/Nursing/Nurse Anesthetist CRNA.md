@@ -2,6 +2,10 @@
 
 Welcome to the Nurse Anesthetist (CRNA) Interview Preparation ! This resource is designed to help you ace your Nurse Anesthetist (CRNA) interviews with confidence.
 
+A Nurse Anesthetist (CRNA) is a highly skilled healthcare professional who specializes in administering anesthesia to patients undergoing medical procedures. They work alongside surgeons, anesthesiologists, and other healthcare providers to ensure the safe and effective management of a patient's pain and comfort during surgical procedures.
+
+Nurse Anesthetists undergo extensive training and education, typically holding a master's degree in nursing and certification as a registered nurse anesthetist. They possess a comprehensive understanding of anesthesia medications, techniques, and equipment, allowing them to monitor and adjust anesthesia levels throughout a procedure. CRNAs play a critical role in the healthcare team by ensuring patient safety, managing pain, and providing continuous care before, during, and after surgery. Their expertise and attention to detail contribute to successful surgical outcomes and patient satisfaction.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nurse Anesthetist (CRNA) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nurse Anesthetist (CRNA) interviews to help you prepare and succeed.

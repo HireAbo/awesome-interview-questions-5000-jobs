@@ -2,6 +2,8 @@
 
 Welcome to the Commercial Electrician Interview Preparation ! This resource is designed to help you ace your Commercial Electrician interviews with confidence.
 
+A commercial electrician is a skilled tradesperson who specializes in electrical work for commercial buildings and establishments. They are responsible for the installation, maintenance, and repair of electrical systems in commercial settings such as offices, retail stores, hospitals, and factories. These professionals have a deep understanding of electrical codes, blueprints, and safety regulations. They are adept at working with various electrical components and systems such as wiring, circuit breakers, transformers, and generators. Commercial electricians also troubleshoot electrical issues, perform inspections, and ensure that all electrical systems are functioning efficiently and safely. Their expertise and attention to detail play a vital role in ensuring the smooth operation of commercial establishments.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Commercial Electrician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Commercial Electrician interviews to help you prepare and succeed.

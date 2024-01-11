@@ -2,6 +2,8 @@
 
 Welcome to the Econometrician Interview Preparation ! This resource is designed to help you ace your Econometrician interviews with confidence.
 
+An econometrician is a professional who specializes in applying statistical and mathematical methods to analyze economic data. As a key figure in the field of economics, econometricians play a crucial role in understanding and forecasting economic trends, evaluating policies, and making informed decisions. By utilizing advanced econometric models, econometricians are able to uncover relationships between economic variables, test economic theories, and provide quantitative analysis to support economic research. They often work in research institutions, government agencies, consulting firms, or academic settings. With a strong foundation in economics, mathematics, and statistics, econometricians contribute to shaping economic policies and helping organizations make data-driven decisions to achieve economic stability and growth.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Econometrician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Econometrician interviews to help you prepare and succeed.

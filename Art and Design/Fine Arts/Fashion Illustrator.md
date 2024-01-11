@@ -2,6 +2,8 @@
 
 Welcome to the Fashion Illustrator Interview Preparation ! This resource is designed to help you ace your Fashion Illustrator interviews with confidence.
 
+A Fashion Illustrator is a specialized artist who combines their artistic skills with a deep understanding of fashion and design. They play a crucial role in the fashion industry by creating visual representations of clothing, accessories, and fashion concepts. Fashion Illustrators use various mediums such as watercolors, pencils, or digital tools to bring their ideas to life. They work closely with fashion designers, stylists, and creative directors to develop and communicate their vision. A Fashion Illustrator must have a keen eye for detail, a strong sense of style, and be able to translate ideas into visually captivating illustrations that inspire and influence the fashion world.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Fashion Illustrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Fashion Illustrator interviews to help you prepare and succeed.

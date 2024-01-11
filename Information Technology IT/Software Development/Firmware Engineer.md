@@ -2,18 +2,20 @@
 
 Welcome to the Firmware Engineer Interview Preparation ! This resource is designed to help you ace your Firmware Engineer interviews with confidence.
 
+A Firmware Engineer is a professional responsible for designing, developing, and maintaining firmware for various electronic devices. They play a crucial role in the field of Information Technology (IT) and Software Development. As a Firmware Engineer, one must possess a strong understanding of software programming languages, embedded systems, and hardware design. They are responsible for writing code that controls and operates the hardware components of devices such as computer systems, smartphones, medical devices, and automotive systems. Firmware Engineers collaborate with cross-functional teams to ensure the seamless integration of software and hardware, and they constantly strive to improve the performance, reliability, and functionality of electronic devices through their expertise in firmware development.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Firmware Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Firmware Engineer interviews to help you prepare and succeed.
 
 ## 📝 Sample Questions
 
-1. What is firmware, and how does it differ from software?
-2. Can you explain the firmware development lifecycle?
-3. Which programming languages do you have experience with for firmware development?
-4. Describe the steps you follow to debug and troubleshoot firmware issues.
-5. How familiar are you with different microcontroller architectures?
-6. [CLICK HERE FOR MORE QUESTIONS](https://hireabo.com/job/0_0_78/Firmware%20Engineer)
+1. How would you define firmware? Can you explain its role in embedded systems?
+2. What programming languages do you have experience with for firmware development?
+3. Can you explain the difference between firmware and software?
+4. Have you worked with microcontrollers or microprocessors? If yes, which ones?
+5. Describe your experience with real-time operating systems (RTOS) in firmware development.
+6. [CLICK HERE FOR MORE QUESTIONS](https://hireabo.com/job/0_0_28/Firmware%20Engineer)
 
 ## 🌐 Explore Further
 

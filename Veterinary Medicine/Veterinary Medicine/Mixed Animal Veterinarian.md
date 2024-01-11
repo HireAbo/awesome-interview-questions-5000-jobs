@@ -2,6 +2,8 @@
 
 Welcome to the Mixed Animal Veterinarian Interview Preparation ! This resource is designed to help you ace your Mixed Animal Veterinarian interviews with confidence.
 
+Veterinary Medicine is a branch of medical science that focuses on the health and well-being of animals. It encompasses a wide range of specialties, including small animal, large animal, and mixed animal veterinary medicine. Mixed animal veterinarians have a unique role in the field as they provide medical care to both small and large animals. Their job involves diagnosing and treating various health conditions, performing surgeries, administering vaccines, and providing preventive care. These professionals work in diverse settings such as clinics, farms, and even zoos. Mixed animal veterinarians play a crucial role in promoting animal welfare and ensuring the health of both domestic and agricultural animals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Mixed Animal Veterinarian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Mixed Animal Veterinarian interviews to help you prepare and succeed.

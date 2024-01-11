@@ -2,6 +2,8 @@
 
 Welcome to the Property Management Leasing Specialist Interview Preparation ! This resource is designed to help you ace your Property Management Leasing Specialist interviews with confidence.
 
+A Property Management Leasing Specialist is a professional responsible for managing and leasing properties on behalf of property owners and real estate companies. This role involves various tasks, including marketing properties to attract potential tenants, conducting property showings, screening and selecting qualified tenants, negotiating lease agreements, and ensuring compliance with local regulations and property policies. Additionally, a Property Management Leasing Specialist may handle rent collection, property inspections, and maintenance requests. This position requires strong communication and negotiation skills, as well as a thorough understanding of rental market trends, property marketing strategies, and landlord-tenant laws. Successful professionals in this field deliver exceptional customer service and strive to maximize property occupancy and rental income.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Property Management Leasing Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Property Management Leasing Specialist interviews to help you prepare and succeed.

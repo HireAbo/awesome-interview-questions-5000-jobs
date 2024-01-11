@@ -2,6 +2,8 @@
 
 Welcome to the Military Pilot Interview Preparation ! This resource is designed to help you ace your Military Pilot interviews with confidence.
 
+A military pilot is a skilled professional who operates military aircraft for various purposes, such as combat missions, surveillance, and transportation. As a military pilot, you will be responsible for piloting advanced fighter jets, helicopters, or other specialized aircraft. This thrilling job requires exceptional flying skills, precision, and the ability to make split-second decisions in high-pressure situations. Military pilots undergo rigorous training programs that include extensive flight training, combat maneuvers, and weapon systems operation. They are also trained in navigation, communication, and mission planning. This challenging career offers the opportunity to serve your country while experiencing the thrill of flying cutting-edge aircraft in dynamic and demanding environments.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Military Pilot or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Military Pilot interviews to help you prepare and succeed.

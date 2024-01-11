@@ -2,6 +2,8 @@
 
 Welcome to the Sustainable Agriculture Seed Bank Manager Interview Preparation ! This resource is designed to help you ace your Sustainable Agriculture Seed Bank Manager interviews with confidence.
 
+Agriculture and Environmental Science is a field that focuses on the sustainable use of natural resources for food production while minimizing the impact on the environment. Sustainable Agriculture aims to meet the current and future food demands without compromising the ability of future generations to meet their own needs. Within this field, a Sustainable Agriculture Seed Bank Manager plays a crucial role. They are responsible for preserving and managing a collection of seeds, ensuring the genetic diversity of crops is maintained. They coordinate seed exchange programs, conduct research on seed viability, and promote sustainable farming practices. Their work contributes to food security, biodiversity conservation, and the sustainable development of agriculture.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sustainable Agriculture Seed Bank Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sustainable Agriculture Seed Bank Manager interviews to help you prepare and succeed.

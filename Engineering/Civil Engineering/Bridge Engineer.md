@@ -2,6 +2,8 @@
 
 Welcome to the Bridge Engineer Interview Preparation ! This resource is designed to help you ace your Bridge Engineer interviews with confidence.
 
+A Bridge Engineer is a specialized civil engineer who focuses on the design, construction, and maintenance of bridges. They play a crucial role in ensuring the safety and functionality of bridges, as well as their integration into transportation systems. Bridge Engineers are responsible for conducting site investigations, analyzing data, and designing innovative and cost-effective bridge structures. They collaborate with architects, surveyors, and contractors to develop plans that meet safety codes, environmental regulations, and project specifications. Additionally, Bridge Engineers oversee construction projects, conduct inspections, and provide solutions for any structural issues. They possess strong analytical, mathematical, and problem-solving skills, as well as a deep understanding of engineering principles and materials.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Bridge Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Bridge Engineer interviews to help you prepare and succeed.

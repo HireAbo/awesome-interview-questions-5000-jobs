@@ -2,6 +2,8 @@
 
 Welcome to the Cloud Network Engineer Interview Preparation ! This resource is designed to help you ace your Cloud Network Engineer interviews with confidence.
 
+A Cloud Network Engineer is a specialized role within the field of Information Technology (IT) and Network Engineering. This job focuses on designing, implementing, and managing cloud-based networks for organizations. Cloud Network Engineers are responsible for ensuring the efficient and secure connectivity of systems and applications hosted on cloud platforms. They work closely with teams to assess network requirements, design network architectures, and configure cloud-based networking components. Additionally, Cloud Network Engineers troubleshoot and resolve network issues, monitor network performance, and ensure the availability and scalability of cloud networks. This role requires a strong understanding of cloud technologies, network protocols, security protocols, and excellent problem-solving skills.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cloud Network Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cloud Network Engineer interviews to help you prepare and succeed.

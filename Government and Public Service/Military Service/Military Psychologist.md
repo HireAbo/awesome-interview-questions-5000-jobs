@@ -2,6 +2,8 @@
 
 Welcome to the Military Psychologist Interview Preparation ! This resource is designed to help you ace your Military Psychologist interviews with confidence.
 
+Government and Public Service play a crucial role in maintaining the welfare and security of a nation. Within this sector, Military Service is a vital component, ensuring the defense and protection of a country. Among the various roles within the military, the position of a Military Psychologist is of great significance. Military Psychologists are trained professionals who provide mental health support to military personnel and their families. They assess and treat mental health issues such as post-traumatic stress disorder, depression, and anxiety that may arise as a result of military service. Their expertise aids in promoting the well-being and resilience of military personnel, contributing to the overall effectiveness and readiness of the armed forces.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Military Psychologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Military Psychologist interviews to help you prepare and succeed.

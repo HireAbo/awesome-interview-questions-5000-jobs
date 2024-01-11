@@ -2,6 +2,8 @@
 
 Welcome to the Global Health Coordinator Interview Preparation ! This resource is designed to help you ace your Global Health Coordinator interviews with confidence.
 
+The role of a Social Work and Human Services > Public Health > Global Health Coordinator is vital in addressing the complex challenges faced by communities around the world. These professionals work towards improving the overall well-being of individuals and populations, particularly in underserved areas. By coordinating and implementing global health initiatives, they strive to reduce health disparities and enhance access to healthcare services for vulnerable populations. This multifaceted role involves collaboration with various stakeholders, including healthcare providers, governmental agencies, non-profit organizations, and local communities. With a strong background in social work, public health, and global health, these coordinators play a crucial role in creating sustainable and equitable healthcare systems on a global scale.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Global Health Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Global Health Coordinator interviews to help you prepare and succeed.

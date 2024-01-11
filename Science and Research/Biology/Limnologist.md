@@ -2,6 +2,8 @@
 
 Welcome to the Limnologist Interview Preparation ! This resource is designed to help you ace your Limnologist interviews with confidence.
 
+A limnologist is a biologist who specializes in the study of freshwater ecosystems, particularly lakes and rivers. They conduct scientific research to understand the various biological, chemical, and physical processes that occur within these aquatic environments. Limnologists investigate the interactions between organisms and their surroundings, including the effects of pollution, climate change, and habitat alteration. They collect and analyze water samples, study the biodiversity of aquatic organisms, and assess the health and ecological functioning of freshwater systems. Limnologists play a crucial role in addressing environmental issues, providing valuable insights for conservation efforts, water resource management, and the development of sustainable practices in aquatic ecosystems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Limnologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Limnologist interviews to help you prepare and succeed.

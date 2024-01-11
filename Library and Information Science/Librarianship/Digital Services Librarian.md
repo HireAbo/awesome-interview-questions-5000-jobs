@@ -2,6 +2,8 @@
 
 Welcome to the Digital Services Librarian Interview Preparation ! This resource is designed to help you ace your Digital Services Librarian interviews with confidence.
 
+A Digital Services Librarian is a specialized role in the field of Library and Information Science, focusing on the management and provision of digital services in a library setting. This job involves the planning, development, and implementation of digital initiatives to enhance access to information resources and services. Digital Services Librarians are responsible for managing digital collections, ensuring their discoverability, and curating their content. They also collaborate with other librarians and IT professionals to design and maintain library websites, databases, and digital platforms. Additionally, they provide support and training to library staff and users on various digital tools and technologies, promoting digital literacy and information literacy skills.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Digital Services Librarian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Digital Services Librarian interviews to help you prepare and succeed.

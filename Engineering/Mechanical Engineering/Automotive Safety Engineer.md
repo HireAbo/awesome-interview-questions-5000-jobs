@@ -2,6 +2,8 @@
 
 Welcome to the Automotive Safety Engineer Interview Preparation ! This resource is designed to help you ace your Automotive Safety Engineer interviews with confidence.
 
+An Automotive Safety Engineer is a specialized role within the field of Mechanical Engineering that focuses on designing and implementing safety measures in automotive vehicles. These professionals are responsible for creating systems and technologies that ensure the safety of drivers, passengers, and pedestrians. They work closely with design teams to incorporate safety features such as seatbelts, airbags, and anti-lock braking systems into vehicles. Automotive Safety Engineers also conduct rigorous testing and analysis to assess the effectiveness of these safety measures and make necessary improvements. Their ultimate goal is to enhance the overall safety performance of automotive vehicles and reduce the risk of accidents and injuries on the road.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Automotive Safety Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Automotive Safety Engineer interviews to help you prepare and succeed.

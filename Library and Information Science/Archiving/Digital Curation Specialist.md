@@ -2,6 +2,12 @@
 
 Welcome to the Digital Curation Specialist Interview Preparation ! This resource is designed to help you ace your Digital Curation Specialist interviews with confidence.
 
+Library and Information Science is a field that encompasses the management, organization, and preservation of information resources. Within this field, there is a specialized role known as a Digital Curation Specialist, who focuses on archiving and preserving digital content. 
+
+As an Archiving Digital Curation Specialist, you would be responsible for curating and preserving digital materials such as documents, images, videos, and other digital assets. You would develop and implement strategies to ensure the long-term accessibility and usability of digital content, utilizing various technologies and tools to manage and organize digital collections. 
+
+In addition, you would collaborate with other professionals and stakeholders to ensure that digital materials are properly cataloged, labeled, and stored. You may also be involved in research and analysis to identify emerging trends and best practices in digital preservation. Overall, this role plays a crucial role in ensuring the accessibility and longevity of digital content for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Digital Curation Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Digital Curation Specialist interviews to help you prepare and succeed.

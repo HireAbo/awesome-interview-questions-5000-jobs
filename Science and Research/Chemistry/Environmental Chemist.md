@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Chemist Interview Preparation ! This resource is designed to help you ace your Environmental Chemist interviews with confidence.
 
+Environmental chemists are scientists who study the impact of chemicals on the environment and work towards developing sustainable solutions. They conduct research to understand how pollutants, such as air and water contaminants, affect ecosystems, human health, and wildlife. Their work involves analyzing samples, conducting experiments, and using sophisticated instruments and techniques to identify and quantify pollutants. Environmental chemists also evaluate the effectiveness of environmental policies and regulations, and may develop strategies for waste management and pollution prevention. Their findings contribute to the development of safer and more environmentally-friendly technologies, as well as inform decision-making processes related to environmental protection and conservation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Chemist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Chemist interviews to help you prepare and succeed.

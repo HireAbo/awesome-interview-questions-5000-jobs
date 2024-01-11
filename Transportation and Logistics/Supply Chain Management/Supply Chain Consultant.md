@@ -2,6 +2,8 @@
 
 Welcome to the Supply Chain Consultant Interview Preparation ! This resource is designed to help you ace your Supply Chain Consultant interviews with confidence.
 
+A Supply Chain Consultant plays a vital role in the field of Transportation and Logistics by managing the complex and interconnected processes involved in the supply chain. This job involves analyzing, planning, and implementing strategies to optimize the flow of goods and services from manufacturers to consumers. Supply Chain Consultants work closely with various stakeholders, including suppliers, distributors, and retailers, to ensure efficient operations, minimize costs, and maximize customer satisfaction. They focus on improving overall supply chain performance, reducing waste, and enhancing productivity. These professionals possess strong analytical, problem-solving, and communication skills to identify areas for improvement and provide innovative solutions in a rapidly evolving industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Supply Chain Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Supply Chain Consultant interviews to help you prepare and succeed.

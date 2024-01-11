@@ -2,6 +2,8 @@
 
 Welcome to the Rehabilitation Specialist Interview Preparation ! This resource is designed to help you ace your Rehabilitation Specialist interviews with confidence.
 
+A Rehabilitation Specialist in Sports Medicine is a healthcare professional who specializes in treating and rehabilitating athletes and individuals with sports-related injuries. They play a crucial role in helping patients recover from injuries and regain optimal physical function, allowing them to return to their sports or athletic activities. These specialists have in-depth knowledge of human anatomy, biomechanics, and exercise physiology. They design personalized treatment plans and employ various techniques such as therapeutic exercise, manual therapy, and modalities like ultrasound and electrical stimulation. Rehabilitation Specialists work closely with athletes, coaches, and other healthcare professionals to ensure a safe and effective recovery process.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Rehabilitation Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Rehabilitation Specialist interviews to help you prepare and succeed.

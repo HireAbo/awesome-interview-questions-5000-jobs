@@ -2,6 +2,8 @@
 
 Welcome to the Mediator Interview Preparation ! This resource is designed to help you ace your Mediator interviews with confidence.
 
+Law and criminal justice are vital components of any functioning society. They provide a framework for maintaining order, ensuring fairness, and protecting individual rights. Within this field, paralegals play a crucial role in supporting attorneys by conducting legal research, drafting documents, and organizing case files. Their expertise helps to streamline the legal process and ensure that clients receive the utmost care and representation. On the other hand, mediators are skilled professionals who facilitate peaceful resolutions in conflicts and disputes. They act as neutral third parties, helping parties involved reach mutually agreeable solutions outside of court. Mediators foster communication, negotiation, and compromise, ultimately promoting justice and harmony in society.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Mediator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Mediator interviews to help you prepare and succeed.

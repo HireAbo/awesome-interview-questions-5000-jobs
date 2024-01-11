@@ -2,6 +2,10 @@
 
 Welcome to the Environmental Microbiologist Interview Preparation ! This resource is designed to help you ace your Environmental Microbiologist interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on understanding and managing the interaction between agriculture, the environment, and human society. It encompasses various scientific disciplines, including biology, chemistry, ecology, and geology, to address the environmental challenges faced by the agricultural industry. 
+
+Within the realm of Environmental Science, Environmental Microbiologists play a crucial role in studying microorganisms and their impact on the environment. They investigate the microbial communities in soil, water, and air, and their interactions with plants, animals, and humans. Environmental Microbiologists also study the role of microorganisms in nutrient cycling, pollution mitigation, and disease prevention. Their work involves collecting samples, conducting laboratory analyses, and utilizing advanced technologies to understand microbial processes and develop sustainable solutions for environmental issues.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Microbiologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Microbiologist interviews to help you prepare and succeed.

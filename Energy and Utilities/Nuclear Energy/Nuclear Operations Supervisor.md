@@ -2,6 +2,8 @@
 
 Welcome to the Nuclear Operations Supervisor Interview Preparation ! This resource is designed to help you ace your Nuclear Operations Supervisor interviews with confidence.
 
+A Nuclear Operations Supervisor is a vital role within the field of Energy and Utilities, specifically in the area of Nuclear Energy. The job entails overseeing the operations and activities of a nuclear power plant, ensuring its safe and efficient functioning. The supervisor is responsible for managing a team of operators and technicians, ensuring compliance with strict safety protocols and regulatory requirements. They monitor the performance of nuclear reactors, implement preventive maintenance procedures, and troubleshoot any issues that may arise. This role requires extensive knowledge of nuclear physics, reactor operations, and emergency response procedures. A Nuclear Operations Supervisor plays a critical role in ensuring the reliable and secure production of nuclear energy.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nuclear Operations Supervisor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nuclear Operations Supervisor interviews to help you prepare and succeed.

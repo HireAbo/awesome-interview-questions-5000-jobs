@@ -2,6 +2,8 @@
 
 Welcome to the International Aid Worker Interview Preparation ! This resource is designed to help you ace your International Aid Worker interviews with confidence.
 
+The field of Social Sciences encompasses various sub-disciplines, including Sociology, which seeks to understand societies and human behavior within them. Within Sociology, the role of an International Aid Worker is a critical one. International Aid Workers are professionals who work in the humanitarian sector, providing assistance and support to communities affected by disasters, conflicts, or poverty in different parts of the world. They collaborate with international organizations, governments, and local communities to address pressing social issues, such as healthcare, education, food security, and human rights. By working directly with those in need, International Aid Workers strive to create positive social change, promote equality, and alleviate suffering on a global scale.
+
 ## 🚀 Overview
 
 Whether you're a seasoned International Aid Worker or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in International Aid Worker interviews to help you prepare and succeed.

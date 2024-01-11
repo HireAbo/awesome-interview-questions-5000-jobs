@@ -2,6 +2,8 @@
 
 Welcome to the News Director Interview Preparation ! This resource is designed to help you ace your News Director interviews with confidence.
 
+A News Director plays a crucial role in the field of journalism as they oversee the entire newsroom operations, ensuring the delivery of accurate, timely, and engaging news content to the public. As a key decision-maker, the News Director collaborates with journalists and reporters to develop story ideas, assign tasks, and maintain high editorial standards. They are responsible for managing budgetary constraints, organizing news coverage, and coordinating with other departments within a media organization. Additionally, the News Director stays updated on current events and industry trends, while also monitoring audience feedback to continuously improve the quality and relevance of news broadcasts.
+
 ## 🚀 Overview
 
 Whether you're a seasoned News Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in News Director interviews to help you prepare and succeed.

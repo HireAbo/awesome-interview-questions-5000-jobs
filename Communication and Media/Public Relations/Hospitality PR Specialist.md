@@ -2,6 +2,8 @@
 
 Welcome to the Hospitality PR Specialist Interview Preparation ! This resource is designed to help you ace your Hospitality PR Specialist interviews with confidence.
 
+A Hospitality PR Specialist is a professional who specializes in managing communication and media relations for the hospitality industry. They are responsible for creating and implementing strategic public relations campaigns to promote hotels, resorts, restaurants, and other hospitality establishments. These specialists work closely with clients to understand their goals and develop effective communication strategies that enhance their reputation and brand image. They are skilled in building relationships with key media outlets, arranging press conferences and events, and crafting compelling press releases and media kits. Hospitality PR Specialists have a strong understanding of the industry and possess excellent communication, writing, and interpersonal skills.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Hospitality PR Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Hospitality PR Specialist interviews to help you prepare and succeed.

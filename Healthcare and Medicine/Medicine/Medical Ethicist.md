@@ -2,6 +2,8 @@
 
 Welcome to the Medical Ethicist Interview Preparation ! This resource is designed to help you ace your Medical Ethicist interviews with confidence.
 
+A Medical Ethicist is a professional who plays a critical role at the intersection of healthcare and ethics. They are responsible for addressing and resolving complex ethical dilemmas that arise in the field of medicine. Medical Ethicists work closely with healthcare providers, patients, and families to ensure that medical decisions and practices align with ethical principles and standards. They provide guidance on a wide range of issues, such as end-of-life care, patient autonomy, resource allocation, and research ethics. Additionally, they may participate in policy development, education, and research related to medical ethics. Medical Ethicists serve as advocates for ethical practices, ultimately striving to protect patient rights and promote the highest standards of care.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Medical Ethicist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Medical Ethicist interviews to help you prepare and succeed.

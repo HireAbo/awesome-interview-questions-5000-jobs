@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife Manager Interview Preparation ! This resource is designed to help you ace your Wildlife Manager interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that explores the relationship between humans and the environment, with a focus on sustainable practices. Within this field, Wildlife Conservation is crucial in preserving the earth's biodiversity and maintaining ecosystems. Wildlife Managers play a vital role in this conservation effort. They work to protect and manage wildlife populations, ensuring the balance between the needs of wildlife and human activities. A Wildlife Manager's responsibilities include monitoring wildlife populations, implementing conservation strategies, managing habitats, and conducting research. Their work is essential in safeguarding endangered species, preserving natural habitats, and promoting sustainable practices for a harmonious coexistence between humans and wildlife.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Manager interviews to help you prepare and succeed.

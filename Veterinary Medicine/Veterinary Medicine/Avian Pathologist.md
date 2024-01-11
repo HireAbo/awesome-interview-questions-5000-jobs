@@ -2,6 +2,8 @@
 
 Welcome to the Avian Pathologist Interview Preparation ! This resource is designed to help you ace your Avian Pathologist interviews with confidence.
 
+Avian Pathologists play a vital role in the field of Veterinary Medicine, specifically in the realm of avian health. These professionals specialize in diagnosing, preventing, and treating diseases that affect birds, ranging from domesticated poultry to wild avian species. With a deep understanding of avian anatomy, physiology, and pathology, Avian Pathologists are equipped to conduct thorough examinations, laboratory tests, and autopsies to identify and understand avian diseases. They also contribute to the development of vaccines, medications, and preventive measures to control and manage avian health issues. Avian Pathologists work in various settings, including research institutions, veterinary clinics, government agencies, and poultry farms, ensuring the well-being and health of avian populations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Avian Pathologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Avian Pathologist interviews to help you prepare and succeed.

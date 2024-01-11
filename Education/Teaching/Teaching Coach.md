@@ -2,6 +2,8 @@
 
 Welcome to the Teaching Coach Interview Preparation ! This resource is designed to help you ace your Teaching Coach interviews with confidence.
 
+A Teaching Coach is an educational professional who provides guidance, support, and mentorship to teachers. They play a crucial role in improving teaching practices and student learning outcomes. Teaching Coaches work closely with teachers to help them develop effective instructional strategies, classroom management techniques, and assessment methods. They observe lessons, provide constructive feedback, and offer personalized training sessions to enhance teachers' skills and knowledge. Additionally, Teaching Coaches collaborate with school administrators to design professional development programs and facilitate workshops. They stay updated with the latest educational research and best practices to ensure teachers are equipped with the necessary tools to create an engaging and successful learning environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Teaching Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Teaching Coach interviews to help you prepare and succeed.

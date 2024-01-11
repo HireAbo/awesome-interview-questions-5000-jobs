@@ -2,6 +2,8 @@
 
 Welcome to the Media Relations Specialist Interview Preparation ! This resource is designed to help you ace your Media Relations Specialist interviews with confidence.
 
+A Media Relations Specialist is a skilled professional responsible for managing an organization's relationship with the media. They play a crucial role in shaping and maintaining a positive public image for their clients or employers. These specialists are experts in crafting effective media strategies, creating press releases, organizing press conferences, and building strong relationships with journalists, reporters, and editors. They act as a liaison between the organization and the media, ensuring that accurate and timely information is disseminated to the public. With strong communication skills, crisis management expertise, and a deep understanding of media platforms, Media Relations Specialists play a pivotal role in shaping public opinion and managing reputations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Media Relations Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Media Relations Specialist interviews to help you prepare and succeed.

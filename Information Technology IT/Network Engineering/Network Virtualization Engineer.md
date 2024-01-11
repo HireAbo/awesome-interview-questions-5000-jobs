@@ -2,6 +2,8 @@
 
 Welcome to the Network Virtualization Engineer Interview Preparation ! This resource is designed to help you ace your Network Virtualization Engineer interviews with confidence.
 
+A Network Virtualization Engineer, within the field of Information Technology (IT) and Network Engineering, is responsible for designing, implementing, and managing virtualized network environments. These professionals play a crucial role in optimizing network performance and efficiency by creating virtual networks that operate independently of physical infrastructure. They work closely with network architects to develop strategies for network virtualization, integrating virtual machines, networks, and storage resources. Network Virtualization Engineers also ensure the security and reliability of virtual network environments, monitor and troubleshoot network issues, and provide technical support to internal teams and clients. Their expertise in virtualization technologies and knowledge of network protocols make them invaluable assets in the IT industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Network Virtualization Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Network Virtualization Engineer interviews to help you prepare and succeed.

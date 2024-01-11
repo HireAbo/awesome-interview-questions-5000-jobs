@@ -2,6 +2,8 @@
 
 Welcome to the City Manager Interview Preparation ! This resource is designed to help you ace your City Manager interviews with confidence.
 
+Government and Public Service encompasses a wide range of roles and responsibilities aimed at serving the public and ensuring the smooth functioning of society. One key aspect of this field is Public Administration, which focuses on managing public resources, implementing policies, and overseeing government operations. Within Public Administration, the role of a City Manager holds great significance. A City Manager is a top-level executive appointed by the city council or mayor, responsible for overseeing the day-to-day operations of a city. They work closely with elected officials, department heads, and community stakeholders to develop and implement policies, manage budgets, coordinate services, and address the needs of the community. With their expertise in public administration, City Managers play a crucial role in maintaining the efficiency, transparency, and effectiveness of local government.
+
 ## 🚀 Overview
 
 Whether you're a seasoned City Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in City Manager interviews to help you prepare and succeed.

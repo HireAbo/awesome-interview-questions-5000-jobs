@@ -2,6 +2,8 @@
 
 Welcome to the Cloud Technical Trainer Interview Preparation ! This resource is designed to help you ace your Cloud Technical Trainer interviews with confidence.
 
+A Cloud Technical Trainer is responsible for providing training and education on the concepts and implementation of cloud computing within the field of Information Technology (IT). This job role requires a deep understanding of cloud computing technologies, such as virtualization, storage, networking, and security. The trainer must possess strong technical knowledge and the ability to effectively communicate complex concepts to diverse audiences. They design and deliver training programs that cover topics like cloud architecture, deployment models, and cloud service providers. Cloud Technical Trainers play a crucial role in helping organizations and individuals adopt and utilize cloud computing to enhance their IT infrastructure and optimize business operations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cloud Technical Trainer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cloud Technical Trainer interviews to help you prepare and succeed.

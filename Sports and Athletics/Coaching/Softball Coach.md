@@ -2,6 +2,8 @@
 
 Welcome to the Softball Coach Interview Preparation ! This resource is designed to help you ace your Softball Coach interviews with confidence.
 
+A softball coach plays a vital role in the development and success of a team. As a coach, their primary responsibility is to guide and train athletes in the sport of softball. They create practice plans, teach fundamental skills, and strategize game plans to enhance the team's performance. Additionally, a softball coach emphasizes teamwork, sportsmanship, and discipline. They provide constructive feedback and motivate players to reach their full potential. A coach also ensures the safety of the athletes and maintains a positive and supportive environment. Overall, a softball coach plays a crucial role in fostering a love for the sport and helping athletes achieve their goals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Softball Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Softball Coach interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Lobbyist Interview Preparation ! This resource is designed to help you ace your Lobbyist interviews with confidence.
 
+A lobbyist is a professional who engages in advocacy and acts as an intermediary between interest groups and policymakers to influence government decisions. They are an integral part of the political landscape and play a crucial role in shaping public policy. Lobbyists employ various strategies, such as conducting research, building relationships with legislators, organizing grassroots campaigns, and providing expert advice to their clients. They represent a diverse range of interests, including corporations, non-profit organizations, labor unions, and professional associations. The job of a lobbyist requires strong communication, negotiation, and analytical skills, as well as a deep understanding of the political process and the ability to navigate complex policy issues.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Lobbyist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Lobbyist interviews to help you prepare and succeed.

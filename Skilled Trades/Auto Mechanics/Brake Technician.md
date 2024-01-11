@@ -2,6 +2,8 @@
 
 Welcome to the Brake Technician Interview Preparation ! This resource is designed to help you ace your Brake Technician interviews with confidence.
 
+A Brake Technician within the field of Auto Mechanics is a skilled tradesperson specializing in the maintenance and repair of braking systems in vehicles. These professionals play a crucial role in ensuring the safety and optimal performance of automobiles. Brake Technicians possess a deep understanding of various braking systems, including hydraulic, mechanical, and electronic components. They are proficient in diagnosing issues, conducting inspections, and executing repairs or replacements on brake pads, rotors, calipers, and other related parts. Additionally, Brake Technicians are knowledgeable about industry regulations and safety standards, ensuring that all work is performed to the highest quality and in compliance with set guidelines.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Brake Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Brake Technician interviews to help you prepare and succeed.

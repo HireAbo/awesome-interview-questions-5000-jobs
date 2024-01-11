@@ -2,6 +2,8 @@
 
 Welcome to the Comparative Medicine Specialist Interview Preparation ! This resource is designed to help you ace your Comparative Medicine Specialist interviews with confidence.
 
+A Comparative Medicine Specialist in Veterinary Research is a highly skilled professional who plays a crucial role in advancing veterinary medicine. They specialize in studying and comparing diseases and disorders in animals and humans, with the goal of improving medical treatments and outcomes for both species. These specialists conduct extensive research to better understand the similarities and differences in diseases, genetics, and physiology between animals and humans. They collaborate with other veterinary professionals, scientists, and medical doctors to develop new therapies, diagnostic tools, and preventive measures. Their work helps bridge the gap between veterinary and human medicine, contributing to the overall advancement of healthcare for both animals and humans.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Comparative Medicine Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Comparative Medicine Specialist interviews to help you prepare and succeed.

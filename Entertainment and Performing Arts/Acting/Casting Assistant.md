@@ -2,6 +2,8 @@
 
 Welcome to the Casting Assistant Interview Preparation ! This resource is designed to help you ace your Casting Assistant interviews with confidence.
 
+A Casting Assistant in the field of entertainment and performing arts plays a crucial role in the casting process for various acting projects. Their primary responsibility is to assist the casting director in finding the most suitable actors for a production. This entails tasks such as reviewing and organizing actor submissions, scheduling auditions, coordinating callbacks, and facilitating communication between casting directors, agents, and actors. Casting Assistants also assist in conducting auditions, managing casting databases, and researching potential talent. This role requires strong organizational skills, attention to detail, and the ability to multitask in a fast-paced environment. A Casting Assistant contributes significantly to the success of a production by helping to assemble a talented and diverse cast.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Casting Assistant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Casting Assistant interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Criminal Law Paralegal Interview Preparation ! This resource is designed to help you ace your Criminal Law Paralegal interviews with confidence.
 
+A Criminal Law Paralegal is a professional who plays a crucial role in the legal system by assisting attorneys in criminal law cases. These paralegals specialize in criminal law and work closely with lawyers to provide support throughout the entire legal process. Their responsibilities may include conducting legal research, gathering evidence, preparing legal documents, interviewing witnesses, and assisting in trial preparation. Criminal Law Paralegals also help attorneys in organizing case files, maintaining communication with clients, and ensuring compliance with legal procedures. Their expertise and knowledge of criminal law make them invaluable assets to law firms and legal departments, contributing to the efficient and effective resolution of criminal cases.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Criminal Law Paralegal or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Criminal Law Paralegal interviews to help you prepare and succeed.

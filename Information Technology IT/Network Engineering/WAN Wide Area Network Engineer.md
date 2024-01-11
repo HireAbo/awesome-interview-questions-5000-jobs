@@ -2,6 +2,8 @@
 
 Welcome to the WAN (Wide Area Network) Engineer Interview Preparation ! This resource is designed to help you ace your WAN (Wide Area Network) Engineer interviews with confidence.
 
+A WAN (Wide Area Network) Engineer is a specialized role within the field of Information Technology (IT) Network Engineering. These professionals are responsible for designing, implementing, and maintaining wide area networks for organizations. They possess a deep understanding of networking protocols, technologies, and security measures required to connect multiple local area networks (LANs) across vast geographical areas. WAN Engineers develop strategic plans to optimize network performance, ensure high availability, and enhance the overall efficiency of data transmissions. They collaborate with cross-functional teams to troubleshoot network issues, identify bottlenecks, and implement effective solutions. WAN Engineers play a critical role in ensuring seamless communication and data exchange between remote locations, enabling organizations to operate efficiently on a global scale.
+
 ## 🚀 Overview
 
 Whether you're a seasoned WAN (Wide Area Network) Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in WAN (Wide Area Network) Engineer interviews to help you prepare and succeed.

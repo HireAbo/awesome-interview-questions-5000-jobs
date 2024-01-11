@@ -2,6 +2,8 @@
 
 Welcome to the Sustainable Agriculture Agri-entrepreneur Interview Preparation ! This resource is designed to help you ace your Sustainable Agriculture Agri-entrepreneur interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on the intersection between agriculture, the environment, and sustainable development. Sustainable Agriculture, as a subfield, aims to address the challenges faced by the agricultural sector while minimizing negative environmental impacts. Agri-entrepreneurs play a crucial role in sustainable agriculture by developing innovative and sustainable farming practices, technologies, and business models. Their job involves managing and implementing sustainable farming systems, promoting resource conservation, and ensuring profitability. Agri-entrepreneurs also contribute to food security, rural development, and the overall sustainability of agriculture by fostering efficient resource use, minimizing waste, and promoting biodiversity conservation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sustainable Agriculture Agri-entrepreneur or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sustainable Agriculture Agri-entrepreneur interviews to help you prepare and succeed.

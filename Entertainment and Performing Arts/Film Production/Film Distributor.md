@@ -2,6 +2,8 @@
 
 Welcome to the Film Distributor Interview Preparation ! This resource is designed to help you ace your Film Distributor interviews with confidence.
 
+A film distributor plays a crucial role in the entertainment and performing arts industry, specifically in film production. Their main responsibility is to ensure that a film reaches its target audience and generates maximum revenue. Film distributors act as intermediaries between filmmakers and theaters, negotiating distribution agreements and organizing the release of films in various formats such as theaters, DVD, streaming platforms, and television. They handle marketing strategies, advertising campaigns, and coordinate the logistics of film releases. Film distributors also analyze market trends, conduct research on audience preferences, and make strategic decisions to maximize a film's commercial success. Their expertise and knowledge of the industry contribute significantly to the overall success of a film.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Film Distributor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Film Distributor interviews to help you prepare and succeed.

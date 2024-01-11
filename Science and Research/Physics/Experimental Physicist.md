@@ -2,6 +2,8 @@
 
 Welcome to the Experimental Physicist Interview Preparation ! This resource is designed to help you ace your Experimental Physicist interviews with confidence.
 
+An Experimental Physicist is a professional who specializes in conducting scientific experiments within the field of physics. They play a crucial role in advancing scientific knowledge and understanding by designing, setting up, and executing experiments to test various theories and hypotheses. These experiments often involve the use of sophisticated equipment and instrumentation. Experimental Physicists are responsible for collecting and analyzing data, interpreting results, and drawing conclusions. They may work in a wide range of industries, including academia, government research laboratories, and private companies. Their work contributes to the development of new technologies, the exploration of fundamental laws of nature, and the advancement of society as a whole.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Experimental Physicist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Experimental Physicist interviews to help you prepare and succeed.

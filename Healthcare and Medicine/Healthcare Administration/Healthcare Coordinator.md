@@ -2,6 +2,8 @@
 
 Welcome to the Healthcare Coordinator Interview Preparation ! This resource is designed to help you ace your Healthcare Coordinator interviews with confidence.
 
+Healthcare and Medicine are essential sectors that aim to provide quality healthcare services to individuals. Within this vast field, Healthcare Administration plays a crucial role in managing and coordinating various aspects of healthcare delivery. A Healthcare Coordinator job is a key position in healthcare administration, responsible for ensuring the smooth functioning of healthcare facilities and services. They oversee and coordinate patient care activities, manage schedules, and collaborate with healthcare professionals to optimize efficiency and patient outcomes. Healthcare Coordinators also act as a liaison between patients, healthcare providers, and insurance companies, ensuring accurate billing, efficient communication, and adherence to healthcare regulations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Healthcare Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Healthcare Coordinator interviews to help you prepare and succeed.

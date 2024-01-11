@@ -2,6 +2,8 @@
 
 Welcome to the Best Boy Interview Preparation ! This resource is designed to help you ace your Best Boy interviews with confidence.
 
+The Best Boy job in film production is a crucial role responsible for assisting the gaffer and key grip in managing the electrical and grip departments respectively. This position requires a deep understanding of the technical aspects of lighting and rigging, as well as excellent organizational and communication skills. The Best Boy collaborates closely with the director of photography and production designer to ensure the smooth execution of lighting setups and equipment placement on set. They are also responsible for the hiring and supervision of the electricians and grips, ensuring the safety and efficiency of the production process. The Best Boy plays a vital role in bringing the director's vision to life on screen.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Best Boy or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Best Boy interviews to help you prepare and succeed.

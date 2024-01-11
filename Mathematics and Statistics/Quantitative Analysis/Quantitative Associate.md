@@ -2,6 +2,8 @@
 
 Welcome to the Quantitative Associate Interview Preparation ! This resource is designed to help you ace your Quantitative Associate interviews with confidence.
 
+A quantitative associate is a professional who specializes in applying mathematical and statistical principles to analyze and interpret data. They play a crucial role in various industries, such as finance, economics, and market research, where data-driven decision-making is essential. Quantitative associates are responsible for designing and implementing statistical models, performing data analysis, and developing mathematical algorithms to solve complex problems. They use their expertise in mathematics and statistics to identify patterns, trends, and correlations in large datasets, ultimately providing insights and recommendations to support strategic decision-making. A strong foundation in mathematics, programming, and statistical software is necessary for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Quantitative Associate or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Quantitative Associate interviews to help you prepare and succeed.

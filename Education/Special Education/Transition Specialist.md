@@ -2,6 +2,8 @@
 
 Welcome to the Transition Specialist Interview Preparation ! This resource is designed to help you ace your Transition Specialist interviews with confidence.
 
+A Transition Specialist in the field of Special Education plays a crucial role in assisting students with disabilities to successfully transition from school to post-school life. These professionals work closely with students, their families, teachers, and community agencies to develop and implement transition plans that address the unique needs and goals of each student. They collaborate with various stakeholders to provide support and guidance in areas such as career exploration, vocational training, independent living skills, and post-secondary education opportunities. Transition Specialists also advocate for students' rights and ensure that they have access to the necessary resources and services to achieve their desired outcomes and lead fulfilling lives after graduation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Transition Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Transition Specialist interviews to help you prepare and succeed.

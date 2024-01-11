@@ -2,6 +2,8 @@
 
 Welcome to the Forensic Computer Analyst Interview Preparation ! This resource is designed to help you ace your Forensic Computer Analyst interviews with confidence.
 
+A forensic computer analyst plays a crucial role in the field of forensic science within the realm of law and criminal justice. This specialized job involves the examination and analysis of digital evidence to aid in criminal investigations. As technology continues to advance, criminals are increasingly utilizing computers and digital devices to carry out illegal activities. A forensic computer analyst is responsible for recovering, preserving, and analyzing data from various digital sources, including computers, smartphones, and networks. Their expertise allows them to uncover digital evidence, such as deleted files, encrypted data, and online communications, which can be vital in solving crimes and providing crucial evidence for court proceedings.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forensic Computer Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forensic Computer Analyst interviews to help you prepare and succeed.

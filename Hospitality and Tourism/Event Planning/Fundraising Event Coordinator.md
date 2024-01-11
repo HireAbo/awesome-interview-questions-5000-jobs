@@ -2,6 +2,8 @@
 
 Welcome to the Fundraising Event Coordinator Interview Preparation ! This resource is designed to help you ace your Fundraising Event Coordinator interviews with confidence.
 
+The role of a Fundraising Event Coordinator within the field of Hospitality and Tourism Event Planning is both dynamic and crucial. As a Fundraising Event Coordinator, you will be responsible for planning and executing events that aim to raise funds for charitable causes or non-profit organizations. This role requires exceptional organizational skills, as you will be responsible for managing various aspects of the event, such as budgeting, logistics, and marketing. Additionally, you will work closely with vendors, sponsors, and volunteers to ensure the success of the event. Excellent communication and interpersonal skills are essential for building relationships and securing sponsorships. A passion for philanthropy and the ability to work under pressure are also key attributes for this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Fundraising Event Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Fundraising Event Coordinator interviews to help you prepare and succeed.

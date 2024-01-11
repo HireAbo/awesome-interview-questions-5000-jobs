@@ -2,6 +2,8 @@
 
 Welcome to the Food Process Engineer Interview Preparation ! This resource is designed to help you ace your Food Process Engineer interviews with confidence.
 
+A Food Process Engineer is an expert in the field of Chemical Engineering, specializing in the design and optimization of food production processes. They play a crucial role in ensuring the safe and efficient production of food products. Food Process Engineers are responsible for developing innovative and sustainable manufacturing methods, improving product quality, and maximizing productivity. They work closely with other engineers, food scientists, and technicians to develop and implement new technologies, equipment, and processes. Additionally, they are involved in quality control and assurance, ensuring compliance with food safety regulations and standards. A Food Process Engineer possesses strong analytical, problem-solving, and communication skills, along with a deep understanding of food processing principles and techniques.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Food Process Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Food Process Engineer interviews to help you prepare and succeed.

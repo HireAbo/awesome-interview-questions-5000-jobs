@@ -2,6 +2,8 @@
 
 Welcome to the Political Scientist Interview Preparation ! This resource is designed to help you ace your Political Scientist interviews with confidence.
 
+A Political Scientist is a professional who specializes in the study of political systems, governments, and political behavior. They explore the complex dynamics of power, decision-making, and governance, analyzing the interactions between different actors and institutions within society. Political scientists conduct research, collect and analyze data, and develop theories to understand and explain political phenomena. They often focus on specific areas such as international relations, comparative politics, or public policy. Their expertise is valuable in shaping public opinion, advising policymakers, and providing insights into political processes. Political scientists may work in academia, research institutions, think tanks, government agencies, or as consultants, contributing to the development and implementation of effective and informed political strategies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Political Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Political Scientist interviews to help you prepare and succeed.

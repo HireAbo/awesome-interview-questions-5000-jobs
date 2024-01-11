@@ -2,6 +2,8 @@
 
 Welcome to the Wind Energy Engineer Interview Preparation ! This resource is designed to help you ace your Wind Energy Engineer interviews with confidence.
 
+A Wind Energy Engineer is a specialized civil engineer who focuses on designing, developing, and implementing wind energy systems. These professionals play a critical role in the renewable energy sector, as they are responsible for harnessing the power of wind to generate electricity. Wind Energy Engineers work on various aspects, including site selection, turbine design, structural analysis, and power transmission. They collaborate with multidisciplinary teams to ensure the efficient and sustainable utilization of wind resources. Additionally, Wind Energy Engineers conduct feasibility studies, perform data analysis, and optimize the performance of wind farms. Their work contributes to reducing carbon emissions and promoting a greener and more sustainable future.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wind Energy Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wind Energy Engineer interviews to help you prepare and succeed.

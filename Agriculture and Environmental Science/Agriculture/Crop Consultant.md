@@ -2,6 +2,8 @@
 
 Welcome to the Crop Consultant Interview Preparation ! This resource is designed to help you ace your Crop Consultant interviews with confidence.
 
+Agriculture is a vital industry that involves the cultivation of plants and the rearing of animals for food, fiber, medicinal plants, and other products used to sustain and enhance human life. Environmental science, on the other hand, is a multidisciplinary field that focuses on understanding the interactions between humans and the environment. Within the realm of agriculture, a crop consultant plays a crucial role in advising farmers on how to improve crop production and manage pests and diseases sustainably. They utilize their expertise in plant biology, soil science, and pest management to recommend appropriate strategies for maximizing yields while minimizing environmental impacts. Crop consultants are essential in ensuring sustainable agricultural practices and contributing to food security.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Crop Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Crop Consultant interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Quantitative Developer Interview Preparation ! This resource is designed to help you ace your Quantitative Developer interviews with confidence.
 
+A Quantitative Developer is a professional who specializes in applying mathematical and statistical methods to analyze and solve complex problems in various industries such as finance, economics, and technology. They work closely with quantitative analysts and traders to develop and implement mathematical models and algorithms for data analysis and forecasting. This role requires a strong background in mathematics and statistics, as well as proficiency in programming languages like Python or R. Quantitative Developers are responsible for designing and optimizing trading strategies, building risk management systems, and creating mathematical models that help organizations make informed decisions based on data-driven insights.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Quantitative Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Quantitative Developer interviews to help you prepare and succeed.

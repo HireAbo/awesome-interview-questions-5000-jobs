@@ -2,6 +2,8 @@
 
 Welcome to the Art Therapist Interview Preparation ! This resource is designed to help you ace your Art Therapist interviews with confidence.
 
+An art therapist is a professional in the field of psychology who utilizes art as a form of therapy to help individuals express themselves, explore their emotions, and improve their mental well-being. As a specialized branch of psychology, art therapy combines the principles of psychotherapy with the creative process of art-making. Art therapists work with a diverse range of clients, including children, adolescents, adults, and elderly individuals, who may be experiencing various mental health issues, trauma, or developmental disabilities. They facilitate the use of various art mediums, such as painting, drawing, sculpture, and collage, to help clients communicate, develop coping skills, enhance self-awareness, and promote personal growth.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Art Therapist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Art Therapist interviews to help you prepare and succeed.

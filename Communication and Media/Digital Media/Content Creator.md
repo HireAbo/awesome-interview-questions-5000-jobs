@@ -2,6 +2,8 @@
 
 Welcome to the Content Creator Interview Preparation ! This resource is designed to help you ace your Content Creator interviews with confidence.
 
+A Content Creator is a professional responsible for producing engaging and informative digital media content across various platforms. They play a crucial role in the field of Communication and Media, specifically in the realm of Digital Media. Content Creators utilize their creativity and technical skills to develop compelling written, visual, and audio content that resonates with target audiences. They often collaborate with marketing teams, subject matter experts, and designers to create content that aligns with brand messaging and goals. Whether it's crafting blog posts, designing graphics, filming videos, or recording podcasts, Content Creators are adept at utilizing digital tools and platforms to effectively communicate messages and engage audiences in the ever-evolving digital landscape.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Content Creator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Content Creator interviews to help you prepare and succeed.

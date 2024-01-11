@@ -2,6 +2,8 @@
 
 Welcome to the Travel Advisor Interview Preparation ! This resource is designed to help you ace your Travel Advisor interviews with confidence.
 
+A Travel Advisor plays a crucial role in the hospitality and tourism industry by providing expert guidance and personalized recommendations to clients seeking travel services. As a highly knowledgeable professional, they assist individuals and groups in planning and booking their travel itineraries, including flights, accommodations, transportation, and activities. Travel Advisors possess excellent communication and customer service skills, as they interact directly with clients to understand their preferences, needs, and budget constraints. They leverage their extensive knowledge of various destinations, attractions, and travel trends to create unforgettable and tailored experiences. Additionally, Travel Advisors stay updated with industry regulations, travel advisories, and safety protocols to ensure the highest level of customer satisfaction and a smooth travel experience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Travel Advisor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Travel Advisor interviews to help you prepare and succeed.

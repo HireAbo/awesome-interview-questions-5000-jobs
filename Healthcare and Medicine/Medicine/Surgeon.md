@@ -2,6 +2,8 @@
 
 Welcome to the Surgeon Interview Preparation ! This resource is designed to help you ace your Surgeon interviews with confidence.
 
+A Surgeon is a highly skilled medical professional specializing in surgical procedures to diagnose, treat, and prevent diseases, injuries, or deformities. They play a critical role in healthcare and medicine by using their expertise to perform surgeries in various medical fields, including general surgery, orthopedics, neurosurgery, cardiovascular surgery, and more. Surgeons work in hospitals, clinics, and surgical centers, collaborating closely with other healthcare professionals to provide optimal patient care. They assess patients, recommend surgical options, and perform surgeries using advanced medical equipment and techniques. Surgeons must possess excellent manual dexterity, critical thinking skills, and the ability to handle high-pressure situations while ensuring patient safety and positive surgical outcomes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Surgeon or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Surgeon interviews to help you prepare and succeed.

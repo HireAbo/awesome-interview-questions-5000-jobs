@@ -2,6 +2,8 @@
 
 Welcome to the Flight Operations Manager Interview Preparation ! This resource is designed to help you ace your Flight Operations Manager interviews with confidence.
 
+The Flight Operations Manager plays a crucial role in the field of aviation management within transportation and logistics. They are responsible for overseeing and coordinating all aspects of flight operations, ensuring the safe and efficient movement of aircraft and personnel. Their primary duties include managing flight schedules, organizing crew assignments, and overseeing flight planning and execution. Additionally, Flight Operations Managers are responsible for monitoring and complying with aviation regulations, implementing safety protocols, and maintaining effective communication with various stakeholders including pilots, air traffic controllers, and ground staff. This job requires excellent leadership skills, strong decision-making abilities, and a thorough understanding of aviation operations and regulations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Flight Operations Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Flight Operations Manager interviews to help you prepare and succeed.

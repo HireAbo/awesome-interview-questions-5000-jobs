@@ -2,6 +2,8 @@
 
 Welcome to the Pollster Interview Preparation ! This resource is designed to help you ace your Pollster interviews with confidence.
 
+A pollster is a professional who plays a crucial role in the field of political science within the broader realm of social sciences. As experts in data collection and analysis, pollsters are responsible for conducting surveys and gathering valuable information about public opinion on political issues. They design questionnaires, administer interviews, and utilize various methodologies to capture accurate data. By interpreting the gathered information, pollsters provide politicians, policymakers, and political organizations with insights into public sentiment, helping them make informed decisions and develop effective strategies. Their work greatly influences political campaigns, policy shaping, and public discourse, making pollsters indispensable in understanding and shaping the dynamics of political landscapes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Pollster or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Pollster interviews to help you prepare and succeed.

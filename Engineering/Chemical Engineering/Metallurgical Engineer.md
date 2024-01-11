@@ -2,6 +2,12 @@
 
 Welcome to the Metallurgical Engineer Interview Preparation ! This resource is designed to help you ace your Metallurgical Engineer interviews with confidence.
 
+A Metallurgical Engineer specializes in the study of metals and their properties to design, develop, and improve metal products and processes. They work in the field of Chemical Engineering, which is a branch of engineering that applies principles of chemistry, physics, and mathematics to solve problems related to the production and use of chemicals and materials.
+
+Metallurgical Engineers play a crucial role in industries such as manufacturing, mining, and materials science. They are responsible for analyzing and testing metals to determine their quality and suitability for specific applications. They also develop and implement procedures for extracting metals from ores, refining them, and shaping them into various products. Additionally, Metallurgical Engineers are involved in research and development to discover innovative techniques and materials that enhance the strength, durability, and performance of metal products.
+
+Overall, the job of a Metallurgical Engineer requires a strong understanding of chemistry, physics, and materials science, combined with excellent analytical and problem-solving skills. They contribute to the advancement of various industries by ensuring the quality and efficiency of metal products and processes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Metallurgical Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Metallurgical Engineer interviews to help you prepare and succeed.

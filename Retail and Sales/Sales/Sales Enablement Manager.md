@@ -2,6 +2,8 @@
 
 Welcome to the Sales Enablement Manager Interview Preparation ! This resource is designed to help you ace your Sales Enablement Manager interviews with confidence.
 
+A Sales Enablement Manager plays a crucial role in the retail and sales industry by optimizing the effectiveness and efficiency of the sales team. As a Sales Enablement Manager, you are responsible for providing the sales team with the necessary tools, resources, and training to enhance their performance and achieve their sales targets. This involves developing and implementing sales strategies, creating training programs, and ensuring the alignment between marketing and sales efforts. You will also be responsible for analyzing sales data, identifying areas for improvement, and providing coaching and guidance to the sales team. Overall, a Sales Enablement Manager plays a pivotal role in driving sales growth and maximizing revenue for the organization.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sales Enablement Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sales Enablement Manager interviews to help you prepare and succeed.

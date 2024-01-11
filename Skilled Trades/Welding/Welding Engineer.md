@@ -2,6 +2,12 @@
 
 Welcome to the Welding Engineer Interview Preparation ! This resource is designed to help you ace your Welding Engineer interviews with confidence.
 
+A Welding Engineer is a highly skilled professional who specializes in the field of welding. They are responsible for designing, implementing, and overseeing welding processes and procedures in various industries. These experts possess a strong understanding of metallurgy and materials science, ensuring that welds are of high quality and meet the required standards.
+
+Welding Engineers collaborate with other professionals, such as designers and fabricators, to determine the most suitable welding techniques and equipment for specific projects. They also conduct inspections and tests to ensure the integrity and durability of welded structures. Additionally, they may provide guidance on safety measures and train personnel on proper welding practices.
+
+A career as a Welding Engineer offers excellent opportunities for growth and advancement in industries such as manufacturing, construction, aerospace, and automotive.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Welding Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Welding Engineer interviews to help you prepare and succeed.

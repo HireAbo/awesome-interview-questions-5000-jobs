@@ -2,6 +2,8 @@
 
 Welcome to the Mathematics Software Engineer Interview Preparation ! This resource is designed to help you ace your Mathematics Software Engineer interviews with confidence.
 
+A Mathematics Software Engineer is a professional who combines their expertise in mathematics with programming skills to develop and maintain software applications related to mathematical concepts and calculations. They play a crucial role in designing algorithms, creating mathematical models, and implementing mathematical functions in software systems. Mathematics Software Engineers often work in collaboration with mathematicians, statisticians, and software developers to ensure the accuracy and efficiency of mathematical computations. Their responsibilities may also include testing and debugging software, optimizing algorithms, and staying updated with the latest advancements in mathematics and software engineering. This job requires a strong background in mathematics, proficiency in programming languages, problem-solving abilities, and attention to detail.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Mathematics Software Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Mathematics Software Engineer interviews to help you prepare and succeed.

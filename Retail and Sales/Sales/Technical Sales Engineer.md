@@ -2,6 +2,8 @@
 
 Welcome to the Technical Sales Engineer Interview Preparation ! This resource is designed to help you ace your Technical Sales Engineer interviews with confidence.
 
+A Technical Sales Engineer is a specialized role within the field of sales that focuses on selling technical products or services to customers. As a Technical Sales Engineer, your main responsibility is to effectively communicate the technical aspects of the product or service to potential clients and demonstrate how it can meet their specific needs. This requires a strong understanding of the product's features, functions, and benefits, as well as the ability to effectively articulate these to customers. Additionally, Technical Sales Engineers often work closely with the sales team to provide technical support and guidance throughout the sales process. This role requires a combination of technical expertise, sales skills, and excellent communication abilities to successfully drive sales and build long-term customer relationships.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Technical Sales Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Technical Sales Engineer interviews to help you prepare and succeed.

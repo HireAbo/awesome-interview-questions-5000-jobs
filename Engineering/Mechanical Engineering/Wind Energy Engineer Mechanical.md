@@ -2,6 +2,8 @@
 
 Welcome to the Wind Energy Engineer (Mechanical) Interview Preparation ! This resource is designed to help you ace your Wind Energy Engineer (Mechanical) interviews with confidence.
 
+A Wind Energy Engineer (Mechanical) is a professional who specializes in the design, development, and maintenance of wind energy systems. They play a crucial role in the renewable energy sector, focusing on harnessing the power of wind to generate electricity. Wind Energy Engineers utilize their mechanical engineering skills to design and optimize wind turbines, ensuring efficient energy conversion and maximizing overall performance. They are involved in various aspects, including site selection, turbine manufacturing, installation, and ongoing monitoring and maintenance. Their expertise also extends to conducting research, analyzing data, and implementing innovative solutions to enhance wind energy technology. Wind Energy Engineers are at the forefront of the transition towards sustainable and clean energy sources, contributing significantly to reducing our reliance on fossil fuels.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wind Energy Engineer (Mechanical) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wind Energy Engineer (Mechanical) interviews to help you prepare and succeed.

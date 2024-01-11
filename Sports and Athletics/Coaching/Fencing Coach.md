@@ -2,6 +2,8 @@
 
 Welcome to the Fencing Coach Interview Preparation ! This resource is designed to help you ace your Fencing Coach interviews with confidence.
 
+A Fencing Coach plays a vital role in guiding and training athletes in the sport of fencing. As a Fencing Coach, you will be responsible for imparting knowledge of various fencing techniques, rules, and strategies to athletes. Your main objective is to improve their skills, develop their physical strength, and enhance their overall performance. This includes designing training programs, organizing practice sessions, and providing individualized coaching to address the specific needs of each athlete. Additionally, you will also be responsible for monitoring their progress, analyzing their performance, and providing feedback and guidance to help them achieve their goals in the competitive world of fencing.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Fencing Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Fencing Coach interviews to help you prepare and succeed.

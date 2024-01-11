@@ -2,6 +2,8 @@
 
 Welcome to the Comedic Actor Interview Preparation ! This resource is designed to help you ace your Comedic Actor interviews with confidence.
 
+A comedic actor is a professional performer who specializes in entertaining audiences through humor and comedic storytelling. They use their talent and skill to bring characters to life, utilizing various comedic techniques such as physical comedy, improvisation, and timing to create laughter and entertainment. Comedic actors often work in a variety of mediums, including theater, film, television, and stand-up comedy. They may perform in comedic plays, sitcoms, sketch comedy shows, or even create their own comedic content for platforms like YouTube. With a keen sense of comic timing and the ability to connect with audiences, comedic actors play a vital role in providing laughter and joy to people's lives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Comedic Actor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Comedic Actor interviews to help you prepare and succeed.

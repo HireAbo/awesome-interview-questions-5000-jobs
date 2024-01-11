@@ -2,6 +2,8 @@
 
 Welcome to the City Administrator Interview Preparation ! This resource is designed to help you ace your City Administrator interviews with confidence.
 
+The role of Government and Public Service is vital in ensuring the smooth functioning and development of a society. Within this domain, Public Administration plays a crucial role in managing and implementing government policies and programs. One such important position within Public Administration is that of a City Administrator. A City Administrator is responsible for overseeing the day-to-day operations of a city, coordinating various departments, and ensuring efficient delivery of public services to residents. They work closely with elected officials, community leaders, and stakeholders to develop and implement strategies that promote economic growth, enhance quality of life, and address the needs of the city's diverse population. A City Administrator plays a pivotal role in fostering good governance and serving as a bridge between citizens and the government.
+
 ## 🚀 Overview
 
 Whether you're a seasoned City Administrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in City Administrator interviews to help you prepare and succeed.

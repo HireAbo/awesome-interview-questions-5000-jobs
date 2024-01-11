@@ -2,6 +2,8 @@
 
 Welcome to the Film Promoter Interview Preparation ! This resource is designed to help you ace your Film Promoter interviews with confidence.
 
+A Film Promoter is a professional responsible for marketing and promoting films to a wide audience. They play a crucial role in the success of a film by creating strategic marketing campaigns that generate buzz and attract audiences. Film promoters work closely with film studios, directors, and production teams to develop effective promotional strategies. They utilize various media platforms, such as television, radio, social media, and print, to create awareness and generate interest in a film. They also organize press events, premieres, and film festivals to showcase the film and engage with industry professionals and the public. A film promoter must possess excellent communication, networking, and creativity skills to effectively promote and market films to diverse audiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Film Promoter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Film Promoter interviews to help you prepare and succeed.

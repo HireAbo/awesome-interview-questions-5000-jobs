@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife Landscape Planner Interview Preparation ! This resource is designed to help you ace your Wildlife Landscape Planner interviews with confidence.
 
+Agriculture and Environmental Science is a field that combines the study of land, plants, animals, and human interactions to ensure sustainable and responsible land management practices. In this context, Wildlife Conservation plays a crucial role in preserving and protecting the diversity of animal species and their habitats. As part of this field, a Wildlife Landscape Planner job involves designing and implementing strategies to improve and restore wildlife habitats. This includes assessing the ecological needs of various species, analyzing landscape patterns, and developing conservation plans that promote biodiversity. Wildlife Landscape Planners also collaborate with other professionals to ensure the integration of conservation measures into land development and management projects.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Landscape Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Landscape Planner interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Tourism Manager Interview Preparation ! This resource is designed to help you ace your Tourism Manager interviews with confidence.
 
+Hospitality and tourism are thriving industries that cater to the needs and desires of travelers, providing them with exceptional experiences and services. Tourism management encompasses various sectors such as hotels, restaurants, transportation, and attractions. A tourism manager plays a crucial role in overseeing and coordinating these operations, ensuring the smooth functioning of the business. They are responsible for planning and implementing marketing strategies, managing budgets, and supervising staff. Additionally, a tourism manager must have excellent communication and leadership skills to maintain positive relationships with clients and stakeholders. This dynamic profession demands a passion for travel, a keen eye for detail, and the ability to adapt to ever-changing market trends.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Tourism Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Tourism Manager interviews to help you prepare and succeed.

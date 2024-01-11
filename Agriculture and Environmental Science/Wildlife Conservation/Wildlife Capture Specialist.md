@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife Capture Specialist Interview Preparation ! This resource is designed to help you ace your Wildlife Capture Specialist interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on the sustainable management of natural resources and the impact of human activities on the environment. It encompasses various aspects, including wildlife conservation. Wildlife Conservation involves the protection, preservation, and management of wild animals and their habitats. Within this field, a Wildlife Capture Specialist plays a crucial role. This job involves safely capturing and handling wild animals for research, relocation, or conservation purposes. Wildlife Capture Specialists possess expertise in animal behavior, tracking techniques, sedation methods, and wildlife management. They work closely with conservation organizations, wildlife parks, and research institutions to ensure the well-being and conservation of wildlife populations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Capture Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Capture Specialist interviews to help you prepare and succeed.

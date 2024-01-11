@@ -2,6 +2,8 @@
 
 Welcome to the Agricultural Engineer Interview Preparation ! This resource is designed to help you ace your Agricultural Engineer interviews with confidence.
 
+Agriculture is a vital sector that plays a crucial role in sustaining human life by providing food, fuel, and fiber. It encompasses various practices such as farming, livestock rearing, and crop cultivation. Environmental Science, on the other hand, focuses on understanding the intricate relationship between organisms and their environment. It explores the impact of human activities on ecosystems and aims to develop sustainable solutions to preserve the environment. Within the field of agriculture, Agricultural Engineers play a significant role. They apply engineering principles to design and improve farming equipment, irrigation systems, and agricultural structures. Their work ensures efficient and sustainable agricultural practices while minimizing environmental impact.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Agricultural Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Agricultural Engineer interviews to help you prepare and succeed.

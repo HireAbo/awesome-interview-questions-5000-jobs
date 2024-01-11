@@ -2,6 +2,8 @@
 
 Welcome to the Supply Chain Sustainability Manager Interview Preparation ! This resource is designed to help you ace your Supply Chain Sustainability Manager interviews with confidence.
 
+A Supply Chain Sustainability Manager is responsible for overseeing the transportation and logistics processes within a company to ensure they align with sustainable practices. This role involves managing the end-to-end supply chain, from sourcing raw materials to delivering products to customers, with a focus on reducing environmental impact. The Supply Chain Sustainability Manager collaborates with various stakeholders, including suppliers, manufacturers, and distributors, to implement sustainable initiatives such as reducing carbon emissions, optimizing packaging, and promoting ethical sourcing. By integrating sustainability into the supply chain, this role aims to create a more efficient, environmentally-friendly, and socially responsible logistics operation that meets the growing demand for sustainable products and practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Supply Chain Sustainability Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Supply Chain Sustainability Manager interviews to help you prepare and succeed.

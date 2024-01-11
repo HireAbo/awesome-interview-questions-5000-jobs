@@ -2,6 +2,8 @@
 
 Welcome to the Art Director Interview Preparation ! This resource is designed to help you ace your Art Director interviews with confidence.
 
+An Art Director in the field of Graphic Design plays a crucial role in creating visually compelling and effective designs. They are responsible for overseeing the creative vision and direction of various design projects, ensuring that they align with the client's objectives and brand identity. Art Directors possess a keen eye for aesthetics and possess strong leadership skills to guide a team of designers, illustrators, and other creative professionals. They collaborate closely with clients, marketing teams, and other stakeholders to understand their needs and translate them into innovative visual solutions. A successful Art Director possesses a deep understanding of design principles, current industry trends, and excellent communication abilities to deliver exceptional design outcomes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Art Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Art Director interviews to help you prepare and succeed.

@@ -2,6 +2,12 @@
 
 Welcome to the Senior Data Scientist Interview Preparation ! This resource is designed to help you ace your Senior Data Scientist interviews with confidence.
 
+Information Technology (IT) is a field that encompasses the use and management of technology to store, retrieve, transmit, and manipulate data. It involves the development and implementation of computer systems, networks, and software to support various business functions.
+
+Data Science is a specialized discipline within IT that focuses on extracting meaningful insights and patterns from large and complex datasets. It combines elements of mathematics, statistics, computer science, and domain knowledge to solve complex problems and make data-driven decisions.
+
+A Senior Data Scientist is a highly experienced professional in the field of data science. They possess advanced skills in data analysis, machine learning, and statistical modeling. They are responsible for leading and managing data science projects, developing and implementing innovative algorithms, and providing strategic guidance to organizations based on data insights.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Senior Data Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Senior Data Scientist interviews to help you prepare and succeed.

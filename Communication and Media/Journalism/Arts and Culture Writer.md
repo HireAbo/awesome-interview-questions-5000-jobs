@@ -2,6 +2,8 @@
 
 Welcome to the Arts and Culture Writer Interview Preparation ! This resource is designed to help you ace your Arts and Culture Writer interviews with confidence.
 
+The role of an Arts and Culture Writer in the field of Journalism involves creating engaging and informative content that highlights various aspects of arts, culture, and entertainment. This position requires excellent writing skills and a deep understanding of the arts, ranging from visual arts to music, film, theatre, literature, and more. Arts and Culture Writers are responsible for researching and reporting on current trends, events, and personalities within the arts industry. Their work aims to inform and entertain readers, while also providing critical analysis and insights into the cultural significance of various artistic endeavors. This role requires a passion for creativity and a commitment to promoting and preserving arts and culture through the power of effective communication.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Arts and Culture Writer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Arts and Culture Writer interviews to help you prepare and succeed.

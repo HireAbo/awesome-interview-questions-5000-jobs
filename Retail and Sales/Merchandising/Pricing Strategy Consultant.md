@@ -2,6 +2,8 @@
 
 Welcome to the Pricing Strategy Consultant Interview Preparation ! This resource is designed to help you ace your Pricing Strategy Consultant interviews with confidence.
 
+A Retail and Sales Merchandising Pricing Strategy Consultant is a professional who specializes in advising retail businesses on their pricing strategies to maximize profitability and increase sales. These consultants analyze market trends, consumer behavior, and competitor pricing to develop effective pricing strategies for products or services. They work closely with merchandising teams to set optimal prices based on various factors such as product cost, customer demand, and perceived value. The goal of a Pricing Strategy Consultant is to help retailers find the right balance between attracting customers with competitive prices and maximizing profit margins. They also monitor and evaluate pricing strategies to ensure their effectiveness and make necessary adjustments when needed.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Pricing Strategy Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Pricing Strategy Consultant interviews to help you prepare and succeed.

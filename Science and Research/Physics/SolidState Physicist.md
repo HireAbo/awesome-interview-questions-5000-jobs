@@ -2,6 +2,8 @@
 
 Welcome to the Solid-State Physicist Interview Preparation ! This resource is designed to help you ace your Solid-State Physicist interviews with confidence.
 
+A solid-state physicist is a professional who specializes in the study of the physical properties and behavior of solid materials. This field of physics focuses on understanding how solids behave under different conditions, such as temperature, pressure, and magnetic fields. Solid-state physicists often conduct research to investigate the fundamental principles behind the properties of materials, such as electrical conductivity, magnetism, and optical properties. They also explore the potential applications of these materials in various industries, including electronics, energy, and materials science. By analyzing and manipulating the structure and properties of solids, solid-state physicists contribute to advancements in technology and the development of new materials with improved functionalities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Solid-State Physicist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Solid-State Physicist interviews to help you prepare and succeed.

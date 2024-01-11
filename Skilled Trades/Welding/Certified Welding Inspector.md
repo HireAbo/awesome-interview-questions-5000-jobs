@@ -2,6 +2,8 @@
 
 Welcome to the Certified Welding Inspector Interview Preparation ! This resource is designed to help you ace your Certified Welding Inspector interviews with confidence.
 
+A Certified Welding Inspector (CWI) is a highly skilled professional responsible for ensuring the quality and safety of welded structures and materials. They play a critical role in the construction and manufacturing industries by inspecting and evaluating welds to ensure they meet industry standards and codes. CWIs are knowledgeable in various welding techniques, materials, and industry regulations. They conduct visual inspections, perform non-destructive testing, and interpret test results to identify any defects or weaknesses in welds. CWIs also collaborate with welding teams to provide guidance and support, ensuring compliance with specifications and proper welding procedures. Their expertise and attention to detail ensure the integrity and reliability of welded structures.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Certified Welding Inspector or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Certified Welding Inspector interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Statistical Researcher Interview Preparation ! This resource is designed to help you ace your Statistical Researcher interviews with confidence.
 
+Mathematics and Statistics are closely related disciplines that deal with the study of numerical data and patterns. Mathematics focuses on the development and application of mathematical principles and techniques, while Statistics focuses on the collection, analysis, interpretation, presentation, and organization of data. Within the field of Statistics, there is a specialized role known as a Statistical Researcher. A Statistical Researcher is responsible for designing and conducting research studies, collecting and analyzing data, and interpreting the results to provide valuable insights and recommendations. They use various statistical methods and software tools to ensure accurate and reliable findings. Statistical Researchers play a crucial role in shaping decision-making processes in various industries, including healthcare, finance, marketing, and social sciences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Statistical Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Statistical Researcher interviews to help you prepare and succeed.

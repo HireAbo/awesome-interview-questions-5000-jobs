@@ -2,6 +2,8 @@
 
 Welcome to the Space Exploration Engineer Interview Preparation ! This resource is designed to help you ace your Space Exploration Engineer interviews with confidence.
 
+Aerospace technology has revolutionized the way we explore space, and Space Exploration Engineers play a vital role in this field. As a Space Exploration Engineer, you are responsible for designing and developing spacecraft and related technologies for space exploration missions. This career path requires a strong background in engineering, mathematics, and physics, as well as a deep understanding of aerospace systems and technologies. Space Exploration Engineers work on various aspects of space exploration, including propulsion systems, navigation, life support systems, and mission planning. Their innovative ideas and problem-solving skills contribute to the advancement of space exploration and our understanding of the universe.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Space Exploration Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Space Exploration Engineer interviews to help you prepare and succeed.

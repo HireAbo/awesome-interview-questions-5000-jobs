@@ -2,6 +2,8 @@
 
 Welcome to the Physical Education Teacher (PE Teacher) Interview Preparation ! This resource is designed to help you ace your Physical Education Teacher (PE Teacher) interviews with confidence.
 
+A Physical Education Teacher, also known as a PE Teacher, plays a crucial role in shaping the physical and mental well-being of students. As an educator in the field of Physical Education, their primary responsibility is to develop and implement comprehensive physical education programs. PE Teachers design engaging lesson plans and activities that promote physical fitness, motor skills development, teamwork, and sportsmanship. They instruct students in various sports and fitness techniques, ensuring they understand and apply proper techniques and safety measures. PE Teachers also assess students' progress, provide constructive feedback, and encourage students to adopt a healthy and active lifestyle. They serve as positive role models, inspiring students to pursue lifelong physical activity and wellness.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Physical Education Teacher (PE Teacher) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Physical Education Teacher (PE Teacher) interviews to help you prepare and succeed.

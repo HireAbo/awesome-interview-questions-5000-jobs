@@ -2,6 +2,8 @@
 
 Welcome to the Mathematics Modeler Interview Preparation ! This resource is designed to help you ace your Mathematics Modeler interviews with confidence.
 
+A Mathematics Modeler is a professional who applies mathematical principles and statistical techniques to develop models that simulate real-world phenomena or solve complex problems. This job involves using advanced mathematical concepts to create and validate models that can predict outcomes, optimize processes, or make informed decisions. Mathematics Modelers work in various industries such as finance, engineering, healthcare, and environmental sciences. They collaborate with experts from different domains to understand the problem requirements and design appropriate mathematical models. They also collect and analyze data, identify patterns, and use statistical tools to validate and refine their models. Mathematics Modelers play a crucial role in helping organizations make evidence-based decisions and improve their strategies and operations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Mathematics Modeler or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Mathematics Modeler interviews to help you prepare and succeed.

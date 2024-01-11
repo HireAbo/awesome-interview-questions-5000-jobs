@@ -2,6 +2,8 @@
 
 Welcome to the Voice Actor Interview Preparation ! This resource is designed to help you ace your Voice Actor interviews with confidence.
 
+The field of entertainment and performing arts encompasses a wide range of professions, including acting. Among the various roles within acting, the job of a voice actor holds a unique position. Voice actors bring characters to life through their vocal talents in various mediums such as animation, film, television, video games, and commercials. They possess the ability to manipulate their voices to suit different characters, giving them depth and personality. Voice actors use their skills in vocal projection, tone, and emotion to effectively convey the intended message and engage audiences. Their work requires creativity, versatility, and often demands the ability to create multiple distinct voices. In a world driven by multimedia, voice actors play a crucial role in captivating audiences and adding an extra layer of realism to the entertainment industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Voice Actor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Voice Actor interviews to help you prepare and succeed.

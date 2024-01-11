@@ -2,6 +2,12 @@
 
 Welcome to the Data Science Compliance Analyst Interview Preparation ! This resource is designed to help you ace your Data Science Compliance Analyst interviews with confidence.
 
+Information Technology (IT) is a broad field that encompasses the use of computers, software, networks, and electronic systems to store, process, transmit, and retrieve information. It plays a crucial role in various industries, helping organizations streamline operations, enhance productivity, and improve decision-making processes. 
+
+Within the realm of IT, Data Science has emerged as a specialized domain that focuses on extracting valuable insights and knowledge from large volumes of data. Data Science involves the use of statistical analysis, machine learning algorithms, and data visualization techniques to uncover patterns, trends, and correlations that can drive business growth and innovation.
+
+In the context of Data Science, a Data Science Compliance Analyst is an individual responsible for ensuring that data-related activities within an organization comply with relevant laws, regulations, and industry standards. They work closely with legal and compliance teams to develop and implement data governance policies and procedures, conduct risk assessments, and monitor data security and privacy practices. Their role also involves staying updated with changing compliance requirements, conducting audits, and providing recommendations to mitigate potential risks.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Science Compliance Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Science Compliance Analyst interviews to help you prepare and succeed.

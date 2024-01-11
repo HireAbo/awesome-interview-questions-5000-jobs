@@ -2,6 +2,8 @@
 
 Welcome to the PLC Programmer (Programmable Logic Controller Programmer) Interview Preparation ! This resource is designed to help you ace your PLC Programmer (Programmable Logic Controller Programmer) interviews with confidence.
 
+A PLC Programmer, also known as a Programmable Logic Controller Programmer, plays a crucial role in the field of Electrical Engineering. They are responsible for designing, developing, and maintaining programmable logic controllers, which are essential components of industrial automation systems. PLC Programmers write and implement computer programs that control machinery and processes in various industries, such as manufacturing, energy, and transportation. They work closely with engineers and technicians to understand the requirements and specifications for automation systems, troubleshoot issues, and optimize performance. A strong understanding of electrical circuits, automation control systems, and programming languages is vital for a successful career as a PLC Programmer.
+
 ## 🚀 Overview
 
 Whether you're a seasoned PLC Programmer (Programmable Logic Controller Programmer) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in PLC Programmer (Programmable Logic Controller Programmer) interviews to help you prepare and succeed.

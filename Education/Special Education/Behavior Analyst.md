@@ -2,6 +2,8 @@
 
 Welcome to the Behavior Analyst Interview Preparation ! This resource is designed to help you ace your Behavior Analyst interviews with confidence.
 
+A Behavior Analyst in the field of Special Education is a professional who specializes in studying and analyzing human behavior, particularly in individuals with special needs. They work closely with students, families, and other professionals to develop and implement behavior intervention plans that promote positive behaviors and address challenging behaviors. Behavior Analysts conduct assessments, collect data, and analyze behavior patterns to identify the underlying causes of challenging behaviors. They also design and modify individualized behavior support plans to help students develop appropriate social, communication, and academic skills. This job requires strong analytical and problem-solving skills, as well as empathy, patience, and a deep understanding of special education principles and practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Behavior Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Behavior Analyst interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Research Scientist Interview Preparation ! This resource is designed to help you ace your Research Scientist interviews with confidence.
 
+A Research Scientist in the field of Chemistry plays a pivotal role in advancing scientific knowledge and discovering new breakthroughs. They are responsible for conducting various experiments, analyzing data, and interpreting results to expand our understanding of chemical processes and properties. These professionals work in laboratories, universities, and research institutions, utilizing their expertise to develop innovative solutions and technologies. They collaborate with fellow scientists, sharing findings and insights to contribute to the scientific community. Research Scientists in Chemistry are driven by a passion for discovery, constantly seeking answers to complex questions and pushing the boundaries of scientific knowledge to improve our understanding of the world.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Research Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Research Scientist interviews to help you prepare and succeed.

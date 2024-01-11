@@ -2,6 +2,8 @@
 
 Welcome to the Prop Master Interview Preparation ! This resource is designed to help you ace your Prop Master interviews with confidence.
 
+A Prop Master plays a vital role in the world of film production, ensuring that every scene is brought to life with the perfect props. As a Prop Master, attention to detail is crucial as you are responsible for sourcing, creating, and managing all the props used on set. From historical artifacts to futuristic gadgets, you must possess a keen eye for authenticity and creativity. Collaborating closely with the production designer and director, you will ensure that each prop aligns with the vision and enhances the storytelling. This role requires excellent organizational skills, problem-solving abilities, and a passion for bringing stories to life through visual elements.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Prop Master or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Prop Master interviews to help you prepare and succeed.

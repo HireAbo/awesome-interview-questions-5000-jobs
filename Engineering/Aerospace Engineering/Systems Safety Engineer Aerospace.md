@@ -2,6 +2,8 @@
 
 Welcome to the Systems Safety Engineer (Aerospace) Interview Preparation ! This resource is designed to help you ace your Systems Safety Engineer (Aerospace) interviews with confidence.
 
+A Systems Safety Engineer in the field of Aerospace Engineering is responsible for ensuring the safety and reliability of aerospace systems, equipment, and operations. This specialized role involves analyzing potential hazards and risks associated with the design, development, and operation of aircraft and spacecraft. The Systems Safety Engineer conducts extensive research, evaluates system components, and collaborates with engineering teams to implement safety measures and protocols. They play a critical role in identifying potential failures, conducting risk assessments, and developing mitigation strategies to prevent accidents and improve overall system safety. This job requires strong analytical skills, attention to detail, and a deep understanding of aerospace engineering principles and safety regulations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Systems Safety Engineer (Aerospace) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Systems Safety Engineer (Aerospace) interviews to help you prepare and succeed.

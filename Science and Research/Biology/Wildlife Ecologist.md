@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife Ecologist Interview Preparation ! This resource is designed to help you ace your Wildlife Ecologist interviews with confidence.
 
+A Wildlife Ecologist is a specialized biologist who studies and conducts research on the interactions between wildlife and their natural habitats. This scientific field focuses on understanding the behavior, ecology, and conservation of various animal species in their natural environments. Wildlife ecologists play a crucial role in preserving biodiversity and ensuring the sustainability of ecosystems. Their work involves conducting field surveys, collecting data on animal populations, studying migration patterns, and analyzing the impact of human activities on wildlife habitats. By studying the intricate relationships between animals and their environment, wildlife ecologists provide valuable insights that contribute to the development of effective conservation strategies and policies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Ecologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Ecologist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Information Governance Coordinator Interview Preparation ! This resource is designed to help you ace your Information Governance Coordinator interviews with confidence.
 
+A Library and Information Science professional specializing in Information Management may pursue a career as an Information Governance Coordinator. This role involves overseeing the organization, retrieval, and preservation of information within an institution or organization. The Information Governance Coordinator ensures compliance with legal and regulatory requirements, develops policies and procedures for managing information assets, and implements strategies for efficient document management. They also collaborate with various stakeholders, such as IT departments, legal teams, and records managers, to establish best practices and standards for information governance. This position requires strong analytical skills, attention to detail, and the ability to effectively communicate and collaborate with diverse teams.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Information Governance Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Information Governance Coordinator interviews to help you prepare and succeed.

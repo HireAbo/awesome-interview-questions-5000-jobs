@@ -2,6 +2,8 @@
 
 Welcome to the Nuclear Reactor Operator Interview Preparation ! This resource is designed to help you ace your Nuclear Reactor Operator interviews with confidence.
 
+A Nuclear Reactor Operator is a skilled professional responsible for the safe and efficient operation of nuclear reactors within power plants. They play a crucial role in the production of nuclear energy, ensuring the generation of electricity while adhering to strict safety regulations. These operators monitor and control reactor systems, adjust controls to maintain desired power levels, and troubleshoot any malfunctions or abnormalities that may arise. They also conduct routine inspections, perform maintenance tasks, and collaborate with other professionals to ensure the overall smooth operation of the plant. A Nuclear Reactor Operator must possess excellent analytical, problem-solving, and communication skills, along with a strong commitment to safety and adherence to protocols.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nuclear Reactor Operator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nuclear Reactor Operator interviews to help you prepare and succeed.

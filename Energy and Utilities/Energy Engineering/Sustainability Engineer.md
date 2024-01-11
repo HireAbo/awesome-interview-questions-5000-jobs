@@ -2,6 +2,8 @@
 
 Welcome to the Sustainability Engineer Interview Preparation ! This resource is designed to help you ace your Sustainability Engineer interviews with confidence.
 
+A Sustainability Engineer in the field of Energy Engineering is responsible for developing and implementing strategies to promote sustainable practices in the energy and utilities sector. They focus on finding innovative solutions to reduce environmental impact, conserve resources, and improve energy efficiency. These professionals analyze energy consumption patterns, identify areas for improvement, and design and implement renewable energy systems. They also evaluate the feasibility of new technologies and implement measures to reduce carbon emissions. A Sustainability Engineer plays a crucial role in driving the transition towards clean and sustainable energy sources, working towards a more environmentally friendly and efficient energy and utilities sector.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sustainability Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sustainability Engineer interviews to help you prepare and succeed.

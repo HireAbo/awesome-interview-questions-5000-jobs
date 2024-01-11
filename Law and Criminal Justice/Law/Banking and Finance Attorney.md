@@ -2,6 +2,12 @@
 
 Welcome to the Banking and Finance Attorney Interview Preparation ! This resource is designed to help you ace your Banking and Finance Attorney interviews with confidence.
 
+A Banking and Finance Attorney is a legal professional who specializes in the laws and regulations governing financial institutions and transactions. These attorneys play a crucial role in advising clients, including banks, investment firms, and other financial entities, on various legal matters related to banking and finance.
+
+Their primary responsibilities include providing legal guidance on matters such as corporate finance, securities offerings, loan agreements, mergers and acquisitions, compliance with banking regulations, and risk management. Banking and Finance Attorneys also assist clients in negotiating and drafting complex financial agreements, ensuring compliance with relevant laws and regulations, and representing clients in litigation or regulatory proceedings when necessary.
+
+Strong analytical skills, attention to detail, and a deep understanding of banking and finance laws are essential for success in this role. Additionally, effective communication and negotiation skills, as well as the ability to work under pressure and meet strict deadlines, are highly valued in this demanding field.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Banking and Finance Attorney or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Banking and Finance Attorney interviews to help you prepare and succeed.

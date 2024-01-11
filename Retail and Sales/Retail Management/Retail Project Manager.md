@@ -2,6 +2,8 @@
 
 Welcome to the Retail Project Manager Interview Preparation ! This resource is designed to help you ace your Retail Project Manager interviews with confidence.
 
+A Retail Project Manager in the field of Retail and Sales is responsible for overseeing and managing various projects within a retail organization. They are tasked with ensuring timely and successful completion of projects, while also meeting budgetary and quality standards. This role involves developing project plans, coordinating with different teams and stakeholders, and monitoring progress throughout the project lifecycle. A Retail Project Manager must possess strong leadership and communication skills to effectively lead a team and collaborate with cross-functional departments. They must also have a deep understanding of retail operations and sales strategies to drive business growth and achieve organizational objectives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Retail Project Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Retail Project Manager interviews to help you prepare and succeed.

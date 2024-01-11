@@ -2,6 +2,8 @@
 
 Welcome to the Online Real Estate Sales Interview Preparation ! This resource is designed to help you ace your Online Real Estate Sales interviews with confidence.
 
+Real Estate and Property Management is an industry that deals with the buying, selling, renting, and leasing of properties such as residential homes, commercial buildings, and land. It involves various aspects like property valuation, marketing, negotiations, and legal procedures to ensure smooth transactions. Within this industry, Real Estate Sales professionals play a crucial role in connecting buyers and sellers to facilitate property transactions. Online Real Estate Sales is a specific job within this field that focuses on utilizing digital platforms and technologies to market and sell properties online. This role requires strong communication skills, market knowledge, and the ability to leverage online tools to attract and engage potential buyers.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Online Real Estate Sales or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Online Real Estate Sales interviews to help you prepare and succeed.

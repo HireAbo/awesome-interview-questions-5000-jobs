@@ -2,6 +2,8 @@
 
 Welcome to the Actuarial Content Developer Interview Preparation ! This resource is designed to help you ace your Actuarial Content Developer interviews with confidence.
 
+Mathematics and Statistics form the foundation of Actuarial Science, a field that applies mathematical and statistical methods to assess and manage financial risks. Actuarial Content Developers play a crucial role in this field by creating educational materials and resources for aspiring actuaries. As an Actuarial Content Developer, you will be responsible for researching, analyzing, and organizing complex mathematical concepts into easily understandable content. This involves developing interactive learning modules, writing textbooks, and designing online courses. Additionally, Actuarial Content Developers collaborate with industry experts to ensure accuracy and relevance of the materials. This role requires a strong background in mathematics and statistics, excellent communication skills, and a passion for teaching and learning.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Actuarial Content Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Actuarial Content Developer interviews to help you prepare and succeed.

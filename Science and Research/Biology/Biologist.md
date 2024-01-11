@@ -2,6 +2,8 @@
 
 Welcome to the Biologist Interview Preparation ! This resource is designed to help you ace your Biologist interviews with confidence.
 
+A biologist is a professional who specializes in the field of biology, a branch of science that focuses on the study of living organisms and their interactions with the environment. Biologists play a crucial role in scientific research, aiming to understand and solve various biological problems. They conduct experiments, collect and analyze data, and develop theories to explain biological phenomena. Biologists can specialize in numerous subfields, such as molecular biology, genetics, ecology, or microbiology, among others. Their work often involves conducting field research, working in laboratories, or teaching and educating others. Biologists contribute to advancements in medicine, agriculture, conservation, and other areas that impact our understanding of life on Earth.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Biologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Biologist interviews to help you prepare and succeed.

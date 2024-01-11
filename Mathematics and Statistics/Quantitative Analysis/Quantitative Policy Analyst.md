@@ -2,6 +2,8 @@
 
 Welcome to the Quantitative Policy Analyst Interview Preparation ! This resource is designed to help you ace your Quantitative Policy Analyst interviews with confidence.
 
+A Quantitative Policy Analyst is a specialized role that combines the fields of mathematics, statistics, and policy analysis. This job involves utilizing quantitative methods and tools to analyze and evaluate public policies and their impact on various social, economic, and political factors. As a Quantitative Policy Analyst, you will be responsible for collecting and analyzing data, developing mathematical models, and conducting statistical analyses to inform policy decisions. This role requires a strong understanding of mathematics and statistics, as well as the ability to interpret and communicate complex quantitative information to policymakers. A Quantitative Policy Analyst plays a crucial role in shaping evidence-based policies and driving positive change in society.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Quantitative Policy Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Quantitative Policy Analyst interviews to help you prepare and succeed.

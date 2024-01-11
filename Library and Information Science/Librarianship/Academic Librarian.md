@@ -2,6 +2,16 @@
 
 Welcome to the Academic Librarian Interview Preparation ! This resource is designed to help you ace your Academic Librarian interviews with confidence.
 
+Library and Information Science, commonly known as Librarianship, is a multidisciplinary field that focuses on managing, organizing, and providing access to information resources. Academic Librarianship, a specialized branch of this field, is dedicated to supporting the research and educational needs of students, faculty, and researchers in academic institutions such as universities and colleges.
+
+Academic Librarians play a crucial role in connecting users with the vast array of resources available within the library, both physical and digital. They collaborate with faculty to develop collections that align with the institution's curriculum, ensuring that students have access to the most relevant and up-to-date materials. Additionally, they provide instruction on information literacy skills, helping users navigate and evaluate information effectively.
+
+Moreover, Academic Librarians actively participate in research support, assisting faculty and students with their research projects by providing guidance on accessing scholarly databases, citation management, and research methodologies. They also contribute to the creation and maintenance of institutional repositories, preserving and disseminating scholarly output produced by the academic community.
+
+Being an Academic Librarian requires strong interpersonal and communication skills, as they interact with a diverse range of users and provide personalized assistance. They must also possess a deep understanding of emerging technologies and information trends to adapt and enhance library services to meet the evolving needs of academic communities.
+
+In conclusion, Academic Librarianship is an essential profession in the field of Library and Information Science, ensuring that academic institutions have the necessary resources and support for teaching, learning, and research. It is a rewarding career path for those passionate about facilitating access to knowledge and information, making a lasting impact on the academic community.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Academic Librarian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Academic Librarian interviews to help you prepare and succeed.

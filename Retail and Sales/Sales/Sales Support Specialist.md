@@ -2,6 +2,8 @@
 
 Welcome to the Sales Support Specialist Interview Preparation ! This resource is designed to help you ace your Sales Support Specialist interviews with confidence.
 
+A Sales Support Specialist plays a crucial role in the retail and sales industry by providing comprehensive assistance to the sales team. This job involves various responsibilities such as generating sales reports, maintaining customer databases, and coordinating sales activities. The Sales Support Specialist acts as a liaison between the sales team and other departments, ensuring smooth communication and efficient operations. They also assist in managing customer inquiries and resolving any issues that may arise. This role requires strong organizational and multitasking skills, as well as excellent communication abilities. A Sales Support Specialist is essential in facilitating successful sales operations and maintaining customer satisfaction.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sales Support Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sales Support Specialist interviews to help you prepare and succeed.

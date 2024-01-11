@@ -2,6 +2,8 @@
 
 Welcome to the Theater Lighting Technician Interview Preparation ! This resource is designed to help you ace your Theater Lighting Technician interviews with confidence.
 
+A theater lighting technician plays a crucial role in the world of entertainment and performing arts. They are responsible for designing, installing, operating, and maintaining the lighting systems used in theaters and other performance venues. These professionals work closely with directors, stage managers, and other members of the production team to create the desired atmosphere and enhance the overall visual experience for the audience. Theater lighting technicians possess a strong understanding of lighting techniques, electrical systems, and various lighting equipment such as spotlights, floodlights, and moving lights. They are skilled in programming lighting cues, adjusting light levels, and ensuring the safety and functionality of the lighting setup during performances.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Theater Lighting Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Theater Lighting Technician interviews to help you prepare and succeed.

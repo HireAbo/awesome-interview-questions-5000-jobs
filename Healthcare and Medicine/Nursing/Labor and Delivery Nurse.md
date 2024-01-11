@@ -2,6 +2,8 @@
 
 Welcome to the Labor and Delivery Nurse Interview Preparation ! This resource is designed to help you ace your Labor and Delivery Nurse interviews with confidence.
 
+A Labor and Delivery Nurse is a specialized healthcare professional who plays a crucial role in assisting pregnant women during the childbirth process. These nurses are highly trained and skilled in providing comprehensive care to both the mother and baby before, during, and after labor. They work closely with obstetricians, midwives, and other healthcare professionals to ensure a safe and positive birthing experience. Labor and Delivery Nurses monitor the progress of labor, administer medications, provide pain management techniques, assist with breastfeeding, and educate new parents on postpartum care. With their compassion, expertise, and dedication, Labor and Delivery Nurses contribute to the overall well-being and health of mothers and newborns.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Labor and Delivery Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Labor and Delivery Nurse interviews to help you prepare and succeed.

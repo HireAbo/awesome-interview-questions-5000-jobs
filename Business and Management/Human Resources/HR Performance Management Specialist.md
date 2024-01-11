@@ -2,6 +2,8 @@
 
 Welcome to the HR Performance Management Specialist Interview Preparation ! This resource is designed to help you ace your HR Performance Management Specialist interviews with confidence.
 
+A HR Performance Management Specialist is a professional responsible for overseeing the performance management process within an organization. They play a critical role in enhancing employee performance and ensuring alignment with organizational goals. The specialist is involved in designing and implementing performance appraisal systems, conducting evaluations, and providing feedback to employees. They collaborate with managers and employees to set objectives, identify areas of improvement, and develop action plans. Additionally, they analyze performance data, identify trends, and provide recommendations to enhance overall organizational performance. A HR Performance Management Specialist also keeps abreast of industry best practices and ensures compliance with relevant laws and regulations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned HR Performance Management Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in HR Performance Management Specialist interviews to help you prepare and succeed.

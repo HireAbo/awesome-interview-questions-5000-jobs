@@ -2,6 +2,8 @@
 
 Welcome to the Back-End Architect Interview Preparation ! This resource is designed to help you ace your Back-End Architect interviews with confidence.
 
+A Back-End Architect in the field of Information Technology (IT) Software Development is a pivotal role responsible for designing and implementing the back-end infrastructure of software applications. They are experts in creating scalable, efficient, and secure systems that facilitate the seamless flow of data and communication between the front-end and back-end components of an application. Back-End Architects possess a deep understanding of programming languages, databases, and server technologies. They collaborate closely with other members of the development team to ensure that the back-end architecture aligns with the overall software design and meets the functional and performance requirements. Their role is crucial in building robust and high-performing software solutions that power various industries.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Back-End Architect or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Back-End Architect interviews to help you prepare and succeed.

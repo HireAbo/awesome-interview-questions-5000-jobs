@@ -2,6 +2,8 @@
 
 Welcome to the Healthcare Economist Interview Preparation ! This resource is designed to help you ace your Healthcare Economist interviews with confidence.
 
+A Healthcare Economist is a professional who applies economic principles and analysis to the field of healthcare. They study the allocation of resources, costs, and outcomes in healthcare systems to provide insights and recommendations for policy-makers, healthcare providers, and insurance companies. Healthcare Economists use various quantitative and qualitative methods to assess the efficiency, equity, and effectiveness of healthcare interventions and programs. They analyze data, conduct economic evaluations, and develop models to understand the impact of different healthcare policies and interventions on individuals, populations, and the economy as a whole. By providing evidence-based insights, healthcare economists contribute to improving the overall quality and affordability of healthcare services.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Healthcare Economist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Healthcare Economist interviews to help you prepare and succeed.

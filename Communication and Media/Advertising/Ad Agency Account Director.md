@@ -2,6 +2,8 @@
 
 Welcome to the Ad Agency Account Director Interview Preparation ! This resource is designed to help you ace your Ad Agency Account Director interviews with confidence.
 
+The role of an Ad Agency Account Director is crucial in the field of communication and media advertising. As the primary liaison between the agency and clients, the Account Director plays a key role in developing effective advertising campaigns. They are responsible for understanding the client's objectives, managing budgets, and ensuring client satisfaction. Moreover, the Account Director collaborates with various teams within the agency, such as creative, media, and production, to ensure seamless execution of campaigns. Strong leadership skills, excellent communication abilities, and a deep understanding of the advertising industry are essential for success in this role. Ultimately, the Ad Agency Account Director plays a pivotal role in driving client growth and fostering long-term relationships.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Ad Agency Account Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Ad Agency Account Director interviews to help you prepare and succeed.

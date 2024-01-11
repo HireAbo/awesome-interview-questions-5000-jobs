@@ -2,6 +2,8 @@
 
 Welcome to the Constitutional Law Attorney Interview Preparation ! This resource is designed to help you ace your Constitutional Law Attorney interviews with confidence.
 
+A Constitutional Law Attorney specializes in the field of Political Science, specifically focusing on constitutional law. These attorneys play a crucial role in upholding and interpreting the constitution, ensuring that the laws of the land are consistent with the constitutional principles. They possess a deep understanding of the legal framework and the rights and responsibilities enshrined in the constitution. Constitutional Law Attorneys work in various capacities, including advising government officials, representing clients in court, and providing legal opinions on constitutional matters. They must possess excellent analytical and research skills, as well as the ability to argue cases persuasively. These attorneys are committed to preserving the integrity of the constitution and defending the rights of individuals and institutions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Constitutional Law Attorney or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Constitutional Law Attorney interviews to help you prepare and succeed.

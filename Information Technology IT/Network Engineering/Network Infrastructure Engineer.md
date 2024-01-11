@@ -2,6 +2,10 @@
 
 Welcome to the Network Infrastructure Engineer Interview Preparation ! This resource is designed to help you ace your Network Infrastructure Engineer interviews with confidence.
 
+A Network Infrastructure Engineer is a critical role in the field of Information Technology (IT) and Network Engineering. This job involves designing, implementing, and maintaining the network infrastructure of an organization. Network Infrastructure Engineers are responsible for ensuring the smooth functioning and performance of computer networks, including local area networks (LANs), wide area networks (WANs), and intranets.
+
+Their responsibilities include configuring and managing network devices such as routers, switches, firewalls, and load balancers. They also troubleshoot network issues, perform network performance analysis, and ensure network security and data integrity. Network Infrastructure Engineers collaborate with other IT professionals to develop and implement network policies, upgrade network systems, and provide technical support. Their expertise is crucial in ensuring reliable and efficient network connectivity within organizations, enabling seamless communication and data sharing.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Network Infrastructure Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Network Infrastructure Engineer interviews to help you prepare and succeed.

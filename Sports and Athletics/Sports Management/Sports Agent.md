@@ -2,6 +2,8 @@
 
 Welcome to the Sports Agent Interview Preparation ! This resource is designed to help you ace your Sports Agent interviews with confidence.
 
+Sports and athletics have always played a significant role in our society, captivating the hearts and minds of millions worldwide. In the dynamic world of sports management, one of the most sought-after professions is that of a sports agent. These professionals act as the primary liaison between athletes and their teams, negotiating contracts, endorsements, and sponsorships, ensuring their clients' best interests are protected. A sports agent's role extends beyond financial negotiations, as they also provide guidance and support to athletes in various aspects of their career, including public relations and career planning. With a deep understanding of the sports industry and exceptional negotiation skills, sports agents play a crucial role in shaping the careers of athletes, helping them achieve their goals on and off the field.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sports Agent or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sports Agent interviews to help you prepare and succeed.

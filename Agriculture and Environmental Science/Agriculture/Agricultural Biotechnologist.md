@@ -2,6 +2,8 @@
 
 Welcome to the Agricultural Biotechnologist Interview Preparation ! This resource is designed to help you ace your Agricultural Biotechnologist interviews with confidence.
 
+Agriculture is a vital sector that focuses on cultivating plants and raising animals for food, fiber, medicinal plants, and other products used to sustain human life. It plays a crucial role in ensuring food security and supporting the economy of many countries. Environmental Science, on the other hand, is a multidisciplinary field that analyzes the interactions between humans and the environment, aiming to understand and solve environmental problems. Within the field of Agriculture, there are various specialized roles, such as an Agricultural Biotechnologist. These professionals utilize biotechnology techniques like genetic engineering to improve crop yield, enhance resistance to pests and diseases, and develop new varieties with desirable traits. They contribute to sustainable agriculture practices, ensuring efficient food production while minimizing environmental impact.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Agricultural Biotechnologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Agricultural Biotechnologist interviews to help you prepare and succeed.

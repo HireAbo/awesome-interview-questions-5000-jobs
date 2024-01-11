@@ -2,6 +2,8 @@
 
 Welcome to the Forester Interview Preparation ! This resource is designed to help you ace your Forester interviews with confidence.
 
+Agriculture and Environmental Science is an interdisciplinary field that focuses on the sustainable management of natural resources, including forests, water, and soil. Environmental Science is crucial in addressing the environmental challenges we face today, such as climate change, deforestation, and biodiversity loss. Within this field, the job of a Forester is essential in the conservation and management of forest ecosystems. Foresters play a vital role in assessing forest health and implementing sustainable practices to ensure the long-term viability of forests. They are responsible for conducting surveys, managing timber resources, preventing and combating forest fires, and promoting the preservation of wildlife habitats.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forester or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forester interviews to help you prepare and succeed.

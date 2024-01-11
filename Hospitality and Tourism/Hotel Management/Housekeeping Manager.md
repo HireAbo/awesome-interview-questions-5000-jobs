@@ -2,6 +2,8 @@
 
 Welcome to the Housekeeping Manager Interview Preparation ! This resource is designed to help you ace your Housekeeping Manager interviews with confidence.
 
+A Housekeeping Manager plays a crucial role in the hospitality and tourism industry, specifically in hotel management. This job involves overseeing and managing the cleanliness, maintenance, and overall appearance of a hotel's guest rooms, public areas, and facilities. The Housekeeping Manager is responsible for ensuring that all housekeeping operations are carried out efficiently and to the highest standards of cleanliness and hygiene. They coordinate with the housekeeping staff, assigning duties, and monitoring their performance. Additionally, they collaborate with other departments such as front office and maintenance to ensure the smooth operation of the hotel. A Housekeeping Manager must possess excellent organizational and leadership skills to ensure guest satisfaction and maintain a positive and welcoming atmosphere within the hotel.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Housekeeping Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Housekeeping Manager interviews to help you prepare and succeed.

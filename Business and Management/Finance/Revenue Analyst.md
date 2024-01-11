@@ -2,6 +2,8 @@
 
 Welcome to the Revenue Analyst Interview Preparation ! This resource is designed to help you ace your Revenue Analyst interviews with confidence.
 
+A Revenue Analyst is a vital position within the field of Business and Management, specifically in Finance. This role primarily focuses on analyzing a company's revenue streams to identify trends, patterns, and areas of improvement. A Revenue Analyst is responsible for reviewing financial data, conducting market research, and collaborating with different departments to optimize revenue generation strategies. They utilize various tools and software to create reports and provide insights to senior management. Additionally, a Revenue Analyst plays a crucial role in forecasting future revenue, developing pricing strategies, and implementing measures to enhance overall profitability. Strong analytical skills, attention to detail, and a deep understanding of financial concepts are essential for success in this position.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Revenue Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Revenue Analyst interviews to help you prepare and succeed.

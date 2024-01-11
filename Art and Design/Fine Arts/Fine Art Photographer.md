@@ -2,6 +2,8 @@
 
 Welcome to the Fine Art Photographer Interview Preparation ! This resource is designed to help you ace your Fine Art Photographer interviews with confidence.
 
+A Fine Art Photographer is a professional who combines the elements of art and photography to create visually stunning and thought-provoking images. They specialize in capturing images that are aesthetically pleasing and convey a specific message or emotion. Fine Art Photographers often work independently or as freelancers, allowing them the creative freedom to explore various subjects and styles. They possess a deep understanding of composition, lighting, and visual storytelling, using these skills to create unique and captivating photographs. Their work can be found in art galleries, exhibitions, and museums, where they showcase their talent and evoke a sense of appreciation for the beauty of the world.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Fine Art Photographer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Fine Art Photographer interviews to help you prepare and succeed.

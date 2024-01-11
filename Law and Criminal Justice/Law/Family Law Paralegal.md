@@ -2,6 +2,8 @@
 
 Welcome to the Family Law Paralegal Interview Preparation ! This resource is designed to help you ace your Family Law Paralegal interviews with confidence.
 
+A Family Law Paralegal plays a crucial role in assisting attorneys in the field of Family Law. This specialized area of law focuses on legal matters related to familial relationships and domestic issues, such as divorce, child custody, adoption, and spousal support. The Family Law Paralegal is responsible for conducting extensive research, gathering and organizing evidence, drafting legal documents, and assisting in the preparation of trial strategies. They also play a key role in client communication, ensuring that all legal procedures are followed, and providing support during emotional and challenging times. A Family Law Paralegal must possess strong organizational skills, attention to detail, and empathy towards clients dealing with sensitive family matters.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Family Law Paralegal or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Family Law Paralegal interviews to help you prepare and succeed.

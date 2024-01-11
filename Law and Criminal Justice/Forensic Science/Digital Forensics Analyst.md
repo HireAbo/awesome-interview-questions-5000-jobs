@@ -2,6 +2,8 @@
 
 Welcome to the Digital Forensics Analyst Interview Preparation ! This resource is designed to help you ace your Digital Forensics Analyst interviews with confidence.
 
+A Digital Forensics Analyst is a crucial role in the field of Law and Criminal Justice, specifically in the area of Forensic Science. These professionals play a vital role in the investigation and prevention of cybercrimes. Their primary responsibility is to collect, analyze, and present digital evidence in legal proceedings. They utilize specialized software and techniques to recover and examine data from computers, mobile devices, and other digital media. Digital Forensics Analysts collaborate with law enforcement agencies, attorneys, and other professionals to uncover and interpret electronic evidence. Their expertise is essential in identifying criminal activities, such as hacking, fraud, and identity theft, ensuring justice is served and cybercriminals are brought to justice.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Digital Forensics Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Digital Forensics Analyst interviews to help you prepare and succeed.

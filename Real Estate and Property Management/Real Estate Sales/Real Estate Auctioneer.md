@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Auctioneer Interview Preparation ! This resource is designed to help you ace your Real Estate Auctioneer interviews with confidence.
 
+Real Estate and Property Management is a vast and dynamic field that involves the buying, selling, and leasing of residential and commercial properties. Within this sector, Real Estate Sales professionals are responsible for marketing and selling properties to potential buyers. They play a crucial role in facilitating the transaction process, negotiating prices, and assisting clients in making informed decisions. On the other hand, Real Estate Auctioneers specialize in conducting auctions for properties. They are skilled in creating a competitive bidding environment, ensuring fair and transparent proceedings, and obtaining the highest possible price for the property. Both roles require excellent communication, negotiation, and problem-solving skills to succeed in this highly competitive industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Auctioneer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Auctioneer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the PCB Design Engineer Interview Preparation ! This resource is designed to help you ace your PCB Design Engineer interviews with confidence.
 
+A PCB (Printed Circuit Board) Design Engineer is a professional responsible for designing and developing electronic circuits using PCB technology. They specialize in creating and implementing circuit board layouts, ensuring the proper placement of components and connections. PCB Design Engineers collaborate with hardware engineers and software developers to design and optimize circuit boards for various electronic devices and systems. They possess a strong understanding of electronic components, signal integrity, and manufacturing processes. Additionally, PCB Design Engineers utilize computer-aided design (CAD) software to create detailed schematics and blueprints. This role requires excellent problem-solving skills, attention to detail, and the ability to work effectively in a team environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned PCB Design Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in PCB Design Engineer interviews to help you prepare and succeed.

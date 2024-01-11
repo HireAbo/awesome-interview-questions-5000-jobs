@@ -2,6 +2,8 @@
 
 Welcome to the Cryptographer Interview Preparation ! This resource is designed to help you ace your Cryptographer interviews with confidence.
 
+Information Technology (IT) is a field that encompasses the use, development, and management of computer systems and networks to store, process, and transmit information. One crucial aspect within IT is cybersecurity, which focuses on protecting information systems from unauthorized access, data breaches, and cyber threats. In the realm of cybersecurity, a cryptographer plays a vital role. Cryptographers are experts in encryption algorithms and techniques, responsible for designing and implementing cryptographic systems to secure sensitive information. They work to create secure communication channels, develop encryption protocols, and analyze vulnerabilities in cryptographic algorithms. Cryptographers ensure the confidentiality, integrity, and authenticity of data, playing a pivotal role in safeguarding digital information from malicious attacks.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cryptographer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cryptographer interviews to help you prepare and succeed.

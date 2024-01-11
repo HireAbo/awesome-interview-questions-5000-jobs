@@ -2,6 +2,8 @@
 
 Welcome to the Archival Researcher Interview Preparation ! This resource is designed to help you ace your Archival Researcher interviews with confidence.
 
+An Archival Researcher in the field of Anthropology plays a crucial role in uncovering and preserving valuable historical information for further study and understanding. This job involves conducting extensive research in various archival sources, such as libraries, museums, and online databases, to gather primary and secondary data related to anthropological research. Archival Researchers carefully analyze and interpret these documents, photographs, maps, and other artifacts to extract valuable insights into past cultures, societies, and human behavior. They collaborate with anthropologists and other researchers to assist in the development of research projects, contribute to academic publications, and provide valuable historical context for contemporary anthropological studies. Ultimately, Archival Researchers facilitate the preservation and dissemination of knowledge in the field of Anthropology.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Archival Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Archival Researcher interviews to help you prepare and succeed.

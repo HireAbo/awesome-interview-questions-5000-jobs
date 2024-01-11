@@ -2,6 +2,8 @@
 
 Welcome to the Animal Health Policy Advisor Interview Preparation ! This resource is designed to help you ace your Animal Health Policy Advisor interviews with confidence.
 
+A Veterinary Medicine Animal Health Management Animal Health Policy Advisor is a professional who plays a crucial role in ensuring the well-being and health of animals. They work in collaboration with veterinarians, policymakers, and government agencies to develop and implement effective animal health policies. This job involves researching and analyzing data related to animal diseases, public health, and environmental factors to formulate evidence-based policies. Animal Health Policy Advisors also provide expert advice and guidance on issues like disease prevention, outbreak management, and zoonotic diseases. They play a vital role in promoting animal welfare, protecting public health, and ensuring the sustainable management of animal populations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Animal Health Policy Advisor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Animal Health Policy Advisor interviews to help you prepare and succeed.

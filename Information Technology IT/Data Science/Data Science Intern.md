@@ -2,6 +2,12 @@
 
 Welcome to the Data Science Intern Interview Preparation ! This resource is designed to help you ace your Data Science Intern interviews with confidence.
 
+Information Technology (IT) is a field that encompasses the use of computers, software, and networks to store, retrieve, transmit, and manipulate data. It involves the management and processing of information to support various business operations and decision-making processes. 
+
+Data Science, on the other hand, is a specialized field within IT that focuses on extracting insights and knowledge from large volumes of structured and unstructured data. It involves the use of statistical analysis, machine learning, and programming skills to uncover patterns, trends, and correlations that can drive business strategies and improve operational efficiency.
+
+A Data Science Intern job offers an opportunity for individuals to gain hands-on experience in the field. Interns typically work closely with data scientists and analysts, assisting in data collection, cleaning, and analysis using various tools and programming languages. They may also be involved in developing and implementing predictive models, visualizations, and reports for the organization. This internship provides valuable exposure to real-world data science projects and helps interns develop the necessary skills and knowledge for a successful career in this rapidly growing field.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Science Intern or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Science Intern interviews to help you prepare and succeed.

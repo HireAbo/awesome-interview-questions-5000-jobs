@@ -2,6 +2,8 @@
 
 Welcome to the Nuclear Health Physicist Interview Preparation ! This resource is designed to help you ace your Nuclear Health Physicist interviews with confidence.
 
+A Nuclear Health Physicist is a specialized professional within the field of Nuclear Energy and Utilities. These experts play a crucial role in ensuring the safety and proper functioning of nuclear power plants, research facilities, and other related industries. Their primary responsibility is to protect workers, the public, and the environment from the potential hazards associated with nuclear radiation. Nuclear Health Physicists employ their knowledge of radiation physics, biology, and safety regulations to develop and implement radiation protection programs, conduct routine inspections and measurements, analyze data, and provide recommendations for improving safety protocols. Their expertise is essential for maintaining a safe and secure environment in the nuclear energy sector.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nuclear Health Physicist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nuclear Health Physicist interviews to help you prepare and succeed.

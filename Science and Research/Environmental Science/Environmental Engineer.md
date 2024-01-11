@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Engineer Interview Preparation ! This resource is designed to help you ace your Environmental Engineer interviews with confidence.
 
+Environmental science is a branch of science that focuses on understanding and addressing environmental issues. It encompasses various fields such as ecology, geology, chemistry, and biology, and seeks to find sustainable solutions to protect and preserve the environment. Within this field, environmental engineers play a crucial role in applying scientific principles to design, develop, and implement technologies and systems that minimize the negative impacts of human activities on the environment. These professionals are responsible for conducting research, analyzing data, and developing strategies to manage environmental challenges like pollution, waste management, and climate change. Their work is essential in creating a greener and healthier planet for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Engineer interviews to help you prepare and succeed.

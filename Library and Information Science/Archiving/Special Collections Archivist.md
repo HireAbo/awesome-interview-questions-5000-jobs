@@ -2,6 +2,8 @@
 
 Welcome to the Special Collections Archivist Interview Preparation ! This resource is designed to help you ace your Special Collections Archivist interviews with confidence.
 
+Library and Information Science is a field that focuses on the management and organization of information resources in libraries, archives, and other information organizations. Within this field, one specialized area is Archiving, where professionals work to preserve and provide access to valuable and unique materials for research and cultural purposes. A crucial role within Archiving is that of a Special Collections Archivist. As a Special Collections Archivist, individuals are responsible for acquiring, appraising, arranging, describing, and preserving rare and unique materials, such as manuscripts, photographs, maps, and audiovisual materials. They also play a vital role in promoting these collections, facilitating research access, and curating exhibitions to increase public engagement with these valuable resources.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Special Collections Archivist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Special Collections Archivist interviews to help you prepare and succeed.

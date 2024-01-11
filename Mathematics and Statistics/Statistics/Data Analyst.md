@@ -2,6 +2,8 @@
 
 Welcome to the Data Analyst Interview Preparation ! This resource is designed to help you ace your Data Analyst interviews with confidence.
 
+Mathematics and Statistics are two closely related fields that deal with the collection, analysis, interpretation, and presentation of quantitative data. Statistics is a branch of mathematics that focuses on the organization, analysis, and interpretation of data, helping us make informed decisions and predictions based on patterns and trends. In the field of Data Analysis, statisticians play a crucial role in extracting valuable insights from vast amounts of data. A Data Analyst job involves collecting and cleaning data, applying statistical techniques to analyze it, and presenting findings in a clear and meaningful way. They help businesses and organizations make data-driven decisions and solve complex problems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Analyst interviews to help you prepare and succeed.

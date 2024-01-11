@@ -2,6 +2,8 @@
 
 Welcome to the Compensation Analyst Interview Preparation ! This resource is designed to help you ace your Compensation Analyst interviews with confidence.
 
+A Compensation Analyst is a vital role in the field of Human Resources and plays a crucial part in ensuring fair and competitive compensation practices within an organization. This job involves evaluating and analyzing compensation data, conducting market research, and developing strategies to attract and retain top talent. The Compensation Analyst works closely with HR teams, managers, and executives to design and implement compensation programs that align with the company's goals and objectives. They also provide recommendations on salary structures, incentive plans, and benefits packages. Strong analytical skills, knowledge of labor laws, and the ability to interpret market trends are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Compensation Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Compensation Analyst interviews to help you prepare and succeed.

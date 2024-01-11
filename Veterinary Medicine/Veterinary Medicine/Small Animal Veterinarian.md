@@ -2,6 +2,8 @@
 
 Welcome to the Small Animal Veterinarian Interview Preparation ! This resource is designed to help you ace your Small Animal Veterinarian interviews with confidence.
 
+A small animal veterinarian plays a vital role in providing medical care for pets, such as dogs, cats, and small mammals. They are responsible for diagnosing, treating, and preventing illnesses and injuries in animals, as well as performing surgeries, vaccinations, and routine check-ups. These professionals have extensive knowledge of animal anatomy, physiology, and diseases, allowing them to accurately diagnose and provide appropriate treatments for various health conditions. Additionally, small animal veterinarians often offer advice to pet owners regarding nutrition, behavior, and overall animal wellness. Their compassion for animals, combined with their expertise in veterinary medicine, ensures that pets receive the best possible care for a healthy and happy life.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Small Animal Veterinarian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Small Animal Veterinarian interviews to help you prepare and succeed.

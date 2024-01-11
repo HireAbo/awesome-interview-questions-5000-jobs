@@ -2,6 +2,8 @@
 
 Welcome to the Network SDN (Software-Defined Networking) Engineer Interview Preparation ! This resource is designed to help you ace your Network SDN (Software-Defined Networking) Engineer interviews with confidence.
 
+A Network SDN (Software-Defined Networking) Engineer is a professional who specializes in the field of Information Technology (IT) and Network Engineering. This role involves working with software-defined networking technology to design, implement, and manage network infrastructures. Network SDN Engineers are responsible for configuring and maintaining network devices, such as switches and routers, and ensuring their smooth operation. They also play a critical role in developing and implementing network security measures, troubleshooting network issues, and optimizing network performance. With the increasing demand for software-defined networking solutions, Network SDN Engineers are in high demand and play a crucial role in enabling organizations to achieve efficient and scalable networks.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Network SDN (Software-Defined Networking) Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Network SDN (Software-Defined Networking) Engineer interviews to help you prepare and succeed.

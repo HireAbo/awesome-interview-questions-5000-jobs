@@ -2,6 +2,8 @@
 
 Welcome to the Layout Artist Interview Preparation ! This resource is designed to help you ace your Layout Artist interviews with confidence.
 
+A Layout Artist is a key role in the field of Graphic Design, specializing in creating visually appealing and effective layouts for various media platforms. They possess a keen eye for design principles, composition, and typography. The primary responsibility of a Layout Artist is to arrange images, text, and other design elements in a visually pleasing and communicative manner. They work closely with clients, creative directors, and other team members to understand the project requirements and translate them into compelling visual designs. Proficiency in design software such as Adobe Illustrator, InDesign, and Photoshop is essential for a Layout Artist, along with strong communication and problem-solving skills.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Layout Artist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Layout Artist interviews to help you prepare and succeed.

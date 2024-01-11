@@ -2,6 +2,8 @@
 
 Welcome to the Urban Planner Interview Preparation ! This resource is designed to help you ace your Urban Planner interviews with confidence.
 
+Urban planners are professionals who play a crucial role in shaping the physical and social aspects of cities and communities. With a focus on improving the quality of life for residents, urban planners utilize their expertise in social sciences, particularly sociology, to analyze and understand the complex dynamics of urban environments. They examine social, economic, and environmental factors to develop plans and policies that promote sustainable development, efficient land use, and equitable access to resources. Urban planners collaborate with government agencies, community organizations, and stakeholders to create vibrant and inclusive spaces, addressing issues such as transportation, housing, and public services. Their work ultimately aims to create thriving, resilient, and livable cities for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Urban Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Urban Planner interviews to help you prepare and succeed.

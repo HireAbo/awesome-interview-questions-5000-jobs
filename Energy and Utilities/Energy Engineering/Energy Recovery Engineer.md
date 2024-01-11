@@ -2,6 +2,8 @@
 
 Welcome to the Energy Recovery Engineer Interview Preparation ! This resource is designed to help you ace your Energy Recovery Engineer interviews with confidence.
 
+An Energy Recovery Engineer is a professional responsible for designing, implementing, and optimizing energy recovery systems within various industries. These systems capture and utilize waste energy from industrial processes and convert it into usable forms, thereby reducing energy consumption and environmental impact. The Energy Recovery Engineer conducts thorough energy audits to identify potential energy sources and develops innovative solutions to recover and harness this energy effectively. They collaborate with multidisciplinary teams to design and integrate energy recovery systems into existing infrastructure, ensuring maximum efficiency and cost-effectiveness. Additionally, Energy Recovery Engineers stay up-to-date with emerging technologies and industry trends to continuously improve energy recovery processes and contribute to sustainable energy practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Energy Recovery Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Energy Recovery Engineer interviews to help you prepare and succeed.

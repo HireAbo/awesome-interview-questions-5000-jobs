@@ -2,6 +2,8 @@
 
 Welcome to the Forensic Psychologist Interview Preparation ! This resource is designed to help you ace your Forensic Psychologist interviews with confidence.
 
+A forensic psychologist is a professional who applies psychological principles and techniques to legal matters and the criminal justice system. They specialize in understanding the behavior and mental processes of individuals involved in legal cases. Forensic psychologists work in a variety of settings, including courts, correctional facilities, law enforcement agencies, and mental health institutions. Their main roles include conducting psychological assessments, providing expert testimony in court, evaluating offenders' risk of reoffending, and developing treatment plans for individuals involved in the criminal justice system. They often collaborate with other professionals, such as lawyers, police officers, and probation officers, to ensure justice is served while considering the psychological well-being of all parties involved.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forensic Psychologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forensic Psychologist interviews to help you prepare and succeed.

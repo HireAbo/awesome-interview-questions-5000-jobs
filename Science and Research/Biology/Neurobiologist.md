@@ -2,6 +2,8 @@
 
 Welcome to the Neurobiologist Interview Preparation ! This resource is designed to help you ace your Neurobiologist interviews with confidence.
 
+A Neurobiologist is a scientist specializing in the field of biology and specifically focusing on the study of the nervous system and its intricate workings. This branch of biology is dedicated to understanding the complexities of the brain and the nervous system at both cellular and molecular levels. Neurobiologists conduct research to investigate various aspects of the nervous system, including its development, structure, function, and the mechanisms underlying neurological disorders. Through extensive laboratory work, experiments, and data analysis, neurobiologists contribute to the advancement of knowledge in areas such as neurophysiology, neurochemistry, neuroanatomy, and neuropharmacology. Their findings and discoveries have the potential to greatly impact our understanding of brain function and contribute to the development of treatments for neurological diseases and disorders.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Neurobiologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Neurobiologist interviews to help you prepare and succeed.

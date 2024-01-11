@@ -2,6 +2,8 @@
 
 Welcome to the Carpentry Foreman Interview Preparation ! This resource is designed to help you ace your Carpentry Foreman interviews with confidence.
 
+A Carpentry Foreman holds a crucial supervisory role in the field of skilled trades, specifically within the carpentry industry. As a Carpentry Foreman, one is responsible for overseeing and leading a team of carpenters, ensuring that projects are completed efficiently and to high standards. This role requires exceptional technical expertise in carpentry, as well as strong leadership and communication skills. A Carpentry Foreman is responsible for coordinating schedules, assigning tasks, training and mentoring apprentices, and ensuring compliance with safety regulations. They must possess excellent problem-solving abilities and be able to manage multiple projects simultaneously. A Carpentry Foreman plays a vital role in delivering successful carpentry projects while maintaining a safe and productive work environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Carpentry Foreman or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Carpentry Foreman interviews to help you prepare and succeed.

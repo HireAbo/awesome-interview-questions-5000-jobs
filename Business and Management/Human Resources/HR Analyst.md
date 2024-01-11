@@ -2,6 +2,8 @@
 
 Welcome to the HR Analyst Interview Preparation ! This resource is designed to help you ace your HR Analyst interviews with confidence.
 
+An HR Analyst plays a critical role in the field of Human Resources and is responsible for collecting, analyzing, and interpreting various HR data and metrics to support the organization's strategic decision-making process. They assist in the development and implementation of HR policies and procedures, ensuring compliance with employment laws and regulations. HR Analysts also conduct research and provide insights on employee performance, engagement, and retention, helping to identify areas for improvement and develop effective strategies. They collaborate with HR Business Partners and other stakeholders to develop workforce plans, forecast talent needs, and optimize HR programs. Strong analytical skills, attention to detail, and knowledge of HR systems are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned HR Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in HR Analyst interviews to help you prepare and succeed.

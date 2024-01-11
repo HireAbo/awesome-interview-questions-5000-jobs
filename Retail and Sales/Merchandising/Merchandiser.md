@@ -2,6 +2,8 @@
 
 Welcome to the Merchandiser Interview Preparation ! This resource is designed to help you ace your Merchandiser interviews with confidence.
 
+A merchandiser plays a crucial role in the retail and sales industry by effectively managing the presentation and promotion of products in stores. As a key member of the merchandising team, they are responsible for analyzing market trends, understanding customer preferences, and creating strategies to maximize sales and profitability. Merchandisers collaborate with suppliers, buyers, and store managers to plan and execute product displays, promotional campaigns, and pricing strategies. They also monitor inventory levels, conduct market research, and provide valuable insights to drive sales growth. A successful merchandiser possesses strong analytical skills, creative thinking, and a keen eye for detail to ensure an engaging and visually appealing shopping experience for customers.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Merchandiser or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Merchandiser interviews to help you prepare and succeed.

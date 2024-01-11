@@ -2,6 +2,8 @@
 
 Welcome to the HVAC Systems Engineer Interview Preparation ! This resource is designed to help you ace your HVAC Systems Engineer interviews with confidence.
 
+A HVAC Systems Engineer is a specialized role within the field of Mechanical Engineering that focuses on designing, analyzing, and maintaining Heating, Ventilation, and Air Conditioning (HVAC) systems. These professionals are responsible for ensuring optimal functioning and efficiency of HVAC systems in various buildings, such as commercial, residential, and industrial facilities. Their job involves conducting thorough assessments of heating and cooling requirements, selecting appropriate equipment and components, creating detailed design plans, and overseeing installation and maintenance processes. HVAC Systems Engineers also play a crucial role in troubleshooting and resolving issues related to HVAC systems, ensuring occupants' comfort, safety, and energy efficiency.
+
 ## 🚀 Overview
 
 Whether you're a seasoned HVAC Systems Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in HVAC Systems Engineer interviews to help you prepare and succeed.

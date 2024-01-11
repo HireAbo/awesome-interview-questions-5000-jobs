@@ -2,6 +2,8 @@
 
 Welcome to the Hydropower Engineer Interview Preparation ! This resource is designed to help you ace your Hydropower Engineer interviews with confidence.
 
+A Hydropower Engineer is a professional responsible for designing, constructing, and maintaining hydroelectric power plants and systems. They work in the field of renewable energy, specifically hydropower, which harnesses the power of flowing or falling water to generate electricity. These engineers conduct feasibility studies, determine the optimal location for power plants, and design hydraulic structures like dams, reservoirs, and turbines. They also oversee the installation and maintenance of equipment and ensure compliance with safety and environmental regulations. Hydropower Engineers play a crucial role in the development of sustainable energy solutions, contributing to the reduction of greenhouse gas emissions and promoting a cleaner and more efficient energy sector.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Hydropower Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Hydropower Engineer interviews to help you prepare and succeed.

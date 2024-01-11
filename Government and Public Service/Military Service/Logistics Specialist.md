@@ -2,6 +2,8 @@
 
 Welcome to the Logistics Specialist Interview Preparation ! This resource is designed to help you ace your Logistics Specialist interviews with confidence.
 
+Government and Public Service encompasses various sectors and roles dedicated to serving the needs of the public and promoting the well-being of society. Within this sector, Military Service plays a crucial role in ensuring national security and protecting the interests of a country. One key role within the military is that of a Logistics Specialist. A Logistics Specialist is responsible for managing and coordinating the movement of personnel, equipment, and supplies to support military operations. They play a pivotal role in maintaining and organizing supply chains, overseeing transportation, and ensuring efficient distribution of resources. Their expertise is essential in ensuring the success and effectiveness of military missions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Logistics Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Logistics Specialist interviews to help you prepare and succeed.

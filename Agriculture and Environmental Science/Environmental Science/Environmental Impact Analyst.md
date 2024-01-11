@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Impact Analyst Interview Preparation ! This resource is designed to help you ace your Environmental Impact Analyst interviews with confidence.
 
+An Environmental Impact Analyst is a professional who focuses on assessing the potential effects of human activities on the environment, specifically in the field of agriculture. This job requires a deep understanding of both agriculture and environmental science. These analysts conduct research and gather data to evaluate the impacts of various agricultural practices on ecosystems, water quality, air pollution, and biodiversity. They analyze the environmental risks and benefits of different farming methods, such as pesticide use, irrigation systems, and livestock management. By identifying potential environmental hazards and proposing sustainable solutions, Environmental Impact Analysts help ensure that agriculture practices are carried out in an environmentally responsible and sustainable manner.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Impact Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Impact Analyst interviews to help you prepare and succeed.

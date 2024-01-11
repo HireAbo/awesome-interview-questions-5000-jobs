@@ -2,6 +2,8 @@
 
 Welcome to the Acting Coach Interview Preparation ! This resource is designed to help you ace your Acting Coach interviews with confidence.
 
+An acting coach is a professional who guides and trains individuals in the field of acting. They play a crucial role in helping aspiring actors develop their skills, techniques, and confidence necessary for success in the entertainment industry. Acting coaches use a combination of exercises, improvisation, scene study, and character analysis to help actors improve their craft. They provide valuable feedback, advice, and support to help actors refine their performances and overcome any challenges they may face. Acting coaches often have extensive experience in the industry and may have worked as actors themselves. Their expertise and guidance are essential in helping actors reach their full potential and achieve their career goals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Acting Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Acting Coach interviews to help you prepare and succeed.

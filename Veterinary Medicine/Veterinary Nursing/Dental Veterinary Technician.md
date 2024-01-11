@@ -2,6 +2,8 @@
 
 Welcome to the Dental Veterinary Technician Interview Preparation ! This resource is designed to help you ace your Dental Veterinary Technician interviews with confidence.
 
+Veterinary Medicine is a specialized field of healthcare that focuses on the treatment and care of animals. It involves diagnosing, preventing, and treating various medical conditions that affect animals. Veterinary nurses play a crucial role in assisting veterinarians and providing quality healthcare to animals. They perform tasks such as taking medical histories, administering medications, assisting with surgeries, and providing post-operative care. Within the field of veterinary nursing, there is a specialized role known as a Dental Veterinary Technician. These professionals assist in dental procedures, including cleaning teeth, taking dental x-rays, and educating pet owners on proper dental hygiene for their animals. Their expertise ensures optimal oral health for animals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Dental Veterinary Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Dental Veterinary Technician interviews to help you prepare and succeed.

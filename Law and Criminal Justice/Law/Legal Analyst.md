@@ -2,6 +2,8 @@
 
 Welcome to the Legal Analyst Interview Preparation ! This resource is designed to help you ace your Legal Analyst interviews with confidence.
 
+A legal analyst plays a crucial role in the field of law and criminal justice. As an expert in legal matters, they are responsible for analyzing and interpreting complex legal documents, such as contracts, statutes, and case laws. They assist attorneys by conducting in-depth research, preparing legal briefs, and providing valuable insights on legal strategies. Additionally, legal analysts review evidence, interview witnesses, and help in building strong cases for litigation. They possess excellent analytical skills, attention to detail, and a deep understanding of legal principles and procedures. A career as a legal analyst offers a dynamic and challenging environment, where individuals can contribute to the pursuit of justice and the rule of law.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Legal Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Legal Analyst interviews to help you prepare and succeed.

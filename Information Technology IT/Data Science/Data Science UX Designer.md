@@ -2,6 +2,8 @@
 
 Welcome to the Data Science UX Designer Interview Preparation ! This resource is designed to help you ace your Data Science UX Designer interviews with confidence.
 
+Information Technology (IT) is a broad field that encompasses the use, development, and management of computer systems, software, networks, and electronic data. Within IT, Data Science is a specialized area that focuses on extracting valuable insights and knowledge from large sets of data through the use of statistical analysis, machine learning, and other advanced techniques. Data Science UX Designer job combines the skills of a Data Scientist and a User Experience (UX) Designer to create intuitive and user-friendly data-driven products and interfaces. They work on designing and implementing data visualizations, interactive dashboards, and user interfaces that effectively communicate complex data to end-users, enabling them to make informed decisions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Science UX Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Science UX Designer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Systematist Interview Preparation ! This resource is designed to help you ace your Systematist interviews with confidence.
 
+A Systematist is a professional in the field of Biology who specializes in the study of living organisms and their classification. They play a crucial role in scientific research and contribute to the understanding of the diversity and relationships among different species. Systematists use various techniques and tools, such as DNA analysis, morphological characteristics, and ecological data, to classify and categorize organisms into taxonomic groups. They also investigate the evolutionary history and phylogenetic relationships between different species. Systematists work in laboratories, museums, universities, or research institutions, collaborating with other scientists and conducting fieldwork to collect samples and gather data. Their work is vital for conservation efforts, understanding biodiversity, and advancing our knowledge of the natural world.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Systematist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Systematist interviews to help you prepare and succeed.

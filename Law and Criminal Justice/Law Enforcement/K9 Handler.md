@@ -2,6 +2,8 @@
 
 Welcome to the K-9 Handler Interview Preparation ! This resource is designed to help you ace your K-9 Handler interviews with confidence.
 
+A K-9 Handler is a specialized law enforcement officer responsible for the training, care, and utilization of police dogs in the field of law enforcement. These highly trained professionals work alongside their canine partners to detect and apprehend suspects, search for missing persons, and locate illegal drugs or explosives. K-9 Handlers undergo rigorous training to develop a strong bond and effective communication with their dogs. They must also possess a thorough understanding of various criminal justice procedures and laws to ensure the proper application of their canine partners in different situations. K-9 Handlers play an essential role in maintaining public safety and aiding in criminal investigations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned K-9 Handler or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in K-9 Handler interviews to help you prepare and succeed.

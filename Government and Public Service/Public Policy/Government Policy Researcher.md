@@ -2,6 +2,8 @@
 
 Welcome to the Government Policy Researcher Interview Preparation ! This resource is designed to help you ace your Government Policy Researcher interviews with confidence.
 
+A Government Policy Researcher is a professional who specializes in analyzing and evaluating government policies and their impact on society. They play a crucial role in the development and implementation of public policies that address various social, economic, and environmental issues. These researchers are responsible for conducting extensive research, gathering data, and analyzing policy options to provide evidence-based recommendations to policymakers. They work closely with government agencies, think tanks, and non-profit organizations to identify areas for policy improvement and propose effective solutions. A Government Policy Researcher must have strong analytical and research skills, as well as a deep understanding of public policy and its implications.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Government Policy Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Government Policy Researcher interviews to help you prepare and succeed.

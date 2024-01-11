@@ -2,6 +2,8 @@
 
 Welcome to the Broadcasting Sales Manager Interview Preparation ! This resource is designed to help you ace your Broadcasting Sales Manager interviews with confidence.
 
+A Broadcasting Sales Manager is a key role within the Communication and Media industry, specifically in the field of Broadcasting. This position requires exceptional sales and communication skills to effectively manage and lead a team of sales professionals. Broadcasting Sales Managers are responsible for generating revenue by selling advertising time or space to clients for radio and television broadcasts. They work closely with clients to understand their advertising needs and develop customized solutions to meet their objectives. Additionally, Broadcasting Sales Managers are in charge of setting sales targets, monitoring performance, and implementing strategies to achieve sales goals. This role demands a strong understanding of the media landscape and the ability to build and maintain relationships with clients.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Broadcasting Sales Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Broadcasting Sales Manager interviews to help you prepare and succeed.

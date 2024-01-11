@@ -2,6 +2,8 @@
 
 Welcome to the Fixed Income Analyst Interview Preparation ! This resource is designed to help you ace your Fixed Income Analyst interviews with confidence.
 
+A Fixed Income Analyst is a professional who specializes in analyzing and evaluating fixed income securities and financial products. This role primarily focuses on analyzing bonds, treasury bills, and other debt instruments to provide insights on their risk and return profiles. Fixed Income Analysts closely monitor market trends, economic indicators, and interest rate movements to make informed investment recommendations. They conduct in-depth research and financial modeling to assess credit risk, liquidity, and yield potential of fixed income securities. Additionally, Fixed Income Analysts play a crucial role in constructing investment portfolios, developing investment strategies, and providing recommendations to clients and portfolio managers.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Fixed Income Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Fixed Income Analyst interviews to help you prepare and succeed.

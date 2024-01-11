@@ -2,6 +2,8 @@
 
 Welcome to the Land Development Engineer Interview Preparation ! This resource is designed to help you ace your Land Development Engineer interviews with confidence.
 
+A Land Development Engineer is a specialized civil engineer who focuses on planning, designing, and overseeing the construction of land development projects. These professionals play a crucial role in transforming raw land into functional and sustainable communities. They are responsible for conducting feasibility studies, analyzing site conditions, and developing site plans that incorporate infrastructure systems like roads, utilities, and drainage. Land Development Engineers also collaborate with architects, surveyors, and regulatory agencies to ensure compliance with all relevant codes and regulations. Their expertise is essential in balancing the needs of the community with environmental concerns, ensuring safe and efficient land development projects.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Land Development Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Land Development Engineer interviews to help you prepare and succeed.

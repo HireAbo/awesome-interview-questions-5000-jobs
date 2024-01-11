@@ -2,6 +2,8 @@
 
 Welcome to the Chemical Sales Engineer Interview Preparation ! This resource is designed to help you ace your Chemical Sales Engineer interviews with confidence.
 
+A Chemical Sales Engineer is a professional who combines their knowledge of engineering principles with their understanding of chemical processes and materials to sell chemical products and solutions to clients. They work closely with customers to identify their needs and provide technical expertise and guidance on the appropriate chemical products to meet those needs. This role requires strong communication and interpersonal skills to build relationships with clients and effectively convey the benefits and applications of the chemical products being sold. Chemical Sales Engineers also stay up-to-date with industry trends and developments to offer innovative solutions to clients and drive sales growth.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Chemical Sales Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Chemical Sales Engineer interviews to help you prepare and succeed.

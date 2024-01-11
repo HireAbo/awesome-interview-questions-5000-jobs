@@ -2,6 +2,8 @@
 
 Welcome to the Aircraft Mechanic Interview Preparation ! This resource is designed to help you ace your Aircraft Mechanic interviews with confidence.
 
+Aviation and Aerospace encompass a vast field of technology and engineering, with one crucial aspect being aircraft maintenance. Aircraft Mechanics play a vital role in this sector, ensuring the safe and efficient operation of aircraft. These professionals are responsible for inspecting, diagnosing, repairing, and maintaining various systems and components of an aircraft, including engines, avionics, hydraulics, and airframes. They possess extensive knowledge of aircraft systems, blueprints, and technical manuals. Aircraft Mechanics also perform routine maintenance tasks, conduct inspections, and troubleshoot any mechanical or electrical issues to ensure compliance with safety regulations. Their expertise and attention to detail contribute to the overall performance and safety of aircraft, making them indispensable in the aviation industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Aircraft Mechanic or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Aircraft Mechanic interviews to help you prepare and succeed.

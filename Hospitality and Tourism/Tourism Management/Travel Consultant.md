@@ -2,6 +2,8 @@
 
 Welcome to the Travel Consultant Interview Preparation ! This resource is designed to help you ace your Travel Consultant interviews with confidence.
 
+Hospitality and Tourism is an industry that focuses on providing services to tourists and travelers. It encompasses various sectors, including hotels, restaurants, travel agencies, and transportation. Within this industry, Tourism Management plays a crucial role in planning, organizing, and coordinating travel activities. A Travel Consultant job falls under Tourism Management and involves assisting clients in creating and arranging their travel itineraries. This includes booking flights, accommodations, tours, and other travel-related services. Travel Consultants need to possess excellent communication and organizational skills, as well as a strong knowledge of popular destinations and travel trends. They strive to provide exceptional customer service and ensure an enjoyable and hassle-free travel experience for their clients.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Travel Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Travel Consultant interviews to help you prepare and succeed.

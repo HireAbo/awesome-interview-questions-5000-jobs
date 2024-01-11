@@ -2,6 +2,8 @@
 
 Welcome to the Education Program Developer Interview Preparation ! This resource is designed to help you ace your Education Program Developer interviews with confidence.
 
+An Education Program Developer is responsible for designing and developing educational programs and curricula for various academic institutions. This role requires a deep understanding of educational principles, learning theories, and curriculum development methodologies. The Education Program Developer collaborates with educators, subject matter experts, and instructional designers to create engaging and effective educational experiences. They conduct research, analyze data, and identify learning objectives to ensure that the curriculum aligns with the needs of the target audience. Additionally, they incorporate innovative teaching methods, interactive technologies, and assessment strategies to enhance the learning process. The Education Program Developer plays a crucial role in shaping the educational experiences and outcomes for students and educators alike.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Education Program Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Education Program Developer interviews to help you prepare and succeed.

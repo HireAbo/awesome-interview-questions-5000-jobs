@@ -2,6 +2,10 @@
 
 Welcome to the Taxonomist Interview Preparation ! This resource is designed to help you ace your Taxonomist interviews with confidence.
 
+Library and Information Science is a field that focuses on the organization, management, and retrieval of information resources. One specialized area within this field is Information Management, which involves the systematic handling of information to facilitate its organization and accessibility. 
+
+Within the realm of Information Management, the role of a Taxonomist is crucial. A Taxonomist is responsible for developing and implementing classification systems, which involve organizing and categorizing information in a structured manner. They create taxonomies, or controlled vocabularies, that help users navigate and locate information efficiently. Taxonomists work closely with information professionals, such as librarians and archivists, to ensure that information is accurately labeled and easily retrievable. Their expertise in organizing and classifying information aids in improving search functionality, enhancing user experience, and enabling effective information retrieval.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Taxonomist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Taxonomist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Cultural Heritage Archivist Interview Preparation ! This resource is designed to help you ace your Cultural Heritage Archivist interviews with confidence.
 
+Library and Information Science (LIS) is a multidisciplinary field that focuses on the organization, preservation, and dissemination of information. Within this field, archiving plays a crucial role in ensuring the long-term preservation of historical and cultural materials. Cultural Heritage Archivists are professionals in LIS who specialize in the management and preservation of archival collections related to cultural heritage. They work closely with libraries, museums, and other cultural institutions to identify, acquire, catalog, and preserve valuable documents, photographs, recordings, and other artifacts of historical significance. Cultural Heritage Archivists also play a vital role in making these materials accessible to the public, facilitating research, educational programs, and exhibitions that celebrate and promote cultural heritage.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cultural Heritage Archivist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cultural Heritage Archivist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Sustainable Crop Advisor Interview Preparation ! This resource is designed to help you ace your Sustainable Crop Advisor interviews with confidence.
 
+Agriculture and Environmental Science is a field that focuses on the study of sustainable farming practices and their impact on the environment. Sustainable agriculture aims to meet the needs of the present generation while preserving resources for future generations. Within this field, a Sustainable Crop Advisor plays a crucial role in promoting sustainable farming techniques to optimize crop production while minimizing negative environmental effects. These advisors assist farmers in implementing sustainable practices, such as crop rotation, integrated pest management, and soil conservation methods. They also provide recommendations on organic farming, water and energy conservation, and the use of eco-friendly technologies. Ultimately, their goal is to ensure a balance between agricultural productivity and environmental preservation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sustainable Crop Advisor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sustainable Crop Advisor interviews to help you prepare and succeed.

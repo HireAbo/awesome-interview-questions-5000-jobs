@@ -2,6 +2,10 @@
 
 Welcome to the Network Security Administrator Interview Preparation ! This resource is designed to help you ace your Network Security Administrator interviews with confidence.
 
+Information Technology (IT) plays a crucial role in today's digital world, and within the IT domain, Network Engineering is a specialized field that focuses on the design, implementation, and management of computer networks. A specific job role within Network Engineering is that of a Network Security Administrator. 
+
+A Network Security Administrator is responsible for ensuring the security and integrity of an organization's computer network. They analyze network vulnerabilities, implement security measures, and monitor network traffic to detect and prevent unauthorized access, data breaches, and cyber-attacks. Additionally, they develop and enforce network security policies, conduct regular security audits, and train employees on best practices for network security. A Network Security Administrator plays a vital role in safeguarding sensitive information and ensuring the smooth functioning of an organization's network infrastructure.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Network Security Administrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Network Security Administrator interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Sales Support Coordinator Interview Preparation ! This resource is designed to help you ace your Sales Support Coordinator interviews with confidence.
 
+A Sales Support Coordinator plays a crucial role in the retail and sales industry by providing essential support to the sales team and ensuring smooth operations. This job involves managing sales orders, coordinating with various departments, and ensuring customer satisfaction. The Sales Support Coordinator is responsible for assisting the sales team in achieving their targets and maintaining strong client relationships. They handle administrative tasks such as preparing sales reports, managing inventory, and processing sales orders. Excellent organizational and communication skills are vital for this role, as the Sales Support Coordinator acts as a liaison between the sales team, customers, and other internal departments to ensure efficient sales processes and customer success.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sales Support Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sales Support Coordinator interviews to help you prepare and succeed.

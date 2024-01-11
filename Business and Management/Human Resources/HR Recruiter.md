@@ -2,6 +2,8 @@
 
 Welcome to the HR Recruiter Interview Preparation ! This resource is designed to help you ace your HR Recruiter interviews with confidence.
 
+A HR Recruiter is a crucial role within the field of Human Resources, focusing on finding and attracting the right talent for an organization. They are responsible for managing the entire recruitment process, from sourcing potential candidates to conducting interviews and facilitating the hiring process. HR Recruiters work closely with hiring managers and department heads to understand their staffing needs and develop effective recruitment strategies. They also review resumes, conduct background checks, and negotiate job offers. This role requires excellent communication and interpersonal skills, as well as a deep understanding of the organization's goals and culture to ensure the right fit for both the candidate and the company.
+
 ## 🚀 Overview
 
 Whether you're a seasoned HR Recruiter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in HR Recruiter interviews to help you prepare and succeed.

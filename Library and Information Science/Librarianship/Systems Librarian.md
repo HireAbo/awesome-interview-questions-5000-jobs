@@ -2,6 +2,8 @@
 
 Welcome to the Systems Librarian Interview Preparation ! This resource is designed to help you ace your Systems Librarian interviews with confidence.
 
+A Systems Librarian is a professional in the field of Library and Information Science (LIS) who specializes in the management and maintenance of library systems and technologies. These professionals play a crucial role in ensuring the smooth functioning of library operations, as they are responsible for the development, implementation, and administration of various library systems, including integrated library systems (ILS), digital asset management systems, and discovery tools. Systems Librarians are skilled in troubleshooting technical issues, ensuring data integrity, and providing training and support to library staff and users. Their expertise in managing and optimizing library technologies helps improve access to information resources and enhance the overall user experience within libraries.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Systems Librarian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Systems Librarian interviews to help you prepare and succeed.

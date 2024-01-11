@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Broker Interview Preparation ! This resource is designed to help you ace your Real Estate Broker interviews with confidence.
 
+Real Estate and Property Management is a thriving industry that deals with the buying, selling, and managing of properties. Within this field, Real Estate Sales involves the process of facilitating property transactions between buyers and sellers. A crucial role within this domain is that of a Real Estate Broker. A Real Estate Broker acts as a knowledgeable intermediary between buyers and sellers, assisting them in finding suitable properties or buyers, negotiating deals, and ensuring legal compliance. They possess a deep understanding of the local real estate market, property values, and market trends. Real Estate Brokers play a pivotal role in helping clients navigate the complex world of real estate transactions and achieve their desired outcomes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Broker or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Broker interviews to help you prepare and succeed.

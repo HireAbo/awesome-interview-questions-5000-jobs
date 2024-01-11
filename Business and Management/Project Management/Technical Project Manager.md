@@ -2,6 +2,8 @@
 
 Welcome to the Technical Project Manager Interview Preparation ! This resource is designed to help you ace your Technical Project Manager interviews with confidence.
 
+A Technical Project Manager plays a crucial role in overseeing and executing projects within the field of Business and Management, specifically in the realm of Project Management. This position requires a combination of technical expertise and project management skills to successfully deliver technical projects. A Technical Project Manager is responsible for planning, coordinating, and executing projects, while ensuring that they are completed within the agreed-upon time frame, budget, and quality standards. They collaborate with cross-functional teams, stakeholders, and clients to define project objectives, identify potential risks, and develop effective strategies for successful project delivery. A Technical Project Manager must possess strong leadership, communication, and problem-solving skills to effectively manage and motivate their team throughout the project lifecycle.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Technical Project Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Technical Project Manager interviews to help you prepare and succeed.

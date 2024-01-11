@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Scientist Interview Preparation ! This resource is designed to help you ace your Environmental Scientist interviews with confidence.
 
+Environmental science is a multidisciplinary field that focuses on understanding the interconnections between humans and the environment. It encompasses various branches, including ecology, geology, chemistry, and biology. Environmental scientists play a crucial role in this domain, employing scientific methods to study and address environmental issues. Their job involves conducting research, collecting and analyzing data, and developing strategies to mitigate the negative impacts of human activities on the environment. They work on a wide range of topics, such as air and water pollution, climate change, biodiversity loss, and sustainable resource management. Environmental scientists are vital in informing policy decisions and implementing solutions to protect and preserve our planet for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Scientist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Film Publicist Interview Preparation ! This resource is designed to help you ace your Film Publicist interviews with confidence.
 
+A film publicist plays a crucial role in the entertainment and performing arts industry, specifically in the field of film production. As a film publicist, their primary responsibility is to promote and create buzz around a film, ensuring its success and reaching a wider audience. They strategize and implement effective publicity campaigns, working closely with the film's cast, crew, and production team. This includes organizing press events, managing media relations, coordinating interviews, and generating positive media coverage. A film publicist possesses strong communication and networking skills, staying up-to-date with industry trends, and understands the importance of building and maintaining relationships with journalists, critics, and influencers.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Film Publicist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Film Publicist interviews to help you prepare and succeed.

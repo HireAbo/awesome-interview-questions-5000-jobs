@@ -2,6 +2,8 @@
 
 Welcome to the Sports Coach Interview Preparation ! This resource is designed to help you ace your Sports Coach interviews with confidence.
 
+Sports and athletics play a vital role in shaping individuals physically, mentally, and emotionally. Amidst this, the role of a sports coach becomes crucial. A sports coach is responsible for the development and enhancement of athletes' skills and abilities. They provide guidance, support, and motivation to athletes to help them achieve their full potential. They design training programs, analyze performance, and provide constructive feedback to improve technique and tactics. A sports coach is not just a mentor but also a leader who instills discipline, teamwork, and sportsmanship. They play a significant role in creating a positive and nurturing environment where athletes can thrive and excel in their respective sports.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sports Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sports Coach interviews to help you prepare and succeed.

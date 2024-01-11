@@ -2,6 +2,8 @@
 
 Welcome to the Healthcare Executive Interview Preparation ! This resource is designed to help you ace your Healthcare Executive interviews with confidence.
 
+Healthcare and Medicine is a vast field encompassing various aspects of patient care, research, and administration. Within this field, Healthcare Administration plays a crucial role in ensuring the smooth functioning of healthcare organizations. A Healthcare Executive, also known as a Healthcare Administrator or Manager, is responsible for overseeing the operations, financial management, and strategic planning of healthcare facilities. They collaborate with physicians, nurses, and other healthcare professionals to ensure high-quality patient care, manage budgets, implement policies, and maintain compliance with healthcare regulations. Healthcare Executives play a pivotal role in shaping the future of healthcare by improving efficiency, quality, and access to healthcare services. They require strong leadership, analytical skills, and a deep understanding of healthcare systems and policies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Healthcare Executive or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Healthcare Executive interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Nonprofit Technology Specialist Interview Preparation ! This resource is designed to help you ace your Nonprofit Technology Specialist interviews with confidence.
 
+A Nonprofit Technology Specialist plays a crucial role in the field of Social Work and Human Services. This job involves utilizing various technological tools and strategies to support nonprofit organizations in achieving their mission and goals. The specialist is responsible for creating and implementing effective technology solutions that enhance the efficiency and effectiveness of nonprofit management. They handle tasks such as evaluating software and hardware needs, managing databases and information systems, training staff on technology usage, and providing technical support. By staying up-to-date with the latest advancements in nonprofit technology, these specialists ensure that organizations can maximize their impact and better serve their communities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nonprofit Technology Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nonprofit Technology Specialist interviews to help you prepare and succeed.

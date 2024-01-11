@@ -2,6 +2,8 @@
 
 Welcome to the Cybersecurity Engineer Interview Preparation ! This resource is designed to help you ace your Cybersecurity Engineer interviews with confidence.
 
+A Cybersecurity Engineer is a crucial role within the field of Information Technology (IT) and Software Development. In today's digital age, where cyber threats are constantly evolving, organizations rely on Cybersecurity Engineers to protect their sensitive information and systems from potential breaches. These professionals are responsible for designing, implementing, and maintaining robust security measures to safeguard networks, software, and hardware. They conduct regular security assessments, identify vulnerabilities, and develop strategies to mitigate risks. Cybersecurity Engineers also play a pivotal role in incident response, investigating security incidents, and analyzing data breaches to prevent future attacks. Their expertise is essential in ensuring the confidentiality, integrity, and availability of data in the digital realm.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cybersecurity Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cybersecurity Engineer interviews to help you prepare and succeed.

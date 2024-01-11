@@ -2,6 +2,8 @@
 
 Welcome to the Software Development Coach Interview Preparation ! This resource is designed to help you ace your Software Development Coach interviews with confidence.
 
+A Software Development Coach is a professional who guides and supports individuals or teams in their software development journey. They possess extensive knowledge and experience in various software development methodologies, programming languages, and industry best practices. The primary role of a Software Development Coach is to assist developers in enhancing their technical skills, problem-solving capabilities, and overall software development expertise. They provide guidance in areas such as code quality, software design principles, testing strategies, and project management. Additionally, a Software Development Coach helps developers stay updated with the latest technologies and trends, fostering continuous learning and professional growth. Ultimately, their aim is to empower developers to deliver high-quality software solutions efficiently and effectively.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Software Development Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Software Development Coach interviews to help you prepare and succeed.

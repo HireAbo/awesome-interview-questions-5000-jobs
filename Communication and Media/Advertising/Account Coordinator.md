@@ -2,6 +2,8 @@
 
 Welcome to the Account Coordinator Interview Preparation ! This resource is designed to help you ace your Account Coordinator interviews with confidence.
 
+An Account Coordinator in the field of Advertising is responsible for managing and coordinating various advertising campaigns for clients. They act as a liaison between the client and the advertising agency, ensuring effective communication and meeting client objectives. The role involves researching and analyzing market trends, coordinating advertising materials, and managing budgets and timelines. Account Coordinators also assist in developing marketing strategies, conducting competitive analysis, and monitoring campaign performance. Excellent communication skills, both written and verbal, are essential for this job, as Account Coordinators need to convey information clearly and maintain strong relationships with clients and internal teams.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Account Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Account Coordinator interviews to help you prepare and succeed.

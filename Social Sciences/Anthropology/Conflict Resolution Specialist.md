@@ -2,6 +2,8 @@
 
 Welcome to the Conflict Resolution Specialist Interview Preparation ! This resource is designed to help you ace your Conflict Resolution Specialist interviews with confidence.
 
+A Conflict Resolution Specialist in the field of Anthropology within Social Sciences is responsible for studying and analyzing the causes and dynamics of conflicts within societies. They work towards resolving conflicts and promoting peace by employing various strategies and techniques. These specialists utilize their knowledge of cultural norms, traditions, and historical contexts to understand the root causes of conflicts. They conduct research, gather data, and engage with communities to facilitate dialogue, negotiation, and mediation processes. Conflict Resolution Specialists play a crucial role in promoting understanding, tolerance, and cooperation among individuals and groups, ultimately contributing to the development of more harmonious and inclusive societies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Conflict Resolution Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Conflict Resolution Specialist interviews to help you prepare and succeed.

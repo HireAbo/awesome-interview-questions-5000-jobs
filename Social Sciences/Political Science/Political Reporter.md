@@ -2,6 +2,8 @@
 
 Welcome to the Political Reporter Interview Preparation ! This resource is designed to help you ace your Political Reporter interviews with confidence.
 
+A Political Reporter plays a crucial role in the field of Social Sciences, specifically Political Science. This job involves gathering, analyzing, and reporting on political news and events. Political Reporters are responsible for researching and investigating political issues, conducting interviews with key political figures, and writing articles or producing news segments that inform the public about political developments. They often work for media organizations such as newspapers, magazines, television stations, or online news outlets. The primary goal of a Political Reporter is to provide accurate and unbiased information to the public, facilitating informed decision-making and promoting transparency in politics.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Political Reporter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Political Reporter interviews to help you prepare and succeed.

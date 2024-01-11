@@ -2,6 +2,8 @@
 
 Welcome to the Materials Engineer (Mechanical) Interview Preparation ! This resource is designed to help you ace your Materials Engineer (Mechanical) interviews with confidence.
 
+A Materials Engineer (Mechanical) is a professional who specializes in the field of mechanical engineering, with a focus on materials science and their application in various industries. These engineers play a crucial role in designing, developing, and testing materials to ensure their mechanical properties meet specific requirements. They are responsible for selecting the right materials for a particular application, considering factors such as strength, durability, and cost-effectiveness. Materials Engineers (Mechanical) work closely with other engineers, scientists, and manufacturers to develop new materials, improve existing ones, and solve material-related issues. They also conduct research, perform tests, and analyze data to ensure quality and efficiency in the production process.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Materials Engineer (Mechanical) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Materials Engineer (Mechanical) interviews to help you prepare and succeed.

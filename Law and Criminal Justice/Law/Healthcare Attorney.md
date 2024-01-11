@@ -2,6 +2,8 @@
 
 Welcome to the Healthcare Attorney Interview Preparation ! This resource is designed to help you ace your Healthcare Attorney interviews with confidence.
 
+A healthcare attorney is a legal professional specializing in the area of law related to healthcare and the medical industry. Their role involves providing legal advice and representation to healthcare providers, medical practitioners, pharmaceutical companies, and other entities involved in the healthcare sector. Healthcare attorneys handle a wide range of legal issues, including compliance with healthcare regulations, medical malpractice claims, patient privacy and consent, healthcare contracts, insurance disputes, and licensing matters. They work closely with healthcare professionals to ensure that their clients are in compliance with the complex and ever-changing healthcare laws and regulations. Healthcare attorneys play a crucial role in upholding the integrity of the healthcare system and ensuring the protection of patients' rights.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Healthcare Attorney or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Healthcare Attorney interviews to help you prepare and succeed.

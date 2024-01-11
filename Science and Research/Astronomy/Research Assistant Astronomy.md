@@ -2,6 +2,8 @@
 
 Welcome to the Research Assistant (Astronomy) Interview Preparation ! This resource is designed to help you ace your Research Assistant (Astronomy) interviews with confidence.
 
+Astronomy is a fascinating branch of science that explores celestial objects and phenomena in the universe. It involves studying planets, stars, galaxies, and other celestial bodies to understand their composition, behavior, and evolution. To further our knowledge in this field, research assistants play a crucial role. As a Research Assistant in Astronomy, you will work closely with astronomers and scientists to conduct experiments, collect and analyze data, and assist in the development of new theories and models. This job requires a strong background in physics, mathematics, and astrophysics, as well as proficiency in using various astronomical instruments and software. By contributing to cutting-edge research, you will help unravel the mysteries of the universe and advance our understanding of the cosmos.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Research Assistant (Astronomy) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Research Assistant (Astronomy) interviews to help you prepare and succeed.

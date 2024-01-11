@@ -2,6 +2,8 @@
 
 Welcome to the Illustrator Interview Preparation ! This resource is designed to help you ace your Illustrator interviews with confidence.
 
+An illustrator job within the field of Fine Arts combines the creativity of art and design to bring ideas to life through visual storytelling. As an illustrator, you have the opportunity to create imaginative and captivating illustrations that communicate messages, evoke emotions, and enhance narratives. This role requires not only technical skills in drawing, painting, and digital art but also a keen eye for composition, color theory, and storytelling. Illustrators collaborate with clients, authors, and designers to understand their vision and create artwork that aligns with their needs. This profession allows for artistic expression while utilizing various mediums and techniques to engage and inspire audiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Illustrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Illustrator interviews to help you prepare and succeed.

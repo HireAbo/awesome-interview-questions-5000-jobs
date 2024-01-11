@@ -2,6 +2,8 @@
 
 Welcome to the Physician Assistant Interview Preparation ! This resource is designed to help you ace your Physician Assistant interviews with confidence.
 
+The Physician Assistant (PA) profession is a crucial component of the healthcare and medicine field. PAs are highly trained healthcare professionals who work alongside physicians to provide quality medical care to patients. They are trained in various medical specialties, enabling them to diagnose illnesses, develop treatment plans, prescribe medications, and assist in surgeries. PAs play a key role in the healthcare system by providing primary and specialty care services, conducting physical examinations, interpreting diagnostic tests, and counseling patients on preventive healthcare measures. With their extensive medical knowledge and expertise, PAs contribute to improving patient outcomes, enhancing access to healthcare, and bridging the gap between patients and physicians.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Physician Assistant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Physician Assistant interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Technical Services Engineer Interview Preparation ! This resource is designed to help you ace your Technical Services Engineer interviews with confidence.
 
+A Technical Services Engineer in the field of Chemical Engineering is responsible for providing technical expertise and support to various industries, including pharmaceuticals, oil and gas, and manufacturing. This role involves troubleshooting and resolving technical issues, conducting research and analysis, and developing innovative solutions to improve processes and optimize production. Technical Services Engineers also collaborate with cross-functional teams, such as maintenance, operations, and quality assurance, to ensure the smooth operation of equipment and systems. With a strong foundation in chemical engineering principles, these professionals apply their knowledge to enhance efficiency, safety, and sustainability in industrial settings.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Technical Services Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Technical Services Engineer interviews to help you prepare and succeed.

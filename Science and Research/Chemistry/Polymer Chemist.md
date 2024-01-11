@@ -2,6 +2,8 @@
 
 Welcome to the Polymer Chemist Interview Preparation ! This resource is designed to help you ace your Polymer Chemist interviews with confidence.
 
+A Polymer Chemist is a professional in the field of Chemistry who specializes in the study and development of polymers. Polymers are large molecules made up of repeating subunits called monomers. These materials are essential in various industries, including plastics, textiles, and healthcare. As a Polymer Chemist, one conducts research to understand the structure, properties, and behavior of polymers, as well as to develop new materials with enhanced characteristics. This involves synthesizing polymers, analyzing their properties, and exploring different applications. Polymer Chemists work in laboratories, collaborating with other scientists and engineers to contribute to the advancements in materials science and technology.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Polymer Chemist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Polymer Chemist interviews to help you prepare and succeed.

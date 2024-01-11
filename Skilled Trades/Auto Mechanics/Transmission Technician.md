@@ -2,6 +2,8 @@
 
 Welcome to the Transmission Technician Interview Preparation ! This resource is designed to help you ace your Transmission Technician interviews with confidence.
 
+A Transmission Technician is a skilled tradesperson who specializes in repairing, maintaining, and diagnosing transmission-related issues in vehicles. They are highly trained professionals who possess extensive knowledge of the complex systems found in modern automobiles. Their main responsibility is to identify and address problems in the transmission, including faulty gears, clutch, torque converter, and hydraulic systems. Transmission Technicians utilize a wide range of tools and diagnostic equipment to diagnose issues accurately and perform necessary repairs or replacements. They also conduct routine maintenance, such as fluid changes, to ensure the smooth functioning of the transmission. This job requires excellent problem-solving skills, attention to detail, and a strong understanding of automotive technology.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Transmission Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Transmission Technician interviews to help you prepare and succeed.

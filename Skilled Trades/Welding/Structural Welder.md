@@ -2,6 +2,8 @@
 
 Welcome to the Structural Welder Interview Preparation ! This resource is designed to help you ace your Structural Welder interviews with confidence.
 
+A Structural Welder job is a skilled trade position that involves welding and fabricating metal components for structural purposes. These professionals play a crucial role in constructing buildings, bridges, and other infrastructure projects. They are responsible for interpreting blueprints, selecting appropriate welding techniques, and ensuring the quality and integrity of the welded joints. Structural Welders must have a strong understanding of different welding processes, such as shielded metal arc welding (SMAW), gas metal arc welding (GMAW), and flux-cored arc welding (FCAW). They also need to possess excellent attention to detail, physical stamina, and the ability to work in a variety of environmental conditions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Structural Welder or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Structural Welder interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Writer Interview Preparation ! This resource is designed to help you ace your Environmental Writer interviews with confidence.
 
+The field of Agriculture and Environmental Science focuses on the study of the relationship between agriculture and the environment. Environmental science encompasses various aspects such as environmental conservation, sustainability, and the impact of human activities on ecosystems. Within this field, the role of an Environmental Writer is crucial in disseminating knowledge and creating awareness about environmental issues. An Environmental Writer is responsible for researching and writing articles, reports, and publications to educate and inform the public about environmental concerns. They play a vital role in advocating for sustainable agricultural practices, biodiversity conservation, climate change mitigation, and overall environmental stewardship.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Writer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Writer interviews to help you prepare and succeed.

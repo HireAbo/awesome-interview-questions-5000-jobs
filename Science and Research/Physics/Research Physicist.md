@@ -2,6 +2,8 @@
 
 Welcome to the Research Physicist Interview Preparation ! This resource is designed to help you ace your Research Physicist interviews with confidence.
 
+A Research Physicist is a highly skilled professional who conducts scientific investigations and experiments in the field of Physics. They work in various settings, including universities, research institutions, and government laboratories. These professionals are dedicated to expanding our understanding of the natural world through empirical observations and theoretical analysis. Research Physicists often specialize in a specific area such as astrophysics, quantum mechanics, or particle physics. They design and carry out experiments, collect and analyze data, and publish their findings in scientific journals. They also collaborate with other scientists and engineers to develop new technologies and solve complex problems. A career as a Research Physicist requires a strong foundation in mathematics, critical thinking skills, and a passion for pushing the boundaries of knowledge.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Research Physicist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Research Physicist interviews to help you prepare and succeed.

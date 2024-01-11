@@ -2,6 +2,8 @@
 
 Welcome to the Educational Facilities Manager Interview Preparation ! This resource is designed to help you ace your Educational Facilities Manager interviews with confidence.
 
+An Educational Facilities Manager plays a vital role in the field of Education Administration. This job is focused on overseeing and managing the physical facilities within educational institutions, such as schools, colleges, and universities. The primary responsibility of an Educational Facilities Manager is to ensure that the facilities are well-maintained, safe, and conducive to learning. They are responsible for planning, coordinating, and implementing maintenance and renovation projects, as well as managing the budget and resources. Additionally, they may also handle issues related to security, transportation, and environmental sustainability. A successful Educational Facilities Manager should possess strong organizational and leadership skills, as well as the ability to work collaboratively with various stakeholders to create an optimal learning environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Educational Facilities Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Educational Facilities Manager interviews to help you prepare and succeed.

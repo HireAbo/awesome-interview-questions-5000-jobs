@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Analyst Interview Preparation ! This resource is designed to help you ace your Real Estate Analyst interviews with confidence.
 
+A Real Estate Analyst is a professional who specializes in evaluating and analyzing various aspects of the real estate market. They primarily focus on studying economic trends, market conditions, and financial data to provide insights and recommendations to clients or organizations. Real Estate Analysts assess property values, conduct feasibility studies, evaluate investment opportunities, and develop financial models. They may also be involved in conducting market research, analyzing property performance, and forecasting future trends. Strong analytical skills, knowledge of economic principles, and proficiency in statistical analysis are crucial for this role. Real Estate Analysts play a vital role in assisting clients in making informed decisions and maximizing returns in the real estate industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Analyst interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Renewable Energy Technician Interview Preparation ! This resource is designed to help you ace your Renewable Energy Technician interviews with confidence.
 
+A Renewable Energy Technician plays a crucial role in the Energy and Utilities sector, specifically in the field of Renewable Energy. These professionals are responsible for the installation, maintenance, and repair of renewable energy systems, such as solar panels, wind turbines, and geothermal systems. Their main objective is to harness sustainable energy sources and reduce reliance on non-renewable resources like fossil fuels. Renewable Energy Technicians need a strong understanding of electrical systems, as they are involved in wiring, troubleshooting, and optimizing renewable energy equipment. They also ensure compliance with safety regulations and perform regular inspections to ensure optimal system performance. In this rapidly growing field, Renewable Energy Technicians contribute to a greener future by promoting the use of renewable energy sources.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Renewable Energy Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Renewable Energy Technician interviews to help you prepare and succeed.

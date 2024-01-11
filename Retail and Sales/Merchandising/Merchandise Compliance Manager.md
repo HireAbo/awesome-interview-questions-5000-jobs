@@ -2,6 +2,8 @@
 
 Welcome to the Merchandise Compliance Manager Interview Preparation ! This resource is designed to help you ace your Merchandise Compliance Manager interviews with confidence.
 
+A Merchandise Compliance Manager plays a crucial role in the retail and sales industry, specifically within the realm of merchandising. This job entails ensuring that all merchandise complies with relevant regulations, standards, and guidelines set forth by the company, industry, and government authorities. The Merchandise Compliance Manager is responsible for overseeing the implementation of merchandising policies and procedures to guarantee that products meet quality, safety, and labeling requirements. They collaborate with various teams, including buyers, suppliers, and quality control, to maintain consistent compliance throughout the supply chain. Additionally, they conduct audits, inspections, and trainings to ensure adherence to regulations, while also identifying and resolving any compliance issues that may arise.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Merchandise Compliance Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Merchandise Compliance Manager interviews to help you prepare and succeed.

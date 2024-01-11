@@ -2,6 +2,8 @@
 
 Welcome to the Market Research Analyst Interview Preparation ! This resource is designed to help you ace your Market Research Analyst interviews with confidence.
 
+Mathematics and statistics play a crucial role in the field of market research analysis. Market research analysts are professionals who collect and analyze data to help businesses make informed decisions. They utilize statistical techniques and mathematical models to interpret data and identify patterns, trends, and insights. These professionals design surveys, conduct interviews, and use various data collection methods to gather information from consumers, competitors, and market trends. By applying statistical methods, they can determine market demand, consumer preferences, and predict future trends. Market research analysts also use their mathematical and statistical skills to create reports and visualizations that effectively communicate their findings to stakeholders.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Market Research Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Market Research Analyst interviews to help you prepare and succeed.

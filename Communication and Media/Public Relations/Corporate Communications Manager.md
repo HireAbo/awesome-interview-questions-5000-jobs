@@ -2,6 +2,8 @@
 
 Welcome to the Corporate Communications Manager Interview Preparation ! This resource is designed to help you ace your Corporate Communications Manager interviews with confidence.
 
+A Corporate Communications Manager plays a crucial role in the field of Public Relations within the Communication and Media industry. This role involves overseeing and managing all aspects of a company's communication activities. A Corporate Communications Manager is responsible for developing and implementing effective communication strategies to enhance the company's reputation and maintain positive relationships with stakeholders, including employees, customers, media outlets, and the public. They collaborate with various departments to create compelling content, manage crisis communication, and ensure consistent messaging across different platforms. Additionally, they may also supervise a team of communication professionals and evaluate the effectiveness of communication campaigns to drive organizational goals. A successful Corporate Communications Manager possesses excellent interpersonal skills, a strategic mindset, and a strong understanding of media dynamics.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Corporate Communications Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Corporate Communications Manager interviews to help you prepare and succeed.

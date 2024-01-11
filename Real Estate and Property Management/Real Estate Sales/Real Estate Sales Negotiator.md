@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Sales Negotiator Interview Preparation ! This resource is designed to help you ace your Real Estate Sales Negotiator interviews with confidence.
 
+A Real Estate Sales Negotiator plays a vital role within the real estate industry, specifically in the field of property management. This job involves assisting clients in buying, selling, or renting properties, ensuring their needs are met efficiently and professionally. A sales negotiator bridges the gap between buyers and sellers, offering expert advice, conducting property viewings, and negotiating deals to achieve the best possible outcome for all parties involved. They possess excellent communication and interpersonal skills, allowing them to build strong relationships with clients and provide exceptional customer service. A sales negotiator must also have a good knowledge of the local property market and possess a keen eye for identifying investment opportunities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Sales Negotiator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Sales Negotiator interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Plumber's Apprentice Interview Preparation ! This resource is designed to help you ace your Plumber's Apprentice interviews with confidence.
 
+A Plumber's Apprentice is a vital role in the skilled trade of plumbing. As an apprentice, individuals work closely with experienced plumbers to gain practical knowledge and hands-on experience. This entry-level position provides a solid foundation for individuals interested in pursuing a career in plumbing. Apprentices learn various aspects of the trade, such as pipe installation, repair, and maintenance, as well as reading blueprints and understanding plumbing codes. They assist in tasks such as preparing job sites, assembling tools and equipment, and troubleshooting plumbing issues. The role of a Plumber's Apprentice requires physical strength, attention to detail, and the ability to work in a team-oriented environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Plumber's Apprentice or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Plumber's Apprentice interviews to help you prepare and succeed.

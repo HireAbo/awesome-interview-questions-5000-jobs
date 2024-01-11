@@ -2,6 +2,8 @@
 
 Welcome to the Emergency Operations Center Specialist Interview Preparation ! This resource is designed to help you ace your Emergency Operations Center Specialist interviews with confidence.
 
+The role of an Emergency Operations Center (EOC) Specialist within the field of Emergency Management is vital in ensuring the effective coordination and response during times of crisis or disaster. As part of the government and public service sector, these professionals play a crucial role in managing emergency operations and coordinating responses with various agencies and organizations. EOC Specialists are responsible for maintaining and operating the EOC, a central command center where critical information is gathered, analyzed, and disseminated to support decision-making. They collaborate with emergency response teams, provide technical expertise, develop emergency plans, and facilitate communication between different stakeholders. Their expertise and dedication are essential in safeguarding communities and ensuring efficient emergency response efforts.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Emergency Operations Center Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Emergency Operations Center Specialist interviews to help you prepare and succeed.

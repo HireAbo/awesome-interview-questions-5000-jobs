@@ -2,6 +2,8 @@
 
 Welcome to the Actuarial Lecturer Interview Preparation ! This resource is designed to help you ace your Actuarial Lecturer interviews with confidence.
 
+Mathematics and Statistics serve as the foundation for Actuarial Science, a field that assesses and manages financial risks in various industries. Actuaries analyze complex data, evaluate probabilities, and apply mathematical models to predict and mitigate potential risks. As an Actuarial Lecturer, your role would involve teaching and mentoring aspiring actuaries. You would have the opportunity to share your expertise in mathematical and statistical concepts, such as calculus, probability theory, and regression analysis. By equipping students with the necessary knowledge and skills, you would play a crucial role in preparing them for successful careers as actuaries, helping them navigate the dynamic and rewarding world of risk management and insurance.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Actuarial Lecturer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Actuarial Lecturer interviews to help you prepare and succeed.

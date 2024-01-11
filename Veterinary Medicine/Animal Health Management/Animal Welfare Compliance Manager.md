@@ -2,6 +2,8 @@
 
 Welcome to the Animal Welfare Compliance Manager Interview Preparation ! This resource is designed to help you ace your Animal Welfare Compliance Manager interviews with confidence.
 
+A Veterinary Medicine > Animal Health Management > Animal Welfare Compliance Manager is a professional responsible for ensuring compliance with animal welfare regulations in various settings. This role involves overseeing and implementing policies and procedures to ensure the well-being and humane treatment of animals in veterinary practices, research facilities, farms, and other animal-related industries. The Animal Welfare Compliance Manager works closely with veterinarians, researchers, and animal care staff to assess and improve animal welfare practices, develop training programs, and conduct inspections to ensure adherence to regulations. This position requires strong knowledge of animal behavior, health, and welfare, as well as excellent communication and problem-solving skills.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Animal Welfare Compliance Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Animal Welfare Compliance Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Props Master Interview Preparation ! This resource is designed to help you ace your Props Master interviews with confidence.
 
+A Props Master is a crucial role in the realm of theater arts, responsible for the creation, selection, and maintenance of props used in stage productions. This skilled individual combines artistic creativity with practicality to bring the director's vision to life. The Props Master collaborates closely with the production team, including the set designer, director, and costume designer, to ensure that props align seamlessly with the overall aesthetic and narrative of the play. They research, acquire, or construct props, paying meticulous attention to detail. From everyday objects to intricate period pieces, the Props Master's expertise adds authenticity and enhances the audience's immersive experience in the world of theater.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Props Master or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Props Master interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Energy Efficiency Sales Representative Interview Preparation ! This resource is designed to help you ace your Energy Efficiency Sales Representative interviews with confidence.
 
+An Energy Efficiency Sales Representative in the field of Energy Engineering is responsible for promoting and selling energy-efficient products and services to clients. This role involves assessing the energy needs of businesses, institutions, or individuals and identifying solutions to improve energy efficiency. The representative educates clients on the benefits of energy-efficient technologies, such as LED lighting, solar panels, and HVAC systems. They also develop customized energy efficiency plans and provide cost estimates. Moreover, the sales representative collaborates with clients to implement energy-saving measures and monitors their progress. This job requires excellent communication skills, knowledge of energy conservation practices, and the ability to build strong relationships with clients in order to drive sales and promote sustainability.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Energy Efficiency Sales Representative or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Energy Efficiency Sales Representative interviews to help you prepare and succeed.

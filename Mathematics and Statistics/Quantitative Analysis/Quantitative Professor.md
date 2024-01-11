@@ -2,6 +2,8 @@
 
 Welcome to the Quantitative Professor Interview Preparation ! This resource is designed to help you ace your Quantitative Professor interviews with confidence.
 
+A Quantitative Professor is an expert in the field of Mathematics and Statistics, specializing in quantitative analysis. This role involves teaching and conducting research in various quantitative techniques and methods used in analyzing and interpreting data. The professor's main objective is to educate students on the principles and applications of mathematics and statistics, equipping them with the skills needed to solve complex problems and make informed decisions. They may also collaborate with other faculty members and industry professionals to develop innovative quantitative models and tools. A Quantitative Professor is expected to have advanced knowledge in areas such as probability theory, regression analysis, optimization, and data visualization.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Quantitative Professor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Quantitative Professor interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Property Management Sales Executive Interview Preparation ! This resource is designed to help you ace your Property Management Sales Executive interviews with confidence.
 
+A Real Estate and Property Management company is responsible for overseeing and managing various properties on behalf of property owners. Property Management Sales Executives play a crucial role within this industry. As a Property Management Sales Executive, your primary responsibility is to attract new clients and sell property management services. This involves identifying potential clients, showcasing the benefits of professional property management, negotiating contracts, and ensuring client satisfaction. In addition, you will collaborate with property managers to ensure seamless operations and provide excellent customer service. A successful Property Management Sales Executive should possess strong communication and negotiation skills, be knowledgeable about the real estate market, and have a passion for sales and client relationship management.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Property Management Sales Executive or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Property Management Sales Executive interviews to help you prepare and succeed.

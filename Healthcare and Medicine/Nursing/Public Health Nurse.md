@@ -2,6 +2,8 @@
 
 Welcome to the Public Health Nurse Interview Preparation ! This resource is designed to help you ace your Public Health Nurse interviews with confidence.
 
+A Public Health Nurse (PHN) is a vital member of the healthcare and medicine field, specifically in the nursing sector. PHNs focus on promoting and protecting the health of communities and populations. They work to prevent disease, promote healthy lifestyles, and provide healthcare education to individuals and groups. Public Health Nurses collaborate with various healthcare professionals, community organizations, and government agencies to assess community health needs, develop and implement health programs, and evaluate their effectiveness. They also conduct screenings, immunizations, and provide direct nursing care to individuals in need. Public Health Nurses play a crucial role in improving the overall health and well-being of communities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Public Health Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Public Health Nurse interviews to help you prepare and succeed.

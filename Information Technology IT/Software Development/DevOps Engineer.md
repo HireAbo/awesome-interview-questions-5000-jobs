@@ -2,6 +2,8 @@
 
 Welcome to the DevOps Engineer Interview Preparation ! This resource is designed to help you ace your DevOps Engineer interviews with confidence.
 
+A DevOps Engineer is an essential role in the field of Information Technology (IT) and software development. They bridge the gap between software development and operations, ensuring seamless collaboration and efficient delivery of software solutions. DevOps Engineers are responsible for automating and streamlining the processes of software deployment, integration, and infrastructure management. They work closely with development teams to ensure continuous integration and delivery of software, and also collaborate with operations teams to ensure reliable and stable software deployment. DevOps Engineers possess a strong understanding of software development, cloud computing, system administration, and networking, along with expertise in tools like Jenkins, Docker, Kubernetes, and Git. Their role plays a crucial part in enabling organizations to achieve faster, more reliable, and scalable software development and deployment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned DevOps Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in DevOps Engineer interviews to help you prepare and succeed.

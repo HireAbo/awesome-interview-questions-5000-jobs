@@ -2,6 +2,8 @@
 
 Welcome to the Utility Safety Coordinator Interview Preparation ! This resource is designed to help you ace your Utility Safety Coordinator interviews with confidence.
 
+A Utility Safety Coordinator plays a crucial role in the energy and utilities sector by ensuring the safety of utility operations. This job involves coordinating and implementing safety protocols and procedures to minimize risks and accidents in utility management. The Utility Safety Coordinator is responsible for conducting safety audits, inspections, and training programs to educate employees on safety practices. They also investigate incidents and accidents, identify safety hazards, and recommend corrective actions to prevent future occurrences. This role requires excellent knowledge of safety regulations and standards, strong communication skills, and the ability to develop and maintain effective safety management systems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Utility Safety Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Utility Safety Coordinator interviews to help you prepare and succeed.

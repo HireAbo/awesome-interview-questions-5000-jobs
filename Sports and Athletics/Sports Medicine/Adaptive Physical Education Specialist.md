@@ -2,6 +2,8 @@
 
 Welcome to the Adaptive Physical Education Specialist Interview Preparation ! This resource is designed to help you ace your Adaptive Physical Education Specialist interviews with confidence.
 
+The role of an Adaptive Physical Education Specialist in the field of Sports Medicine is vital in ensuring the holistic development and inclusion of individuals with disabilities in sports and athletics. As an Adaptive Physical Education Specialist, one is responsible for developing and implementing customized physical education programs tailored to meet the unique needs and abilities of individuals with disabilities. This involves assessing students' physical capabilities, designing appropriate exercises and activities, and providing necessary modifications and accommodations to ensure their active participation and enjoyment in sports and athletics. The job requires a strong background in anatomy, physiology, and therapeutic techniques, along with excellent communication and interpersonal skills to collaborate with students, families, and other healthcare professionals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Adaptive Physical Education Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Adaptive Physical Education Specialist interviews to help you prepare and succeed.

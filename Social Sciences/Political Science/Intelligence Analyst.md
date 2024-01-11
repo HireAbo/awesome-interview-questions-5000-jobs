@@ -2,6 +2,8 @@
 
 Welcome to the Intelligence Analyst Interview Preparation ! This resource is designed to help you ace your Intelligence Analyst interviews with confidence.
 
+An Intelligence Analyst in the field of Political Science plays a crucial role in assessing and interpreting information to inform decision-making processes. This job involves gathering and analyzing data from various sources, including open-source materials and classified intelligence reports. Intelligence Analysts focus on political dynamics, government policies, and international relations to provide insights on potential threats, conflicts, or opportunities. They use their expertise to identify patterns, evaluate risks, and predict future trends in order to support policymakers, law enforcement agencies, and national security efforts. This profession requires strong analytical skills, critical thinking, and the ability to work with complex and sensitive information to provide timely and accurate assessments.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Intelligence Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Intelligence Analyst interviews to help you prepare and succeed.

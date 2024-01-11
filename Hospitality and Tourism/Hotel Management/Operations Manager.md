@@ -2,6 +2,8 @@
 
 Welcome to the Operations Manager Interview Preparation ! This resource is designed to help you ace your Operations Manager interviews with confidence.
 
+The role of an Operations Manager in the Hospitality and Tourism industry, specifically in Hotel Management, is crucial to ensuring the smooth and efficient running of the hotel's day-to-day operations. As an Operations Manager, you will be responsible for overseeing various departments such as front desk, housekeeping, food and beverage, and maintenance, among others. Your primary goal will be to maintain high-quality standards and ensure guest satisfaction. This entails coordinating with the different teams, implementing and enforcing policies and procedures, managing budgets, and optimizing resources. You will also play a vital role in driving revenue and profitability by identifying areas for improvement and implementing strategies to enhance operational efficiency. Overall, the Operations Manager job is integral to creating an exceptional guest experience while maximizing the hotel's performance and success.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Operations Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Operations Manager interviews to help you prepare and succeed.

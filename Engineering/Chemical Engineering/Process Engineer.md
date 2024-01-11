@@ -2,6 +2,8 @@
 
 Welcome to the Process Engineer Interview Preparation ! This resource is designed to help you ace your Process Engineer interviews with confidence.
 
+A Process Engineer in the field of Chemical Engineering is responsible for designing, developing, and optimizing processes within the chemical manufacturing industry. They play a crucial role in ensuring the efficient production of chemicals and other related products. Process Engineers analyze existing processes, identify areas for improvement, and propose solutions to enhance productivity, safety, and profitability. They work closely with teams of engineers and technicians to develop and implement innovative methods, technologies, and equipment. Additionally, Process Engineers monitor production processes, troubleshoot issues, and maintain quality control standards. They require strong analytical, problem-solving, and communication skills to excel in this challenging and rewarding career.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Process Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Process Engineer interviews to help you prepare and succeed.

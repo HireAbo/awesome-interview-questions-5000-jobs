@@ -2,6 +2,8 @@
 
 Welcome to the Records Retention Specialist Interview Preparation ! This resource is designed to help you ace your Records Retention Specialist interviews with confidence.
 
+A Records Retention Specialist is a professional in the field of Library and Information Science, with a specialization in Information Management. This role focuses on organizing, preserving, and maintaining records in both physical and digital formats. The specialist ensures compliance with legal and regulatory requirements pertaining to records retention and disposal. They develop and implement policies and procedures for the systematic management of records throughout their lifecycle. This includes the classification, storage, retrieval, and disposal of records. The specialist also conducts audits to assess the effectiveness of the records management program and provides guidance to staff on best practices. Overall, the Records Retention Specialist plays a crucial role in efficient and effective information management within an organization.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Records Retention Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Records Retention Specialist interviews to help you prepare and succeed.

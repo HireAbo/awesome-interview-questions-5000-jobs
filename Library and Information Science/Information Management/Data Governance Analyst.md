@@ -2,6 +2,8 @@
 
 Welcome to the Data Governance Analyst Interview Preparation ! This resource is designed to help you ace your Data Governance Analyst interviews with confidence.
 
+A Data Governance Analyst is a crucial role within the field of Library and Information Science, specifically in the area of Information Management. This professional is responsible for overseeing and implementing data governance strategies within an organization or institution. They ensure that data is managed effectively, securely, and in compliance with relevant regulations. The Data Governance Analyst collaborates with various stakeholders to establish data governance policies and procedures, as well as develop and maintain data quality standards. They also conduct data audits, identify data risks, and recommend solutions to enhance data integrity and accessibility. This role requires strong analytical skills, attention to detail, and a deep understanding of information management principles and practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Governance Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Governance Analyst interviews to help you prepare and succeed.

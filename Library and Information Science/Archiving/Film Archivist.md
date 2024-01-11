@@ -2,6 +2,8 @@
 
 Welcome to the Film Archivist Interview Preparation ! This resource is designed to help you ace your Film Archivist interviews with confidence.
 
+Library and Information Science encompasses various specialized fields, one of which is Archiving. In this field, Film Archivists play a vital role in preserving and managing film collections. Film Archivists are responsible for acquiring, organizing, cataloging, and preserving films to ensure their long-term availability for research, education, and entertainment purposes. They possess a deep understanding of film history, technical skills in handling film formats, and expertise in archival procedures. Additionally, Film Archivists collaborate with filmmakers, scholars, and the public to provide access to films, curate exhibitions, and conduct research. Their work is crucial in safeguarding our cultural heritage and contributing to the enrichment of society.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Film Archivist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Film Archivist interviews to help you prepare and succeed.

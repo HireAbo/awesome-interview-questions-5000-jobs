@@ -2,6 +2,8 @@
 
 Welcome to the Public Administration Professor Interview Preparation ! This resource is designed to help you ace your Public Administration Professor interviews with confidence.
 
+A Public Administration Professor is a highly knowledgeable individual who specializes in teaching and researching the field of public administration. Public administration is a branch of political science that focuses on the implementation of government policies and the management of public programs and services. As a professor in this field, their primary responsibility is to educate and train students in the principles, theories, and practices of public administration. They also conduct research to contribute to the advancement of knowledge in public administration and often provide guidance and mentorship to students pursuing careers in government and public service. Their expertise and passion for the subject make them instrumental in shaping future public administrators and improving the effectiveness of government and public service.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Public Administration Professor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Public Administration Professor interviews to help you prepare and succeed.

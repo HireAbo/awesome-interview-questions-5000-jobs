@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife Ecologist Interview Preparation ! This resource is designed to help you ace your Wildlife Ecologist interviews with confidence.
 
+Agriculture and Environmental Science is a field that focuses on sustainable farming practices, environmental conservation, and the protection of natural resources. It encompasses various disciplines, including wildlife conservation, which plays a crucial role in maintaining ecological balance. Wildlife conservation aims to preserve and protect animal species and their habitats from threats such as habitat destruction, pollution, and human activities. Within this field, wildlife ecologists are professionals who study animal behavior, population dynamics, and their interactions with the environment. They conduct research, monitor wildlife populations, develop conservation strategies, and work with government agencies, non-profit organizations, and communities to ensure the long-term survival of wildlife species.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Ecologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Ecologist interviews to help you prepare and succeed.

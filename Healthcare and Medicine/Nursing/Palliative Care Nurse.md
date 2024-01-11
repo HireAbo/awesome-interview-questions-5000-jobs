@@ -2,6 +2,8 @@
 
 Welcome to the Palliative Care Nurse Interview Preparation ! This resource is designed to help you ace your Palliative Care Nurse interviews with confidence.
 
+A Palliative Care Nurse is a specialized healthcare professional who works closely with patients suffering from serious illness or at the end of their lives. These compassionate nurses provide comprehensive care to alleviate pain and symptoms, improve quality of life, and offer emotional support to patients and their families. Palliative Care Nurses collaborate with a multidisciplinary team of healthcare providers to create personalized care plans that address the physical, emotional, and spiritual needs of patients. They may administer medications, monitor vital signs, provide wound care, and educate patients and families about their condition and available treatment options. With their expertise and empathy, Palliative Care Nurses play a vital role in ensuring patients receive the best possible care during challenging times.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Palliative Care Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Palliative Care Nurse interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Reporter Interview Preparation ! This resource is designed to help you ace your Environmental Reporter interviews with confidence.
 
+An Environmental Reporter is a journalist specializing in reporting on environmental issues and their impact on society. This role involves researching, investigating, and writing news articles and features related to the environment. Environmental Reporters aim to raise awareness and inform the public about environmental concerns, such as climate change, pollution, wildlife conservation, and sustainable practices. They may cover stories ranging from local environmental initiatives to global environmental policies, interviewing experts, activists, and community members. This job requires excellent writing and communication skills, as well as a deep understanding of scientific concepts and environmental policies. Environmental Reporters play a crucial role in promoting environmental awareness and advocating for positive change through media and communication platforms.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Reporter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Reporter interviews to help you prepare and succeed.

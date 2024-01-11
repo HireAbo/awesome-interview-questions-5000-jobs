@@ -2,6 +2,8 @@
 
 Welcome to the Sales Director Interview Preparation ! This resource is designed to help you ace your Sales Director interviews with confidence.
 
+The role of a Sales Director in the retail industry encompasses a wide range of responsibilities and strategic functions. As a Sales Director, you would be responsible for overseeing the sales operations, driving revenue growth, and achieving sales targets within a specific region or market segment. Your role would involve developing and implementing sales strategies, analyzing market trends, and identifying new business opportunities. Additionally, you would be responsible for leading and managing a team of sales professionals, providing guidance and motivation to ensure their success. A Sales Director plays a crucial role in driving the success of a retail organization, contributing to its overall growth and profitability.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sales Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sales Director interviews to help you prepare and succeed.

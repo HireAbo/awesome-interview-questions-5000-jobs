@@ -2,6 +2,8 @@
 
 Welcome to the Physical Education Consultant Interview Preparation ! This resource is designed to help you ace your Physical Education Consultant interviews with confidence.
 
+A Physical Education Consultant is a professional who specializes in providing expert guidance and support in the field of sports and athletics. They play a vital role in promoting physical education in schools and communities by developing and implementing effective programs and curriculum. These consultants possess extensive knowledge of sports and athletics, including various sports techniques, fitness training, and injury prevention. They collaborate with educators, coaches, and administrators to enhance physical education curricula, design training programs, and provide workshops and seminars. Their expertise and guidance aim to foster a culture of physical activity, health, and well-being, ultimately helping individuals achieve their full potential in sports and athletics.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Physical Education Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Physical Education Consultant interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the E-commerce Digital Rights Manager Interview Preparation ! This resource is designed to help you ace your E-commerce Digital Rights Manager interviews with confidence.
 
+The role of an E-commerce Digital Rights Manager is crucial in the fast-paced world of retail and sales in the realm of e-commerce. This position involves overseeing and managing the digital rights of a company's online products and services. The primary responsibility is to ensure that the company's digital assets, such as intellectual property, copyrights, trademarks, and licenses, are protected and legally compliant. The E-commerce Digital Rights Manager works closely with various stakeholders, including legal teams, content creators, and marketing professionals, to develop and implement strategies to safeguard the company's digital assets. This role requires a deep understanding of e-commerce platforms, digital rights management systems, and an up-to-date knowledge of relevant laws and regulations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned E-commerce Digital Rights Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in E-commerce Digital Rights Manager interviews to help you prepare and succeed.

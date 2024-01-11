@@ -2,6 +2,8 @@
 
 Welcome to the Drama Coach Interview Preparation ! This resource is designed to help you ace your Drama Coach interviews with confidence.
 
+A drama coach is an essential figure in the world of entertainment and performing arts, particularly in the field of acting. They are responsible for training and guiding aspiring actors in honing their skills, developing their talent, and improving their overall performance abilities. A drama coach works closely with actors, providing personalized coaching and mentoring to enhance their understanding of character development, script analysis, and stage presence. They also assist actors in exploring different acting techniques and styles, helping them to unleash their creativity and bring depth and authenticity to their performances. A drama coach plays a crucial role in shaping actors' careers, enabling them to excel in the challenging and competitive world of acting.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Drama Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Drama Coach interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Sustainable Aquaculture Specialist Interview Preparation ! This resource is designed to help you ace your Sustainable Aquaculture Specialist interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on sustainable practices to meet the growing demand for food while minimizing negative environmental impacts. Within this field, the role of a Sustainable Aquaculture Specialist is crucial. These specialists are responsible for developing and implementing sustainable aquaculture practices to ensure the responsible cultivation of aquatic organisms for food production. Their job involves conducting research, monitoring water quality, managing fish health, designing and maintaining aquaculture systems, and promoting sustainable practices to minimize environmental degradation. A Sustainable Aquaculture Specialist plays a vital role in balancing the need for food production with the preservation of aquatic ecosystems, making them essential in achieving sustainable agriculture goals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sustainable Aquaculture Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sustainable Aquaculture Specialist interviews to help you prepare and succeed.

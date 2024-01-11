@@ -2,6 +2,8 @@
 
 Welcome to the Vessel Traffic Manager Interview Preparation ! This resource is designed to help you ace your Vessel Traffic Manager interviews with confidence.
 
+The role of a Vessel Traffic Manager in the field of Transportation and Logistics, specifically Maritime Operations, is crucial in ensuring the safe and efficient movement of vessels in ports and waterways. As a Vessel Traffic Manager, you will be responsible for monitoring and managing vessel traffic, coordinating with ship captains, port authorities, and other relevant stakeholders to ensure smooth operations. Your role includes overseeing vessel arrivals and departures, managing traffic flow, and addressing any potential safety risks or emergencies. With a strong understanding of maritime regulations and navigational systems, you will play a vital role in maintaining the integrity and effectiveness of maritime operations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Vessel Traffic Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Vessel Traffic Manager interviews to help you prepare and succeed.

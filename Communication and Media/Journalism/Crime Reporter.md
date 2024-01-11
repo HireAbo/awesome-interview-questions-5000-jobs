@@ -2,6 +2,8 @@
 
 Welcome to the Crime Reporter Interview Preparation ! This resource is designed to help you ace your Crime Reporter interviews with confidence.
 
+A Crime Reporter is a vital role within the field of journalism, specifically focused on reporting and investigating crime-related news stories. As a Crime Reporter, one is responsible for gathering and verifying information regarding criminal activities, including interviewing witnesses, police officers, and victims. This job requires excellent communication skills, as well as the ability to present complex information concisely and accurately to the public. Crime Reporters often work under tight deadlines, delivering breaking news stories on various platforms, such as newspapers, television, or online media. This role requires a strong sense of ethics, as Crime Reporters must navigate sensitive and potentially dangerous situations while maintaining their commitment to unbiased reporting.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Crime Reporter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Crime Reporter interviews to help you prepare and succeed.

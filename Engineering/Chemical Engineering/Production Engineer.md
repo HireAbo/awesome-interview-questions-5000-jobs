@@ -2,6 +2,8 @@
 
 Welcome to the Production Engineer Interview Preparation ! This resource is designed to help you ace your Production Engineer interviews with confidence.
 
+A Production Engineer in the field of Chemical Engineering is responsible for overseeing and improving the manufacturing processes and operations in a chemical plant or production facility. They work closely with other engineers, technicians, and operators to ensure efficient and safe production of chemicals and related products. The Production Engineer designs, implements, and optimizes processes, equipment, and systems to maximize productivity, quality, and profitability. They analyze data, troubleshoot problems, and develop innovative solutions to improve production efficiency and reduce costs. Additionally, they ensure compliance with safety and environmental regulations, and continuously strive for process improvement and innovation in the chemical production industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Production Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Production Engineer interviews to help you prepare and succeed.

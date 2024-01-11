@@ -2,6 +2,8 @@
 
 Welcome to the Digital Media Planner Interview Preparation ! This resource is designed to help you ace your Digital Media Planner interviews with confidence.
 
+A Digital Media Planner is a professional responsible for strategizing and executing digital media campaigns. They utilize their expertise in communication and media to plan, optimize, and manage the distribution of content across various digital platforms. This role requires a deep understanding of target audiences, market trends, and consumer behavior. Digital Media Planners collaborate with clients, creative teams, and media vendors to develop effective digital advertising strategies. They analyze data and metrics to evaluate the success of campaigns, making necessary adjustments to meet client objectives. A Digital Media Planner must possess excellent communication, analytical, and organizational skills to thrive in this dynamic and ever-evolving industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Digital Media Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Digital Media Planner interviews to help you prepare and succeed.

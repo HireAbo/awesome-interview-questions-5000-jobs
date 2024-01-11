@@ -2,6 +2,8 @@
 
 Welcome to the Electrical Estimator Interview Preparation ! This resource is designed to help you ace your Electrical Estimator interviews with confidence.
 
+The role of an Electrical Estimator is crucial in the field of skilled trades, specifically electrical work. As an Electrical Estimator, you would be responsible for assessing and determining the cost of electrical projects. This entails analyzing blueprints, specifications, and other project details to accurately estimate material, labor, and equipment costs. You would also collaborate with clients, contractors, and suppliers to gather information and negotiate pricing. Attention to detail, strong analytical skills, and in-depth knowledge of electrical systems and codes are essential for success in this role. Electrical Estimators play a vital role in ensuring projects are completed on budget and within the designated timeframe.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Electrical Estimator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Electrical Estimator interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Public Works Engineer Interview Preparation ! This resource is designed to help you ace your Public Works Engineer interviews with confidence.
 
+A Public Works Engineer is a specialized civil engineer responsible for designing, constructing, and maintaining public infrastructure projects. These projects can include roads, bridges, water supply systems, wastewater treatment plants, and public buildings. Public Works Engineers are involved in every stage of a project, from planning and designing to overseeing construction and ensuring compliance with safety regulations. They work closely with architects, contractors, and government agencies to ensure that projects are completed efficiently and within budget. Public Works Engineers must have a strong understanding of engineering principles, excellent problem-solving skills, and the ability to communicate effectively with stakeholders.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Public Works Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Public Works Engineer interviews to help you prepare and succeed.

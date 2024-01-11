@@ -2,6 +2,8 @@
 
 Welcome to the Nonprofit Director Interview Preparation ! This resource is designed to help you ace your Nonprofit Director interviews with confidence.
 
+A Nonprofit Director is a highly responsible and strategic position within the field of Social Work and Human Services. As the leader of a nonprofit organization, the director is responsible for overseeing all aspects of its operations, including program development, fundraising, financial management, and community outreach. They play a crucial role in ensuring the organization's mission is fulfilled and its goals are achieved. Nonprofit directors work closely with staff, volunteers, and the board of directors to develop and implement strategic plans, manage resources effectively, and maintain strong relationships with stakeholders. This role requires excellent leadership, communication, and problem-solving skills to drive the organization's success and make a positive impact in the community.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nonprofit Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nonprofit Director interviews to help you prepare and succeed.

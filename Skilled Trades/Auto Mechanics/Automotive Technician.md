@@ -2,6 +2,8 @@
 
 Welcome to the Automotive Technician Interview Preparation ! This resource is designed to help you ace your Automotive Technician interviews with confidence.
 
+An Automotive Technician is a skilled trade professional specializing in the repair and maintenance of automobiles. These professionals possess a deep understanding of all aspects of vehicle mechanics and electrical systems. They are responsible for diagnosing and troubleshooting mechanical issues, performing routine maintenance tasks, and conducting repairs on various automotive components such as engines, transmissions, brakes, and suspension systems. Automotive Technicians utilize a variety of tools and diagnostic equipment to identify problems accurately and efficiently, ensuring the safe and optimal performance of vehicles. Their expertise and attention to detail make them invaluable in the automotive industry, keeping vehicles running smoothly and ensuring the safety of drivers and passengers.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Automotive Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Automotive Technician interviews to help you prepare and succeed.

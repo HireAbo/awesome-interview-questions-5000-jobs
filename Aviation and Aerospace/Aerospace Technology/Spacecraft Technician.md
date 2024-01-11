@@ -2,6 +2,8 @@
 
 Welcome to the Spacecraft Technician Interview Preparation ! This resource is designed to help you ace your Spacecraft Technician interviews with confidence.
 
+Aerospace technology has revolutionized the way we explore the skies and beyond, making aviation and space exploration possible. Within this field, Spacecraft Technicians play a crucial role in the development, assembly, and maintenance of spacecraft. These highly skilled professionals are responsible for building and testing various components of spacecraft, including electrical systems, propulsion systems, and life support systems. They ensure that all equipment meets stringent safety standards and perform regular maintenance and repairs to keep spacecraft in optimal condition. Spacecraft Technicians work closely with engineers and scientists to troubleshoot issues and implement improvements. Their expertise and attention to detail are vital in ensuring the success of space missions and advancing our knowledge of the universe.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Spacecraft Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Spacecraft Technician interviews to help you prepare and succeed.

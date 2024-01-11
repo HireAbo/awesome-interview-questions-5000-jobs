@@ -2,6 +2,8 @@
 
 Welcome to the Public Policy Researcher Interview Preparation ! This resource is designed to help you ace your Public Policy Researcher interviews with confidence.
 
+A Public Policy Researcher is an individual who conducts in-depth research and analysis on various aspects of public policy. They are primarily concerned with understanding and evaluating the impact and effectiveness of existing policies, as well as proposing and developing new policies to address societal challenges. Public Policy Researchers utilize quantitative and qualitative research methods to gather data, conduct surveys, analyze policy documents, and interview stakeholders. They collaborate with government agencies, non-profit organizations, and academic institutions to provide evidence-based recommendations and solutions for policymakers. This role requires strong analytical skills, critical thinking, and the ability to communicate complex ideas effectively. Public Policy Researchers play a crucial role in shaping and improving public policy to ensure the well-being and progress of society.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Public Policy Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Public Policy Researcher interviews to help you prepare and succeed.

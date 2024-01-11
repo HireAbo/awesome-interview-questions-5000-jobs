@@ -2,6 +2,10 @@
 
 Welcome to the Environmental Compliance Manager Interview Preparation ! This resource is designed to help you ace your Environmental Compliance Manager interviews with confidence.
 
+Agriculture and Environmental Science is a field that focuses on understanding the relationship between agriculture practices and the environment. It involves studying the impact of agriculture on ecosystems, natural resources, and overall sustainability. Environmental Science encompasses various disciplines, such as ecology, soil science, water management, climate change, and more, aiming to develop strategies that promote environmentally-friendly agricultural practices.
+
+Within this field, the role of an Environmental Compliance Manager is crucial. They are responsible for ensuring that agricultural operations comply with environmental regulations, laws, and policies. This includes monitoring and managing the impact of agricultural activities on air and water quality, soil health, waste management, and conservation efforts. The Environmental Compliance Manager plays a vital role in safeguarding the environment while supporting sustainable agricultural practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Compliance Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Compliance Manager interviews to help you prepare and succeed.

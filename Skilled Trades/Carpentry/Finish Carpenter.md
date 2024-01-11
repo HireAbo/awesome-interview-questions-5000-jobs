@@ -2,6 +2,8 @@
 
 Welcome to the Finish Carpenter Interview Preparation ! This resource is designed to help you ace your Finish Carpenter interviews with confidence.
 
+A Finish Carpenter specializes in the final stages of construction projects, transforming raw materials into beautifully crafted finished products. With exceptional attention to detail and precision, they excel in creating custom woodwork and installations that enhance the overall aesthetics of a building. Finish Carpenters are skilled in working with a variety of tools and techniques to create intricate trim, molding, doors, cabinets, and furniture. They possess a deep understanding of different types of wood and finishes, ensuring that their work is not only visually appealing but also durable and long-lasting. Their expertise is integral to achieving the desired look and functionality of a space.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Finish Carpenter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Finish Carpenter interviews to help you prepare and succeed.

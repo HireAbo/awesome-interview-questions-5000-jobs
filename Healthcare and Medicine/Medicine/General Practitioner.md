@@ -2,6 +2,8 @@
 
 Welcome to the General Practitioner Interview Preparation ! This resource is designed to help you ace your General Practitioner interviews with confidence.
 
+A General Practitioner (GP) plays a vital role in the field of healthcare and medicine. As the first point of contact for patients, GPs provide primary medical care to individuals of all ages and backgrounds. They are responsible for diagnosing and treating a wide range of health conditions, from common illnesses to chronic diseases. GPs also offer preventive care, including vaccinations and health screenings. They maintain comprehensive medical records, coordinate referrals to specialists when necessary, and provide ongoing care and support to their patients. General Practitioners are highly skilled professionals who combine medical expertise with empathy and compassion to deliver quality healthcare services to their communities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned General Practitioner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in General Practitioner interviews to help you prepare and succeed.

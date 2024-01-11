@@ -2,6 +2,8 @@
 
 Welcome to the Virtual Reality (VR) Developer Interview Preparation ! This resource is designed to help you ace your Virtual Reality (VR) Developer interviews with confidence.
 
+A Virtual Reality (VR) Developer is a professional who specializes in creating immersive digital experiences using virtual reality technology. They are a crucial part of the software development team, responsible for designing, coding, and testing virtual reality applications. These applications can encompass various industries, such as gaming, healthcare, education, and entertainment. VR Developers have a deep understanding of programming languages, software development methodologies, and VR hardware. They work closely with designers, artists, and other developers to bring ideas to life and ensure seamless user experiences. With the rapid growth of VR technology, the demand for skilled VR Developers is on the rise, making it an exciting and promising career choice in the field of Information Technology.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Virtual Reality (VR) Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Virtual Reality (VR) Developer interviews to help you prepare and succeed.

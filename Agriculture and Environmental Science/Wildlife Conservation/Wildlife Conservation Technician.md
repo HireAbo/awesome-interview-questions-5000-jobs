@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife Conservation Technician Interview Preparation ! This resource is designed to help you ace your Wildlife Conservation Technician interviews with confidence.
 
+Agriculture and Environmental Science encompasses a wide range of disciplines aimed at understanding and improving the relationship between humans and the environment. Within this field, Wildlife Conservation focuses specifically on the protection and preservation of animal species and their habitats. Wildlife Conservation Technicians play a crucial role in this endeavor. These professionals work in the field, monitoring and managing wildlife populations, conducting surveys and research, and implementing conservation strategies. They may also collaborate with other specialists, such as biologists and ecologists, to develop and implement wildlife management plans. Ultimately, Wildlife Conservation Technicians contribute to the sustainability and biodiversity of ecosystems, ensuring the survival of various species for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Conservation Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Conservation Technician interviews to help you prepare and succeed.

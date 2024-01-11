@@ -2,6 +2,8 @@
 
 Welcome to the Special Education Coordinator Interview Preparation ! This resource is designed to help you ace your Special Education Coordinator interviews with confidence.
 
+The role of a Special Education Coordinator is crucial in ensuring the success and well-being of students with special needs. As a Special Education Coordinator, you are responsible for overseeing and coordinating all aspects of special education programs within a school or district. This includes collaborating with teachers, administrators, parents, and other professionals to develop and implement individualized education plans (IEPs) for students with disabilities. Additionally, you will be involved in monitoring student progress, providing support and guidance to teachers, and ensuring compliance with legal regulations and standards in special education. This role requires excellent communication, organizational, and leadership skills to create an inclusive and supportive learning environment for students with special needs.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Special Education Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Special Education Coordinator interviews to help you prepare and succeed.

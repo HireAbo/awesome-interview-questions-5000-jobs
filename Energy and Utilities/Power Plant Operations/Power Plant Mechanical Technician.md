@@ -2,6 +2,8 @@
 
 Welcome to the Power Plant Mechanical Technician Interview Preparation ! This resource is designed to help you ace your Power Plant Mechanical Technician interviews with confidence.
 
+A Power Plant Mechanical Technician plays a crucial role in the field of Energy and Utilities, specifically in Power Plant Operations. As a skilled professional, their primary responsibility is to ensure the smooth and efficient functioning of power plant machinery and equipment. They are responsible for conducting regular inspections, maintenance, and repairs of mechanical systems, including turbines, generators, pumps, and conveyors. Power Plant Mechanical Technicians also assist in troubleshooting and resolving any mechanical issues that may arise, ensuring the uninterrupted production of electricity. Their expertise in mechanical systems and strong attention to detail make them essential in maintaining the reliability and performance of power plants.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Power Plant Mechanical Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Power Plant Mechanical Technician interviews to help you prepare and succeed.

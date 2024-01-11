@@ -2,6 +2,8 @@
 
 Welcome to the Talent Management Specialist Interview Preparation ! This resource is designed to help you ace your Talent Management Specialist interviews with confidence.
 
+A Talent Management Specialist is a professional who specializes in the recruitment, development, and retention of talented individuals within an organization. This crucial role focuses on identifying and nurturing top-performing employees to ensure the company's long-term success. The Talent Management Specialist is responsible for designing and implementing talent acquisition strategies, conducting thorough candidate assessments, and providing ongoing support and guidance to employees. They also play a crucial role in employee development, creating training programs and career development plans to enhance skills and maximize potential. Additionally, they collaborate with management to identify organizational needs and implement strategies to attract, engage, and retain top talent. Overall, a Talent Management Specialist is instrumental in building a strong and effective workforce that drives business growth and success.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Talent Management Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Talent Management Specialist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Biostatistician Interview Preparation ! This resource is designed to help you ace your Biostatistician interviews with confidence.
 
+A Biostatistician plays a crucial role in healthcare and medicine by applying statistical techniques to analyze and interpret complex medical data. They collaborate with researchers and medical professionals to design studies, collect data, and determine the most appropriate statistical methods to analyze the information effectively. Biostatisticians also develop statistical models to identify patterns, trends, and potential relationships in medical research. They contribute to important decisions related to patient care, drug efficacy, disease prevention, and public health policies. With their expertise in data analysis, Biostatisticians ensure the accuracy and reliability of medical research findings, ultimately leading to advancements in healthcare and improved patient outcomes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Biostatistician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Biostatistician interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Clinical Geneticist Interview Preparation ! This resource is designed to help you ace your Clinical Geneticist interviews with confidence.
 
+A clinical geneticist is a medical professional who specializes in the field of healthcare and medicine, specifically in medical research. They play a vital role in the diagnosis, treatment, and prevention of genetic disorders and inherited conditions. Clinical geneticists are responsible for conducting thorough evaluations of patients, analyzing their family histories, and performing genetic testing to identify and understand genetic abnormalities. They work closely with patients and their families to provide counseling and guidance regarding the implications of genetic conditions, as well as potential treatment options and preventive measures. Clinical geneticists contribute significantly to medical research, constantly striving to enhance our understanding of genetic diseases and develop innovative approaches for diagnosis and treatment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Clinical Geneticist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Clinical Geneticist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Legislative Aide Interview Preparation ! This resource is designed to help you ace your Legislative Aide interviews with confidence.
 
+A Legislative Aide is a professional who plays a vital role in the political landscape by providing essential support to legislators and politicians. They work closely with elected officials, assisting them in various tasks related to the legislative process. This includes conducting research, drafting legislation, preparing briefing materials, and analyzing policy issues. Legislative Aides also act as a liaison between constituents and legislators, addressing inquiries and concerns from the public. Their duties require strong communication, analytical, and organizational skills, as well as a deep understanding of the political system and legislative procedures. Overall, Legislative Aides contribute significantly to the efficient functioning of the political system, helping lawmakers make informed decisions and effectively represent their constituents' interests.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Legislative Aide or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Legislative Aide interviews to help you prepare and succeed.

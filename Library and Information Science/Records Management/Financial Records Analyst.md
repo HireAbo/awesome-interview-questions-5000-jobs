@@ -2,6 +2,8 @@
 
 Welcome to the Financial Records Analyst Interview Preparation ! This resource is designed to help you ace your Financial Records Analyst interviews with confidence.
 
+A library and information science professional specializing in records management, a Financial Records Analyst plays a crucial role in ensuring the accurate and efficient management of financial records within an organization. They are responsible for organizing, classifying, and maintaining financial documents such as invoices, receipts, financial statements, and tax records. The Financial Records Analyst ensures compliance with legal and regulatory requirements related to record-keeping and confidentiality. They collaborate with various departments to develop and implement standardized procedures for record retention and disposal. Additionally, they may conduct audits, analyze financial data, and provide recommendations for improving financial processes. Strong attention to detail, analytical skills, and knowledge of financial systems and regulations are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Financial Records Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Financial Records Analyst interviews to help you prepare and succeed.

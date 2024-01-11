@@ -2,6 +2,8 @@
 
 Welcome to the Algorithmic Trader Interview Preparation ! This resource is designed to help you ace your Algorithmic Trader interviews with confidence.
 
+Mathematics and Statistics are two branches of study that play a crucial role in various fields. When it comes to quantitative analysis and algorithmic trading, these disciplines become essential for making informed decisions in financial markets. An algorithmic trader utilizes mathematical models, statistical analysis, and computer programming to develop trading strategies and execute trades on behalf of clients or financial institutions. They employ complex algorithms to identify patterns, analyze market trends, and predict future price movements. This job requires a strong foundation in mathematics and statistics, as well as proficiency in programming languages and data analysis tools. Algorithmic traders play a vital role in maximizing profits and minimizing risks in the fast-paced world of finance.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Algorithmic Trader or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Algorithmic Trader interviews to help you prepare and succeed.

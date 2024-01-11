@@ -2,6 +2,8 @@
 
 Welcome to the Plumbing Inspector Interview Preparation ! This resource is designed to help you ace your Plumbing Inspector interviews with confidence.
 
+A Plumbing Inspector is a skilled trades professional who plays a crucial role in ensuring the safety and compliance of plumbing systems in various residential, commercial, and industrial settings. They are responsible for inspecting and evaluating plumbing installations, repairs, and maintenance work to ensure that it meets local building codes, regulations, and industry standards. Plumbing Inspectors possess a deep knowledge of plumbing systems and have expertise in identifying potential hazards, such as leaks, faulty installations, or inadequate materials. They conduct thorough inspections, review plans and blueprints, and document their findings to ensure that plumbing systems are safe, efficient, and environmentally friendly.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Plumbing Inspector or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Plumbing Inspector interviews to help you prepare and succeed.

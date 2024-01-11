@@ -2,6 +2,8 @@
 
 Welcome to the Policy Strategist Interview Preparation ! This resource is designed to help you ace your Policy Strategist interviews with confidence.
 
+A government and public service career path that falls under the umbrella of public policy is that of a Policy Strategist. A Policy Strategist plays a crucial role in shaping the policies and strategies implemented by government agencies and organizations. They are responsible for conducting research and analysis on various issues, identifying potential policy problems, and developing effective solutions. Policy Strategists work closely with policymakers, stakeholders, and other professionals to gather information, evaluate policy options, and provide recommendations. They also monitor policy implementation and assess its impact on society. This role requires strong analytical and critical thinking skills, as well as excellent communication and leadership abilities to effectively influence policy decisions in the best interest of the public.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Policy Strategist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Policy Strategist interviews to help you prepare and succeed.

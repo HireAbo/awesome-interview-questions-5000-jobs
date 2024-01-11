@@ -2,6 +2,8 @@
 
 Welcome to the Mammalogist Interview Preparation ! This resource is designed to help you ace your Mammalogist interviews with confidence.
 
+A Mammalogist is a professional biologist who specializes in the study of mammals. They conduct scientific research to understand the behavior, ecology, evolution, and conservation of mammals. Mammalogists play a crucial role in advancing our knowledge of these diverse and fascinating creatures, which include a wide range of species such as whales, bats, primates, and rodents. Their work involves fieldwork, laboratory analysis, and data interpretation. Mammalogists often collaborate with other scientists and conservation organizations to contribute to the conservation and management of mammal populations. This rewarding career requires a deep passion for animals, strong analytical skills, and a dedication to the scientific process.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Mammalogist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Mammalogist interviews to help you prepare and succeed.

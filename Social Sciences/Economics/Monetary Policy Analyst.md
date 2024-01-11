@@ -2,6 +2,8 @@
 
 Welcome to the Monetary Policy Analyst Interview Preparation ! This resource is designed to help you ace your Monetary Policy Analyst interviews with confidence.
 
+A Monetary Policy Analyst is an individual who specializes in studying and analyzing the impact of monetary policies on the economy. They work within the field of Economics, specifically focusing on the social science aspect of monetary policy. Their primary responsibility is to assess the effectiveness of monetary policies implemented by central banks and governments, and provide recommendations for improvements. This involves conducting extensive research, analyzing economic data, and monitoring market trends. Monetary Policy Analysts play a crucial role in guiding decision-makers on the appropriate course of action to achieve economic stability, growth, and inflation control. Their expertise is highly sought after by financial institutions, government agencies, and research organizations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Monetary Policy Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Monetary Policy Analyst interviews to help you prepare and succeed.

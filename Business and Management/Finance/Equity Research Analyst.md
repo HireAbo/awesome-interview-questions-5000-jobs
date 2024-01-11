@@ -2,6 +2,8 @@
 
 Welcome to the Equity Research Analyst Interview Preparation ! This resource is designed to help you ace your Equity Research Analyst interviews with confidence.
 
+An Equity Research Analyst is a crucial role in the field of Finance and specifically in the area of Equity Research. This job involves conducting extensive research and analysis on various companies and industries to provide insights and recommendations to investors, fund managers, and other financial professionals. Equity Research Analysts evaluate company financial statements, analyze industry trends, and track market developments to determine the value and potential risks associated with different investment opportunities. They use various financial models and tools to forecast future performance, prepare reports, and make investment recommendations. Strong analytical skills, financial knowledge, and the ability to interpret data are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Equity Research Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Equity Research Analyst interviews to help you prepare and succeed.

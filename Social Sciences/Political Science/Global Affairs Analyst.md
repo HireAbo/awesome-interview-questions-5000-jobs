@@ -2,6 +2,8 @@
 
 Welcome to the Global Affairs Analyst Interview Preparation ! This resource is designed to help you ace your Global Affairs Analyst interviews with confidence.
 
+A Global Affairs Analyst is a professional who specializes in examining and interpreting various aspects of international relations and global affairs. They are experts in political science, focusing on the complexities of different countries' policies, governments, and socio-economic systems. These analysts play a crucial role in understanding and forecasting the impact of global events, such as political conflicts, economic crises, and social developments, on different nations and regions. They work closely with policymakers, diplomats, and international organizations to provide insights and recommendations on diplomatic strategies, trade agreements, and humanitarian interventions. Their research and analysis are vital in shaping foreign policies, promoting peace, and fostering international cooperation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Global Affairs Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Global Affairs Analyst interviews to help you prepare and succeed.

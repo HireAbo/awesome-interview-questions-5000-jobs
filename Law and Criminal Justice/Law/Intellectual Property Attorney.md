@@ -2,6 +2,8 @@
 
 Welcome to the Intellectual Property Attorney Interview Preparation ! This resource is designed to help you ace your Intellectual Property Attorney interviews with confidence.
 
+An Intellectual Property Attorney is a legal professional who specializes in the protection and enforcement of intellectual property rights. Intellectual property refers to any original creation of the mind, such as inventions, trademarks, copyrights, and trade secrets. These attorneys play a crucial role in advising clients on how to safeguard their intellectual property assets and navigate complex legal issues related to infringement, licensing, and contractual agreements. They conduct research, draft legal documents, and represent clients in negotiations, litigation, and arbitration proceedings. Intellectual Property Attorneys must possess a deep understanding of intellectual property laws and stay updated on the latest legal developments to effectively protect their clients' valuable intangible assets.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Intellectual Property Attorney or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Intellectual Property Attorney interviews to help you prepare and succeed.

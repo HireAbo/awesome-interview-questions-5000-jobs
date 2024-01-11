@@ -2,6 +2,8 @@
 
 Welcome to the School Counselor Interview Preparation ! This resource is designed to help you ace your School Counselor interviews with confidence.
 
+Social work and human services encompass a wide range of professions dedicated to improving the well-being and quality of life for individuals, families, and communities. Within this field, counseling plays a pivotal role in addressing mental health concerns and providing guidance and support. One specific area of counseling is school counseling, where professionals work directly with students, parents, and educators to address academic, social, and emotional challenges. School counselors play a crucial role in facilitating personal development, promoting positive relationships, and fostering a healthy school environment. They provide guidance on career choices, academic planning, and mental health support, ultimately ensuring students' holistic growth and success.
+
 ## 🚀 Overview
 
 Whether you're a seasoned School Counselor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in School Counselor interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Commercial Analyst Interview Preparation ! This resource is designed to help you ace your Commercial Analyst interviews with confidence.
 
+A commercial analyst plays a crucial role in the field of business and management finance. As a commercial analyst, one is responsible for analyzing financial data and providing insights that drive strategic decision-making within an organization. This includes conducting market research, assessing economic trends, and evaluating the financial performance of various business initiatives. Commercial analysts also collaborate with cross-functional teams to develop financial models, forecasts, and budgets, while monitoring key performance indicators to ensure business objectives are met. Their expertise in financial analysis enables them to identify opportunities for growth, cost optimization, and risk mitigation. Overall, a commercial analyst contributes significantly to the financial success and sustainability of a company.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Commercial Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Commercial Analyst interviews to help you prepare and succeed.

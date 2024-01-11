@@ -2,6 +2,8 @@
 
 Welcome to the Nuclear Power Plant Security Manager Interview Preparation ! This resource is designed to help you ace your Nuclear Power Plant Security Manager interviews with confidence.
 
+A Nuclear Power Plant Security Manager plays a crucial role in ensuring the safety and security of nuclear power plants. This position involves overseeing the implementation of security protocols, procedures, and systems to protect the plant's assets, personnel, and the surrounding community from potential threats. The Security Manager is responsible for developing and implementing security plans, conducting risk assessments, and coordinating with internal and external stakeholders. They also monitor and analyze security incidents, conduct investigations, and provide training to staff on security protocols. The Nuclear Power Plant Security Manager must possess strong leadership skills, excellent problem-solving abilities, and an in-depth knowledge of nuclear power plant security regulations and practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nuclear Power Plant Security Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nuclear Power Plant Security Manager interviews to help you prepare and succeed.

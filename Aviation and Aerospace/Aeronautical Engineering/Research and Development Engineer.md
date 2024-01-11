@@ -2,6 +2,8 @@
 
 Welcome to the Research and Development Engineer Interview Preparation ! This resource is designed to help you ace your Research and Development Engineer interviews with confidence.
 
+A Research and Development Engineer in the field of Aeronautical Engineering plays a crucial role in advancing aviation and aerospace technology. They are responsible for conducting research, designing, and developing new products, systems, and technologies within the industry. These engineers work on projects that involve aircraft structures, propulsion systems, navigation systems, and aerodynamics. They analyze data, perform simulations, and use cutting-edge tools and software to create innovative solutions. Their work involves collaborating with teams of engineers, scientists, and technicians to test prototypes, improve existing designs, and ensure compliance with safety regulations. Research and Development Engineers in Aeronautical Engineering contribute to the continuous growth and improvement of the aviation and aerospace industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Research and Development Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Research and Development Engineer interviews to help you prepare and succeed.

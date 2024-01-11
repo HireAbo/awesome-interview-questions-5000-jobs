@@ -2,6 +2,8 @@
 
 Welcome to the Clinical Research Coordinator (CRC) Interview Preparation ! This resource is designed to help you ace your Clinical Research Coordinator (CRC) interviews with confidence.
 
+A Clinical Research Coordinator (CRC) plays a crucial role in the field of healthcare and medicine, particularly in medical research. The CRC is responsible for overseeing and coordinating various aspects of clinical trials and research studies. They work closely with physicians, scientists, and other healthcare professionals to ensure the smooth implementation of the research protocols. Their primary responsibilities include recruiting and screening participants, obtaining informed consent, collecting and managing data, and monitoring the progress of the study. The CRC also ensures compliance with regulatory guidelines and ethical standards. Their contribution is vital in advancing medical knowledge and improving patient care through rigorous and ethical clinical research.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Clinical Research Coordinator (CRC) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Clinical Research Coordinator (CRC) interviews to help you prepare and succeed.

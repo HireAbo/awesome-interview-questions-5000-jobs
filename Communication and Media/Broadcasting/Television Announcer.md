@@ -2,6 +2,8 @@
 
 Welcome to the Television Announcer Interview Preparation ! This resource is designed to help you ace your Television Announcer interviews with confidence.
 
+A Television Announcer is a professional responsible for presenting news, sports, entertainment, and other programs to the audience through television broadcasting. They play a crucial role in delivering information, engaging viewers, and maintaining a smooth flow of the show. These announcers typically work in studios, newsrooms, or on-location, ensuring the delivery of accurate and timely news updates. They possess excellent communication skills, a pleasant voice, and the ability to articulate information clearly. Television Announcers often work under strict deadlines, adapting to breaking news situations and script changes. Their role is essential in creating a positive viewer experience and maintaining the credibility of the television network.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Television Announcer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Television Announcer interviews to help you prepare and succeed.

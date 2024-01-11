@@ -2,6 +2,8 @@
 
 Welcome to the Public Administration Analyst Interview Preparation ! This resource is designed to help you ace your Public Administration Analyst interviews with confidence.
 
+A Public Administration Analyst plays a crucial role in the field of Government and Public Service. Government entities rely on these professionals to analyze and evaluate policies, programs, and administrative systems to ensure efficiency and effectiveness. These analysts are responsible for conducting research, collecting and analyzing data, and providing recommendations to improve public administration practices. They work closely with government officials, policymakers, and stakeholders to develop strategies and implement solutions that address public issues and challenges. A Public Administration Analyst must possess strong analytical and critical thinking skills, as well as excellent communication and problem-solving abilities to contribute to the development and implementation of effective public policies and programs.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Public Administration Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Public Administration Analyst interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Scenic Artist Interview Preparation ! This resource is designed to help you ace your Scenic Artist interviews with confidence.
 
+A Scenic Artist is a vital role in the world of theater arts, responsible for creating and painting the scenery and backdrops that bring a production to life. This highly skilled individual uses their artistic talent and technical expertise to transform a blank canvas into a captivating and immersive stage environment. They collaborate closely with set designers, directors, and other members of the production team to ensure that the visual elements align with the overall artistic vision. From designing and executing intricate set designs to applying various painting techniques and creating special effects, a Scenic Artist plays a pivotal role in the success of a theatrical production.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Scenic Artist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Scenic Artist interviews to help you prepare and succeed.

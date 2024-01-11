@@ -2,6 +2,8 @@
 
 Welcome to the Nuclear Instrument Calibration Technician Interview Preparation ! This resource is designed to help you ace your Nuclear Instrument Calibration Technician interviews with confidence.
 
+A Nuclear Instrument Calibration Technician is responsible for ensuring the accurate calibration and functionality of instruments used in nuclear energy facilities. They play a critical role in maintaining safe and efficient operations by calibrating and troubleshooting various instruments, including radiation detectors, pressure gauges, temperature sensors, and flow meters. These technicians possess strong technical skills and knowledge of nuclear regulations and safety procedures. They work closely with engineers and scientists to ensure that instruments are properly calibrated to provide accurate data for monitoring and controlling nuclear processes. Attention to detail, analytical thinking, and adherence to strict protocols are essential qualities for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nuclear Instrument Calibration Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nuclear Instrument Calibration Technician interviews to help you prepare and succeed.

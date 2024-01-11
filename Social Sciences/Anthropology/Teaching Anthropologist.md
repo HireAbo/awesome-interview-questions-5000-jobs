@@ -2,6 +2,8 @@
 
 Welcome to the Teaching Anthropologist Interview Preparation ! This resource is designed to help you ace your Teaching Anthropologist interviews with confidence.
 
+A Teaching Anthropologist is a professional who combines their expertise in anthropology with a passion for teaching and educating others. This role involves working in academic institutions, such as universities or colleges, where the teaching anthropologist imparts knowledge and understanding of anthropology to students. They develop and deliver courses, design curriculum, and assess student performance. Teaching anthropologists not only educate students about the theories, methods, and concepts of anthropology, but also foster critical thinking skills and promote cultural awareness. They may also engage in research activities to contribute to the field of anthropology while staying up-to-date with the latest advancements in the discipline.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Teaching Anthropologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Teaching Anthropologist interviews to help you prepare and succeed.

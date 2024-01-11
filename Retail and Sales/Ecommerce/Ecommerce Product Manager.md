@@ -2,6 +2,8 @@
 
 Welcome to the E-commerce Product Manager Interview Preparation ! This resource is designed to help you ace your E-commerce Product Manager interviews with confidence.
 
+A Retail and Sales E-commerce Product Manager is responsible for overseeing the development and management of products for online retail platforms. This role requires a deep understanding of consumer behavior and market trends to identify opportunities for growth and optimize the customer experience. The E-commerce Product Manager collaborates with cross-functional teams such as marketing, design, and technology to define product requirements, create user-friendly interfaces, and meet business objectives. They also conduct market research, analyze data, and monitor competitors to make data-driven decisions that drive sales and improve customer satisfaction. This role requires strong analytical and communication skills, as well as a passion for e-commerce and retail.
+
 ## 🚀 Overview
 
 Whether you're a seasoned E-commerce Product Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in E-commerce Product Manager interviews to help you prepare and succeed.

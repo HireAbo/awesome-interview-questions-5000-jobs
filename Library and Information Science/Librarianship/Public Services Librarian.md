@@ -2,6 +2,8 @@
 
 Welcome to the Public Services Librarian Interview Preparation ! This resource is designed to help you ace your Public Services Librarian interviews with confidence.
 
+Library and Information Science is an interdisciplinary field that focuses on the organization, management, and dissemination of information. Within this field, librarianship involves the practice of providing information services to individuals and communities. As a Public Services Librarian, your role would be to assist library users in accessing and utilizing information resources effectively. This includes helping patrons locate materials, answering reference questions, and providing guidance on research strategies. Additionally, you would be responsible for organizing and promoting library programs and events, collaborating with community organizations, and staying up-to-date with emerging technologies and trends in order to enhance user experience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Public Services Librarian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Public Services Librarian interviews to help you prepare and succeed.

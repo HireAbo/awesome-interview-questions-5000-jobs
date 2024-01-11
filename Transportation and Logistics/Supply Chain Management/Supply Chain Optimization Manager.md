@@ -2,6 +2,8 @@
 
 Welcome to the Supply Chain Optimization Manager Interview Preparation ! This resource is designed to help you ace your Supply Chain Optimization Manager interviews with confidence.
 
+A Supply Chain Optimization Manager is responsible for overseeing and improving the efficiency of transportation and logistics operations within a company's supply chain management. They analyze and evaluate the entire supply chain, identifying areas for improvement and implementing strategies to optimize processes, reduce costs, and enhance overall performance. This role requires strong analytical skills, as well as a deep understanding of supply chain management principles and logistics operations. Supply Chain Optimization Managers collaborate with various stakeholders, including suppliers, manufacturers, and distributors, to develop and implement innovative solutions that streamline the movement of goods and materials, ultimately ensuring timely delivery and customer satisfaction.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Supply Chain Optimization Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Supply Chain Optimization Manager interviews to help you prepare and succeed.

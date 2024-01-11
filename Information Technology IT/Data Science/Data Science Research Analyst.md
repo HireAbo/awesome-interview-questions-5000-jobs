@@ -2,6 +2,12 @@
 
 Welcome to the Data Science Research Analyst Interview Preparation ! This resource is designed to help you ace your Data Science Research Analyst interviews with confidence.
 
+Information Technology (IT) refers to the use and management of computers, software, and data to store, retrieve, transmit, and manipulate information. It encompasses a wide range of technologies and applications used to streamline business operations, enhance communication, and solve complex problems.
+
+Within the field of IT, Data Science focuses on extracting valuable insights and knowledge from large and complex datasets. Data Science involves the use of statistical analysis, machine learning algorithms, and programming skills to analyze and interpret data, enabling organizations to make data-driven decisions and solve real-world problems.
+
+A Data Science Research Analyst plays a crucial role in this domain. They are responsible for collecting, cleaning, and analyzing data to identify patterns, trends, and correlations. They develop and implement analytical models and algorithms, conduct experiments, and present findings to stakeholders. Their work contributes to improving business processes, enhancing customer experiences, and driving innovation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Science Research Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Science Research Analyst interviews to help you prepare and succeed.

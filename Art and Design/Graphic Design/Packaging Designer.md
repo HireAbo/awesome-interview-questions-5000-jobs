@@ -2,6 +2,8 @@
 
 Welcome to the Packaging Designer Interview Preparation ! This resource is designed to help you ace your Packaging Designer interviews with confidence.
 
+A Packaging Designer is a professional who combines art and design skills to create visually appealing and functional packaging for products. They work in the field of graphic design, specializing in packaging materials and techniques. Packaging Designers collaborate with clients, marketing teams, and manufacturers to understand the product's target audience, branding, and objectives. They develop concepts, sketches, and prototypes, incorporating elements such as typography, imagery, color schemes, and structural design. These professionals possess a keen eye for detail, creativity, and knowledge of production processes. A Packaging Designer plays a crucial role in enhancing a product's visibility, brand identity, and sales through their innovative and strategic design solutions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Packaging Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Packaging Designer interviews to help you prepare and succeed.

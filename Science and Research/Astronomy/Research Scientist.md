@@ -2,6 +2,8 @@
 
 Welcome to the Research Scientist Interview Preparation ! This resource is designed to help you ace your Research Scientist interviews with confidence.
 
+Astronomy, a captivating branch of science, explores the vastness of the universe and its celestial bodies. Within this field, a research scientist plays a vital role in advancing knowledge and understanding of our universe. Research scientists in astronomy dedicate their careers to conducting detailed investigations, collecting and analyzing data, and formulating theories to expand our knowledge of celestial objects and phenomena. They utilize cutting-edge technologies, including telescopes, space missions, and computer simulations, to uncover mysteries of the universe, such as the origins of galaxies, the behavior of black holes, and the existence of exoplanets. These dedicated professionals contribute to humanity's quest for knowledge and provide valuable insights into the wonders of the cosmos.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Research Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Research Scientist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Safety Engineer Interview Preparation ! This resource is designed to help you ace your Safety Engineer interviews with confidence.
 
+Aviation and Aerospace encompass the fascinating domain of flight and space exploration. With its roots dating back to the early 20th century, Aeronautical Engineering has since evolved into a specialized field that focuses on the design, development, and maintenance of aircraft and spacecraft. Within this domain, the role of a Safety Engineer holds great importance. A Safety Engineer in Aeronautical Engineering ensures that aviation and aerospace systems operate in a safe and reliable manner. They analyze potential risks, identify hazards, and develop strategies to mitigate them. Their expertise is crucial in maintaining the highest level of safety standards in the aviation and aerospace industries.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Safety Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Safety Engineer interviews to help you prepare and succeed.

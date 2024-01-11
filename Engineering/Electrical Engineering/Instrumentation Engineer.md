@@ -2,6 +2,8 @@
 
 Welcome to the Instrumentation Engineer Interview Preparation ! This resource is designed to help you ace your Instrumentation Engineer interviews with confidence.
 
+An Instrumentation Engineer in the field of Electrical Engineering specializes in designing, developing, installing, and maintaining instruments and control systems used in various industries. These professionals play a crucial role in ensuring the efficiency, accuracy, and safety of industrial processes by monitoring, controlling, and optimizing the performance of equipment, such as sensors, transmitters, and control valves. They work closely with other engineers and technicians to design and implement instrumentation systems that measure and control variables such as pressure, temperature, flow rate, and level. Instrumentation Engineers also troubleshoot and repair faulty instruments and conduct regular inspections to ensure compliance with industry standards and regulations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Instrumentation Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Instrumentation Engineer interviews to help you prepare and succeed.

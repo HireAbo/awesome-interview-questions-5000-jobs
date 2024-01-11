@@ -2,6 +2,8 @@
 
 Welcome to the Program Manager Interview Preparation ! This resource is designed to help you ace your Program Manager interviews with confidence.
 
+The role of a Program Manager in the field of Social Work and Human Services within Nonprofit Management is vital in ensuring the effective coordination and implementation of various programs and services aimed at addressing the needs of individuals and communities. As a Program Manager, one is responsible for overseeing the development, planning, and evaluation of programs, ensuring that they align with the organization's mission and goals. This entails managing budgets, collaborating with stakeholders, recruiting and supervising staff, and monitoring program outcomes. The Program Manager plays a crucial leadership role, fostering partnerships, advocating for resources, and driving organizational growth and impact to bring about positive social change.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Program Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Program Manager interviews to help you prepare and succeed.

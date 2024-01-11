@@ -2,6 +2,8 @@
 
 Welcome to the Freelance Writer Interview Preparation ! This resource is designed to help you ace your Freelance Writer interviews with confidence.
 
+A freelance writer in the field of journalism is responsible for crafting engaging and informative content for various media outlets. They have the unique ability to effectively communicate through the written word, bringing stories to life and captivating audiences. As a freelance writer, they have the freedom to work on a wide range of projects, from news articles and features to blog posts and copywriting. This career path requires strong research and interviewing skills, as well as the ability to meet deadlines and work independently. With the rising demand for quality content in today's digital age, freelance writers play a crucial role in shaping public discourse and keeping audiences informed.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Freelance Writer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Freelance Writer interviews to help you prepare and succeed.

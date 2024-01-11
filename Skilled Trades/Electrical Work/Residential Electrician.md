@@ -2,6 +2,8 @@
 
 Welcome to the Residential Electrician Interview Preparation ! This resource is designed to help you ace your Residential Electrician interviews with confidence.
 
+A residential electrician is a skilled tradesperson who specializes in electrical work within residential properties. They are responsible for installing, maintaining, and repairing electrical systems in homes, apartments, and other residential buildings. This includes wiring, circuitry, outlets, switches, and fixtures. Residential electricians ensure that electrical systems are safe, functional, and up to code by following blueprints, electrical diagrams, and local regulations. They also troubleshoot electrical issues, diagnose problems, and provide appropriate solutions. A residential electrician must possess excellent technical skills, knowledge of electrical codes and safety procedures, and the ability to work efficiently and effectively in a variety of residential settings.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Residential Electrician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Residential Electrician interviews to help you prepare and succeed.

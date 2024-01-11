@@ -2,6 +2,8 @@
 
 Welcome to the Labor and Employment Attorney Interview Preparation ! This resource is designed to help you ace your Labor and Employment Attorney interviews with confidence.
 
+A Labor and Employment Attorney is a legal professional specializing in the field of labor and employment law. Their primary responsibility is to advocate for and protect the rights of employees and employers in the workplace. Labor and Employment Attorneys handle a wide range of legal matters related to labor and employment, including workplace discrimination, harassment, wrongful termination, wage and hour disputes, and collective bargaining agreements. These attorneys provide legal advice and representation to both individuals and organizations, ensuring compliance with labor laws and regulations. They may also negotiate and draft employment contracts, policies, and procedures, as well as represent clients in court proceedings and administrative hearings.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Labor and Employment Attorney or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Labor and Employment Attorney interviews to help you prepare and succeed.

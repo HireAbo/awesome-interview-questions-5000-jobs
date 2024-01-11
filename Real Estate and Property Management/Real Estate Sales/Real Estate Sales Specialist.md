@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Sales Specialist Interview Preparation ! This resource is designed to help you ace your Real Estate Sales Specialist interviews with confidence.
 
+A Real Estate Sales Specialist is a professional who specializes in the buying and selling of properties. They possess in-depth knowledge of the real estate market, including current trends, property values, and legal procedures. These specialists work closely with clients to understand their requirements and help them find the ideal property or sell their existing ones. They conduct market research, evaluate properties, negotiate deals, and provide guidance throughout the entire sales process. Additionally, Real Estate Sales Specialists maintain relationships with potential buyers and sellers, ensuring a smooth transaction. Their expertise and strong communication skills make them adept at closing deals and maximizing profits for their clients.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Sales Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Sales Specialist interviews to help you prepare and succeed.

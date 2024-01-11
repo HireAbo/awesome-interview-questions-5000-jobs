@@ -2,6 +2,8 @@
 
 Welcome to the Supply Chain Planner Interview Preparation ! This resource is designed to help you ace your Supply Chain Planner interviews with confidence.
 
+A Supply Chain Planner plays a crucial role in the field of Transportation and Logistics, specifically in Supply Chain Management. This job involves overseeing the entire supply chain process, from sourcing raw materials to delivering finished products to customers. Supply Chain Planners are responsible for creating and implementing strategies to ensure the efficient flow of goods, minimizing costs and maximizing customer satisfaction. They collaborate with suppliers, manufacturers, and distributors to optimize inventory levels, forecast demand, and plan transportation routes. Additionally, Supply Chain Planners analyze data, monitor performance, and make adjustments to maintain a smooth and reliable supply chain. Their expertise is essential in driving operational excellence and achieving business objectives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Supply Chain Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Supply Chain Planner interviews to help you prepare and succeed.

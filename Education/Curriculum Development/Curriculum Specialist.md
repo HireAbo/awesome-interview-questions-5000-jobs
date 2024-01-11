@@ -2,6 +2,8 @@
 
 Welcome to the Curriculum Specialist Interview Preparation ! This resource is designed to help you ace your Curriculum Specialist interviews with confidence.
 
+A Curriculum Specialist is an education professional responsible for the development and implementation of curriculum in educational institutions. They work closely with teachers, administrators, and other stakeholders to design and refine instructional materials, lesson plans, and assessments. The primary goal of a Curriculum Specialist is to ensure that the curriculum aligns with educational standards and meets the needs of students. They analyze data, research best practices, and collaborate with subject matter experts to design engaging and effective curriculum. Additionally, Curriculum Specialists provide professional development and support to teachers, offering guidance on instructional strategies and curriculum implementation. They play a crucial role in improving educational outcomes and fostering student success.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Curriculum Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Curriculum Specialist interviews to help you prepare and succeed.

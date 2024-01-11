@@ -2,6 +2,8 @@
 
 Welcome to the Urban Planning Engineer Interview Preparation ! This resource is designed to help you ace your Urban Planning Engineer interviews with confidence.
 
+An Urban Planning Engineer plays a crucial role in designing and developing sustainable cities and communities. They are responsible for creating plans and strategies to optimize land utilization, transportation systems, and infrastructure development. These professionals use their technical expertise and knowledge of urban planning principles to ensure that cities are efficient, aesthetically pleasing, and meet the needs of the population. Urban Planning Engineers collaborate with architects, policymakers, and stakeholders to assess environmental impact, address social and economic issues, and promote sustainable development practices. They also analyze data, conduct feasibility studies, and develop comprehensive plans that encompass zoning regulations, transportation networks, public spaces, and housing.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Urban Planning Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Urban Planning Engineer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the E-commerce AR/VR Developer Interview Preparation ! This resource is designed to help you ace your E-commerce AR/VR Developer interviews with confidence.
 
+A career as an E-commerce AR/VR Developer in Retail and Sales involves the integration of Augmented Reality (AR) and Virtual Reality (VR) technologies into the e-commerce platform. As an E-commerce AR/VR Developer, you will be responsible for creating immersive and interactive virtual shopping experiences for online customers. This role requires expertise in programming languages such as JavaScript, Unity, and C#, along with knowledge of AR/VR development tools and platforms. By blending the physical and digital worlds, you will enhance the online shopping experience by enabling customers to visualize products in their own environment, try them virtually, and make informed purchase decisions. Your work will play a crucial role in driving sales and revolutionizing the e-commerce industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned E-commerce AR/VR Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in E-commerce AR/VR Developer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Dam Engineer Interview Preparation ! This resource is designed to help you ace your Dam Engineer interviews with confidence.
 
+A Dam Engineer is a highly skilled professional who specializes in the design, construction, and maintenance of dams. They play a crucial role in ensuring the safety, efficiency, and reliability of these structures. Dam Engineers are responsible for conducting site investigations, analyzing geological data, and determining the most suitable dam design for a specific location. They also develop detailed construction plans, oversee the construction process, and perform regular inspections and maintenance to ensure the structural integrity of the dam. Additionally, Dam Engineers work closely with environmental experts to mitigate any potential impact on the surrounding ecosystems and communities. Overall, their expertise is essential in providing sustainable water resources and flood control solutions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Dam Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Dam Engineer interviews to help you prepare and succeed.

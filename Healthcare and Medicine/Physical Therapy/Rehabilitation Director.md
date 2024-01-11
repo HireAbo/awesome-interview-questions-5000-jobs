@@ -2,6 +2,8 @@
 
 Welcome to the Rehabilitation Director Interview Preparation ! This resource is designed to help you ace your Rehabilitation Director interviews with confidence.
 
+The role of a Rehabilitation Director in the field of healthcare and medicine, specifically in physical therapy, is a crucial one. As a Rehabilitation Director, you are responsible for overseeing and managing the rehabilitation department within a healthcare facility. You play a vital role in developing and implementing treatment programs for patients recovering from injuries, surgeries, or illnesses. Your expertise in physical therapy helps you assess patient needs, develop individualized care plans, and monitor progress throughout the rehabilitation process. You collaborate with a team of healthcare professionals to ensure the highest level of care and help patients regain their strength, mobility, and independence. Additionally, as a Rehabilitation Director, you may be involved in budgeting, staff management, and maintaining compliance with regulatory guidelines.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Rehabilitation Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Rehabilitation Director interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Railroad Police Officer Interview Preparation ! This resource is designed to help you ace your Railroad Police Officer interviews with confidence.
 
+A Railroad Police Officer plays a vital role in maintaining the safety and security of railway systems. These law enforcement professionals are responsible for enforcing laws, regulations, and policies specific to the railroad industry. Their primary objective is to protect railroad property, employees, passengers, and the general public from criminal activities such as theft, vandalism, trespassing, and terrorism. Railroad Police Officers have the authority to make arrests, conduct investigations, and gather evidence related to railroad-related crimes. They work closely with local, state, and federal law enforcement agencies to ensure the smooth operation and integrity of the railway system. Strong communication, problem-solving, and physical fitness skills are essential for this challenging and rewarding career.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Railroad Police Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Railroad Police Officer interviews to help you prepare and succeed.

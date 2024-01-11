@@ -2,6 +2,8 @@
 
 Welcome to the E-commerce Growth Hacker Interview Preparation ! This resource is designed to help you ace your E-commerce Growth Hacker interviews with confidence.
 
+The world of retail and sales has undergone a significant transformation with the advent of e-commerce. E-commerce refers to the buying and selling of goods and services online, allowing businesses to reach a global audience and operate 24/7. Within this domain, the role of an E-commerce Growth Hacker has emerged as a crucial position. This job involves utilizing data-driven insights and innovative marketing strategies to accelerate the growth of online businesses. E-commerce Growth Hackers employ techniques such as search engine optimization, social media marketing, content creation, and data analysis to optimize customer acquisition, retention, and revenue generation. Their ultimate goal is to drive exponential growth and maximize the online presence and profitability of e-commerce companies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned E-commerce Growth Hacker or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in E-commerce Growth Hacker interviews to help you prepare and succeed.

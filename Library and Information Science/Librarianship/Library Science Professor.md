@@ -2,6 +2,8 @@
 
 Welcome to the Library Science Professor Interview Preparation ! This resource is designed to help you ace your Library Science Professor interviews with confidence.
 
+A Library and Information Science (LIS) Professor specializing in Librarianship and Library Science is a highly esteemed position within academia. These professionals are responsible for imparting knowledge and expertise to aspiring librarians and information scientists. As a professor, they teach courses that cover various aspects of library and information science, including cataloging, classification, collection development, reference services, and information retrieval. They also engage in research and scholarly activities to contribute to the field's knowledge base and stay updated with the latest advancements. LIS Professors may also supervise and mentor students, providing guidance and support as they navigate their academic and professional journeys in the world of libraries and information science.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Library Science Professor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Library Science Professor interviews to help you prepare and succeed.

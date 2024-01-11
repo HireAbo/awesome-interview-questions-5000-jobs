@@ -2,6 +2,8 @@
 
 Welcome to the School Business Manager Interview Preparation ! This resource is designed to help you ace your School Business Manager interviews with confidence.
 
+A School Business Manager plays a crucial role in the efficient operation of educational institutions. They are responsible for overseeing the financial management, administration, and operational aspects of a school. This includes budget planning and management, procurement, human resources, facilities management, and health and safety compliance. School Business Managers ensure that financial resources are allocated effectively, allowing for optimal learning environments for students and efficient utilization of resources. They collaborate with school leadership, staff, and external stakeholders to develop and implement strategies that support the school's educational goals. Overall, School Business Managers contribute to the smooth running of schools by providing essential administrative and financial support.
+
 ## 🚀 Overview
 
 Whether you're a seasoned School Business Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in School Business Manager interviews to help you prepare and succeed.

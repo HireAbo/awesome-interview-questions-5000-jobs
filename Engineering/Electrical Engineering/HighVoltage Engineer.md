@@ -2,6 +2,8 @@
 
 Welcome to the High-Voltage Engineer Interview Preparation ! This resource is designed to help you ace your High-Voltage Engineer interviews with confidence.
 
+A High-Voltage Engineer is a specialized professional within the field of Electrical Engineering, responsible for designing, implementing, and maintaining high-voltage power systems and equipment. These engineers play a crucial role in ensuring the safe and efficient transmission and distribution of electricity at high voltages. They are involved in designing and testing high-voltage substations, transformers, circuit breakers, and other related equipment. High-Voltage Engineers are also responsible for diagnosing and solving electrical faults, conducting risk assessments, and implementing safety measures to mitigate potential hazards associated with high-voltage systems. They work closely with other engineers and technicians to ensure the reliability and stability of high-voltage power networks.
+
 ## 🚀 Overview
 
 Whether you're a seasoned High-Voltage Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in High-Voltage Engineer interviews to help you prepare and succeed.

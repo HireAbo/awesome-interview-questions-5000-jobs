@@ -2,6 +2,8 @@
 
 Welcome to the Healthcare Program Manager Interview Preparation ! This resource is designed to help you ace your Healthcare Program Manager interviews with confidence.
 
+A Healthcare Program Manager is a crucial role within the field of Healthcare Administration. These professionals are responsible for overseeing and managing various healthcare programs that aim to improve patient care, optimize operational efficiency, and ensure compliance with regulatory standards. They work closely with healthcare professionals, administrators, and staff to develop and implement effective strategies, policies, and procedures. Healthcare Program Managers also monitor program outcomes, analyze data, and make necessary adjustments to achieve desired objectives. Excellent leadership, problem-solving, and communication skills are essential in this role, as they collaborate with different stakeholders to drive continuous improvement and deliver high-quality healthcare services to patients.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Healthcare Program Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Healthcare Program Manager interviews to help you prepare and succeed.

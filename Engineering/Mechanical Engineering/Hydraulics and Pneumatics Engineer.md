@@ -2,6 +2,8 @@
 
 Welcome to the Hydraulics and Pneumatics Engineer Interview Preparation ! This resource is designed to help you ace your Hydraulics and Pneumatics Engineer interviews with confidence.
 
+A Hydraulics and Pneumatics Engineer is a specialized professional in the field of Mechanical Engineering. This job involves designing, developing, and maintaining hydraulic and pneumatic systems used in various industries. These engineers apply their knowledge of fluid mechanics to create systems that use pressurized fluids and gases to generate power and control machinery. They are responsible for designing components, selecting appropriate materials, and ensuring the efficiency and safety of these systems. A Hydraulics and Pneumatics Engineer must possess strong analytical and problem-solving skills to troubleshoot and optimize system performance. They often collaborate with other engineers and technicians to test and improve the functionality of these systems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Hydraulics and Pneumatics Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Hydraulics and Pneumatics Engineer interviews to help you prepare and succeed.

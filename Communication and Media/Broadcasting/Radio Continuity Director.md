@@ -2,6 +2,8 @@
 
 Welcome to the Radio Continuity Director Interview Preparation ! This resource is designed to help you ace your Radio Continuity Director interviews with confidence.
 
+A Radio Continuity Director plays a crucial role in the field of Communication and Media Broadcasting. They are responsible for ensuring the smooth flow of radio programs by managing the continuity elements. This involves overseeing the transitions between songs, commercials, and other audio content. The Radio Continuity Director works closely with the program director, producers, and on-air talent to create a seamless listening experience for the audience. They also coordinate with sales teams to schedule advertisements and promotions effectively. Additionally, they may be involved in selecting music playlists, adding sound effects, and managing live broadcasts. Attention to detail, excellent organizational skills, and a deep understanding of radio programming are essential for this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Radio Continuity Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Radio Continuity Director interviews to help you prepare and succeed.

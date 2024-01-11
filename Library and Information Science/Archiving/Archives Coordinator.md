@@ -2,6 +2,8 @@
 
 Welcome to the Archives Coordinator Interview Preparation ! This resource is designed to help you ace your Archives Coordinator interviews with confidence.
 
+Library and Information Science is a field that focuses on the organization, management, and dissemination of information. It encompasses various areas, including archiving, which involves the preservation and maintenance of historical records and documents. Within this field, the role of an Archives Coordinator is crucial. As an Archives Coordinator, one is responsible for overseeing and coordinating all activities related to the archival collection. This includes acquiring, organizing, cataloging, and preserving records, as well as ensuring their accessibility to researchers and the public. They play a vital role in maintaining the integrity of historical documents and ensuring their long-term preservation for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Archives Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Archives Coordinator interviews to help you prepare and succeed.

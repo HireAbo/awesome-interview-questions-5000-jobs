@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Leasing Agent Interview Preparation ! This resource is designed to help you ace your Real Estate Leasing Agent interviews with confidence.
 
+A Real Estate Leasing Agent is a professional who specializes in assisting clients with finding and leasing properties. As part of the Real Estate Sales industry, they work closely with property owners and tenants to facilitate rental transactions. Their primary responsibilities include marketing available properties, conducting property showings, screening potential tenants, negotiating lease agreements, and ensuring compliance with local housing laws. Leasing agents also act as a liaison between property owners and tenants, addressing any concerns or issues that may arise during the lease term. Their goal is to provide a seamless and efficient rental experience for both landlords and tenants while maximizing occupancy and rental income.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Leasing Agent or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Leasing Agent interviews to help you prepare and succeed.

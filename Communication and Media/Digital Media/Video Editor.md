@@ -2,6 +2,8 @@
 
 Welcome to the Video Editor Interview Preparation ! This resource is designed to help you ace your Video Editor interviews with confidence.
 
+A Video Editor is a professional who specializes in creating and enhancing video content for various platforms such as television, film, social media, and websites. This job requires a strong understanding of digital media and communication strategies. Video Editors are responsible for editing raw footage, adding special effects, transitions, and sound effects to create visually appealing and engaging videos. They work closely with directors, producers, and other members of the production team to bring their creative vision to life. Additionally, Video Editors must keep up with the latest trends and technologies in digital media to ensure the videos they create are cutting-edge and impactful.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Video Editor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Video Editor interviews to help you prepare and succeed.

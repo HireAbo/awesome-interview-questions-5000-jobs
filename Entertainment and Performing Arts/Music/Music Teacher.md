@@ -2,6 +2,8 @@
 
 Welcome to the Music Teacher Interview Preparation ! This resource is designed to help you ace your Music Teacher interviews with confidence.
 
+A music teacher plays a vital role in shaping the musical talents of students and instilling a love for music. As an integral part of the entertainment and performing arts industry, music teachers provide instruction and guidance to individuals of all ages and skill levels. They possess a deep knowledge of music theory, technique, and performance skills, allowing them to teach various musical instruments, including piano, guitar, violin, and drums. Music teachers create engaging and customized lesson plans, conduct rehearsals, and offer constructive feedback to help students develop their musical abilities. They foster a nurturing and supportive environment, inspiring students to explore their creativity and passion for music.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Music Teacher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Music Teacher interviews to help you prepare and succeed.

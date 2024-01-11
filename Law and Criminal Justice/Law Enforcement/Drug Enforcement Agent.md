@@ -2,6 +2,8 @@
 
 Welcome to the Drug Enforcement Agent Interview Preparation ! This resource is designed to help you ace your Drug Enforcement Agent interviews with confidence.
 
+A Drug Enforcement Agent is a law enforcement professional who specializes in combating illegal drug trafficking and drug-related crimes. These agents are responsible for investigating and apprehending individuals involved in the production, distribution, and sale of illegal drugs. They work closely with federal, state, and local law enforcement agencies to gather intelligence, conduct surveillance, and execute arrests. Drug Enforcement Agents also collaborate with other countries' law enforcement agencies to combat drug smuggling on an international scale. Their duties involve conducting undercover operations, analyzing evidence, and testifying in court. The role requires physical and mental agility, as well as a strong commitment to upholding the law and protecting public safety.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Drug Enforcement Agent or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Drug Enforcement Agent interviews to help you prepare and succeed.

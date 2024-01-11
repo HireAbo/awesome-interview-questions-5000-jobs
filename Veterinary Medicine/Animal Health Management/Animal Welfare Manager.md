@@ -2,6 +2,8 @@
 
 Welcome to the Animal Welfare Manager Interview Preparation ! This resource is designed to help you ace your Animal Welfare Manager interviews with confidence.
 
+A Veterinary Medicine Animal Health Management Animal Welfare Manager is a professional responsible for ensuring the well-being and proper treatment of animals in various settings. They play a crucial role in upholding animal welfare standards and promoting ethical practices. These managers work closely with veterinarians, animal care staff, and other professionals to develop and implement policies that prioritize animal health and comfort. They oversee the daily operations, monitor animal care practices, and assess the overall conditions of animals under their care. Their responsibilities may include conducting inspections, providing training, addressing animal welfare concerns, and keeping up with industry regulations. Ultimately, their goal is to ensure optimal animal welfare and enhance the quality of life for animals in their care.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Animal Welfare Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Animal Welfare Manager interviews to help you prepare and succeed.

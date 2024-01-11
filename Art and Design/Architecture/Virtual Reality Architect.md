@@ -2,6 +2,8 @@
 
 Welcome to the Virtual Reality Architect Interview Preparation ! This resource is designed to help you ace your Virtual Reality Architect interviews with confidence.
 
+A Virtual Reality Architect is a professional who specializes in blending the realms of art, design, and architecture with the immense potential of virtual reality technology. This innovative role involves creating immersive and interactive virtual environments that simulate architectural designs and concepts. Virtual Reality Architects utilize cutting-edge software and hardware to develop visually striking and realistic 3D models, allowing clients and stakeholders to experience architectural spaces before they are constructed. By harnessing the power of virtual reality, they offer a transformative experience that enhances the understanding, communication, and visualization of architectural projects. These professionals possess a unique blend of technical skills, creativity, and a deep understanding of architectural principles to seamlessly integrate digital technology into the built environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Virtual Reality Architect or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Virtual Reality Architect interviews to help you prepare and succeed.

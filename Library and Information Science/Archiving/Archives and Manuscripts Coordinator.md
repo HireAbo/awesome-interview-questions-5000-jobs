@@ -2,6 +2,14 @@
 
 Welcome to the Archives and Manuscripts Coordinator Interview Preparation ! This resource is designed to help you ace your Archives and Manuscripts Coordinator interviews with confidence.
 
+Library and Information Science is a field that focuses on the organization, preservation, and dissemination of information in various formats. Within this field, the role of an Archives and Manuscripts Coordinator is crucial in ensuring the proper management and accessibility of archival materials.
+
+As an Archives and Manuscripts Coordinator, your primary responsibility is to oversee the acquisition, processing, and preservation of archival collections. You will work closely with librarians, curators, and researchers to identify, appraise, and catalog historical documents, photographs, manuscripts, and other records of cultural significance.
+
+Additionally, you will play a key role in creating finding aids, organizing and digitizing materials, managing archival databases, and promoting the collections to researchers and the public. Strong attention to detail, knowledge of preservation techniques, and proficiency in archival software are essential for success in this position.
+
+Overall, the Archives and Manuscripts Coordinator job is an exciting opportunity to contribute to the preservation and accessibility of valuable historical resources, ensuring their availability for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Archives and Manuscripts Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Archives and Manuscripts Coordinator interviews to help you prepare and succeed.

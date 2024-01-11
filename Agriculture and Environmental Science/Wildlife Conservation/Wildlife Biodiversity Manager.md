@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife Biodiversity Manager Interview Preparation ! This resource is designed to help you ace your Wildlife Biodiversity Manager interviews with confidence.
 
+The field of Agriculture and Environmental Science encompasses various disciplines, including Wildlife Conservation. Wildlife Conservation focuses on preserving and managing the biodiversity of animal species in their natural habitats. A crucial role within this field is that of a Wildlife Biodiversity Manager. As a Wildlife Biodiversity Manager, you are responsible for developing and implementing conservation strategies to protect and enhance the populations of wildlife species. This involves conducting research, monitoring populations, and collaborating with other professionals to establish conservation programs. By understanding the ecological needs of different species, you ensure the preservation of wildlife biodiversity, contributing to the sustainability of our natural ecosystems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Biodiversity Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Biodiversity Manager interviews to help you prepare and succeed.

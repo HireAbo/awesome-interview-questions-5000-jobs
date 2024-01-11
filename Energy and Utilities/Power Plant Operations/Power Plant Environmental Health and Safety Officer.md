@@ -2,6 +2,8 @@
 
 Welcome to the Power Plant Environmental Health and Safety Officer Interview Preparation ! This resource is designed to help you ace your Power Plant Environmental Health and Safety Officer interviews with confidence.
 
+The Power Plant Environmental Health and Safety Officer is a crucial role within the Energy and Utilities sector. This professional ensures the safety and well-being of employees, the community, and the environment in power plant operations. They are responsible for developing, implementing, and managing health and safety programs and policies to meet regulatory requirements and industry standards. The Environmental Health and Safety Officer conducts regular inspections, risk assessments, and accident investigations to identify potential hazards and mitigate risks. They also collaborate with various stakeholders to promote a culture of safety, provide training, and monitor compliance with environmental regulations. This role plays a vital part in maintaining a safe and sustainable power plant operation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Power Plant Environmental Health and Safety Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Power Plant Environmental Health and Safety Officer interviews to help you prepare and succeed.

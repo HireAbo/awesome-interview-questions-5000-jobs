@@ -2,6 +2,8 @@
 
 Welcome to the Airport Manager Interview Preparation ! This resource is designed to help you ace your Airport Manager interviews with confidence.
 
+The role of an Airport Manager is crucial in the field of Transportation and Logistics, specifically in Aviation Management. As an Airport Manager, you hold the responsibility of overseeing the daily operations of an airport facility. This includes managing the overall efficiency of airport services, such as coordinating air traffic, ground operations, passenger services, security measures, and facility maintenance. Additionally, you will be tasked with ensuring compliance with safety regulations and managing the airport's budget. Strong leadership, excellent communication skills, and a deep understanding of aviation operations are essential for success in this role. As an Airport Manager, you play a vital role in ensuring smooth and efficient operations in the aviation industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Airport Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Airport Manager interviews to help you prepare and succeed.

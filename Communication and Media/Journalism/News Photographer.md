@@ -2,6 +2,8 @@
 
 Welcome to the News Photographer Interview Preparation ! This resource is designed to help you ace your News Photographer interviews with confidence.
 
+A News Photographer is a key player in the field of journalism, responsible for capturing and documenting news events through their lens. Their primary role is to visually communicate news stories to the public through compelling and impactful photographs. These professionals possess a keen eye for detail, strong technical skills, and the ability to work under pressure and in fast-paced environments. News Photographers are often found on the front lines of breaking news, capturing images that can shape public perception and provide crucial visual evidence. Their work plays a vital role in informing and engaging audiences, making them an indispensable part of the communication and media industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned News Photographer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in News Photographer interviews to help you prepare and succeed.

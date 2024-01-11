@@ -2,6 +2,8 @@
 
 Welcome to the Digital Copywriter Interview Preparation ! This resource is designed to help you ace your Digital Copywriter interviews with confidence.
 
+A Digital Copywriter is a professional responsible for crafting engaging and persuasive written content for digital platforms. They play a crucial role in the field of Communication and Media, specifically in the realm of Digital Media. With the rapid growth of technology and the internet, businesses and organizations heavily rely on digital platforms to communicate their messages effectively. A Digital Copywriter utilizes their exceptional writing skills and creative thinking to develop compelling copy for websites, social media campaigns, email marketing, online advertisements, and other digital channels. They understand the importance of tailoring content to target specific audiences and employ SEO strategies to optimize visibility and reach. Overall, a Digital Copywriter is an essential asset in today's digital landscape, helping brands connect with their audience and drive engagement and conversions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Digital Copywriter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Digital Copywriter interviews to help you prepare and succeed.

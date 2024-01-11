@@ -2,6 +2,8 @@
 
 Welcome to the Paralegal Interview Preparation ! This resource is designed to help you ace your Paralegal interviews with confidence.
 
+Law and Criminal Justice is a field that encompasses the study of legal systems, criminal behavior, and the administration of justice. Within this broad field, the role of a Paralegal is of utmost importance. A Paralegal is a legal professional who assists lawyers in their daily tasks, providing invaluable support in various legal proceedings. Paralegals are responsible for conducting legal research, drafting legal documents, organizing case files, interviewing clients, and assisting with trial preparation. They possess a deep understanding of the law and possess excellent communication and analytical skills. Paralegals play a vital role in ensuring the efficiency and effectiveness of the legal system, making them an integral part of the legal profession.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Paralegal or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Paralegal interviews to help you prepare and succeed.

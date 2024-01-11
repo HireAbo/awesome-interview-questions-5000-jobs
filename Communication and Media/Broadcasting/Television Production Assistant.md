@@ -2,6 +2,8 @@
 
 Welcome to the Television Production Assistant Interview Preparation ! This resource is designed to help you ace your Television Production Assistant interviews with confidence.
 
+A Television Production Assistant plays a crucial role in the world of Broadcasting and Television Production. They are responsible for assisting the production team in various tasks related to the creation of television programs. This includes setting up and operating equipment, assisting with studio and location shoots, organizing scripts and schedules, and assisting in post-production editing. They often work closely with producers, directors, and other crew members to ensure the smooth running of production processes. Strong communication skills are essential for a Television Production Assistant as they need to effectively communicate instructions and relay information between different team members. Attention to detail, problem-solving abilities, and the ability to work under pressure are also key traits for this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Television Production Assistant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Television Production Assistant interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Building Inspector Interview Preparation ! This resource is designed to help you ace your Building Inspector interviews with confidence.
 
+Civil Engineering is a branch of Engineering that focuses on the design, construction, and maintenance of infrastructure projects such as buildings, roads, bridges, and dams. Within the field of Civil Engineering, the role of a Building Inspector is crucial. Building Inspectors are responsible for ensuring that construction projects comply with building codes, regulations, and safety standards. They conduct inspections at various stages of construction, examining the structural integrity, electrical systems, plumbing, and overall safety of the building. Building Inspectors play a vital role in ensuring the safety and quality of buildings, protecting the public, and ensuring that construction projects meet the necessary standards and regulations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Building Inspector or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Building Inspector interviews to help you prepare and succeed.

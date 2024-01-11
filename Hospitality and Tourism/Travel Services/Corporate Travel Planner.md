@@ -2,6 +2,8 @@
 
 Welcome to the Corporate Travel Planner Interview Preparation ! This resource is designed to help you ace your Corporate Travel Planner interviews with confidence.
 
+A Corporate Travel Planner is a professional responsible for organizing and managing travel arrangements for corporate clients. This role requires strong organizational and communication skills to ensure a seamless travel experience for corporate employees. They work closely with clients to understand their travel needs and preferences, including flights, accommodations, transportation, and other travel-related services. A Corporate Travel Planner is proficient in using travel management systems and has a thorough understanding of airline and hotel industry practices. They negotiate corporate rates and contracts with vendors to provide cost-effective travel solutions. Their goal is to optimize travel arrangements, minimize costs, and ensure the safety and comfort of corporate travelers.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Corporate Travel Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Corporate Travel Planner interviews to help you prepare and succeed.

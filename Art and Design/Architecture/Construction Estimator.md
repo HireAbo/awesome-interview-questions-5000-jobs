@@ -2,6 +2,8 @@
 
 Welcome to the Construction Estimator Interview Preparation ! This resource is designed to help you ace your Construction Estimator interviews with confidence.
 
+A Construction Estimator in the field of Art and Design Architecture plays a critical role in the successful execution of construction projects. As a Construction Estimator, your main responsibility is to estimate the costs of materials, labor, and equipment required for a construction project. You will work closely with architects, engineers, and contractors to analyze blueprints, specifications, and other project documents to accurately determine the quantity and cost of materials needed. Your expertise in cost estimation will ensure that projects are completed within budget and adhere to the highest quality standards. Attention to detail, strong analytical skills, and a deep understanding of construction processes are essential for excelling in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Construction Estimator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Construction Estimator interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Archival Appraiser Interview Preparation ! This resource is designed to help you ace your Archival Appraiser interviews with confidence.
 
+Library and Information Science encompasses various fields and specializations, one of which is Archiving. Archiving involves the systematic collection, organization, preservation, and management of valuable records, documents, and artifacts. Within this field, an Archival Appraiser plays a crucial role in assessing the importance, historical significance, and value of these materials. Archival Appraisers utilize their expertise in evaluating the authenticity, provenance, and condition of items to determine their suitability for preservation and potential research or exhibition purposes. Through meticulous research and analysis, they ensure the preservation of cultural heritage, facilitate access to historical resources, and contribute to the understanding and appreciation of our collective past.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Archival Appraiser or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Archival Appraiser interviews to help you prepare and succeed.

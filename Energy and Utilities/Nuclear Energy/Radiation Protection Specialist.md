@@ -2,6 +2,8 @@
 
 Welcome to the Radiation Protection Specialist Interview Preparation ! This resource is designed to help you ace your Radiation Protection Specialist interviews with confidence.
 
+A Radiation Protection Specialist in the field of Energy and Utilities, specializing in Nuclear Energy, plays a crucial role in ensuring the safety and well-being of individuals working with or around radioactive materials. These professionals are responsible for implementing radiation protection programs to minimize the risks associated with radiation exposure. They conduct thorough inspections and assessments to ensure compliance with regulatory standards and develop protocols for handling, storing, and disposing of radioactive materials. Additionally, Radiation Protection Specialists monitor radiation levels, create safety training programs, and provide expert advice on radiation protection practices. Their expertise is crucial in maintaining a safe and secure environment in nuclear power plants and other nuclear facilities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Radiation Protection Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Radiation Protection Specialist interviews to help you prepare and succeed.

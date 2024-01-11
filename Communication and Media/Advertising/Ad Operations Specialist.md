@@ -2,6 +2,8 @@
 
 Welcome to the Ad Operations Specialist Interview Preparation ! This resource is designed to help you ace your Ad Operations Specialist interviews with confidence.
 
+The role of an Ad Operations Specialist in the field of Communication and Media, specifically in the realm of Advertising, is crucial in ensuring effective and efficient ad campaign executions. Ad Operations Specialists are responsible for the technical aspects of ad management, including the implementation, monitoring, and optimization of digital ad campaigns. They collaborate with various stakeholders, such as advertisers, agencies, and publishers, to ensure seamless delivery of ads across different platforms. Ad Operations Specialists also analyze campaign performance, generate reports, and provide insights to enhance advertising strategies. In this highly dynamic and data-driven role, attention to detail, analytical skills, and a deep understanding of ad tech and digital advertising ecosystem are essential for success.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Ad Operations Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Ad Operations Specialist interviews to help you prepare and succeed.

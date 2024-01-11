@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Health Specialist Interview Preparation ! This resource is designed to help you ace your Environmental Health Specialist interviews with confidence.
 
+An Environmental Health Specialist plays a crucial role in safeguarding public health and the environment by conducting scientific research and analysis related to environmental issues. Their work focuses on identifying and assessing potential health risks and hazards in various settings such as air, water, and soil. These specialists use their knowledge of biology, chemistry, and environmental science to investigate and address concerns like pollution, hazardous waste, and the impact of industrial activities on human health. They also collaborate with public health officials, policymakers, and community members to develop and implement strategies that promote environmental sustainability and protect the well-being of individuals and communities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Health Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Health Specialist interviews to help you prepare and succeed.

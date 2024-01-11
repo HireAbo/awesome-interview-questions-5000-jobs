@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Microbiologist Interview Preparation ! This resource is designed to help you ace your Environmental Microbiologist interviews with confidence.
 
+Environmental microbiologists are scientists who study the impact of microorganisms on the environment. They investigate the role of microbes in processes like nutrient cycling, pollution control, and disease transmission. These professionals employ various research techniques to analyze the composition, behavior, and interactions of microorganisms in different ecosystems. Environmental microbiologists also explore the potential applications of microbial technologies in environmental restoration and conservation. They collect samples from diverse environments such as soil, water, and air, and conduct laboratory experiments to understand microbial diversity and function. With their findings, environmental microbiologists contribute to developing strategies for sustainable resource management, waste treatment, and protecting human and ecosystem health.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Microbiologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Microbiologist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the E-commerce Customer Support Specialist Interview Preparation ! This resource is designed to help you ace your E-commerce Customer Support Specialist interviews with confidence.
 
+A Retail and Sales E-commerce Customer Support Specialist is a professional who specializes in providing customer service and support in the online retail industry. This role is crucial in ensuring customer satisfaction and resolving any inquiries or concerns related to e-commerce transactions. As an E-commerce Customer Support Specialist, one must possess excellent communication skills, both written and verbal, to effectively engage with customers through various channels, such as email, chat, or phone. They are responsible for addressing customer issues, processing returns or refunds, tracking orders, and providing product information or guidance. This role requires strong problem-solving abilities, attention to detail, and the ability to work in a fast-paced, dynamic environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned E-commerce Customer Support Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in E-commerce Customer Support Specialist interviews to help you prepare and succeed.

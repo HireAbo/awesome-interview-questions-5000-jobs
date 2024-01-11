@@ -2,6 +2,8 @@
 
 Welcome to the Economic Analyst Interview Preparation ! This resource is designed to help you ace your Economic Analyst interviews with confidence.
 
+A career as an Economic Analyst in the field of Social Sciences - Economics involves the study and analysis of various economic factors to provide insights and forecasts on financial trends. Economic Analysts utilize their strong mathematical and analytical skills to collect and interpret data related to market conditions, consumer behavior, and economic indicators. They conduct research and develop models to evaluate the impact of policies, investments, and economic events on businesses and industries. Economic Analysts play a crucial role in providing informed recommendations to businesses, governments, and organizations, assisting them in making strategic decisions and developing effective economic policies. Strong communication and critical thinking skills are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Economic Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Economic Analyst interviews to help you prepare and succeed.

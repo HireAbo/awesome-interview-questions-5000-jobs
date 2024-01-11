@@ -2,6 +2,8 @@
 
 Welcome to the Astronomer Interview Preparation ! This resource is designed to help you ace your Astronomer interviews with confidence.
 
+Astronomy, a branch of science and research, encompasses the study of celestial objects, the universe, and their physical properties. Astronomers, professionals in this field, dedicate their careers to exploring and understanding the vastness of outer space. These highly skilled scientists employ various techniques and tools to observe, measure, and analyze celestial bodies such as stars, planets, galaxies, and comets. By utilizing telescopes, satellites, and advanced computer models, astronomers strive to unravel the mysteries of the universe, including its origins, composition, and evolution. Their work involves conducting research, making groundbreaking discoveries, and contributing to our understanding of the cosmos, pushing the boundaries of human knowledge and inspiring awe and wonder.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Astronomer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Astronomer interviews to help you prepare and succeed.

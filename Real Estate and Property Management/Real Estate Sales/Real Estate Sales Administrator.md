@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Sales Administrator Interview Preparation ! This resource is designed to help you ace your Real Estate Sales Administrator interviews with confidence.
 
+A Real Estate Sales Administrator plays a crucial role in the field of real estate sales and property management. This role involves providing administrative support to real estate agents and brokers throughout the sales process. The Sales Administrator is responsible for maintaining and organizing client databases, coordinating property showings and inspections, preparing and distributing marketing materials, and assisting in the preparation of contracts and agreements. They also handle client inquiries, schedule appointments, and ensure all necessary paperwork is completed accurately and in a timely manner. A successful Sales Administrator must possess excellent organizational skills, attention to detail, and strong communication abilities to effectively support the real estate sales team.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Sales Administrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Sales Administrator interviews to help you prepare and succeed.

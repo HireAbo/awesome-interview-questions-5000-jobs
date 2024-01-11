@@ -2,6 +2,8 @@
 
 Welcome to the Network Firmware Engineer Interview Preparation ! This resource is designed to help you ace your Network Firmware Engineer interviews with confidence.
 
+The role of a Network Firmware Engineer within the field of Information Technology (IT) and Network Engineering is crucial for the smooth functioning of computer networks. A Network Firmware Engineer is responsible for designing, developing, and maintaining the firmware that controls the operation of network devices such as routers, switches, and firewalls. This includes writing code to enable network protocols, managing network interfaces, and ensuring the efficient transfer of data between different network elements. They also collaborate with network architects and software engineers to enhance network performance, troubleshoot issues, and implement security measures. A Network Firmware Engineer plays a vital role in optimizing network functionality, ensuring seamless connectivity, and safeguarding the integrity of network infrastructure.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Network Firmware Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Network Firmware Engineer interviews to help you prepare and succeed.

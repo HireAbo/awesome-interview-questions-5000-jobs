@@ -2,6 +2,8 @@
 
 Welcome to the Nuclear Material Handler Interview Preparation ! This resource is designed to help you ace your Nuclear Material Handler interviews with confidence.
 
+A Nuclear Material Handler plays a crucial role in the field of Nuclear Energy within the Energy and Utilities industry. As a Nuclear Material Handler, your main responsibility is to safely handle and transport radioactive materials used in nuclear power plants or research facilities. This includes following strict protocols and procedures to ensure the safe storage, loading, and unloading of radioactive materials. Your job also involves monitoring radiation levels, inspecting containers, and maintaining accurate records of all materials handled. Attention to detail, adherence to safety guidelines, and knowledge of radiation safety procedures are vital for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nuclear Material Handler or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nuclear Material Handler interviews to help you prepare and succeed.

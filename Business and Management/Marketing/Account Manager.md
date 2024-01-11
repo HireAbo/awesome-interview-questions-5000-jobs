@@ -2,6 +2,8 @@
 
 Welcome to the Account Manager Interview Preparation ! This resource is designed to help you ace your Account Manager interviews with confidence.
 
+An Account Manager in the field of Business and Management Marketing plays a crucial role in building and maintaining strong relationships with clients. As a liaison between the company and its customers, the Account Manager is responsible for understanding client needs and developing strategies to meet their objectives effectively. They oversee the execution of marketing campaigns, coordinate with internal teams to ensure seamless delivery of services, and monitor client satisfaction. With strong communication and negotiation skills, Account Managers act as trusted advisors, identifying upselling or cross-selling opportunities and maximizing revenue streams. They are also adept at analyzing market trends and competitors to provide valuable insights for business growth and development.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Account Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Account Manager interviews to help you prepare and succeed.

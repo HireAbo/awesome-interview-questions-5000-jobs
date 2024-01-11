@@ -2,6 +2,8 @@
 
 Welcome to the Adaptive Sports Instructor Interview Preparation ! This resource is designed to help you ace your Adaptive Sports Instructor interviews with confidence.
 
+The role of an Adaptive Sports Instructor in Physical Education is vital in promoting inclusivity and providing equal opportunities for individuals with disabilities. These professionals specialize in designing and implementing sports and athletic programs tailored to cater to the unique needs and abilities of their students. As an Adaptive Sports Instructor, one must possess extensive knowledge of various adaptive sports and techniques to adapt the activities to suit each participant's physical capabilities. Their main objective is to foster physical fitness, enhance motor skills, build self-confidence, and promote teamwork among individuals with disabilities. Through their expertise and dedication, Adaptive Sports Instructors empower individuals to overcome challenges, develop their potential, and enjoy the numerous benefits of engaging in sports and athletics.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Adaptive Sports Instructor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Adaptive Sports Instructor interviews to help you prepare and succeed.

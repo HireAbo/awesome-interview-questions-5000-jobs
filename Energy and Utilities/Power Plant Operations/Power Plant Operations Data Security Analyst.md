@@ -2,6 +2,8 @@
 
 Welcome to the Power Plant Operations Data Security Analyst Interview Preparation ! This resource is designed to help you ace your Power Plant Operations Data Security Analyst interviews with confidence.
 
+A Power Plant Operations Data Security Analyst is responsible for ensuring the safety and integrity of data within power plant operations. They analyze and identify potential security risks, develop and implement security measures, and monitor data systems to prevent unauthorized access or breaches. This role involves conducting regular security audits, maintaining and updating security protocols, and collaborating with IT teams to resolve any security issues. A Data Security Analyst must possess strong technical skills, knowledge of cybersecurity principles, and be familiar with industry regulations and compliance standards. They play a critical role in safeguarding sensitive information and ensuring the uninterrupted operation of power plants.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Power Plant Operations Data Security Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Power Plant Operations Data Security Analyst interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Public Administrator Interview Preparation ! This resource is designed to help you ace your Public Administrator interviews with confidence.
 
+A career in public administration within the field of sociology combines the principles of social sciences and governance to address societal issues. Public administrators play a crucial role in managing public services, policies, and programs that aim to improve the welfare and well-being of individuals and communities. They are responsible for implementing and evaluating policies, developing budgets, coordinating resources, and ensuring effective service delivery. Public administrators in sociology often work in government agencies, non-profit organizations, or research institutions, collaborating with diverse stakeholders to address social inequalities, promote social justice, and enhance the overall quality of life for individuals and communities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Public Administrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Public Administrator interviews to help you prepare and succeed.

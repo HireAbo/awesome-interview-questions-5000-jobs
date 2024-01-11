@@ -2,6 +2,8 @@
 
 Welcome to the Fire Investigator Interview Preparation ! This resource is designed to help you ace your Fire Investigator interviews with confidence.
 
+A Fire Investigator is a crucial member of the law enforcement and criminal justice system, specializing in the investigation and analysis of fire-related incidents. These professionals play a pivotal role in determining the cause, origin, and circumstances of fires, ensuring that justice is served and public safety is maintained. Fire Investigators work closely with other law enforcement agencies, firefighters, and forensic experts to collect evidence, interview witnesses, and reconstruct fire scenes. Their expertise in fire behavior, arson detection, and forensic science enables them to identify criminal activities, submit reports, and testify in court proceedings. Fire Investigators possess strong analytical, problem-solving, and communication skills, making them essential in the pursuit of truth and the prevention of future fire-related incidents.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Fire Investigator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Fire Investigator interviews to help you prepare and succeed.

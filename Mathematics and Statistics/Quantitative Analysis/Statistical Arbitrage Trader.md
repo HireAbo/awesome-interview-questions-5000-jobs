@@ -2,6 +2,8 @@
 
 Welcome to the Statistical Arbitrage Trader Interview Preparation ! This resource is designed to help you ace your Statistical Arbitrage Trader interviews with confidence.
 
+A Statistical Arbitrage Trader is a professional who utilizes mathematical and statistical techniques to identify and exploit profitable trading opportunities in the financial markets. This role requires a deep understanding of mathematics, statistics, and quantitative analysis to develop and implement trading strategies based on statistical models. The trader uses historical data and mathematical algorithms to identify deviations from expected price patterns and exploit these discrepancies for profit. They constantly monitor and analyze market trends, execute trades, and manage risk to generate consistent returns. A strong background in mathematics and statistics is essential for this role, along with excellent analytical and problem-solving skills.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Statistical Arbitrage Trader or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Statistical Arbitrage Trader interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the E-commerce Supply Chain Manager Interview Preparation ! This resource is designed to help you ace your E-commerce Supply Chain Manager interviews with confidence.
 
+The role of an E-commerce Supply Chain Manager in the field of Retail and Sales is crucial in ensuring the smooth and efficient flow of goods and services in the e-commerce industry. This job entails overseeing the entire supply chain process, from sourcing and procurement to inventory management and delivery. The E-commerce Supply Chain Manager is responsible for optimizing inventory levels, coordinating with suppliers and logistics partners, and implementing strategies to enhance operational efficiency and customer satisfaction. They must possess strong analytical skills to identify trends and forecast demand, as well as excellent communication and problem-solving abilities to address any supply chain challenges that may arise.
+
 ## 🚀 Overview
 
 Whether you're a seasoned E-commerce Supply Chain Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in E-commerce Supply Chain Manager interviews to help you prepare and succeed.

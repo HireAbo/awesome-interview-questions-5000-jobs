@@ -2,6 +2,8 @@
 
 Welcome to the Cloud Machine Learning Engineer Interview Preparation ! This resource is designed to help you ace your Cloud Machine Learning Engineer interviews with confidence.
 
+The field of Information Technology (IT) encompasses a wide range of roles and responsibilities, and one of the emerging and rapidly growing areas is Cloud Computing. Cloud Computing refers to the practice of storing and accessing data and programs over the internet instead of using a local computer or server. Within this domain, the role of a Cloud Machine Learning Engineer is gaining prominence. A Cloud Machine Learning Engineer is responsible for designing, developing, and implementing machine learning models and algorithms in a cloud-based environment. They collaborate with data scientists and software engineers to deploy and manage machine learning solutions, enabling businesses to leverage the power of data and make informed decisions. This role requires a strong background in machine learning, programming skills, and expertise in cloud platforms such as Amazon Web Services (AWS) or Google Cloud Platform (GCP).
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cloud Machine Learning Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cloud Machine Learning Engineer interviews to help you prepare and succeed.

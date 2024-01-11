@@ -2,6 +2,8 @@
 
 Welcome to the Outdoor Education Instructor Interview Preparation ! This resource is designed to help you ace your Outdoor Education Instructor interviews with confidence.
 
+The role of a Sports and Athletics, Physical Education, Outdoor Education Instructor is a dynamic and fulfilling one. This job involves teaching and instructing individuals of all ages in various sports and athletic activities, physical education classes, as well as outdoor education programs. As an instructor, you will be responsible for creating a positive and inclusive learning environment, developing lesson plans, and delivering engaging and effective instruction. This job requires a strong knowledge and passion for sports, athletics, physical education, and outdoor activities, as well as excellent communication and interpersonal skills. The goal is to inspire individuals to lead active and healthy lifestyles while promoting teamwork, skill development, and a love for the outdoors.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Outdoor Education Instructor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Outdoor Education Instructor interviews to help you prepare and succeed.

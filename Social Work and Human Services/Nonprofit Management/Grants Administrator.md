@@ -2,6 +2,8 @@
 
 Welcome to the Grants Administrator Interview Preparation ! This resource is designed to help you ace your Grants Administrator interviews with confidence.
 
+A Grants Administrator plays a vital role in the nonprofit sector, specifically in the field of Social Work and Human Services. This position involves managing and overseeing the grant application and funding process for nonprofit organizations. The Grants Administrator is responsible for researching and identifying potential funding opportunities, developing grant proposals, and ensuring compliance with funding guidelines and reporting requirements. They collaborate with program directors and staff to understand project objectives and funding needs, and then strategize on the most effective way to secure funding. The Grants Administrator also maintains relationships with funders, preparing progress reports, and evaluating the impact of funded programs. This position requires strong organizational skills, attention to detail, and a passion for helping others.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Grants Administrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Grants Administrator interviews to help you prepare and succeed.

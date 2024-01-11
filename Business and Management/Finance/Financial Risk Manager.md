@@ -2,6 +2,8 @@
 
 Welcome to the Financial Risk Manager Interview Preparation ! This resource is designed to help you ace your Financial Risk Manager interviews with confidence.
 
+A Financial Risk Manager (FRM) is a professional responsible for assessing and managing various financial risks within an organization. They play a crucial role in developing and implementing risk management strategies to minimize potential losses and ensure financial stability. FRMs are well-versed in analyzing market trends, evaluating investment opportunities, and identifying potential threats to the organization's financial health. They possess a deep understanding of financial markets, instruments, and regulatory frameworks, allowing them to effectively identify and mitigate risks related to credit, market, liquidity, and operational aspects. FRMs often work closely with other departments within an organization, such as treasury, risk management, and compliance, to ensure effective risk mitigation strategies are in place. Overall, the role of a Financial Risk Manager is essential in safeguarding an organization's financial well-being and making informed decisions to enhance its profitability.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Financial Risk Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Financial Risk Manager interviews to help you prepare and succeed.

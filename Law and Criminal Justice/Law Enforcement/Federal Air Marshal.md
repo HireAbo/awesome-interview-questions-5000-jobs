@@ -2,6 +2,8 @@
 
 Welcome to the Federal Air Marshal Interview Preparation ! This resource is designed to help you ace your Federal Air Marshal interviews with confidence.
 
+The Federal Air Marshal job is a crucial component of the Law Enforcement sector within the field of Law and Criminal Justice. Federal Air Marshals are highly trained law enforcement officers who are responsible for ensuring the safety of passengers and crew members on commercial flights. These dedicated professionals are tasked with preventing and responding to acts of terrorism, hijackings, and other criminal activities on board aircraft. Federal Air Marshals work undercover, blending in with passengers to maintain a discreet presence while vigilantly monitoring for potential threats. Their specialized training in surveillance, firearms, self-defense, and crisis management enables them to effectively respond to high-pressure situations and protect the integrity of the aviation system.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Federal Air Marshal or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Federal Air Marshal interviews to help you prepare and succeed.

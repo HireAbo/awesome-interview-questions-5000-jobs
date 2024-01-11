@@ -2,6 +2,8 @@
 
 Welcome to the Supply Chain Director Interview Preparation ! This resource is designed to help you ace your Supply Chain Director interviews with confidence.
 
+A Supply Chain Director is a vital role within the field of Transportation and Logistics, specifically in the area of Supply Chain Management. This position is responsible for overseeing and managing the entire supply chain process, from procurement to distribution. The Supply Chain Director is responsible for developing and implementing strategies to optimize the flow of materials, products, and information throughout the supply chain network. They work closely with various stakeholders, such as suppliers, manufacturers, distributors, and customers, to ensure the smooth and efficient operation of the supply chain. A Supply Chain Director must possess strong analytical, problem-solving, and leadership skills to effectively manage the complexities of the supply chain and drive continuous improvement.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Supply Chain Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Supply Chain Director interviews to help you prepare and succeed.

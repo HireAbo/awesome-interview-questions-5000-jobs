@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife Conservation Scientist Interview Preparation ! This resource is designed to help you ace your Wildlife Conservation Scientist interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that encompasses the study of various environmental aspects, including wildlife conservation. Wildlife Conservation focuses on the preservation and protection of various animal species and their habitats. It involves understanding the ecological dynamics and interdependencies within ecosystems to promote biodiversity and sustainable practices. Within this field, Wildlife Conservation Scientists play a crucial role. These professionals conduct research, collect data, and analyze information to develop strategies and policies for the conservation and management of wildlife populations. They work closely with government agencies, NGOs, and local communities to implement conservation programs and promote environmental stewardship. Wildlife Conservation Scientists strive to balance human needs with wildlife preservation, ensuring the long-term survival of diverse species and the health of our ecosystems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Conservation Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Conservation Scientist interviews to help you prepare and succeed.

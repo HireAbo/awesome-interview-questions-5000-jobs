@@ -2,6 +2,8 @@
 
 Welcome to the Biomechanical Engineer Interview Preparation ! This resource is designed to help you ace your Biomechanical Engineer interviews with confidence.
 
+A biomechanical engineer is a specialized professional within the field of mechanical engineering, focusing on the application of engineering principles to biological systems. These professionals play a vital role in the advancement of medical technology and healthcare by designing and developing innovative solutions to improve the functionality and mobility of the human body. Biomechanical engineers work on a wide range of projects, such as prosthetics, orthotics, medical implants, and rehabilitation devices. They combine their knowledge of mechanics, materials science, and biology to create cutting-edge solutions that enhance the quality of life for individuals with physical disabilities or injuries. This field offers an exciting career path for those passionate about both engineering and healthcare.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Biomechanical Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Biomechanical Engineer interviews to help you prepare and succeed.

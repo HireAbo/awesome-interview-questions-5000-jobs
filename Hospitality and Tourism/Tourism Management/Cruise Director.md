@@ -2,6 +2,8 @@
 
 Welcome to the Cruise Director Interview Preparation ! This resource is designed to help you ace your Cruise Director interviews with confidence.
 
+Hospitality and Tourism is a vast and dynamic industry that encompasses various sectors, including tourism management. Within this field, one exciting career option is that of a Cruise Director. A Cruise Director is responsible for coordinating and managing various activities and entertainment programs onboard a cruise ship. They ensure that guests have a memorable and enjoyable experience throughout their voyage. This role requires excellent organizational and communication skills, as well as the ability to lead a team. Cruise Directors also collaborate with other departments to ensure smooth operations and exceptional customer service. With the growth of the cruise industry, this job offers excellent opportunities for career advancement and the chance to work in breathtaking locations worldwide.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cruise Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cruise Director interviews to help you prepare and succeed.

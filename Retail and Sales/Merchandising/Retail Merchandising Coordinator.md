@@ -2,6 +2,8 @@
 
 Welcome to the Retail Merchandising Coordinator Interview Preparation ! This resource is designed to help you ace your Retail Merchandising Coordinator interviews with confidence.
 
+A Retail Merchandising Coordinator plays a vital role in the retail industry, specifically in the field of merchandising. They are responsible for ensuring the effective planning, execution, and coordination of merchandise in retail stores. This job requires a strong understanding of sales and marketing strategies, as well as excellent organizational and communication skills. Retail Merchandising Coordinators work closely with buyers, sales teams, and store managers to develop and implement visual merchandising plans, analyze sales data, monitor inventory levels, and optimize product placement. Their objective is to enhance the customer experience, increase sales, and maximize profitability by ensuring that products are visually appealing and easily accessible to customers.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Retail Merchandising Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Retail Merchandising Coordinator interviews to help you prepare and succeed.

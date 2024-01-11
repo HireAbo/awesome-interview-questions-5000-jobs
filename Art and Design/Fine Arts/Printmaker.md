@@ -2,6 +2,8 @@
 
 Welcome to the Printmaker Interview Preparation ! This resource is designed to help you ace your Printmaker interviews with confidence.
 
+A Printmaker is a skilled artist who specializes in creating artwork through various printmaking techniques such as relief, intaglio, lithography, screen printing, or digital printing. They possess a deep understanding of materials, tools, and processes involved in printmaking. Printmakers use their creative vision and technical expertise to develop unique designs and compositions that can be reproduced multiple times. They work with a range of mediums, including paper, fabric, metal, or wood, and experiment with different inks and colors to achieve desired effects. Printmakers may also collaborate with other artists or clients to produce limited edition prints or commissioned works. Through their intricate craftsmanship, Printmakers contribute to the rich tapestry of the fine arts world.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Printmaker or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Printmaker interviews to help you prepare and succeed.

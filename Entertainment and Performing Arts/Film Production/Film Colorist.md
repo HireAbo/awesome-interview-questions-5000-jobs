@@ -2,6 +2,8 @@
 
 Welcome to the Film Colorist Interview Preparation ! This resource is designed to help you ace your Film Colorist interviews with confidence.
 
+A Film Colorist is a crucial member of the film production team who specializes in enhancing the visual aesthetic of a film through color grading. As a Film Colorist, one's primary role is to work closely with the director, cinematographer, and production team to achieve the desired mood and tone of a film. This involves adjusting the color, contrast, and saturation of each shot or scene to create a cohesive visual narrative. Film Colorists possess a keen eye for color theory, technical proficiency in color grading software, and a deep understanding of storytelling through visual elements. Their expertise adds depth and emotion to a film, making it visually captivating for audiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Film Colorist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Film Colorist interviews to help you prepare and succeed.

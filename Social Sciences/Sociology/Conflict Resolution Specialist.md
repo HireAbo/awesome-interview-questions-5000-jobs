@@ -2,6 +2,8 @@
 
 Welcome to the Conflict Resolution Specialist Interview Preparation ! This resource is designed to help you ace your Conflict Resolution Specialist interviews with confidence.
 
+A Conflict Resolution Specialist in the field of Sociology plays a critical role in addressing and resolving various conflicts that arise within communities, organizations, or even on a global scale. This job requires individuals to possess a deep understanding of human behavior, social dynamics, and the underlying causes of conflicts. Conflict Resolution Specialists employ a wide range of strategies, including mediation, negotiation, and facilitation, to help parties involved in the conflict reach a mutually acceptable resolution. They may also develop and implement conflict resolution programs, conduct research, and provide training to promote peaceful and constructive communication. Ultimately, these specialists contribute to building harmonious relationships and fostering social cohesion within societies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Conflict Resolution Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Conflict Resolution Specialist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Property Manager Interview Preparation ! This resource is designed to help you ace your Property Manager interviews with confidence.
 
+Real Estate and Property Management is a thriving industry that deals with the buying, selling, and management of properties. Within this field, Property Management focuses specifically on overseeing and maintaining properties on behalf of their owners or investors. A Property Manager plays a crucial role in ensuring the smooth operation and profitability of properties, such as residential buildings, commercial spaces, or rental units. Their responsibilities include marketing vacant units, screening potential tenants, ensuring rent collection, managing repairs and maintenance, and handling any legal or financial aspects related to the property. A skilled Property Manager possesses excellent communication, organizational, and problem-solving skills to effectively manage properties and maximize their value.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Property Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Property Manager interviews to help you prepare and succeed.

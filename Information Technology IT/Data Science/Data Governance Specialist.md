@@ -2,6 +2,8 @@
 
 Welcome to the Data Governance Specialist Interview Preparation ! This resource is designed to help you ace your Data Governance Specialist interviews with confidence.
 
+Information Technology (IT) is a field that involves the use of technology to store, retrieve, transmit, and manipulate data. It encompasses various aspects, such as computer hardware, software development, networking, and system administration. Data Science is a subfield of IT that focuses on extracting valuable insights from large and complex datasets using statistical analysis, machine learning, and data visualization techniques. A Data Governance Specialist is a professional who ensures the proper management, quality, and security of data within an organization. They develop and implement policies, procedures, and tools to ensure data integrity, compliance with regulations, and efficient data usage. They play a crucial role in maintaining data privacy and supporting informed decision-making processes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Governance Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Governance Specialist interviews to help you prepare and succeed.

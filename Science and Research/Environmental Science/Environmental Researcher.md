@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Researcher Interview Preparation ! This resource is designed to help you ace your Environmental Researcher interviews with confidence.
 
+An Environmental Researcher is a professional who conducts scientific investigations to understand and mitigate the impact of human activities on the environment. This crucial role involves studying various aspects of the environment, including air, water, land, and ecosystems, to identify potential threats and develop sustainable solutions. Environmental Researchers collect and analyze data using specialized equipment and techniques, such as remote sensing and computer modeling. They also collaborate with other scientists, policymakers, and stakeholders to develop policies and strategies that promote environmental conservation and sustainability. By conducting research, Environmental Researchers contribute to the preservation of natural resources, protection of biodiversity, and the overall well-being of our planet.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Researcher interviews to help you prepare and succeed.

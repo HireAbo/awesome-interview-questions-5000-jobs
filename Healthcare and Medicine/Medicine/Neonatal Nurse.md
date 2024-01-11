@@ -2,6 +2,8 @@
 
 Welcome to the Neonatal Nurse Interview Preparation ! This resource is designed to help you ace your Neonatal Nurse interviews with confidence.
 
+A Neonatal Nurse is a highly specialized healthcare professional who provides medical care to newborn infants, specifically those who are premature, critically ill, or have other complications requiring intensive care. These nurses work in neonatal intensive care units (NICUs) of hospitals, ensuring the well-being and stability of premature or ill babies. Their responsibilities include monitoring vital signs, administering medications, providing nutrition, and coordinating with other healthcare professionals to develop and implement individualized care plans. Neonatal Nurses play a crucial role in providing emotional support to parents during this challenging time, educating them on newborn care, and helping them navigate the complexities of their baby's medical condition.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Neonatal Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Neonatal Nurse interviews to help you prepare and succeed.

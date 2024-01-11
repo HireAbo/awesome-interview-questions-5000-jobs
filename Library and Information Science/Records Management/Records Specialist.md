@@ -2,6 +2,8 @@
 
 Welcome to the Records Specialist Interview Preparation ! This resource is designed to help you ace your Records Specialist interviews with confidence.
 
+Library and Information Science is a field that encompasses the management, organization, and dissemination of information in various formats. One specialization within this field is Records Management, which focuses on the efficient and effective management of an organization's records throughout their lifecycle. As a Records Specialist, your role is crucial in ensuring that records are properly classified, organized, stored, and accessible. You will develop and implement policies and procedures for records management, including retention schedules and disposal guidelines. Additionally, you may be responsible for conducting audits, training staff on records management practices, and ensuring compliance with legal and regulatory requirements. Overall, your expertise as a Records Specialist plays a vital role in preserving and protecting valuable information for future use.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Records Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Records Specialist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Travel Coordinator Interview Preparation ! This resource is designed to help you ace your Travel Coordinator interviews with confidence.
 
+A Travel Coordinator plays a vital role in the Hospitality and Tourism industry, specifically in the Travel Services sector. As a Travel Coordinator, the main responsibility is to assist clients in planning and organizing their travel itineraries. This involves booking flights, accommodation, transportation, and coordinating various travel services. Additionally, Travel Coordinators provide recommendations and suggestions to clients, ensuring they have a memorable and enjoyable travel experience. Excellent communication and customer service skills are crucial in this role as Travel Coordinators must liaise with clients, travel suppliers, and other stakeholders to ensure smooth travel arrangements. Attention to detail, organizational skills, and knowledge of travel industry trends are also essential for success in this position.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Travel Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Travel Coordinator interviews to help you prepare and succeed.

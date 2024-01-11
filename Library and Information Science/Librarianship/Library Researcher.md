@@ -2,6 +2,8 @@
 
 Welcome to the Library Researcher Interview Preparation ! This resource is designed to help you ace your Library Researcher interviews with confidence.
 
+Library and Information Science is a multidisciplinary field that focuses on the organization, management, and dissemination of information resources. It encompasses various areas such as cataloging, collection development, preservation, reference services, and digital librarianship. Librarianship, as a profession within Library and Information Science, involves providing access to information, assisting users in their research, and promoting a love for reading and lifelong learning. One specific role within librarianship is that of a Library Researcher. Library Researchers are responsible for conducting in-depth research on various topics, utilizing the vast resources available within libraries, digital databases, and other information sources. They play a crucial role in supporting academic research, assisting patrons in finding relevant information, and contributing to the overall knowledge management within libraries.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Library Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Library Researcher interviews to help you prepare and succeed.

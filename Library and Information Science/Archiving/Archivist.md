@@ -2,6 +2,8 @@
 
 Welcome to the Archivist Interview Preparation ! This resource is designed to help you ace your Archivist interviews with confidence.
 
+Library and Information Science is a field that focuses on the organization, management, and preservation of information. Archiving is a crucial aspect of this discipline, involving the collection, maintenance, and accessibility of historical records and documents. Archivists play a vital role in this process, as they are responsible for appraising, arranging, describing, and preserving valuable records and materials in various formats. They ensure the long-term preservation of these items, making them available to researchers, scholars, and the general public. Archivists possess strong research, analytical, and organizational skills, as well as a deep understanding of historical context and the ethical considerations surrounding access to sensitive information.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Archivist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Archivist interviews to help you prepare and succeed.

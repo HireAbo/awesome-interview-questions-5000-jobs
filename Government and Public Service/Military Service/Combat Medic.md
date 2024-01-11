@@ -2,6 +2,8 @@
 
 Welcome to the Combat Medic Interview Preparation ! This resource is designed to help you ace your Combat Medic interviews with confidence.
 
+Government and Public Service encompasses a wide range of professions dedicated to serving the needs of the public. One such profession is Military Service, which involves individuals serving in various capacities to protect and defend their countries. Within the military, the Combat Medic job holds a crucial role. Combat medics are highly trained medical professionals who provide emergency medical care on the frontlines during combat situations. They are responsible for treating and stabilizing injured soldiers, administering life-saving interventions, and evacuating them to appropriate medical facilities. These brave individuals possess not only medical expertise but also exceptional resilience and courage, as they often risk their own lives to save others on the battlefield.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Combat Medic or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Combat Medic interviews to help you prepare and succeed.

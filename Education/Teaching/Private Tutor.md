@@ -2,6 +2,8 @@
 
 Welcome to the Private Tutor Interview Preparation ! This resource is designed to help you ace your Private Tutor interviews with confidence.
 
+Private tutoring is an integral part of the education system, offering personalized and focused learning experiences. As a private tutor, the primary objective is to provide one-on-one guidance and support to students in various subjects and academic levels. This role involves assessing the individual needs of students, tailoring lesson plans, and delivering engaging and effective teaching methods. Private tutors often work closely with students who require additional assistance to catch up, excel in specific subjects, or prepare for standardized tests. This job requires exceptional communication skills, subject expertise, and the ability to adapt teaching strategies to cater to different learning styles, ultimately empowering students to reach their full potential.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Private Tutor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Private Tutor interviews to help you prepare and succeed.

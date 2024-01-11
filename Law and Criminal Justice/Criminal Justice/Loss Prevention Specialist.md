@@ -2,6 +2,8 @@
 
 Welcome to the Loss Prevention Specialist Interview Preparation ! This resource is designed to help you ace your Loss Prevention Specialist interviews with confidence.
 
+A Loss Prevention Specialist is a vital component of the criminal justice system, specifically within the field of law and criminal justice. These professionals play a crucial role in preventing and investigating theft, fraud, and other criminal activities within various industries. They are responsible for implementing security measures, conducting surveillance, and analyzing data to identify potential risks and vulnerabilities. Loss Prevention Specialists work closely with law enforcement agencies, legal teams, and other professionals to gather evidence and present findings in court. Their expertise in risk assessment, crime prevention, and investigation techniques ensures the protection of individuals, businesses, and the overall integrity of the criminal justice system.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Loss Prevention Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Loss Prevention Specialist interviews to help you prepare and succeed.

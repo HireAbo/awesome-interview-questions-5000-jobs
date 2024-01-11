@@ -2,6 +2,8 @@
 
 Welcome to the Network VoIP Administrator Interview Preparation ! This resource is designed to help you ace your Network VoIP Administrator interviews with confidence.
 
+A Network VoIP Administrator is a crucial role in the field of Information Technology (IT) with a specific focus on Network Engineering. This job entails managing and maintaining voice over internet protocol (VoIP) systems within a network infrastructure. The primary responsibilities of a Network VoIP Administrator include designing, implementing, and troubleshooting VoIP networks, ensuring their smooth operation and optimal performance. They also handle the installation and configuration of VoIP equipment, perform regular system upgrades and patches, and monitor network traffic and security. A successful Network VoIP Administrator possesses strong technical skills in networking protocols, VoIP technologies, and network troubleshooting, along with excellent communication and problem-solving abilities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Network VoIP Administrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Network VoIP Administrator interviews to help you prepare and succeed.

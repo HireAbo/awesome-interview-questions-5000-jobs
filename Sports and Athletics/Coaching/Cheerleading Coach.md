@@ -2,6 +2,8 @@
 
 Welcome to the Cheerleading Coach Interview Preparation ! This resource is designed to help you ace your Cheerleading Coach interviews with confidence.
 
+A Cheerleading Coach is a vital role in the world of sports and athletics coaching. With their expertise and passion, they play a significant role in training, guiding, and motivating cheerleading teams to excellence. As a cheerleading coach, their primary responsibility is to develop and enhance the team's skills in dance, gymnastics, stunts, and cheers. They create practice routines, coordinate performances, and provide constructive feedback to improve techniques and routines. Additionally, they instill teamwork, discipline, and sportsmanship values in their cheerleaders. A successful cheerleading coach possesses strong communication skills, leadership qualities, and a deep understanding of the sport, ensuring their team's success on and off the field.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cheerleading Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cheerleading Coach interviews to help you prepare and succeed.

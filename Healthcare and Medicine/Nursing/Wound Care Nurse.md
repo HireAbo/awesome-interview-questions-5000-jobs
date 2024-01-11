@@ -2,6 +2,8 @@
 
 Welcome to the Wound Care Nurse Interview Preparation ! This resource is designed to help you ace your Wound Care Nurse interviews with confidence.
 
+A Wound Care Nurse is a healthcare professional specialized in providing comprehensive care for patients with acute or chronic wounds. These nurses play a crucial role in the healthcare system by assessing, treating, and managing wounds to promote optimal healing and prevent complications. They work closely with patients, families, and the interdisciplinary healthcare team to develop individualized care plans. Wound Care Nurses are knowledgeable about different types of wounds, wound healing techniques, and advanced wound care products. They possess strong critical thinking and problem-solving skills to evaluate and address complex wound care needs effectively. Overall, Wound Care Nurses are dedicated professionals committed to improving patients' quality of life and achieving positive wound healing outcomes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wound Care Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wound Care Nurse interviews to help you prepare and succeed.

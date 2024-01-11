@@ -2,6 +2,8 @@
 
 Welcome to the Park Ranger Interview Preparation ! This resource is designed to help you ace your Park Ranger interviews with confidence.
 
+A Park Ranger is a vital role within the field of Law Enforcement and Criminal Justice, specifically focused on protecting and preserving natural resources and ensuring public safety within national parks and other protected areas. These dedicated professionals are responsible for enforcing park regulations, preventing and investigating crimes, conducting search and rescue operations, and educating visitors on park rules and regulations. Park Rangers often work in remote and challenging environments, interacting with diverse populations and wildlife. They possess a unique combination of law enforcement skills, outdoor survival knowledge, and environmental expertise. A career as a Park Ranger offers the opportunity to safeguard our natural treasures while promoting public enjoyment and environmental conservation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Park Ranger or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Park Ranger interviews to help you prepare and succeed.

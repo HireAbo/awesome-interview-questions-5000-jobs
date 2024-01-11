@@ -2,6 +2,8 @@
 
 Welcome to the Sustainability Consultant Interview Preparation ! This resource is designed to help you ace your Sustainability Consultant interviews with confidence.
 
+A Sustainability Consultant in the field of Architecture combines a passion for art and design with a commitment to environmental responsibility. These professionals play a crucial role in ensuring that architectural projects are sustainable and environmentally friendly. They work closely with architects, engineers, and builders to develop innovative and sustainable design solutions that minimize negative impacts on the environment. Sustainability Consultants focus on areas such as energy efficiency, waste management, water conservation, and the use of eco-friendly materials. Their expertise helps in achieving green building certifications and meeting sustainability goals. This rewarding job allows individuals to contribute to the preservation of the planet while promoting aesthetically pleasing and functional architectural designs.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sustainability Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sustainability Consultant interviews to help you prepare and succeed.

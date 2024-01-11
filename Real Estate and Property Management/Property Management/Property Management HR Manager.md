@@ -2,6 +2,8 @@
 
 Welcome to the Property Management HR Manager Interview Preparation ! This resource is designed to help you ace your Property Management HR Manager interviews with confidence.
 
+The role of a Property Management HR Manager in the real estate industry is crucial to ensuring the smooth operation of property management companies. As an HR Manager, you are responsible for overseeing the human resources functions within the property management department. This includes recruiting, hiring, and training property managers and staff, managing employee relations, implementing HR policies and procedures, and ensuring compliance with labor laws. Additionally, you will play a vital role in developing and implementing employee training programs, performance management systems, and employee retention strategies. The Property Management HR Manager is essential in creating a positive work environment that fosters employee growth and ultimately contributes to the success of the property management company.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Property Management HR Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Property Management HR Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Director of Education Interview Preparation ! This resource is designed to help you ace your Director of Education interviews with confidence.
 
+The Director of Education is a crucial position within the field of Education Administration. This role primarily revolves around overseeing and implementing educational policies, programs, and initiatives in educational institutions. The Director of Education is responsible for managing and coordinating various academic activities, such as curriculum development, teacher training, student assessment, and educational research. They work closely with other administrators, teachers, and staff to ensure the smooth functioning of the institution and to provide a supportive learning environment for students. Additionally, they play a vital role in fostering collaboration with parents, community organizations, and other stakeholders to enhance the overall quality of education provided.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Director of Education or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Director of Education interviews to help you prepare and succeed.

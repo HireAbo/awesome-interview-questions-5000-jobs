@@ -2,6 +2,8 @@
 
 Welcome to the Television News Director Interview Preparation ! This resource is designed to help you ace your Television News Director interviews with confidence.
 
+A Television News Director is a key role within the field of Communication and Media, specifically in the area of Broadcasting. As the head of a television news department, their primary responsibility is overseeing the production and delivery of news content to the audience. This involves managing a team of reporters, anchors, producers, and other staff members, ensuring that news stories are well-researched, accurate, and presented in a professional manner. A Television News Director plays a crucial role in setting the editorial direction of the news station, making strategic decisions on which stories to cover, and coordinating the production process. They must possess excellent leadership, communication, and organizational skills to effectively manage the news team and deliver high-quality news broadcasts to the viewers.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Television News Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Television News Director interviews to help you prepare and succeed.

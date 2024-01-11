@@ -2,6 +2,8 @@
 
 Welcome to the Embedded Systems Engineer Interview Preparation ! This resource is designed to help you ace your Embedded Systems Engineer interviews with confidence.
 
+An Embedded Systems Engineer is a professional who specializes in designing and developing embedded systems, which are computer systems that are integrated into various devices and products. These engineers have a strong understanding of electrical engineering principles and apply their knowledge to create efficient and reliable embedded systems. They work closely with other engineers and designers to determine the requirements of the system, design the hardware and software components, and ensure that the system operates smoothly. Embedded Systems Engineers also conduct testing, troubleshooting, and debugging to identify and resolve any issues. They play a critical role in advancing technology and improving the functionality of various electronic devices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Embedded Systems Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Embedded Systems Engineer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Thermal Systems Engineer Interview Preparation ! This resource is designed to help you ace your Thermal Systems Engineer interviews with confidence.
 
+A Thermal Systems Engineer is a specialized role within the field of Mechanical Engineering that focuses on designing, analyzing, and optimizing thermal systems. These professionals are responsible for creating efficient and effective systems that involve heat transfer, fluid mechanics, thermodynamics, and energy conversion. They work on a wide range of projects, such as designing HVAC systems, developing efficient power generation systems, and optimizing thermal management in various industries. Thermal Systems Engineers utilize computer-aided design (CAD) software, simulation tools, and mathematical modeling techniques to develop innovative solutions. They collaborate with interdisciplinary teams to ensure that thermal systems meet performance requirements, safety standards, and environmental regulations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Thermal Systems Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Thermal Systems Engineer interviews to help you prepare and succeed.

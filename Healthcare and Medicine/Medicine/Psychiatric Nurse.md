@@ -2,6 +2,8 @@
 
 Welcome to the Psychiatric Nurse Interview Preparation ! This resource is designed to help you ace your Psychiatric Nurse interviews with confidence.
 
+A psychiatric nurse is a healthcare professional who specializes in providing care and treatment to individuals suffering from mental health issues. They play a crucial role in the field of healthcare and medicine, as mental health is an integral part of overall well-being. Psychiatric nurses work closely with patients, assessing their conditions, developing treatment plans, administering medications, and providing emotional support. They may also collaborate with other healthcare professionals, including psychiatrists, psychologists, and social workers, to ensure comprehensive care for their patients. With their expertise in mental health, psychiatric nurses strive to promote recovery, enhance coping skills, and improve the quality of life for individuals with psychiatric disorders.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Psychiatric Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Psychiatric Nurse interviews to help you prepare and succeed.

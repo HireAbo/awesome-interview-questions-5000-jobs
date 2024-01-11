@@ -2,6 +2,8 @@
 
 Welcome to the Grant Writer Interview Preparation ! This resource is designed to help you ace your Grant Writer interviews with confidence.
 
+A Grant Writer plays a crucial role in the field of Social Work and Human Services Nonprofit Management by securing funding through grants for organizations that provide essential services to vulnerable populations. As a Grant Writer, the primary responsibility is to research, write, and submit compelling grant proposals to various funding sources. This requires a deep understanding of the organization's mission, programs, and goals, as well as the ability to effectively communicate the organization's needs and impact to potential funders. Grant Writers must possess excellent writing skills, research abilities, and attention to detail to craft persuasive proposals that meet the requirements and guidelines of funding agencies. Ultimately, the Grant Writer plays a vital role in ensuring the sustainability and growth of nonprofit organizations dedicated to making a positive impact on society.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Grant Writer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Grant Writer interviews to help you prepare and succeed.

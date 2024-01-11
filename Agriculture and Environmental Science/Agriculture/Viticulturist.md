@@ -2,6 +2,8 @@
 
 Welcome to the Viticulturist Interview Preparation ! This resource is designed to help you ace your Viticulturist interviews with confidence.
 
+Agriculture is the practice of cultivating plants, animals, and other organisms for food, fiber, medicinal plants, and other products used to sustain and enhance human life. It plays a crucial role in providing food security and is the backbone of economies worldwide. Environmental Science, on the other hand, focuses on understanding and addressing environmental issues through scientific research and analysis. Within the field of Agriculture, one specific job is that of a Viticulturist. A Viticulturist is responsible for the cultivation and management of vineyards, specializing in grape production. They oversee tasks such as soil management, irrigation, pest control, and grape quality optimization to ensure successful wine production.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Viticulturist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Viticulturist interviews to help you prepare and succeed.

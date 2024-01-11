@@ -2,6 +2,8 @@
 
 Welcome to the Emergency Coordinator Interview Preparation ! This resource is designed to help you ace your Emergency Coordinator interviews with confidence.
 
+The field of aviation and aerospace is a dynamic and exciting industry that involves the design, development, and operation of aircraft and spacecraft. Within this vast sector, air traffic control plays a crucial role in ensuring the safety and efficiency of air travel. As an air traffic control emergency coordinator, you would be responsible for managing and coordinating emergency response procedures in the event of an aircraft accident, incident, or other emergency situations. This role requires a keen understanding of aviation regulations, excellent communication skills, and the ability to remain calm under pressure. As an emergency coordinator, you would be at the forefront of ensuring the safety of both passengers and crew during critical situations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Emergency Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Emergency Coordinator interviews to help you prepare and succeed.

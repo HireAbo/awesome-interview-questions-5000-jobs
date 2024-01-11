@@ -2,6 +2,8 @@
 
 Welcome to the Data Journalist Interview Preparation ! This resource is designed to help you ace your Data Journalist interviews with confidence.
 
+A data journalist is a professional who combines the skills of journalism with data analysis to uncover and report stories from complex datasets. This emerging field within journalism focuses on gathering, interpreting, and visualizing data to provide valuable insights and narratives. Data journalists are proficient in various tools and programming languages, such as Excel, SQL, and Python, to collect and analyze large datasets. They possess strong analytical skills, critical thinking abilities, and a passion for storytelling. Data journalists are essential in today's media landscape as they bridge the gap between data and storytelling, providing readers with factual, accurate, and engaging information.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Journalist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Journalist interviews to help you prepare and succeed.

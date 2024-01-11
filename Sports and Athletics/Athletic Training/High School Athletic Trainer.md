@@ -2,6 +2,8 @@
 
 Welcome to the High School Athletic Trainer Interview Preparation ! This resource is designed to help you ace your High School Athletic Trainer interviews with confidence.
 
+The role of a high school athletic trainer is vital in ensuring the safety and well-being of student-athletes. Athletic trainers are healthcare professionals who specialize in preventing, diagnosing, and treating injuries related to sports and physical activities. In a high school setting, these professionals work closely with coaches, athletes, and parents to provide immediate care for injuries, develop rehabilitation programs, and educate individuals on injury prevention techniques. They also play a crucial role in evaluating and managing concussion protocols and ensuring that athletes are physically fit to participate in sports activities. Ultimately, high school athletic trainers contribute to the overall health and performance of student-athletes, making a significant impact on their athletic journey.
+
 ## 🚀 Overview
 
 Whether you're a seasoned High School Athletic Trainer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in High School Athletic Trainer interviews to help you prepare and succeed.

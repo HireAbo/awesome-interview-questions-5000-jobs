@@ -2,6 +2,8 @@
 
 Welcome to the Healthcare Finance Manager Interview Preparation ! This resource is designed to help you ace your Healthcare Finance Manager interviews with confidence.
 
+A Healthcare Finance Manager plays a crucial role in the field of Healthcare Administration, specifically in managing the financial aspects of healthcare organizations. This role involves overseeing the financial operations, budgeting, and financial planning of healthcare institutions such as hospitals, clinics, and healthcare systems. The Healthcare Finance Manager is responsible for analyzing financial data, developing financial strategies, and ensuring compliance with financial regulations. They collaborate with other healthcare professionals and executives to make informed financial decisions that optimize resources, control costs, and maximize revenue. This role requires a strong understanding of healthcare finance, accounting principles, and a keen eye for detail to effectively manage the financial well-being of healthcare institutions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Healthcare Finance Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Healthcare Finance Manager interviews to help you prepare and succeed.

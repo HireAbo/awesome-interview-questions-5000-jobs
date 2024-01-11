@@ -2,6 +2,8 @@
 
 Welcome to the Parenting Coach Interview Preparation ! This resource is designed to help you ace your Parenting Coach interviews with confidence.
 
+A Parenting Coach is a professional who assists parents in developing effective parenting strategies and skills to enhance their relationship with their children. This role falls under the broader field of Family Services in Social Work and Human Services. Parenting Coaches provide guidance, support, and education to parents to help them navigate the challenges of raising children. They may offer advice on discipline, communication, setting boundaries, and promoting positive child development. By working closely with parents, Parenting Coaches aim to improve family dynamics, foster healthy parent-child relationships, and ultimately contribute to the overall well-being and success of both parents and children.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Parenting Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Parenting Coach interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Actuarial Analyst Interview Preparation ! This resource is designed to help you ace your Actuarial Analyst interviews with confidence.
 
+Mathematics and Statistics are essential fields that deal with the study of numbers, data analysis, and problem-solving. They provide a foundation for various careers, including Actuarial Science. Actuarial Science is a discipline that applies mathematical and statistical techniques to assess and manage risks in the insurance and finance industries. Actuarial Analysts play a crucial role in this field by analyzing data, building models, and evaluating potential risks. They use their expertise to determine insurance premiums, develop investment strategies, and forecast future trends. Actuarial Analysts are highly sought after due to their ability to provide valuable insights and help organizations make informed decisions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Actuarial Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Actuarial Analyst interviews to help you prepare and succeed.

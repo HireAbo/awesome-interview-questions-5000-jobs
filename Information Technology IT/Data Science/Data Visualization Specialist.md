@@ -2,6 +2,8 @@
 
 Welcome to the Data Visualization Specialist Interview Preparation ! This resource is designed to help you ace your Data Visualization Specialist interviews with confidence.
 
+Information Technology (IT) is a broad field that encompasses the use and management of computer systems, networks, and software to store, process, transmit, and retrieve information. Within IT, there is a specialized area known as Data Science, which focuses on extracting insights and knowledge from large volumes of structured and unstructured data. Data Science professionals, including Data Visualization Specialists, play a crucial role in this process. As a Data Visualization Specialist, you will use various tools and techniques to present complex data in visual formats that are easy to understand and interpret. This role requires a strong understanding of data analysis, design principles, and the ability to communicate effectively with stakeholders.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Visualization Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Visualization Specialist interviews to help you prepare and succeed.

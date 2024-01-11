@@ -2,6 +2,8 @@
 
 Welcome to the Television News Reporter Interview Preparation ! This resource is designed to help you ace your Television News Reporter interviews with confidence.
 
+A Television News Reporter is a professional responsible for gathering, investigating, and presenting news stories for television broadcasts. They play a critical role in delivering accurate and timely information to the public. These reporters are adept at researching, interviewing, and writing news stories to ensure viewers are well-informed about local, national, and international events. They work closely with camera operators and producers to capture and present news stories effectively. Television News Reporters must have exceptional communication skills, confidence in front of the camera, and the ability to work under pressure and meet tight deadlines. They often report from the field, covering events as they unfold, providing viewers with real-time updates.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Television News Reporter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Television News Reporter interviews to help you prepare and succeed.

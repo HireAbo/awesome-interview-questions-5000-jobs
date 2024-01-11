@@ -2,6 +2,8 @@
 
 Welcome to the Mathematics Product Manager Interview Preparation ! This resource is designed to help you ace your Mathematics Product Manager interviews with confidence.
 
+A Mathematics Product Manager is a professional responsible for managing and overseeing the development of mathematical products and solutions. They play a crucial role in bridging the gap between mathematical concepts and practical applications. This role requires a deep understanding of both mathematics and statistics, as well as strong analytical and problem-solving skills. A Mathematics Product Manager collaborates with cross-functional teams to identify market needs, develop product strategies, and prioritize features and functionalities. They also conduct market research, gather customer feedback, and ensure that the mathematical products meet industry standards and customer requirements. This role requires a strong passion for mathematics and the ability to translate complex mathematical concepts into user-friendly products.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Mathematics Product Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Mathematics Product Manager interviews to help you prepare and succeed.

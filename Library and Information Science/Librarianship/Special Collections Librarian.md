@@ -2,6 +2,8 @@
 
 Welcome to the Special Collections Librarian Interview Preparation ! This resource is designed to help you ace your Special Collections Librarian interviews with confidence.
 
+A Special Collections Librarian is a professional in the field of Library and Information Science, specifically focusing on Librarianship. This specialized role involves the management and preservation of unique and rare materials within a library's collection. Special Collections Librarians are responsible for acquiring, organizing, cataloging, and making these materials accessible to researchers, scholars, and the general public. They possess a deep knowledge of archival practices, conservation techniques, and digital preservation methods. Additionally, they collaborate with other librarians, scholars, and institutions to establish partnerships and ensure the continued growth and maintenance of the special collections. This job requires strong research, organizational, and communication skills, as well as a passion for preserving and sharing valuable historical and cultural artifacts.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Special Collections Librarian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Special Collections Librarian interviews to help you prepare and succeed.

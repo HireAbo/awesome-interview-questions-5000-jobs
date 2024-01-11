@@ -2,6 +2,8 @@
 
 Welcome to the Auditor Interview Preparation ! This resource is designed to help you ace your Auditor interviews with confidence.
 
+An Auditor in the field of Business and Management, specifically in Finance, plays a crucial role in ensuring financial accuracy and compliance within an organization. As an Auditor, one is responsible for examining financial records, statements, and transactions to assess their fairness, accuracy, and adherence to laws and regulations. This involves conducting detailed analysis, assessing internal controls, identifying potential risks, and recommending improvements to enhance financial processes and mitigate risks. Additionally, Auditors may also verify the effectiveness of risk management procedures, assess the organization's financial performance, and provide insights to stakeholders, such as management and shareholders. Overall, the role of an Auditor is essential in maintaining transparency, integrity, and sound financial practices within a business.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Auditor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Auditor interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Web Journalist Interview Preparation ! This resource is designed to help you ace your Web Journalist interviews with confidence.
 
+A web journalist is a professional responsible for gathering, researching, and presenting news stories using various digital platforms. They play a crucial role in the field of journalism, as their work focuses on reporting news stories specifically for online audiences. Web journalists must possess excellent writing and editing skills, as well as a deep understanding of digital media platforms, such as social media and websites. They are also expected to be proficient in multimedia storytelling, using a combination of text, images, videos, and interactive elements to engage readers. With the rapid growth of online journalism, web journalists are at the forefront of delivering news in the digital age.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Web Journalist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Web Journalist interviews to help you prepare and succeed.

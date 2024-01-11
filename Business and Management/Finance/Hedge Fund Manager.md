@@ -2,6 +2,8 @@
 
 Welcome to the Hedge Fund Manager Interview Preparation ! This resource is designed to help you ace your Hedge Fund Manager interviews with confidence.
 
+A Hedge Fund Manager is a professional responsible for overseeing and managing investment funds known as hedge funds. These individuals play a crucial role in the finance industry by making investment decisions on behalf of their clients or investors. Their primary objective is to generate high returns while minimizing risk by implementing various investment strategies. Hedge Fund Managers analyze financial markets, identify investment opportunities, and execute trades accordingly. They also conduct extensive research on potential investments, assess the performance of current holdings, and adjust investment portfolios as needed. Strong analytical skills, a deep understanding of financial markets, and the ability to make informed decisions are essential qualities for a successful Hedge Fund Manager.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Hedge Fund Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Hedge Fund Manager interviews to help you prepare and succeed.

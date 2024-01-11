@@ -2,6 +2,8 @@
 
 Welcome to the Special Education Technology Specialist Interview Preparation ! This resource is designed to help you ace your Special Education Technology Specialist interviews with confidence.
 
+A Special Education Technology Specialist is a professional who plays a crucial role in enhancing the educational experience for students with special needs. Their primary responsibility is to integrate technology into the special education curriculum to address individual learning goals and support students' unique needs. These specialists work closely with special education teachers, administrators, and other educational professionals to assess, select, and implement appropriate technological tools and resources. They provide training and support to teachers and students, ensuring efficient use of technology for optimal learning outcomes. Special Education Technology Specialists also collaborate with families and community members to promote inclusive education and foster a supportive learning environment for students with disabilities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Special Education Technology Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Special Education Technology Specialist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Java Developer Interview Preparation ! This resource is designed to help you ace your Java Developer interviews with confidence.
 
+A Java Developer is a professional who specializes in creating, testing, and maintaining software applications using the Java programming language. As a crucial part of the Information Technology (IT) industry, Java Developers play a significant role in designing and implementing software solutions that meet the specific needs of businesses and organizations. Their responsibilities include writing clean and efficient code, debugging and solving technical issues, collaborating with cross-functional teams, and ensuring the software meets quality standards. Java Developers also need to stay updated with the latest trends and advancements in Java development to deliver optimal solutions. With strong problem-solving skills and a deep understanding of software development principles, Java Developers contribute to the innovation and efficiency of the IT industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Java Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Java Developer interviews to help you prepare and succeed.

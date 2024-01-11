@@ -2,6 +2,8 @@
 
 Welcome to the Government Budget Analyst Interview Preparation ! This resource is designed to help you ace your Government Budget Analyst interviews with confidence.
 
+A Government Budget Analyst plays a crucial role in the field of Public Administration, specifically in managing government finances efficiently and effectively. These professionals are responsible for analyzing and evaluating budget proposals, monitoring spending, and making recommendations to ensure fiscal responsibility. They work closely with government officials and departments to develop and implement budgets that align with the organization's goals and priorities. A Government Budget Analyst must possess strong analytical skills, attention to detail, and a deep understanding of financial management principles. They also play a vital role in ensuring transparency and accountability in government spending, ultimately contributing to the overall functioning of the public sector.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Government Budget Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Government Budget Analyst interviews to help you prepare and succeed.

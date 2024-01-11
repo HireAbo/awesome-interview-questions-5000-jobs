@@ -2,6 +2,8 @@
 
 Welcome to the Crime Analyst Interview Preparation ! This resource is designed to help you ace your Crime Analyst interviews with confidence.
 
+A crime analyst plays a crucial role in the field of criminal justice by collecting, analyzing, and interpreting data related to criminal activities. They work closely with law enforcement agencies and other professionals to identify patterns, trends, and potential suspects. By utilizing various tools and techniques, crime analysts assist in developing effective strategies to prevent and combat crime. They also provide critical information and insights to support investigations, identify hotspots, and allocate resources efficiently. Strong analytical and problem-solving skills are essential for this role, as crime analysts must be able to analyze complex data sets and draw accurate conclusions. Overall, crime analysts contribute significantly to the overall goal of maintaining public safety and improving the criminal justice system.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Crime Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Crime Analyst interviews to help you prepare and succeed.

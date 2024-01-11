@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife Habitat Specialist Interview Preparation ! This resource is designed to help you ace your Wildlife Habitat Specialist interviews with confidence.
 
+Agriculture and Environmental Science encompass a wide range of disciplines focused on sustainable practices and the preservation of our natural resources. Within this field, Wildlife Conservation plays a crucial role in protecting and managing wildlife populations and their habitats. A Wildlife Habitat Specialist is a professional who specializes in this area, working to maintain and enhance habitats for various species. They conduct surveys, analyze data, and develop plans to promote biodiversity and ecological balance. These specialists collaborate with farmers, landowners, and government agencies to implement conservation strategies, such as creating wildlife corridors or restoring wetlands. Their work is essential in ensuring the long-term survival and well-being of our diverse wildlife populations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Habitat Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Habitat Specialist interviews to help you prepare and succeed.

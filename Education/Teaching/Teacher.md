@@ -2,6 +2,8 @@
 
 Welcome to the Teacher Interview Preparation ! This resource is designed to help you ace your Teacher interviews with confidence.
 
+The field of education encompasses a wide range of roles, one of the most essential being that of a teacher. A teacher's job is to facilitate learning and provide guidance to students in various subjects and age groups. They play a crucial role in shaping the minds and futures of young individuals. Teachers are responsible for designing and delivering lessons, assessing students' progress, and creating a positive and inclusive learning environment. They not only impart knowledge but also foster critical thinking, creativity, and social skills. Teaching requires patience, adaptability, and a passion for helping students reach their full potential. It is a rewarding profession that makes a significant impact on society.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Teacher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Teacher interviews to help you prepare and succeed.

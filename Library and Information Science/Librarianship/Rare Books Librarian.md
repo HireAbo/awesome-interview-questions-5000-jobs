@@ -2,6 +2,8 @@
 
 Welcome to the Rare Books Librarian Interview Preparation ! This resource is designed to help you ace your Rare Books Librarian interviews with confidence.
 
+A Rare Books Librarian is a specialized role within the field of Library and Information Science, also known as Librarianship. This profession focuses on the preservation, management, and dissemination of rare and valuable books, manuscripts, and other archival materials. Rare Books Librarians play a crucial role in maintaining and expanding collections of rare books, ensuring their accessibility to researchers, scholars, and the general public. They possess a deep understanding of bibliographic principles, cataloging standards, conservation techniques, and historical research methodologies. Their responsibilities may include acquisition, cataloging, preservation, exhibition planning, and providing reference services related to rare books. A Rare Books Librarian combines a passion for books with a dedication to preserving cultural heritage.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Rare Books Librarian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Rare Books Librarian interviews to help you prepare and succeed.

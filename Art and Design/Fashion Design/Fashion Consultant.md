@@ -2,6 +2,8 @@
 
 Welcome to the Fashion Consultant Interview Preparation ! This resource is designed to help you ace your Fashion Consultant interviews with confidence.
 
+A Fashion Consultant is a professional who provides expert advice and guidance in the field of fashion design. They possess a deep understanding of current fashion trends, styles, and industry practices. Fashion Consultants work closely with clients, including individuals, brands, or companies, to help them create their desired fashion image or brand identity. They offer personalized recommendations on clothing, accessories, and overall styling to enhance the client's appearance and align it with their personal or business goals. Fashion Consultants possess excellent communication and interpersonal skills, as they need to establish strong relationships with clients, understand their needs, and translate them into creative and fashionable solutions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Fashion Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Fashion Consultant interviews to help you prepare and succeed.

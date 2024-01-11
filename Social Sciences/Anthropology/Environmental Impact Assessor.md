@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Impact Assessor Interview Preparation ! This resource is designed to help you ace your Environmental Impact Assessor interviews with confidence.
 
+A Social Sciences field that focuses on the relationship between humans and their environment, Anthropology encompasses various sub-disciplines, including Environmental Impact Assessment (EIA). An Environmental Impact Assessor is responsible for evaluating the potential consequences of human activities on the natural environment. This role involves conducting research, collecting and analyzing data, and preparing reports to assess the potential environmental impacts of proposed projects, such as construction, mining, or energy production. Environmental Impact Assessors work closely with stakeholders, including government agencies, developers, and local communities, to ensure that projects are conducted in a sustainable and socially responsible manner, minimizing negative environmental impacts and promoting conservation efforts.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Impact Assessor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Impact Assessor interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Genetic Counselor Interview Preparation ! This resource is designed to help you ace your Genetic Counselor interviews with confidence.
 
+Social work and human services encompass a broad range of professions dedicated to helping individuals, families, and communities address various social, emotional, and practical challenges. Among the specialized roles within this field is genetic counseling, a vital aspect of counseling that focuses on supporting individuals and families dealing with genetic disorders or the risk of inherited conditions. Genetic counselors play a pivotal role in providing information, guidance, and emotional support to clients, helping them understand the implications of genetic conditions, make informed decisions about testing and treatment options, and navigate the complex medical and ethical aspects of genetic health. Their expertise combines scientific knowledge with empathy and communication skills to empower individuals and families in managing their genetic health concerns.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Genetic Counselor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Genetic Counselor interviews to help you prepare and succeed.

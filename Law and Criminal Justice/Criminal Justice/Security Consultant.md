@@ -2,6 +2,8 @@
 
 Welcome to the Security Consultant Interview Preparation ! This resource is designed to help you ace your Security Consultant interviews with confidence.
 
+A security consultant job within the field of criminal justice focuses on assessing and implementing measures to protect individuals, organizations, and public spaces from potential threats. Security consultants work closely with law enforcement agencies, private businesses, and government entities to evaluate existing security systems, identify vulnerabilities, and develop comprehensive strategies to mitigate risks. They conduct risk assessments, analyze crime patterns, and provide expert advice on security protocols, emergency response plans, and technology integration. Additionally, security consultants may also provide training to security personnel, conduct investigations, and stay updated on emerging security threats and trends. This dynamic role requires a strong understanding of criminal justice principles, a keen eye for detail, and the ability to think critically in high-pressure situations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Security Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Security Consultant interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the School Resource Officer Interview Preparation ! This resource is designed to help you ace your School Resource Officer interviews with confidence.
 
+A School Resource Officer (SRO) is a professional in law enforcement who is assigned to work within educational institutions, typically at the K-12 level. The primary objective of an SRO is to maintain a safe and secure environment for students, staff, and visitors. They play a crucial role in preventing and addressing criminal activities, such as drug abuse, violence, and bullying, within schools. SROs also foster positive relationships with students, acting as mentors and providing guidance when needed. They collaborate with teachers, administrators, and counselors to promote a positive learning environment and bridge the gap between law enforcement and the education community.
+
 ## 🚀 Overview
 
 Whether you're a seasoned School Resource Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in School Resource Officer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Renewable Energy Analyst Interview Preparation ! This resource is designed to help you ace your Renewable Energy Analyst interviews with confidence.
 
+A Renewable Energy Analyst plays a crucial role in the field of Energy and Utilities, focusing specifically on renewable energy sources. This job involves analyzing and evaluating the feasibility and potential of various renewable energy projects. The analyst assesses the impact of renewable energy technologies, such as solar, wind, hydro, and geothermal, on energy production and consumption. They gather and interpret data, conduct research, and create reports to support decision-making processes. Additionally, a Renewable Energy Analyst must stay abreast of industry trends and regulations to ensure compliance and identify new opportunities for sustainable energy development. This role is instrumental in advancing the adoption and integration of renewable energy into the global energy sector.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Renewable Energy Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Renewable Energy Analyst interviews to help you prepare and succeed.

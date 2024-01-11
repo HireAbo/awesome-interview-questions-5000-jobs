@@ -2,6 +2,8 @@
 
 Welcome to the Middle School Teacher Interview Preparation ! This resource is designed to help you ace your Middle School Teacher interviews with confidence.
 
+A Middle School Teacher plays a crucial role in shaping young minds and fostering a love for learning in students aged 11 to 14 years old. This profession requires a deep passion for education and a dedication to making a positive impact on the lives of young individuals. Middle School Teachers create lesson plans, deliver engaging lectures, and facilitate class discussions to promote intellectual growth and critical thinking skills. They also assess student progress, provide constructive feedback, and adapt teaching methods to accommodate various learning styles. Middle School Teachers are instrumental in building a strong educational foundation that prepares students for high school and beyond.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Middle School Teacher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Middle School Teacher interviews to help you prepare and succeed.

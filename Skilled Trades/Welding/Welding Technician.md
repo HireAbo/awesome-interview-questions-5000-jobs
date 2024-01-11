@@ -2,6 +2,8 @@
 
 Welcome to the Welding Technician Interview Preparation ! This resource is designed to help you ace your Welding Technician interviews with confidence.
 
+A Welding Technician is a skilled tradesperson who specializes in welding techniques and processes. They play a crucial role in various industries, such as manufacturing, construction, and automotive, where metal fabrication is involved. Welding Technicians are responsible for assembling, fabricating, and repairing metal parts and structures using different welding methods like arc welding, MIG welding, TIG welding, and more. They interpret blueprints, drawings, and specifications to determine the correct welding techniques and materials required for a project. Additionally, Welding Technicians ensure the quality and integrity of welds by conducting inspections and tests. Their expertise and attention to detail contribute to the construction and maintenance of strong, durable, and safe metal structures.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Welding Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Welding Technician interviews to help you prepare and succeed.

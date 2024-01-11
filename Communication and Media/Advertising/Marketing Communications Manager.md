@@ -2,6 +2,8 @@
 
 Welcome to the Marketing Communications Manager Interview Preparation ! This resource is designed to help you ace your Marketing Communications Manager interviews with confidence.
 
+A Marketing Communications Manager plays a vital role in the field of advertising and media as they are responsible for developing and implementing marketing strategies to promote a company's products or services. This job entails managing various communication channels, such as social media, television, radio, and print, to reach the target audience effectively. Marketing Communications Managers collaborate with creative teams, copywriters, and graphic designers to create compelling campaigns and messages that align with the company's brand identity. They also analyze market trends, consumer behavior, and competitor strategies to ensure the company stays ahead in the market. Excellent communication and leadership skills are necessary to excel in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Marketing Communications Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Marketing Communications Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Sports Social Media Manager Interview Preparation ! This resource is designed to help you ace your Sports Social Media Manager interviews with confidence.
 
+Sports and Athletics is a field that encompasses various sports and athletic activities, ranging from professional leagues to amateur competitions. In recent years, the industry has witnessed a significant surge in popularity, leading to the emergence of Sports Management as a crucial aspect of this domain. Within Sports Management, the role of a Sports Social Media Manager has gained immense importance. A Sports Social Media Manager is responsible for creating and implementing effective social media strategies to promote sports organizations, athletes, and events. They are skilled in leveraging different platforms to engage with fans, increase brand visibility, and generate revenue through sponsorships and partnerships. This role requires a deep understanding of both the sports industry and social media trends to effectively connect sports organizations with their target audience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sports Social Media Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sports Social Media Manager interviews to help you prepare and succeed.

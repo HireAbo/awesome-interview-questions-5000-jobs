@@ -2,6 +2,8 @@
 
 Welcome to the Multimedia Journalist Interview Preparation ! This resource is designed to help you ace your Multimedia Journalist interviews with confidence.
 
+A Multimedia Journalist is a professional who combines the skills of journalism and multimedia production to report news stories across various platforms. They play a crucial role in today's fast-paced world of communication and media. These journalists are responsible for gathering information, conducting interviews, and researching stories to provide accurate and engaging content to the public. They use a range of multimedia tools such as video, audio, graphics, and social media to enhance their storytelling and reach a wider audience. The role of a Multimedia Journalist requires adaptability, creativity, and strong communication skills to effectively convey stories in a dynamic and impactful way.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Multimedia Journalist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Multimedia Journalist interviews to help you prepare and succeed.

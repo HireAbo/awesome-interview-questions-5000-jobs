@@ -2,6 +2,8 @@
 
 Welcome to the Energy PR Specialist Interview Preparation ! This resource is designed to help you ace your Energy PR Specialist interviews with confidence.
 
+As an Energy PR Specialist, your role is crucial in establishing effective communication and managing the public image of energy companies and organizations. You will be responsible for developing and implementing comprehensive public relations strategies to promote positive brand awareness, engage with stakeholders and the media, and handle crisis communications when necessary. Your expertise in the energy sector will enable you to craft compelling messages and narratives that highlight the industry's innovations, sustainability efforts, and contributions to society. By fostering relationships with key media outlets, industry influencers, and community stakeholders, you will play a pivotal role in shaping public opinion and ensuring the successful promotion of energy-related initiatives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Energy PR Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Energy PR Specialist interviews to help you prepare and succeed.

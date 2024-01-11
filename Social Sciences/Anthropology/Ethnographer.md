@@ -2,6 +2,8 @@
 
 Welcome to the Ethnographer Interview Preparation ! This resource is designed to help you ace your Ethnographer interviews with confidence.
 
+An ethnographer is a professional who studies and analyzes human societies and cultures through fieldwork and participant observation. As a subfield of anthropology within the broader social sciences, ethnography focuses on understanding the behaviors, beliefs, and customs of different groups of people. Ethnographers immerse themselves in the communities they study, living among the individuals to gain a deep understanding of their way of life. They conduct interviews, observe rituals, collect data, and document their findings through written reports or films. Ethnographers play a crucial role in illuminating cultural diversity, shedding light on social issues, and helping societies understand and appreciate the complexities of human existence.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Ethnographer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Ethnographer interviews to help you prepare and succeed.

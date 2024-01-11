@@ -2,6 +2,8 @@
 
 Welcome to the Project Management Consultant Interview Preparation ! This resource is designed to help you ace your Project Management Consultant interviews with confidence.
 
+A Project Management Consultant is a professional who specializes in providing guidance, expertise, and support to organizations in planning, executing, and completing projects successfully. They are responsible for ensuring that projects are delivered within budget, on time, and meet the desired outcomes. Project Management Consultants possess a strong understanding of project management methodologies, tools, and techniques, and apply their knowledge to develop project plans, manage resources, mitigate risks, and monitor progress. They collaborate with stakeholders, facilitate effective communication, and provide leadership to project teams. Additionally, Project Management Consultants offer advice on best practices, identify areas for improvement, and help businesses optimize their project management processes to achieve strategic objectives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Project Management Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Project Management Consultant interviews to help you prepare and succeed.

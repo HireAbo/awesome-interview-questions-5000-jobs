@@ -2,6 +2,8 @@
 
 Welcome to the PR Director Interview Preparation ! This resource is designed to help you ace your PR Director interviews with confidence.
 
+A Public Relations (PR) Director is a crucial role within the field of Communication and Media. PR Directors are responsible for managing and maintaining the public image and reputation of an organization or individual. They develop and implement strategic PR campaigns to effectively communicate messages to target audiences through various media channels. PR Directors work closely with clients, executives, and other stakeholders to shape and deliver key messages, handle crisis management, and build positive relationships with the media. They possess excellent communication and interpersonal skills, as well as a deep understanding of media relations and industry trends. PR Directors play a vital role in shaping public perception and ensuring effective communication between organizations and their audiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned PR Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in PR Director interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Adaptive Physical Education Teacher Interview Preparation ! This resource is designed to help you ace your Adaptive Physical Education Teacher interviews with confidence.
 
+An Adaptive Physical Education Teacher is a specialized educator who works with students with disabilities, providing them with an inclusive physical education experience. These teachers are responsible for developing and implementing adaptive physical education programs that cater to the unique needs and abilities of each student. They create modified exercises and activities that promote physical fitness, motor skills development, and overall well-being. In addition to teaching physical education classes, they collaborate with other educators, therapists, and parents to ensure that the students receive appropriate support and accommodations. Adaptive Physical Education Teachers play a crucial role in empowering students with disabilities to participate and thrive in physical activities, promoting inclusion, and enhancing their overall quality of life.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Adaptive Physical Education Teacher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Adaptive Physical Education Teacher interviews to help you prepare and succeed.

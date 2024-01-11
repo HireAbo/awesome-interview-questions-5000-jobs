@@ -2,6 +2,8 @@
 
 Welcome to the Theater Historian Interview Preparation ! This resource is designed to help you ace your Theater Historian interviews with confidence.
 
+A Theater Historian is a professional who specializes in researching and studying the history of theater arts. They are responsible for examining various aspects of theater, including playwrights, actors, directors, productions, and the evolution of theatrical performance throughout history. Theater Historians conduct extensive research, analyze primary and secondary sources, and document their findings in academic writings or publications. They provide valuable insights into the development of theater arts and its impact on societies, cultures, and artistic movements. Theater Historians also contribute to preserving and promoting the rich heritage of theater by organizing exhibitions, curating collections, and delivering lectures or presentations to educate and engage audiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Theater Historian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Theater Historian interviews to help you prepare and succeed.

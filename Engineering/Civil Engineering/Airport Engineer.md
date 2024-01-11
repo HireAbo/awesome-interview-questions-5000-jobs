@@ -2,6 +2,8 @@
 
 Welcome to the Airport Engineer Interview Preparation ! This resource is designed to help you ace your Airport Engineer interviews with confidence.
 
+An Airport Engineer, specializing in Civil Engineering, plays a pivotal role in the planning, design, and construction of airport infrastructure. With a focus on ensuring safe and efficient operations, these professionals are responsible for the development of runways, taxiways, aprons, and other essential facilities. They collaborate with architects, contractors, and government agencies to create airport layouts that accommodate the increasing demands of air travel. Airport Engineers also consider environmental factors, such as noise and pollution control, as they strive to create sustainable and resilient airport systems. Their expertise in managing complex projects, complying with regulatory standards, and integrating advanced technologies make them essential contributors to the aviation industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Airport Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Airport Engineer interviews to help you prepare and succeed.

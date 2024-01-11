@@ -2,6 +2,8 @@
 
 Welcome to the Wastewater Engineer Interview Preparation ! This resource is designed to help you ace your Wastewater Engineer interviews with confidence.
 
+A Wastewater Engineer is a professional who specializes in the field of Civil Engineering, specifically focusing on the design, construction, operation, and maintenance of wastewater treatment systems. These engineers are responsible for ensuring that wastewater is properly treated and disposed of in an environmentally friendly manner. They work closely with other engineers, environmental scientists, and government agencies to develop and implement effective wastewater treatment plans. Wastewater Engineers also conduct research to improve existing treatment processes and develop innovative technologies. They play a crucial role in safeguarding public health and protecting the environment by ensuring that wastewater is treated before being released back into rivers, lakes, or oceans.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wastewater Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wastewater Engineer interviews to help you prepare and succeed.

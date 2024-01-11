@@ -2,6 +2,8 @@
 
 Welcome to the Advertising Consultant Interview Preparation ! This resource is designed to help you ace your Advertising Consultant interviews with confidence.
 
+An Advertising Consultant plays a crucial role in the field of Communication and Media, specifically in the realm of advertising. These professionals are responsible for providing expert advice and guidance to clients on how to effectively market their products or services. They possess a deep understanding of consumer behavior, market trends, and the latest advertising techniques. Advertising Consultants conduct extensive research, develop strategic advertising campaigns, and collaborate with various stakeholders to ensure the message reaches the target audience effectively. They possess excellent communication and analytical skills, and are adept at identifying opportunities for brand growth. Overall, an Advertising Consultant is instrumental in helping businesses achieve their marketing goals and maximize their advertising investments.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Advertising Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Advertising Consultant interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Assistant Buyer Interview Preparation ! This resource is designed to help you ace your Assistant Buyer interviews with confidence.
 
+The role of an Assistant Buyer in the field of Retail and Sales Merchandising is crucial to ensuring the success of a company's purchasing strategy. As an Assistant Buyer, you will collaborate with the Buyer to analyze market trends, consumer demands, and competitor offerings to make informed decisions about product assortment and pricing. You will also be responsible for maintaining relationships with suppliers, negotiating contracts, and managing inventory levels. Attention to detail, strong analytical skills, and a passion for the retail industry are essential in this role. By assisting in the development and execution of merchandising strategies, Assistant Buyers contribute to driving sales and achieving business objectives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Assistant Buyer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Assistant Buyer interviews to help you prepare and succeed.

@@ -2,6 +2,10 @@
 
 Welcome to the Library Clerk Interview Preparation ! This resource is designed to help you ace your Library Clerk interviews with confidence.
 
+Library and Information Science, also known as Librarianship, is a field that focuses on the organization, management, and dissemination of information resources within libraries and other information settings. Librarianship encompasses a variety of roles, one of which is a Library Clerk. 
+
+A Library Clerk plays a crucial role in supporting the daily operations of a library. They are responsible for tasks such as checking books in and out, shelving materials, assisting patrons with locating resources, managing overdue materials, and maintaining a neat and organized library space. Additionally, Library Clerks may help with basic reference inquiries, provide computer assistance, and assist in organizing library events. This position requires strong organizational and communication skills, attention to detail, and a passion for helping others navigate the world of information and knowledge.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Library Clerk or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Library Clerk interviews to help you prepare and succeed.

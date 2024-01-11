@@ -2,6 +2,8 @@
 
 Welcome to the Product Assortment Planner Interview Preparation ! This resource is designed to help you ace your Product Assortment Planner interviews with confidence.
 
+As a Product Assortment Planner in the field of Retail and Sales Merchandising, your role will be pivotal in ensuring the success of a company's product portfolio. You will be responsible for determining the optimal range and mix of products to be offered to customers. By analyzing market trends, consumer behavior, and sales data, you will create strategic assortments that align with the company's goals and target audience. Your expertise will guide decisions on product selection, pricing, and inventory management, ultimately maximizing sales and profitability. Strong analytical skills, market knowledge, and the ability to collaborate with cross-functional teams are essential for excelling in this dynamic and challenging role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Product Assortment Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Product Assortment Planner interviews to help you prepare and succeed.

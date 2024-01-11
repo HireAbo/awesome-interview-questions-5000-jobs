@@ -2,6 +2,8 @@
 
 Welcome to the Sports Licensing Manager Interview Preparation ! This resource is designed to help you ace your Sports Licensing Manager interviews with confidence.
 
+A Sports Licensing Manager is responsible for managing and overseeing the licensing of sports merchandise and products for a particular sports organization or team. Their role involves negotiating and securing licensing agreements with manufacturers, retailers, and vendors to ensure the production and distribution of licensed sports merchandise. They work closely with legal teams to protect the organization's trademarks and copyrights, ensuring compliance with licensing agreements and monitoring the quality of licensed products. Additionally, Sports Licensing Managers analyze market trends, conduct market research, and develop strategies to maximize revenue through licensing opportunities. This role requires strong negotiation, communication, and organizational skills, along with a passion for sports and a keen eye for business opportunities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sports Licensing Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sports Licensing Manager interviews to help you prepare and succeed.

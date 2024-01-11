@@ -2,6 +2,8 @@
 
 Welcome to the Mathematics Editor Interview Preparation ! This resource is designed to help you ace your Mathematics Editor interviews with confidence.
 
+A Mathematics Editor is a professional who specializes in editing and proofreading mathematical content. They play a crucial role in ensuring the accuracy, clarity, and coherence of mathematical texts, such as research papers, textbooks, and educational materials. Mathematics Editors possess a deep understanding of mathematical concepts, formulas, and theories, enabling them to effectively review and refine mathematical content. They meticulously check for errors in calculations, notation, and syntax, while also improving the overall readability and organization of the material. Mathematics Editors often collaborate with authors, researchers, and publishers to produce high-quality mathematical publications that advance the field of mathematics and contribute to the dissemination of knowledge.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Mathematics Editor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Mathematics Editor interviews to help you prepare and succeed.

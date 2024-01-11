@@ -2,6 +2,8 @@
 
 Welcome to the Art Conservator Interview Preparation ! This resource is designed to help you ace your Art Conservator interviews with confidence.
 
+An art conservator is a highly skilled professional who specializes in the preservation and restoration of artworks. Working within the field of fine arts, they play a crucial role in maintaining and safeguarding cultural heritage. Art conservators possess a deep understanding of art history, materials, and techniques, enabling them to carefully examine, analyze, and treat artworks. They assess the condition of paintings, sculptures, and other artistic mediums, developing and implementing strategies to conserve and restore them to their original state. With meticulous attention to detail and a scientific approach, art conservators employ various methods and tools to ensure the longevity and integrity of these precious works of art.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Art Conservator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Art Conservator interviews to help you prepare and succeed.

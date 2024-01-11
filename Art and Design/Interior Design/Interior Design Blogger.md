@@ -2,6 +2,8 @@
 
 Welcome to the Interior Design Blogger Interview Preparation ! This resource is designed to help you ace your Interior Design Blogger interviews with confidence.
 
+An interior design blogger is an individual who specializes in sharing their knowledge and expertise in the field of interior design through an online platform. As a professional in the art and design industry, an interior design blogger possesses a deep understanding of various design principles, trends, and techniques. Their main goal is to inspire and educate their audience by providing valuable insights, tips, and recommendations related to interior design. Through engaging and visually appealing content, they showcase their unique style and creativity, offering guidance on topics such as color schemes, furniture selection, space optimization, and creating a cohesive aesthetic. An interior design blogger plays a crucial role in shaping and influencing the ever-evolving world of interior design.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Interior Design Blogger or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Interior Design Blogger interviews to help you prepare and succeed.

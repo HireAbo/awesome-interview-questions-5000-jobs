@@ -2,6 +2,8 @@
 
 Welcome to the Hazardous Materials Engineer Interview Preparation ! This resource is designed to help you ace your Hazardous Materials Engineer interviews with confidence.
 
+A Hazardous Materials Engineer, as a specialized type of Chemical Engineer, plays a crucial role in ensuring the safe handling, storage, and disposal of hazardous substances. These professionals are responsible for assessing and minimizing potential risks associated with hazardous materials in various industries. They develop and implement protocols to prevent accidents, leaks, or exposure to dangerous substances. Hazardous Materials Engineers collaborate with teams to design and construct safe storage facilities, develop emergency response plans, and conduct risk assessments. They also stay up-to-date with regulations, technology advancements, and best practices to ensure compliance and promote safety in handling hazardous materials.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Hazardous Materials Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Hazardous Materials Engineer interviews to help you prepare and succeed.

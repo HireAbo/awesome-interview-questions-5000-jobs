@@ -2,6 +2,8 @@
 
 Welcome to the Property Management Administrator Interview Preparation ! This resource is designed to help you ace your Property Management Administrator interviews with confidence.
 
+A Property Management Administrator plays a crucial role in the real estate and property management industry. As a key member of the property management team, their primary responsibility is to oversee and coordinate the daily operations of residential or commercial properties. This includes handling tenant inquiries, managing lease agreements, and ensuring the smooth functioning of the property. Property Management Administrators are also responsible for rent collection, property inspections, and maintenance coordination. They may assist with marketing and advertising efforts to attract potential tenants and strive to maximize the property's occupancy rate. With their strong organizational and communication skills, Property Management Administrators contribute to maintaining successful and profitable real estate investments.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Property Management Administrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Property Management Administrator interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Cardiac Nurse Interview Preparation ! This resource is designed to help you ace your Cardiac Nurse interviews with confidence.
 
+A Cardiac Nurse is a specialized healthcare professional who focuses on the care and treatment of patients with various cardiac conditions. These nurses play a vital role in promoting heart health and preventing cardiovascular diseases. They work closely with cardiologists and other healthcare providers to assess, monitor, and manage patients with heart problems. Cardiac Nurses are responsible for administering medications, conducting diagnostic tests, monitoring vital signs, and educating patients and their families on heart disease prevention and management. They also assist in performing cardiac procedures, such as angioplasty or pacemaker insertion. A career as a Cardiac Nurse requires a strong knowledge of cardiac conditions and excellent critical thinking and communication skills.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cardiac Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cardiac Nurse interviews to help you prepare and succeed.

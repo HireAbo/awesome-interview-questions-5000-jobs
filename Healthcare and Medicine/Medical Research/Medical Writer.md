@@ -2,6 +2,8 @@
 
 Welcome to the Medical Writer Interview Preparation ! This resource is designed to help you ace your Medical Writer interviews with confidence.
 
+A Medical Writer in the field of Healthcare and Medicine is a professional who plays a vital role in bridging the gap between medical research and the public. These individuals are responsible for creating engaging, accurate, and informative content that communicates complex scientific information to a wider audience. Medical Writers collaborate with researchers, scientists, and healthcare professionals to interpret data, analyze clinical trials, and develop various materials such as research articles, patient education materials, regulatory documents, and marketing materials. Their work requires a solid understanding of medical terminology, scientific principles, and the ability to write in a clear and concise manner. A Medical Writer's contribution is crucial in disseminating critical medical information to healthcare practitioners, patients, and the general public.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Medical Writer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Medical Writer interviews to help you prepare and succeed.

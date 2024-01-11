@@ -2,6 +2,8 @@
 
 Welcome to the Geropsychologist Interview Preparation ! This resource is designed to help you ace your Geropsychologist interviews with confidence.
 
+A Geropsychologist is a specialized psychologist who focuses on the mental health and well-being of older adults. They provide assessment, diagnosis, and treatment for various psychological issues that commonly affect the elderly population. Geropsychologists work closely with elderly individuals to address challenges such as depression, anxiety, cognitive decline, and social isolation. They utilize various therapeutic techniques to improve their patients' psychological functioning and overall quality of life. Additionally, Geropsychologists may collaborate with other healthcare professionals, caregivers, and family members to develop comprehensive care plans. Their expertise in understanding the unique needs and complexities of aging individuals makes them essential in promoting mental health in the elderly population.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Geropsychologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Geropsychologist interviews to help you prepare and succeed.

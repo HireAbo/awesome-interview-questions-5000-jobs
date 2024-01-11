@@ -2,6 +2,8 @@
 
 Welcome to the Solar Sales Consultant Interview Preparation ! This resource is designed to help you ace your Solar Sales Consultant interviews with confidence.
 
+A Solar Sales Consultant is a professional who specializes in selling solar energy products and services to residential and commercial clients. Their primary responsibility is to educate potential customers about the benefits of solar energy and assist them in making informed decisions regarding the installation of solar panels. Solar Sales Consultants are well-versed in the technical aspects of solar energy, including panel types, installation procedures, and financial incentives. They conduct site visits, assess energy needs, and provide accurate quotes and proposals to clients. They also establish and maintain relationships with customers, ensuring customer satisfaction and generating leads for future sales. A Solar Sales Consultant plays a crucial role in promoting renewable energy and contributing to a sustainable future.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Solar Sales Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Solar Sales Consultant interviews to help you prepare and succeed.

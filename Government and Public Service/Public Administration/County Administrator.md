@@ -2,6 +2,8 @@
 
 Welcome to the County Administrator Interview Preparation ! This resource is designed to help you ace your County Administrator interviews with confidence.
 
+A County Administrator plays a crucial role in the field of Public Administration, serving as a key link between the government and the public. They are responsible for overseeing the day-to-day operations of a county's various departments and agencies. This includes managing budgets, implementing policies, and coordinating with elected officials and community stakeholders. The County Administrator acts as a strategic leader, ensuring effective and efficient delivery of public services to residents. They also provide guidance and support to department heads, foster interdepartmental collaboration, and promote transparency and accountability within the government. A County Administrator must possess strong leadership, communication, and problem-solving skills to navigate the complexities of public service and effectively address the needs of the community.
+
 ## 🚀 Overview
 
 Whether you're a seasoned County Administrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in County Administrator interviews to help you prepare and succeed.

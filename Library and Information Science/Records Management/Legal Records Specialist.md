@@ -2,6 +2,8 @@
 
 Welcome to the Legal Records Specialist Interview Preparation ! This resource is designed to help you ace your Legal Records Specialist interviews with confidence.
 
+Library and Information Science is a multidisciplinary field that encompasses the study of how information is organized, stored, retrieved, and disseminated. One specialized area within this field is Records Management, which involves the systematic control of an organization's records throughout their lifecycle. In this field, the role of a Legal Records Specialist is crucial. Legal Records Specialists are responsible for managing and maintaining legal documents and records for law firms, corporate legal departments, or government agencies. They ensure the accuracy, accessibility, and confidentiality of legal records, including contracts, court documents, and intellectual property records. They may also assist in legal research and provide support in litigation processes. A Legal Records Specialist requires a strong attention to detail, organizational skills, and knowledge of legal procedures and regulations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Legal Records Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Legal Records Specialist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Offboarding Specialist Interview Preparation ! This resource is designed to help you ace your Offboarding Specialist interviews with confidence.
 
+The role of an Offboarding Specialist in the field of Human Resources within Business and Management is crucial in ensuring a smooth and efficient transition for employees leaving an organization. As an Offboarding Specialist, one is responsible for coordinating and managing the offboarding process, including conducting exit interviews, processing paperwork, and facilitating the return of company assets. This role also involves providing support to departing employees by answering their questions, addressing concerns, and offering assistance with career transition. Excellent communication and interpersonal skills are essential for an Offboarding Specialist, as they work closely with both employees and various departments to ensure a positive offboarding experience for all parties involved.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Offboarding Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Offboarding Specialist interviews to help you prepare and succeed.

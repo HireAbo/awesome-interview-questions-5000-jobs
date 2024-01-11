@@ -2,6 +2,8 @@
 
 Welcome to the Neuroscientist Interview Preparation ! This resource is designed to help you ace your Neuroscientist interviews with confidence.
 
+A neuroscientist is a highly specialized medical researcher who focuses on studying the structure and function of the human brain and nervous system. Their work is crucial in advancing our understanding of neurological disorders and developing effective treatments for conditions such as Alzheimer's disease, Parkinson's disease, and epilepsy. Neuroscientists conduct experiments, analyze data, and collaborate with other healthcare professionals to gain insights into the complex workings of the brain. They are involved in conducting clinical trials, researching new medications and therapies, and developing innovative technologies to improve the diagnosis and treatment of neurological disorders. Neuroscientists play a vital role in pushing the boundaries of medical knowledge, ultimately helping patients achieve better health outcomes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Neuroscientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Neuroscientist interviews to help you prepare and succeed.

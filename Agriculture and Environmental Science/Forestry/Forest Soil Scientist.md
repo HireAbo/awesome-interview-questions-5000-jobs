@@ -2,6 +2,8 @@
 
 Welcome to the Forest Soil Scientist Interview Preparation ! This resource is designed to help you ace your Forest Soil Scientist interviews with confidence.
 
+Agriculture and Environmental Science encompasses various fields, including forestry. Within forestry, one crucial role is that of a Forest Soil Scientist. These professionals play a vital role in understanding and managing forest ecosystems. Forest Soil Scientists specialize in studying the soil composition, structure, and fertility within forests. They assess the impact of various factors such as climate change, land use, and pollution on soil health and quality. By conducting thorough research, analyzing data, and collaborating with other experts, Forest Soil Scientists provide valuable insights to help formulate sustainable forestry management plans. Their work contributes to the preservation and protection of forest ecosystems and ensures the long-term health and productivity of forests.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forest Soil Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forest Soil Scientist interviews to help you prepare and succeed.

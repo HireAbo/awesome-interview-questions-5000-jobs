@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Appraisal Administrator Interview Preparation ! This resource is designed to help you ace your Real Estate Appraisal Administrator interviews with confidence.
 
+Real Estate and Property Management is a thriving industry that involves the buying, selling, and leasing of properties. It also encompasses the management and maintenance of properties on behalf of owners. Real Estate Appraisal is an integral part of this industry, which involves assessing the value of properties for various purposes such as sales, insurance, taxation, or lending. Within this field, the role of a Real Estate Appraisal Administrator is crucial. These professionals are responsible for overseeing and coordinating the appraisal process, ensuring accuracy and compliance with regulations. They collaborate with appraisers, clients, and other stakeholders to facilitate smooth operations and provide essential support in the valuation of properties.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Appraisal Administrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Appraisal Administrator interviews to help you prepare and succeed.

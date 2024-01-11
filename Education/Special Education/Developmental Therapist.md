@@ -2,6 +2,8 @@
 
 Welcome to the Developmental Therapist Interview Preparation ! This resource is designed to help you ace your Developmental Therapist interviews with confidence.
 
+A Developmental Therapist is a specialized professional who works with individuals with developmental disabilities to provide targeted interventions and support. As part of the field of Special Education, Developmental Therapists play a crucial role in assessing, planning, and implementing individualized programs to help individuals overcome their challenges and reach their full potential. They work closely with students, families, and other professionals to create a supportive and inclusive learning environment. Developmental Therapists utilize various techniques and strategies to address cognitive, social, emotional, and physical needs of individuals with disabilities. Their ultimate goal is to enhance their clients' overall development and improve their quality of life, ensuring equal access to education and opportunities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Developmental Therapist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Developmental Therapist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Tower Controller Interview Preparation ! This resource is designed to help you ace your Tower Controller interviews with confidence.
 
+The job of a Tower Controller in the field of Aviation and Aerospace Air Traffic Control is crucial in ensuring the safe and efficient operation of aircraft at airports. Tower Controllers work in control towers, overseeing the movement of aircraft on the ground and in the airspace surrounding the airport. They communicate with pilots, providing instructions for takeoff, landing, and taxiing. Tower Controllers monitor radar screens, weather conditions, and ground movements to maintain a safe distance between aircraft, prevent collisions, and manage the flow of air traffic. Their exceptional situational awareness, communication skills, and ability to handle high-stress situations make them essential contributors to the aviation industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Tower Controller or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Tower Controller interviews to help you prepare and succeed.

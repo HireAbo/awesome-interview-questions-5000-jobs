@@ -2,6 +2,8 @@
 
 Welcome to the Personal Chef Interview Preparation ! This resource is designed to help you ace your Personal Chef interviews with confidence.
 
+Hospitality and Tourism industry is a thriving sector that encompasses various fields, including Culinary Arts. Culinary Arts is an integral part of this industry, focusing on the art of food preparation, cooking techniques, and presentation. Within the Culinary Arts field, the role of a Personal Chef is gaining popularity. A Personal Chef is a culinary professional who offers personalized meal preparation services to clients in their homes or other preferred locations. They create customized menus, shop for ingredients, prepare and cook meals according to the client's preferences and dietary needs. Personal Chefs provide a unique dining experience, offering convenience and exceptional culinary expertise to individuals and families seeking personalized and high-quality meals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Personal Chef or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Personal Chef interviews to help you prepare and succeed.

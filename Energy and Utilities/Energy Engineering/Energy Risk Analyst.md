@@ -2,6 +2,8 @@
 
 Welcome to the Energy Risk Analyst Interview Preparation ! This resource is designed to help you ace your Energy Risk Analyst interviews with confidence.
 
+An Energy Risk Analyst is a key professional in the field of Energy Engineering, specifically in the Energy and Utilities sector. This role involves analyzing and assessing potential risks associated with energy production, distribution, and consumption. The Energy Risk Analyst is responsible for evaluating market conditions, regulatory changes, and other external factors that may impact energy prices and supply. They utilize advanced statistical models and forecasting techniques to identify potential risks and develop effective risk management strategies. Additionally, they work closely with other professionals in the energy industry to provide insights and recommendations to optimize decision-making and mitigate potential losses. The Energy Risk Analyst plays a crucial role in ensuring the stability and profitability of energy operations in a rapidly evolving market.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Energy Risk Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Energy Risk Analyst interviews to help you prepare and succeed.

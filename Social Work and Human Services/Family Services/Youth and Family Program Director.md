@@ -2,6 +2,8 @@
 
 Welcome to the Youth and Family Program Director Interview Preparation ! This resource is designed to help you ace your Youth and Family Program Director interviews with confidence.
 
+The role of a Youth and Family Program Director in the field of Social Work and Human Services is a critical one, aimed at supporting and improving the lives of young people and their families. As a Program Director, you would be responsible for overseeing and managing various programs focused on addressing the unique needs and challenges faced by youth and families. This may include developing and implementing intervention strategies, coordinating community resources, and collaborating with other professionals to provide comprehensive support. A paramount aspect of the role is ensuring the well-being and safety of young individuals and working towards enhancing their overall development and stability within the family unit.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Youth and Family Program Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Youth and Family Program Director interviews to help you prepare and succeed.

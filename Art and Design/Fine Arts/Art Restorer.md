@@ -2,6 +2,8 @@
 
 Welcome to the Art Restorer Interview Preparation ! This resource is designed to help you ace your Art Restorer interviews with confidence.
 
+Art restoration is a specialized field within the realm of fine arts that focuses on the preservation and restoration of artworks. Art restorers play a crucial role in ensuring the longevity and aesthetic integrity of valuable pieces of art. These professionals possess a deep understanding of various artistic techniques and materials, as well as a keen eye for detail. Their expertise allows them to assess and analyze the condition of artworks, identify areas of deterioration or damage, and develop appropriate restoration techniques. Through meticulous cleaning, repairing, and retouching, art restorers revive artworks, bringing them back to their original glory and ensuring their cultural and historical significance endures for generations to come.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Art Restorer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Art Restorer interviews to help you prepare and succeed.

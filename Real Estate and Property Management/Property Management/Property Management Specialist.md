@@ -2,6 +2,8 @@
 
 Welcome to the Property Management Specialist Interview Preparation ! This resource is designed to help you ace your Property Management Specialist interviews with confidence.
 
+Real Estate and Property Management is a dynamic industry that involves the buying, selling, and renting of properties. Property Management, a crucial aspect of this field, focuses on overseeing and maintaining properties on behalf of property owners. A Property Management Specialist plays a key role in this domain, ensuring the smooth operation and profitability of rental properties. They are responsible for tasks such as advertising vacant units, screening potential tenants, collecting rent, handling maintenance and repairs, and resolving tenant issues. With a deep understanding of property laws and regulations, financial management, and excellent communication skills, Property Management Specialists are essential in maximizing property value and providing exceptional customer service.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Property Management Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Property Management Specialist interviews to help you prepare and succeed.

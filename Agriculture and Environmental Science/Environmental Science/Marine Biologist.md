@@ -2,6 +2,8 @@
 
 Welcome to the Marine Biologist Interview Preparation ! This resource is designed to help you ace your Marine Biologist interviews with confidence.
 
+Agriculture and Environmental Science encompass a wide range of disciplines aimed at understanding and managing our natural resources. Environmental Science focuses on the study of the environment and the impact of human activities on it, striving for sustainable solutions. Within this field, the role of a Marine Biologist is crucial in studying and preserving the marine ecosystem. Marine Biologists investigate marine organisms, their behavior, and the intricate relationships between species. They also assess the impact of human activities on marine life, conduct research on biodiversity, and develop conservation strategies. By understanding and protecting marine ecosystems, Marine Biologists play a vital role in maintaining the health and balance of our oceans.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Marine Biologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Marine Biologist interviews to help you prepare and succeed.

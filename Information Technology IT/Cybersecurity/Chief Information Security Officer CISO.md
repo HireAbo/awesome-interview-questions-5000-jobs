@@ -2,6 +2,8 @@
 
 Welcome to the Chief Information Security Officer (CISO) Interview Preparation ! This resource is designed to help you ace your Chief Information Security Officer (CISO) interviews with confidence.
 
+Information Technology (IT) refers to the use and management of computer systems, software, networks, and electronic data. It encompasses various areas such as software development, database management, network administration, and cybersecurity. Cybersecurity, a critical component of IT, focuses on protecting computer systems, networks, and data from unauthorized access, theft, damage, and disruption. It involves implementing security measures, identifying vulnerabilities, and responding to security incidents. Within the realm of cybersecurity, the Chief Information Security Officer (CISO) plays a vital role. As the senior executive responsible for an organization's information security, the CISO develops and implements security strategies, policies, and practices to safeguard sensitive data, prevent cyber threats, and ensure compliance with industry regulations. They also lead incident response efforts and collaborate with other departments to manage risks and educate employees on security best practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Chief Information Security Officer (CISO) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Chief Information Security Officer (CISO) interviews to help you prepare and succeed.

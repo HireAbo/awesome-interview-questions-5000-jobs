@@ -2,6 +2,8 @@
 
 Welcome to the Team General Manager Interview Preparation ! This resource is designed to help you ace your Team General Manager interviews with confidence.
 
+The role of a Team General Manager in Sports Management is pivotal to the success of any sports organization. As the leader of the team, the General Manager is responsible for overseeing all aspects of the team's operations and performance. This includes player recruitment and retention, contract negotiations, salary cap management, and strategic planning. They work closely with coaches, scouts, and other team staff to build a competitive roster and ensure the team's long-term success. Additionally, the General Manager represents the team in negotiations with other teams and league officials. Their ability to make sound decisions and manage resources effectively is crucial in achieving both on-field success and financial stability.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Team General Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Team General Manager interviews to help you prepare and succeed.

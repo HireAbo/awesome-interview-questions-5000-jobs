@@ -2,6 +2,8 @@
 
 Welcome to the Museum Curator Interview Preparation ! This resource is designed to help you ace your Museum Curator interviews with confidence.
 
+Hospitality and Tourism is a thriving industry that focuses on providing exceptional services to travelers and tourists. Within this industry, Tourism Management plays a crucial role in overseeing various aspects of travel operations, including accommodation, transportation, and entertainment. One career path within Tourism Management is that of a Museum Curator. A Museum Curator is responsible for the preservation, research, and presentation of collections in museums. They curate exhibits, acquire new artifacts, and organize educational programs to engage visitors. This role requires a deep passion for art, history, and culture, as well as strong organizational and communication skills. Museum Curators play a vital role in showcasing the rich heritage and promoting tourism through their curated collections.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Museum Curator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Museum Curator interviews to help you prepare and succeed.

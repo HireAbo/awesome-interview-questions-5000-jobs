@@ -2,6 +2,8 @@
 
 Welcome to the Swim Coach Interview Preparation ! This resource is designed to help you ace your Swim Coach interviews with confidence.
 
+A Swim Coach is a specialized sports and athletics coach who focuses on training individuals or teams in swimming techniques and skills. This job is crucial for athletes looking to improve their performance in competitive swimming or for beginners aiming to develop their swimming abilities. A Swim Coach's responsibilities typically include designing training programs, providing instruction on stroke techniques, organizing practice sessions, and overseeing athletes' progress. They also play a vital role in motivating and inspiring swimmers, setting goals, and ensuring safety during training sessions. Swim Coaches often possess a strong understanding of physiology, technique, and strategy to help swimmers reach their full potential in the water.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Swim Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Swim Coach interviews to help you prepare and succeed.

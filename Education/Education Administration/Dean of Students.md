@@ -2,6 +2,8 @@
 
 Welcome to the Dean of Students Interview Preparation ! This resource is designed to help you ace your Dean of Students interviews with confidence.
 
+The Dean of Students is a crucial role within the field of Education Administration. As an integral part of the school's leadership team, the Dean of Students is responsible for overseeing the welfare and development of students. This role involves creating and implementing policies, programs, and initiatives that promote a positive and inclusive school environment. The Dean of Students also plays a vital role in managing student discipline, supporting academic success, and fostering a strong sense of community within the school. Additionally, they collaborate with teachers, parents, and other stakeholders to address issues and concerns, ensuring a safe and productive learning environment for all students.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Dean of Students or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Dean of Students interviews to help you prepare and succeed.

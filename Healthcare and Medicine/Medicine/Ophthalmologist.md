@@ -2,6 +2,8 @@
 
 Welcome to the Ophthalmologist Interview Preparation ! This resource is designed to help you ace your Ophthalmologist interviews with confidence.
 
+An ophthalmologist is a medical doctor who specializes in the diagnosis and treatment of eye diseases and disorders. They are highly trained professionals who provide comprehensive eye care, including performing eye exams, prescribing corrective lenses, and performing surgical procedures. Ophthalmologists are experts in managing various eye conditions such as cataracts, glaucoma, macular degeneration, and corneal diseases. They also provide treatment for eye injuries and perform vision correction surgeries such as LASIK. Ophthalmologists work closely with optometrists and other healthcare professionals to ensure the overall well-being of their patients' vision and eye health. Their expertise and knowledge play a crucial role in preserving and improving the vision of individuals of all ages.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Ophthalmologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Ophthalmologist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Sports Medicine Physician Interview Preparation ! This resource is designed to help you ace your Sports Medicine Physician interviews with confidence.
 
+Sports and Athletics encompass a wide range of physical activities that aim to promote physical fitness, competition, and entertainment. However, injuries are an inherent part of any sporting activity, which is where Sports Medicine comes into play. Sports Medicine focuses on the prevention, diagnosis, treatment, and rehabilitation of injuries related to sports and exercise. At the forefront of this field is the Sports Medicine Physician, a specialized healthcare professional who possesses in-depth knowledge of sports-related injuries and their management. These physicians work closely with athletes of all levels, providing expert medical care, developing personalized treatment plans, and guiding athletes towards a safe and efficient recovery, enabling them to achieve their full potential in their respective sports.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sports Medicine Physician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sports Medicine Physician interviews to help you prepare and succeed.

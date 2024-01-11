@@ -2,6 +2,8 @@
 
 Welcome to the Observatory Technician Interview Preparation ! This resource is designed to help you ace your Observatory Technician interviews with confidence.
 
+An Observatory Technician plays a crucial role in the field of Astronomy by supporting scientific research and data collection at observatories. These professionals are responsible for operating and maintaining the complex equipment and technology used in astronomical observations. They ensure that telescopes, cameras, spectrographs, and other instruments function properly and efficiently. Observatory Technicians also calibrate and align the equipment, troubleshoot technical issues, and analyze collected data. They collaborate with astronomers and researchers to provide technical assistance during observation sessions and assist in the interpretation of data. This job requires a strong background in physics, engineering, or a related field, along with excellent problem-solving and analytical skills.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Observatory Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Observatory Technician interviews to help you prepare and succeed.

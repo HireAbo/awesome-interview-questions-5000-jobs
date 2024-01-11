@@ -2,6 +2,8 @@
 
 Welcome to the Print Advertising Specialist Interview Preparation ! This resource is designed to help you ace your Print Advertising Specialist interviews with confidence.
 
+A Print Advertising Specialist is a professional who specializes in creating effective print advertisements to promote products or services. They play a crucial role in the advertising industry by developing visually appealing and persuasive print campaigns that effectively communicate the client's message to the target audience. This role requires a strong understanding of marketing principles, design concepts, and consumer behavior. Print Advertising Specialists work closely with clients, marketing teams, and graphic designers to develop creative concepts, design layouts, and select appropriate print media platforms. They must possess excellent communication skills, attention to detail, and a keen eye for visual aesthetics to create impactful print advertisements that generate brand awareness and drive sales.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Print Advertising Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Print Advertising Specialist interviews to help you prepare and succeed.

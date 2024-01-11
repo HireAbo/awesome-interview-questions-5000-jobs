@@ -2,6 +2,8 @@
 
 Welcome to the School Principal Interview Preparation ! This resource is designed to help you ace your School Principal interviews with confidence.
 
+A school principal holds a pivotal role in the education system, serving as the administrative leader of a school. As an educational administrator, they oversee the daily operations, ensuring a safe and conducive learning environment for students. School principals are responsible for implementing academic programs, managing faculty and staff, and monitoring student progress. They play a key role in shaping the curriculum, setting educational goals, and establishing policies that align with educational standards. A successful school principal possesses strong leadership skills, effective communication, and the ability to foster a positive school culture. They are dedicated to promoting academic excellence and providing students with the tools they need to succeed in their educational journey.
+
 ## 🚀 Overview
 
 Whether you're a seasoned School Principal or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in School Principal interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Power Plant Control Systems Engineer Interview Preparation ! This resource is designed to help you ace your Power Plant Control Systems Engineer interviews with confidence.
 
+A Power Plant Control Systems Engineer is a professional responsible for overseeing and maintaining the control systems in power plants. They play a crucial role in ensuring the efficient and safe operation of power plant equipment. These engineers are involved in designing, installing, and maintaining the control systems that monitor and regulate the various processes within the power plant. They are responsible for troubleshooting and resolving any issues that may arise with the control systems, as well as implementing upgrades and improvements to enhance the overall performance and productivity of the power plant. Additionally, they collaborate with other engineers and technicians to optimize power plant operations and ensure compliance with safety and environmental regulations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Power Plant Control Systems Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Power Plant Control Systems Engineer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Treaty Negotiator Interview Preparation ! This resource is designed to help you ace your Treaty Negotiator interviews with confidence.
 
+A Treaty Negotiator is a professional who specializes in the field of Political Science, specifically in the area of treaty negotiation. This role involves representing a country, organization, or group in international negotiations to draft, amend, or resolve treaties. Treaty Negotiators play a crucial role in shaping international relations, resolving conflicts, and promoting cooperation between nations. They are responsible for conducting research, analyzing policies, and developing strategies to advance their country's interests while maintaining diplomatic relations with other parties involved. Strong communication, negotiation, and problem-solving skills are essential for Treaty Negotiators, as they navigate complex political landscapes and strive to achieve mutually beneficial outcomes for all parties involved.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Treaty Negotiator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Treaty Negotiator interviews to help you prepare and succeed.

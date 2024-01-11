@@ -2,6 +2,8 @@
 
 Welcome to the Sports Psychologist Interview Preparation ! This resource is designed to help you ace your Sports Psychologist interviews with confidence.
 
+A sports psychologist is a professional who specializes in applying psychological principles and techniques to enhance the performance, well-being, and mental health of athletes and sports teams. They work with athletes at all levels, from beginners to elite professionals, and cover a wide range of sports, including individual and team sports. Sports psychologists help athletes develop mental skills such as goal-setting, concentration, motivation, and confidence, which are crucial for success in sports. They also assist in managing stress, anxiety, and other psychological factors that may impact an athlete's performance. By understanding the unique challenges faced by athletes, sports psychologists play a vital role in optimizing their mental game and overall athletic performance.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sports Psychologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sports Psychologist interviews to help you prepare and succeed.

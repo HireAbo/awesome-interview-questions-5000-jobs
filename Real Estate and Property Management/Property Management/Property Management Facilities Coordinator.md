@@ -2,6 +2,8 @@
 
 Welcome to the Property Management Facilities Coordinator Interview Preparation ! This resource is designed to help you ace your Property Management Facilities Coordinator interviews with confidence.
 
+A Property Management Facilities Coordinator plays a crucial role in the real estate and property management industry. Their primary responsibility is to oversee and coordinate the maintenance and repair activities of various properties. This includes ensuring that properties are well-maintained, managing budgets, and ensuring compliance with safety and building codes. Additionally, they coordinate with contractors and vendors to schedule repairs, inspections, and other necessary services. A Facilities Coordinator is also responsible for conducting regular property inspections, addressing tenant concerns, and coordinating property improvement projects. This job requires strong organizational skills, attention to detail, and excellent communication abilities to effectively manage multiple properties and ensure their smooth operation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Property Management Facilities Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Property Management Facilities Coordinator interviews to help you prepare and succeed.

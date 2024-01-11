@@ -2,6 +2,8 @@
 
 Welcome to the Commercial Property Manager Interview Preparation ! This resource is designed to help you ace your Commercial Property Manager interviews with confidence.
 
+A Commercial Property Manager is a vital role in the real estate and property management industry. They are responsible for overseeing the day-to-day operations of commercial properties such as office buildings, retail spaces, and industrial complexes. Their primary focus is to ensure the smooth functioning and profitability of the properties under their management. This includes tasks like tenant selection and lease negotiations, property maintenance and repairs, rent collection, financial reporting, and budgeting. A successful Commercial Property Manager possesses excellent communication and negotiation skills, a strong understanding of market trends, and the ability to handle various stakeholders effectively. They play a crucial role in maximizing property value and ensuring tenant satisfaction.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Commercial Property Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Commercial Property Manager interviews to help you prepare and succeed.

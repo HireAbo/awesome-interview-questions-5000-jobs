@@ -2,6 +2,8 @@
 
 Welcome to the Police Chief Interview Preparation ! This resource is designed to help you ace your Police Chief interviews with confidence.
 
+The Police Chief job is a crucial position within the field of Criminal Justice. As the highest-ranking officer in a police department, the Police Chief is responsible for overseeing and managing all aspects of law enforcement operations. They play a vital role in maintaining public safety, enforcing laws, and preventing and investigating crimes. The Police Chief establishes department policies, sets strategic goals, and ensures the efficient allocation of resources. They also collaborate with other criminal justice agencies, community leaders, and stakeholders to develop crime prevention strategies and foster positive community relations. The Police Chief must possess strong leadership skills, extensive knowledge of law enforcement practices, and a commitment to upholding justice and fairness.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Police Chief or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Police Chief interviews to help you prepare and succeed.

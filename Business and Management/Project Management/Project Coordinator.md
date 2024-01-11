@@ -2,6 +2,8 @@
 
 Welcome to the Project Coordinator Interview Preparation ! This resource is designed to help you ace your Project Coordinator interviews with confidence.
 
+A Project Coordinator is a vital role in the field of Business and Management, specifically in Project Management. As a Project Coordinator, you will be responsible for overseeing and coordinating various aspects of a project, ensuring its successful completion within the specified time, budget, and quality constraints. You will work closely with the project manager and other team members, assisting in planning, organizing, and implementing project activities. Your role will involve creating project schedules, tracking progress, managing resources, and communicating with stakeholders. Strong organizational and communication skills are essential for effective coordination and ensuring all project deliverables are met.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Project Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Project Coordinator interviews to help you prepare and succeed.

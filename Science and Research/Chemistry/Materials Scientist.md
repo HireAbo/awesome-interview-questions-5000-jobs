@@ -2,6 +2,8 @@
 
 Welcome to the Materials Scientist Interview Preparation ! This resource is designed to help you ace your Materials Scientist interviews with confidence.
 
+A materials scientist job in the field of chemistry involves conducting research and experiments to develop and improve materials for various applications. These scientists play a crucial role in advancing technology, as they study the properties, structure, and behavior of different materials to create innovative solutions. They work with a wide range of materials, from metals and polymers to ceramics and composites, with the aim of enhancing their characteristics, durability, and functionality. Materials scientists collaborate with engineers, physicists, and other professionals to design and test new materials that can be used in industries such as electronics, aerospace, energy, and healthcare. Their work is instrumental in driving advancements and ensuring the quality and safety of materials used in everyday life.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Materials Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Materials Scientist interviews to help you prepare and succeed.

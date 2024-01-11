@@ -2,6 +2,8 @@
 
 Welcome to the Lobbyist Interview Preparation ! This resource is designed to help you ace your Lobbyist interviews with confidence.
 
+Government and Public Service are vital sectors that ensure the smooth functioning of societies. Within this realm, Public Policy plays a significant role in shaping and implementing laws and regulations that govern various aspects of people's lives. One crucial actor in influencing public policy is the lobbyist. Lobbyists are professionals who advocate for specific interests and seek to influence government officials in favor of their clients. Their role involves building relationships, conducting research, and strategizing to present persuasive arguments that align with their clients' goals. Lobbyists play a crucial role in democratic societies, acting as a bridge between private interests and the government, ultimately shaping public policy decisions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Lobbyist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Lobbyist interviews to help you prepare and succeed.

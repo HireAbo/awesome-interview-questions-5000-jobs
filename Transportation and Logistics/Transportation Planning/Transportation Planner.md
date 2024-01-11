@@ -2,6 +2,8 @@
 
 Welcome to the Transportation Planner Interview Preparation ! This resource is designed to help you ace your Transportation Planner interviews with confidence.
 
+A Transportation Planner is a professional responsible for developing and implementing efficient transportation systems. They analyze data and evaluate factors such as population growth, traffic patterns, and economic trends to make informed decisions on improving transportation infrastructure. Their primary goal is to optimize the movement of goods and people while minimizing costs and environmental impact. Transportation Planners collaborate with engineers, urban planners, and government agencies to design and coordinate transportation projects. They use computer models and simulations to forecast future transportation needs and propose strategies to alleviate congestion and improve efficiency. Strong analytical and problem-solving skills, as well as a deep understanding of transportation regulations and policies, are essential for success in this field.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Transportation Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Transportation Planner interviews to help you prepare and succeed.

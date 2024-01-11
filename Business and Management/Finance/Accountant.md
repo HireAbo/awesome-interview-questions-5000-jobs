@@ -2,6 +2,8 @@
 
 Welcome to the Accountant Interview Preparation ! This resource is designed to help you ace your Accountant interviews with confidence.
 
+An accountant plays a crucial role in the field of finance and management. They are responsible for managing and analyzing financial records, ensuring compliance with laws and regulations, and preparing financial reports for businesses and organizations. Accountants are skilled in budgeting, forecasting, and financial analysis to help businesses make informed decisions. They also handle tasks such as tax planning, auditing, and risk assessment. With their expertise in financial management, accountants contribute to the overall success and growth of a business by providing accurate and timely financial information. They are detail-oriented, analytical thinkers, and possess strong organizational and communication skills.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Accountant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Accountant interviews to help you prepare and succeed.

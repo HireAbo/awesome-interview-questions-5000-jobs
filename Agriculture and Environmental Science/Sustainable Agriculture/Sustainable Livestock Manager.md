@@ -2,6 +2,8 @@
 
 Welcome to the Sustainable Livestock Manager Interview Preparation ! This resource is designed to help you ace your Sustainable Livestock Manager interviews with confidence.
 
+Agriculture and Environmental Science is a field that focuses on the interaction between agricultural practices and the environment. Sustainable agriculture, in particular, emphasizes the use of farming techniques that minimize environmental impact while ensuring economic viability. Within this field, the role of a Sustainable Livestock Manager is crucial. This job involves implementing sustainable practices in livestock production, such as optimizing animal welfare, reducing greenhouse gas emissions, and managing waste disposal. Sustainable Livestock Managers also play a key role in implementing strategies to enhance soil fertility, conserve water resources, and promote biodiversity. By balancing the needs of livestock production with environmental stewardship, these professionals contribute to a more sustainable and resilient agricultural system.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sustainable Livestock Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sustainable Livestock Manager interviews to help you prepare and succeed.

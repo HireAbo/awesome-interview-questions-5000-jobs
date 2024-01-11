@@ -2,6 +2,8 @@
 
 Welcome to the Surveying Engineer Interview Preparation ! This resource is designed to help you ace your Surveying Engineer interviews with confidence.
 
+A Surveying Engineer plays a crucial role in the field of Civil Engineering. They are responsible for conducting surveys and measurements to determine the exact position, elevation, and boundaries of land, as well as the location of buildings, roads, and infrastructure projects. Surveying Engineers use advanced technology such as GPS, laser scanning, and Geographic Information Systems (GIS) to accurately collect data and create detailed maps, plans, and reports. They collaborate closely with architects, construction teams, and other professionals to ensure that projects meet regulatory standards and are executed smoothly. A Surveying Engineer's expertise is essential in providing accurate information for construction and development projects.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Surveying Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Surveying Engineer interviews to help you prepare and succeed.

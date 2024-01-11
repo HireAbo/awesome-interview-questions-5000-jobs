@@ -2,6 +2,8 @@
 
 Welcome to the Supply Chain Information Systems Manager Interview Preparation ! This resource is designed to help you ace your Supply Chain Information Systems Manager interviews with confidence.
 
+A Supply Chain Information Systems Manager plays a crucial role in the field of Transportation and Logistics as well as Supply Chain Management. This job involves overseeing and managing the information systems that support the entire supply chain process. The primary responsibility is to ensure the smooth flow of information across various departments and stakeholders, including suppliers, manufacturers, distributors, and customers. This entails designing, implementing, and maintaining robust information systems and technologies, such as Enterprise Resource Planning (ERP) and Warehouse Management Systems (WMS). The Supply Chain Information Systems Manager is also responsible for data analysis and decision-making, optimizing inventory management, enhancing communication and collaboration, and ensuring the overall efficiency and effectiveness of the supply chain operations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Supply Chain Information Systems Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Supply Chain Information Systems Manager interviews to help you prepare and succeed.

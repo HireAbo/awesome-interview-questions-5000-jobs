@@ -2,6 +2,12 @@
 
 Welcome to the Utility Procurement Specialist Interview Preparation ! This resource is designed to help you ace your Utility Procurement Specialist interviews with confidence.
 
+A Utility Procurement Specialist is a professional responsible for managing and procuring energy and utility services for businesses or organizations. They play a crucial role in ensuring that the company has access to reliable and cost-effective utilities such as electricity, gas, water, and telecommunications. 
+
+The main responsibilities of a Utility Procurement Specialist include conducting market research to identify available utility providers, negotiating contracts and pricing terms, analyzing energy consumption patterns, and implementing strategies to optimize energy efficiency and reduce costs. They also monitor utility usage, track expenses, and review invoices for accuracy. 
+
+A successful Utility Procurement Specialist possesses strong analytical and negotiation skills, as well as a deep understanding of energy markets and regulations. They must stay updated on industry trends and technologies to make informed decisions and drive sustainable utility management practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Utility Procurement Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Utility Procurement Specialist interviews to help you prepare and succeed.

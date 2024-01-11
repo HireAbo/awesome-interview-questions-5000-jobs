@@ -2,6 +2,8 @@
 
 Welcome to the Archives Curator Interview Preparation ! This resource is designed to help you ace your Archives Curator interviews with confidence.
 
+Library and Information Science (LIS) is a multidisciplinary field that focuses on the organization, preservation, and access to information. Within LIS, archiving is a crucial aspect that involves the management and preservation of historical records and documents. An archives curator plays a pivotal role in this field, overseeing the acquisition, organization, and preservation of archival materials. They ensure the proper cataloging and storage of records, manuscripts, photographs, and other valuable artifacts. Archives curators also work closely with researchers, scholars, and the public, providing assistance in accessing and utilizing the archival collections. Their expertise in preservation techniques and knowledge of historical research make them vital in safeguarding our cultural heritage for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Archives Curator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Archives Curator interviews to help you prepare and succeed.

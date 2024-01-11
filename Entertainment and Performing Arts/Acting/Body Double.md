@@ -2,6 +2,8 @@
 
 Welcome to the Body Double Interview Preparation ! This resource is designed to help you ace your Body Double interviews with confidence.
 
+A body double is a crucial role in the world of entertainment and performing arts, specifically in the field of acting. This job involves standing in for a specific actor or actress during certain scenes or sequences in films, TV shows, or theater productions. The body double's main responsibility is to closely resemble the actor they are doubling for, including physical appearance, body type, and mannerisms. They may be required to perform stunts or execute specific actions that the actor is unable or unwilling to do. Body doubles play a vital role in maintaining continuity and enhancing the overall visual experience for the audience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Body Double or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Body Double interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Sales Trainer and Coach Interview Preparation ! This resource is designed to help you ace your Real Estate Sales Trainer and Coach interviews with confidence.
 
+A Real Estate Sales Trainer and Coach is a professional who specializes in providing guidance, training, and support to individuals looking to excel in the field of real estate sales. They possess extensive knowledge and experience in the real estate industry, particularly in sales techniques and strategies. Their main objective is to assist real estate agents in enhancing their skills, boosting their confidence, and maximizing their productivity. Through one-on-one coaching sessions, group training programs, and workshops, they provide valuable insights, advice, and practical solutions to overcome sales challenges and achieve success. Their expertise in real estate sales enables them to effectively mentor and motivate agents, helping them achieve their sales targets and thrive in a competitive market.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Sales Trainer and Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Sales Trainer and Coach interviews to help you prepare and succeed.

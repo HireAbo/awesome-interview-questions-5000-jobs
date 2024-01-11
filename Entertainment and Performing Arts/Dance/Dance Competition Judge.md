@@ -2,6 +2,8 @@
 
 Welcome to the Dance Competition Judge Interview Preparation ! This resource is designed to help you ace your Dance Competition Judge interviews with confidence.
 
+Being a Dance Competition Judge is an exciting and challenging role that requires a deep understanding and appreciation for the art of dance. As a judge, you play a crucial role in evaluating and critiquing various dance performances in competitions. Your expertise and knowledge in different dance styles, techniques, and choreography are essential to provide constructive feedback to dancers and their coaches. Attention to detail, excellent observation skills, and the ability to make fair and unbiased judgments are crucial in this role. Additionally, a judge must possess strong communication and interpersonal skills to effectively interact with dancers, fellow judges, and event organizers. Ultimately, the role of a Dance Competition Judge is to uphold and promote excellence in the world of dance.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Dance Competition Judge or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Dance Competition Judge interviews to help you prepare and succeed.

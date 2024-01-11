@@ -2,6 +2,8 @@
 
 Welcome to the Model Home Designer Interview Preparation ! This resource is designed to help you ace your Model Home Designer interviews with confidence.
 
+A Model Home Designer is a professional in the field of interior design who specializes in creating visually appealing and functional living spaces for model homes. They possess a unique blend of creative talent, technical skills, and a deep understanding of design principles. Model Home Designers work closely with builders, developers, and real estate professionals to create captivating and immersive environments that showcase the potential of a property. They meticulously select and arrange furniture, fixtures, and accessories to create a cohesive and desirable aesthetic that appeals to potential homebuyers. Their goal is to create a space that not only reflects the latest design trends but also enhances the overall appeal and marketability of the property.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Model Home Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Model Home Designer interviews to help you prepare and succeed.

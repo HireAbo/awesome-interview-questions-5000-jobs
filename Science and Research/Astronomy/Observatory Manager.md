@@ -2,6 +2,8 @@
 
 Welcome to the Observatory Manager Interview Preparation ! This resource is designed to help you ace your Observatory Manager interviews with confidence.
 
+The role of an Observatory Manager in the field of Astronomy is crucial in ensuring the smooth functioning and efficient operations of an observatory. Observatory Managers oversee and coordinate various aspects of astronomical research, including telescope operations, data collection, and analysis. They are responsible for managing observatory staff, ensuring the proper maintenance and calibration of equipment, and overseeing data storage and retrieval systems. In addition, Observatory Managers play a vital role in developing and implementing research projects, collaborating with scientists and researchers to advance our understanding of the universe. This job requires a strong background in astronomy, excellent organizational and leadership skills, and a passion for scientific exploration.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Observatory Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Observatory Manager interviews to help you prepare and succeed.

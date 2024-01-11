@@ -2,6 +2,8 @@
 
 Welcome to the Assistant Hotel Manager Interview Preparation ! This resource is designed to help you ace your Assistant Hotel Manager interviews with confidence.
 
+The Assistant Hotel Manager plays a crucial role in the field of Hospitality and Tourism, particularly in Hotel Management. As an Assistant Hotel Manager, you will be responsible for assisting the Hotel Manager in overseeing the daily operations of the hotel, ensuring excellent customer service, and maximizing profitability. You will supervise and train staff, handle guest concerns, and maintain the hotel's standards and policies. With a strong focus on guest satisfaction, you will help create a welcoming and comfortable environment for visitors. This role requires exceptional organizational and leadership skills, as well as a passion for delivering exceptional hospitality experiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Assistant Hotel Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Assistant Hotel Manager interviews to help you prepare and succeed.

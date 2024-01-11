@@ -2,6 +2,8 @@
 
 Welcome to the Air Traffic Control Manager Interview Preparation ! This resource is designed to help you ace your Air Traffic Control Manager interviews with confidence.
 
+Aviation and Aerospace is a vast and dynamic industry that encompasses various sectors, one of which is Air Traffic Control (ATC). ATC plays a crucial role in ensuring safe and efficient movement of aircraft within the airspace. At the heart of this operation is the Air Traffic Control Manager, who holds a pivotal position in overseeing the entire ATC system. This job requires exceptional leadership skills, as the manager is responsible for coordinating and supervising a team of air traffic controllers. They ensure adherence to regulations, manage communication protocols, monitor traffic flow, and make critical decisions during emergencies. The Air Traffic Control Manager plays a vital role in maintaining the highest level of safety and efficiency in aviation operations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Air Traffic Control Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Air Traffic Control Manager interviews to help you prepare and succeed.

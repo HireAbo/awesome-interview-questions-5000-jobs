@@ -2,6 +2,8 @@
 
 Welcome to the Forensic Toxicologist Interview Preparation ! This resource is designed to help you ace your Forensic Toxicologist interviews with confidence.
 
+A forensic toxicologist is a specialized professional within the field of forensic science, focusing on the analysis of toxic substances in biological samples. They play a crucial role in criminal investigations and legal proceedings, providing valuable scientific evidence to determine the presence and effects of drugs, poisons, and other toxic substances in a person's body. Forensic toxicologists utilize sophisticated laboratory techniques to identify and quantify these substances, utilizing their expertise to interpret the results and present their findings in a court of law. Their work helps establish the cause of death, identify potential perpetrators, and contribute to the overall understanding of criminal activities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forensic Toxicologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forensic Toxicologist interviews to help you prepare and succeed.

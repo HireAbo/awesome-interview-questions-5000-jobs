@@ -2,6 +2,8 @@
 
 Welcome to the Experimental Astrophysicist Interview Preparation ! This resource is designed to help you ace your Experimental Astrophysicist interviews with confidence.
 
+An Experimental Astrophysicist is a professional who specializes in conducting scientific research and experiments in the field of physics, with a specific focus on astrophysics. This job involves studying celestial objects and phenomena, such as galaxies, stars, and black holes, to gain a deeper understanding of the universe. Experimental astrophysicists design and carry out experiments, develop and utilize advanced scientific instruments, collect and analyze data, and interpret findings to contribute to the scientific community's knowledge in astrophysics. They work in collaboration with other scientists, researchers, and engineers to explore and unravel the mysteries of the cosmos and push the boundaries of our understanding of the universe.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Experimental Astrophysicist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Experimental Astrophysicist interviews to help you prepare and succeed.

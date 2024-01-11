@@ -2,6 +2,8 @@
 
 Welcome to the Nonprofit Executive Director Interview Preparation ! This resource is designed to help you ace your Nonprofit Executive Director interviews with confidence.
 
+A Nonprofit Executive Director plays a crucial role in the field of Social Work and Human Services. They are responsible for leading and managing nonprofit organizations focused on providing assistance, support, and resources to vulnerable individuals and communities. The role requires a strong combination of leadership, strategic planning, and financial management skills. Nonprofit Executive Directors oversee the organization's operations, including program development, fundraising, budgeting, and staff management. They work closely with the board of directors, stakeholders, and community partners to ensure the organization's mission and goals are effectively achieved. Their dedication to social justice and advocacy helps address pressing societal issues and improve the lives of those in need.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nonprofit Executive Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nonprofit Executive Director interviews to help you prepare and succeed.

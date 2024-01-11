@@ -2,6 +2,8 @@
 
 Welcome to the Influencer Marketing Manager Interview Preparation ! This resource is designed to help you ace your Influencer Marketing Manager interviews with confidence.
 
+A Influencer Marketing Manager is a vital role in the field of Business and Management, specifically in the area of Marketing. This position requires an individual who possesses strong strategic and analytical skills, as well as excellent communication and interpersonal abilities. An Influencer Marketing Manager is responsible for developing and implementing effective marketing strategies that leverage the power of social media influencers to promote a brand or product. They collaborate with influencers to create engaging content that resonates with the target audience and drives brand awareness and customer engagement. This role requires a deep understanding of the social media landscape, influencer trends, and the ability to measure and analyze the success of influencer campaigns.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Influencer Marketing Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Influencer Marketing Manager interviews to help you prepare and succeed.

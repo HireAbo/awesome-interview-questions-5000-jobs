@@ -2,6 +2,8 @@
 
 Welcome to the Power Plant Engineer Interview Preparation ! This resource is designed to help you ace your Power Plant Engineer interviews with confidence.
 
+A Power Plant Engineer is responsible for designing, developing, and maintaining power generation systems such as thermal, nuclear, hydroelectric, or renewable energy plants. They play a crucial role in ensuring the efficient and safe operation of power plants. Power Plant Engineers handle tasks such as analyzing energy production processes, conducting feasibility studies, and implementing improvements to enhance plant performance and reliability. They also oversee the installation and maintenance of equipment, troubleshoot technical issues, and ensure compliance with environmental regulations. A Power Plant Engineer must possess strong technical knowledge, problem-solving skills, and the ability to work effectively in a team to meet energy demands and contribute to sustainable and clean energy solutions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Power Plant Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Power Plant Engineer interviews to help you prepare and succeed.

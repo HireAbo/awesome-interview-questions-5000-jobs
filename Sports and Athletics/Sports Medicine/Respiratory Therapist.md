@@ -2,6 +2,8 @@
 
 Welcome to the Respiratory Therapist Interview Preparation ! This resource is designed to help you ace your Respiratory Therapist interviews with confidence.
 
+Sports and Athletics is a field that encompasses a wide range of physical activities and competitions. Whether it's team sports like soccer or basketball, individual sports like swimming or running, or even extreme sports like snowboarding or rock climbing, sports play a significant role in promoting a healthy lifestyle, team spirit, and personal growth. Within this field, Sports Medicine focuses on the prevention, treatment, and rehabilitation of sports-related injuries. A Respiratory Therapist, in particular, is a crucial member of the Sports Medicine team, specializing in assessing and treating respiratory conditions that athletes may encounter, such as exercise-induced asthma or respiratory infections. Their expertise ensures athletes can perform at their best by optimizing their respiratory function and overall health.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Respiratory Therapist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Respiratory Therapist interviews to help you prepare and succeed.

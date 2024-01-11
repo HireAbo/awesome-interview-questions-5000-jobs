@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Conservation Officer Interview Preparation ! This resource is designed to help you ace your Environmental Conservation Officer interviews with confidence.
 
+Agriculture and Environmental Science are two interconnected fields that focus on the sustainable management of natural resources and the preservation of the environment. Environmental Science, specifically, encompasses the study of the environment, its components, and the impact of human activities on it. One crucial career within this field is that of an Environmental Conservation Officer. These professionals play a vital role in enforcing environmental laws and regulations to protect natural habitats, wildlife, and ecosystems. They conduct investigations, monitor compliance with environmental policies, and educate the public on the importance of environmental conservation. Their work is crucial for maintaining a healthy and balanced ecosystem for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Conservation Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Conservation Officer interviews to help you prepare and succeed.

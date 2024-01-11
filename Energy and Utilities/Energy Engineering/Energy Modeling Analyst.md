@@ -2,6 +2,8 @@
 
 Welcome to the Energy Modeling Analyst Interview Preparation ! This resource is designed to help you ace your Energy Modeling Analyst interviews with confidence.
 
+The role of an Energy Modeling Analyst in the field of Energy Engineering within the Energy and Utilities sector is crucial for optimizing energy consumption and efficiency. Energy Modeling Analysts are responsible for conducting detailed analysis and simulations to evaluate the energy usage patterns and performance of various systems, such as buildings, power plants, or industrial processes. They utilize advanced software tools to create models that predict energy consumption, identify potential areas for improvement, and propose strategies to enhance energy efficiency. These professionals collaborate with engineers, architects, and sustainability experts to develop innovative solutions, reduce energy costs, and minimize environmental impact. A strong background in engineering, data analysis, and knowledge of energy systems is essential in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Energy Modeling Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Energy Modeling Analyst interviews to help you prepare and succeed.

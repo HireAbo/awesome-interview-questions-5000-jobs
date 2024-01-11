@@ -2,6 +2,8 @@
 
 Welcome to the Concierge Interview Preparation ! This resource is designed to help you ace your Concierge interviews with confidence.
 
+Hospitality and Tourism is a thriving industry that encompasses various sectors, including Hotel Management. Within this field, the Concierge job plays a vital role in providing exceptional customer service and ensuring a memorable guest experience. The Concierge is responsible for assisting hotel guests with their needs and inquiries, such as booking reservations, arranging transportation, recommending local attractions, and providing insider tips. They are the go-to person for any requests or assistance, acting as a liaison between guests and the hotel staff. With excellent communication, problem-solving, and multitasking skills, concierges strive to create a personalized and seamless stay for every guest, making them indispensable members of the hotel team.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Concierge or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Concierge interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the GIS Specialist Interview Preparation ! This resource is designed to help you ace your GIS Specialist interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on sustainable food production, environmental conservation, and the study of natural resources. Within this field, the role of a GIS (Geographic Information System) Specialist is crucial in aiding research and decision-making processes. As a GIS Specialist, you will utilize advanced mapping technology and spatial analysis to collect, analyze, and interpret geospatial data related to agriculture and the environment. This includes mapping crop yields, soil composition, water resources, and other relevant information. By understanding the complex relationships between land, climate, and resources, GIS Specialists play a key role in developing strategies for effective land management, conservation, and sustainable agriculture practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned GIS Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in GIS Specialist interviews to help you prepare and succeed.

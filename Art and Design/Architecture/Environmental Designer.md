@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Designer Interview Preparation ! This resource is designed to help you ace your Environmental Designer interviews with confidence.
 
+An Environmental Designer in the field of Architecture is responsible for creating sustainable and aesthetically pleasing designs that seamlessly blend with the natural environment. These professionals possess a strong passion for both art and design, combining their creative skills with a deep understanding of environmental factors. They are adept at developing innovative solutions that minimize the impact on the ecosystem and maximize energy efficiency. Environmental Designers collaborate with architects, engineers, and clients to create buildings, landscapes, and urban spaces that harmonize with their surroundings. Their expertise lies in incorporating eco-friendly materials, utilizing renewable energy sources, and implementing green infrastructure to create functional and visually appealing structures that contribute to a healthier planet.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Designer interviews to help you prepare and succeed.

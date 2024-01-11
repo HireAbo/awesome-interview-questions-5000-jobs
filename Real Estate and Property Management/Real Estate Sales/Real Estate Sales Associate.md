@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Sales Associate Interview Preparation ! This resource is designed to help you ace your Real Estate Sales Associate interviews with confidence.
 
+A Real Estate Sales Associate is a professional who assists clients in buying, selling, and renting properties. They work under the supervision of a licensed real estate broker and are responsible for various tasks related to property sales. This includes conducting market research, identifying potential properties for clients, arranging property showings, negotiating deals, and preparing necessary documents. Real Estate Sales Associates must have excellent communication and interpersonal skills to build relationships with clients and understand their specific requirements. They should also stay updated with market trends and possess knowledge of local laws and regulations governing real estate transactions. Overall, a Real Estate Sales Associate plays a crucial role in facilitating successful property transactions and ensuring client satisfaction.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Sales Associate or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Sales Associate interviews to help you prepare and succeed.

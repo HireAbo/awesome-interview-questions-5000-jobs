@@ -2,6 +2,8 @@
 
 Welcome to the Automotive PR Specialist Interview Preparation ! This resource is designed to help you ace your Automotive PR Specialist interviews with confidence.
 
+An Automotive PR Specialist is a professional responsible for managing and improving the public image and reputation of automotive companies within the media and communications field. This specialized role involves developing and implementing effective communication strategies, creating compelling content, and coordinating events and campaigns to promote automotive brands. The Automotive PR Specialist collaborates closely with marketing and advertising teams to ensure consistent messaging and brand positioning. They also engage with journalists, influencers, and stakeholders to generate positive media coverage and build strong relationships. This role requires excellent communication skills, a deep understanding of the automotive industry, and the ability to adapt to fast-paced and evolving environments.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Automotive PR Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Automotive PR Specialist interviews to help you prepare and succeed.

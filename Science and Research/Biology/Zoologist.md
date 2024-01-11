@@ -2,6 +2,8 @@
 
 Welcome to the Zoologist Interview Preparation ! This resource is designed to help you ace your Zoologist interviews with confidence.
 
+A zoologist is a scientist who specializes in the study of animals and their behavior, habitat, evolution, and classification. It is a branch of biology that involves conducting research and experiments to gain a deeper understanding of various animal species. Zoologists work in a wide range of environments, including laboratories, zoos, wildlife reserves, and natural habitats. Their work involves collecting and analyzing data, studying animal populations, and conducting field observations. They may also be involved in conservation efforts, studying the impact of human activities on animal life, and developing strategies to protect endangered species. Zoologists play a crucial role in expanding our knowledge of the animal kingdom and contributing to the preservation of wildlife.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Zoologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Zoologist interviews to help you prepare and succeed.

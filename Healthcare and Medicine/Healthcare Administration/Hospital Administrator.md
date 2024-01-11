@@ -2,6 +2,8 @@
 
 Welcome to the Hospital Administrator Interview Preparation ! This resource is designed to help you ace your Hospital Administrator interviews with confidence.
 
+Healthcare and Medicine play a crucial role in ensuring the well-being and longevity of individuals. Within this vast field, Healthcare Administration focuses on the management and coordination of healthcare facilities and services. A key position in this domain is that of a Hospital Administrator. Hospital Administrators are responsible for overseeing the day-to-day operations of a healthcare facility, ensuring efficient delivery of high-quality care to patients. They collaborate with medical staff, manage budgets, develop policies and procedures, and implement strategic plans to optimize healthcare services provided. With a strong emphasis on leadership, decision-making, and organizational skills, Hospital Administrators contribute to the smooth functioning and success of healthcare institutions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Hospital Administrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Hospital Administrator interviews to help you prepare and succeed.

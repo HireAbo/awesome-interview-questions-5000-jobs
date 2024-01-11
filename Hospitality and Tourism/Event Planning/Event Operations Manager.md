@@ -2,6 +2,8 @@
 
 Welcome to the Event Operations Manager Interview Preparation ! This resource is designed to help you ace your Event Operations Manager interviews with confidence.
 
+Hospitality and Tourism encompasses a vast industry that caters to the needs of travelers and event enthusiasts. Within this field, Event Planning holds a crucial role in delivering unforgettable experiences. The Event Operations Manager job is an integral part of this process, responsible for overseeing the execution of events from start to finish. This role requires excellent organizational skills, attention to detail, and the ability to multitask effectively. Event Operations Managers coordinate with various stakeholders, including vendors, clients, and internal teams, to ensure seamless event logistics. They are responsible for managing budgets, timelines, and resources, all while ensuring that events are executed flawlessly, leaving a lasting impression on attendees.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Event Operations Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Event Operations Manager interviews to help you prepare and succeed.

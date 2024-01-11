@@ -2,6 +2,8 @@
 
 Welcome to the Polymer Engineer Interview Preparation ! This resource is designed to help you ace your Polymer Engineer interviews with confidence.
 
+A Polymer Engineer, a specialized branch of Chemical Engineering, is responsible for designing, developing, and optimizing polymer materials used in various industries. These professionals work with polymers to create new products, improve existing ones, and solve problems related to their production and usage. They conduct research to understand the properties and behavior of polymers, analyzing their structure, composition, and performance. Polymer Engineers collaborate with scientists, technicians, and other engineers to develop innovative applications for polymers, such as in automotive, aerospace, electronics, and healthcare industries. They also ensure compliance with safety and environmental regulations while working towards enhancing the performance and sustainability of polymer materials.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Polymer Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Polymer Engineer interviews to help you prepare and succeed.

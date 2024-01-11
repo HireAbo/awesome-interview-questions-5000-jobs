@@ -2,6 +2,8 @@
 
 Welcome to the Sign Language Interpreter Interview Preparation ! This resource is designed to help you ace your Sign Language Interpreter interviews with confidence.
 
+A Sign Language Interpreter in the field of Special Education is a professional who plays a crucial role in facilitating effective communication between deaf or hard-of-hearing students and their peers, teachers, and other staff members. These interpreters possess expertise in American Sign Language (ASL) and are trained to accurately convey spoken language into sign language and vice versa. They work closely with students who have hearing impairments, ensuring they have full access to educational opportunities and resources. Sign Language Interpreters in Special Education settings also collaborate with teachers, parents, and other professionals to develop individualized education plans (IEPs) that meet the unique needs of each student.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sign Language Interpreter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sign Language Interpreter interviews to help you prepare and succeed.

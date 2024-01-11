@@ -2,6 +2,8 @@
 
 Welcome to the Journeyman Electrician Interview Preparation ! This resource is designed to help you ace your Journeyman Electrician interviews with confidence.
 
+A Journeyman Electrician is a skilled tradesperson who has completed their apprenticeship and obtained a license to work independently in the field of electrical work. They possess a wide range of knowledge and expertise in electrical systems, including installation, maintenance, and repair. Journeyman Electricians are responsible for reading and interpreting blueprints, wiring diagrams, and electrical code specifications to determine the layout and installation of electrical wiring, fixtures, and equipment. They have a thorough understanding of safety protocols and ensure that all electrical work is carried out in compliance with the relevant regulations. With their technical skills and experience, Journeyman Electricians play a crucial role in ensuring the safety and functionality of electrical systems in residential, commercial, and industrial settings.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Journeyman Electrician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Journeyman Electrician interviews to help you prepare and succeed.

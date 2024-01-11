@@ -2,6 +2,8 @@
 
 Welcome to the TIG Welder Interview Preparation ! This resource is designed to help you ace your TIG Welder interviews with confidence.
 
+A TIG (Tungsten Inert Gas) Welder is a skilled tradesperson who specializes in the field of welding. TIG welding is a precise and intricate welding technique that involves using a tungsten electrode to create an electric arc for heating and melting the metal to be joined. This type of welding is commonly used for stainless steel, aluminum, and other non-ferrous metals. TIG welders possess a deep understanding of welding principles, metallurgy, and safety protocols. They are proficient in interpreting blueprints and technical drawings to ensure accurate fabrication. TIG welders play a crucial role in various industries, including automotive, aerospace, construction, and manufacturing.
+
 ## 🚀 Overview
 
 Whether you're a seasoned TIG Welder or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in TIG Welder interviews to help you prepare and succeed.

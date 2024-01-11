@@ -2,6 +2,8 @@
 
 Welcome to the Information Technology (IT) Manager Interview Preparation ! This resource is designed to help you ace your Information Technology (IT) Manager interviews with confidence.
 
+The role of an Information Technology (IT) Manager in Library and Information Science (LIS) is crucial in today's digital age. IT Managers are responsible for overseeing and managing the technological infrastructure of libraries and other information organizations. They play a pivotal role in implementing and maintaining information systems, databases, and digital resources used for information management. IT Managers ensure the smooth functioning of hardware, software, networks, and cybersecurity within the organization. They also develop and execute technology strategies, provide technical support, and collaborate with other departments to ensure efficient and effective information services. Overall, IT Managers in LIS are instrumental in leveraging technology to support and enhance information management, access, and delivery.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Information Technology (IT) Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Information Technology (IT) Manager interviews to help you prepare and succeed.

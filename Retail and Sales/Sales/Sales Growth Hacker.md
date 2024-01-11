@@ -2,6 +2,8 @@
 
 Welcome to the Sales Growth Hacker Interview Preparation ! This resource is designed to help you ace your Sales Growth Hacker interviews with confidence.
 
+A Sales Growth Hacker is a professional who focuses on driving sales growth for a company through various innovative strategies and tactics. This role requires strong analytical skills, as well as the ability to identify sales opportunities and implement effective solutions. A Sales Growth Hacker is responsible for analyzing sales data, identifying trends, and developing targeted strategies to increase revenue and market share. They often utilize digital marketing techniques, such as social media advertising and search engine optimization, to reach potential customers and drive sales. Additionally, a Sales Growth Hacker may collaborate with other departments, such as marketing and product development, to optimize sales processes and improve customer satisfaction.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sales Growth Hacker or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sales Growth Hacker interviews to help you prepare and succeed.

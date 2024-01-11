@@ -2,6 +2,8 @@
 
 Welcome to the Furniture Designer Interview Preparation ! This resource is designed to help you ace your Furniture Designer interviews with confidence.
 
+A furniture designer is a skilled professional who combines artistic vision with practical functionality to create aesthetically appealing and functional furniture pieces. They work within the field of architecture, utilizing their understanding of spatial design and ergonomics to create furniture that complements the overall architectural space. Their role involves conceptualizing designs, sketching and prototyping, selecting suitable materials, and collaborating with manufacturers to bring their creations to life. Furniture designers must possess a strong understanding of design principles, an eye for detail, and a deep knowledge of various materials, finishes, and manufacturing techniques. Their work is crucial in enhancing the overall aesthetic appeal and functionality of interior spaces.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Furniture Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Furniture Designer interviews to help you prepare and succeed.

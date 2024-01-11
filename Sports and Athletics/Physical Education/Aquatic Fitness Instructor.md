@@ -2,6 +2,8 @@
 
 Welcome to the Aquatic Fitness Instructor Interview Preparation ! This resource is designed to help you ace your Aquatic Fitness Instructor interviews with confidence.
 
+The role of an Aquatic Fitness Instructor in the field of Sports and Athletics focuses on leading and instructing individuals in various aquatic fitness activities. As a Physical Education professional, an Aquatic Fitness Instructor specializes in teaching water-based exercises and workouts that promote physical fitness and overall well-being. They design and implement fitness programs catered to different age groups and fitness levels, ensuring safety and effective training techniques. Aquatic Fitness Instructors possess strong communication and motivational skills to engage participants and provide guidance on proper form and technique. They play a crucial role in creating a positive and enjoyable environment for individuals to improve their physical fitness through aquatic exercises.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Aquatic Fitness Instructor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Aquatic Fitness Instructor interviews to help you prepare and succeed.

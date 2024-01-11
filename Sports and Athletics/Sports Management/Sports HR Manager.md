@@ -2,6 +2,8 @@
 
 Welcome to the Sports HR Manager Interview Preparation ! This resource is designed to help you ace your Sports HR Manager interviews with confidence.
 
+A Sports HR Manager plays a crucial role in the field of Sports Management, focusing specifically on human resources within the sports industry. This job involves overseeing the recruitment, training, and development of athletes, coaches, and other sports personnel. The Sports HR Manager ensures compliance with employment laws and regulations, implements performance management systems, and handles employee relations. They collaborate with coaches, team managers, and executives to create a positive and effective work environment that enhances the overall performance of the organization. A Sports HR Manager is responsible for managing contracts, negotiating deals, and handling any labor-related issues that may arise in the fast-paced and competitive world of sports and athletics.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sports HR Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sports HR Manager interviews to help you prepare and succeed.

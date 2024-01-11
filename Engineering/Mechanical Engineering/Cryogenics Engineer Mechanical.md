@@ -2,6 +2,8 @@
 
 Welcome to the Cryogenics Engineer (Mechanical) Interview Preparation ! This resource is designed to help you ace your Cryogenics Engineer (Mechanical) interviews with confidence.
 
+A Cryogenics Engineer (Mechanical) is a specialized mechanical engineer who focuses on designing and maintaining cryogenic systems. Cryogenics is a branch of engineering that deals with the production, behavior, and effects of extremely low temperatures. These engineers work in various industries, including aerospace, energy, healthcare, and research. They are responsible for developing and implementing innovative techniques to handle and store cryogenic fluids such as liquid nitrogen and liquid helium. Cryogenics Engineers (Mechanical) also work on designing and optimizing cryogenic equipment, ensuring their safety and efficiency. They collaborate with cross-functional teams to solve complex engineering challenges and contribute to advancements in areas like space exploration, superconductivity, and medical imaging.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cryogenics Engineer (Mechanical) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cryogenics Engineer (Mechanical) interviews to help you prepare and succeed.

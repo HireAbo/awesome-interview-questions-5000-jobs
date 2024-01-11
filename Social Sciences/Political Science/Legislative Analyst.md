@@ -2,6 +2,8 @@
 
 Welcome to the Legislative Analyst Interview Preparation ! This resource is designed to help you ace your Legislative Analyst interviews with confidence.
 
+A Legislative Analyst job in the field of Political Science falls under the broader realm of Social Sciences. As a Legislative Analyst, your primary responsibility is to analyze and evaluate proposed legislation, policies, and initiatives. This role requires in-depth knowledge of political systems, government structures, and legislative processes. You will closely monitor legislative activities, conduct research, and provide recommendations to lawmakers, public officials, or advocacy groups. Additionally, you may assist in drafting legislation, preparing reports, and participating in legislative hearings. A Legislative Analyst must possess exceptional critical thinking, research, and communication skills to effectively contribute to the development and improvement of public policies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Legislative Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Legislative Analyst interviews to help you prepare and succeed.

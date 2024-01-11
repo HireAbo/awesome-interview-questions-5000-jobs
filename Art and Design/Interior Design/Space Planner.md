@@ -2,6 +2,8 @@
 
 Welcome to the Space Planner Interview Preparation ! This resource is designed to help you ace your Space Planner interviews with confidence.
 
+A Space Planner is a professional who specializes in the field of interior design, specifically focusing on the optimal utilization of space in various environments. They possess a deep understanding of spatial planning principles and possess the ability to transform a space into a functional and aesthetically pleasing environment. Space Planners work closely with clients to identify their needs, preferences, and budget constraints to create innovative and efficient designs. They are skilled in creating detailed floor plans, selecting appropriate furniture and fixtures, and coordinating with contractors and suppliers to ensure seamless execution of the design. A Space Planner's expertise lies in their ability to balance practicality, aesthetics, and functionality to create harmonious and personalized spaces.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Space Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Space Planner interviews to help you prepare and succeed.

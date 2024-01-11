@@ -2,6 +2,8 @@
 
 Welcome to the Film Researcher Interview Preparation ! This resource is designed to help you ace your Film Researcher interviews with confidence.
 
+A Film Researcher plays a pivotal role in the world of film production, specifically in the area of film research. As a Film Researcher, your primary responsibility is to gather and analyze crucial information related to a film project. This includes conducting extensive research on various subjects such as historical events, cultural references, locations, and character backgrounds. You will meticulously study scripts, books, articles, and other reference materials to ensure accuracy and authenticity in the film's storytelling. A Film Researcher collaborates closely with the production team, directors, and writers, providing them with valuable insights and data that contribute to the overall success and credibility of the film.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Film Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Film Researcher interviews to help you prepare and succeed.

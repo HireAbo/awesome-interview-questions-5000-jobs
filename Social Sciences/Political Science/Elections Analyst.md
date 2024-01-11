@@ -2,6 +2,8 @@
 
 Welcome to the Elections Analyst Interview Preparation ! This resource is designed to help you ace your Elections Analyst interviews with confidence.
 
+The role of an Elections Analyst in the field of Political Science within the broader discipline of Social Sciences is crucial in understanding and analyzing the democratic processes involved in elections. Elections Analysts are responsible for studying political trends, collecting and analyzing data, and providing insights into the electoral landscape. They closely monitor and evaluate various factors that influence elections, such as voter behavior, campaign strategies, public opinion, and electoral systems. With their expertise, Elections Analysts help political parties, organizations, and governments make informed decisions, develop effective campaign strategies, and better understand the outcomes of elections. Their work contributes to the overall functioning and improvement of democratic processes worldwide.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Elections Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Elections Analyst interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Nuclear Security Officer Interview Preparation ! This resource is designed to help you ace your Nuclear Security Officer interviews with confidence.
 
+A Nuclear Security Officer plays a crucial role in safeguarding nuclear facilities, materials, and technologies from potential threats. As a law enforcement professional specialized in nuclear security, their primary responsibility is to ensure the safety and protection of these highly sensitive sites. These officers are trained to detect, respond to, and neutralize any potential security breaches, including theft, sabotage, or unauthorized access. They may be responsible for conducting security patrols, monitoring surveillance systems, and implementing emergency response procedures. Attention to detail, strong analytical skills, and the ability to remain calm under pressure are essential qualities for a Nuclear Security Officer to effectively perform their duties and maintain the integrity of nuclear facilities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nuclear Security Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nuclear Security Officer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Radar Controller Interview Preparation ! This resource is designed to help you ace your Radar Controller interviews with confidence.
 
+Aviation and Aerospace encompass a vast field of study and professions, with Air Traffic Control being an integral part of ensuring safe and efficient air travel. Within this domain, the role of a Radar Controller holds significant importance. A Radar Controller is responsible for monitoring and directing the movement of aircraft using radar equipment. They work in control towers or radar centers, constantly analyzing radar screens to track the position of airplanes, helicopters, and other flying objects. They communicate with pilots, providing instructions for takeoff, landing, and routing, while also detecting and preventing potential conflicts or hazards. Precision, excellent communication skills, and the ability to handle high-pressure situations are essential traits for a successful Radar Controller.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Radar Controller or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Radar Controller interviews to help you prepare and succeed.

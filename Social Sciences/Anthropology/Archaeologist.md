@@ -2,6 +2,8 @@
 
 Welcome to the Archaeologist Interview Preparation ! This resource is designed to help you ace your Archaeologist interviews with confidence.
 
+An archaeologist is a professional who studies human history and culture through the excavation and analysis of artifacts and remains. As a subfield of anthropology, archaeologists use scientific methods to uncover ancient civilizations, their lifestyles, and their development over time. Their work involves conducting surveys to identify potential excavation sites, carefully excavating artifacts and structures, and meticulously documenting findings. Archaeologists analyze these discoveries to gain insights into past human behavior, social organizations, and technological advancements. They also collaborate with other experts, such as historians and geologists, to interpret and contextualize their findings. Ultimately, archaeologists play a vital role in preserving and understanding our shared human heritage.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Archaeologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Archaeologist interviews to help you prepare and succeed.

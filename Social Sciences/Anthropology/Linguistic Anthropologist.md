@@ -2,6 +2,8 @@
 
 Welcome to the Linguistic Anthropologist Interview Preparation ! This resource is designed to help you ace your Linguistic Anthropologist interviews with confidence.
 
+A Linguistic Anthropologist is a professional who studies the relationship between language and culture within societies. They explore how language shapes and reflects cultural beliefs, behaviors, and social interactions. Linguistic anthropologists conduct research, collect data, and analyze language patterns to gain insights into cultural diversity and human communication. They examine the evolution of languages, language acquisition and socialization, language ideologies, and the impact of language on power dynamics and identity formation. Linguistic anthropologists often work closely with communities, conducting fieldwork and interviews to understand language variation, dialects, and local linguistic practices. Their findings contribute to the understanding of human communication and cultural diversity, informing various fields such as education, policy-making, and language preservation initiatives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Linguistic Anthropologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Linguistic Anthropologist interviews to help you prepare and succeed.

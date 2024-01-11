@@ -2,6 +2,8 @@
 
 Welcome to the Fashion PR Specialist Interview Preparation ! This resource is designed to help you ace your Fashion PR Specialist interviews with confidence.
 
+A Fashion PR Specialist is a professional who specializes in managing the public image and communication strategies of fashion brands and industry professionals. They serve as the link between fashion brands and the media, ensuring effective and strategic communication to enhance brand visibility and reputation. Fashion PR Specialists are responsible for creating and executing publicity campaigns, organizing fashion events, coordinating with fashion influencers and celebrities, and managing media relations. They possess excellent communication skills, creative thinking, and a strong understanding of the fashion industry. A successful Fashion PR Specialist is able to maintain strong relationships with media outlets, bloggers, and industry professionals to generate positive publicity and brand awareness.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Fashion PR Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Fashion PR Specialist interviews to help you prepare and succeed.

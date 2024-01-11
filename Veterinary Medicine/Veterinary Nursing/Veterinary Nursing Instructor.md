@@ -2,6 +2,12 @@
 
 Welcome to the Veterinary Nursing Instructor Interview Preparation ! This resource is designed to help you ace your Veterinary Nursing Instructor interviews with confidence.
 
+Veterinary Medicine is a branch of healthcare that focuses on the diagnosis, treatment, and prevention of illnesses and injuries in animals. It encompasses a wide range of disciplines, including surgery, radiology, dentistry, and internal medicine. 
+
+Within the field of Veterinary Medicine, Veterinary Nursing plays a crucial role in providing comprehensive care to animals. Veterinary Nurses assist veterinarians in various tasks such as administering medications, conducting physical examinations, and performing routine procedures. They are responsible for monitoring patients during surgeries, maintaining medical records, and educating pet owners on proper animal care.
+
+A Veterinary Nursing Instructor is an experienced and knowledgeable professional who trains aspiring Veterinary Nurses. They develop and deliver educational programs, teach theoretical and practical classes, and assess students' progress. They also stay up-to-date with the latest advancements in Veterinary Medicine and ensure that their students are well-prepared for their future careers as Veterinary Nurses.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Veterinary Nursing Instructor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Veterinary Nursing Instructor interviews to help you prepare and succeed.

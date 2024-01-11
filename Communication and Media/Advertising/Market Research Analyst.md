@@ -2,6 +2,8 @@
 
 Welcome to the Market Research Analyst Interview Preparation ! This resource is designed to help you ace your Market Research Analyst interviews with confidence.
 
+A Market Research Analyst is a vital role within the field of Advertising, specifically in the area of Market Research. This job involves collecting and analyzing data to help companies make informed decisions regarding their marketing strategies. Communication and Media play a crucial role in this job as it involves gathering data through various channels such as surveys, focus groups, and online research. The analyst then interprets this data and presents it in a meaningful way to clients or stakeholders. Strong communication skills are essential in order to effectively communicate findings and recommendations. This job requires a deep understanding of consumer behavior, market trends, and advertising strategies, making it an exciting and challenging career choice within the field of Communication and Media.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Market Research Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Market Research Analyst interviews to help you prepare and succeed.

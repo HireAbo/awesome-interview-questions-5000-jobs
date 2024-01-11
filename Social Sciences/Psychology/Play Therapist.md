@@ -2,6 +2,8 @@
 
 Welcome to the Play Therapist Interview Preparation ! This resource is designed to help you ace your Play Therapist interviews with confidence.
 
+A Play Therapist is a specialized role within the field of psychology, focusing on the use of play as a therapeutic tool to help children overcome emotional, behavioral, and mental health challenges. Play therapists work with children in a safe and supportive environment, utilizing various play techniques such as art, storytelling, puppets, and games to facilitate self-expression, communication, and problem-solving skills. They assess and diagnose children's emotional needs, develop treatment plans, and provide individual or group therapy sessions. Play therapists also collaborate with parents, teachers, and other professionals to ensure the child's overall well-being and progress. Their work aims to promote healing, growth, and positive development in children experiencing difficulties.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Play Therapist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Play Therapist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Sales Technology Specialist Interview Preparation ! This resource is designed to help you ace your Sales Technology Specialist interviews with confidence.
 
+The role of a Sales Technology Specialist in the retail and sales industry is to leverage technology to drive sales and enhance the overall customer experience. Sales Technology Specialists are responsible for implementing and managing sales software and systems, such as customer relationship management (CRM) platforms, point of sale (POS) systems, and e-commerce platforms. They work closely with sales teams to identify technological needs, train employees on new tools and systems, and troubleshoot any technical issues that may arise. By leveraging the latest sales technologies, Sales Technology Specialists help streamline sales processes, improve data accuracy, and ultimately increase sales revenue for the organization.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sales Technology Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sales Technology Specialist interviews to help you prepare and succeed.

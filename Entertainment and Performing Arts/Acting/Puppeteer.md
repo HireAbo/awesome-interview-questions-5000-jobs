@@ -2,6 +2,8 @@
 
 Welcome to the Puppeteer Interview Preparation ! This resource is designed to help you ace your Puppeteer interviews with confidence.
 
+A puppeteer is a skilled professional who brings inanimate objects to life through the art of puppetry. In the realm of entertainment and performing arts, acting as a puppeteer involves mastering the techniques of manipulating puppets to create captivating performances. These skilled individuals are responsible for designing, constructing, and operating various types of puppets, including hand puppets, marionettes, and animatronics. They meticulously choreograph movements, control facial expressions, and coordinate voiceovers to breathe life into their creations. Whether performing on stage, in film or television productions, or even at special events, puppeteers possess exceptional acting skills and a keen eye for storytelling, making them an integral part of any production that involves puppetry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Puppeteer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Puppeteer interviews to help you prepare and succeed.

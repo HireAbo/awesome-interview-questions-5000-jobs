@@ -2,6 +2,8 @@
 
 Welcome to the Radio Station Manager Interview Preparation ! This resource is designed to help you ace your Radio Station Manager interviews with confidence.
 
+A Radio Station Manager is responsible for overseeing the operations of a radio station, ensuring that it runs smoothly and efficiently. They play a crucial role in managing the station's programming, staff, and overall performance. The manager is involved in making strategic decisions related to content, marketing, and audience engagement, aiming to attract and retain listeners. They also handle budgeting, financial management, and collaborate with advertising and sales teams to generate revenue. Additionally, a Radio Station Manager may be involved in hiring and training staff, maintaining equipment, and adhering to industry regulations. Excellent communication, leadership, and organizational skills are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Radio Station Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Radio Station Manager interviews to help you prepare and succeed.

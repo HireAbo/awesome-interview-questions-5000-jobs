@@ -2,6 +2,8 @@
 
 Welcome to the Transportation Analyst Interview Preparation ! This resource is designed to help you ace your Transportation Analyst interviews with confidence.
 
+A Transportation Analyst plays a crucial role in the field of Transportation Planning within the broader scope of Transportation and Logistics. This job involves analyzing and optimizing transportation operations to ensure efficient movement of goods and materials. The analyst is responsible for evaluating logistics data, such as transportation costs, delivery times, and routes, to identify areas for improvement. They use various analytical tools and software to develop transportation plans that minimize costs and maximize efficiency. Additionally, the Transportation Analyst collaborates with different stakeholders, including suppliers, carriers, and internal teams, to coordinate and execute transportation strategies. This role requires strong analytical, problem-solving, and communication skills to contribute to the seamless functioning of transportation operations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Transportation Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Transportation Analyst interviews to help you prepare and succeed.

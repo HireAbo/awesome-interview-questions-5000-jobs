@@ -2,6 +2,8 @@
 
 Welcome to the Utility Digital Transformation Manager Interview Preparation ! This resource is designed to help you ace your Utility Digital Transformation Manager interviews with confidence.
 
+A Utility Digital Transformation Manager is responsible for leading and managing the digital transformation initiatives within the energy and utilities sector. They play a crucial role in optimizing and enhancing utility operations by leveraging modern technologies and innovative solutions. This job entails collaborating with cross-functional teams to develop and execute strategies for digitalization, process automation, and data analytics. The Utility Digital Transformation Manager is also responsible for evaluating and implementing digital tools and platforms to improve customer engagement, enhance operational efficiency, and drive sustainability. This role requires a deep understanding of utility management, emerging technologies, and industry trends to drive successful digital transformation initiatives in the energy and utilities sector.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Utility Digital Transformation Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Utility Digital Transformation Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Magistrate Interview Preparation ! This resource is designed to help you ace your Magistrate interviews with confidence.
 
+A magistrate is an essential role within the legal system, responsible for upholding justice and maintaining order in the community. They play a crucial role in the criminal justice system by presiding over various legal proceedings such as bail hearings, issuing search warrants, and conducting preliminary hearings. Magistrates possess a comprehensive understanding of the law and its applications, ensuring fair and impartial decisions are made. They have the authority to make determinations on legal matters, including setting bail, sentencing, and granting or denying requests for warrants. Magistrates promote the principles of justice, ensuring that the rights of individuals are protected while maintaining public safety.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Magistrate or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Magistrate interviews to help you prepare and succeed.

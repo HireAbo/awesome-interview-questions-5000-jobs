@@ -2,6 +2,8 @@
 
 Welcome to the Medical Office Manager Interview Preparation ! This resource is designed to help you ace your Medical Office Manager interviews with confidence.
 
+Healthcare and Medicine are crucial sectors that focus on providing quality medical care and ensuring the well-being of individuals. Within this broad field, Healthcare Administration encompasses various roles, and one such role is that of a Medical Office Manager. A Medical Office Manager holds a vital position in overseeing the day-to-day operations of a medical facility, including managing administrative tasks, coordinating staff schedules, and ensuring efficient patient flow. They are responsible for maintaining medical records, implementing office policies, and handling financial matters. Additionally, they may liaise with insurance companies, organize staff training, and address patient concerns. Ultimately, the role of a Medical Office Manager is pivotal in maintaining a well-functioning medical office and delivering exceptional patient care.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Medical Office Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Medical Office Manager interviews to help you prepare and succeed.

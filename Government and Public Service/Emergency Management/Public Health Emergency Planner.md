@@ -2,6 +2,8 @@
 
 Welcome to the Public Health Emergency Planner Interview Preparation ! This resource is designed to help you ace your Public Health Emergency Planner interviews with confidence.
 
+A Public Health Emergency Planner job is a crucial role within the government and public service sector, specifically in the field of emergency management. This position focuses on planning and coordinating responses to public health emergencies, such as disease outbreaks, natural disasters, or bioterrorism incidents. Public health emergency planners work closely with various agencies, healthcare providers, and community organizations to develop comprehensive emergency response strategies. They analyze potential risks, assess resources, and create preparedness plans that prioritize public safety and minimize the impact of emergencies on public health. This role requires strong organizational skills, problem-solving abilities, and the ability to work effectively under pressure to ensure the well-being of the community during critical situations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Public Health Emergency Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Public Health Emergency Planner interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Electrical Designer Interview Preparation ! This resource is designed to help you ace your Electrical Designer interviews with confidence.
 
+An Electrical Designer is a skilled tradesperson who specializes in the design and installation of electrical systems in various structures. They play a crucial role in ensuring the safe and efficient operation of electrical equipment and systems. The job of an Electrical Designer involves creating and interpreting electrical blueprints, determining the proper placement of electrical outlets, lighting fixtures, and other electrical components, and calculating electrical load requirements. They also collaborate with architects, engineers, and other professionals to ensure compliance with electrical codes and regulations. Strong problem-solving skills, attention to detail, and knowledge of electrical codes and safety procedures are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Electrical Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Electrical Designer interviews to help you prepare and succeed.

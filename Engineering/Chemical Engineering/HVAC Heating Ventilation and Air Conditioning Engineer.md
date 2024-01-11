@@ -2,6 +2,8 @@
 
 Welcome to the HVAC (Heating, Ventilation, and Air Conditioning) Engineer Interview Preparation ! This resource is designed to help you ace your HVAC (Heating, Ventilation, and Air Conditioning) Engineer interviews with confidence.
 
+The HVAC Engineer job is a specialized role within the field of Chemical Engineering that focuses on designing, implementing, and maintaining heating, ventilation, and air conditioning systems. HVAC Engineers play a crucial role in ensuring comfortable and safe indoor environments in various settings such as residential, commercial, and industrial buildings. They are responsible for analyzing building requirements, designing energy-efficient systems, selecting appropriate equipment, and overseeing installation and maintenance processes. Additionally, HVAC Engineers are involved in assessing air quality, humidity levels, and thermal comfort, and developing solutions to optimize energy consumption. Their expertise in thermodynamics, fluid mechanics, and heat transfer makes them vital contributors to the field of Chemical Engineering.
+
 ## 🚀 Overview
 
 Whether you're a seasoned HVAC (Heating, Ventilation, and Air Conditioning) Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in HVAC (Heating, Ventilation, and Air Conditioning) Engineer interviews to help you prepare and succeed.

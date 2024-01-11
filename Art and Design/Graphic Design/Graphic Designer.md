@@ -2,6 +2,8 @@
 
 Welcome to the Graphic Designer Interview Preparation ! This resource is designed to help you ace your Graphic Designer interviews with confidence.
 
+A graphic designer is a creative professional who combines art and design to communicate ideas visually. They utilize various techniques and software to create visually appealing and impactful designs for a range of mediums, including print, digital, and multimedia platforms. Graphic designers are responsible for understanding clients' requirements and objectives and translating them into visually compelling designs. They must possess a keen eye for aesthetics, color theory, typography, and layout design. Additionally, graphic designers need to stay updated with the latest design trends and technologies to produce innovative and engaging visual content that effectively conveys the desired message. Ultimately, their work plays a crucial role in shaping the visual identity and communication of brands, businesses, and organizations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Graphic Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Graphic Designer interviews to help you prepare and succeed.

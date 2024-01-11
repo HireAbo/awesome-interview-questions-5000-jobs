@@ -2,6 +2,8 @@
 
 Welcome to the Mental Health Social Worker Interview Preparation ! This resource is designed to help you ace your Mental Health Social Worker interviews with confidence.
 
+Social Work and Human Services encompass a range of professions dedicated to improving the well-being of individuals, families, and communities. Within the field of Social Work, Mental Health Social Workers play a crucial role in supporting individuals with mental health issues. These professionals provide counseling, therapy, and support to clients struggling with various mental health conditions such as depression, anxiety, addiction, and schizophrenia. Mental Health Social Workers collaborate with other healthcare professionals, including psychiatrists and psychologists, to develop comprehensive treatment plans. They advocate for their clients' rights, connect them with appropriate resources, and empower them to reach their full potential. Mental Health Social Workers play an essential role in promoting mental wellness and enhancing the quality of life for those in need.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Mental Health Social Worker or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Mental Health Social Worker interviews to help you prepare and succeed.

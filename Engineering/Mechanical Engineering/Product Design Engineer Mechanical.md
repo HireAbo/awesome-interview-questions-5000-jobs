@@ -2,6 +2,8 @@
 
 Welcome to the Product Design Engineer (Mechanical) Interview Preparation ! This resource is designed to help you ace your Product Design Engineer (Mechanical) interviews with confidence.
 
+A Product Design Engineer (Mechanical) is a professional who combines engineering principles with creative thinking to design and develop innovative products. They play a critical role in the manufacturing industry by conceptualizing, creating, and improving products that meet the needs of consumers. These engineers use their technical expertise to design and analyze mechanical systems, components, and structures. They work closely with cross-functional teams, including industrial designers and manufacturing engineers, to ensure the product's functionality, aesthetics, and manufacturability. Product Design Engineers also utilize computer-aided design (CAD) software and other tools to create detailed models and prototypes. Their ultimate goal is to design products that are reliable, cost-effective, and exceed customer expectations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Product Design Engineer (Mechanical) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Product Design Engineer (Mechanical) interviews to help you prepare and succeed.

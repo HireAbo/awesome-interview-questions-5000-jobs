@@ -2,6 +2,8 @@
 
 Welcome to the Diplomat Interview Preparation ! This resource is designed to help you ace your Diplomat interviews with confidence.
 
+A diplomat is a professional who represents their country's interests and promotes diplomatic relations with other nations. As a vital component of political science, this field focuses on studying and analyzing the behavior of governments, international organizations, and political systems. Diplomats play a crucial role in negotiating and mediating conflicts, fostering international cooperation, and advocating for their country's foreign policy objectives. They are responsible for engaging in diplomatic activities, such as attending meetings, conferences, and official events, as well as conducting research and analysis on international issues. A successful diplomat possesses excellent communication, negotiation, and problem-solving skills, along with a deep understanding of international relations and political dynamics.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Diplomat or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Diplomat interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Physical Therapist Interview Preparation ! This resource is designed to help you ace your Physical Therapist interviews with confidence.
 
+A Physical Therapist specializing in Special Education plays a crucial role in providing support and assistance to students with physical disabilities or impairments. These professionals work closely with students, their families, and teachers to develop personalized treatment plans to improve their physical abilities and overall well-being. Physical Therapists in Special Education settings assess students' motor skills, balance, and coordination, and design therapeutic exercises and activities to enhance their strength, flexibility, and mobility. They also collaborate with other healthcare professionals to ensure a comprehensive approach to their students' needs. By addressing physical limitations and promoting independence, Physical Therapists make a significant impact on the educational journey and quality of life of students with special needs.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Physical Therapist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Physical Therapist interviews to help you prepare and succeed.

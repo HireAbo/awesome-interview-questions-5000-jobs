@@ -2,6 +2,8 @@
 
 Welcome to the Records Analyst Interview Preparation ! This resource is designed to help you ace your Records Analyst interviews with confidence.
 
+A Records Analyst is a vital role within the field of Library and Information Science, specifically in the area of Information Management. This job involves managing and organizing records to ensure efficient and effective access to information. Records Analysts are responsible for developing and implementing record management systems, including policies and procedures for the creation, retrieval, and retention of records. They also oversee the preservation and disposal of records in compliance with legal and regulatory requirements. Additionally, Records Analysts may provide training and support to staff members on record management practices. This role requires strong analytical skills, attention to detail, and a thorough understanding of information management principles.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Records Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Records Analyst interviews to help you prepare and succeed.

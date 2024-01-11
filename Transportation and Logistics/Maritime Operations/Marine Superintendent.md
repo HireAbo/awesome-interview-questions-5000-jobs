@@ -2,6 +2,8 @@
 
 Welcome to the Marine Superintendent Interview Preparation ! This resource is designed to help you ace your Marine Superintendent interviews with confidence.
 
+A Marine Superintendent plays a crucial role in the field of Transportation and Logistics, specifically in Maritime Operations. Responsible for overseeing and managing various aspects of marine operations, a Marine Superintendent ensures the smooth and efficient functioning of vessels, crew, and cargo. They are responsible for monitoring and maintaining the safety and compliance of ships, implementing and improving operational procedures, and coordinating with various stakeholders such as ship owners, port authorities, and regulatory bodies. Additionally, Marine Superintendents oversee vessel inspections, maintenance, and repairs, as well as managing the training and development of crew members. Their expertise and attention to detail contribute to the overall success and profitability of marine operations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Marine Superintendent or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Marine Superintendent interviews to help you prepare and succeed.

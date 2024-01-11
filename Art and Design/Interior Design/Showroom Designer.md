@@ -2,6 +2,8 @@
 
 Welcome to the Showroom Designer Interview Preparation ! This resource is designed to help you ace your Showroom Designer interviews with confidence.
 
+A showroom designer is a professional who specializes in creating visually stunning and functional spaces for showcasing products in a showroom. They combine their artistic flair with an understanding of the client's brand and target audience to create a captivating environment that enhances the overall shopping experience. Showroom designers are responsible for selecting and arranging furniture, lighting, color schemes, and decorative elements to create an inviting atmosphere that reflects the brand's identity and values. They collaborate closely with clients, architects, and vendors to ensure that the design aligns with the client's vision and budget. A showroom designer must possess a keen eye for detail, strong creativity, and excellent communication skills to successfully bring a brand's story to life through interior design.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Showroom Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Showroom Designer interviews to help you prepare and succeed.

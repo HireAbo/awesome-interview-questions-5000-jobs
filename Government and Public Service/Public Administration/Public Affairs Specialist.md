@@ -2,6 +2,8 @@
 
 Welcome to the Public Affairs Specialist Interview Preparation ! This resource is designed to help you ace your Public Affairs Specialist interviews with confidence.
 
+A Public Affairs Specialist is a crucial role in the field of Public Administration, working within the government and public service sector. These professionals are responsible for managing the communication between government agencies and the public, ensuring transparency and promoting understanding of government policies and initiatives. They develop strategic communication plans, organize press conferences, and develop messaging to disseminate information to the public through various channels, including media, social media platforms, and public events. Public Affairs Specialists play a pivotal role in shaping public opinion, building relationships with stakeholders, and enhancing the government's reputation. They possess strong communication, research, and analytical skills, along with a deep understanding of government policies and procedures.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Public Affairs Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Public Affairs Specialist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Front-End Developer Interview Preparation ! This resource is designed to help you ace your Front-End Developer interviews with confidence.
 
+A Front-End Developer is a crucial role in the field of Information Technology (IT) and software development. As a Front-End Developer, your primary responsibility is to create visually appealing and user-friendly interfaces for websites and applications. You will collaborate with designers and back-end developers to translate their concepts into functional code using programming languages such as HTML, CSS, and JavaScript. Your expertise lies in understanding user experience (UX) design principles and implementing them to enhance user engagement and satisfaction. Additionally, you will be responsible for optimizing website performance and ensuring cross-browser compatibility. A Front-End Developer plays a vital role in shaping the overall user experience and interface of digital products.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Front-End Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Front-End Developer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Data Analyst (Astronomy) Interview Preparation ! This resource is designed to help you ace your Data Analyst (Astronomy) interviews with confidence.
 
+Astronomy is a fascinating field of science that explores celestial objects and phenomena in the universe. It relies on research and data analysis to uncover the mysteries of the cosmos. A data analyst in astronomy plays a crucial role in processing and interpreting massive amounts of observational and experimental data. They develop algorithms and statistical models to analyze data collected from telescopes, satellites, and other instruments. By using advanced software and programming languages, these professionals identify patterns, trends, and correlations to make meaningful discoveries about the nature of the universe. Their work contributes to a better understanding of the cosmos and helps astronomers make informed decisions in their research and investigations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Analyst (Astronomy) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Analyst (Astronomy) interviews to help you prepare and succeed.

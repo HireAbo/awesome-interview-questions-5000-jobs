@@ -2,6 +2,12 @@
 
 Welcome to the Spacecraft Design Engineer Interview Preparation ! This resource is designed to help you ace your Spacecraft Design Engineer interviews with confidence.
 
+Aerospace technology has revolutionized the way we explore and understand the universe. At the forefront of this field is the role of a spacecraft design engineer. These professionals play a crucial role in the development and construction of spacecraft that are used for various purposes, such as satellite deployment, extraterrestrial exploration, and even space tourism.
+
+As a spacecraft design engineer, you will be responsible for conceptualizing, designing, and testing spacecraft components and systems. You will work closely with a team of experts to ensure that the spacecraft meets all the technical and safety requirements. This job requires a strong background in engineering, specifically in areas such as aerodynamics, propulsion systems, and materials science.
+
+In addition to technical skills, a spacecraft design engineer must possess excellent problem-solving abilities and attention to detail. The ability to work under pressure and tight deadlines is also crucial, as the field of aerospace technology is constantly evolving. If you have a passion for space exploration, innovation, and a desire to push the boundaries of human knowledge, a career as a spacecraft design engineer may be your perfect fit.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Spacecraft Design Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Spacecraft Design Engineer interviews to help you prepare and succeed.

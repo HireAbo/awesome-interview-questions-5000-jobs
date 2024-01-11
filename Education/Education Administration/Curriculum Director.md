@@ -2,6 +2,8 @@
 
 Welcome to the Curriculum Director Interview Preparation ! This resource is designed to help you ace your Curriculum Director interviews with confidence.
 
+A Curriculum Director in the field of Education Administration plays a crucial role in shaping the educational experience of students. As a Curriculum Director, their primary responsibility is to oversee and develop the curriculum for an educational institution or school district. They work closely with teachers, administrators, and other stakeholders to ensure that the curriculum is aligned with educational standards, meets the needs of students, and promotes effective instruction. Additionally, they conduct research, analyze data, and gather feedback to continuously improve the curriculum. Strong leadership, excellent communication skills, and a deep understanding of educational trends and best practices are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Curriculum Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Curriculum Director interviews to help you prepare and succeed.

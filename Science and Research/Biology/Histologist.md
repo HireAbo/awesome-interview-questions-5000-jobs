@@ -2,6 +2,8 @@
 
 Welcome to the Histologist Interview Preparation ! This resource is designed to help you ace your Histologist interviews with confidence.
 
+A histologist is a professional who specializes in the field of biology and research, specifically focusing on the study of tissues and cells. They play a crucial role in understanding the structure and function of various organisms, including humans. Histologists are responsible for preparing tissue samples, staining them, and examining them under a microscope to identify any abnormal cellular activity or diseases. They collaborate with other scientists and researchers to contribute to the advancement of medical treatments and diagnostics. Additionally, histologists may also be involved in conducting experiments, analyzing data, and presenting findings to contribute to scientific literature. Their work is vital in the field of biology and research, aiding in the diagnosis, treatment, and prevention of diseases.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Histologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Histologist interviews to help you prepare and succeed.

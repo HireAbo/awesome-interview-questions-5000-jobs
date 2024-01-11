@@ -2,6 +2,8 @@
 
 Welcome to the Data Science Technical Writer Interview Preparation ! This resource is designed to help you ace your Data Science Technical Writer interviews with confidence.
 
+Information Technology (IT) is a broad field that encompasses the use of computer systems and software to store, retrieve, transmit, and manipulate data. It involves the management and processing of information through various technologies and tools. Within the field of IT, Data Science has emerged as a specialized area that focuses on extracting meaningful insights from large and complex datasets. Data Science combines statistical analysis, machine learning, and programming skills to analyze and interpret data and make data-driven decisions. A Data Science Technical Writer is a professional who possesses both technical knowledge in Data Science and excellent writing skills. They are responsible for creating clear and concise documentation, including technical guides, user manuals, and other materials, to help users understand and use Data Science tools and technologies effectively.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Science Technical Writer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Science Technical Writer interviews to help you prepare and succeed.

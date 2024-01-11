@@ -2,6 +2,8 @@
 
 Welcome to the Library Supervisor Interview Preparation ! This resource is designed to help you ace your Library Supervisor interviews with confidence.
 
+Library and Information Science (LIS) is a multidisciplinary field that focuses on the organization, management, and retrieval of information in various formats. Within this field, librarianship is a specific area that involves the efficient and effective provision of library services. One key role in librarianship is that of a Library Supervisor. Library Supervisors are responsible for overseeing the day-to-day operations of a library, managing staff, and ensuring the smooth functioning of library services. They play a crucial role in implementing and maintaining library policies, coordinating collection development, and providing excellent customer service. Library Supervisors must possess strong leadership, organizational, and communication skills to effectively support and enhance library services for the benefit of the community they serve.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Library Supervisor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Library Supervisor interviews to help you prepare and succeed.

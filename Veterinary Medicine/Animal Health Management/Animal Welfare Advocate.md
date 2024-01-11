@@ -2,6 +2,8 @@
 
 Welcome to the Animal Welfare Advocate Interview Preparation ! This resource is designed to help you ace your Animal Welfare Advocate interviews with confidence.
 
+A Veterinary Medicine Animal Health Management Animal Welfare Advocate is a professional who plays a crucial role in ensuring the well-being and welfare of animals. They are responsible for advocating for ethical and humane treatment of animals in various settings, including veterinary clinics, farms, zoos, and research facilities. These professionals work closely with veterinarians and other animal care providers to develop and implement policies and practices that prioritize animal welfare. They also educate the public and raise awareness about animal welfare issues, promoting responsible pet ownership and ensuring compliance with animal welfare laws. Their dedication and passion contribute to the overall welfare and health of animals in society.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Animal Welfare Advocate or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Animal Welfare Advocate interviews to help you prepare and succeed.

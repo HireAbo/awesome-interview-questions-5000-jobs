@@ -2,6 +2,8 @@
 
 Welcome to the Utility Distribution Manager Interview Preparation ! This resource is designed to help you ace your Utility Distribution Manager interviews with confidence.
 
+A Utility Distribution Manager is responsible for overseeing the efficient distribution of energy and utilities to customers. They play a crucial role in managing the infrastructure and ensuring a reliable supply of electricity, gas, water, or other utilities. This job involves coordinating with various departments, including engineering, maintenance, and customer service, to ensure the smooth operation of utility distribution systems. Utility Distribution Managers also monitor and analyze data related to energy consumption and distribution to identify areas for improvement and optimize resource allocation. They must have strong leadership skills, technical knowledge of utility systems, and the ability to adapt to changing industry regulations and technologies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Utility Distribution Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Utility Distribution Manager interviews to help you prepare and succeed.

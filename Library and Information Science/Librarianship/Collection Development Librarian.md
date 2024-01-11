@@ -2,6 +2,8 @@
 
 Welcome to the Collection Development Librarian Interview Preparation ! This resource is designed to help you ace your Collection Development Librarian interviews with confidence.
 
+A Collection Development Librarian is a vital role within the field of Library and Information Science, specifically in the area of Librarianship. This position focuses on the strategic development and management of library collections to meet the needs of its users. Collection Development Librarians work closely with other librarians, researchers, faculty, and students to identify and acquire relevant materials, including books, journals, databases, digital resources, and more. They possess a deep understanding of different subject areas and their corresponding resources, staying up-to-date with emerging trends and technologies. Their expertise allows them to curate collections that are diverse, comprehensive, and aligned with the library's mission and goals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Collection Development Librarian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Collection Development Librarian interviews to help you prepare and succeed.

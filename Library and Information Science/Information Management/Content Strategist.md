@@ -2,6 +2,8 @@
 
 Welcome to the Content Strategist Interview Preparation ! This resource is designed to help you ace your Content Strategist interviews with confidence.
 
+A Content Strategist is a professional within the field of Library and Information Science, specializing in Information Management. They play a crucial role in organizing, managing, and optimizing digital content for various platforms and audiences. A Content Strategist is responsible for developing and implementing content strategies that align with organizational goals and user needs. They analyze and assess information resources, ensuring they are accurate, relevant, and accessible. Additionally, Content Strategists collaborate with cross-functional teams to create engaging and user-friendly content, provide recommendations for improving content management systems, and monitor performance metrics to measure the effectiveness of content strategies. Overall, a Content Strategist is a pivotal role in ensuring that information is effectively managed and delivered to users.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Content Strategist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Content Strategist interviews to help you prepare and succeed.

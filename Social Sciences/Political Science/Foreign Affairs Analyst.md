@@ -2,6 +2,8 @@
 
 Welcome to the Foreign Affairs Analyst Interview Preparation ! This resource is designed to help you ace your Foreign Affairs Analyst interviews with confidence.
 
+A Foreign Affairs Analyst is a professional who specializes in studying and analyzing international relations and foreign policy. They play a crucial role in understanding the complexities of global affairs and providing insights to policymakers, governments, and organizations. As part of the field of Political Science, Foreign Affairs Analysts examine and interpret diplomatic relations, trade policies, security issues, and cultural dynamics between countries. They conduct in-depth research, monitor international trends, and assess the potential impact of political decisions. With their expertise, they offer recommendations and strategies to shape foreign policies, promote peaceful resolutions, and enhance international cooperation. Foreign Affairs Analysts are vital in influencing and shaping the course of international relations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Foreign Affairs Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Foreign Affairs Analyst interviews to help you prepare and succeed.

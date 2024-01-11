@@ -2,6 +2,8 @@
 
 Welcome to the Elementary School Physical Education Teacher Interview Preparation ! This resource is designed to help you ace your Elementary School Physical Education Teacher interviews with confidence.
 
+A job as an Elementary School Physical Education Teacher involves teaching and promoting the importance of sports and athletics in the lives of young children. As a Physical Education Teacher, you are responsible for creating a positive and inclusive learning environment where students can develop their physical abilities, coordination, and teamwork skills. You will design and implement age-appropriate lesson plans, incorporating a variety of sports and activities to engage and motivate students. Additionally, you will assess students' progress and provide feedback to help them improve their performance. This role requires excellent communication and interpersonal skills to effectively collaborate with students, parents, and other faculty members.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Elementary School Physical Education Teacher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Elementary School Physical Education Teacher interviews to help you prepare and succeed.

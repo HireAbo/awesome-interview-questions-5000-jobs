@@ -2,6 +2,8 @@
 
 Welcome to the Test Pilot Interview Preparation ! This resource is designed to help you ace your Test Pilot interviews with confidence.
 
+A Test Pilot is a highly skilled aviation professional who specializes in the evaluation and testing of new aircraft or modifications to existing aircraft. They play a critical role in ensuring the safety, performance, and reliability of aircraft before they are certified for public use. Test Pilots possess extensive knowledge of aviation systems, aerodynamics, and flight mechanics. They are responsible for conducting flight tests, collecting data, analyzing performance, and identifying any potential issues or improvements. Test Pilots work closely with engineering teams and manufacturers to provide valuable feedback and make necessary adjustments. Their expertise and attention to detail are crucial in advancing aviation technology and ensuring the highest levels of safety in the aerospace industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Test Pilot or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Test Pilot interviews to help you prepare and succeed.

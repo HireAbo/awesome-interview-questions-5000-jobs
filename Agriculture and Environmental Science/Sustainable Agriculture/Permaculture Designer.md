@@ -2,6 +2,8 @@
 
 Welcome to the Permaculture Designer Interview Preparation ! This resource is designed to help you ace your Permaculture Designer interviews with confidence.
 
+Agriculture and Environmental Science encompass the study and application of sustainable practices in food production and preservation. Within this field, one fascinating job role is that of a Permaculture Designer. Permaculture is a holistic approach to agriculture that mimics natural ecosystems, emphasizing self-sufficiency, biodiversity, and regenerative practices. A Permaculture Designer is responsible for creating and implementing sustainable agricultural systems that maximize productivity while minimizing environmental impact. They utilize their knowledge of ecological principles to design landscapes, select appropriate plants and animals, and integrate renewable energy sources. By integrating social, economic, and environmental factors, these professionals play a crucial role in promoting sustainable agriculture and fostering resilient ecosystems for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Permaculture Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Permaculture Designer interviews to help you prepare and succeed.

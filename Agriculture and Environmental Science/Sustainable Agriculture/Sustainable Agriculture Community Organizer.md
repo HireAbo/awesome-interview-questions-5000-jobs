@@ -2,6 +2,8 @@
 
 Welcome to the Sustainable Agriculture Community Organizer Interview Preparation ! This resource is designed to help you ace your Sustainable Agriculture Community Organizer interviews with confidence.
 
+Agriculture and Environmental Science focuses on the intersection of agriculture and the environment, aiming to find sustainable solutions to feed the growing global population while preserving natural resources. In this field, Sustainable Agriculture Community Organizers play a crucial role. These professionals work to create and maintain sustainable agriculture practices within local communities. They collaborate with farmers, policymakers, and community members to promote environmentally friendly farming techniques, such as organic farming, crop rotation, and water conservation. Sustainable Agriculture Community Organizers also organize workshops, educational programs, and community events to raise awareness about sustainable agriculture and its benefits. Their goal is to foster a resilient and environmentally conscious agricultural system that ensures long-term food security and environmental sustainability.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sustainable Agriculture Community Organizer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sustainable Agriculture Community Organizer interviews to help you prepare and succeed.

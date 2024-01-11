@@ -2,6 +2,12 @@
 
 Welcome to the Real Estate Appraisal Reviewer Interview Preparation ! This resource is designed to help you ace your Real Estate Appraisal Reviewer interviews with confidence.
 
+Real Estate and Property Management involves the buying, selling, leasing, and maintaining of properties, including residential, commercial, and industrial real estate. Professionals in this field handle various aspects of real estate transactions, such as marketing, property valuation, tenant management, and property maintenance.
+
+Within the realm of Real Estate Appraisal, professionals specialize in evaluating the value of properties to determine their market worth. They conduct thorough inspections, collect relevant data, and analyze market trends to provide accurate appraisals. These appraisals are crucial for buyers, sellers, lenders, and investors in making informed decisions regarding property transactions.
+
+Real Estate Appraisal Reviewers play a critical role in the appraisal process. They review appraisals completed by licensed appraisers to ensure accuracy and compliance with industry standards and regulations. By carefully examining appraisal reports, comparing data, and conducting additional research if necessary, they provide a quality assurance mechanism for the real estate industry, promoting transparency and reliability in property valuations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Appraisal Reviewer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Appraisal Reviewer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Back-End Developer Interview Preparation ! This resource is designed to help you ace your Back-End Developer interviews with confidence.
 
+A Back-End Developer is a vital role in the field of Information Technology (IT) and Software Development. They are responsible for designing, developing, and maintaining the server-side logic of software applications. Back-End Developers primarily focus on the functionality and performance of the application, ensuring that it runs smoothly and efficiently. They work closely with Front-End Developers and other team members to integrate the server-side code with the user interface. Back-End Developers are proficient in programming languages such as Java, Python, or Ruby, and have a strong understanding of databases, APIs, and server architecture. Their expertise is crucial in creating robust and scalable software solutions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Back-End Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Back-End Developer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Counseling Program Director Interview Preparation ! This resource is designed to help you ace your Counseling Program Director interviews with confidence.
 
+A Counseling Program Director is a key role within the field of school counseling, responsible for overseeing and leading counseling programs in educational institutions. This position requires a deep understanding of counseling theories and techniques, as well as a strong background in education. The Program Director works closely with school counselors to develop and implement comprehensive counseling programs that address the academic, social, and emotional needs of students. They provide guidance and support to counselors, ensuring they have the necessary resources and training to effectively assist students. Additionally, the Program Director collaborates with other school administrators and stakeholders to promote a healthy and inclusive learning environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Counseling Program Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Counseling Program Director interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Advertising Strategist Interview Preparation ! This resource is designed to help you ace your Advertising Strategist interviews with confidence.
 
+An Advertising Strategist is a professional who plays a crucial role in the field of communication and media, specifically in advertising. They are responsible for developing effective strategies to promote products or services and maximize brand awareness. These strategists conduct market research, analyze consumer behavior, and identify target audiences to create impactful advertising campaigns. They collaborate with creative teams to develop compelling messages and innovative concepts that resonate with the target market. Additionally, Advertising Strategists monitor campaign performance and make data-driven decisions to optimize advertising tactics. Their expertise in communication and media helps businesses build strong brand identities and achieve their marketing goals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Advertising Strategist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Advertising Strategist interviews to help you prepare and succeed.

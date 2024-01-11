@@ -2,6 +2,8 @@
 
 Welcome to the Biomedical Scientist Interview Preparation ! This resource is designed to help you ace your Biomedical Scientist interviews with confidence.
 
+A Biomedical Scientist is a professional who specializes in the field of biology and research, with a focus on the application of scientific principles to understand and find solutions to medical problems. These scientists play a crucial role in advancing healthcare and improving patient outcomes. They conduct experiments, analyze data, and develop new techniques to diagnose, treat, and prevent diseases. Biomedical Scientists work in various settings, including hospitals, research laboratories, and pharmaceutical companies. They collaborate with other healthcare professionals, such as doctors and nurses, to translate scientific discoveries into practical applications. This challenging and rewarding job requires a strong foundation in biology, excellent analytical skills, and a passion for making a difference in the field of healthcare.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Biomedical Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Biomedical Scientist interviews to help you prepare and succeed.

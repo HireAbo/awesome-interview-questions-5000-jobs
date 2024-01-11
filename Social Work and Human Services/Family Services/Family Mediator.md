@@ -2,6 +2,8 @@
 
 Welcome to the Family Mediator Interview Preparation ! This resource is designed to help you ace your Family Mediator interviews with confidence.
 
+A Family Mediator is a crucial role in the field of Social Work and Human Services, specifically within Family Services. These professionals play a vital role in assisting families in resolving conflicts and reaching mutually beneficial solutions. Family Mediators act as neutral third parties who facilitate communication and negotiation between family members, aiming to reduce tension and promote understanding. They possess excellent interpersonal and communication skills, as well as a deep understanding of family dynamics and conflict resolution techniques. By helping families navigate difficult situations, Family Mediators contribute to the overall well-being and stability of the family unit, enhancing their overall quality of life.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Family Mediator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Family Mediator interviews to help you prepare and succeed.

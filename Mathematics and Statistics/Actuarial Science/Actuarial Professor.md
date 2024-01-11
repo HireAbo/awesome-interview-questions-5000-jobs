@@ -2,6 +2,8 @@
 
 Welcome to the Actuarial Professor Interview Preparation ! This resource is designed to help you ace your Actuarial Professor interviews with confidence.
 
+Mathematics and Statistics form the foundation of Actuarial Science, a specialized field that deals with assessing and managing risks in insurance, finance, and other industries. Actuarial Science combines mathematical and statistical methods with business knowledge to analyze and quantify risks and uncertainties. In this field, Actuarial Professors play a crucial role by imparting their expertise and knowledge to aspiring actuaries. As an Actuarial Professor, one is responsible for teaching courses on mathematical and statistical concepts, actuarial principles, and risk management. Additionally, they may conduct research, publish scholarly articles, and mentor students in their pursuit of becoming actuaries. Actuarial Professors contribute to the growth and development of future professionals in this highly demanding and rewarding field.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Actuarial Professor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Actuarial Professor interviews to help you prepare and succeed.

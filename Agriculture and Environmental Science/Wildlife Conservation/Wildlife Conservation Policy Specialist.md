@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife Conservation Policy Specialist Interview Preparation ! This resource is designed to help you ace your Wildlife Conservation Policy Specialist interviews with confidence.
 
+Agriculture and Environmental Science is a field that focuses on studying and understanding the relationship between agriculture, the environment, and wildlife. It encompasses the application of scientific principles to promote sustainable agricultural practices while protecting and conserving natural resources and wildlife habitats. Within this field, there is a specific career path as a Wildlife Conservation Policy Specialist. This job involves developing and implementing policies and strategies to protect and conserve wildlife populations and their habitats. It requires a deep understanding of wildlife biology, ecology, and conservation principles, as well as strong analytical and communication skills to collaborate with stakeholders and advocate for wildlife conservation policies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Conservation Policy Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Conservation Policy Specialist interviews to help you prepare and succeed.

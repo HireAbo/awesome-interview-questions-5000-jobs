@@ -2,6 +2,8 @@
 
 Welcome to the Public Transportation Planner Interview Preparation ! This resource is designed to help you ace your Public Transportation Planner interviews with confidence.
 
+A Public Transportation Planner is responsible for developing and implementing plans to improve and optimize public transportation systems in a given area. They work closely with government agencies, public transportation operators, and other stakeholders to assess the needs of the community and develop strategies to enhance accessibility, efficiency, and sustainability. Public Transportation Planners conduct research, collect and analyze data, and use advanced modeling techniques to forecast ridership and identify areas for improvement. They collaborate with engineers and urban planners to design and implement new routes, infrastructure, and technologies. Additionally, they may also be involved in managing budgets, coordinating schedules, and ensuring compliance with regulations and safety standards.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Public Transportation Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Public Transportation Planner interviews to help you prepare and succeed.

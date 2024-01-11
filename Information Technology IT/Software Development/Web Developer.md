@@ -2,6 +2,8 @@
 
 Welcome to the Web Developer Interview Preparation ! This resource is designed to help you ace your Web Developer interviews with confidence.
 
+A Web Developer is a professional who specializes in designing and developing websites and web applications. They are skilled in programming languages such as HTML, CSS, and JavaScript and have a deep understanding of web development frameworks and content management systems. Web Developers are responsible for creating visually appealing and user-friendly websites that are optimized for performance and accessibility. They collaborate with designers and stakeholders to ensure the website meets the client's requirements and objectives. Additionally, they are familiar with responsive design principles, SEO best practices, and web security protocols. Web Developers play a crucial role in the Information Technology (IT) sector, as they contribute to enhancing user experiences and driving businesses' online presence.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Web Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Web Developer interviews to help you prepare and succeed.

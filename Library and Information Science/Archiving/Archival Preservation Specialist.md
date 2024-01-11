@@ -2,6 +2,8 @@
 
 Welcome to the Archival Preservation Specialist Interview Preparation ! This resource is designed to help you ace your Archival Preservation Specialist interviews with confidence.
 
+Library and Information Science encompasses various specializations, one of which is Archiving. Archiving involves the systematic collection, organization, and preservation of valuable records and information for future generations. Within this field, the role of an Archival Preservation Specialist is crucial. These professionals are responsible for ensuring the long-term preservation and accessibility of archival materials. They possess expertise in handling and conserving a wide range of historical documents, photographs, audiovisual materials, and digital files. Archival Preservation Specialists employ specialized techniques and technologies to protect and restore deteriorating materials, such as digitization, climate control, and acid-free storage. Their work plays a vital role in preserving our cultural heritage, facilitating research, and safeguarding historical knowledge for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Archival Preservation Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Archival Preservation Specialist interviews to help you prepare and succeed.

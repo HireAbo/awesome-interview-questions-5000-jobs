@@ -2,6 +2,8 @@
 
 Welcome to the Aerodynamics Engineer Interview Preparation ! This resource is designed to help you ace your Aerodynamics Engineer interviews with confidence.
 
+An aerodynamics engineer is a specialist in the field of aerospace engineering, focusing on the study and analysis of airflow and its impact on aircraft performance. These professionals play a crucial role in designing and developing aircraft, spacecraft, and other aerial vehicles with optimal aerodynamic properties. They utilize their extensive knowledge of fluid mechanics, physics, and mathematics to conduct wind tunnel tests, computer simulations, and mathematical modeling to assess the behavior of air around various structures. Aerodynamics engineers collaborate with other aerospace professionals to enhance aircraft efficiency, maneuverability, stability, and reduce drag and noise. Their work contributes significantly to advancements in aviation technology and ensures the safety and performance of flight systems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Aerodynamics Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Aerodynamics Engineer interviews to help you prepare and succeed.

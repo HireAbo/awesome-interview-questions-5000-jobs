@@ -2,6 +2,8 @@
 
 Welcome to the Firefighting Pilot Interview Preparation ! This resource is designed to help you ace your Firefighting Pilot interviews with confidence.
 
+Aviation and Aerospace encompass a wide range of exciting career paths, one of which is the role of a firefighting pilot. These highly skilled professionals play a crucial role in combating wildfires and other aerial firefighting operations. As a firefighting pilot, you will possess not only exceptional piloting skills but also specialized knowledge in dealing with fire management and suppression techniques. Operating various aircraft such as water bombers, helicopters, or air tankers, you will be responsible for delivering precise aerial support to ground crews fighting fires. This demanding and rewarding job requires quick thinking, adaptability, and a deep commitment to public safety and environmental preservation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Firefighting Pilot or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Firefighting Pilot interviews to help you prepare and succeed.

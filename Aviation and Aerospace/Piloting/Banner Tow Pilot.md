@@ -2,6 +2,8 @@
 
 Welcome to the Banner Tow Pilot Interview Preparation ! This resource is designed to help you ace your Banner Tow Pilot interviews with confidence.
 
+The job of a Banner Tow Pilot falls under the field of aviation and aerospace, specifically piloting. As a banner tow pilot, you would be responsible for towing advertising banners or banners promoting events and messages across the sky using an aircraft. This unique role requires exceptional flying skills and precision as you navigate through the air with a large banner attached to your aircraft. Banner tow pilots must possess excellent communication skills to coordinate with ground crews and advertisers, ensuring the successful delivery of their messages to a wide audience. This dynamic and exhilarating job offers pilots an exciting opportunity to combine their love for flying with creative advertising campaigns.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Banner Tow Pilot or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Banner Tow Pilot interviews to help you prepare and succeed.

@@ -2,6 +2,10 @@
 
 Welcome to the Veterinary Technician Specialist (VTS) Interview Preparation ! This resource is designed to help you ace your Veterinary Technician Specialist (VTS) interviews with confidence.
 
+Veterinary Medicine is a specialized field that focuses on the health and well-being of animals. Within this field, Veterinary Nursing plays a crucial role in providing quality care to animals. Veterinary Nurses work closely with veterinarians, assisting in various medical procedures, administering medications, and monitoring patients' vital signs. They also provide support in areas such as anesthesia, radiography, and laboratory procedures. 
+
+Within the realm of Veterinary Nursing, there is a specialized role known as a Veterinary Technician Specialist (VTS). VTS professionals have advanced knowledge and expertise in specific areas of veterinary medicine, such as dentistry, emergency and critical care, behavior, or surgery. They undergo additional training and certification to become specialists in their chosen field, allowing them to provide specialized care and support to animals in need. VTS professionals play a vital role in advancing veterinary medicine and improving the overall well-being of animals in their respective areas of expertise.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Veterinary Technician Specialist (VTS) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Veterinary Technician Specialist (VTS) interviews to help you prepare and succeed.

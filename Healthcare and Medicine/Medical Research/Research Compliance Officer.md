@@ -2,6 +2,8 @@
 
 Welcome to the Research Compliance Officer Interview Preparation ! This resource is designed to help you ace your Research Compliance Officer interviews with confidence.
 
+A Research Compliance Officer in the field of Healthcare and Medicine plays a vital role in ensuring that medical research is conducted ethically and in compliance with all applicable laws, regulations, and industry standards. They are responsible for overseeing the regulatory compliance of research studies, including the protection of human subjects, the proper use of investigational drugs or devices, and the adherence to ethical guidelines. These professionals work closely with researchers, institutional review boards, and regulatory authorities to ensure that all necessary approvals and protocols are in place. The Research Compliance Officer also monitors ongoing studies to identify any potential compliance issues and develops strategies to address them promptly. Their role is crucial in maintaining the integrity and trustworthiness of medical research.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Research Compliance Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Research Compliance Officer interviews to help you prepare and succeed.

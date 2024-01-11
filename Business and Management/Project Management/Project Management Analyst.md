@@ -2,6 +2,8 @@
 
 Welcome to the Project Management Analyst Interview Preparation ! This resource is designed to help you ace your Project Management Analyst interviews with confidence.
 
+A Project Management Analyst is a crucial role within the field of Business and Management, specifically in Project Management. As an analyst, their primary responsibility is to support the planning, execution, and monitoring of projects to ensure successful outcomes. They work closely with project managers, team members, and stakeholders to gather and analyze data, identify risks and issues, develop and maintain project schedules, and track progress against established goals. Additionally, they contribute to the development of project documentation, reports, and presentations. A Project Management Analyst must possess strong organizational, analytical, and communication skills, along with a solid understanding of project management principles and methodologies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Project Management Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Project Management Analyst interviews to help you prepare and succeed.

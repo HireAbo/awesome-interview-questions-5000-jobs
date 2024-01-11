@@ -2,6 +2,8 @@
 
 Welcome to the Hybrid Vehicle Technician Interview Preparation ! This resource is designed to help you ace your Hybrid Vehicle Technician interviews with confidence.
 
+The Hybrid Vehicle Technician job is a specialized role within the field of Auto Mechanics. As the automotive industry continues to evolve towards more sustainable solutions, hybrid vehicles have gained popularity due to their improved fuel efficiency and reduced emissions. A Hybrid Vehicle Technician is responsible for diagnosing, repairing, and maintaining hybrid vehicles' unique components, such as electric motors, battery systems, and regenerative braking systems. They possess a deep understanding of hybrid vehicle technology, including electrical systems, electronics, and computer diagnostics. These skilled tradespeople work closely with customers to ensure their hybrid vehicles are running smoothly, providing reliable and efficient transportation options for a greener future.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Hybrid Vehicle Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Hybrid Vehicle Technician interviews to help you prepare and succeed.

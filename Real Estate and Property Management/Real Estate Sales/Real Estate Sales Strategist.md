@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Sales Strategist Interview Preparation ! This resource is designed to help you ace your Real Estate Sales Strategist interviews with confidence.
 
+A Real Estate Sales Strategist is a professional who specializes in maximizing sales and profitability within the real estate industry. They are skilled in developing effective strategies to attract potential buyers and close deals successfully. A key aspect of their job involves conducting market research to identify emerging trends, analyzing property values, and determining optimal pricing strategies. They also collaborate closely with real estate agents and brokers to develop marketing plans, create compelling listings, and negotiate contracts. A successful Real Estate Sales Strategist possesses exceptional communication and negotiation skills, a deep understanding of the local market, and a keen eye for identifying opportunities to drive sales and exceed targets.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Sales Strategist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Sales Strategist interviews to help you prepare and succeed.

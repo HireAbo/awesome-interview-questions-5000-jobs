@@ -2,6 +2,8 @@
 
 Welcome to the Quantitative Developer Interview Preparation ! This resource is designed to help you ace your Quantitative Developer interviews with confidence.
 
+A Quantitative Developer in the field of Business and Management Finance is a highly skilled professional responsible for developing and implementing quantitative models and algorithms to analyze financial data. They play a critical role in designing and maintaining complex financial systems and software applications that support investment strategies, risk management, and trading activities. These professionals possess a strong background in mathematics, statistics, and computer science, enabling them to create mathematical models and algorithms that aid in decision-making processes. Moreover, they collaborate closely with traders, portfolio managers, and risk analysts to understand their requirements and develop innovative solutions that optimize trading strategies and mitigate risks. A Quantitative Developer's expertise lies in their ability to leverage quantitative analysis techniques to drive advancements in financial technology and enhance profitability in the competitive financial markets.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Quantitative Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Quantitative Developer interviews to help you prepare and succeed.

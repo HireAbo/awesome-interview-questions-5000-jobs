@@ -2,6 +2,8 @@
 
 Welcome to the PR Copywriter Interview Preparation ! This resource is designed to help you ace your PR Copywriter interviews with confidence.
 
+A PR Copywriter plays a crucial role in the field of Communication and Media, specifically in Public Relations. With exceptional writing skills and a deep understanding of strategic communication, a PR Copywriter creates compelling and engaging content for various media platforms. They are responsible for crafting press releases, articles, blog posts, social media content, and other written materials that effectively convey the client's message and promote their brand or cause. A PR Copywriter collaborates closely with PR professionals, clients, and stakeholders to understand their objectives and ensure the content aligns with their goals. Their ability to captivate audiences with persuasive and well-crafted copy is instrumental in building a positive reputation and enhancing brand visibility.
+
 ## 🚀 Overview
 
 Whether you're a seasoned PR Copywriter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in PR Copywriter interviews to help you prepare and succeed.

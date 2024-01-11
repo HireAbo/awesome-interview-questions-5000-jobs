@@ -2,6 +2,8 @@
 
 Welcome to the Utility Data Analyst Interview Preparation ! This resource is designed to help you ace your Utility Data Analyst interviews with confidence.
 
+A Utility Data Analyst plays a crucial role in the field of Energy and Utilities by analyzing and managing utility data to optimize operations and improve overall efficiency. This job involves collecting, organizing, and interpreting data related to utility usage, costs, and performance. The Utility Data Analyst is responsible for identifying trends, patterns, and anomalies to make informed decisions and recommendations for utility management. They use advanced analytical techniques and tools to identify opportunities for energy conservation, cost reduction, and process improvement. Additionally, the Utility Data Analyst collaborates with various stakeholders, including utility providers and internal teams, to develop strategies and implement solutions for effective utility management.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Utility Data Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Utility Data Analyst interviews to help you prepare and succeed.

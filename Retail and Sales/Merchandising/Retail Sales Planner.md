@@ -2,6 +2,8 @@
 
 Welcome to the Retail Sales Planner Interview Preparation ! This resource is designed to help you ace your Retail Sales Planner interviews with confidence.
 
+A Retail Sales Planner plays a crucial role in the field of retail and sales merchandising. This job involves analyzing sales data, forecasting future trends, and creating strategies to maximize sales and profitability. The Retail Sales Planner works closely with the merchandising team to develop effective promotional plans, pricing strategies, and inventory management techniques. They collaborate with vendors, buyers, and store managers to ensure the availability of products, optimize product placement, and enhance customer satisfaction. Additionally, a Retail Sales Planner monitors market trends, competitors' activities, and customer preferences to make informed business decisions. This role requires strong analytical skills, attention to detail, and excellent communication abilities to drive sales growth and achieve business objectives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Retail Sales Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Retail Sales Planner interviews to help you prepare and succeed.

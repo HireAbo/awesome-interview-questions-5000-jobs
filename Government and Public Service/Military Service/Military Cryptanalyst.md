@@ -2,6 +2,8 @@
 
 Welcome to the Military Cryptanalyst Interview Preparation ! This resource is designed to help you ace your Military Cryptanalyst interviews with confidence.
 
+Government and Public Service encompasses various sectors and roles aimed at serving the public and ensuring the smooth functioning of a nation. Military Service, a vital component of public service, offers opportunities for individuals to contribute to national security and defense. One such role within military service is that of a Military Cryptanalyst. These professionals utilize their expertise in deciphering encrypted messages, analyzing codes, and breaking secret communication systems. Their primary objective is to gather intelligence, identify potential threats, and provide crucial information to military decision-makers. By employing advanced cryptographic techniques and analytical skills, Military Cryptanalysts play a pivotal role in safeguarding national interests and protecting critical information.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Military Cryptanalyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Military Cryptanalyst interviews to help you prepare and succeed.

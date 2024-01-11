@@ -2,6 +2,8 @@
 
 Welcome to the Structural Engineer Interview Preparation ! This resource is designed to help you ace your Structural Engineer interviews with confidence.
 
+Aeronautical Engineering is a specialized branch of engineering that focuses on the design, development, and maintenance of aircraft and spacecraft. Within this field, a Structural Engineer plays a crucial role in ensuring the safety and integrity of the aircraft's structure. They are responsible for designing and analyzing the structural components, such as wings, fuselage, and landing gear, to withstand the extreme forces and conditions encountered during flight. Their expertise lies in selecting appropriate materials, conducting stress and fatigue analysis, and ensuring compliance with regulatory standards. A Structural Engineer in the Aviation and Aerospace industry plays a vital role in creating reliable and efficient aircraft, ensuring passenger safety, and pushing technological boundaries.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Structural Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Structural Engineer interviews to help you prepare and succeed.

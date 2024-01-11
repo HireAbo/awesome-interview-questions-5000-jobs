@@ -2,6 +2,8 @@
 
 Welcome to the Big Data Engineer Interview Preparation ! This resource is designed to help you ace your Big Data Engineer interviews with confidence.
 
+A Big Data Engineer is a professional who specializes in handling and managing large volumes of data. They are responsible for designing, developing, and implementing software applications and systems that can process and analyze massive amounts of data efficiently. Big Data Engineers work closely with data scientists and analysts to understand the data requirements and develop software solutions that meet those needs. They are skilled in various programming languages, database management systems, and data processing frameworks. The role of a Big Data Engineer is crucial in today's digital age, as organizations increasingly rely on data-driven insights to make informed business decisions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Big Data Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Big Data Engineer interviews to help you prepare and succeed.

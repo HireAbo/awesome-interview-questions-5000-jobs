@@ -2,6 +2,8 @@
 
 Welcome to the Emergency Response Planner Interview Preparation ! This resource is designed to help you ace your Emergency Response Planner interviews with confidence.
 
+The government and public service play a critical role in ensuring the safety and well-being of citizens during emergencies. Within this domain, the Emergency Management field focuses on planning and coordinating responses to various crises, such as natural disasters, terrorist attacks, or public health emergencies. An Emergency Response Planner is an integral part of this process. They are responsible for developing and implementing strategies to effectively respond to emergencies, coordinating with various agencies and stakeholders, assessing risks and vulnerabilities, and creating contingency plans. With strong analytical, communication, and problem-solving skills, Emergency Response Planners play a crucial role in safeguarding communities and minimizing the impact of disasters.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Emergency Response Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Emergency Response Planner interviews to help you prepare and succeed.

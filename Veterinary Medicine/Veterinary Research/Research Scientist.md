@@ -2,6 +2,8 @@
 
 Welcome to the Research Scientist Interview Preparation ! This resource is designed to help you ace your Research Scientist interviews with confidence.
 
+A research scientist in veterinary medicine plays a crucial role in advancing the field of animal health. They are responsible for conducting scientific research to discover new treatments, medications, and diagnostic tools for animals. These professionals work in laboratories, universities, or pharmaceutical companies, collaborating with other scientists and veterinarians to develop innovative solutions to animal diseases and conditions. Research scientists in veterinary medicine are highly skilled in conducting experiments, analyzing data, and interpreting results. Their work not only benefits animals but also has a significant impact on human health as many diseases are zoonotic. Their dedication and commitment to improving animal welfare make them essential contributors to the field of veterinary medicine.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Research Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Research Scientist interviews to help you prepare and succeed.

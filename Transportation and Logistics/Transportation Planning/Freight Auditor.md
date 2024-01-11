@@ -2,6 +2,8 @@
 
 Welcome to the Freight Auditor Interview Preparation ! This resource is designed to help you ace your Freight Auditor interviews with confidence.
 
+A Freight Auditor plays a crucial role in the field of Transportation and Logistics, specifically in Transportation Planning. With their expertise and attention to detail, they ensure accuracy and efficiency in the movement of freight. Their primary responsibility is to review and scrutinize all freight bills, invoices, and related documents to identify any discrepancies or errors in charges, rates, or classifications. By conducting thorough audits, they help in minimizing financial losses and ensuring adherence to regulatory requirements. Additionally, Freight Auditors work closely with carriers, shippers, and other stakeholders to resolve any billing or payment disputes, contributing to a smooth and streamlined transportation process.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Freight Auditor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Freight Auditor interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Business Economist Interview Preparation ! This resource is designed to help you ace your Business Economist interviews with confidence.
 
+A Business Economist is a professional who applies economic theories and principles to analyze and solve complex business problems. They examine various economic factors such as supply and demand, market trends, and financial data to provide insights and recommendations to businesses. Business Economists play a crucial role in helping organizations make informed decisions regarding pricing strategies, investment opportunities, and risk management. They conduct research, develop economic models, and use statistical techniques to forecast future market conditions. Additionally, they may also contribute to policy development, economic policy analysis, and provide financial and economic advice to governments and policymakers. A strong understanding of economics, critical thinking skills, and excellent analytical abilities are essential for success in this field.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Business Economist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Business Economist interviews to help you prepare and succeed.

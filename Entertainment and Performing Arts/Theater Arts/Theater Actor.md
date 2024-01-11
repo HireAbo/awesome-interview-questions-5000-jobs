@@ -2,6 +2,8 @@
 
 Welcome to the Theater Actor Interview Preparation ! This resource is designed to help you ace your Theater Actor interviews with confidence.
 
+A theater actor is a highly skilled individual who brings characters to life on stage through their acting abilities. This job requires a deep understanding of the art of theater and the ability to captivate an audience with their performance. Theater actors undergo extensive training to develop their craft, including studying various acting techniques, voice projection, and body movement. They work closely with directors and fellow actors to rehearse and perfect their roles, often spending long hours memorizing lines and blocking. Theater actors must possess strong communication skills, emotional intelligence, and the ability to adapt to different roles and genres. They play a crucial role in the world of entertainment by transporting audiences into different worlds and evoking a wide range of emotions through their performances.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Theater Actor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Theater Actor interviews to help you prepare and succeed.

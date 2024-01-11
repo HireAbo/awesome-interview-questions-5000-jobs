@@ -2,6 +2,8 @@
 
 Welcome to the Interior Stylist Interview Preparation ! This resource is designed to help you ace your Interior Stylist interviews with confidence.
 
+An Interior Stylist job in the field of Art and Design focuses on creating visually appealing and functional spaces within a given budget and client's requirements. Interior Stylists possess a keen eye for detail, color coordination, and spatial arrangement, enabling them to transform ordinary spaces into extraordinary ones. They work closely with clients to understand their personal tastes, preferences, and lifestyle, and then develop unique concepts and themes to enhance the overall aesthetics of the interior. From selecting furniture, fabrics, and accessories to coordinating with architects and contractors, Interior Stylists ensure that every element harmonizes to create a cohesive and stylish interior environment that reflects the client's personality and vision.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Interior Stylist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Interior Stylist interviews to help you prepare and succeed.

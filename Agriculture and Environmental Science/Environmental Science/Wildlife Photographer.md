@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife Photographer Interview Preparation ! This resource is designed to help you ace your Wildlife Photographer interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on the study of the environment and its interactions with living organisms, particularly in relation to agriculture. It encompasses various branches such as soil science, crop science, animal science, and environmental conservation. Within this field, Environmental Science specifically explores the impact of human activities on the environment and aims to develop sustainable solutions. One fascinating career option within Environmental Science is that of a Wildlife Photographer. Wildlife Photographers have the unique opportunity to capture and document the diverse range of animal species in their natural habitats, raising awareness about conservation efforts and the importance of preserving biodiversity.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Photographer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Photographer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Logistics Analyst Interview Preparation ! This resource is designed to help you ace your Logistics Analyst interviews with confidence.
 
+A Logistics Analyst plays a crucial role in the field of Transportation and Logistics. As a key member of the logistics management team, their primary responsibility is to analyze and optimize the movement of goods and materials throughout the supply chain. They utilize various tools and techniques to assess the effectiveness of logistical operations, identify areas for improvement, and implement strategies to enhance efficiency and cost-effectiveness. Additionally, Logistics Analysts collaborate with cross-functional teams to coordinate transportation, inventory management, and warehousing activities. They analyze data, forecast demand, and monitor performance metrics to ensure seamless logistics operations, minimize disruptions, and meet customer satisfaction goals. A Logistics Analyst plays a critical role in streamlining supply chain processes and enhancing overall organizational success.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Logistics Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Logistics Analyst interviews to help you prepare and succeed.

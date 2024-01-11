@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate PR Specialist Interview Preparation ! This resource is designed to help you ace your Real Estate PR Specialist interviews with confidence.
 
+A Real Estate PR Specialist is a professional who specializes in managing and enhancing the public image and reputation of real estate companies, developers, and agents. They play a crucial role in effectively communicating with various stakeholders including clients, investors, media, and the general public. The job of a Real Estate PR Specialist involves creating and implementing strategic communication plans, developing engaging content, organizing media events, and coordinating with journalists and influencers to ensure positive media coverage. They also handle crisis management, reputation repair, and proactively identify opportunities to promote and position real estate brands. With excellent communication skills and industry knowledge, Real Estate PR Specialists are instrumental in building trust and credibility for their clients in the highly competitive real estate market.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate PR Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate PR Specialist interviews to help you prepare and succeed.

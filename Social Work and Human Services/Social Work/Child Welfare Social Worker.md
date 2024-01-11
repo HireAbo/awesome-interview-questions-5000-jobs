@@ -2,6 +2,8 @@
 
 Welcome to the Child Welfare Social Worker Interview Preparation ! This resource is designed to help you ace your Child Welfare Social Worker interviews with confidence.
 
+A Child Welfare Social Worker plays a crucial role in ensuring the well-being and safety of children who are at risk or have experienced abuse or neglect. These dedicated professionals work within the field of social work and human services to assess, intervene, and provide support to families and children in need. Their responsibilities may include conducting home visits, investigating allegations of abuse or neglect, developing safety plans, and coordinating services to promote family preservation or, if necessary, facilitate the removal of children from unsafe environments. Child Welfare Social Workers collaborate with various stakeholders, such as law enforcement, schools, and healthcare professionals, to advocate for the best interests of vulnerable children and strive to create positive and nurturing environments for them to thrive.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Child Welfare Social Worker or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Child Welfare Social Worker interviews to help you prepare and succeed.

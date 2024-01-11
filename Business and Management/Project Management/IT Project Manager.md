@@ -2,6 +2,12 @@
 
 Welcome to the IT Project Manager Interview Preparation ! This resource is designed to help you ace your IT Project Manager interviews with confidence.
 
+An IT Project Manager is a crucial role within the field of Business and Management, specifically in Project Management. As an IT Project Manager, you will be responsible for overseeing and executing various technology projects within an organization. Your main objective will be to ensure that projects are delivered on time, within budget, and meet the required quality standards.
+
+Your role will involve coordinating with different stakeholders, such as clients, team members, and vendors, to understand project requirements and develop an effective project plan. You will be responsible for allocating resources, managing risks, and monitoring project progress. Additionally, you will need to possess strong leadership and communication skills to effectively manage teams and provide guidance throughout the project lifecycle.
+
+Overall, the IT Project Manager role requires a combination of technical expertise, organizational skills, and a strategic mindset to successfully manage and deliver IT projects within a business context.
+
 ## 🚀 Overview
 
 Whether you're a seasoned IT Project Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in IT Project Manager interviews to help you prepare and succeed.

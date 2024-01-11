@@ -2,6 +2,8 @@
 
 Welcome to the Forensic Chemist Interview Preparation ! This resource is designed to help you ace your Forensic Chemist interviews with confidence.
 
+A forensic chemist is a professional who combines scientific knowledge and investigative skills to analyze evidence related to crime scenes. In the field of chemistry, forensic scientists play a crucial role in criminal investigations by examining various substances such as drugs, fibers, and bodily fluids to determine their composition and link them to criminal activities. They utilize advanced laboratory techniques and instrumentation to perform tests, interpret results, and present their findings in court as expert witnesses. Forensic chemists collaborate closely with law enforcement agencies, collecting and analyzing evidence to help solve crimes and bring perpetrators to justice. Their work is essential in ensuring a fair and accurate criminal justice system.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forensic Chemist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forensic Chemist interviews to help you prepare and succeed.

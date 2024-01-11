@@ -2,6 +2,8 @@
 
 Welcome to the Quantitative Test Developer Interview Preparation ! This resource is designed to help you ace your Quantitative Test Developer interviews with confidence.
 
+A Quantitative Test Developer plays a crucial role in the field of Mathematics and Statistics by designing and developing quantitative assessments and tests. These professionals possess a strong background in mathematics and statistics and are skilled in applying mathematical models and statistical techniques to develop reliable and valid tests. They are responsible for creating test items, constructing test forms, and ensuring the accuracy and fairness of the assessment process. Quantitative Test Developers also analyze test results to evaluate the effectiveness of the assessment and make necessary adjustments to improve its quality. Their work is essential in various industries, including education, research, and psychometrics, to measure individuals' quantitative abilities accurately.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Quantitative Test Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Quantitative Test Developer interviews to help you prepare and succeed.

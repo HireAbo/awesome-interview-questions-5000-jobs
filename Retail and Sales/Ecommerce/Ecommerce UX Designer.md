@@ -2,6 +2,8 @@
 
 Welcome to the E-commerce UX Designer Interview Preparation ! This resource is designed to help you ace your E-commerce UX Designer interviews with confidence.
 
+A Retail and Sales E-commerce UX Designer is a professional responsible for creating the user experience (UX) design for online retail platforms. They work closely with the development team to understand user needs, conduct market research, and identify trends in the e-commerce industry. The UX designer collaborates with stakeholders to define the overall user experience strategy, ensuring that the website or app is visually appealing, easy to navigate, and optimized for conversions. They conduct user testing and gather feedback to continuously improve the platform's usability and enhance customer satisfaction. The role requires creativity, analytical skills, and a deep understanding of user behavior in the e-commerce space.
+
 ## 🚀 Overview
 
 Whether you're a seasoned E-commerce UX Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in E-commerce UX Designer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Utility Emergency Response Coordinator Interview Preparation ! This resource is designed to help you ace your Utility Emergency Response Coordinator interviews with confidence.
 
+The role of a Utility Emergency Response Coordinator is crucial in the field of Energy and Utilities. This position is responsible for managing and coordinating emergency response activities within a utility organization. The coordinator's primary objective is to ensure the efficient and effective response to emergencies such as natural disasters, power outages, or equipment failures. They develop and implement emergency response plans, conduct drills and training exercises, and collaborate with various internal departments, as well as external agencies, to ensure a coordinated and timely response. Strong leadership, communication, and problem-solving skills are essential for this role, as the coordinator plays a pivotal role in ensuring the safety and reliability of utility services during emergencies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Utility Emergency Response Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Utility Emergency Response Coordinator interviews to help you prepare and succeed.

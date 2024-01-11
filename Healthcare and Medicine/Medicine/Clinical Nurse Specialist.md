@@ -2,6 +2,8 @@
 
 Welcome to the Clinical Nurse Specialist Interview Preparation ! This resource is designed to help you ace your Clinical Nurse Specialist interviews with confidence.
 
+A Clinical Nurse Specialist (CNS) is an advanced practice nurse who specializes in a specific area of healthcare and medicine. They are highly trained professionals who provide direct patient care, serve as educators and consultants, and contribute to research and policy development. CNSs work in various healthcare settings, including hospitals, clinics, and private practices. They collaborate with other healthcare professionals to develop and implement treatment plans, monitor patient progress, and provide specialized care. With their advanced knowledge and expertise, CNSs play a crucial role in improving patient outcomes and ensuring the delivery of high-quality healthcare. They are compassionate, skilled, and dedicated professionals who make a significant impact on the healthcare system.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Clinical Nurse Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Clinical Nurse Specialist interviews to help you prepare and succeed.

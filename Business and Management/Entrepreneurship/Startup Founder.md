@@ -2,6 +2,8 @@
 
 Welcome to the Startup Founder Interview Preparation ! This resource is designed to help you ace your Startup Founder interviews with confidence.
 
+Being a startup founder is an exhilarating and challenging role in the world of business and management. As an entrepreneur, you are responsible for creating and building a new business from scratch, often with limited resources and high levels of uncertainty. This role requires a unique set of skills, including strong leadership, creativity, perseverance, and the ability to take calculated risks. Startup founders must have a clear vision and the ability to translate this vision into actionable plans and strategies. They must also possess strong communication and networking skills to attract investors, build a team, and forge partnerships. Overall, being a startup founder is an exciting journey that requires passion, resilience, and a relentless drive to succeed.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Startup Founder or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Startup Founder interviews to help you prepare and succeed.

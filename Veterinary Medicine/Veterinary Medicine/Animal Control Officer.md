@@ -2,6 +2,10 @@
 
 Welcome to the Animal Control Officer Interview Preparation ! This resource is designed to help you ace your Animal Control Officer interviews with confidence.
 
+Veterinary Medicine is a specialized field of medicine that focuses on the health and well-being of animals. It encompasses various aspects of animal healthcare, including prevention, diagnosis, and treatment of diseases and injuries. Veterinary medicine plays a crucial role in ensuring the welfare of animals and preventing the spread of zoonotic diseases.
+
+An Animal Control Officer job is an integral part of veterinary medicine. These professionals are responsible for enforcing animal-related laws and regulations, ensuring public safety, and promoting responsible pet ownership. They handle a wide range of tasks, including investigating animal cruelty cases, responding to animal-related emergencies, and providing education to the community on animal care and control. Animal Control Officers work closely with veterinarians and other animal healthcare professionals to ensure the well-being of animals and the safety of the public.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Animal Control Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Animal Control Officer interviews to help you prepare and succeed.

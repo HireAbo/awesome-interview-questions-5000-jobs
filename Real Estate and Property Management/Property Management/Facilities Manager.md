@@ -2,6 +2,8 @@
 
 Welcome to the Facilities Manager Interview Preparation ! This resource is designed to help you ace your Facilities Manager interviews with confidence.
 
+Real Estate and Property Management is a field that deals with the buying, selling, and managing of real estate properties. It involves various aspects such as property valuation, marketing, tenant acquisition, lease agreements, and property maintenance. Within Property Management, the role of a Facilities Manager is crucial. A Facilities Manager is responsible for ensuring the smooth operation and maintenance of a property's physical infrastructure. They oversee the day-to-day operations, manage maintenance and repair activities, coordinate with contractors, and ensure compliance with safety regulations. This role requires strong organizational and problem-solving skills, as well as the ability to effectively communicate with tenants, property owners, and contractors.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Facilities Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Facilities Manager interviews to help you prepare and succeed.

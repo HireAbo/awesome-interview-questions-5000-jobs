@@ -2,6 +2,8 @@
 
 Welcome to the Legal Administrator Interview Preparation ! This resource is designed to help you ace your Legal Administrator interviews with confidence.
 
+Law and Criminal Justice encompasses a wide range of career opportunities, including the roles of a Paralegal and Legal Administrator. A Paralegal is a crucial member of a legal team, assisting lawyers in various tasks such as conducting legal research, drafting legal documents, and organizing case files. They play a significant role in supporting attorneys in preparing for trials and hearings. On the other hand, a Legal Administrator focuses on the administrative aspect of law firms or legal departments. They handle tasks like managing budgets, coordinating staff, overseeing office operations, and ensuring compliance with legal regulations. Both roles are vital in ensuring the smooth functioning of legal practices and organizations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Legal Administrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Legal Administrator interviews to help you prepare and succeed.

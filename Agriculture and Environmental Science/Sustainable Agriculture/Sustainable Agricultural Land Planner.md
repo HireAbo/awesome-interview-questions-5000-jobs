@@ -2,6 +2,8 @@
 
 Welcome to the Sustainable Agricultural Land Planner Interview Preparation ! This resource is designed to help you ace your Sustainable Agricultural Land Planner interviews with confidence.
 
+The field of Agriculture and Environmental Science focuses on the balance between agricultural practices and sustainable resource management. Sustainable Agriculture, in particular, aims to meet the needs of present and future generations while preserving the environment and natural resources. As part of this field, a Sustainable Agricultural Land Planner plays a crucial role in developing and implementing land-use plans that promote sustainable agricultural practices. They assess the environmental impact of agricultural activities, identify suitable land for farming, and design strategies to minimize soil erosion, conserve water, and promote biodiversity. Their work ultimately aims to create a sustainable and resilient agricultural system that can support the growing global population while preserving the environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sustainable Agricultural Land Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sustainable Agricultural Land Planner interviews to help you prepare and succeed.

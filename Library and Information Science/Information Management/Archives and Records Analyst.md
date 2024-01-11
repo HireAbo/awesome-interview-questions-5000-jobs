@@ -2,6 +2,8 @@
 
 Welcome to the Archives and Records Analyst Interview Preparation ! This resource is designed to help you ace your Archives and Records Analyst interviews with confidence.
 
+A career in Archives and Records Analyst within the field of Library and Information Science (LIS) specializes in managing and preserving records and information. This role involves organizing, classifying, and maintaining records to ensure their accessibility and authenticity. Archives and Records Analysts are responsible for implementing records management policies and procedures, including the creation and maintenance of databases and digital archives. They also conduct research, assess records for historical significance, and provide guidance on legal and regulatory compliance. With an expertise in information management, they play a crucial role in preserving and providing access to valuable records and documents for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Archives and Records Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Archives and Records Analyst interviews to help you prepare and succeed.

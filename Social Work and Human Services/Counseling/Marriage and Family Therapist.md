@@ -2,6 +2,8 @@
 
 Welcome to the Marriage and Family Therapist Interview Preparation ! This resource is designed to help you ace your Marriage and Family Therapist interviews with confidence.
 
+Social work and human services encompass a broad range of professions dedicated to improving the well-being and quality of life for individuals, families, and communities. Within this field, counseling plays a crucial role in addressing mental health concerns and promoting positive relationships. Marriage and Family Therapists (MFTs) specifically focus on assisting couples and families in overcoming challenges and enhancing their emotional connections. MFTs employ various therapeutic techniques to guide clients through issues related to communication, conflict resolution, intimacy, and more. By providing a safe and supportive environment, MFTs help clients develop healthier dynamics, foster personal growth, and ultimately achieve happier and more fulfilling relationships.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Marriage and Family Therapist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Marriage and Family Therapist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Materials Scientist Interview Preparation ! This resource is designed to help you ace your Materials Scientist interviews with confidence.
 
+A materials scientist is a professional who specializes in the study of materials and their properties, aiming to develop new materials with enhanced functionalities. This field falls under the broader umbrella of physics, specifically focusing on the physical and chemical properties of materials. Materials scientists conduct extensive research and experiments to investigate the behavior of various materials and identify their potential applications. They work towards designing, developing, and improving materials for use in industries such as electronics, aerospace, healthcare, and energy. With a strong background in physics and a deep understanding of the material composition, a materials scientist plays a crucial role in advancing technology and driving innovation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Materials Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Materials Scientist interviews to help you prepare and succeed.

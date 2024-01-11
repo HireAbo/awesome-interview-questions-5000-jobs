@@ -2,6 +2,8 @@
 
 Welcome to the Cloud Developer Interview Preparation ! This resource is designed to help you ace your Cloud Developer interviews with confidence.
 
+Information Technology (IT) is a rapidly evolving field that encompasses the use of technology to manage and process information. One significant aspect of IT is cloud computing, which refers to the delivery of computing services over the internet. Cloud computing enables businesses and individuals to access and store their data and applications on remote servers instead of on local devices. Within the realm of cloud computing, there is a growing demand for skilled professionals known as cloud developers. These professionals specialize in creating, implementing, and maintaining cloud-based applications and systems. Cloud developers possess a strong understanding of programming languages, cloud platforms, and software development methodologies to ensure the efficient and secure functioning of cloud-based technologies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cloud Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cloud Developer interviews to help you prepare and succeed.

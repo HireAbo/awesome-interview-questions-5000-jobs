@@ -2,6 +2,8 @@
 
 Welcome to the Maternal and Child Health Specialist Interview Preparation ! This resource is designed to help you ace your Maternal and Child Health Specialist interviews with confidence.
 
+A career in Social Work and Human Services, specifically in the field of Public Health as a Maternal and Child Health Specialist, is focused on improving the well-being of mothers and children. This role involves a combination of advocacy, education, and service provision to address the unique needs of this vulnerable population. Maternal and Child Health Specialists work closely with individuals, families, and communities to promote healthy lifestyles, prevent disease and injury, and ensure access to quality healthcare services. They may also engage in research, policy development, and program evaluation to identify and implement effective strategies for enhancing maternal and child health outcomes. This rewarding profession requires compassion, empathy, and a strong commitment to social justice.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Maternal and Child Health Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Maternal and Child Health Specialist interviews to help you prepare and succeed.

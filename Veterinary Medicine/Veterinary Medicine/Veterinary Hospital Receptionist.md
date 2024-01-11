@@ -2,6 +2,8 @@
 
 Welcome to the Veterinary Hospital Receptionist Interview Preparation ! This resource is designed to help you ace your Veterinary Hospital Receptionist interviews with confidence.
 
+A Veterinary Medicine Veterinary Hospital Receptionist plays a crucial role in the seamless functioning of a veterinary clinic or hospital. They are responsible for greeting and assisting clients, scheduling appointments, answering phone calls, and managing administrative tasks. With their exceptional communication and customer service skills, they ensure that clients and their pets feel welcome and comfortable. Additionally, a Veterinary Hospital Receptionist may also assist in handling patient records, organizing medical files, and supporting the veterinary team with various tasks. This role requires compassion, organizational skills, and the ability to work in a fast-paced environment. It is a rewarding position that allows individuals to contribute to the well-being of animals and their owners.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Veterinary Hospital Receptionist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Veterinary Hospital Receptionist interviews to help you prepare and succeed.

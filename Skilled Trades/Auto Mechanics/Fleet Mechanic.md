@@ -2,6 +2,8 @@
 
 Welcome to the Fleet Mechanic Interview Preparation ! This resource is designed to help you ace your Fleet Mechanic interviews with confidence.
 
+A fleet mechanic is a highly skilled professional responsible for the maintenance and repair of vehicles within a fleet. These professionals specialize in servicing various types of vehicles, such as cars, trucks, buses, and other commercial vehicles, ensuring they are in optimal condition. Fleet mechanics perform a wide range of tasks, including diagnosing mechanical issues, conducting routine maintenance, repairing and replacing faulty parts, and inspecting vehicles for safety compliance. They possess in-depth knowledge of automotive systems, such as engines, transmissions, brakes, and electrical systems. Fleet mechanics play a crucial role in keeping fleet vehicles running smoothly, ensuring the safety of drivers and passengers, and minimizing downtime and operational costs.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Fleet Mechanic or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Fleet Mechanic interviews to help you prepare and succeed.

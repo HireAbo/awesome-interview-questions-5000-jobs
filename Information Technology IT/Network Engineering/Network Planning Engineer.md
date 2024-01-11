@@ -2,6 +2,8 @@
 
 Welcome to the Network Planning Engineer Interview Preparation ! This resource is designed to help you ace your Network Planning Engineer interviews with confidence.
 
+A Network Planning Engineer is a crucial role within the field of Information Technology (IT) and Network Engineering. This position primarily focuses on designing and implementing robust network infrastructures to support the organization's communication needs. A Network Planning Engineer is responsible for evaluating the existing network architecture, identifying potential weaknesses or inefficiencies, and developing strategies to optimize network performance. They collaborate with cross-functional teams to gather requirements, analyze network traffic patterns, and propose innovative solutions to enhance network capacity, security, and reliability. Additionally, they oversee the implementation of network upgrades, monitor network performance metrics, and troubleshoot any network-related issues. A Network Planning Engineer plays a vital role in ensuring efficient and resilient network operations for organizations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Network Planning Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Network Planning Engineer interviews to help you prepare and succeed.

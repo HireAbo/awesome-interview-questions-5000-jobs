@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife Sanctuary Manager Interview Preparation ! This resource is designed to help you ace your Wildlife Sanctuary Manager interviews with confidence.
 
+A Wildlife Sanctuary Manager plays a vital role in ensuring the health and welfare of animals within a wildlife sanctuary. Their primary responsibility is to oversee the day-to-day operations and management of the sanctuary, focusing on the well-being of the animals under their care. This includes coordinating and implementing animal health management programs, such as vaccination schedules, disease prevention, and treatment protocols. They work closely with a team of veterinarians and animal care staff to provide proper medical care, nutrition, and enrichment activities for the animals. Additionally, they may be involved in conservation efforts, public education, and fundraising initiatives to support the sanctuary's mission.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Sanctuary Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Sanctuary Manager interviews to help you prepare and succeed.

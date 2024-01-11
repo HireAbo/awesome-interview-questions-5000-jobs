@@ -2,6 +2,8 @@
 
 Welcome to the Government Records Archivist Interview Preparation ! This resource is designed to help you ace your Government Records Archivist interviews with confidence.
 
+Library and Information Science is a field that focuses on the collection, organization, preservation, and dissemination of information. One area of specialization within this field is Archiving, which involves the systematic management of records, documents, and other valuable materials for long-term preservation. A specific role within Archiving is that of a Government Records Archivist. Government Records Archivists are responsible for acquiring, organizing, and preserving records and documents of governmental agencies. They ensure that these records are accessible to the public, researchers, and government officials, while also maintaining their integrity and confidentiality. Government Records Archivists play a crucial role in preserving the history and memory of a nation, ensuring transparency, and facilitating research and decision-making processes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Government Records Archivist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Government Records Archivist interviews to help you prepare and succeed.

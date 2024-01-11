@@ -2,6 +2,8 @@
 
 Welcome to the Rheumatology Nurse Interview Preparation ! This resource is designed to help you ace your Rheumatology Nurse interviews with confidence.
 
+A Rheumatology Nurse specializes in the field of rheumatology, which focuses on the diagnosis and treatment of diseases that affect the muscles, joints, and bones. These nurses play a crucial role in providing comprehensive care to patients with rheumatic conditions such as arthritis, lupus, fibromyalgia, and osteoporosis. They work closely with rheumatologists to assess patients, conduct physical examinations, and order diagnostic tests. Rheumatology Nurses also educate patients about their conditions, medication management, and lifestyle modifications to enhance their quality of life. Additionally, they administer treatments, such as injections and infusions, and provide emotional support to patients and their families throughout the treatment process. Overall, Rheumatology Nurses play a vital role in the healthcare team, ensuring optimal care for patients with rheumatic diseases.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Rheumatology Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Rheumatology Nurse interviews to help you prepare and succeed.

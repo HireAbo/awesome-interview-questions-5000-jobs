@@ -2,6 +2,8 @@
 
 Welcome to the Eco-Tourism Manager Interview Preparation ! This resource is designed to help you ace your Eco-Tourism Manager interviews with confidence.
 
+The field of Hospitality and Tourism encompasses various sectors, with Tourism Management being a crucial aspect. Within this field, the role of an Eco-Tourism Manager holds significant importance. As an Eco-Tourism Manager, one plays a vital role in promoting sustainable and responsible tourism practices. This includes managing and preserving natural resources, working closely with local communities to ensure their involvement and benefit, and minimizing the negative impact of tourism on the environment. The job entails creating and implementing sustainable tourism strategies, developing eco-friendly initiatives, and ensuring compliance with environmental regulations. An Eco-Tourism Manager also focuses on educating tourists about the importance of conservation and sustainable practices, while providing memorable and responsible travel experiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Eco-Tourism Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Eco-Tourism Manager interviews to help you prepare and succeed.

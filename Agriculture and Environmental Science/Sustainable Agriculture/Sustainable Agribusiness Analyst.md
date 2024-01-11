@@ -2,6 +2,8 @@
 
 Welcome to the Sustainable Agribusiness Analyst Interview Preparation ! This resource is designed to help you ace your Sustainable Agribusiness Analyst interviews with confidence.
 
+Agriculture and Environmental Science encompasses the study of sustainable practices to enhance food production while minimizing negative environmental impacts. Sustainable Agriculture focuses on maintaining ecosystem health, conserving natural resources, and promoting social and economic equity. Within this field, the role of a Sustainable Agribusiness Analyst is crucial. These professionals assess the economic viability and environmental sustainability of agricultural practices and businesses. They conduct research, analyze data, and provide recommendations to improve profitability and minimize environmental footprints. Sustainable Agribusiness Analysts collaborate with farmers, policymakers, and industry stakeholders to develop strategies that ensure the long-term viability and resilience of agricultural systems, bridging the gap between agriculture, environmental science, and business practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sustainable Agribusiness Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sustainable Agribusiness Analyst interviews to help you prepare and succeed.

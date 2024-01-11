@@ -2,6 +2,8 @@
 
 Welcome to the Theater Instructor Interview Preparation ! This resource is designed to help you ace your Theater Instructor interviews with confidence.
 
+A theater instructor is a professional who teaches and guides individuals in the field of theater arts. They play a crucial role in shaping aspiring actors, directors, and technicians by providing them with the necessary skills and knowledge to excel in the performing arts industry. Theater instructors design and deliver lessons, workshops, and exercises that cover various aspects of theater, including acting techniques, stagecraft, voice and speech, improvisation, and script analysis. They also facilitate rehearsals and performances, giving constructive feedback and guidance to students. A theater instructor's passion for the arts, combined with their expertise and teaching abilities, inspire and nurture the next generation of talented performers.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Theater Instructor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Theater Instructor interviews to help you prepare and succeed.

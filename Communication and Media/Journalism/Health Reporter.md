@@ -2,6 +2,8 @@
 
 Welcome to the Health Reporter Interview Preparation ! This resource is designed to help you ace your Health Reporter interviews with confidence.
 
+A Health Reporter in the field of Journalism focuses on delivering accurate and timely information related to health and medicine. Their role involves researching, investigating, and reporting on various health-related topics, including medical breakthroughs, public health issues, healthcare policies, and advancements in technology. With a deep understanding of medical terminology and scientific research methods, a Health Reporter translates complex information into accessible and engaging content for the general public. They work closely with healthcare professionals, patients, and experts to collect data, conduct interviews, and produce compelling news stories, articles, and features for print, online platforms, and broadcast media. A Health Reporter plays a crucial role in providing the public with essential knowledge to make informed decisions about their health and well-being.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Health Reporter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Health Reporter interviews to help you prepare and succeed.

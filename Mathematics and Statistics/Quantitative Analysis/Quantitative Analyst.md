@@ -2,6 +2,8 @@
 
 Welcome to the Quantitative Analyst Interview Preparation ! This resource is designed to help you ace your Quantitative Analyst interviews with confidence.
 
+Mathematics and Statistics are disciplines that deal with the study of numbers, patterns, and data analysis. They form the foundation of quantitative analysis, a field that focuses on using mathematical and statistical methods to analyze and solve complex problems. In the realm of finance, quantitative analysis is crucial for making informed decisions and managing risk. This is where a Quantitative Analyst comes in. A Quantitative Analyst utilizes their expertise in mathematics, statistics, and programming to develop and implement quantitative models. They analyze large datasets, create statistical models, and provide insights to aid decision-making processes. A Quantitative Analyst plays a vital role in various industries, including finance, insurance, and consulting.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Quantitative Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Quantitative Analyst interviews to help you prepare and succeed.

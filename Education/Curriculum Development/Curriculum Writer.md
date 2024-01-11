@@ -2,6 +2,8 @@
 
 Welcome to the Curriculum Writer Interview Preparation ! This resource is designed to help you ace your Curriculum Writer interviews with confidence.
 
+A Curriculum Writer is a professional responsible for developing educational materials and curricula for various levels of education. They play a crucial role in designing and creating instructional content, ensuring that it aligns with educational standards and objectives. Curriculum Writers work closely with educators, subject matter experts, and instructional designers to develop engaging and effective learning materials. They conduct research on educational trends, analyze data, and collaborate with stakeholders to determine the needs and requirements of the curriculum. Additionally, Curriculum Writers review and revise existing curricula to ensure continuous improvement and update materials to reflect current educational practices. Their ultimate goal is to create comprehensive and impactful educational resources that enhance student learning experiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Curriculum Writer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Curriculum Writer interviews to help you prepare and succeed.

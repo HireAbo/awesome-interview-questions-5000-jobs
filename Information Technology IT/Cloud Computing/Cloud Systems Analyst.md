@@ -2,6 +2,8 @@
 
 Welcome to the Cloud Systems Analyst Interview Preparation ! This resource is designed to help you ace your Cloud Systems Analyst interviews with confidence.
 
+Information Technology (IT) is a field that encompasses the use, development, and management of computer-based information systems. Cloud computing is a subset of IT that involves the delivery of computing services, including storage, databases, software, and networking, over the internet. Cloud Systems Analysts are professionals responsible for analyzing and optimizing cloud-based systems for organizations. They assess business requirements, design and implement cloud solutions, and monitor system performance. Cloud Systems Analysts also collaborate with stakeholders to ensure data security, troubleshoot issues, and provide technical support. Their role is crucial in harnessing the full potential of cloud computing, enabling organizations to scale, improve efficiency, and enhance collaboration.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cloud Systems Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cloud Systems Analyst interviews to help you prepare and succeed.

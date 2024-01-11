@@ -2,6 +2,8 @@
 
 Welcome to the Library and Archives Curator Interview Preparation ! This resource is designed to help you ace your Library and Archives Curator interviews with confidence.
 
+Library and Information Science is a field that encompasses the organization, management, and dissemination of information resources in various formats. Within this field, archiving plays a crucial role in preserving and providing access to historical records, manuscripts, and other valuable materials. As an archivist, the Library and Archives Curator job involves collecting, appraising, arranging, describing, and preserving these materials. This includes cataloging items, creating finding aids, and ensuring their proper storage and conservation. Additionally, a curator may also curate exhibits, conduct research, and provide reference services to facilitate access and promote the significance of archival collections to researchers, scholars, and the general public.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Library and Archives Curator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Library and Archives Curator interviews to help you prepare and succeed.

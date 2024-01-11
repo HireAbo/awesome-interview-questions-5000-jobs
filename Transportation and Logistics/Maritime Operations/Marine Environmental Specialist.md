@@ -2,6 +2,8 @@
 
 Welcome to the Marine Environmental Specialist Interview Preparation ! This resource is designed to help you ace your Marine Environmental Specialist interviews with confidence.
 
+A Marine Environmental Specialist in the field of Transportation and Logistics focuses on ensuring the sustainability and environmental compliance of maritime operations. These professionals play a vital role in minimizing the negative impact of shipping activities on marine ecosystems and biodiversity. They are responsible for conducting environmental assessments, monitoring pollution levels, and implementing strategies to mitigate environmental risks. Marine Environmental Specialists also collaborate with government agencies, shipping companies, and stakeholders to develop and enforce strict regulations and standards regarding waste management, ballast water treatment, oil spill response, and other environmental concerns. By ensuring the protection of marine environments, these specialists contribute to the long-term sustainability of the maritime industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Marine Environmental Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Marine Environmental Specialist interviews to help you prepare and succeed.

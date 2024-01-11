@@ -2,6 +2,8 @@
 
 Welcome to the Ergonomist Interview Preparation ! This resource is designed to help you ace your Ergonomist interviews with confidence.
 
+The field of Sports Medicine encompasses various professionals who play a crucial role in optimizing athletes' performance and preventing injuries. One such specialist is an Ergonomist, who focuses on the design and modification of equipment and environments to enhance athletes' comfort and efficiency. Ergonomists in the realm of Sports Medicine apply their expertise to assess and improve the interaction between athletes and their surroundings, ensuring that equipment, facilities, and training methods are tailored to meet specific physiological and biomechanical needs. By analyzing movement patterns, body mechanics, and the impact of various factors, such as equipment design or training techniques, Ergonomists contribute to minimizing the risk of injuries and maximizing athletes' performance potential. Their work is vital in promoting a safe and conducive sports environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Ergonomist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Ergonomist interviews to help you prepare and succeed.

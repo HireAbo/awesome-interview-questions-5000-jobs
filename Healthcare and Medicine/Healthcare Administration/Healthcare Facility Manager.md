@@ -2,6 +2,8 @@
 
 Welcome to the Healthcare Facility Manager Interview Preparation ! This resource is designed to help you ace your Healthcare Facility Manager interviews with confidence.
 
+Healthcare and Medicine play a vital role in improving the overall well-being of individuals and communities. Within this field, Healthcare Administration focuses on managing the operations of healthcare facilities and ensuring efficient delivery of services. The Healthcare Facility Manager job is a crucial administrative role responsible for overseeing the day-to-day operations of healthcare facilities such as hospitals, clinics, and nursing homes. These professionals ensure that the facility meets regulatory standards, coordinates with various departments, manages budgets, and implements policies and procedures to enhance patient care. They also collaborate with healthcare professionals and stakeholders to ensure the smooth functioning of the facility and provide a safe and comfortable environment for patients and staff.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Healthcare Facility Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Healthcare Facility Manager interviews to help you prepare and succeed.

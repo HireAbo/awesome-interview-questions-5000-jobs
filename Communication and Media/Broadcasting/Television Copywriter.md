@@ -2,6 +2,8 @@
 
 Welcome to the Television Copywriter Interview Preparation ! This resource is designed to help you ace your Television Copywriter interviews with confidence.
 
+A Television Copywriter is a professional responsible for creating compelling and engaging content for television broadcasts. They play a crucial role in crafting scripts, promotional materials, and advertisements that effectively communicate the message of a television program or commercial. These copywriters possess excellent writing skills, creativity, and a deep understanding of the target audience. They work closely with producers, directors, and other members of the creative team to ensure that the written content aligns with the overall vision and objectives of the television production. A Television Copywriter must be adaptable, able to work under tight deadlines, and stay up-to-date with current trends and audience preferences in order to create impactful and memorable content.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Television Copywriter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Television Copywriter interviews to help you prepare and succeed.

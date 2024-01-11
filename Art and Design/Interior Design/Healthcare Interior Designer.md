@@ -2,6 +2,8 @@
 
 Welcome to the Healthcare Interior Designer Interview Preparation ! This resource is designed to help you ace your Healthcare Interior Designer interviews with confidence.
 
+A Healthcare Interior Designer is a professional responsible for creating functional, aesthetically pleasing, and safe environments within healthcare facilities. They combine their knowledge of interior design principles with an understanding of healthcare regulations and requirements to design spaces that promote healing, efficiency, and overall well-being. These designers collaborate with architects, engineers, and healthcare professionals to develop layouts, select appropriate materials, and incorporate innovative design elements that enhance patient experience and staff productivity. They must possess strong communication and problem-solving skills, as well as a keen eye for detail. A Healthcare Interior Designer plays a crucial role in creating healthcare spaces that are both visually appealing and conducive to the healing process.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Healthcare Interior Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Healthcare Interior Designer interviews to help you prepare and succeed.

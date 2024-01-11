@@ -2,6 +2,8 @@
 
 Welcome to the Critical Care Nurse Interview Preparation ! This resource is designed to help you ace your Critical Care Nurse interviews with confidence.
 
+A critical care nurse is a highly skilled healthcare professional who specializes in providing care to patients in critical condition. They work in intensive care units (ICUs) and other critical care settings, where patients require constant monitoring and specialized treatment. Critical care nurses are responsible for assessing patients, administering medications, managing life support equipment, and providing emotional support to patients and their families. They collaborate with a multidisciplinary healthcare team to develop and implement individualized care plans, ensuring the best possible outcomes for patients. Critical care nurses must have excellent critical thinking, communication, and decision-making skills, as they often encounter complex and rapidly changing situations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Critical Care Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Critical Care Nurse interviews to help you prepare and succeed.

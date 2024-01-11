@@ -2,6 +2,8 @@
 
 Welcome to the Peace Corps Volunteer Interview Preparation ! This resource is designed to help you ace your Peace Corps Volunteer interviews with confidence.
 
+As a Peace Corps Volunteer in the field of Anthropology, you would be engaged in promoting cross-cultural understanding, community development, and sustainable change. This unique opportunity allows you to immerse yourself in a foreign culture, working closely with local communities to address their social, economic, and environmental challenges. Through your role as an Anthropology Volunteer, you will study and document the local customs, beliefs, and traditions, helping to preserve cultural heritage while fostering positive relationships. By collaborating with local stakeholders, you will contribute to designing and implementing projects that promote social justice, gender equality, education, healthcare, and environmental conservation. This empowering experience will not only transform the lives of others but also provide you with a deep understanding of global interconnectedness and the ability to make a lasting impact.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Peace Corps Volunteer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Peace Corps Volunteer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Sales and Marketing Consultant Interview Preparation ! This resource is designed to help you ace your Sales and Marketing Consultant interviews with confidence.
 
+A Sales and Marketing Consultant is a professional who specializes in providing expert advice and guidance to businesses on how to improve their sales and marketing strategies. They help companies identify target markets, develop effective marketing campaigns, and implement sales techniques to increase revenue and customer base. These consultants analyze market trends, conduct market research, and evaluate competitors to provide valuable insights and recommendations. They collaborate with cross-functional teams to develop marketing plans, set sales targets, and monitor progress. Sales and Marketing Consultants possess excellent communication and interpersonal skills and are adept at developing and maintaining strong client relationships. They play a crucial role in driving business growth and achieving marketing objectives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sales and Marketing Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sales and Marketing Consultant interviews to help you prepare and succeed.

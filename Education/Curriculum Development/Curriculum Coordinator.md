@@ -2,6 +2,8 @@
 
 Welcome to the Curriculum Coordinator Interview Preparation ! This resource is designed to help you ace your Curriculum Coordinator interviews with confidence.
 
+A Curriculum Coordinator is a vital role in the field of education, responsible for overseeing the development and implementation of educational curricula. As a Curriculum Coordinator, one is tasked with designing and organizing curriculum materials, ensuring alignment with educational standards and objectives. This involves conducting thorough research, collaborating with teachers and administrators, and evaluating the effectiveness of curriculum designs. Additionally, Curriculum Coordinators are responsible for providing professional development opportunities for teachers, monitoring and assessing instructional practices, and staying up-to-date with the latest educational trends and policies. A successful Curriculum Coordinator possesses strong organizational and communication skills, a deep understanding of educational principles, and a passion for creating meaningful learning experiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Curriculum Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Curriculum Coordinator interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Physiologist Interview Preparation ! This resource is designed to help you ace your Physiologist interviews with confidence.
 
+A physiologist is a professional who specializes in the study of how living organisms function at the cellular, tissue, organ, and system levels. They conduct research to understand the various biological processes that occur within the human body and other organisms. This research involves the investigation of how different systems, such as the cardiovascular, respiratory, and nervous systems, work together to maintain homeostasis. Physiologists use a variety of techniques, including laboratory experiments, clinical trials, and computer simulations, to collect and analyze data. Their findings contribute to advancements in healthcare, as they help to diagnose and treat diseases, develop new drugs, and improve overall human health and well-being.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Physiologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Physiologist interviews to help you prepare and succeed.

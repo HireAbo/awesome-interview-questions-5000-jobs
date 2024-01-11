@@ -2,6 +2,8 @@
 
 Welcome to the Statistical Content Developer Interview Preparation ! This resource is designed to help you ace your Statistical Content Developer interviews with confidence.
 
+A Statistical Content Developer is a professional who specializes in creating statistical content for various purposes. They are responsible for developing and designing statistical models, analyzing data, and creating reports and presentations based on the analysis. This role requires a strong understanding of mathematics and statistics, as well as excellent analytical and problem-solving skills. A Statistical Content Developer may work in various industries, such as finance, healthcare, or market research, to provide insights and make informed decisions based on data. They play a crucial role in helping organizations understand and interpret complex statistical information, ultimately contributing to informed decision-making processes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Statistical Content Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Statistical Content Developer interviews to help you prepare and succeed.

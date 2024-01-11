@@ -2,6 +2,8 @@
 
 Welcome to the Sales Representative Interview Preparation ! This resource is designed to help you ace your Sales Representative interviews with confidence.
 
+A Sales Representative is an integral part of the retail and sales industry. They play a crucial role in driving revenue by promoting and selling products or services to customers. Sales Representatives are responsible for building and maintaining strong relationships with existing and potential clients. They actively seek out new sales opportunities through cold calling, networking, and attending industry events. Additionally, they provide excellent customer service by addressing inquiries, resolving complaints, and ensuring customer satisfaction. Sales Representatives are expected to meet or exceed sales targets, analyze market trends, and provide feedback on product performance. Strong communication, negotiation, and persuasion skills are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sales Representative or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sales Representative interviews to help you prepare and succeed.

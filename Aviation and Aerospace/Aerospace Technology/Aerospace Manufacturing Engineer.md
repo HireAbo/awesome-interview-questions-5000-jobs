@@ -2,6 +2,10 @@
 
 Welcome to the Aerospace Manufacturing Engineer Interview Preparation ! This resource is designed to help you ace your Aerospace Manufacturing Engineer interviews with confidence.
 
+Aviation and Aerospace is a dynamic field that encompasses the design, development, and manufacturing of aircraft and spacecraft. Aerospace Technology focuses on the advanced technologies utilized in this industry, including aerospace manufacturing engineering. 
+
+An Aerospace Manufacturing Engineer plays a crucial role in the production process. They are responsible for designing and implementing efficient manufacturing systems and processes to ensure the quality and timely delivery of aerospace products. This involves analyzing production requirements, creating manufacturing plans, and overseeing the assembly and testing of components. Additionally, Aerospace Manufacturing Engineers collaborate with cross-functional teams to optimize production efficiency, reduce costs, and improve product performance. With their expertise in both engineering principles and manufacturing practices, Aerospace Manufacturing Engineers are essential in driving innovation and maintaining the highest standards in the aerospace industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Aerospace Manufacturing Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Aerospace Manufacturing Engineer interviews to help you prepare and succeed.

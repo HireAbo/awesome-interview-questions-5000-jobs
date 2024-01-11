@@ -2,6 +2,8 @@
 
 Welcome to the Corporate Treasurer Interview Preparation ! This resource is designed to help you ace your Corporate Treasurer interviews with confidence.
 
+A Corporate Treasurer is a vital role within an organization's finance department, responsible for managing the company's financial assets and liabilities. They play a crucial role in ensuring the organization's financial stability and growth by overseeing cash management activities, including liquidity management, investment strategies, and funding requirements. Corporate Treasurers also handle financial risk management, assessing and mitigating potential financial risks that could impact the organization's profitability. Additionally, they collaborate with various stakeholders, including banks, investors, and internal departments, to optimize financial operations and facilitate strategic decision-making. A successful Corporate Treasurer possesses strong analytical skills, financial acumen, and a deep understanding of financial markets and regulations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Corporate Treasurer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Corporate Treasurer interviews to help you prepare and succeed.

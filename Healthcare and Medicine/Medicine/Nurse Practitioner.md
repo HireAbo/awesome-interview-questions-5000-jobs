@@ -2,6 +2,8 @@
 
 Welcome to the Nurse Practitioner Interview Preparation ! This resource is designed to help you ace your Nurse Practitioner interviews with confidence.
 
+A Nurse Practitioner (NP) is an advanced practice registered nurse who plays a critical role in the healthcare system. They are highly trained and educated professionals who provide high-quality healthcare services to patients of all ages. NPs are authorized to diagnose and treat illnesses, prescribe medications, and order diagnostic tests. They work in collaboration with physicians and other healthcare professionals to provide comprehensive and holistic care to patients. NPs are trained to manage both acute and chronic conditions, and they focus on health promotion, disease prevention, and patient education. With their expertise and skills, NPs are an integral part of the healthcare team, ensuring that patients receive the best possible care.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nurse Practitioner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nurse Practitioner interviews to help you prepare and succeed.

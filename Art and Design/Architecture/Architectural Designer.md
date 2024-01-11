@@ -2,6 +2,8 @@
 
 Welcome to the Architectural Designer Interview Preparation ! This resource is designed to help you ace your Architectural Designer interviews with confidence.
 
+An architectural designer is a professional who specializes in creating and designing architectural plans and structures. They are responsible for transforming an idea or concept into a visually appealing and functional design. With a keen eye for detail and a deep understanding of construction and engineering principles, architectural designers play a crucial role in shaping the built environment. They work closely with clients, engineers, and other professionals to develop innovative and sustainable designs that meet the specific requirements of a project. From residential buildings to commercial complexes, an architectural designer's expertise lies in creating aesthetically pleasing spaces that seamlessly merge form and function.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Architectural Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Architectural Designer interviews to help you prepare and succeed.

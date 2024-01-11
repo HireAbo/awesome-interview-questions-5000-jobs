@@ -2,6 +2,8 @@
 
 Welcome to the Theater Set Builder Interview Preparation ! This resource is designed to help you ace your Theater Set Builder interviews with confidence.
 
+A theater set builder is a skilled professional responsible for constructing and designing the physical sets used in theater productions. They work closely with set designers, directors, and other production staff to bring the artistic vision of a play or performance to life. A theater set builder is proficient in various construction techniques, such as carpentry, painting, welding, and sculpting. They are adept at reading technical drawings and blueprints, ensuring that sets are structurally sound and visually appealing. Attention to detail, creativity, problem-solving skills, and the ability to work under tight deadlines are essential qualities for a successful theater set builder.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Theater Set Builder or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Theater Set Builder interviews to help you prepare and succeed.

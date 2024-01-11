@@ -2,6 +2,8 @@
 
 Welcome to the Emergency and Critical Care Veterinarian Interview Preparation ! This resource is designed to help you ace your Emergency and Critical Care Veterinarian interviews with confidence.
 
+Emergency and Critical Care Veterinarians play a crucial role in providing immediate medical attention to animals in critical condition or facing life-threatening situations. These highly trained professionals specialize in handling emergency cases, where quick decision-making and precise medical interventions are essential. They are equipped to handle a wide range of emergencies, including trauma cases, respiratory distress, toxicities, and acute illnesses. Emergency and Critical Care Veterinarians work in fast-paced environments such as animal hospitals, emergency clinics, and specialty centers, collaborating with a team of technicians and other specialists to assess, stabilize, and treat animals in crisis. Their dedication and expertise contribute to saving and improving the lives of countless animals in need.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Emergency and Critical Care Veterinarian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Emergency and Critical Care Veterinarian interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Prison Warden Interview Preparation ! This resource is designed to help you ace your Prison Warden interviews with confidence.
 
+A Prison Warden oversees the operations and management of a correctional facility, ensuring the safety, security, and well-being of both staff and inmates. They are responsible for maintaining order and discipline within the prison, enforcing rules and regulations, and preventing escapes or disturbances. The job of a Prison Warden involves supervising and coordinating the work of correctional officers, monitoring inmate behavior, and implementing rehabilitation programs to reduce recidivism. They also handle administrative tasks such as budgeting, staff training, and evaluating facility needs. A successful Prison Warden must possess strong leadership skills, excellent communication abilities, and a deep understanding of law and criminal justice principles.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Prison Warden or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Prison Warden interviews to help you prepare and succeed.

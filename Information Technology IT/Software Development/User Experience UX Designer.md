@@ -2,6 +2,8 @@
 
 Welcome to the User Experience (UX) Designer Interview Preparation ! This resource is designed to help you ace your User Experience (UX) Designer interviews with confidence.
 
+A User Experience (UX) Designer is a crucial role in the field of Information Technology (IT) and Software Development. As technology continues to evolve, businesses understand the importance of delivering seamless and intuitive user experiences to their customers. UX Designers play a vital role in achieving this goal. Their main responsibility is to create user-centric designs that enhance the usability and overall satisfaction of a product or service. They conduct user research, develop wireframes and prototypes, and collaborate with cross-functional teams to ensure that the final design meets user needs and aligns with business objectives. A successful UX Designer possesses a combination of technical skills, creativity, and a deep understanding of human behavior.
+
 ## 🚀 Overview
 
 Whether you're a seasoned User Experience (UX) Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in User Experience (UX) Designer interviews to help you prepare and succeed.

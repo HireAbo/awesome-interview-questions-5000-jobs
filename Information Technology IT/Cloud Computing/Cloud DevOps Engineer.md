@@ -2,6 +2,8 @@
 
 Welcome to the Cloud DevOps Engineer Interview Preparation ! This resource is designed to help you ace your Cloud DevOps Engineer interviews with confidence.
 
+Information Technology (IT) is a vast field that encompasses the use and management of computer systems, software, networks, and data to support various business operations. Cloud computing is a subset of IT that involves the delivery of computing services, such as storage, databases, and software, over the internet on a pay-per-use basis. Cloud DevOps Engineer is a job role within IT that focuses on integrating cloud technologies with development and operations processes. They are responsible for designing, implementing, and managing the cloud infrastructure, ensuring continuous integration and delivery of software, automating processes, and optimizing system performance and scalability. Cloud DevOps Engineers play a crucial role in enabling organizations to leverage the benefits of cloud computing for their business operations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cloud DevOps Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cloud DevOps Engineer interviews to help you prepare and succeed.

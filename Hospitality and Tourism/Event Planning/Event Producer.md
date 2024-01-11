@@ -2,6 +2,10 @@
 
 Welcome to the Event Producer Interview Preparation ! This resource is designed to help you ace your Event Producer interviews with confidence.
 
+Hospitality and Tourism- Event Planning- Event Producer:
+
+The field of hospitality and tourism offers a wide range of exciting career opportunities, and one of them is event planning. Event planning involves organizing and managing various types of events, such as conferences, weddings, trade shows, and concerts, to name a few. Within the event planning industry, the role of an event producer is vital. An event producer is responsible for overseeing the entire event from inception to execution. They work closely with clients, vendors, and a team of professionals to ensure that all aspects of the event run smoothly. This includes budgeting, logistics, coordinating event details, and ensuring a memorable experience for attendees. An event producer must possess excellent communication and organizational skills, attention to detail, and the ability to work under pressure. They play a crucial role in creating unforgettable experiences while maintaining high standards of professionalism in the hospitality and tourism sector.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Event Producer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Event Producer interviews to help you prepare and succeed.

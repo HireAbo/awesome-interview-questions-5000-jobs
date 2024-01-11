@@ -2,6 +2,8 @@
 
 Welcome to the Educational Consultant Interview Preparation ! This resource is designed to help you ace your Educational Consultant interviews with confidence.
 
+An Educational Consultant specializing in Curriculum Development plays a crucial role in shaping the educational landscape. These professionals are experts in designing, evaluating, and implementing educational programs to enhance student learning outcomes. As an Educational Consultant, their primary responsibility is to work closely with educational institutions, school districts, and organizations to assess their curriculum needs. They conduct thorough research, analyze data, and identify gaps in existing curriculum frameworks. Utilizing their expertise, they develop tailored curriculum plans, incorporating innovative teaching strategies and incorporating the latest educational technologies. Educational Consultants also provide ongoing support, training, and guidance to educators, ensuring the successful implementation and continuous improvement of the curriculum. Their work ultimately contributes to creating engaging, relevant, and effective educational experiences for students.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Educational Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Educational Consultant interviews to help you prepare and succeed.

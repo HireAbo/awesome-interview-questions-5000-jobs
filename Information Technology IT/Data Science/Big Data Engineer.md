@@ -2,6 +2,8 @@
 
 Welcome to the Big Data Engineer Interview Preparation ! This resource is designed to help you ace your Big Data Engineer interviews with confidence.
 
+Information Technology (IT) is a broad field that encompasses the management and use of technology to store, retrieve, transmit, and manipulate data. One specialized role within IT is Data Science, which involves extracting meaningful insights from large sets of complex data. Data Science professionals employ various techniques, including statistical analysis, machine learning, and data visualization, to uncover patterns and trends that drive business decision-making. A Big Data Engineer, on the other hand, focuses on the infrastructure and systems required to handle massive amounts of data. They design, develop, and maintain the architecture needed to process, store, and analyze vast volumes of data, ensuring its availability and reliability.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Big Data Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Big Data Engineer interviews to help you prepare and succeed.

@@ -2,6 +2,12 @@
 
 Welcome to the Real Estate Appraisal Coordinator Interview Preparation ! This resource is designed to help you ace your Real Estate Appraisal Coordinator interviews with confidence.
 
+Real Estate and Property Management is a vast industry that deals with the buying, selling, renting, and leasing of properties, including residential, commercial, and industrial real estate. It involves various professionals who specialize in different aspects, such as real estate appraisal. 
+
+Real Estate Appraisal is the process of determining the value of a property based on various factors like location, condition, and market trends. It requires extensive knowledge of property markets, financial analysis, and research skills. 
+
+A Real Estate Appraisal Coordinator is a vital role within this field. They are responsible for coordinating and managing the appraisal process, liaising with appraisers, clients, and other stakeholders, and ensuring that appraisals are conducted accurately and within specified timelines. They play a crucial role in facilitating property transactions and ensuring fair and reliable property valuations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Appraisal Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Appraisal Coordinator interviews to help you prepare and succeed.

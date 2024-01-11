@@ -2,6 +2,8 @@
 
 Welcome to the Sports PR Specialist Interview Preparation ! This resource is designed to help you ace your Sports PR Specialist interviews with confidence.
 
+A Sports PR Specialist plays a vital role in the field of public relations within the sports industry. They are responsible for managing and promoting the public image of athletes, teams, and sports organizations. This role involves developing and implementing strategic communication plans to enhance the reputation and visibility of their clients. A Sports PR Specialist works closely with media outlets, journalists, and other stakeholders to generate positive media coverage and manage crisis situations. They are also involved in organizing and coordinating press conferences, media interviews, and events. This job requires exceptional communication, networking, and problem-solving skills, along with a deep understanding of the sports industry and media landscape.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sports PR Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sports PR Specialist interviews to help you prepare and succeed.

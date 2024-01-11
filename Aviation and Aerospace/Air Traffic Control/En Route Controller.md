@@ -2,6 +2,8 @@
 
 Welcome to the En Route Controller Interview Preparation ! This resource is designed to help you ace your En Route Controller interviews with confidence.
 
+An En Route Controller is a crucial role in the field of Aviation and Aerospace, specifically in Air Traffic Control (ATC). These professionals are responsible for managing and directing the movement of aircraft in the en route phase of flight. They ensure the safe and efficient flow of air traffic over a designated airspace, monitoring aircraft through radar, computer systems, and communication tools. En Route Controllers are highly trained individuals who make critical decisions in real-time, coordinating with pilots, other controllers, and ground personnel to maintain separation between aircraft, prevent conflicts, and minimize delays. Their role requires strong communication skills, attention to detail, and the ability to handle high-pressure situations with calmness and efficiency.
+
 ## 🚀 Overview
 
 Whether you're a seasoned En Route Controller or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in En Route Controller interviews to help you prepare and succeed.

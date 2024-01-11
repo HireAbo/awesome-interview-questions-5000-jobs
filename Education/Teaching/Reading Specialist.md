@@ -2,6 +2,8 @@
 
 Welcome to the Reading Specialist Interview Preparation ! This resource is designed to help you ace your Reading Specialist interviews with confidence.
 
+A Reading Specialist is an education professional who specializes in teaching reading skills to students of all ages. They play a crucial role in helping students develop strong reading abilities and improve their comprehension and fluency. Reading Specialists typically work in schools, but they may also be employed by tutoring centers, literacy organizations, or as private consultants. Their responsibilities include assessing students' reading levels, designing and implementing effective instructional strategies, and monitoring progress through various assessments and evaluations. Reading Specialists collaborate with classroom teachers, parents, and other stakeholders to develop individualized reading plans and provide support to struggling readers. Their dedication and expertise contribute to creating a solid foundation for lifelong learning and success in academic endeavors.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Reading Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Reading Specialist interviews to help you prepare and succeed.

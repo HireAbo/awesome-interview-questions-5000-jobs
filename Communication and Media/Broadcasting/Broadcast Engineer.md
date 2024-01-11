@@ -2,6 +2,8 @@
 
 Welcome to the Broadcast Engineer Interview Preparation ! This resource is designed to help you ace your Broadcast Engineer interviews with confidence.
 
+A Broadcast Engineer plays a crucial role in the field of Communication and Media, specifically in the area of Broadcasting. These professionals are responsible for the technical aspects of broadcasting, ensuring that audio and video signals are transmitted efficiently and flawlessly. They work with a variety of equipment such as transmitters, cameras, audio consoles, and satellite systems, among others. Broadcast Engineers also troubleshoot any technical issues that may arise during live broadcasts, ensuring uninterrupted transmission. They collaborate closely with producers, directors, and other team members to achieve high-quality audio and video production. Strong technical knowledge, problem-solving skills, and attention to detail are essential in this fast-paced and dynamic field.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Broadcast Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Broadcast Engineer interviews to help you prepare and succeed.

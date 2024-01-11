@@ -2,6 +2,8 @@
 
 Welcome to the Back-End Web Developer Interview Preparation ! This resource is designed to help you ace your Back-End Web Developer interviews with confidence.
 
+A back-end web developer is a professional who specializes in the development and maintenance of the server-side of websites and web applications. They primarily focus on creating the core architecture, databases, and functionality that power a website or application. Back-end developers work closely with front-end developers and designers to ensure seamless integration between the user interface and the server-side. They are proficient in programming languages such as PHP, Python, Ruby, or Java, and are experienced in using frameworks like Node.js or Django. Their responsibilities include writing clean and efficient code, optimizing performance, and ensuring the security and scalability of web applications.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Back-End Web Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Back-End Web Developer interviews to help you prepare and succeed.

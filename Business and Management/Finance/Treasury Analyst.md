@@ -2,6 +2,8 @@
 
 Welcome to the Treasury Analyst Interview Preparation ! This resource is designed to help you ace your Treasury Analyst interviews with confidence.
 
+A Treasury Analyst is a key position in the field of Business and Management, specifically focused on Finance. This role primarily involves managing the financial assets of an organization and ensuring optimal cash flow management. The Treasury Analyst is responsible for analyzing and reporting on financial data, monitoring market trends, and making recommendations for investment strategies. They also play a crucial role in managing risk, by assessing and mitigating potential financial threats. In addition, this position requires strong analytical skills, as well as the ability to communicate effectively with stakeholders at all levels. A Treasury Analyst plays a vital role in supporting the financial stability and growth of a company.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Treasury Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Treasury Analyst interviews to help you prepare and succeed.

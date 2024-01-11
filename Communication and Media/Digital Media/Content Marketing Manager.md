@@ -2,6 +2,8 @@
 
 Welcome to the Content Marketing Manager Interview Preparation ! This resource is designed to help you ace your Content Marketing Manager interviews with confidence.
 
+A Content Marketing Manager is responsible for developing and implementing strategic content marketing initiatives to enhance brand awareness and engage target audiences. This role requires a deep understanding of communication and media, specifically digital media platforms. As a Content Marketing Manager, you will be responsible for creating and distributing valuable and relevant content across various channels such as websites, social media platforms, blogs, and email campaigns. You will work closely with cross-functional teams, including writers, designers, and SEO specialists, to ensure the content aligns with the brand's messaging and objectives. Additionally, you will analyze data and metrics to optimize content marketing strategies and measure the success of campaigns.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Content Marketing Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Content Marketing Manager interviews to help you prepare and succeed.

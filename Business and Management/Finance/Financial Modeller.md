@@ -2,6 +2,8 @@
 
 Welcome to the Financial Modeller Interview Preparation ! This resource is designed to help you ace your Financial Modeller interviews with confidence.
 
+A Financial Modeller is a professional who plays a crucial role in the field of business and management, specifically within finance. Their primary responsibility is to develop and maintain financial models that help organizations make informed decisions and achieve their financial goals. These professionals use various software and tools to create complex financial models, accurately forecasting future financial outcomes, analyzing investment opportunities, and identifying potential risks. They work closely with financial analysts, stakeholders, and senior management to provide strategic insights and recommendations based on their detailed financial analysis. A Financial Modeller requires strong analytical skills, attention to detail, and a deep understanding of financial concepts and principles.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Financial Modeller or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Financial Modeller interviews to help you prepare and succeed.

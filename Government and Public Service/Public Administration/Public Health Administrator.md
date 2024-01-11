@@ -2,6 +2,8 @@
 
 Welcome to the Public Health Administrator Interview Preparation ! This resource is designed to help you ace your Public Health Administrator interviews with confidence.
 
+A Public Health Administrator is a vital role within the field of Public Administration, specifically in the area of Government and Public Service. These professionals play a crucial role in safeguarding and promoting the health and well-being of the public. As a Public Health Administrator, their primary responsibility is to develop and implement policies, programs, and initiatives that address public health concerns. This includes overseeing healthcare systems, managing resources, coordinating emergency response efforts, and collaborating with various stakeholders such as government agencies, healthcare providers, and community organizations. Public Health Administrators strive to improve the overall health outcomes of the population by ensuring access to quality healthcare services and implementing preventive measures to mitigate health risks.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Public Health Administrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Public Health Administrator interviews to help you prepare and succeed.

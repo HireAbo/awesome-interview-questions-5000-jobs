@@ -2,6 +2,8 @@
 
 Welcome to the Karate Instructor Interview Preparation ! This resource is designed to help you ace your Karate Instructor interviews with confidence.
 
+A Karate Instructor is a professional who specializes in teaching and coaching individuals in the art of karate. As a Karate Instructor, their primary role is to guide and train students in the techniques, principles, and philosophies of karate. They create a safe and supportive environment where students can develop their physical, mental, and emotional strengths. Karate Instructors design and implement training programs, conduct classes and workshops, and provide personalized instruction to students of all ages and skill levels. They possess excellent communication and leadership skills, ensuring effective learning and progress for their students. A Karate Instructor is passionate about promoting discipline, respect, and personal growth through the practice of karate.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Karate Instructor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Karate Instructor interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Leadership Coach Interview Preparation ! This resource is designed to help you ace your Leadership Coach interviews with confidence.
 
+A Leadership Coach specializing in Business and Management Entrepreneurship is a professional who guides individuals or teams towards realizing their full potential and achieving their goals. They provide support and guidance to entrepreneurs and leaders in developing their leadership skills, enhancing their decision-making abilities, and improving their overall business performance. A Leadership Coach assists clients in identifying their strengths and areas for improvement, helping them create effective strategies to overcome challenges and drive success. They utilize a variety of coaching techniques, such as active listening, powerful questioning, and goal setting, to empower their clients in making informed decisions and fostering a positive and productive work environment. Leadership Coaches play a pivotal role in shaping successful entrepreneurs and leaders, enabling them to thrive in an increasingly competitive business landscape.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Leadership Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Leadership Coach interviews to help you prepare and succeed.

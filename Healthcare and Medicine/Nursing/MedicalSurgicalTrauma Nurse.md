@@ -2,6 +2,8 @@
 
 Welcome to the Medical-Surgical/Trauma Nurse Interview Preparation ! This resource is designed to help you ace your Medical-Surgical/Trauma Nurse interviews with confidence.
 
+A Medical-Surgical/Trauma Nurse plays a crucial role in the healthcare system, providing essential care to patients in various medical settings. These highly skilled nurses specialize in caring for patients with complex medical conditions, including those recovering from surgery or experiencing acute injuries. They work closely with physicians and other healthcare professionals to monitor patients' conditions, administer medications, perform medical procedures, and provide emotional support to patients and their families. Medical-Surgical/Trauma Nurses are equipped with extensive knowledge and expertise in managing and treating a wide range of medical conditions, making them indispensable members of the healthcare team. Their dedication and skills contribute significantly to ensuring the overall well-being and recovery of patients.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Medical-Surgical/Trauma Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Medical-Surgical/Trauma Nurse interviews to help you prepare and succeed.

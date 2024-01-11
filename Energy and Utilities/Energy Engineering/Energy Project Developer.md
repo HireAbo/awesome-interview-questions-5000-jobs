@@ -2,6 +2,8 @@
 
 Welcome to the Energy Project Developer Interview Preparation ! This resource is designed to help you ace your Energy Project Developer interviews with confidence.
 
+An Energy Project Developer is a professional who specializes in the planning, development, and execution of energy projects. They are responsible for identifying and evaluating potential energy projects, conducting feasibility studies, and securing necessary permits and approvals. Energy Project Developers collaborate with various stakeholders, including engineers, designers, and contractors, to ensure the successful implementation of projects. They also have expertise in renewable energy sources such as solar, wind, and hydroelectric power. Energy Project Developers play a crucial role in addressing the global energy transition, as they contribute to the development of sustainable and efficient energy solutions to meet the growing demand for power.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Energy Project Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Energy Project Developer interviews to help you prepare and succeed.

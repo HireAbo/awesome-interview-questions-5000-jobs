@@ -2,6 +2,8 @@
 
 Welcome to the Parasitologist Interview Preparation ! This resource is designed to help you ace your Parasitologist interviews with confidence.
 
+A parasitologist is a scientist who specializes in the study of parasites and their interactions with host organisms. They conduct research to understand the biology, behavior, and impact of various parasites on their hosts. Their work involves studying the life cycle, transmission, and control methods of parasites, as well as investigating the mechanisms of host-parasite interactions at molecular, cellular, and organismal levels. Parasitologists also play a crucial role in diagnosing and treating parasitic diseases in humans, animals, and plants. Through their research, they contribute to the development of effective strategies to prevent and control parasitic infections, ultimately improving public health and the well-being of ecosystems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Parasitologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Parasitologist interviews to help you prepare and succeed.

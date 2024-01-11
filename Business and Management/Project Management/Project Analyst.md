@@ -2,6 +2,8 @@
 
 Welcome to the Project Analyst Interview Preparation ! This resource is designed to help you ace your Project Analyst interviews with confidence.
 
+A Project Analyst plays a crucial role in the field of project management within a business or organization. They are responsible for analyzing and evaluating projects to ensure they are executed efficiently and effectively. This involves conducting research, gathering and interpreting data, and providing valuable insights and recommendations to project managers. Project Analysts are involved in all stages of a project's lifecycle, from planning and organizing to implementation and evaluation. They work closely with cross-functional teams, ensuring that projects are aligned with organizational goals and objectives. Strong analytical, problem-solving, and communication skills are essential for this role, as well as the ability to manage time and resources effectively.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Project Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Project Analyst interviews to help you prepare and succeed.

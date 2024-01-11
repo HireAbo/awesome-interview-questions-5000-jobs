@@ -2,6 +2,10 @@
 
 Welcome to the Health Educator Interview Preparation ! This resource is designed to help you ace your Health Educator interviews with confidence.
 
+Social work and human services encompass a diverse field that aims to enhance the well-being and quality of life for individuals, families, and communities. These professionals work with marginalized populations, addressing social issues such as poverty, mental health, and child welfare. They provide vital support, advocacy, and resources to empower individuals and create lasting social change. 
+
+Within the broader realm of public health, health educators play a crucial role in promoting wellness and preventing disease. They develop and implement educational programs to inform communities about healthy lifestyles, disease prevention, and the importance of regular screenings. Health educators collaborate with community organizations, schools, and healthcare providers to raise awareness and empower individuals to make informed health decisions. Through their efforts, they contribute to improving overall health outcomes and reducing healthcare disparities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Health Educator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Health Educator interviews to help you prepare and succeed.

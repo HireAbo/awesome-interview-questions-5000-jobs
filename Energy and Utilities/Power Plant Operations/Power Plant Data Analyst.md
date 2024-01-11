@@ -2,6 +2,8 @@
 
 Welcome to the Power Plant Data Analyst Interview Preparation ! This resource is designed to help you ace your Power Plant Data Analyst interviews with confidence.
 
+The role of a Power Plant Data Analyst in the Energy and Utilities industry is crucial for ensuring the efficient and optimal functioning of power plants. As a Power Plant Data Analyst, you will be responsible for analyzing and interpreting large volumes of data related to power plant operations. This includes monitoring and analyzing real-time data, such as energy production, equipment performance, and environmental factors. Additionally, you will identify patterns, trends, and anomalies in the data to make informed decisions and recommendations for improving overall plant performance. Strong analytical skills, attention to detail, and critical thinking abilities are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Power Plant Data Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Power Plant Data Analyst interviews to help you prepare and succeed.

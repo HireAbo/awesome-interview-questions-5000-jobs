@@ -2,6 +2,8 @@
 
 Welcome to the HR Administrator Interview Preparation ! This resource is designed to help you ace your HR Administrator interviews with confidence.
 
+The HR Administrator job is a crucial role within the field of Business and Management, specifically in the Human Resources department. As an HR Administrator, you will be responsible for managing various administrative tasks related to employee records, benefits, and payroll. You will also play a vital role in supporting the recruitment and onboarding process, ensuring compliance with company policies and procedures. Additionally, you will assist in coordinating employee training and development programs, as well as handling employee relations and conflict resolution. Strong organizational and communication skills are essential for this role, as you will be interacting with employees at all levels within the organization.
+
 ## 🚀 Overview
 
 Whether you're a seasoned HR Administrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in HR Administrator interviews to help you prepare and succeed.

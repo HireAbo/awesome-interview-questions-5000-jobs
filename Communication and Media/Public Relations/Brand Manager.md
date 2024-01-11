@@ -2,6 +2,8 @@
 
 Welcome to the Brand Manager Interview Preparation ! This resource is designed to help you ace your Brand Manager interviews with confidence.
 
+A Brand Manager in the field of Public Relations plays a crucial role in shaping and maintaining a positive image of a company or organization. They are responsible for developing and implementing strategic communication plans to effectively promote and protect the brand's reputation. The role requires strong communication skills, both written and verbal, as brand managers work closely with clients, stakeholders, and the media. They are adept at crafting compelling brand narratives, managing social media presence, and coordinating public relations campaigns. A Brand Manager must be a creative thinker, able to analyze market trends, and possess excellent problem-solving skills to ensure the brand's message resonates with the target audience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Brand Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Brand Manager interviews to help you prepare and succeed.

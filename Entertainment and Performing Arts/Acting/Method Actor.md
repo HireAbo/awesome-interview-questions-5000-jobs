@@ -2,6 +2,8 @@
 
 Welcome to the Method Actor Interview Preparation ! This resource is designed to help you ace your Method Actor interviews with confidence.
 
+A Method Actor is a specialized job within the field of acting, which involves the utilization of the Method Acting technique. Method Acting is an approach that encourages actors to deeply immerse themselves in their characters, often drawing from personal experiences and emotions to create authentic performances. Method Actors strive to bring a sense of truth and realism to their roles, aiming to fully embody the thoughts, feelings, and physicality of their characters. They undergo extensive research, psychological exploration, and emotional preparation to portray their roles convincingly. This job requires a high level of dedication, discipline, and emotional vulnerability, as Method Actors often undergo intense transformations to deliver powerful and impactful performances on stage or screen.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Method Actor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Method Actor interviews to help you prepare and succeed.

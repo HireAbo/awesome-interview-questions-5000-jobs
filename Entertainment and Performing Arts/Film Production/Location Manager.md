@@ -2,6 +2,8 @@
 
 Welcome to the Location Manager Interview Preparation ! This resource is designed to help you ace your Location Manager interviews with confidence.
 
+A Location Manager plays a vital role in the film production industry. Their primary responsibility is to find and secure suitable locations for filming. They work closely with the director, production designer, and cinematographer to understand the specific requirements for each scene and find the perfect settings. The Location Manager conducts extensive research, scouting various locations, negotiating contracts, and obtaining necessary permits. They must have strong communication and organizational skills to coordinate with property owners, local authorities, and the production team. Attention to detail and problem-solving abilities are essential to overcome any challenges that may arise during the location scouting process.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Location Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Location Manager interviews to help you prepare and succeed.

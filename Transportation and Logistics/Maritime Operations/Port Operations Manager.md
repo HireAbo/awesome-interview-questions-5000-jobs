@@ -2,6 +2,8 @@
 
 Welcome to the Port Operations Manager Interview Preparation ! This resource is designed to help you ace your Port Operations Manager interviews with confidence.
 
+A Port Operations Manager is a key professional responsible for overseeing the efficient operations of ports and harbors. They play a crucial role in managing the movement of goods and materials through maritime operations. This job involves coordinating and supervising various activities such as vessel scheduling, cargo handling, and ensuring compliance with safety regulations. A Port Operations Manager is also responsible for managing the port's infrastructure, including the maintenance of docks, terminals, and storage facilities. Additionally, they collaborate with stakeholders including shipping companies, government agencies, and port personnel to ensure smooth operations and optimize productivity. This role requires strong leadership, organizational, and problem-solving skills to effectively manage the complexities of maritime logistics.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Port Operations Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Port Operations Manager interviews to help you prepare and succeed.

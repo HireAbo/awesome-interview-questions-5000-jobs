@@ -2,6 +2,8 @@
 
 Welcome to the Wedding Planner Interview Preparation ! This resource is designed to help you ace your Wedding Planner interviews with confidence.
 
+Hospitality and Tourism is a thriving industry that encompasses various sectors, including event planning. Within event planning, one of the most sought-after roles is that of a Wedding Planner. A Wedding Planner is responsible for organizing and executing all aspects of a couple's special day, ensuring it is a memorable and flawless event. This includes selecting venues, managing budgets, coordinating with vendors, creating timelines, and overseeing the smooth flow of the wedding day itself. Wedding Planners possess excellent organizational, communication, and problem-solving skills, as well as a keen eye for detail. Their ultimate goal is to bring the couple's vision to life, creating a magical and unforgettable experience for all involved.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wedding Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wedding Planner interviews to help you prepare and succeed.

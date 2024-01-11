@@ -2,6 +2,8 @@
 
 Welcome to the Sales Process Engineer Interview Preparation ! This resource is designed to help you ace your Sales Process Engineer interviews with confidence.
 
+A Sales Process Engineer is a professional who specializes in optimizing the sales procedures and processes within retail and sales organizations. They play a crucial role in improving the efficiency and effectiveness of the sales team by analyzing data, identifying areas of improvement, and implementing strategies to enhance the overall sales process. Sales Process Engineers work closely with sales managers and teams to develop and streamline sales methodologies, tools, and systems. They also conduct regular evaluations and assessments to ensure that the sales process aligns with the organization's goals and objectives. This role requires strong analytical skills, problem-solving abilities, and a deep understanding of sales principles and techniques.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sales Process Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sales Process Engineer interviews to help you prepare and succeed.

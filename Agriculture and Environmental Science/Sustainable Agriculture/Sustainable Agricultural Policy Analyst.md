@@ -2,6 +2,8 @@
 
 Welcome to the Sustainable Agricultural Policy Analyst Interview Preparation ! This resource is designed to help you ace your Sustainable Agricultural Policy Analyst interviews with confidence.
 
+Agriculture and Environmental Science is a field that focuses on the relationship between agriculture practices and the environment. It encompasses the study of sustainable farming techniques, natural resource conservation, and the impact of agriculture on climate change. Sustainable Agriculture specifically aims to meet the current agricultural needs without compromising the ability of future generations to meet their own needs. A Sustainable Agricultural Policy Analyst plays a crucial role in this field by analyzing and developing sustainable agricultural policies. They assess the environmental, economic, and social implications of various agricultural practices and provide recommendations to policymakers to ensure sustainable food production and safeguard the environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sustainable Agricultural Policy Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sustainable Agricultural Policy Analyst interviews to help you prepare and succeed.

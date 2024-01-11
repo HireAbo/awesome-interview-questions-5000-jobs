@@ -2,6 +2,10 @@
 
 Welcome to the Mixed-Use Real Estate Developer Interview Preparation ! This resource is designed to help you ace your Mixed-Use Real Estate Developer interviews with confidence.
 
+A Real Estate and Property Management firm specializes in the management and operation of various types of properties, including residential, commercial, and industrial properties. They handle tasks such as property leasing, tenant screening, rent collection, property maintenance, and ensuring regulatory compliance. 
+
+Real Estate Development involves the purchase, renovation, and construction of properties for various purposes, including residential, commercial, and mixed-use projects. A Mixed-Use Real Estate Developer focuses on creating developments that combine different types of properties, such as residential units, retail spaces, offices, and entertainment facilities, within a single project. This requires expertise in zoning regulations, market analysis, financial modeling, and project management. Mixed-Use Real Estate Developers aim to create vibrant and sustainable communities that offer a diverse range of amenities and activities for residents and visitors.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Mixed-Use Real Estate Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Mixed-Use Real Estate Developer interviews to help you prepare and succeed.

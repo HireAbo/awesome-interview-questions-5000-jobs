@@ -2,6 +2,8 @@
 
 Welcome to the Fashion Journalist Interview Preparation ! This resource is designed to help you ace your Fashion Journalist interviews with confidence.
 
+A Fashion Journalist is a professional who combines the world of fashion and journalism to report on the latest trends, news, and events in the fashion industry. Their primary role is to gather information, conduct interviews, and write compelling articles or stories related to fashion. Fashion Journalists are skilled in storytelling, research, and writing, and they have a keen eye for detail and aesthetics. They may cover a wide range of topics, including fashion shows, designer profiles, new collections, industry analysis, and fashion-related events. Their work is essential in keeping the public informed about the ever-evolving world of fashion and its impact on culture and society.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Fashion Journalist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Fashion Journalist interviews to help you prepare and succeed.

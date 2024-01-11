@@ -2,6 +2,8 @@
 
 Welcome to the Substance Abuse Counselor Interview Preparation ! This resource is designed to help you ace your Substance Abuse Counselor interviews with confidence.
 
+A Substance Abuse Counselor is a professional in the field of Social Sciences, specifically Sociology, who specializes in helping individuals struggling with substance abuse issues. These counselors play a crucial role in supporting and guiding individuals through their journey towards recovery. They work closely with clients to assess their needs, develop treatment plans, and provide counseling services to address the underlying causes and consequences of substance abuse. Substance Abuse Counselors also assist clients in finding appropriate resources and support systems, such as support groups and rehabilitation centers. Their ultimate goal is to help individuals overcome addiction and lead healthy, fulfilling lives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Substance Abuse Counselor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Substance Abuse Counselor interviews to help you prepare and succeed.

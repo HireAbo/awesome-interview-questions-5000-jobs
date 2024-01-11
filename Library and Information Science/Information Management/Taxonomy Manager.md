@@ -2,6 +2,8 @@
 
 Welcome to the Taxonomy Manager Interview Preparation ! This resource is designed to help you ace your Taxonomy Manager interviews with confidence.
 
+A Taxonomy Manager is a crucial professional in the field of Library and Information Science, specifically in the realm of Information Management. The primary responsibility of a Taxonomy Manager is to develop and maintain efficient and effective taxonomies or classification systems for organizing information within an organization or digital platform. This role requires a deep understanding of information organization principles and the ability to create hierarchical structures that facilitate easy retrieval and access to information. Taxonomy Managers collaborate with various stakeholders, including content creators, IT professionals, and end-users, to ensure that the taxonomy accurately represents the content and meets the users' information needs. They also play a vital role in enhancing search capabilities and improving information findability, contributing to the overall success of an organization's information management strategy.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Taxonomy Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Taxonomy Manager interviews to help you prepare and succeed.

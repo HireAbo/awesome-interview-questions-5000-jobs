@@ -2,6 +2,8 @@
 
 Welcome to the Medical Laboratory Technician Interview Preparation ! This resource is designed to help you ace your Medical Laboratory Technician interviews with confidence.
 
+A Medical Laboratory Technician (MLT) plays a crucial role in the field of healthcare and medicine. MLTs are trained professionals who perform laboratory tests, analyze specimens, and help diagnose diseases. They work in a variety of settings, including hospitals, clinics, research laboratories, and public health agencies. MLTs are responsible for collecting and preparing samples, operating and maintaining laboratory equipment, performing tests such as blood tests, urinalysis, and microbiology cultures, and recording and analyzing data. Their accurate and timely test results aid in the detection, treatment, and management of diseases, helping healthcare providers make informed decisions about patient care. MLTs are essential members of the healthcare team, contributing to the overall well-being and quality of patient outcomes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Medical Laboratory Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Medical Laboratory Technician interviews to help you prepare and succeed.

@@ -2,6 +2,10 @@
 
 Welcome to the Assistant Real Estate Developer Interview Preparation ! This resource is designed to help you ace your Assistant Real Estate Developer interviews with confidence.
 
+Real Estate and Property Management is a dynamic industry that involves the buying, selling, and managing of properties. It encompasses various aspects such as residential, commercial, and industrial properties. Real Estate Development, on the other hand, focuses on the process of transforming land into profitable ventures through construction or renovation.
+
+As an Assistant Real Estate Developer, your role is crucial in supporting the main developer in all stages of the development process. This includes conducting market research, assessing potential investment opportunities, and assisting in securing financing. You will also be involved in coordinating with architects, contractors, and other professionals to ensure smooth project execution. Strong analytical and communication skills, along with a passion for real estate, are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Assistant Real Estate Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Assistant Real Estate Developer interviews to help you prepare and succeed.

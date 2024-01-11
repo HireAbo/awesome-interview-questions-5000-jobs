@@ -2,6 +2,8 @@
 
 Welcome to the Retail Supply Chain Manager Interview Preparation ! This resource is designed to help you ace your Retail Supply Chain Manager interviews with confidence.
 
+A Retail Supply Chain Manager plays a crucial role in the retail industry by overseeing the entire supply chain process, ensuring the smooth flow of products from manufacturers to consumers. They are responsible for managing inventory levels, coordinating with suppliers and distributors, and optimizing logistics operations to meet customer demands effectively. Additionally, they analyze market trends, forecast demand, and devise strategies to minimize costs and maximize profitability. This role requires strong analytical skills, attention to detail, and excellent communication and negotiation abilities. A Retail Supply Chain Manager is essential for ensuring efficient operations, reducing lead times, and maintaining high customer satisfaction levels in the fast-paced world of retail and sales.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Retail Supply Chain Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Retail Supply Chain Manager interviews to help you prepare and succeed.

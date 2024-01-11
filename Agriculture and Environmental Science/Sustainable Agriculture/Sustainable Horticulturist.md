@@ -2,6 +2,8 @@
 
 Welcome to the Sustainable Horticulturist Interview Preparation ! This resource is designed to help you ace your Sustainable Horticulturist interviews with confidence.
 
+Agriculture and Environmental Science focuses on the study of sustainable practices in the field of agriculture, ensuring the preservation of natural resources and the environment. Within this field, one specific career path is that of a Sustainable Horticulturist. A Sustainable Horticulturist is responsible for cultivating and managing plant life in an environmentally friendly manner. They utilize sustainable techniques such as organic fertilizers, crop rotation, and integrated pest management to minimize the negative impact on the ecosystem. Additionally, sustainable horticulturists may specialize in landscaping, urban gardening, or greenhouse cultivation, playing a crucial role in promoting sustainable food production, conserving biodiversity, and enhancing the overall health of the environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sustainable Horticulturist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sustainable Horticulturist interviews to help you prepare and succeed.

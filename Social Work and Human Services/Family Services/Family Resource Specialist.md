@@ -2,6 +2,8 @@
 
 Welcome to the Family Resource Specialist Interview Preparation ! This resource is designed to help you ace your Family Resource Specialist interviews with confidence.
 
+A Family Resource Specialist is a vital role within the field of Social Work and Human Services, specifically within Family Services. This position involves providing support and assistance to families in need, with the ultimate goal of enhancing their overall well-being. A Family Resource Specialist works closely with families, assessing their unique needs and connecting them with appropriate resources and services. This may include assistance with housing, employment, education, healthcare, childcare, and financial support. They also act as advocates for families, ensuring their rights are protected and helping them navigate complex systems. A Family Resource Specialist plays a crucial role in strengthening families and promoting their self-sufficiency and resilience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Family Resource Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Family Resource Specialist interviews to help you prepare and succeed.

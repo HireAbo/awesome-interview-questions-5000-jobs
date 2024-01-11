@@ -2,6 +2,8 @@
 
 Welcome to the Endoscopy Nurse Interview Preparation ! This resource is designed to help you ace your Endoscopy Nurse interviews with confidence.
 
+An endoscopy nurse plays a crucial role in the field of healthcare and medicine, specifically within the nursing profession. These specialized nurses are responsible for assisting physicians during endoscopic procedures, which involve the examination of internal organs and tissues using a long, flexible tube with a camera attached. Endoscopy nurses are skilled in preparing patients for procedures, administering sedation, monitoring vital signs, and ensuring the overall safety and comfort of patients throughout the process. They also play a vital role in educating patients about the procedure and providing post-operative care. The role of an endoscopy nurse requires strong communication skills, attention to detail, and a high level of technical knowledge in order to deliver effective patient care.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Endoscopy Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Endoscopy Nurse interviews to help you prepare and succeed.

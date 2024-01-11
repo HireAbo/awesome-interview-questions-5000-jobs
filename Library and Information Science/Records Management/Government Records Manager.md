@@ -2,6 +2,8 @@
 
 Welcome to the Government Records Manager Interview Preparation ! This resource is designed to help you ace your Government Records Manager interviews with confidence.
 
+Library and Information Science is a field dedicated to the organization, preservation, and dissemination of information. Within this field, there is a specialized area called Records Management, which focuses on the efficient management of records in various organizations. One specific role within records management is that of a Government Records Manager. Government Records Managers are responsible for overseeing the creation, maintenance, and disposal of records in government agencies. They ensure compliance with legal requirements, develop policies and procedures, and implement best practices for records management. These professionals play a crucial role in maintaining transparency, accountability, and accessibility of government records, facilitating effective decision-making and preserving historical information.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Government Records Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Government Records Manager interviews to help you prepare and succeed.

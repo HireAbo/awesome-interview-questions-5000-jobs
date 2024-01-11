@@ -2,6 +2,8 @@
 
 Welcome to the Clinic Manager Interview Preparation ! This resource is designed to help you ace your Clinic Manager interviews with confidence.
 
+A Clinic Manager plays a crucial role in the healthcare industry by overseeing the daily operations of a healthcare facility. They are responsible for managing all administrative and operational functions, ensuring smooth workflow, and providing exceptional patient care. The Clinic Manager works closely with healthcare professionals, including doctors, nurses, and support staff, to maintain high-quality standards and meet the needs of patients. Additionally, they handle financial matters, such as budgeting and billing, and ensure compliance with healthcare regulations and policies. Strong leadership, organizational, and communication skills are essential for success in this role, as Clinic Managers contribute significantly to the efficient functioning of healthcare facilities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Clinic Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Clinic Manager interviews to help you prepare and succeed.

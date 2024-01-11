@@ -2,6 +2,8 @@
 
 Welcome to the Certified Nursing Assistant (CNA) Interview Preparation ! This resource is designed to help you ace your Certified Nursing Assistant (CNA) interviews with confidence.
 
+A Certified Nursing Assistant (CNA) is a crucial member of the healthcare team who provides direct care and support to patients. CNAs work under the supervision of registered nurses (RNs) and assist with various tasks such as bathing, dressing, and feeding patients. They also take vital signs, collect samples, and document patient information. CNAs play a vital role in maintaining patient comfort, safety, and well-being. They are often the primary caregivers and act as a bridge between patients and other healthcare professionals. Compassion, patience, and excellent communication skills are essential for CNAs to provide the best possible care to patients in hospitals, nursing homes, and other healthcare settings.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Certified Nursing Assistant (CNA) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Certified Nursing Assistant (CNA) interviews to help you prepare and succeed.

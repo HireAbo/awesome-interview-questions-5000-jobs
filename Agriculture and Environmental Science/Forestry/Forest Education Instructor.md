@@ -2,6 +2,8 @@
 
 Welcome to the Forest Education Instructor Interview Preparation ! This resource is designed to help you ace your Forest Education Instructor interviews with confidence.
 
+Agriculture and Environmental Science is a field that focuses on sustainable farming practices, conservation of natural resources, and the relationship between humans and the environment. Within this field, there is a specific area of expertise known as Forestry, which involves the management and conservation of forested areas. A Forest Education Instructor plays a vital role in this field by teaching and educating individuals about the importance of forests, their ecological significance, and sustainable forest management practices. They design and deliver educational programs, lead field trips and workshops, and provide hands-on training to students, professionals, and community members interested in forest conservation. Through their role, Forest Education Instructors promote environmental stewardship and encourage the next generation to become responsible caretakers of our forests.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forest Education Instructor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forest Education Instructor interviews to help you prepare and succeed.

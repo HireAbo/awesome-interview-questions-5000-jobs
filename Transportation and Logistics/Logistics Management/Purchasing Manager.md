@@ -2,6 +2,8 @@
 
 Welcome to the Purchasing Manager Interview Preparation ! This resource is designed to help you ace your Purchasing Manager interviews with confidence.
 
+A Purchasing Manager in the field of Transportation and Logistics is responsible for overseeing the procurement process to ensure the availability and timely delivery of goods and services required for efficient operations. They play a crucial role in managing the supply chain, negotiating contracts with suppliers, and maintaining vendor relationships. Additionally, Purchasing Managers analyze market trends, monitor inventory levels, and develop strategies to optimize procurement procedures while minimizing costs. They collaborate with various departments to understand their purchasing needs, assess supplier performance, and drive continuous improvement. This role demands strong analytical skills, negotiation abilities, and a thorough understanding of logistics management to ensure seamless operations in the transportation and logistics sector.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Purchasing Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Purchasing Manager interviews to help you prepare and succeed.

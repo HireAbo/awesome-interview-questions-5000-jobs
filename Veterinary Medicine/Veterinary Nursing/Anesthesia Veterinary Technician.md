@@ -2,6 +2,8 @@
 
 Welcome to the Anesthesia Veterinary Technician Interview Preparation ! This resource is designed to help you ace your Anesthesia Veterinary Technician interviews with confidence.
 
+Veterinary Medicine is a field dedicated to the health and well-being of animals. Within this broad domain, Veterinary Nursing focuses specifically on providing medical care and support to animals under the supervision of a licensed veterinarian. One crucial role within Veterinary Nursing is that of an Anesthesia Veterinary Technician. These professionals are responsible for administering anesthesia and monitoring animals during surgical procedures. They play a vital role in ensuring the safety and comfort of animals undergoing surgery, providing constant monitoring of vital signs, adjusting anesthesia levels as needed, and promptly addressing any complications that may arise. Anesthesia Veterinary Technicians require specialized training and skills to provide optimal care to animals during surgical procedures.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Anesthesia Veterinary Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Anesthesia Veterinary Technician interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Logistics Consultant Interview Preparation ! This resource is designed to help you ace your Logistics Consultant interviews with confidence.
 
+A Logistics Consultant is a specialized professional who provides expert advice and guidance in managing the transportation and logistics operations of a company. They play a crucial role in optimizing supply chain processes and improving overall efficiency. Logistics Consultants are responsible for analyzing existing logistics processes, identifying areas for improvement, and implementing strategic solutions to enhance productivity and reduce costs. They work closely with various stakeholders, including suppliers, manufacturers, and distributors, to ensure smooth transportation and delivery of goods. Additionally, Logistics Consultants possess strong analytical and problem-solving skills, as they are required to develop innovative strategies to overcome logistical challenges and meet the evolving needs of the industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Logistics Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Logistics Consultant interviews to help you prepare and succeed.

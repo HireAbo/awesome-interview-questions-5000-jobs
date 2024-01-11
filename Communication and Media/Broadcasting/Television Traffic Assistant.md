@@ -2,6 +2,8 @@
 
 Welcome to the Television Traffic Assistant Interview Preparation ! This resource is designed to help you ace your Television Traffic Assistant interviews with confidence.
 
+A Television Traffic Assistant is a crucial role within the broadcasting industry, specifically within television broadcasting. This position requires excellent communication and organizational skills, as well as a keen eye for detail. As a Television Traffic Assistant, you will be responsible for managing the scheduling and coordination of commercials and other programming content. This includes creating and maintaining accurate logs, ensuring that commercials are aired at the appropriate times, and resolving any scheduling conflicts. Additionally, you may be required to work closely with other departments, such as sales and production, to ensure seamless execution of the broadcast schedule. A successful Television Traffic Assistant is a multitasker, able to handle high-pressure situations and meet strict deadlines while maintaining professionalism and accuracy.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Television Traffic Assistant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Television Traffic Assistant interviews to help you prepare and succeed.

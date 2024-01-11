@@ -2,6 +2,8 @@
 
 Welcome to the Carpentry Estimator Interview Preparation ! This resource is designed to help you ace your Carpentry Estimator interviews with confidence.
 
+A Carpentry Estimator plays a crucial role in the construction industry by accurately estimating the costs of carpentry projects. With a keen eye for detail and extensive knowledge of carpentry techniques, materials, and labor requirements, a Carpentry Estimator assesses project specifications and blueprints to determine the quantity and cost of materials needed, as well as the time and labor required to complete the project. They also consider factors such as permits, subcontractor costs, and overhead expenses to provide accurate and competitive bids. Excellent mathematical skills and the ability to interpret complex construction plans are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Carpentry Estimator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Carpentry Estimator interviews to help you prepare and succeed.

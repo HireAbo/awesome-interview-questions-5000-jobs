@@ -2,6 +2,8 @@
 
 Welcome to the Animal Research Coordinator Interview Preparation ! This resource is designed to help you ace your Animal Research Coordinator interviews with confidence.
 
+A Veterinary Medicine > Veterinary Research > Animal Research Coordinator plays a crucial role in facilitating and coordinating animal research activities within the field of veterinary medicine. This job involves working closely with veterinary researchers and scientists to plan, organize, and execute various research projects involving animals. The Animal Research Coordinator ensures that all research protocols and ethical guidelines are followed, including animal welfare regulations. They are responsible for managing and maintaining research facilities, supervising the care and treatment of laboratory animals, and collecting and analyzing data. This role requires strong organizational skills, attention to detail, and a deep understanding of animal health and welfare.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Animal Research Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Animal Research Coordinator interviews to help you prepare and succeed.

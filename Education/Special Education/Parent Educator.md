@@ -2,6 +2,8 @@
 
 Welcome to the Parent Educator Interview Preparation ! This resource is designed to help you ace your Parent Educator interviews with confidence.
 
+A Parent Educator in the field of Special Education plays a crucial role in supporting families with children who have special needs. These professionals are responsible for providing guidance, resources, and assistance to parents and caregivers, helping them navigate the complex world of special education. Parent Educators collaborate with parents to develop effective strategies that promote the educational and overall development of their children. They provide information on available services, support systems, and community resources. Additionally, Parent Educators facilitate workshops, training sessions, and support groups to empower parents with knowledge and skills to advocate for their child's rights and ensure they receive appropriate educational opportunities and support.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Parent Educator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Parent Educator interviews to help you prepare and succeed.

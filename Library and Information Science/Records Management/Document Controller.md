@@ -2,6 +2,8 @@
 
 Welcome to the Document Controller Interview Preparation ! This resource is designed to help you ace your Document Controller interviews with confidence.
 
+Library and Information Science is a multidisciplinary field that focuses on the organization, preservation, and retrieval of information. Within this field, there is a specialization known as Records Management, which involves the systematic control and maintenance of records in various formats. As part of the Records Management profession, a Document Controller plays a crucial role in ensuring the accuracy, accessibility, and security of organizational records. This job involves managing the lifecycle of documents, from creation to disposal, implementing and maintaining document control systems, and ensuring compliance with relevant regulations and standards. Document Controllers are essential in maintaining the integrity and efficiency of an organization's records, facilitating effective decision-making and resource management.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Document Controller or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Document Controller interviews to help you prepare and succeed.

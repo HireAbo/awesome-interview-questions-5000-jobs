@@ -2,6 +2,8 @@
 
 Welcome to the Psychiatric Nurse Practitioner Interview Preparation ! This resource is designed to help you ace your Psychiatric Nurse Practitioner interviews with confidence.
 
+A Psychiatric Nurse Practitioner is a specialized healthcare professional who assesses, diagnoses, and treats individuals with mental health disorders. With a background in both nursing and psychology, they provide holistic care to patients, focusing on their mental, emotional, and physical well-being. These practitioners work closely with patients to develop personalized treatment plans, which may include therapy, counseling, medication management, and other interventions. They collaborate with other healthcare professionals, such as psychiatrists and psychologists, to ensure comprehensive care for their patients. Psychiatric Nurse Practitioners also educate and support patients and their families, promoting mental health awareness and empowering individuals to manage their conditions effectively.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Psychiatric Nurse Practitioner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Psychiatric Nurse Practitioner interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Healthcare Analyst Interview Preparation ! This resource is designed to help you ace your Healthcare Analyst interviews with confidence.
 
+A Healthcare Analyst in the field of Healthcare Administration plays a crucial role in improving the efficiency and effectiveness of healthcare delivery systems. These professionals analyze complex healthcare data to identify trends, patterns, and areas for improvement. They work closely with healthcare providers, administrators, and policymakers to develop strategies and make informed decisions that positively impact patient care outcomes, cost management, and operational processes. Healthcare Analysts also play a key role in evaluating the performance of healthcare programs and implementing quality improvement initiatives. They possess strong analytical skills, proficiency in data management and statistical analysis, and a deep understanding of healthcare policies, regulations, and technology.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Healthcare Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Healthcare Analyst interviews to help you prepare and succeed.

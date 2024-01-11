@@ -2,6 +2,8 @@
 
 Welcome to the E-commerce User Experience Researcher Interview Preparation ! This resource is designed to help you ace your E-commerce User Experience Researcher interviews with confidence.
 
+The role of an E-commerce User Experience Researcher in Retail and Sales is crucial in ensuring a seamless online shopping experience for customers. As an E-commerce User Experience Researcher, your main responsibility will be to gather and analyze data to understand user behavior and preferences. You will conduct usability tests, interviews, and surveys to identify pain points and areas for improvement in the e-commerce platform. By studying user interactions, you will provide valuable insights to enhance the website's design, navigation, and functionality, ultimately leading to increased customer satisfaction and higher conversion rates. This role requires a strong analytical mindset, excellent communication skills, and a deep understanding of consumer behavior in the digital space.
+
 ## 🚀 Overview
 
 Whether you're a seasoned E-commerce User Experience Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in E-commerce User Experience Researcher interviews to help you prepare and succeed.

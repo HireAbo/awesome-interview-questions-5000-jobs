@@ -2,6 +2,8 @@
 
 Welcome to the Immigration Specialist Interview Preparation ! This resource is designed to help you ace your Immigration Specialist interviews with confidence.
 
+An Immigration Specialist in the field of Sociology focuses on studying and analyzing the social, cultural, and economic implications of immigration. This job involves conducting research and collecting data to understand the patterns, trends, and impacts of immigration on various aspects of society. Immigration Specialists examine factors such as social integration, cultural assimilation, labor market dynamics, and the formation of ethnic communities. They also explore the challenges and opportunities faced by immigrants, including issues related to discrimination, social inequality, and access to resources and services. By providing valuable insights and recommendations, Immigration Specialists contribute to the development of policies and programs that promote social cohesion and inclusivity in immigrant-receiving societies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Immigration Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Immigration Specialist interviews to help you prepare and succeed.

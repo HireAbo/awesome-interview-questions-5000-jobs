@@ -2,6 +2,8 @@
 
 Welcome to the Industrial Electrician Interview Preparation ! This resource is designed to help you ace your Industrial Electrician interviews with confidence.
 
+An industrial electrician is a skilled tradesperson who specializes in electrical work within industrial settings. These professionals are responsible for installing, maintaining, and repairing electrical systems and equipment in factories, power plants, and other industrial facilities. They work with complex machinery and systems, ensuring that electrical components are properly installed and functioning safely and efficiently. Industrial electricians are knowledgeable about electrical codes and safety regulations, and they use their expertise to troubleshoot and diagnose electrical problems. They may also be involved in designing and implementing electrical systems for new construction projects. This demanding job requires strong technical skills, attention to detail, and a commitment to safety.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Industrial Electrician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Industrial Electrician interviews to help you prepare and succeed.

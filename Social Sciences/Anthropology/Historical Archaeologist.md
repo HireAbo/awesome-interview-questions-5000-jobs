@@ -2,6 +2,8 @@
 
 Welcome to the Historical Archaeologist Interview Preparation ! This resource is designed to help you ace your Historical Archaeologist interviews with confidence.
 
+A Historical Archaeologist is a professional who combines the disciplines of anthropology and archaeology to study and interpret past human societies through material remains. They specialize in the excavation and analysis of artifacts, structures, and landscapes to reconstruct historical events and understand cultural and social changes over time. Historical Archaeologists often work closely with historians, architects, and other specialists to provide insights into the lives of people who lived in the past. They conduct fieldwork, surveying and excavating sites, analyzing artifacts in laboratories, and documenting findings through reports and publications. Their work plays a crucial role in preserving and understanding our collective human heritage.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Historical Archaeologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Historical Archaeologist interviews to help you prepare and succeed.

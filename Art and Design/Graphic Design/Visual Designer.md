@@ -2,6 +2,8 @@
 
 Welcome to the Visual Designer Interview Preparation ! This resource is designed to help you ace your Visual Designer interviews with confidence.
 
+A visual designer, within the field of graphic design, is a skilled professional who combines artistic creativity with technical expertise to create visually appealing and impactful designs. They are responsible for conceptualizing, designing, and implementing various visual elements such as layouts, typography, color schemes, and images for different mediums including print, web, and social media. Visual designers possess a strong understanding of design principles, composition, and branding techniques, enabling them to effectively communicate messages, emotions, and ideas through their designs. They collaborate with clients, marketing teams, and other design professionals to ensure that the final product meets the desired aesthetic and functional requirements.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Visual Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Visual Designer interviews to help you prepare and succeed.

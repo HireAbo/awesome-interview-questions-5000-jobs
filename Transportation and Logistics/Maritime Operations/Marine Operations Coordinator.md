@@ -2,6 +2,8 @@
 
 Welcome to the Marine Operations Coordinator Interview Preparation ! This resource is designed to help you ace your Marine Operations Coordinator interviews with confidence.
 
+A Marine Operations Coordinator plays a crucial role in the transportation and logistics industry, specifically in the field of maritime operations. This role involves coordinating various aspects of marine operations, ensuring the smooth and efficient movement of goods and vessels. As a Marine Operations Coordinator, you will be responsible for managing vessel schedules, coordinating port activities, and overseeing the loading and unloading of cargo. Additionally, you will liaise with various stakeholders such as shipping companies, port authorities, and customs officials to ensure compliance with regulations and guidelines. Strong organizational and communication skills are essential in this role to ensure seamless operations and maximize efficiency.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Marine Operations Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Marine Operations Coordinator interviews to help you prepare and succeed.

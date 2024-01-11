@@ -2,6 +2,8 @@
 
 Welcome to the Trade Show Booth Designer Interview Preparation ! This resource is designed to help you ace your Trade Show Booth Designer interviews with confidence.
 
+A Trade Show Booth Designer is a professional who specializes in creating visually appealing and functional spaces for exhibitions and trade shows. They are responsible for conceptualizing, designing, and executing innovative booth designs to attract and engage target audiences. These designers possess a keen eye for aesthetics and possess a deep understanding of the principles of interior design. They collaborate with clients to understand their brand identity, requirements, and objectives, and then translate these into captivating booth designs. Trade Show Booth Designers must possess excellent communication and project management skills to coordinate with vendors, fabricators, and other stakeholders to ensure the successful execution of the booth design.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Trade Show Booth Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Trade Show Booth Designer interviews to help you prepare and succeed.

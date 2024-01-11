@@ -2,6 +2,8 @@
 
 Welcome to the Interior Design Renderer Interview Preparation ! This resource is designed to help you ace your Interior Design Renderer interviews with confidence.
 
+An Interior Design Renderer is a professional who brings visual concepts to life in the field of interior design. Their main responsibility is to create realistic and detailed renderings of interior spaces using various software tools and techniques. This job requires a keen eye for aesthetics and an in-depth understanding of design principles. Interior Design Renderers collaborate closely with interior designers, architects, and clients to accurately translate their ideas into visually stunning representations. They play a crucial role in presenting design proposals, helping clients visualize the final outcome, and making necessary adjustments before the actual implementation of the project. Overall, the work of an Interior Design Renderer is essential in creating captivating and functional interiors.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Interior Design Renderer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Interior Design Renderer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Archives Digitization Specialist Interview Preparation ! This resource is designed to help you ace your Archives Digitization Specialist interviews with confidence.
 
+Library and Information Science is a field that encompasses the organization, preservation, and dissemination of information. Within this field, there is a specialized role known as an Archives Digitization Specialist. As an expert in archiving, this professional is responsible for the conversion of physical archival materials into digital formats. They use specialized equipment and software to scan, digitize, and enhance documents, photographs, audio recordings, and other materials, ensuring their long-term preservation and accessibility. The Archives Digitization Specialist also plays a crucial role in cataloging and organizing the digitized materials, making them easily searchable and retrievable for researchers, historians, and the general public. This position requires a strong attention to detail, technical proficiency, and a deep understanding of archival principles and practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Archives Digitization Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Archives Digitization Specialist interviews to help you prepare and succeed.

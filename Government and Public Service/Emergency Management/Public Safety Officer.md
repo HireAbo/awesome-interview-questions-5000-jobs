@@ -2,6 +2,8 @@
 
 Welcome to the Public Safety Officer Interview Preparation ! This resource is designed to help you ace your Public Safety Officer interviews with confidence.
 
+A Public Safety Officer is a crucial role within the field of Emergency Management, which falls under the purview of Government and Public Service. These officers are responsible for maintaining public safety and security in various settings, including cities, towns, universities, and other public areas. They play a vital role in emergency response, disaster preparedness, and overall community safety. Public Safety Officers are trained to handle a wide range of situations, such as natural disasters, terrorist threats, and public disturbances. Their duties may include patrolling, enforcing laws, responding to emergencies, conducting investigations, and collaborating with other law enforcement agencies. Ultimately, Public Safety Officers work tirelessly to ensure the well-being and protection of the public they serve.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Public Safety Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Public Safety Officer interviews to help you prepare and succeed.

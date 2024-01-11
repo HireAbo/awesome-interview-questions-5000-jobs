@@ -2,6 +2,8 @@
 
 Welcome to the Orthopedic Physical Therapist Interview Preparation ! This resource is designed to help you ace your Orthopedic Physical Therapist interviews with confidence.
 
+An Orthopedic Physical Therapist plays a crucial role in the field of healthcare and medicine, specifically in the domain of physical therapy. These professionals specialize in treating patients with musculoskeletal injuries or conditions, focusing on the prevention, diagnosis, and management of various orthopedic conditions. They work closely with patients to develop personalized treatment plans, incorporating exercises, manual therapies, and other techniques to alleviate pain, improve mobility, and promote overall physical well-being. Orthopedic Physical Therapists often collaborate with other healthcare professionals, such as orthopedic surgeons, to provide comprehensive care and ensure optimal patient outcomes. With their expertise, they contribute significantly to enhancing patients' quality of life and helping them regain functional independence.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Orthopedic Physical Therapist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Orthopedic Physical Therapist interviews to help you prepare and succeed.

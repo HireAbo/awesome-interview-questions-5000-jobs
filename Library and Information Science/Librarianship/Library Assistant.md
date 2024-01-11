@@ -2,6 +2,8 @@
 
 Welcome to the Library Assistant Interview Preparation ! This resource is designed to help you ace your Library Assistant interviews with confidence.
 
+Library and Information Science, commonly known as librarianship, is an interdisciplinary field that encompasses the management, organization, and dissemination of information. It focuses on providing efficient access to various resources and knowledge repositories, ensuring the smooth functioning of libraries and information centers. Librarianship professionals play a crucial role in this domain, acting as custodians of knowledge, assisting users in locating and retrieving information, and promoting literacy and lifelong learning. Within this field, the role of a Library Assistant is essential. Library Assistants support librarians by performing various tasks such as shelving and organizing materials, assisting patrons with inquiries, maintaining circulation records, and providing general administrative support.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Library Assistant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Library Assistant interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Historic Preservation Specialist Interview Preparation ! This resource is designed to help you ace your Historic Preservation Specialist interviews with confidence.
 
+The Historic Preservation Specialist job in the field of Art and Design, specifically in Architecture, is a crucial role that focuses on preserving and conserving historical buildings and structures. These specialists possess a deep knowledge of architectural history, materials, and construction techniques. They work closely with architects, engineers, and other professionals to assess, document, and restore historic buildings to their original glory. Their responsibilities include conducting research, analyzing historical significance, developing preservation plans, and overseeing restoration projects. Historic Preservation Specialists play a vital role in maintaining the cultural heritage of communities, ensuring that future generations can appreciate and learn from the architectural wonders of the past.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Historic Preservation Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Historic Preservation Specialist interviews to help you prepare and succeed.

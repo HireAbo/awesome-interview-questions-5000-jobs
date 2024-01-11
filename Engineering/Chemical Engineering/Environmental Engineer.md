@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Engineer Interview Preparation ! This resource is designed to help you ace your Environmental Engineer interviews with confidence.
 
+Environmental engineering is a branch of chemical engineering that focuses on applying scientific and engineering principles to protect and improve the environment. Environmental engineers play a crucial role in designing and implementing solutions to address environmental challenges such as pollution control, waste management, and sustainable development. They work on projects that aim to minimize the impact of human activities on the environment and ensure compliance with regulations. These professionals may be involved in conducting environmental assessments, designing and managing wastewater treatment systems, developing strategies for air pollution control, and promoting sustainable practices. Environmental engineers work closely with other professionals and stakeholders to create a cleaner and more sustainable future.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Engineer interviews to help you prepare and succeed.

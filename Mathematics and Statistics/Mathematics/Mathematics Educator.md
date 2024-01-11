@@ -2,6 +2,8 @@
 
 Welcome to the Mathematics Educator Interview Preparation ! This resource is designed to help you ace your Mathematics Educator interviews with confidence.
 
+A Mathematics Educator is a professional who specializes in teaching and educating students in the subject of mathematics. They play a critical role in shaping and developing students' mathematical abilities, problem-solving skills, and critical thinking. Mathematics Educators design and implement lesson plans, assess and evaluate students' progress, and provide individualized instruction to meet the diverse needs of students. They may teach various topics such as algebra, calculus, geometry, and statistics. Mathematics Educators also foster a positive and engaging learning environment, encourage students' curiosity, and promote the application of mathematics in real-world scenarios. Their expertise and passion contribute significantly to the development of students' mathematical proficiency and future success in academia and beyond.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Mathematics Educator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Mathematics Educator interviews to help you prepare and succeed.

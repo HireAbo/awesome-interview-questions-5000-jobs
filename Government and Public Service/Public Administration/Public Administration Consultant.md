@@ -2,6 +2,8 @@
 
 Welcome to the Public Administration Consultant Interview Preparation ! This resource is designed to help you ace your Public Administration Consultant interviews with confidence.
 
+Government and Public Service encompasses various sectors and functions that aim to serve the public interest and ensure the effective management of public resources. Public Administration, specifically, focuses on the organization and implementation of policies and programs within government agencies. Within this field, the role of a Public Administration Consultant is crucial. These professionals provide expert advice and guidance to government organizations on matters related to policy development, program evaluation, budgeting, and overall organizational effectiveness. They collaborate with government officials, analyze data, and offer solutions to improve efficiency, transparency, and accountability. Public Administration Consultants play a vital role in shaping government initiatives and enhancing the delivery of public services.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Public Administration Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Public Administration Consultant interviews to help you prepare and succeed.

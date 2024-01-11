@@ -2,6 +2,8 @@
 
 Welcome to the Digital Media Account Executive Interview Preparation ! This resource is designed to help you ace your Digital Media Account Executive interviews with confidence.
 
+A Digital Media Account Executive is a professional responsible for managing client relationships and generating revenue through digital media platforms. They act as a liaison between clients and the digital media agency, ensuring effective communication and understanding of client needs and objectives. This role requires a deep understanding of various digital media channels such as social media, search engine marketing, display advertising, and content marketing. The Digital Media Account Executive develops strategic digital media plans, executes campaigns, and monitors performance to ensure client satisfaction and campaign success. They are also responsible for identifying new business opportunities and building strong relationships with clients to drive revenue growth. Strong communication, negotiation, and analytical skills are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Digital Media Account Executive or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Digital Media Account Executive interviews to help you prepare and succeed.

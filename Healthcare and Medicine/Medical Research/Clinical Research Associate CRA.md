@@ -2,6 +2,8 @@
 
 Welcome to the Clinical Research Associate (CRA) Interview Preparation ! This resource is designed to help you ace your Clinical Research Associate (CRA) interviews with confidence.
 
+A Clinical Research Associate (CRA) plays a vital role in the field of healthcare and medicine by ensuring the smooth progress of clinical trials and medical research studies. CRAs act as a bridge between pharmaceutical companies, research organizations, and healthcare professionals. Their primary responsibility is to monitor and oversee the implementation of clinical trials, ensuring compliance with ethical and regulatory guidelines. CRAs are involved in various aspects of the research process, including site selection, protocol development, data collection, and analysis. Their meticulous attention to detail, strong organizational skills, and ability to work independently make them crucial contributors to the advancement of medical knowledge and the development of life-saving treatments.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Clinical Research Associate (CRA) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Clinical Research Associate (CRA) interviews to help you prepare and succeed.

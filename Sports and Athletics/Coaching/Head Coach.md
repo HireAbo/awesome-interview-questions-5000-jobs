@@ -2,6 +2,8 @@
 
 Welcome to the Head Coach Interview Preparation ! This resource is designed to help you ace your Head Coach interviews with confidence.
 
+The role of a Head Coach in sports and athletics is of paramount importance. As the leader of a team, the Head Coach plays a crucial role in guiding and developing athletes to reach their full potential. They are responsible for creating training programs, developing game strategies, and ensuring the overall success of the team. A Head Coach also plays a significant role in mentoring and motivating athletes, helping them hone their skills and boost their performance. They possess strong leadership skills, excellent communication abilities, and a deep understanding of the sport. Above all, a Head Coach is dedicated to fostering a positive and winning team culture.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Head Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Head Coach interviews to help you prepare and succeed.

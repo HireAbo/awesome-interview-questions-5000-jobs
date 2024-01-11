@@ -2,6 +2,8 @@
 
 Welcome to the Ballet Dancer Interview Preparation ! This resource is designed to help you ace your Ballet Dancer interviews with confidence.
 
+A Ballet Dancer is a highly skilled artist who performs and expresses themselves through the medium of dance. With a strong foundation in ballet technique, they embody grace, strength, and precision in their movements. Ballet Dancers undergo extensive training, often starting at a young age, to develop their technique, flexibility, and stamina. They perform in various settings, including theaters, opera houses, and dance studios, captivating audiences with their fluidity and storytelling ability. Beyond their physical abilities, Ballet Dancers must also possess a deep understanding of musicality, rhythm, and interpretation to bring characters and narratives to life. Their dedication, discipline, and passion for dance make them an integral part of the vibrant world of entertainment and performing arts.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Ballet Dancer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Ballet Dancer interviews to help you prepare and succeed.

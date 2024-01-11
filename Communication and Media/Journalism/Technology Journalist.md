@@ -2,6 +2,8 @@
 
 Welcome to the Technology Journalist Interview Preparation ! This resource is designed to help you ace your Technology Journalist interviews with confidence.
 
+A technology journalist specializes in reporting news and providing insights on the rapidly evolving world of technology. They play a crucial role in bridging the gap between complex technological advancements and the general public. These journalists are responsible for researching, investigating, and reporting on various tech-related topics, including artificial intelligence, cybersecurity, gadgets, software development, and more. They strive to provide accurate and up-to-date information to their audience, often through various media platforms such as newspapers, magazines, online publications, and even television. Additionally, technology journalists often attend industry events, interview experts, and analyze trends in order to offer a comprehensive understanding of how technology impacts our everyday lives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Technology Journalist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Technology Journalist interviews to help you prepare and succeed.

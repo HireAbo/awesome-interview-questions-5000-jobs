@@ -2,6 +2,8 @@
 
 Welcome to the Clinical Data Manager Interview Preparation ! This resource is designed to help you ace your Clinical Data Manager interviews with confidence.
 
+A Clinical Data Manager plays a crucial role in the field of healthcare and medicine, specifically in medical research. They are responsible for the collection, organization, and analysis of clinical data obtained during research studies and trials. This includes ensuring data accuracy, consistency, and compliance with regulatory guidelines. Clinical Data Managers work closely with various stakeholders, including researchers, physicians, and statisticians, to develop data management plans and protocols. They are proficient in data management software and possess excellent attention to detail and analytical skills. Their work is vital in ensuring the integrity and reliability of clinical data, ultimately contributing to the advancement of medical knowledge and the development of innovative treatments and therapies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Clinical Data Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Clinical Data Manager interviews to help you prepare and succeed.

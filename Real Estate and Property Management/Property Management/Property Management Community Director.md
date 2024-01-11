@@ -2,6 +2,8 @@
 
 Welcome to the Property Management Community Director Interview Preparation ! This resource is designed to help you ace your Property Management Community Director interviews with confidence.
 
+A Property Management Community Director is a crucial role within the real estate and property management industry. They are responsible for overseeing the operations and management of a community or multiple properties under their jurisdiction. This role involves a wide range of responsibilities, including supervising the property management team, ensuring compliance with leasing regulations, maintaining tenant satisfaction, and maximizing the financial performance of the properties. The Community Director also plays a key role in marketing and promoting the community, attracting new tenants, and maintaining relationships with existing ones. Their expertise in property management and strong leadership skills are essential in ensuring the smooth and successful operation of the properties they manage.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Property Management Community Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Property Management Community Director interviews to help you prepare and succeed.

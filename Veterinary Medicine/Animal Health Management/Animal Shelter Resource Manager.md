@@ -2,6 +2,8 @@
 
 Welcome to the Animal Shelter Resource Manager Interview Preparation ! This resource is designed to help you ace your Animal Shelter Resource Manager interviews with confidence.
 
+A Veterinary Medicine Animal Health Management Animal Shelter Resource Manager plays a crucial role in the functioning and success of animal shelters. This job involves overseeing and managing all aspects of the shelter's resources, including staff, volunteers, finances, and supplies. The Resource Manager ensures that the shelter operates efficiently and effectively to provide quality care and support for animals in need. They are responsible for developing and implementing policies and procedures, coordinating adoption programs, organizing fundraising events, and maintaining relationships with community partners. This role requires strong leadership, organizational and communication skills, as well as a deep passion for animal welfare and a commitment to improving the lives of shelter animals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Animal Shelter Resource Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Animal Shelter Resource Manager interviews to help you prepare and succeed.

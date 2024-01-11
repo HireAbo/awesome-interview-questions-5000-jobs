@@ -2,6 +2,8 @@
 
 Welcome to the Biostatistician Interview Preparation ! This resource is designed to help you ace your Biostatistician interviews with confidence.
 
+Mathematics and Statistics are two closely related disciplines that deal with the study of numerical data, patterns, and relationships. While Mathematics focuses on abstract concepts and logical reasoning, Statistics involves the collection, analysis, interpretation, presentation, and organization of data. A subfield of Statistics is Biostatistics, which specifically applies statistical methods to biological and health-related research. Biostatisticians play a crucial role in designing clinical trials, analyzing biomedical data, and interpreting the results to make informed decisions in the fields of medicine, public health, genetics, and biology. They possess strong mathematical and statistical skills along with a deep understanding of biological and health sciences to address complex research questions and contribute to advancements in healthcare.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Biostatistician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Biostatistician interviews to help you prepare and succeed.

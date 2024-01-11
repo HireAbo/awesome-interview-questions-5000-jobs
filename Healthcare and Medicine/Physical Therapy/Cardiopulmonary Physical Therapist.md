@@ -2,6 +2,8 @@
 
 Welcome to the Cardiopulmonary Physical Therapist Interview Preparation ! This resource is designed to help you ace your Cardiopulmonary Physical Therapist interviews with confidence.
 
+A Cardiopulmonary Physical Therapist is a specialized healthcare professional who focuses on treating patients with heart and lung conditions. They play a crucial role in helping individuals recover from cardiovascular surgeries, heart attacks, chronic obstructive pulmonary disease (COPD), and other respiratory ailments. These therapists design and implement exercise programs that improve cardiovascular endurance, strength, and lung capacity. They closely monitor patients' vital signs during therapy sessions and educate them on self-management techniques to enhance their overall cardiovascular health. Additionally, Cardiopulmonary Physical Therapists work collaboratively with other healthcare professionals to provide comprehensive care and ensure optimal outcomes for patients. Their expertise and dedication make a significant impact in improving patients' quality of life and functional abilities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cardiopulmonary Physical Therapist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cardiopulmonary Physical Therapist interviews to help you prepare and succeed.

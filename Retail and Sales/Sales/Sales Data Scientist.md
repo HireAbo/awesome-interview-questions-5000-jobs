@@ -2,6 +2,8 @@
 
 Welcome to the Sales Data Scientist Interview Preparation ! This resource is designed to help you ace your Sales Data Scientist interviews with confidence.
 
+The role of a Sales Data Scientist in the retail industry is to analyze and interpret sales data to drive strategic decision-making and optimize business performance. They are responsible for collecting, cleaning, and organizing large volumes of sales data from various sources such as point-of-sale systems, customer databases, and online platforms. By applying statistical and data modeling techniques, Sales Data Scientists identify trends, patterns, and correlations within the data to provide valuable insights and actionable recommendations. They work closely with sales and marketing teams to develop sales forecasting models, pricing strategies, and customer segmentation analysis. A Sales Data Scientist plays a crucial role in improving sales efficiency, maximizing revenue, and enhancing the overall customer experience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sales Data Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sales Data Scientist interviews to help you prepare and succeed.

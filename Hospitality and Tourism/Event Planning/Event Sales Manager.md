@@ -2,6 +2,8 @@
 
 Welcome to the Event Sales Manager Interview Preparation ! This resource is designed to help you ace your Event Sales Manager interviews with confidence.
 
+Hospitality and Tourism industry is a thriving sector that encompasses various fields, including Event Planning. As an Event Sales Manager, your role is pivotal in organizing and executing successful events. With a keen eye for detail and exceptional communication skills, you will be responsible for liaising with clients, understanding their needs, and delivering exceptional customer service. Your expertise in sales will play a crucial role in generating revenue by securing event bookings and ensuring client satisfaction. As an Event Sales Manager, you will work closely with the event planning team, coordinating logistics, negotiating contracts, and managing budgets. This dynamic role requires creativity, organizational skills, and a passion for providing unforgettable experiences to guests.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Event Sales Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Event Sales Manager interviews to help you prepare and succeed.

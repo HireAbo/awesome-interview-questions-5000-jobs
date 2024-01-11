@@ -2,6 +2,8 @@
 
 Welcome to the Digital Media Sales Representative Interview Preparation ! This resource is designed to help you ace your Digital Media Sales Representative interviews with confidence.
 
+A Digital Media Sales Representative is a professional responsible for selling digital advertising and marketing solutions to businesses and clients. They promote various digital media platforms, including websites, social media channels, mobile apps, and online videos, to help companies reach their target audience effectively. The job involves identifying potential clients, understanding their marketing needs, and proposing tailored digital media strategies to meet their objectives. Digital Media Sales Representatives also negotiate contracts and pricing, collaborate with marketing teams to develop compelling campaigns, and provide ongoing customer support. Excellent communication and presentation skills, knowledge of digital media trends, and a passion for sales are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Digital Media Sales Representative or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Digital Media Sales Representative interviews to help you prepare and succeed.

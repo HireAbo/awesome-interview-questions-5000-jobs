@@ -2,6 +2,8 @@
 
 Welcome to the Project Scheduler Interview Preparation ! This resource is designed to help you ace your Project Scheduler interviews with confidence.
 
+A Project Scheduler plays a crucial role in Business and Management, specifically in Project Management. As a Project Scheduler, your main responsibility is to develop and maintain project schedules to ensure the successful execution of projects within the allocated time frame. You will collaborate with various stakeholders, including project managers, team members, and clients, to identify project objectives, milestones, and deliverables. Additionally, you will utilize project management software to create Gantt charts and track project progress, ensuring that tasks are completed on time and within budget. Effective communication, attention to detail, and problem-solving skills are essential in this role to ensure smooth project execution.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Project Scheduler or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Project Scheduler interviews to help you prepare and succeed.

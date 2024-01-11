@@ -2,6 +2,8 @@
 
 Welcome to the Mergers and Acquisitions (M&A) Analyst Interview Preparation ! This resource is designed to help you ace your Mergers and Acquisitions (M&A) Analyst interviews with confidence.
 
+A Mergers and Acquisitions (M&A) Analyst plays a crucial role in the field of finance and business management. They are responsible for conducting extensive research and analysis to identify potential merger and acquisition opportunities for their organization. These professionals provide valuable insights and recommendations by evaluating financial data, industry trends, and market conditions. M&A Analysts collaborate with various stakeholders, including investment bankers, lawyers, and executives, to assess the feasibility and potential risks associated with a merger or acquisition. They also assist in the due diligence process, financial modeling, and preparing presentations for senior management. Overall, M&A Analysts contribute to strategic decision-making and help organizations achieve their growth and expansion goals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Mergers and Acquisitions (M&A) Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Mergers and Acquisitions (M&A) Analyst interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Project Portfolio Analyst Interview Preparation ! This resource is designed to help you ace your Project Portfolio Analyst interviews with confidence.
 
+A Project Portfolio Analyst plays a critical role in the field of Business and Management, specifically in Project Management. This job entails monitoring and analyzing project portfolios to ensure successful execution and completion. The analyst works closely with project managers and stakeholders to assess the performance, risks, and benefits of each project within the portfolio. They also provide recommendations on resource allocation, financial planning, and portfolio optimization. The Project Portfolio Analyst utilizes various tools and techniques to evaluate project progress, identify potential bottlenecks, and develop strategies for achieving organizational objectives. Their expertise in project evaluation and data analysis is crucial in maximizing project success rates and driving overall business growth.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Project Portfolio Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Project Portfolio Analyst interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Animal Control Officer Interview Preparation ! This resource is designed to help you ace your Animal Control Officer interviews with confidence.
 
+An Animal Control Officer plays a vital role in the field of Criminal Justice, specifically in the area of animal-related offenses. These professionals are responsible for enforcing laws and regulations pertaining to animals, ensuring public safety, and promoting animal welfare. Animal Control Officers respond to complaints regarding stray or aggressive animals, investigate cases of animal cruelty or neglect, and ensure that pet owners comply with licensing and vaccination requirements. They also capture and safely handle animals, including wildlife, and may provide education and outreach programs to promote responsible pet ownership. This role requires a strong understanding of animal behavior, knowledge of relevant laws, and excellent communication and problem-solving skills.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Animal Control Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Animal Control Officer interviews to help you prepare and succeed.

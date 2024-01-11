@@ -2,6 +2,8 @@
 
 Welcome to the Rehabilitation Veterinary Technician Interview Preparation ! This resource is designed to help you ace your Rehabilitation Veterinary Technician interviews with confidence.
 
+Veterinary Medicine is a specialized field that focuses on the healthcare and well-being of animals. It encompasses a variety of roles, one of which is Veterinary Nursing. Veterinary Nurses provide support to veterinarians by assisting in surgeries, administering medications, and caring for animals during their stay at veterinary clinics. Additionally, they educate pet owners on proper animal care and help with diagnostic procedures. Rehabilitation Veterinary Technicians, on the other hand, specialize in the rehabilitation and physical therapy of animals recovering from injuries or surgeries. They utilize various techniques, such as hydrotherapy and therapeutic exercises, to help animals regain their mobility and improve their quality of life.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Rehabilitation Veterinary Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Rehabilitation Veterinary Technician interviews to help you prepare and succeed.

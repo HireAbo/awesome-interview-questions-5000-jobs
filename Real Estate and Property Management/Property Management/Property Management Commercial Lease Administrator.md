@@ -2,6 +2,8 @@
 
 Welcome to the Property Management Commercial Lease Administrator Interview Preparation ! This resource is designed to help you ace your Property Management Commercial Lease Administrator interviews with confidence.
 
+A commercial lease administrator plays a vital role in the field of property management. They are responsible for overseeing and managing commercial leases on behalf of property owners or real estate agencies. This job involves various tasks such as negotiating lease terms, ensuring compliance with lease agreements, coordinating lease renewals, and handling rent collection. A commercial lease administrator also acts as a liaison between landlords and tenants, addressing any concerns or issues that may arise throughout the lease term. Attention to detail, strong communication skills, and a thorough understanding of real estate laws and regulations are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Property Management Commercial Lease Administrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Property Management Commercial Lease Administrator interviews to help you prepare and succeed.

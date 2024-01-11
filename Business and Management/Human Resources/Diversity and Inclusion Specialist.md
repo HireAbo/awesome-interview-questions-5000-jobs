@@ -2,6 +2,8 @@
 
 Welcome to the Diversity and Inclusion Specialist Interview Preparation ! This resource is designed to help you ace your Diversity and Inclusion Specialist interviews with confidence.
 
+A Diversity and Inclusion Specialist is a crucial role within the field of Human Resources in the Business and Management sector. This professional is responsible for designing and implementing strategies and initiatives to foster workplace diversity and promote inclusion within an organization. They work closely with leaders, managers, and employees to ensure that diverse perspectives are valued, and that everyone feels included and respected. The specialist is involved in recruitment and retention efforts, training and development programs, and creating policies that support diversity and inclusion. They play a key role in driving cultural change, promoting equity, and building an inclusive work environment that enhances employee engagement and drives business success.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Diversity and Inclusion Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Diversity and Inclusion Specialist interviews to help you prepare and succeed.

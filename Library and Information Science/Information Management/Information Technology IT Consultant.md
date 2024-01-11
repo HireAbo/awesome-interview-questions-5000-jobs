@@ -2,6 +2,8 @@
 
 Welcome to the Information Technology (IT) Consultant Interview Preparation ! This resource is designed to help you ace your Information Technology (IT) Consultant interviews with confidence.
 
+A Library and Information Science (LIS) degree equips professionals with the skills and knowledge to manage, organize, and disseminate information effectively. Within the LIS field, Information Management is a specialized area that focuses on the strategic handling of information resources. Information Management professionals play a vital role in various sectors, including libraries, businesses, and government organizations. One specific career path within Information Management is that of an Information Technology (IT) Consultant. IT Consultants work closely with clients to assess their technological needs, develop and implement solutions, and provide ongoing support. They possess expertise in areas such as database management, system analysis, network security, and software development, facilitating efficient information management and ensuring optimal use of technology resources.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Information Technology (IT) Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Information Technology (IT) Consultant interviews to help you prepare and succeed.

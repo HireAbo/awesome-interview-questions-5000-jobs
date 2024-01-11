@@ -2,6 +2,8 @@
 
 Welcome to the Historical Sites Manager Interview Preparation ! This resource is designed to help you ace your Historical Sites Manager interviews with confidence.
 
+A Historical Sites Manager is an integral part of the Hospitality and Tourism industry, specifically in the field of Tourism Management. As the name suggests, this role focuses on the preservation, management, and promotion of historical sites. Historical Sites Managers play a crucial role in ensuring the maintenance and conservation of significant historical landmarks and cultural heritage sites. They are responsible for overseeing the day-to-day operations, coordinating with various stakeholders, conducting research, implementing strategies to attract tourists, and providing an enriching experience for visitors. This job requires a deep understanding and appreciation of history, excellent organizational and leadership skills, and a passion for preserving and sharing our cultural heritage.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Historical Sites Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Historical Sites Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Autism Behavior Specialist Interview Preparation ! This resource is designed to help you ace your Autism Behavior Specialist interviews with confidence.
 
+An Autism Behavior Specialist is a highly trained professional who specializes in providing support and guidance to individuals with autism spectrum disorder (ASD). This specialized role focuses on understanding and addressing the unique behavioral challenges faced by individuals with autism. The main objective of an Autism Behavior Specialist is to develop and implement effective behavior intervention plans that promote positive behavior and enhance the individual's overall quality of life. They work closely with individuals with autism, their families, and other professionals to assess, analyze, and modify behavior patterns. Autism Behavior Specialists play a crucial role in creating a safe and inclusive learning environment for individuals with autism, ensuring they receive the necessary support to thrive academically, socially, and emotionally.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Autism Behavior Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Autism Behavior Specialist interviews to help you prepare and succeed.

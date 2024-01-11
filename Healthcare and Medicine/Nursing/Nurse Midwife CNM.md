@@ -2,6 +2,8 @@
 
 Welcome to the Nurse Midwife (CNM) Interview Preparation ! This resource is designed to help you ace your Nurse Midwife (CNM) interviews with confidence.
 
+A Nurse Midwife (CNM) is an advanced practice registered nurse who specializes in providing healthcare services to women throughout their lifespan, with a particular focus on reproductive and maternal health. CNMs are trained to provide comprehensive care to women, including prenatal, labor and delivery, postpartum, and gynecological care. They also have the ability to prescribe medication, order diagnostic tests, and provide counseling and education to patients. CNMs play a crucial role in promoting and ensuring the well-being of women and their babies, providing compassionate care, and empowering women to make informed decisions about their health. They often work collaboratively with other healthcare professionals to deliver high-quality, evidence-based care to their patients.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nurse Midwife (CNM) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nurse Midwife (CNM) interviews to help you prepare and succeed.

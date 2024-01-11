@@ -2,6 +2,8 @@
 
 Welcome to the Rough Carpenter Interview Preparation ! This resource is designed to help you ace your Rough Carpenter interviews with confidence.
 
+A Rough Carpenter is a skilled tradesperson specializing in the construction and installation of structural frameworks for buildings. They play a crucial role in the early stages of construction, working with blueprints and specifications to create the foundation and framework of a structure. Rough Carpenters are responsible for measuring, cutting and shaping wood and other materials, as well as assembling and fastening them together using various tools and techniques. They may also be involved in installing doors, windows, and other building components. This job requires a high level of precision, physical strength, and the ability to work efficiently as part of a team.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Rough Carpenter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Rough Carpenter interviews to help you prepare and succeed.

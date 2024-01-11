@@ -2,6 +2,8 @@
 
 Welcome to the Early Intervention Specialist Interview Preparation ! This resource is designed to help you ace your Early Intervention Specialist interviews with confidence.
 
+An Early Intervention Specialist is a dedicated professional who works in the field of special education, focusing on early intervention to support children with developmental delays or disabilities. These specialists work closely with infants, toddlers, and preschool-aged children, providing them with the necessary educational, therapeutic, and behavioral interventions to enhance their overall development. They assess each child's unique needs and design individualized intervention plans to help them reach their full potential. Early Intervention Specialists collaborate with families, educators, and other professionals to create a holistic and inclusive learning environment for children with special needs. Their role plays a vital part in ensuring early identification and timely interventions that can significantly impact a child's long-term success and well-being.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Early Intervention Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Early Intervention Specialist interviews to help you prepare and succeed.

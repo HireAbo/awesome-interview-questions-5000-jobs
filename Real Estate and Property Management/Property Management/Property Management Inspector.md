@@ -2,6 +2,8 @@
 
 Welcome to the Property Management Inspector Interview Preparation ! This resource is designed to help you ace your Property Management Inspector interviews with confidence.
 
+The real estate industry encompasses various roles, including property management, which involves overseeing and maintaining properties on behalf of owners. Within property management, the role of a property management inspector is crucial. Property management inspectors are responsible for conducting regular inspections of properties to ensure they meet safety, health, and maintenance standards. They assess the condition of buildings, identify potential hazards, and provide recommendations for necessary repairs or improvements. These inspections are essential for ensuring tenant satisfaction and compliance with regulations. Property management inspectors also play a vital role in preserving the value of properties and safeguarding the interests of both owners and tenants.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Property Management Inspector or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Property Management Inspector interviews to help you prepare and succeed.

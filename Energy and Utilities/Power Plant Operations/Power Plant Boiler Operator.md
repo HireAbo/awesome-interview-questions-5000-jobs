@@ -2,6 +2,8 @@
 
 Welcome to the Power Plant Boiler Operator Interview Preparation ! This resource is designed to help you ace your Power Plant Boiler Operator interviews with confidence.
 
+A Power Plant Boiler Operator is a specialized role within the field of Energy and Utilities, specifically in Power Plant Operations. These professionals are responsible for operating and maintaining the boilers in power plants, which generate steam to produce electricity. Their main duties include monitoring boiler operations, adjusting controls and valves, and ensuring the safe and efficient operation of the boiler systems. Power Plant Boiler Operators also perform routine maintenance tasks, such as cleaning and inspecting equipment, and troubleshooting any issues that may arise. This role requires strong technical skills, attention to detail, and the ability to work in a high-pressure environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Power Plant Boiler Operator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Power Plant Boiler Operator interviews to help you prepare and succeed.

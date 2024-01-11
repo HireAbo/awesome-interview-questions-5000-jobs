@@ -2,6 +2,8 @@
 
 Welcome to the Sustainable Farming Consultant Interview Preparation ! This resource is designed to help you ace your Sustainable Farming Consultant interviews with confidence.
 
+Agriculture and Environmental Science are multidisciplinary fields that aim to ensure sustainable practices in farming and food production. Sustainable Agriculture focuses on minimizing the negative impact on the environment while maximizing productivity and preserving natural resources. Within this field, Sustainable Farming Consultants play a crucial role in advising farmers and agricultural businesses on sustainable practices. As a Sustainable Farming Consultant, the job entails providing expert guidance on soil conservation, water management, biodiversity preservation, organic farming techniques, and integrated pest management. These professionals work closely with farmers to develop and implement sustainable farming plans that improve productivity, reduce environmental harm, and promote long-term sustainability in agriculture.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sustainable Farming Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sustainable Farming Consultant interviews to help you prepare and succeed.

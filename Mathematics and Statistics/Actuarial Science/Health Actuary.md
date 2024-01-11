@@ -2,6 +2,8 @@
 
 Welcome to the Health Actuary Interview Preparation ! This resource is designed to help you ace your Health Actuary interviews with confidence.
 
+Mathematics and Statistics are fundamental disciplines that play a crucial role in the field of Actuarial Science. Actuaries utilize mathematical models and statistical techniques to assess and manage various risks, particularly in the insurance industry. One specialization within Actuarial Science is Health Actuary. Health actuaries specifically focus on analyzing and predicting the financial impact of healthcare-related risks. They evaluate data on mortality rates, disease prevalence, healthcare costs, and demographic trends to develop insurance products, pricing strategies, and risk management solutions. Health actuaries work closely with healthcare providers, policymakers, and insurers to ensure the sustainability and affordability of health insurance plans while promoting optimal health outcomes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Health Actuary or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Health Actuary interviews to help you prepare and succeed.

@@ -2,6 +2,10 @@
 
 Welcome to the Real Estate Appraisal Manager Interview Preparation ! This resource is designed to help you ace your Real Estate Appraisal Manager interviews with confidence.
 
+Real Estate and Property Management involve the buying, selling, and management of real estate properties. It encompasses various aspects such as property valuation, leasing, maintenance, and tenant relations. One crucial role within this field is that of a Real Estate Appraisal Manager. 
+
+A Real Estate Appraisal Manager is responsible for overseeing the appraisal process of real estate properties. They lead a team of appraisers who determine the market value of properties, considering factors like location, condition, and comparable sales data. These professionals ensure that appraisals are accurate, comply with industry standards, and meet client requirements. They may also liaise with clients, provide expert advice on property value, and resolve any appraisal-related issues. Overall, Real Estate Appraisal Managers play a vital role in ensuring fair and accurate property valuations for various real estate transactions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Appraisal Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Appraisal Manager interviews to help you prepare and succeed.

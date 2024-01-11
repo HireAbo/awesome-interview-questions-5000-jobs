@@ -2,6 +2,8 @@
 
 Welcome to the Marine Biologist Interview Preparation ! This resource is designed to help you ace your Marine Biologist interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on understanding the relationship between agriculture and the environment. It encompasses various branches like soil science, plant science, and ecology, aiming to develop sustainable agricultural practices that minimize negative environmental impacts. On the other hand, Wildlife Conservation is the practice of protecting and managing wild animal and plant species and their habitats. It involves studying and monitoring wildlife populations, conducting research, and implementing conservation strategies to ensure the long-term survival of species. Within this field, Marine Biologists specifically concentrate on studying marine organisms and their ecosystems, working towards conserving and protecting marine biodiversity and habitats through research, conservation planning, and policy development.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Marine Biologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Marine Biologist interviews to help you prepare and succeed.

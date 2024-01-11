@@ -2,6 +2,8 @@
 
 Welcome to the E-commerce Specialist Interview Preparation ! This resource is designed to help you ace your E-commerce Specialist interviews with confidence.
 
+The role of an E-commerce Specialist in the field of Communication and Media > Digital Media is crucial in today's digital world. As an E-commerce Specialist, your primary responsibility is to drive online sales and revenue growth through various digital marketing and sales strategies. You will be responsible for managing online platforms, such as websites, social media platforms, and online marketplaces, to optimize product visibility and enhance the customer experience. Additionally, you will analyze customer behavior and market trends to develop targeted marketing campaigns, manage online advertisements, and monitor website analytics. This role requires strong analytical skills, proficiency in digital marketing tools and platforms, and a deep understanding of e-commerce best practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned E-commerce Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in E-commerce Specialist interviews to help you prepare and succeed.

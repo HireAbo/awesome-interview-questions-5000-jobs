@@ -2,6 +2,8 @@
 
 Welcome to the Records Officer Interview Preparation ! This resource is designed to help you ace your Records Officer interviews with confidence.
 
+Library and Information Science is a field that encompasses the management and organization of information resources in various formats. Within this field, Records Management focuses specifically on the systematic control and maintenance of records within an organization. As a Records Officer, your primary responsibility is to ensure the proper creation, maintenance, and disposal of records in accordance with legal and regulatory requirements. You will be responsible for classifying and indexing records, implementing record retention schedules, and managing the storage and retrieval of physical and electronic records. Additionally, you may be involved in developing and implementing policies and procedures related to records management, as well as training staff on proper record-keeping practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Records Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Records Officer interviews to help you prepare and succeed.

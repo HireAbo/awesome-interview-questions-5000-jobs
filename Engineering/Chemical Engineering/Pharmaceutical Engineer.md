@@ -2,6 +2,8 @@
 
 Welcome to the Pharmaceutical Engineer Interview Preparation ! This resource is designed to help you ace your Pharmaceutical Engineer interviews with confidence.
 
+Pharmaceutical engineering, a specialized field of chemical engineering, focuses on the development and production of pharmaceutical drugs. Pharmaceutical engineers play a crucial role in the pharmaceutical manufacturing process, ensuring the safety, effectiveness, and quality of medications. They are responsible for designing and optimizing manufacturing processes, developing new drug formulations, and conducting research to improve drug delivery systems. Additionally, pharmaceutical engineers collaborate with scientists, chemists, and regulatory professionals to ensure compliance with industry regulations and standards. With their expertise in chemistry, biology, and engineering principles, pharmaceutical engineers contribute to the advancement of healthcare by creating innovative and efficient drug production methods.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Pharmaceutical Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Pharmaceutical Engineer interviews to help you prepare and succeed.

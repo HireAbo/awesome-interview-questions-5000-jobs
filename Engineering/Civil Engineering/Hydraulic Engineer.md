@@ -2,6 +2,8 @@
 
 Welcome to the Hydraulic Engineer Interview Preparation ! This resource is designed to help you ace your Hydraulic Engineer interviews with confidence.
 
+A Hydraulic Engineer is a specialized civil engineer who focuses on the design and construction of hydraulic systems. They play a crucial role in ensuring the efficient flow and management of water resources. These professionals are responsible for designing and maintaining structures such as dams, canals, pipelines, and water treatment plants. They utilize their knowledge of fluid mechanics, hydrology, and environmental engineering to develop sustainable solutions for water-related challenges. Hydraulic Engineers also conduct feasibility studies, analyze data, and collaborate with other professionals to ensure the safety, functionality, and environmental sustainability of hydraulic systems. Their expertise is essential for managing water resources effectively and mitigating the risks associated with flooding, erosion, and water pollution.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Hydraulic Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Hydraulic Engineer interviews to help you prepare and succeed.

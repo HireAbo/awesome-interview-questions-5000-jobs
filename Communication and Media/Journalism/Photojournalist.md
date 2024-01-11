@@ -2,6 +2,8 @@
 
 Welcome to the Photojournalist Interview Preparation ! This resource is designed to help you ace your Photojournalist interviews with confidence.
 
+A photojournalist is a skilled professional who combines photography with journalism to capture and communicate powerful stories through images. They play a crucial role in the field of journalism, as their photographs often evoke emotions, provoke thoughts, and provide visual evidence to accompany news stories. Photojournalists are responsible for capturing significant moments in current events, social issues, and human experiences, aiming to inform and engage the public. They work in various media outlets, including newspapers, magazines, online platforms, and news agencies. These professionals possess a keen eye for detail, technical expertise in photography, and a deep understanding of storytelling to deliver impactful visual narratives that shape public opinion and document history.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Photojournalist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Photojournalist interviews to help you prepare and succeed.

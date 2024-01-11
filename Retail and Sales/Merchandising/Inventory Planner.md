@@ -2,6 +2,8 @@
 
 Welcome to the Inventory Planner Interview Preparation ! This resource is designed to help you ace your Inventory Planner interviews with confidence.
 
+A Retail and Sales Merchandising Inventory Planner plays a crucial role in the retail industry, ensuring effective inventory management and maximizing sales potential. This job involves analyzing market trends, sales patterns, and customer demand to create accurate inventory forecasts. By collaborating with various departments, such as purchasing, marketing, and sales, the Inventory Planner ensures that the right products are available in the right quantities at the right time. Additionally, they monitor inventory levels, identify slow-moving or obsolete items, and develop strategies to optimize stock turnover and minimize costs. This job requires strong analytical skills, attention to detail, and the ability to work in a fast-paced and dynamic retail environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Inventory Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Inventory Planner interviews to help you prepare and succeed.

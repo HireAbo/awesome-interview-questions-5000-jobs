@@ -2,6 +2,8 @@
 
 Welcome to the Community Psychologist Interview Preparation ! This resource is designed to help you ace your Community Psychologist interviews with confidence.
 
+A Community Psychologist is a professional who applies principles and theories of psychology to understand and address social issues within a community. They work closely with individuals, families, and groups to promote mental health, prevent psychological disorders, and enhance overall well-being. Community psychologists often collaborate with community organizations, government agencies, and schools to develop and implement programs that address issues such as poverty, inequality, and social justice. They conduct research to identify community needs and evaluate the effectiveness of interventions, and they also provide counseling and therapy services to individuals and families. Ultimately, the goal of a Community Psychologist is to improve the quality of life for individuals and communities as a whole.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Community Psychologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Community Psychologist interviews to help you prepare and succeed.

@@ -2,6 +2,12 @@
 
 Welcome to the Wildlife Field Technician Interview Preparation ! This resource is designed to help you ace your Wildlife Field Technician interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on the study of the environment and its impact on plants, animals, and ecosystems. It involves understanding the intricate relationship between agriculture and the environment, and finding sustainable solutions to preserve natural resources. 
+
+Wildlife Conservation is a crucial aspect of Agriculture and Environmental Science that aims to protect and conserve wildlife populations and their habitats. It involves conducting research, implementing conservation strategies, and monitoring the health and behavior of various species. 
+
+The role of a Wildlife Field Technician is integral to wildlife conservation efforts. They assist in fieldwork, collecting data on wildlife populations, conducting surveys, and monitoring habitat conditions. They utilize various techniques and equipment to track and study animal behavior, population dynamics, and ecosystem health. Their work plays a vital role in understanding and protecting wildlife species and their ecosystems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Field Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Field Technician interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Waldorf Teacher Interview Preparation ! This resource is designed to help you ace your Waldorf Teacher interviews with confidence.
 
+A Waldorf Teacher is a professional who embraces the unique educational philosophy and teaching methods of the Waldorf education system. Waldorf education focuses on holistic development, nurturing the intellectual, artistic, and practical skills of students. As a Waldorf Teacher, you will be responsible for creating a creative and nurturing learning environment that supports each student's individual growth and development. You will design and deliver engaging lessons that incorporate a range of subjects, including academics, arts, and practical skills. Waldorf Teachers also cultivate a strong sense of community and work closely with parents to ensure a well-rounded education for their students.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Waldorf Teacher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Waldorf Teacher interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Zoological Researcher Interview Preparation ! This resource is designed to help you ace your Zoological Researcher interviews with confidence.
 
+Veterinary medicine is a branch of healthcare that focuses on the prevention, diagnosis, and treatment of diseases and injuries in animals. Within the field of veterinary medicine, there is a specialized area called veterinary research, which involves conducting scientific investigations to enhance our understanding of animal health and develop new treatment methods. One specific role within veterinary research is that of a zoological researcher. Zoological researchers work with a variety of animal species in zoos, wildlife reserves, or research institutions to study their behavior, genetics, diseases, and overall well-being. These professionals play a critical role in advancing animal welfare, conservation efforts, and the overall understanding of animal biology.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Zoological Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Zoological Researcher interviews to help you prepare and succeed.

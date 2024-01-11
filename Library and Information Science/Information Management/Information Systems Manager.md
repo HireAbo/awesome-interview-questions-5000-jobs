@@ -2,6 +2,8 @@
 
 Welcome to the Information Systems Manager Interview Preparation ! This resource is designed to help you ace your Information Systems Manager interviews with confidence.
 
+Library and Information Science (LIS) is a multidisciplinary field that focuses on the organization, retrieval, and dissemination of information in various formats. Within LIS, there is a specialized role known as an Information Systems Manager. As an Information Systems Manager, professionals are responsible for overseeing the technological infrastructure of an organization's information management systems. This includes managing databases, ensuring data security, and implementing new technologies to improve efficiency and accessibility. Information Systems Managers play a crucial role in ensuring that information is effectively managed, stored, and accessible to users within an organization. They possess a strong understanding of both information management principles and technological systems, making them vital in today's digital age.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Information Systems Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Information Systems Manager interviews to help you prepare and succeed.

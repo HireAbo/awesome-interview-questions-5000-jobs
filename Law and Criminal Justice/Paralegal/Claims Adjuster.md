@@ -2,6 +2,8 @@
 
 Welcome to the Claims Adjuster Interview Preparation ! This resource is designed to help you ace your Claims Adjuster interviews with confidence.
 
+Law and Criminal Justice encompasses a vast array of career opportunities, including roles such as Paralegal and Claims Adjuster. A Paralegal is a crucial member of a legal team, providing valuable support to attorneys in various legal tasks. They conduct legal research, draft legal documents, and assist in case preparation. Paralegals play a pivotal role in ensuring the smooth functioning of a law firm or legal department. On the other hand, a Claims Adjuster is responsible for investigating insurance claims, determining the extent of coverage, and negotiating settlements. They evaluate damages, interview witnesses, and gather evidence to make fair and accurate claim decisions. Both roles require strong analytical skills, attention to detail, and a solid understanding of legal procedures and regulations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Claims Adjuster or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Claims Adjuster interviews to help you prepare and succeed.

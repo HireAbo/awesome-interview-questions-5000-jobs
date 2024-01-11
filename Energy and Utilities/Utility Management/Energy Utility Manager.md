@@ -2,6 +2,8 @@
 
 Welcome to the Energy Utility Manager Interview Preparation ! This resource is designed to help you ace your Energy Utility Manager interviews with confidence.
 
+An Energy Utility Manager is a professional responsible for overseeing and managing the operations related to energy utilities within an organization. They play a crucial role in monitoring energy consumption, implementing energy conservation strategies, and ensuring compliance with regulatory requirements. The Energy Utility Manager collaborates with various departments to develop and execute energy efficiency programs, assess energy usage patterns, and identify areas for improvement. They also analyze utility bills, negotiate contracts with utility providers, and implement cost-effective measures to reduce energy consumption. Additionally, they may supervise a team of technicians and engineers, providing guidance and support to ensure optimal performance and sustainability in energy management.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Energy Utility Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Energy Utility Manager interviews to help you prepare and succeed.

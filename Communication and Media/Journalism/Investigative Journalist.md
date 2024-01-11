@@ -2,6 +2,8 @@
 
 Welcome to the Investigative Journalist Interview Preparation ! This resource is designed to help you ace your Investigative Journalist interviews with confidence.
 
+An Investigative Journalist is a dedicated professional who delves deep into uncovering, researching, and reporting on significant issues of public interest. This specialized field of journalism focuses on investigating and exposing wrongdoing, corruption, or any hidden information that may impact society. These professionals employ various techniques, such as conducting interviews, analyzing data, and scrutinizing documents, to provide accurate and unbiased reports. Investigative journalists play a crucial role in holding individuals, organizations, or institutions accountable, aiming to bring about positive change. Their work often contributes to raising awareness, shaping public opinion, and advocating for justice and transparency. These individuals possess excellent research skills, critical thinking abilities, and a strong commitment to truth and integrity.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Investigative Journalist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Investigative Journalist interviews to help you prepare and succeed.

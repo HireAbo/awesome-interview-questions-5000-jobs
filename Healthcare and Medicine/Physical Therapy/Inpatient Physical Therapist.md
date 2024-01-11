@@ -2,6 +2,8 @@
 
 Welcome to the Inpatient Physical Therapist Interview Preparation ! This resource is designed to help you ace your Inpatient Physical Therapist interviews with confidence.
 
+An Inpatient Physical Therapist is a healthcare professional specializing in providing rehabilitation services to patients admitted to a hospital or healthcare facility. They work closely with physicians, nurses, and other medical professionals to develop and implement personalized treatment plans for patients recovering from injuries, surgeries, or illnesses. Inpatient Physical Therapists assess patients' mobility, strength, and range of motion to identify impairments and develop appropriate interventions. They utilize various techniques and modalities such as therapeutic exercises, manual therapy, and electrical stimulation to help patients regain their physical function and independence. Inpatient Physical Therapists play a crucial role in improving patients' quality of life and facilitating their transition back to their daily activities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Inpatient Physical Therapist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Inpatient Physical Therapist interviews to help you prepare and succeed.

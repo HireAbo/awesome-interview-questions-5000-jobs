@@ -2,6 +2,8 @@
 
 Welcome to the Public Health Educator Interview Preparation ! This resource is designed to help you ace your Public Health Educator interviews with confidence.
 
+A Public Health Educator in the field of Sociology focuses on promoting health and wellness within communities. They play a vital role in raising awareness about various health issues, such as disease prevention, healthy lifestyles, and healthcare access. These professionals design and implement educational programs, workshops, and campaigns to inform individuals and communities about health risks and the benefits of adopting healthy behaviors. Public Health Educators work closely with diverse populations, including marginalized communities, to address health disparities and promote equity in healthcare. They collaborate with healthcare professionals, policymakers, and community organizations to create sustainable strategies that improve overall public health outcomes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Public Health Educator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Public Health Educator interviews to help you prepare and succeed.

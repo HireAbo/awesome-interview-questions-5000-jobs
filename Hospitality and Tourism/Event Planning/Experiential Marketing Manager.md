@@ -2,6 +2,8 @@
 
 Welcome to the Experiential Marketing Manager Interview Preparation ! This resource is designed to help you ace your Experiential Marketing Manager interviews with confidence.
 
+As an Experiential Marketing Manager in the field of Hospitality and Tourism, you will be responsible for designing and executing unforgettable event experiences. Your primary focus will be on creating and implementing innovative marketing strategies that captivate and engage audiences, ultimately driving business growth. You will collaborate with cross-functional teams to plan and organize events, ensuring seamless execution from concept to completion. Your role will involve coordinating logistics, managing budgets, and overseeing all aspects of event production. With your expertise in experiential marketing, you will create immersive and impactful experiences that leave a lasting impression on attendees, fostering customer loyalty and brand advocacy.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Experiential Marketing Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Experiential Marketing Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Street Artist Interview Preparation ! This resource is designed to help you ace your Street Artist interviews with confidence.
 
+A street artist is an individual who creates art in public spaces, such as streets, walls, and buildings. They use various mediums, such as spray paint, stencils, and chalk to bring their artistic expressions to life. Street artists often use their art as a means of social commentary, activism, or simply to beautify urban environments. This unique form of artistic expression allows street artists to engage with a wide audience and challenge traditional notions of art by taking it out of the gallery and into the public domain. Their work often inspires conversations, provokes thought, and adds vibrancy to cityscapes around the world.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Street Artist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Street Artist interviews to help you prepare and succeed.

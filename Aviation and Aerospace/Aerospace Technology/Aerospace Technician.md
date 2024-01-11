@@ -2,6 +2,8 @@
 
 Welcome to the Aerospace Technician Interview Preparation ! This resource is designed to help you ace your Aerospace Technician interviews with confidence.
 
+Aviation and Aerospace are industries that encompass the design, development, manufacturing, and maintenance of aircraft and spacecraft. These sectors rely heavily on cutting-edge technology, making them integral to the progress of society. Within Aerospace Technology, Aerospace Technicians play a crucial role in ensuring the smooth operation of aircraft and spacecraft systems. These professionals are responsible for inspecting, testing, and maintaining various components, such as engines, electrical systems, and navigation instruments. They also troubleshoot and repair any malfunctions to ensure the safety and efficiency of aerospace vehicles. Aerospace Technicians require a deep understanding of complex systems and possess strong technical skills to excel in this field.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Aerospace Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Aerospace Technician interviews to help you prepare and succeed.

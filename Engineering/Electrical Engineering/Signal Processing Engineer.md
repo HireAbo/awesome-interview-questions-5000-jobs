@@ -2,6 +2,8 @@
 
 Welcome to the Signal Processing Engineer Interview Preparation ! This resource is designed to help you ace your Signal Processing Engineer interviews with confidence.
 
+A Signal Processing Engineer is a specialist in the field of Electrical Engineering, focusing on the analysis, manipulation, and interpretation of signals. They design and develop algorithms and techniques to process various types of signals, such as audio, video, and data signals, with the goal of extracting information or improving the quality of the signals. Signal Processing Engineers work on a wide range of applications, including telecommunications, medical imaging, audio and speech processing, radar and sonar systems, and control systems. They collaborate with other engineers and scientists to research, innovate, and implement new signal processing techniques to enhance the performance and efficiency of various systems and devices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Signal Processing Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Signal Processing Engineer interviews to help you prepare and succeed.

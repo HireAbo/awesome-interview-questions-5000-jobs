@@ -2,6 +2,8 @@
 
 Welcome to the Trade Show Manager Interview Preparation ! This resource is designed to help you ace your Trade Show Manager interviews with confidence.
 
+A Trade Show Manager is a professional responsible for planning, organizing, and executing trade shows and exhibitions to promote a company's products or services. They play a crucial role in developing marketing strategies and ensuring successful participation in trade shows. The main responsibilities of a Trade Show Manager include coordinating logistics, such as booth setup, staffing, and marketing collateral, as well as managing budgets and timelines. They also collaborate with cross-functional teams to create engaging booth displays, develop marketing materials, and plan promotional activities during the event. A Trade Show Manager must possess excellent communication, project management, and problem-solving skills to effectively represent the company and maximize its visibility and impact at trade shows.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Trade Show Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Trade Show Manager interviews to help you prepare and succeed.

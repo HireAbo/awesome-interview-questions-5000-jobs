@@ -2,6 +2,8 @@
 
 Welcome to the Engine Design Engineer Interview Preparation ! This resource is designed to help you ace your Engine Design Engineer interviews with confidence.
 
+An Engine Design Engineer in the field of Mechanical Engineering is responsible for the creation and development of efficient and reliable engines. This job involves designing, analyzing, and testing various components of an engine to ensure optimal performance. Engine Design Engineers use computer-aided design (CAD) software to create detailed engine models and perform simulations to predict their behavior. They also collaborate with other professionals, such as manufacturing engineers, to ensure that the engine design can be successfully implemented into production. Additionally, Engine Design Engineers continuously research and stay up-to-date with the latest technological advancements to improve engine efficiency, reduce emissions, and meet regulatory standards.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Engine Design Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Engine Design Engineer interviews to help you prepare and succeed.

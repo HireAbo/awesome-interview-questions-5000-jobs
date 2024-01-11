@@ -2,6 +2,10 @@
 
 Welcome to the Real Estate Development Finance Manager Interview Preparation ! This resource is designed to help you ace your Real Estate Development Finance Manager interviews with confidence.
 
+Real Estate and Property Management involves the buying, selling, leasing, and managing of properties, both residential and commercial. It encompasses various tasks such as property valuation, marketing, tenant screening, rent collection, and maintenance. 
+
+Within the field of Real Estate Development, a Finance Manager plays a critical role. As a Real Estate Development Finance Manager, your main responsibility is to oversee the financial aspects of property development projects. This includes budgeting, financial forecasting, securing project funding, monitoring cash flow, and managing financial risks. You will collaborate with developers, investors, lenders, and other stakeholders to ensure the successful completion of projects within budget and on time. Strong financial acumen, analytical skills, and a deep understanding of real estate markets are essential for this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Development Finance Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Development Finance Manager interviews to help you prepare and succeed.

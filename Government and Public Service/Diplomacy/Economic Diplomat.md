@@ -2,6 +2,8 @@
 
 Welcome to the Economic Diplomat Interview Preparation ! This resource is designed to help you ace your Economic Diplomat interviews with confidence.
 
+A government plays a crucial role in providing public services and ensuring the well-being of its citizens. Within the realm of diplomacy, economic diplomats hold a significant position in promoting and protecting a country's economic interests abroad. As economic diplomats, their primary focus is on fostering international trade and investment opportunities, as well as resolving trade disputes and negotiating trade agreements. They serve as liaisons between governments, businesses, and international organizations to facilitate economic cooperation and maintain positive bilateral relations. Economic diplomats possess strong analytical skills, negotiation abilities, and in-depth knowledge of international trade policies, economics, and finance. Their work contributes to the overall economic growth and prosperity of their home country.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Economic Diplomat or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Economic Diplomat interviews to help you prepare and succeed.

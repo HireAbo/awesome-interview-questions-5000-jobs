@@ -2,6 +2,8 @@
 
 Welcome to the Immigration Law Paralegal Interview Preparation ! This resource is designed to help you ace your Immigration Law Paralegal interviews with confidence.
 
+A career in Immigration Law Paralegal involves assisting attorneys in handling legal matters related to immigration issues. Immigration law deals with the rules and regulations governing the entry, stay, and naturalization of foreign nationals in a country. As an Immigration Law Paralegal, you will provide support in various tasks, including conducting legal research, preparing legal documents, assisting in client interviews, and organizing case files. Attention to detail, strong analytical and research skills, and knowledge of immigration laws and procedures are crucial in this role. This profession offers an opportunity to make a positive impact on individuals and families navigating the complexities of immigration law.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Immigration Law Paralegal or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Immigration Law Paralegal interviews to help you prepare and succeed.

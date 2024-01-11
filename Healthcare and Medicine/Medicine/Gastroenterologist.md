@@ -2,6 +2,8 @@
 
 Welcome to the Gastroenterologist Interview Preparation ! This resource is designed to help you ace your Gastroenterologist interviews with confidence.
 
+A Gastroenterologist is a medical specialist who focuses on the diagnosis, treatment, and management of diseases and disorders of the digestive system. They are experts in the field of gastroenterology, which includes the study of the esophagus, stomach, liver, gallbladder, pancreas, small intestine, and colon. Gastroenterologists perform various procedures like endoscopies, colonoscopies, and liver biopsies to diagnose and treat conditions such as ulcers, acid reflux, Crohn's disease, hepatitis, gallstones, and colorectal cancer. They work closely with other healthcare professionals to develop personalized treatment plans, which may include medication, lifestyle changes, or surgery. Gastroenterologists play a crucial role in maintaining and improving the overall digestive health of patients.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Gastroenterologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Gastroenterologist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Nonprofit Board Member Interview Preparation ! This resource is designed to help you ace your Nonprofit Board Member interviews with confidence.
 
+Being a Nonprofit Board Member in the field of Social Work and Human Services involves actively participating in the management and decision-making process of a nonprofit organization. This role requires individuals who are passionate about creating positive change in their communities and helping those in need. Nonprofit Board Members play a crucial role in overseeing the organization's mission, strategic planning, finances, and governance. They contribute their expertise, skills, and resources to ensure the organization operates efficiently and effectively. By serving as a Nonprofit Board Member, individuals have the opportunity to make a significant impact on the lives of vulnerable populations, advocate for social justice, and support the growth and sustainability of nonprofit organizations dedicated to improving society.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nonprofit Board Member or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nonprofit Board Member interviews to help you prepare and succeed.

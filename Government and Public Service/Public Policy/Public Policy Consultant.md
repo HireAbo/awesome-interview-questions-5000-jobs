@@ -2,6 +2,8 @@
 
 Welcome to the Public Policy Consultant Interview Preparation ! This resource is designed to help you ace your Public Policy Consultant interviews with confidence.
 
+A government is a system that establishes and enforces laws, regulations, and policies to govern a community or country. It provides essential services and maintains order, ensuring the welfare and safety of its citizens. Public service refers to the individuals and organizations working within the government to deliver these services and meet the needs of the public. Public policy is the decision-making process that shapes government actions and initiatives. A public policy consultant plays a crucial role in this process, offering expert advice to government officials. They analyze data, conduct research, and provide recommendations to develop effective policies that address societal issues and promote the general welfare.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Public Policy Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Public Policy Consultant interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Sales Manager Interview Preparation ! This resource is designed to help you ace your Sales Manager interviews with confidence.
 
+A Sales Manager is a key role in the retail industry, responsible for leading and overseeing the sales team to achieve sales targets and drive revenue growth. They play a crucial role in developing and implementing effective sales strategies, managing customer relationships, and ensuring customer satisfaction. A Sales Manager is responsible for recruiting, training, and motivating sales staff, as well as monitoring their performance and providing feedback and coaching. They analyze market trends, customer preferences, and competitor activities to identify potential business opportunities and develop strategies to capitalize on them. A successful Sales Manager possesses excellent leadership, communication, negotiation, and problem-solving skills to drive sales success and achieve organizational goals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sales Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sales Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Veterinary Neurology Technician Interview Preparation ! This resource is designed to help you ace your Veterinary Neurology Technician interviews with confidence.
 
+Veterinary Medicine is a branch of healthcare that focuses on the diagnosis, treatment, and prevention of diseases in animals. Within this field, Veterinary Nursing is a specialized profession that involves providing medical care, assistance, and support to veterinarians and animals under their care. Veterinary Nurses play a crucial role in administering treatments, conducting diagnostic tests, assisting in surgical procedures, and educating pet owners on animal care. Within the realm of Veterinary Nursing, there is a specialized role known as a Veterinary Neurology Technician. These professionals have advanced knowledge and skills in diagnosing and treating neurological conditions in animals, working closely with veterinarians to provide specialized care to animals with neurological disorders.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Veterinary Neurology Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Veterinary Neurology Technician interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Appraisal Sustainability Manager Interview Preparation ! This resource is designed to help you ace your Real Estate Appraisal Sustainability Manager interviews with confidence.
 
+Real Estate and Property Management is a vast industry that encompasses the buying, selling, leasing, and managing of properties. It involves various aspects, including real estate appraisal, which is the process of determining the value of a property. Real Estate Appraisal Sustainability Manager is a specialized job within this field. These professionals are responsible for evaluating properties and ensuring their sustainability through environmentally friendly practices. They assess the energy efficiency, water usage, and overall sustainability of a property. The role involves conducting inspections, analyzing data, and providing recommendations for improvement. Real Estate Appraisal Sustainability Managers play a crucial role in promoting sustainable practices in the real estate industry and contributing to a greener and more sustainable future.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Appraisal Sustainability Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Appraisal Sustainability Manager interviews to help you prepare and succeed.

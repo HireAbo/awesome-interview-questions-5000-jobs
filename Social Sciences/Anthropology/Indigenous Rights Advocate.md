@@ -2,6 +2,8 @@
 
 Welcome to the Indigenous Rights Advocate Interview Preparation ! This resource is designed to help you ace your Indigenous Rights Advocate interviews with confidence.
 
+The Indigenous Rights Advocate job in the field of Anthropology within the Social Sciences entails advocating for the rights and wellbeing of indigenous communities worldwide. As an advocate, the individual works to promote social justice, cultural preservation, and sustainable development for indigenous peoples. This role involves conducting research to understand the unique challenges faced by indigenous communities, such as land rights, discrimination, poverty, and lack of access to basic services. Indigenous Rights Advocates collaborate with indigenous leaders, organizations, and governments to implement policies and programs that address these issues. They also raise awareness about indigenous rights violations, engage in public activism, and provide support and resources to empower indigenous communities in their fight for self-determination, equality, and cultural rights.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Indigenous Rights Advocate or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Indigenous Rights Advocate interviews to help you prepare and succeed.

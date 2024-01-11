@@ -2,6 +2,8 @@
 
 Welcome to the Statistical Curriculum Developer Interview Preparation ! This resource is designed to help you ace your Statistical Curriculum Developer interviews with confidence.
 
+A Statistical Curriculum Developer is responsible for designing and developing the curriculum for statistical courses. This role requires a strong background in mathematics and statistics, as well as a deep understanding of educational principles and instructional design. The Curriculum Developer will collaborate with subject matter experts to identify learning objectives, develop course content, and create assessments and instructional materials. They will also ensure that the curriculum aligns with industry standards and best practices. The Statistical Curriculum Developer plays a crucial role in shaping the statistical education of students and professionals, providing them with the necessary skills to analyze and interpret data accurately.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Statistical Curriculum Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Statistical Curriculum Developer interviews to help you prepare and succeed.

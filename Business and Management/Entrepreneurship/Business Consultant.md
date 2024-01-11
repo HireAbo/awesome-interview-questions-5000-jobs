@@ -2,6 +2,8 @@
 
 Welcome to the Business Consultant Interview Preparation ! This resource is designed to help you ace your Business Consultant interviews with confidence.
 
+A business consultant is a professional who provides expert advice and guidance to entrepreneurs and businesses. They possess in-depth knowledge and experience in various aspects of business and management, and use their expertise to help clients improve their operations, solve problems, and achieve their goals. Business consultants offer strategic planning, market analysis, financial management, marketing strategies, and operational improvements. They conduct thorough research, assess market trends, competition, and customer behavior to provide valuable insights and recommendations for growth and success. A business consultant’s main objective is to assist clients in making informed decisions and implementing effective strategies to enhance their business performance and profitability.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Business Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Business Consultant interviews to help you prepare and succeed.

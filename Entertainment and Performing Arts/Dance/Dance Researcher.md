@@ -2,6 +2,8 @@
 
 Welcome to the Dance Researcher Interview Preparation ! This resource is designed to help you ace your Dance Researcher interviews with confidence.
 
+A Dance Researcher is an individual who conducts in-depth investigations and studies within the field of dance. They explore various aspects of dance, including its history, cultural significance, and artistic development. Dance Researchers analyze and interpret dance performances, choreography, and techniques to uncover new insights and perspectives. They may also delve into the social, political, and economic influences that shape the dance industry. Dance Researchers collaborate with other professionals, such as dancers, choreographers, and scholars, to contribute to the advancement of dance knowledge. Their findings are often published in academic journals, presented at conferences, and used to inform the creation and preservation of dance works.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Dance Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Dance Researcher interviews to help you prepare and succeed.

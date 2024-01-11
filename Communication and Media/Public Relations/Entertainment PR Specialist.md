@@ -2,6 +2,8 @@
 
 Welcome to the Entertainment PR Specialist Interview Preparation ! This resource is designed to help you ace your Entertainment PR Specialist interviews with confidence.
 
+An Entertainment PR Specialist is a professional who specializes in managing the public image and communication strategies of individuals or organizations within the entertainment industry. Their primary role is to create and maintain positive relationships between their clients and the public, media, and key stakeholders. These specialists are responsible for developing and implementing effective publicity campaigns, organizing media events, handling crisis management, and securing media coverage for their clients. They possess strong interpersonal and communication skills, as they interact with various media outlets, celebrities, and industry professionals. An Entertainment PR Specialist plays a crucial role in shaping public perception and promoting the success of their clients in the entertainment industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Entertainment PR Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Entertainment PR Specialist interviews to help you prepare and succeed.

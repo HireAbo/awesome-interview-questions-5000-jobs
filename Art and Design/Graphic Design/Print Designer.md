@@ -2,6 +2,8 @@
 
 Welcome to the Print Designer Interview Preparation ! This resource is designed to help you ace your Print Designer interviews with confidence.
 
+A Print Designer job in the field of Graphic Design involves creating visual concepts for printed materials such as brochures, posters, packaging, and advertisements. These professionals combine their artistic skills, creativity, and technical expertise to develop visually appealing designs that effectively communicate clients' messages. Print Designers collaborate with clients and other team members to understand project requirements and objectives, ensuring that the designs align with the brand identity and target audience. They utilize various software tools and techniques to design layouts, select colors, fonts, and images, and oversee the printing process to ensure high-quality final products. Print Designers possess strong attention to detail, excellent communication skills, and a keen eye for aesthetics.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Print Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Print Designer interviews to help you prepare and succeed.

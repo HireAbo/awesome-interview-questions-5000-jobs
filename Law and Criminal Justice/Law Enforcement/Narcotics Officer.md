@@ -2,6 +2,8 @@
 
 Welcome to the Narcotics Officer Interview Preparation ! This resource is designed to help you ace your Narcotics Officer interviews with confidence.
 
+A Narcotics Officer is a law enforcement professional who specializes in combating drug-related crimes. Their primary responsibility is to investigate, apprehend, and prosecute individuals involved in the illegal drug trade. These officers work closely with other law enforcement agencies, intelligence units, and informants to gather evidence, conduct surveillance, and execute search warrants. They are highly skilled in undercover operations, conducting interviews, and analyzing drug-related activities. Narcotics Officers also play a crucial role in educating the public about the dangers of drug abuse and addiction. Their commitment to enforcing drug laws and keeping communities safe is essential in the fight against drug trafficking and its devastating consequences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Narcotics Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Narcotics Officer interviews to help you prepare and succeed.

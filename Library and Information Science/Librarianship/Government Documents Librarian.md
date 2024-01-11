@@ -2,6 +2,8 @@
 
 Welcome to the Government Documents Librarian Interview Preparation ! This resource is designed to help you ace your Government Documents Librarian interviews with confidence.
 
+A Government Documents Librarian is a professional specialized in the field of Library and Information Science, specifically in the area of Librarianship. This role focuses on managing and providing access to government publications and documents within a library setting. Government documents can include a wide range of materials such as legislative acts, reports, statistical data, and other publications produced by government agencies at various levels. The Government Documents Librarian ensures that these resources are organized, cataloged, and made available to library users. They also play a crucial role in assisting users in locating and understanding government information, providing reference services, and staying updated with the latest government publications and policies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Government Documents Librarian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Government Documents Librarian interviews to help you prepare and succeed.

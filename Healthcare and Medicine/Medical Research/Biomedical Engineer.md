@@ -2,6 +2,8 @@
 
 Welcome to the Biomedical Engineer Interview Preparation ! This resource is designed to help you ace your Biomedical Engineer interviews with confidence.
 
+A biomedical engineer is a professional who combines the fields of engineering and medicine to develop innovative solutions and technologies for the healthcare industry. They play a crucial role in medical research by designing and testing medical equipment, devices, and systems to improve patient care and enhance the diagnosis and treatment of various medical conditions. Biomedical engineers work closely with healthcare professionals, such as doctors and surgeons, to understand their needs and develop solutions that meet their requirements. Their work encompasses areas such as medical imaging, prosthetics, tissue engineering, and biomechanics, aiming to revolutionize healthcare delivery and ultimately improve the quality of life for patients.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Biomedical Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Biomedical Engineer interviews to help you prepare and succeed.

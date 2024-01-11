@@ -2,6 +2,8 @@
 
 Welcome to the Research Coordinator Interview Preparation ! This resource is designed to help you ace your Research Coordinator interviews with confidence.
 
+A Research Coordinator plays a vital role in the field of healthcare and medicine by overseeing and managing medical research projects. They are responsible for coordinating research activities, ensuring compliance with regulations and ethical guidelines, and maintaining accurate records. Research Coordinators work closely with a team of researchers, physicians, and other healthcare professionals to design and implement research protocols, recruit and screen participants, collect and analyze data, and report findings. They also assist in preparing grant proposals, writing research protocols, and organizing research meetings. A strong background in healthcare and medicine, excellent organizational and communication skills, and attention to detail are necessary for success in this challenging and rewarding role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Research Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Research Coordinator interviews to help you prepare and succeed.

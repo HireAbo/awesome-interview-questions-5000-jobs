@@ -2,6 +2,8 @@
 
 Welcome to the High School Physical Education Teacher Interview Preparation ! This resource is designed to help you ace your High School Physical Education Teacher interviews with confidence.
 
+A High School Physical Education Teacher plays a crucial role in shaping the lives of young students through the domain of sports and athletics. This job requires a deep passion for physical education and a strong commitment to promoting a healthy and active lifestyle among teenagers. As a PE teacher, one would be responsible for designing and implementing comprehensive physical education programs, organizing and supervising sports events and activities, and providing guidance and instruction on various sports and fitness techniques. This role also involves fostering teamwork, sportsmanship, and discipline among students, while ensuring their safety and well-being during physical activities. Overall, a High School Physical Education Teacher plays a vital role in instilling lifelong values and skills related to sports, fitness, and overall well-being in the future generation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned High School Physical Education Teacher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in High School Physical Education Teacher interviews to help you prepare and succeed.

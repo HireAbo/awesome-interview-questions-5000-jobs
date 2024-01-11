@@ -2,6 +2,8 @@
 
 Welcome to the Dance Rehearsal Director Interview Preparation ! This resource is designed to help you ace your Dance Rehearsal Director interviews with confidence.
 
+The role of a Dance Rehearsal Director is crucial in the field of Entertainment and Performing Arts, specifically within the realm of dance. As a Dance Rehearsal Director, your primary responsibility is to oversee and coordinate all aspects of dance rehearsals, ensuring that the artistic vision of the choreographer is brought to life. This includes working closely with the choreographer, dancers, and other members of the creative team to ensure smooth and efficient rehearsals. Additionally, you will be responsible for providing guidance and feedback to the dancers, helping them to refine their technique, improve their performance, and achieve the desired artistic expression. A Dance Rehearsal Director plays a pivotal role in the success of dance productions, combining their expertise in dance with strong leadership and organizational skills.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Dance Rehearsal Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Dance Rehearsal Director interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Aviation Security Manager Interview Preparation ! This resource is designed to help you ace your Aviation Security Manager interviews with confidence.
 
+The role of an Aviation Security Manager in Transportation and Logistics, specifically in Aviation Management, is integral to ensuring the safety and security of airports, airlines, and passengers. As an Aviation Security Manager, one is responsible for developing and implementing security measures, protocols, and procedures to safeguard against potential threats or risks. This includes overseeing the screening process, managing security personnel, conducting regular security audits, and staying updated on the latest security regulations and technologies. Additionally, an Aviation Security Manager plays a crucial role in collaborating with government agencies, airlines, and other stakeholders to enhance security practices and respond effectively to any security incidents or emergencies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Aviation Security Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Aviation Security Manager interviews to help you prepare and succeed.

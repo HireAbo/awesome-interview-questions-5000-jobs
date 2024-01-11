@@ -2,6 +2,8 @@
 
 Welcome to the Sales Metrics Analyst Interview Preparation ! This resource is designed to help you ace your Sales Metrics Analyst interviews with confidence.
 
+A Sales Metrics Analyst plays a crucial role in the retail and sales industry by analyzing and interpreting sales data to provide insights and recommendations for improving sales performance. This job involves collecting, organizing, and analyzing various sales metrics such as revenue, market share, customer satisfaction, and product performance. The Sales Metrics Analyst utilizes advanced statistical techniques and data visualization tools to identify trends, patterns, and key drivers that impact sales outcomes. They work closely with sales teams, marketing professionals, and senior management to develop strategies, set sales targets, and monitor progress. Strong analytical skills, attention to detail, and a deep understanding of sales operations are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sales Metrics Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sales Metrics Analyst interviews to help you prepare and succeed.

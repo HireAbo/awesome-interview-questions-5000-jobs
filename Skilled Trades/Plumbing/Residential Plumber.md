@@ -2,6 +2,8 @@
 
 Welcome to the Residential Plumber Interview Preparation ! This resource is designed to help you ace your Residential Plumber interviews with confidence.
 
+A residential plumber is a skilled tradesperson who specializes in the installation, maintenance, and repair of plumbing systems in residential properties. They are responsible for ensuring that water supply and drainage systems are functioning properly and efficiently. Residential plumbers work in homes, apartments, and other residential buildings, addressing issues such as leaky faucets, clogged drains, and malfunctioning toilets. They are adept at reading blueprints, identifying plumbing problems, and using various tools and equipment to resolve issues. Additionally, they may advise homeowners on plumbing system upgrades, recommend energy-efficient fixtures, and ensure compliance with building codes and regulations. Residential plumbers play a crucial role in maintaining the comfort and functionality of residential spaces.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Residential Plumber or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Residential Plumber interviews to help you prepare and succeed.

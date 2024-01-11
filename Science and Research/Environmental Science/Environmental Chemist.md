@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Chemist Interview Preparation ! This resource is designed to help you ace your Environmental Chemist interviews with confidence.
 
+Environmental science is a multidisciplinary field that combines knowledge and methods from various scientific disciplines to study the environment and its interactions with human activities. Within this broad scope, environmental chemists play a vital role in understanding and addressing environmental issues. Environmental chemists focus on analyzing, monitoring, and evaluating the chemical composition of natural resources, pollutants, and their effects on ecosystems. They conduct research to identify the sources and fate of pollutants, develop strategies to mitigate their impact, and assess the risks associated with chemical exposure. Their work contributes to the development of sustainable practices and policies that can safeguard the environment and promote human well-being.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Chemist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Chemist interviews to help you prepare and succeed.

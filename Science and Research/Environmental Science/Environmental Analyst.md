@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Analyst Interview Preparation ! This resource is designed to help you ace your Environmental Analyst interviews with confidence.
 
+An Environmental Analyst is a professional who plays a crucial role in the field of Environmental Science. This job entails conducting extensive research and analysis to assess and mitigate the impact of human activities on the environment. Environmental Analysts utilize scientific methodologies and tools to gather and interpret data, evaluate environmental risks, and develop strategies to promote sustainable practices. They are responsible for monitoring and assessing air, water, and soil quality, identifying potential hazards, and proposing solutions to protect and improve the environment. These professionals often collaborate with government agencies, research institutions, and private organizations to create policies and initiatives that promote environmental conservation and sustainability.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Analyst interviews to help you prepare and succeed.

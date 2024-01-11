@@ -2,6 +2,8 @@
 
 Welcome to the Sales Consultant Interview Preparation ! This resource is designed to help you ace your Sales Consultant interviews with confidence.
 
+A Sales Consultant is a key role in the retail industry, responsible for driving sales and providing exceptional customer service. They are experts in product knowledge and are able to effectively communicate the features and benefits of various products to customers. Sales Consultants are skilled at building relationships with customers, understanding their needs, and assisting them in finding the right products to meet those needs. They are also proficient in upselling and cross-selling techniques to maximize sales opportunities. A successful Sales Consultant possesses excellent communication and interpersonal skills, a strong sales acumen, and a passion for delivering an outstanding customer experience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sales Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sales Consultant interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Concept Artist Interview Preparation ! This resource is designed to help you ace your Concept Artist interviews with confidence.
 
+A Concept Artist is a skilled professional in the field of Art and Design, specifically in Fine Arts. They are responsible for creating visual concepts and designs for various media projects, such as video games, films, animations, and advertisements. Concept Artists work closely with directors, producers, and art directors to develop and translate ideas into visually stunning and engaging artwork. They have a deep understanding of aesthetics, composition, color theory, and storytelling, which enables them to bring characters, environments, and objects to life. With their creativity and technical skills, Concept Artists play a crucial role in the pre-production phase, setting the visual tone and direction for the project.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Concept Artist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Concept Artist interviews to help you prepare and succeed.

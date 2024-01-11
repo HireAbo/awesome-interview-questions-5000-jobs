@@ -2,6 +2,8 @@
 
 Welcome to the Content Writer Interview Preparation ! This resource is designed to help you ace your Content Writer interviews with confidence.
 
+A content writer in the field of journalism plays a crucial role in creating compelling and informative content for various media platforms. They are responsible for researching, writing, and editing articles, blogs, and other written materials to engage and inform the audience. As a content writer, strong writing skills are essential, as well as the ability to adapt writing styles for different media outlets. They must have a keen eye for detail, ensuring accuracy and fact-checking in their work. Collaborating with editors and journalists, content writers contribute to the development of news stories, features, and op-eds, ultimately shaping the media landscape and facilitating effective communication.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Content Writer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Content Writer interviews to help you prepare and succeed.

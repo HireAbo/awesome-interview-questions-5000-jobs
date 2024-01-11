@@ -2,6 +2,8 @@
 
 Welcome to the Aviation Planner Interview Preparation ! This resource is designed to help you ace your Aviation Planner interviews with confidence.
 
+The role of an Aviation Planner in Transportation and Logistics is crucial as it involves the coordination and management of various aspects of aviation operations. As an Aviation Planner, one is responsible for developing, implementing, and overseeing strategic plans for the efficient and safe movement of aircraft and passengers. This includes analyzing data, forecasting demand, and ensuring optimal utilization of resources such as airport facilities, runways, and airspace. Additionally, an Aviation Planner collaborates with stakeholders, including airlines, regulatory agencies, and airport authorities, to ensure compliance with industry regulations and to address any challenges or issues that may arise. Effective communication, problem-solving skills, and knowledge of aviation operations are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Aviation Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Aviation Planner interviews to help you prepare and succeed.

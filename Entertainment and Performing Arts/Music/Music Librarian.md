@@ -2,6 +2,8 @@
 
 Welcome to the Music Librarian Interview Preparation ! This resource is designed to help you ace your Music Librarian interviews with confidence.
 
+A Music Librarian is a vital role within the field of Entertainment and Performing Arts. This professional is responsible for managing and organizing a collection of music materials, including sheet music, recordings, and books, to support the needs of musicians, composers, and performers. They ensure that the music library is properly cataloged, accessible, and up-to-date. Music Librarians also assist in researching and acquiring new music materials, as well as providing reference services to musicians and scholars. They may collaborate with other professionals in the industry, such as conductors and directors, to curate music for performances and events. A Music Librarian combines their passion for music with their organizational and research skills to contribute to the world of entertainment and performing arts.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Music Librarian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Music Librarian interviews to help you prepare and succeed.

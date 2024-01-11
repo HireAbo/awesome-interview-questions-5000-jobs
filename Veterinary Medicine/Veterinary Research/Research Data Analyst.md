@@ -2,6 +2,8 @@
 
 Welcome to the Research Data Analyst Interview Preparation ! This resource is designed to help you ace your Research Data Analyst interviews with confidence.
 
+A Research Data Analyst in Veterinary Medicine plays a crucial role in advancing the field through data analysis and research. With a deep understanding of veterinary medicine and research methodologies, this professional collects, organizes, and analyzes data obtained from various sources such as clinical trials, experiments, and surveys. They employ statistical models and software to identify trends, patterns, and correlations within the data, providing valuable insights to support evidence-based decision-making and contribute to scientific advancements. The Research Data Analyst also ensures data integrity, quality control, and confidentiality while collaborating with multidisciplinary teams of veterinarians, scientists, and researchers. This role is essential in driving innovation, improving animal health outcomes, and ultimately enhancing veterinary medicine practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Research Data Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Research Data Analyst interviews to help you prepare and succeed.

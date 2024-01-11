@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Sales Representative Interview Preparation ! This resource is designed to help you ace your Real Estate Sales Representative interviews with confidence.
 
+Real Estate and Property Management is an industry that deals with the buying, selling, and renting of properties, including residential, commercial, and industrial buildings. It involves various aspects such as property valuation, marketing, negotiation, and legal procedures. Real Estate Sales is a specific area within this industry, where professionals specialize in facilitating property sales transactions. A Real Estate Sales Representative plays a vital role in this field, acting as an intermediary between buyers and sellers. They assist clients in finding suitable properties, providing market analysis, negotiating offers, and ensuring smooth transactions. This job requires strong communication and negotiation skills, as well as a deep understanding of the real estate market and local regulations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Sales Representative or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Sales Representative interviews to help you prepare and succeed.

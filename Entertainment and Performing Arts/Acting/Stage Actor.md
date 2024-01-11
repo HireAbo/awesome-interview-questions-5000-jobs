@@ -2,6 +2,8 @@
 
 Welcome to the Stage Actor Interview Preparation ! This resource is designed to help you ace your Stage Actor interviews with confidence.
 
+A stage actor is a professional performer who brings life to characters on a live stage production. With a passion for storytelling and a love for the performing arts, stage actors captivate audiences through their ability to embody a variety of roles, emotions, and situations. They work closely with directors, fellow actors, and production teams to bring scripts to life, often rehearsing for weeks or months before opening night. Stage actors use their voice, body language, and facial expressions to convey the essence of their characters, creating a compelling and immersive experience for the audience. Their dedication, versatility, and ability to connect with the audience make them an integral part of the entertainment industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Stage Actor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Stage Actor interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Records Compliance Officer Interview Preparation ! This resource is designed to help you ace your Records Compliance Officer interviews with confidence.
 
+A Library and Information Science (LIS) professional specializing in Records Management plays a crucial role in ensuring the efficient organization and accessibility of records within an organization. As a Records Compliance Officer, their primary responsibility is to oversee the compliance and adherence to records management policies and procedures. They are responsible for developing, implementing, and maintaining records retention schedules, ensuring records are stored, preserved, and disposed of properly. This position requires a strong understanding of information governance principles, relevant legislation, and industry best practices. A Records Compliance Officer must possess excellent organizational and analytical skills, attention to detail, and the ability to collaborate with various stakeholders to ensure proper records management practices are followed.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Records Compliance Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Records Compliance Officer interviews to help you prepare and succeed.

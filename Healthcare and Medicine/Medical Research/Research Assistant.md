@@ -2,6 +2,8 @@
 
 Welcome to the Research Assistant Interview Preparation ! This resource is designed to help you ace your Research Assistant interviews with confidence.
 
+A research assistant in the field of healthcare and medicine plays a crucial role in advancing medical research by providing support to researchers and scientists. These professionals assist in designing and conducting experiments, collecting and analyzing data, and interpreting results. They also contribute to literature reviews and manuscript preparation, ensuring accurate documentation of findings. Research assistants often collaborate with interdisciplinary teams, including physicians, statisticians, and laboratory technicians, to ensure the smooth execution of research projects. Attention to detail, strong analytical skills, and the ability to work independently are essential for success in this role. Research assistants contribute to the development of new treatments, diagnostic tools, and medical advancements that ultimately improve patient care and outcomes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Research Assistant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Research Assistant interviews to help you prepare and succeed.

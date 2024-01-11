@@ -2,6 +2,8 @@
 
 Welcome to the Public Administration Specialist Interview Preparation ! This resource is designed to help you ace your Public Administration Specialist interviews with confidence.
 
+A Public Administration Specialist is a professional who specializes in the field of Public Administration within the broader realm of Political Science. This role involves working in government agencies, non-profit organizations, or private companies to ensure effective management and implementation of public policies and programs. Public Administration Specialists play a crucial role in analyzing and evaluating policies, developing strategies, and providing expert advice to policymakers. They possess a deep understanding of the political landscape and are adept at navigating complex bureaucracies to drive positive change. Strong analytical, communication, and leadership skills are essential for success in this profession, as Public Administration Specialists strive to enhance public service delivery and promote efficient governance.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Public Administration Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Public Administration Specialist interviews to help you prepare and succeed.

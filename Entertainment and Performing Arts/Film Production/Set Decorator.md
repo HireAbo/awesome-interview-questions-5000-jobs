@@ -2,6 +2,8 @@
 
 Welcome to the Set Decorator Interview Preparation ! This resource is designed to help you ace your Set Decorator interviews with confidence.
 
+A Set Decorator is a crucial member of a film production crew responsible for creating the visual atmosphere and aesthetic of a film or television set. They work closely with the production designer and director to translate the script's vision into a tangible reality. Set Decorators have a keen eye for detail and a deep understanding of design principles, including color theory, texture, and period-specific styles. They source, select, and arrange furniture, props, artwork, and other decorative elements to enhance the storytelling and create a believable environment for the characters. Their expertise and creativity contribute significantly to the overall visual impact and authenticity of a film or TV show.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Set Decorator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Set Decorator interviews to help you prepare and succeed.

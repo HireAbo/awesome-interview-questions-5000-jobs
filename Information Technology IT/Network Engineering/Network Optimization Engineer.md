@@ -2,6 +2,8 @@
 
 Welcome to the Network Optimization Engineer Interview Preparation ! This resource is designed to help you ace your Network Optimization Engineer interviews with confidence.
 
+A Network Optimization Engineer is a key role in the field of Information Technology (IT) and Network Engineering. This job involves designing, implementing, and maintaining network infrastructure to ensure optimal performance and efficiency. The main responsibility of a Network Optimization Engineer is to identify and resolve any network issues or bottlenecks that may impact the overall performance of the network. They use various tools and techniques to analyze network traffic, monitor network utilization, and make necessary adjustments to enhance the network's performance. This role requires strong analytical skills, deep knowledge of network protocols and technologies, and the ability to work collaboratively with other IT professionals to optimize network performance and ensure reliable connectivity.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Network Optimization Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Network Optimization Engineer interviews to help you prepare and succeed.

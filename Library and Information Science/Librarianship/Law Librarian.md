@@ -2,6 +2,8 @@
 
 Welcome to the Law Librarian Interview Preparation ! This resource is designed to help you ace your Law Librarian interviews with confidence.
 
+Library and Information Science is a field that focuses on the organization, management, and dissemination of information within various types of libraries. It encompasses a wide range of roles and specializations, one of which is Librarianship. Librarianship involves assisting users in finding and accessing information, as well as managing library collections and resources. Within this field, there are specialized roles such as Law Librarianship. Law Librarians are professionals who specialize in legal research and information services. They work in law firms, courts, government agencies, and academic institutions, providing legal information to lawyers, judges, students, and the general public. Law Librarians play a crucial role in supporting legal professionals by ensuring access to accurate and up-to-date legal resources.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Law Librarian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Law Librarian interviews to help you prepare and succeed.

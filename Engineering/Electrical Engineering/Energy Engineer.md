@@ -2,6 +2,8 @@
 
 Welcome to the Energy Engineer Interview Preparation ! This resource is designed to help you ace your Energy Engineer interviews with confidence.
 
+An Energy Engineer is an engineering professional who specializes in the field of electrical engineering, specifically focusing on energy systems and sustainability. These engineers play a crucial role in designing, developing, and implementing energy-efficient systems for various industries and sectors. They are responsible for analyzing energy consumption patterns, identifying potential areas for improvement, and proposing efficient solutions to reduce energy waste and carbon emissions. Energy Engineers also collaborate with other professionals to integrate renewable energy sources, such as solar or wind power, into existing infrastructure. Their work contributes to creating a more sustainable future by ensuring the efficient utilization of energy resources and reducing the environmental impact of energy consumption.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Energy Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Energy Engineer interviews to help you prepare and succeed.

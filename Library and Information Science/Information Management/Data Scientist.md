@@ -2,6 +2,8 @@
 
 Welcome to the Data Scientist Interview Preparation ! This resource is designed to help you ace your Data Scientist interviews with confidence.
 
+Library and Information Science (LIS) is a field that focuses on managing, organizing, and providing access to information resources. In the context of Information Management, LIS professionals play a crucial role in collecting, analyzing, and interpreting data to help organizations make informed decisions. One specific job role within this domain is that of a Data Scientist. Data Scientists are skilled professionals who possess a strong background in statistics, programming, and data analysis. They are responsible for collecting and cleaning large datasets, applying statistical models and machine learning algorithms to extract meaningful insights, and communicating these findings to stakeholders. Data Scientists play a critical role in helping organizations leverage data to drive innovation, improve decision-making processes, and gain a competitive edge in today's data-driven world.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Scientist interviews to help you prepare and succeed.

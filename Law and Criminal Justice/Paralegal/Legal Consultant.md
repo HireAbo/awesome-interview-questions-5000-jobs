@@ -2,6 +2,8 @@
 
 Welcome to the Legal Consultant Interview Preparation ! This resource is designed to help you ace your Legal Consultant interviews with confidence.
 
+Law and Criminal Justice is a vast and complex field that encompasses various roles and responsibilities. Among these roles, the Paralegal and Legal Consultant positions stand out as crucial pillars of support within the legal system. Paralegals play a vital role in assisting lawyers by conducting legal research, preparing legal documents, and organizing case files. They ensure smooth case management and provide essential support throughout the legal process. On the other hand, Legal Consultants provide expert advice and guidance to clients, analyzing legal issues, and helping them navigate the intricacies of the law. Their expertise and knowledge help clients make informed decisions and achieve favorable legal outcomes. Both professions contribute significantly to upholding justice and maintaining the integrity of the legal system.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Legal Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Legal Consultant interviews to help you prepare and succeed.

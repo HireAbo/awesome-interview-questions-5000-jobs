@@ -2,6 +2,8 @@
 
 Welcome to the Flight Data Coordinator Interview Preparation ! This resource is designed to help you ace your Flight Data Coordinator interviews with confidence.
 
+The job of a Flight Data Coordinator within the field of aviation and aerospace, specifically in air traffic control, is a crucial role in ensuring the safety and efficiency of flights. As a Flight Data Coordinator, you would be responsible for managing and organizing flight data, including departure and arrival times, flight routes, and weather conditions. You would work closely with air traffic controllers to ensure accurate and timely information is relayed to pilots and other aviation personnel. Attention to detail, strong organizational skills, and the ability to work under pressure are essential in this role. It is a pivotal position that facilitates seamless communication and coordination within the aviation industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Flight Data Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Flight Data Coordinator interviews to help you prepare and succeed.

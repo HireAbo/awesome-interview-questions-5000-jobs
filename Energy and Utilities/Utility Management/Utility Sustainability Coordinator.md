@@ -2,6 +2,8 @@
 
 Welcome to the Utility Sustainability Coordinator Interview Preparation ! This resource is designed to help you ace your Utility Sustainability Coordinator interviews with confidence.
 
+A Utility Sustainability Coordinator plays a crucial role in the Energy and Utilities sector by promoting and implementing sustainable practices within utility management. This job involves overseeing and coordinating various sustainability initiatives, such as energy efficiency programs, renewable energy integration, and waste reduction strategies. The coordinator collaborates with internal teams and external stakeholders to develop and implement sustainable policies, guidelines, and practices. They also monitor and analyze utility data to identify areas of improvement and develop strategies to optimize energy consumption. Additionally, the role involves conducting audits, preparing reports, and providing guidance to ensure compliance with sustainability standards and regulations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Utility Sustainability Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Utility Sustainability Coordinator interviews to help you prepare and succeed.

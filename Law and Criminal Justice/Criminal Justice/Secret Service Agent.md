@@ -2,6 +2,8 @@
 
 Welcome to the Secret Service Agent Interview Preparation ! This resource is designed to help you ace your Secret Service Agent interviews with confidence.
 
+A Secret Service Agent is a highly trained professional responsible for protecting the President, Vice President, their families, and other high-ranking government officials. This critical role requires individuals with strong leadership skills, excellent judgment, and the ability to remain calm under pressure. Secret Service Agents are tasked with preventing and investigating financial crimes, such as counterfeiting and cybercrimes, as well as protecting against threats to national security. They also conduct extensive background checks on individuals seeking access to high-profile events and provide security for foreign dignitaries visiting the United States. With immense dedication to duty, Secret Service Agents play a vital role in upholding law and criminal justice, ensuring the safety and security of the nation's leaders.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Secret Service Agent or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Secret Service Agent interviews to help you prepare and succeed.

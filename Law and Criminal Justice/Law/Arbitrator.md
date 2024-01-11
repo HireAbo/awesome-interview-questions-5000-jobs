@@ -2,6 +2,8 @@
 
 Welcome to the Arbitrator Interview Preparation ! This resource is designed to help you ace your Arbitrator interviews with confidence.
 
+An arbitrator is a legal professional who plays a crucial role in resolving disputes outside of the courtroom. As part of the field of law and criminal justice, an arbitrator ensures fair and impartial proceedings for parties involved in various conflicts, such as business disputes, labor disagreements, or family matters. They act as a neutral third party, examining evidence, listening to arguments, and making legally binding decisions. Arbitrators must possess a deep understanding of legal principles, excellent communication skills, and the ability to remain unbiased throughout the process. Their expertise helps to expedite the resolution of conflicts and maintain harmony within the legal system.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Arbitrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Arbitrator interviews to help you prepare and succeed.

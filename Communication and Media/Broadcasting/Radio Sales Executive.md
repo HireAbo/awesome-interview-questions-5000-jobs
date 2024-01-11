@@ -2,6 +2,8 @@
 
 Welcome to the Radio Sales Executive Interview Preparation ! This resource is designed to help you ace your Radio Sales Executive interviews with confidence.
 
+A Radio Sales Executive plays a crucial role in the field of Communication and Media Broadcasting. This job requires individuals who are passionate about sales, communication, and the radio industry. As a Radio Sales Executive, you will be responsible for generating revenue by selling airtime and advertising space on radio stations. This involves building relationships with clients, understanding their advertising needs, and developing effective marketing strategies to meet those needs. You will also negotiate contracts, monitor advertising campaigns, and provide excellent customer service. A successful Radio Sales Executive possesses strong communication and negotiation skills, is highly organized, and has a deep understanding of the radio industry and its target audience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Radio Sales Executive or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Radio Sales Executive interviews to help you prepare and succeed.

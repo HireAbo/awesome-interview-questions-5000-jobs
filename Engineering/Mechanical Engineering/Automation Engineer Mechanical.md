@@ -2,6 +2,8 @@
 
 Welcome to the Automation Engineer (Mechanical) Interview Preparation ! This resource is designed to help you ace your Automation Engineer (Mechanical) interviews with confidence.
 
+An Automation Engineer in the field of Mechanical Engineering is a professional responsible for designing, developing, and implementing automated systems to improve manufacturing processes and increase productivity. These engineers have a deep understanding of mechanical systems, control systems, and computer programming. They work on projects that involve designing and integrating machinery with sensors, actuators, and software to create efficient and reliable automated systems. Automation Engineers collaborate closely with other engineers and professionals to identify automation needs, develop specifications, and ensure effective implementation. Their expertise lies in optimizing production lines, reducing errors, improving safety, and enhancing overall efficiency through the application of advanced technology and innovative solutions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Automation Engineer (Mechanical) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Automation Engineer (Mechanical) interviews to help you prepare and succeed.

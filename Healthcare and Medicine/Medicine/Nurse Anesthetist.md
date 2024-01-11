@@ -2,6 +2,8 @@
 
 Welcome to the Nurse Anesthetist Interview Preparation ! This resource is designed to help you ace your Nurse Anesthetist interviews with confidence.
 
+A Nurse Anesthetist is an advanced practice registered nurse (APRN) who specializes in providing anesthesia care during surgical procedures. They work closely with surgeons, anesthesiologists, and other healthcare professionals to ensure the safety and comfort of patients undergoing surgery. Nurse Anesthetists are responsible for assessing patients' medical history, administering anesthesia, monitoring vital signs, and managing pain before, during, and after surgery. They play a crucial role in the healthcare system, as they are highly trained in anesthesia techniques and are capable of providing anesthesia care to patients of all ages and across various medical settings, such as hospitals, clinics, and emergency rooms.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nurse Anesthetist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nurse Anesthetist interviews to help you prepare and succeed.

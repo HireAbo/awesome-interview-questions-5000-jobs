@@ -2,6 +2,8 @@
 
 Welcome to the Logistics Planner Interview Preparation ! This resource is designed to help you ace your Logistics Planner interviews with confidence.
 
+A Logistics Planner plays a crucial role in the field of Transportation and Logistics, specifically in the area of Logistics Management. As a Logistics Planner, their primary responsibility is to coordinate and oversee the movement of goods and materials from one location to another efficiently and cost-effectively. They are responsible for developing and implementing transportation plans, analyzing data to optimize routes and schedules, and ensuring that all deliveries are completed on time. Additionally, Logistics Planners collaborate with suppliers, carriers, and warehouse personnel to streamline processes and resolve any logistical issues that may arise. Their meticulous planning and organizational skills are key to maintaining smooth operations within the logistics chain.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Logistics Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Logistics Planner interviews to help you prepare and succeed.

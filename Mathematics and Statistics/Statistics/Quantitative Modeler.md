@@ -2,6 +2,8 @@
 
 Welcome to the Quantitative Modeler Interview Preparation ! This resource is designed to help you ace your Quantitative Modeler interviews with confidence.
 
+A Quantitative Modeler in the field of Statistics is a professional who applies mathematical and statistical techniques to create and analyze models that help organizations make informed decisions. They play a crucial role in designing and developing models that predict and forecast various outcomes based on data. These professionals possess strong mathematical and statistical skills and have a deep understanding of probability theory, linear regression, time series analysis, and other quantitative methods. They work closely with data scientists, economists, and business analysts to develop models that provide insights and recommendations for risk management, investment strategies, pricing, and optimization. A career as a Quantitative Modeler offers a challenging and rewarding opportunity to apply advanced statistical techniques to real-world problems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Quantitative Modeler or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Quantitative Modeler interviews to help you prepare and succeed.

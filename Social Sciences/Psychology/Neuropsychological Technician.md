@@ -2,6 +2,8 @@
 
 Welcome to the Neuropsychological Technician Interview Preparation ! This resource is designed to help you ace your Neuropsychological Technician interviews with confidence.
 
+A Neuropsychological Technician plays a crucial role in the field of psychology, specifically within the domain of neuropsychology. These professionals work under the supervision of neuropsychologists and are responsible for administering and scoring various neuropsychological tests to individuals with brain injuries, neurological disorders, or cognitive impairments. They assist in assessing cognitive functions such as memory, attention, problem-solving, and language skills. A Neuropsychological Technician also helps in collecting and organizing patient data, maintaining testing equipment, and ensuring the accuracy of test results. They play a vital role in helping clinicians diagnose and develop appropriate treatment plans for patients, contributing to the advancement of knowledge in the field of neuropsychology.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Neuropsychological Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Neuropsychological Technician interviews to help you prepare and succeed.

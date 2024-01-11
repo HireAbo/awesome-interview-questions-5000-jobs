@@ -2,6 +2,8 @@
 
 Welcome to the Microeconomist Interview Preparation ! This resource is designed to help you ace your Microeconomist interviews with confidence.
 
+A microeconomist is a professional who specializes in studying the individual behaviors and decision-making processes of economic agents, such as consumers, firms, and governments, and how they impact the allocation of resources in society. These experts focus on analyzing the intricate workings of markets at a smaller scale, examining factors like supply and demand, pricing strategies, production costs, and market efficiency. Microeconomists utilize mathematical models and statistical techniques to assess economic phenomena, make predictions, and provide insights that aid policymakers, businesses, and individuals in making informed decisions. Their research contributes to understanding economic outcomes, market failures, and the impact of policies on various stakeholders at a micro level.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Microeconomist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Microeconomist interviews to help you prepare and succeed.

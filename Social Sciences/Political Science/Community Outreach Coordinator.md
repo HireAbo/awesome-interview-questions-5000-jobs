@@ -2,6 +2,8 @@
 
 Welcome to the Community Outreach Coordinator Interview Preparation ! This resource is designed to help you ace your Community Outreach Coordinator interviews with confidence.
 
+A Community Outreach Coordinator in the field of Political Science plays a crucial role in bridging the gap between the government, political organizations, and the community. This job involves actively engaging with community members, understanding their concerns, and advocating for their needs. The coordinator is responsible for organizing and implementing various outreach programs, such as town hall meetings, community forums, and grassroots campaigns. They work closely with local officials, community leaders, and stakeholders to effectively communicate political policies and initiatives. By fostering relationships and building trust within the community, the Community Outreach Coordinator significantly contributes to shaping public opinion, promoting civic participation, and ultimately strengthening democratic governance.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Community Outreach Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Community Outreach Coordinator interviews to help you prepare and succeed.

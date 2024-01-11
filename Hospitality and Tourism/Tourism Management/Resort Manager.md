@@ -2,6 +2,8 @@
 
 Welcome to the Resort Manager Interview Preparation ! This resource is designed to help you ace your Resort Manager interviews with confidence.
 
+Hospitality and Tourism are thriving industries that encompass a wide range of services aimed at providing exceptional experiences to travelers. Within the field of Tourism Management, the role of a Resort Manager is crucial in ensuring the smooth operation and success of a resort. Resort Managers oversee all aspects of the resort, including guest satisfaction, staff management, financial performance, and maintaining high-quality standards. They are responsible for creating a welcoming and enjoyable environment for guests, managing reservations, coordinating activities, and ensuring the overall satisfaction of visitors. This demanding yet rewarding job requires strong leadership, excellent communication skills, and a passion for delivering exceptional customer service in the resort industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Resort Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Resort Manager interviews to help you prepare and succeed.

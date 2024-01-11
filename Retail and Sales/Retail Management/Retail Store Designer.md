@@ -2,6 +2,8 @@
 
 Welcome to the Retail Store Designer Interview Preparation ! This resource is designed to help you ace your Retail Store Designer interviews with confidence.
 
+A Retail Store Designer is a professional responsible for creating visually appealing and functional retail spaces. They collaborate with retail management teams to design layouts and fixtures that enhance the customer experience and drive sales. This role involves understanding the target market, brand image, and product offerings to create a cohesive and inviting store environment. Retail Store Designers must possess strong creativity, spatial awareness, and knowledge of retail trends and consumer behavior. They work closely with architects, contractors, and visual merchandisers to ensure the store layout maximizes sales potential while maintaining brand consistency. Ultimately, a Retail Store Designer plays a crucial role in creating attractive and efficient retail spaces that optimize sales and customer satisfaction.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Retail Store Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Retail Store Designer interviews to help you prepare and succeed.

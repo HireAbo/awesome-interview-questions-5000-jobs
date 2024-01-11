@@ -2,6 +2,8 @@
 
 Welcome to the Hotel Manager Interview Preparation ! This resource is designed to help you ace your Hotel Manager interviews with confidence.
 
+Hospitality and Tourism is a thriving industry that encompasses various sectors, including Hotel Management. Hotel Managers play a crucial role in ensuring the smooth operation and success of a hotel. Their responsibilities include overseeing all aspects of hotel operations, such as staff management, guest services, budgeting, and marketing. Hotel Managers are responsible for maintaining high standards of service and ensuring guest satisfaction. They also collaborate with other departments to coordinate activities and ensure the efficient running of the hotel. A Hotel Manager must possess excellent leadership and communication skills, as well as a deep understanding of the hospitality industry to effectively manage and enhance the guest experience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Hotel Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Hotel Manager interviews to help you prepare and succeed.

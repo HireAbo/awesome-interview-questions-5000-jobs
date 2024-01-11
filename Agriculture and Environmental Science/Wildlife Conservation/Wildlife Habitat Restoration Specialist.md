@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife Habitat Restoration Specialist Interview Preparation ! This resource is designed to help you ace your Wildlife Habitat Restoration Specialist interviews with confidence.
 
+Agriculture and Environmental Science focuses on the study of the natural environment and its interactions with agricultural practices. Within this field, Wildlife Conservation aims to protect and preserve the Earth's diverse wildlife species and their habitats. A crucial role within this domain is that of a Wildlife Habitat Restoration Specialist. These professionals work tirelessly to restore and enhance natural habitats for various wildlife species. They assess damaged ecosystems, develop restoration plans, and implement strategies to improve habitat quality and biodiversity. Additionally, they collaborate with landowners, government agencies, and conservation organizations to ensure the long-term viability of wildlife populations and promote sustainable land management practices. Overall, Wildlife Habitat Restoration Specialists play a vital role in conserving and restoring natural habitats to support the rich biodiversity of our planet.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Habitat Restoration Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Habitat Restoration Specialist interviews to help you prepare and succeed.

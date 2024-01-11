@@ -2,6 +2,8 @@
 
 Welcome to the Singer Interview Preparation ! This resource is designed to help you ace your Singer interviews with confidence.
 
+A Singer is a professional musician who specializes in vocal performance. They are skilled in delivering captivating musical performances through their voice. Singers can work across various genres such as pop, rock, classical, jazz, country, and more. They often perform live on stage, in concerts, music festivals, clubs, or even in theater productions. Singers may also record their vocals for albums, singles, or film soundtracks. They work closely with songwriters, producers, and music directors to create and develop their unique sound. Singers must have exceptional vocal range, control, and technique, as well as the ability to express emotions effectively through their singing.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Singer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Singer interviews to help you prepare and succeed.

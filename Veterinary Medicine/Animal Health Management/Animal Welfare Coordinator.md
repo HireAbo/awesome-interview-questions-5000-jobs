@@ -2,6 +2,8 @@
 
 Welcome to the Animal Welfare Coordinator Interview Preparation ! This resource is designed to help you ace your Animal Welfare Coordinator interviews with confidence.
 
+A Veterinary Medicine Animal Health Management Animal Welfare Coordinator is a crucial position in ensuring the well-being and compassionate treatment of animals. This role involves coordinating and implementing various animal welfare programs, policies, and procedures to ensure the highest standards of animal care. The coordinator works closely with veterinarians, animal care staff, and other stakeholders to develop and enforce animal welfare protocols. They monitor and assess animal health and behavior, ensuring appropriate veterinary treatment and enrichment activities. Additionally, they conduct regular audits and inspections to maintain compliance with animal welfare regulations. This position requires a deep understanding of veterinary medicine, animal behavior, and a strong commitment to animal welfare.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Animal Welfare Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Animal Welfare Coordinator interviews to help you prepare and succeed.

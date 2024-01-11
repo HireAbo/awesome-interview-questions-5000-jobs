@@ -2,6 +2,8 @@
 
 Welcome to the Traffic Engineer Interview Preparation ! This resource is designed to help you ace your Traffic Engineer interviews with confidence.
 
+A Traffic Engineer is a specialized role within the field of Civil Engineering that focuses on the design, analysis, and management of transportation systems. They are responsible for ensuring the safe and efficient movement of people, goods, and vehicles on roads, highways, and other transportation networks. Traffic Engineers utilize their knowledge of traffic flow, road geometry, signals, and signage to improve traffic operations and reduce congestion. They also play a crucial role in the planning and design of transportation infrastructure, including the development of new roads, intersections, and traffic management systems. Overall, Traffic Engineers play a vital role in enhancing transportation systems for the benefit of the community and ensuring public safety.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Traffic Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Traffic Engineer interviews to help you prepare and succeed.

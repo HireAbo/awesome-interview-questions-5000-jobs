@@ -2,6 +2,8 @@
 
 Welcome to the Energy Performance Analyst Interview Preparation ! This resource is designed to help you ace your Energy Performance Analyst interviews with confidence.
 
+An Energy Performance Analyst is a professional responsible for evaluating and assessing the energy efficiency and performance of various systems and processes within the field of Energy Engineering. They analyze energy consumption patterns, identify areas for improvement, and develop strategies to optimize energy usage. This role involves conducting energy audits, collecting and analyzing data, and recommending energy-saving solutions to enhance overall efficiency and reduce environmental impact. Energy Performance Analysts work closely with engineers, technicians, and stakeholders to implement energy management plans, monitor performance metrics, and provide insights on energy conservation measures. Their expertise and knowledge play a crucial role in supporting sustainable energy practices and maximizing cost savings for organizations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Energy Performance Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Energy Performance Analyst interviews to help you prepare and succeed.

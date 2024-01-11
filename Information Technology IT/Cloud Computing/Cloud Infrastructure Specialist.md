@@ -2,6 +2,8 @@
 
 Welcome to the Cloud Infrastructure Specialist Interview Preparation ! This resource is designed to help you ace your Cloud Infrastructure Specialist interviews with confidence.
 
+A Cloud Infrastructure Specialist is a professional who specializes in managing and maintaining the cloud infrastructure of an organization. Cloud computing has become an integral part of Information Technology (IT) systems, offering organizations the ability to store, manage, and process data remotely. As a Cloud Infrastructure Specialist, individuals are responsible for designing, implementing, and optimizing cloud infrastructure solutions. They ensure the stability, security, and scalability of the cloud environment, while also monitoring and resolving any performance issues. Additionally, Cloud Infrastructure Specialists collaborate with other IT professionals to integrate cloud technologies into existing systems, ensuring seamless operations and maximizing efficiency. Their expertise in cloud computing makes them essential in today's increasingly digital and interconnected world.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cloud Infrastructure Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cloud Infrastructure Specialist interviews to help you prepare and succeed.

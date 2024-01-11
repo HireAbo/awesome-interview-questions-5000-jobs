@@ -2,6 +2,8 @@
 
 Welcome to the Sightseeing Tour Manager Interview Preparation ! This resource is designed to help you ace your Sightseeing Tour Manager interviews with confidence.
 
+A Sightseeing Tour Manager plays a crucial role in the field of Hospitality and Tourism, specifically in the area of Tourism Management. This profession involves overseeing and coordinating sightseeing tours for tourists and travelers. The primary responsibility of a Sightseeing Tour Manager is to ensure that guests have a memorable and enjoyable experience while exploring various tourist attractions. They are responsible for organizing transportation, accommodations, and itineraries, as well as managing budgets and communicating with local service providers. Additionally, they must have excellent communication and interpersonal skills to provide exceptional customer service and address any concerns or issues that may arise during the tour. Overall, this role requires a passion for travel, strong organizational abilities, and a deep understanding of the local tourism industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sightseeing Tour Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sightseeing Tour Manager interviews to help you prepare and succeed.

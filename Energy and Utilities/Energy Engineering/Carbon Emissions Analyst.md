@@ -2,6 +2,8 @@
 
 Welcome to the Carbon Emissions Analyst Interview Preparation ! This resource is designed to help you ace your Carbon Emissions Analyst interviews with confidence.
 
+A Carbon Emissions Analyst in the field of Energy Engineering plays a crucial role in reducing carbon emissions and promoting sustainable practices. This job involves analyzing and assessing the environmental impact of energy systems and identifying ways to minimize carbon footprints. The analyst conducts comprehensive research and collects data on energy consumption and emissions, utilizing advanced software tools and models. They develop strategies and recommendations to optimize energy efficiency, reduce greenhouse gas emissions, and comply with regulatory standards. Additionally, the Carbon Emissions Analyst collaborates with cross-functional teams to implement sustainable solutions, monitor progress, and provide valuable insights to stakeholders. Their work contributes to the development of cleaner and more sustainable energy systems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Carbon Emissions Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Carbon Emissions Analyst interviews to help you prepare and succeed.

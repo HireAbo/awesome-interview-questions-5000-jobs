@@ -2,6 +2,8 @@
 
 Welcome to the Plasma Physicist Interview Preparation ! This resource is designed to help you ace your Plasma Physicist interviews with confidence.
 
+A Plasma Physicist is a specialized scientist who focuses on studying and understanding plasma, which is the fourth state of matter. They explore the behavior and properties of plasma, which is a highly ionized gas consisting of charged particles. Plasma physicists conduct research to advance our knowledge of plasma and its applications in fields such as fusion energy, semiconductor manufacturing, and space exploration. They utilize various experimental and theoretical techniques to investigate plasma phenomena and develop models to predict and control plasma behavior. These professionals play a vital role in advancing our understanding of plasma physics and its potential for technological advancements and scientific breakthroughs.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Plasma Physicist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Plasma Physicist interviews to help you prepare and succeed.

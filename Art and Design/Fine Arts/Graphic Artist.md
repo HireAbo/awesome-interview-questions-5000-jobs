@@ -2,6 +2,8 @@
 
 Welcome to the Graphic Artist Interview Preparation ! This resource is designed to help you ace your Graphic Artist interviews with confidence.
 
+A Graphic Artist is a professional who combines creativity and technical skills to create visual concepts, using various mediums such as digital software, illustrations, and photography. As a key player in the field of Art and Design, they are responsible for producing visually appealing designs for marketing materials, websites, advertisements, and more. Their expertise lies in understanding client requirements, brainstorming ideas, and executing them into visually appealing designs that effectively communicate messages and promote brands. Graphic Artists possess a strong sense of aesthetics, typography, color theory, and layout design. They play a crucial role in enhancing brand identity and delivering impactful visual content.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Graphic Artist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Graphic Artist interviews to help you prepare and succeed.

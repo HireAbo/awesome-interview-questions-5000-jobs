@@ -2,6 +2,8 @@
 
 Welcome to the Music Retailer Interview Preparation ! This resource is designed to help you ace your Music Retailer interviews with confidence.
 
+A music retailer job in the field of Entertainment and Performing Arts involves working in a store or online platform dedicated to selling music-related products and services. As a music retailer, one is responsible for managing inventory, assisting customers in selecting the right musical instruments, equipment, and accessories, and processing sales transactions. This job requires a deep knowledge and passion for music, as well as excellent communication and customer service skills. Music retailers often collaborate with music instructors, industry professionals, and record labels to provide a comprehensive range of products and cater to the diverse needs of musicians and music enthusiasts.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Music Retailer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Music Retailer interviews to help you prepare and succeed.

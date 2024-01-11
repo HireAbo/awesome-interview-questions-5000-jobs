@@ -2,6 +2,8 @@
 
 Welcome to the Power Plant Environmental Data Analyst Interview Preparation ! This resource is designed to help you ace your Power Plant Environmental Data Analyst interviews with confidence.
 
+A Power Plant Environmental Data Analyst is an essential role within the Energy and Utilities industry. This professional is responsible for collecting and analyzing environmental data from power plants to ensure compliance with environmental regulations and identify opportunities for improvement. They play a crucial role in monitoring air emissions, water quality, and waste management to minimize the plant's environmental impact. Additionally, they provide accurate and timely reports to management and regulatory agencies. A Power Plant Environmental Data Analyst must have a strong understanding of environmental regulations, data analysis techniques, and excellent attention to detail. This role is crucial in promoting sustainable and environmentally friendly practices within power plant operations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Power Plant Environmental Data Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Power Plant Environmental Data Analyst interviews to help you prepare and succeed.

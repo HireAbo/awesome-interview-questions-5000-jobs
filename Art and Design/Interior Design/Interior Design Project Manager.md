@@ -2,6 +2,8 @@
 
 Welcome to the Interior Design Project Manager Interview Preparation ! This resource is designed to help you ace your Interior Design Project Manager interviews with confidence.
 
+An Interior Design Project Manager is a crucial role within the field of Art and Design, specifically specializing in Interior Design. This professional oversees and manages the entire process of a project, from conception to completion. They collaborate with clients, architects, and designers to ensure that the project aligns with the client's vision and requirements. The Project Manager is responsible for developing project plans, creating budgets, and coordinating resources effectively. They also supervise the execution of various tasks, including space planning, material selection, and furniture sourcing. With a keen eye for detail and a deep understanding of design principles, an Interior Design Project Manager ensures that every aspect of the project is meticulously executed, resulting in stunning and functional interior spaces.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Interior Design Project Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Interior Design Project Manager interviews to help you prepare and succeed.

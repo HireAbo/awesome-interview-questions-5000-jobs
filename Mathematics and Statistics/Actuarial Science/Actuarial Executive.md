@@ -2,6 +2,8 @@
 
 Welcome to the Actuarial Executive Interview Preparation ! This resource is designed to help you ace your Actuarial Executive interviews with confidence.
 
+Mathematics and Statistics are disciplines that deal with the study of numbers, data, and mathematical methods. They are fundamental in various fields and provide a solid foundation for Actuarial Science. Actuarial Science applies mathematical and statistical techniques to analyze and assess financial risks in various industries, such as insurance, investment, and pensions. Actuarial Executives are professionals who hold senior positions within the actuarial field. They are responsible for overseeing and managing risk assessments, developing pricing models, conducting financial analysis, and providing strategic advice to organizations. Actuarial Executives play a crucial role in ensuring the financial stability and success of businesses by effectively managing and mitigating risks through their extensive knowledge of mathematics, statistics, and actuarial principles.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Actuarial Executive or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Actuarial Executive interviews to help you prepare and succeed.

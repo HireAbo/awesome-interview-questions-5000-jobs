@@ -2,6 +2,8 @@
 
 Welcome to the Cloud Legal and Compliance Specialist Interview Preparation ! This resource is designed to help you ace your Cloud Legal and Compliance Specialist interviews with confidence.
 
+A Cloud Legal and Compliance Specialist is a professional who specializes in the legal and compliance aspects of cloud computing in the field of Information Technology (IT). With the rapid growth of cloud computing, organizations are increasingly relying on cloud services to store and process their data. However, this reliance also comes with various legal and compliance considerations. The role of a Cloud Legal and Compliance Specialist involves ensuring that an organization's cloud computing activities are aligned with legal and regulatory requirements. They assess the risks associated with data protection, privacy, intellectual property, and data sovereignty, and work closely with legal and IT teams to develop policies and procedures that ensure compliance. They also stay updated on the ever-evolving legal landscape and ensure that their organization's cloud computing activities are always in adherence with the latest legal and regulatory standards.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cloud Legal and Compliance Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cloud Legal and Compliance Specialist interviews to help you prepare and succeed.

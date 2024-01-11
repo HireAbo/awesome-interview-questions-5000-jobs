@@ -2,6 +2,8 @@
 
 Welcome to the Research Scientist Interview Preparation ! This resource is designed to help you ace your Research Scientist interviews with confidence.
 
+A research scientist in the field of healthcare and medicine plays a crucial role in advancing our understanding of diseases, developing new treatments, and improving patient outcomes. These professionals are responsible for conducting experiments, analyzing data, and interpreting findings to contribute to the overall body of medical knowledge. They design and execute studies to investigate various aspects of diseases, such as causes, progression, and treatment options. Research scientists often collaborate with other healthcare professionals, including physicians and pharmacologists, to develop innovative therapies and interventions. Their work is vital in shaping the future of healthcare by translating scientific discoveries into practical applications that can benefit patients worldwide.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Research Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Research Scientist interviews to help you prepare and succeed.

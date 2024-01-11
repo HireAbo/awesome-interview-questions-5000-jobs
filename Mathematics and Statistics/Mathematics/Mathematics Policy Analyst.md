@@ -2,6 +2,8 @@
 
 Welcome to the Mathematics Policy Analyst Interview Preparation ! This resource is designed to help you ace your Mathematics Policy Analyst interviews with confidence.
 
+A Mathematics Policy Analyst job involves utilizing mathematical and statistical techniques to analyze and evaluate public policies and their impact on society. This role requires a strong background in mathematics, statistics, and public policy. Mathematics Policy Analysts play a crucial role in informing policymakers about the potential outcomes and consequences of various policy decisions. They use mathematical models, data analysis, and statistical methods to assess the effectiveness, feasibility, and implications of different policy options. This job requires a deep understanding of mathematical concepts, statistical analysis, and the ability to communicate complex ideas to policymakers and the general public. Mathematics Policy Analysts contribute to evidence-based decision-making and help shape policies that drive social and economic progress.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Mathematics Policy Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Mathematics Policy Analyst interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Space Systems Engineer Interview Preparation ! This resource is designed to help you ace your Space Systems Engineer interviews with confidence.
 
+Astronomy, the study of celestial objects, has fascinated humans for centuries. Within this field, the role of a Space Systems Engineer is crucial in advancing our understanding of the universe. These professionals contribute to the design, development, and maintenance of space systems, including satellites, telescopes, and spacecraft. They work on various aspects of space missions, such as propulsion systems, guidance systems, communication systems, and thermal control. Their expertise is essential in ensuring the success and safety of space exploration endeavors. A Space Systems Engineer must possess a strong background in engineering, mathematics, and physics, along with excellent problem-solving skills and a passion for exploring the mysteries of the cosmos.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Space Systems Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Space Systems Engineer interviews to help you prepare and succeed.

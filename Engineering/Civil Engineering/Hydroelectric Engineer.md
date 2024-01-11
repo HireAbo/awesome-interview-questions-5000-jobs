@@ -2,6 +2,8 @@
 
 Welcome to the Hydroelectric Engineer Interview Preparation ! This resource is designed to help you ace your Hydroelectric Engineer interviews with confidence.
 
+A Hydroelectric Engineer is a specialized civil engineer who focuses on the design, development, and maintenance of hydroelectric power systems. They are responsible for planning, constructing, and operating hydroelectric power plants, which convert the energy from flowing or falling water into electricity. These engineers analyze the potential of water resources, evaluate the environmental impact, and determine the feasibility of constructing hydroelectric power plants. They also design the infrastructure, such as dams, reservoirs, and turbines, and oversee the installation and maintenance of electrical systems. Hydroelectric Engineers work closely with other professionals, including environmental scientists, geologists, and electrical engineers, to ensure the efficient and sustainable utilization of water resources for generating clean and renewable energy.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Hydroelectric Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Hydroelectric Engineer interviews to help you prepare and succeed.

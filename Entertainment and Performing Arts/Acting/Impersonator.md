@@ -2,6 +2,8 @@
 
 Welcome to the Impersonator Interview Preparation ! This resource is designed to help you ace your Impersonator interviews with confidence.
 
+An impersonator job in the field of entertainment and performing arts involves the art of imitating and portraying well-known personalities, usually celebrities, in various settings. Impersonators are skilled actors who have the ability to mimic the appearance, voice, mannerisms, and overall persona of the person they are impersonating. They often perform in live shows, events, parties, or even on television and film productions. Impersonators bring entertainment value and excitement to audiences by recreating the essence of iconic figures, creating a sense of nostalgia and amusement. Through their talent and dedication, they strive to capture the essence of the characters they imitate, engaging and entertaining audiences worldwide.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Impersonator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Impersonator interviews to help you prepare and succeed.

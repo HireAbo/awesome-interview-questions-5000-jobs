@@ -2,6 +2,8 @@
 
 Welcome to the Textile Designer Interview Preparation ! This resource is designed to help you ace your Textile Designer interviews with confidence.
 
+A Textile Designer in the field of Interior Design plays a crucial role in creating visually appealing and functional spaces. This specialized job involves designing and producing textiles for various interior settings, such as homes, offices, hotels, and restaurants. Textile Designers work closely with interior designers, architects, and clients to understand their requirements and develop unique fabric patterns, textures, and colors that enhance the overall aesthetic of a space. They utilize their artistic skills, knowledge of different materials, and an understanding of current design trends to create innovative and visually striking textiles. A Textile Designer in Interior Design must possess a keen eye for detail, a strong sense of style, and excellent communication skills to effectively meet client needs and create stunning interior spaces.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Textile Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Textile Designer interviews to help you prepare and succeed.

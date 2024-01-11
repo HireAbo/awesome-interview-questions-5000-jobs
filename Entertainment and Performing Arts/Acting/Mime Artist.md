@@ -2,6 +2,8 @@
 
 Welcome to the Mime Artist Interview Preparation ! This resource is designed to help you ace your Mime Artist interviews with confidence.
 
+A Mime Artist is a highly skilled performer who creates art through non-verbal communication and physicality. They specialize in the art of miming, using body movements, gestures, and facial expressions to convey emotions, stories, and ideas without speaking. Mime Artists often perform in various entertainment settings such as theaters, festivals, street performances, and even corporate events. They meticulously craft their performances, paying attention to details like body language, timing, and precision. Their objective is to captivate audiences and evoke emotions through their silent performances. Mime Artists require exceptional physical control, creativity, and a deep understanding of human behavior to bring their characters and stories to life.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Mime Artist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Mime Artist interviews to help you prepare and succeed.

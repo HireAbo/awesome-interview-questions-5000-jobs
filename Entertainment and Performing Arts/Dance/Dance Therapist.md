@@ -2,6 +2,8 @@
 
 Welcome to the Dance Therapist Interview Preparation ! This resource is designed to help you ace your Dance Therapist interviews with confidence.
 
+A Dance Therapist is a professional who combines the art of dance with therapeutic techniques to promote physical, emotional, and mental well-being. Dance therapy is a form of expressive therapy that uses movement and dance to support individuals in their healing process. Dance therapists work with people of all ages and backgrounds, including children with developmental disabilities, individuals with mental health issues, and patients recovering from physical injuries or trauma. They use creative movement, improvisation, and choreography to help clients tap into their emotions, improve body awareness, enhance self-esteem, and develop interpersonal skills. Dance therapy can be a powerful tool for self-expression, personal growth, and overall wellness.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Dance Therapist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Dance Therapist interviews to help you prepare and succeed.

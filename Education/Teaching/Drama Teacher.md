@@ -2,6 +2,8 @@
 
 Welcome to the Drama Teacher Interview Preparation ! This resource is designed to help you ace your Drama Teacher interviews with confidence.
 
+A Drama Teacher is a professional in the field of education who specializes in teaching drama and performing arts to students. They play a crucial role in developing students' creativity, confidence, and communication skills through the use of theatrical techniques and exercises. Drama Teachers design and deliver engaging lesson plans, facilitate group activities, and guide students in exploring various aspects of theater, including acting, scriptwriting, directing, and stage production. They foster a supportive and inclusive learning environment, encouraging students to express themselves, collaborate with others, and develop their unique talents. Drama Teachers also often organize and direct school plays, enabling students to showcase their skills and passion for the performing arts.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Drama Teacher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Drama Teacher interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Forest Safety Officer Interview Preparation ! This resource is designed to help you ace your Forest Safety Officer interviews with confidence.
 
+Agriculture and Environmental Science is a field that focuses on the study and management of natural resources, including forests. Within this field, one specific job role is that of a Forest Safety Officer. As a Forest Safety Officer, the primary responsibility is to ensure the safety and wellbeing of individuals working in the forest environment. This involves conducting regular safety inspections, identifying potential hazards, and implementing appropriate safety measures. Forest Safety Officers also play a crucial role in promoting safe work practices and providing training to employees. They work closely with forestry workers, forest management teams, and other stakeholders to mitigate risks and maintain a safe working environment in forestry operations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forest Safety Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forest Safety Officer interviews to help you prepare and succeed.

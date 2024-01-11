@@ -2,6 +2,8 @@
 
 Welcome to the Process Chemist Interview Preparation ! This resource is designed to help you ace your Process Chemist interviews with confidence.
 
+A Process Chemist job in the field of Chemistry involves conducting scientific research and analysis to develop and optimize chemical processes. These professionals work in various industries, including pharmaceuticals, manufacturing, and energy. They are responsible for designing and implementing experiments, analyzing and interpreting data, and making process improvements to enhance efficiency and productivity. Process Chemists also collaborate with cross-functional teams to ensure compliance with safety and regulatory standards. They may also be involved in troubleshooting and resolving issues related to chemical processes. A strong background in chemistry, analytical thinking, problem-solving skills, and attention to detail are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Process Chemist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Process Chemist interviews to help you prepare and succeed.

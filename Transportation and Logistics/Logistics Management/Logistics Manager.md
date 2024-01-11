@@ -2,6 +2,8 @@
 
 Welcome to the Logistics Manager Interview Preparation ! This resource is designed to help you ace your Logistics Manager interviews with confidence.
 
+Transportation and logistics play a crucial role in the efficient movement of goods and materials from one location to another. In this field, logistics management serves as the backbone of these operations. A logistics manager is responsible for overseeing the entire supply chain process, ensuring seamless coordination between suppliers, manufacturers, distributors, and customers. They are entrusted with tasks such as analyzing and optimizing transportation routes, managing inventory levels, and implementing cost-effective strategies to enhance operational efficiency. Moreover, logistics managers are also responsible for tracking shipments, resolving any issues that may arise during transportation, and maintaining strong relationships with various stakeholders. Their expertise is vital in ensuring timely deliveries and ultimately, customer satisfaction.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Logistics Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Logistics Manager interviews to help you prepare and succeed.

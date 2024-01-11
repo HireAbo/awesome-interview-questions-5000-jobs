@@ -2,6 +2,8 @@
 
 Welcome to the Marine Corps Infantry Interview Preparation ! This resource is designed to help you ace your Marine Corps Infantry interviews with confidence.
 
+The government and public service play a crucial role in maintaining order, protecting citizens, and providing essential services to the community. One branch of public service that stands out is military service, particularly the Marine Corps Infantry job. As the backbone of the United States Marine Corps, the Infantry plays a vital role in combat operations, defending the nation's interests, and ensuring national security. Marines in the Infantry undergo rigorous training in various combat techniques, weapons handling, and tactical strategies, preparing them for the challenging and demanding nature of their job. Their commitment, discipline, and selfless dedication to serving the nation make them an integral part of the government's efforts towards safeguarding the country.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Marine Corps Infantry or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Marine Corps Infantry interviews to help you prepare and succeed.

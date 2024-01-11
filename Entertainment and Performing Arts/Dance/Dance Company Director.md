@@ -2,6 +2,8 @@
 
 Welcome to the Dance Company Director Interview Preparation ! This resource is designed to help you ace your Dance Company Director interviews with confidence.
 
+A Dance Company Director is a key figure in the world of entertainment and performing arts. This role involves overseeing and managing all aspects of a dance company, including artistic direction, choreography, production, and administration. Dance Company Directors are responsible for creating and executing a creative vision for the company, selecting and developing talented dancers, and ensuring the overall success of performances. They collaborate with choreographers, composers, designers, and other artists to create captivating and innovative dance productions. Additionally, Dance Company Directors often engage in fundraising activities, marketing, and community outreach to promote and sustain the company's mission and artistic excellence. This dynamic and demanding position requires a deep passion for dance, exceptional leadership skills, and a strong understanding of the performing arts industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Dance Company Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Dance Company Director interviews to help you prepare and succeed.

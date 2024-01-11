@@ -2,6 +2,8 @@
 
 Welcome to the Financial PR Specialist Interview Preparation ! This resource is designed to help you ace your Financial PR Specialist interviews with confidence.
 
+A Financial PR Specialist is a skilled professional responsible for managing communication and media strategies for financial institutions, corporations, and investment firms. This role specifically focuses on maintaining positive relationships with key stakeholders, including clients, investors, and the media. Financial PR Specialists possess excellent communication skills, both written and verbal, and have a deep understanding of the financial industry. They are adept at crafting compelling messaging and managing crises effectively. These professionals work closely with senior management to develop and implement PR campaigns that enhance the reputation and visibility of their clients in the financial sector. Overall, Financial PR Specialists play a crucial role in shaping public perception and maintaining the credibility of financial organizations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Financial PR Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Financial PR Specialist interviews to help you prepare and succeed.

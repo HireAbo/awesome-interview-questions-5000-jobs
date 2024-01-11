@@ -2,6 +2,8 @@
 
 Welcome to the Welder Interview Preparation ! This resource is designed to help you ace your Welder interviews with confidence.
 
+A welder is a skilled tradesperson who specializes in joining metal pieces together using various welding techniques. This job requires precision, attention to detail, and technical expertise. Welders work in a variety of industries, including construction, manufacturing, and automotive. They interpret blueprints, layouts, and welding specifications to determine the appropriate welding methods and materials needed for a project. Welders operate welding equipment, such as arc welders, gas torches, and plasma cutters, to melt and fuse metal components. They ensure the structural integrity of metalwork by conducting quality inspections and making necessary repairs. Being a welder offers a rewarding career path with opportunities for advancement and specialization within the field.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Welder or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Welder interviews to help you prepare and succeed.

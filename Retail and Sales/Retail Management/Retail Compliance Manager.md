@@ -2,6 +2,8 @@
 
 Welcome to the Retail Compliance Manager Interview Preparation ! This resource is designed to help you ace your Retail Compliance Manager interviews with confidence.
 
+A Retail Compliance Manager is responsible for ensuring that all retail operations and activities adhere to legal requirements, industry regulations, and company policies. They oversee the implementation and maintenance of compliance programs, conduct regular audits, and provide training to employees to ensure adherence to standards. The Retail Compliance Manager works closely with various departments, such as merchandising, marketing, and operations, to develop and implement policies and procedures that promote compliance. They also monitor and analyze data to identify areas of improvement and recommend appropriate actions. A successful Retail Compliance Manager possesses strong analytical, communication, and leadership skills to effectively manage compliance in a dynamic retail environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Retail Compliance Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Retail Compliance Manager interviews to help you prepare and succeed.

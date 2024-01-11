@@ -2,6 +2,8 @@
 
 Welcome to the Transportation Manager Interview Preparation ! This resource is designed to help you ace your Transportation Manager interviews with confidence.
 
+A Transportation Manager plays a crucial role in the field of Logistics Management by overseeing the transportation operations within an organization. They are responsible for coordinating and optimizing the movement of goods, ensuring efficient delivery, and maintaining cost-effective transportation solutions. This role involves managing logistics personnel, such as drivers and dispatchers, as well as collaborating with suppliers, carriers, and customers to ensure smooth operations. Transportation Managers also analyze data, monitor performance, and make strategic decisions to improve the transportation process. With excellent organizational and communication skills, they are able to handle multiple tasks simultaneously and maintain effective relationships with various stakeholders.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Transportation Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Transportation Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Backing Vocalist Interview Preparation ! This resource is designed to help you ace your Backing Vocalist interviews with confidence.
 
+A backing vocalist job in the field of entertainment and performing arts, specifically in music, involves providing support and harmony to the lead vocalist or lead instrument during live performances or studio recordings. Backing vocalists play a crucial role in enhancing the overall sound and performance of a musical piece. They are responsible for maintaining pitch accuracy, blending their voices seamlessly with the lead vocalist, and executing intricate harmonies. Additionally, they may be required to learn and memorize complex vocal arrangements and adapt to various musical genres and styles. Overall, a backing vocalist contributes to the captivating and dynamic experience of a musical performance.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Backing Vocalist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Backing Vocalist interviews to help you prepare and succeed.

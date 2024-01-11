@@ -2,6 +2,8 @@
 
 Welcome to the Digital Collections Archivist Interview Preparation ! This resource is designed to help you ace your Digital Collections Archivist interviews with confidence.
 
+Library and Information Science is a field that encompasses the management and organization of information resources in various formats. One specialized area within this field is archiving, which involves preserving and providing access to valuable historical documents and records. A Digital Collections Archivist is responsible for managing and maintaining digital collections within a library or archival institution. This includes acquiring, digitizing, cataloging, and preserving digital materials such as photographs, manuscripts, audio and video recordings, and other important records. Additionally, the Digital Collections Archivist ensures that these collections are accessible to researchers and the public through online platforms and digital preservation strategies. This role requires a strong understanding of archival principles, digital technologies, and information management practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Digital Collections Archivist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Digital Collections Archivist interviews to help you prepare and succeed.

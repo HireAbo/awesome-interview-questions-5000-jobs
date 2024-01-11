@@ -2,6 +2,8 @@
 
 Welcome to the Python Developer Interview Preparation ! This resource is designed to help you ace your Python Developer interviews with confidence.
 
+A Python Developer is a professional who specializes in software development using the Python programming language. Python is a versatile and widely-used language known for its simplicity, readability, and extensive library support. Python Developers utilize their expertise to design, develop, and implement software solutions, applications, and systems using Python. They are responsible for writing efficient and clean code, debugging and troubleshooting issues, and collaborating with cross-functional teams to ensure the successful delivery of projects. Python Developers also stay updated with the latest industry trends and continuously enhance their skills to optimize software performance and meet clients' requirements. A Python Developer plays a crucial role in the Information Technology (IT) sector, contributing to the development and innovation of various software applications.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Python Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Python Developer interviews to help you prepare and succeed.

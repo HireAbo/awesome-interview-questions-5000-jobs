@@ -2,6 +2,8 @@
 
 Welcome to the Ornithologist Interview Preparation ! This resource is designed to help you ace your Ornithologist interviews with confidence.
 
+Ornithology is a branch of biology that focuses on the scientific study of birds. Ornithologists are professionals who specialize in this field and are passionate about understanding the behavior, physiology, and ecology of avian species. Their work involves conducting research and collecting data on various aspects of bird life, such as migration patterns, nesting behaviors, and feeding habits. Ornithologists use a range of techniques, including bird banding, DNA analysis, and field observations, to gather information and contribute to our knowledge of avian biology. Their findings are crucial for conservation efforts, as they help identify threats to bird populations and develop strategies to protect them.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Ornithologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Ornithologist interviews to help you prepare and succeed.

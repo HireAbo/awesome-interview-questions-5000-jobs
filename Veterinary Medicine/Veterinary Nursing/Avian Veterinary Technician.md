@@ -2,6 +2,8 @@
 
 Welcome to the Avian Veterinary Technician Interview Preparation ! This resource is designed to help you ace your Avian Veterinary Technician interviews with confidence.
 
+Veterinary medicine is a branch of healthcare that focuses on the diagnosis, treatment, and prevention of diseases and injuries in animals. Within this field, veterinary nursing plays a crucial role in providing care and support to animals under the supervision of a veterinarian. However, within veterinary nursing, there are specialized roles such as Avian Veterinary Technicians who focus specifically on the care and treatment of birds. These professionals are responsible for assisting veterinarians in avian-specific procedures, handling and restraining birds, administering medications, conducting diagnostic tests, and providing post-operative care. Avian Veterinary Technicians play a vital role in ensuring the health and well-being of our feathered friends.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Avian Veterinary Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Avian Veterinary Technician interviews to help you prepare and succeed.

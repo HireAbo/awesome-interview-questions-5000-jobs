@@ -2,6 +2,8 @@
 
 Welcome to the User Experience Researcher Interview Preparation ! This resource is designed to help you ace your User Experience Researcher interviews with confidence.
 
+A User Experience Researcher in the field of Anthropology focuses on understanding human behavior and interactions with technology and digital interfaces. This job involves conducting research to uncover user needs, motivations, and preferences, and using this information to develop user-centered design solutions. By conducting interviews, surveys, usability testing, and observation studies, User Experience Researchers gain insights into how individuals engage with digital products, aiming to enhance user satisfaction and overall experience. This role requires strong analytical and communication skills, as findings are used to inform product development and improve user interfaces. User Experience Researchers in Anthropology contribute to creating intuitive and user-friendly digital experiences by incorporating cultural and societal perspectives into their research methodologies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned User Experience Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in User Experience Researcher interviews to help you prepare and succeed.

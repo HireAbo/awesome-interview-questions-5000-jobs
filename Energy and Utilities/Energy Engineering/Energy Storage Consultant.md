@@ -2,6 +2,8 @@
 
 Welcome to the Energy Storage Consultant Interview Preparation ! This resource is designed to help you ace your Energy Storage Consultant interviews with confidence.
 
+An Energy Storage Consultant is a professional who specializes in providing expert advice and solutions related to energy storage systems. They work within the field of Energy Engineering, focusing on the development, implementation, and optimization of energy storage technologies. These consultants play a crucial role in the Energy and Utilities industry, as they help organizations enhance their energy efficiency, reduce costs, and promote sustainability. Their responsibilities include conducting energy audits, analyzing energy consumption patterns, identifying suitable energy storage options, designing storage systems, and overseeing their installation and maintenance. Energy Storage Consultants possess a strong understanding of renewable energy sources, battery technologies, grid integration, and regulatory frameworks to ensure effective and reliable energy storage solutions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Energy Storage Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Energy Storage Consultant interviews to help you prepare and succeed.

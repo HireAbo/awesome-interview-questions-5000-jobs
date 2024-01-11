@@ -2,6 +2,8 @@
 
 Welcome to the Embedded Systems Developer Interview Preparation ! This resource is designed to help you ace your Embedded Systems Developer interviews with confidence.
 
+An Embedded Systems Developer is a specialized IT professional who focuses on the design and development of software for embedded systems. These systems are dedicated computer systems that perform specific tasks within larger electronic devices or machinery. As an Embedded Systems Developer, you will be responsible for creating and implementing software solutions that enable these systems to function efficiently and effectively. This involves working closely with hardware engineers to understand the system's requirements and constraints, designing and coding software, and conducting rigorous testing to ensure its reliability. A strong background in programming languages such as C/C++, knowledge of hardware architecture, and problem-solving skills are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Embedded Systems Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Embedded Systems Developer interviews to help you prepare and succeed.

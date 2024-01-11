@@ -2,6 +2,8 @@
 
 Welcome to the Water Quality Analyst Interview Preparation ! This resource is designed to help you ace your Water Quality Analyst interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on the study of the environment and its relationship with agriculture. Environmental Science encompasses various subfields, one of which is Water Quality Analysis. A Water Quality Analyst is responsible for monitoring and assessing the quality of water resources, such as rivers, lakes, and groundwater. They collect samples, conduct laboratory tests, and analyze data to identify and evaluate potential contaminants, pollution sources, and overall water quality. Additionally, Water Quality Analysts often collaborate with other professionals to develop and implement strategies for water resource management and conservation, ensuring the sustainability of our ecosystems and the protection of human health.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Water Quality Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Water Quality Analyst interviews to help you prepare and succeed.

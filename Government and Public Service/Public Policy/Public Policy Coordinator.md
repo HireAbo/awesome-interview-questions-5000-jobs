@@ -2,6 +2,8 @@
 
 Welcome to the Public Policy Coordinator Interview Preparation ! This resource is designed to help you ace your Public Policy Coordinator interviews with confidence.
 
+Government and Public Service is a broad field encompassing various roles and responsibilities aimed at serving the public interest. One significant aspect of this sector is Public Policy, which focuses on developing and implementing policies to address societal issues and improve the well-being of citizens. Within this domain, the role of a Public Policy Coordinator is crucial. As a Public Policy Coordinator, individuals are responsible for coordinating and managing the development, evaluation, and implementation of policies. They work closely with various stakeholders, including government agencies, advocacy groups, and community organizations, to gather input, conduct research, and ensure policy effectiveness. Public Policy Coordinators play a vital role in shaping the public policy landscape and driving positive social change.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Public Policy Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Public Policy Coordinator interviews to help you prepare and succeed.

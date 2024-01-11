@@ -2,6 +2,8 @@
 
 Welcome to the Deaf and Hard of Hearing Teacher Interview Preparation ! This resource is designed to help you ace your Deaf and Hard of Hearing Teacher interviews with confidence.
 
+A Deaf and Hard of Hearing Teacher is a specialized educator who works with students who have hearing impairments. They play a crucial role in providing individualized instruction and support to ensure the academic and social success of these students. These teachers are trained in various communication methods, such as sign language, lip reading, and auditory training, to facilitate effective communication and learning. They adapt curriculum materials, modify teaching strategies, and utilize assistive technology to meet the unique needs of each student. Additionally, they collaborate with other professionals, such as speech therapists and audiologists, to develop comprehensive education plans and ensure the students' overall development. Overall, Deaf and Hard of Hearing Teachers play a vital role in empowering students with hearing impairments and enabling them to thrive in their education and beyond.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Deaf and Hard of Hearing Teacher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Deaf and Hard of Hearing Teacher interviews to help you prepare and succeed.

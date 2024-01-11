@@ -2,6 +2,8 @@
 
 Welcome to the Animation Director Interview Preparation ! This resource is designed to help you ace your Animation Director interviews with confidence.
 
+An Animation Director is a creative and visionary professional responsible for overseeing the animation production process in the film industry. They play a crucial role in bringing animated films to life by leading a team of animators and ensuring that their work aligns with the director's vision. Animation Directors collaborate closely with the film's director, producers, and other key stakeholders to develop the visual style and storytelling techniques for the film. They are skilled in both traditional and digital animation techniques and have a deep understanding of various software and tools. Animation Directors possess strong leadership, communication, and problem-solving skills, making them essential in the world of film production.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Animation Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Animation Director interviews to help you prepare and succeed.

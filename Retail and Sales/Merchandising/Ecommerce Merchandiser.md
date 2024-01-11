@@ -2,6 +2,8 @@
 
 Welcome to the E-commerce Merchandiser Interview Preparation ! This resource is designed to help you ace your E-commerce Merchandiser interviews with confidence.
 
+An E-commerce Merchandiser plays a crucial role in the retail and sales industry, specifically in the realm of online commerce. This job involves creating and implementing strategies to optimize the online shopping experience and maximize sales. The E-commerce Merchandiser collaborates with cross-functional teams to ensure that products are effectively merchandised on e-commerce platforms. They analyze customer behavior, market trends, and competitor activity to make data-driven decisions on product assortment, pricing, and promotions. Additionally, they are responsible for maintaining accurate product information, managing inventory levels, and monitoring sales performance. The E-commerce Merchandiser must possess strong analytical skills, creativity, and a keen eye for detail to drive online sales growth in a competitive marketplace.
+
 ## 🚀 Overview
 
 Whether you're a seasoned E-commerce Merchandiser or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in E-commerce Merchandiser interviews to help you prepare and succeed.

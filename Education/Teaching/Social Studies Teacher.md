@@ -2,6 +2,8 @@
 
 Welcome to the Social Studies Teacher Interview Preparation ! This resource is designed to help you ace your Social Studies Teacher interviews with confidence.
 
+A Social Studies Teacher plays a vital role in shaping the minds of students by imparting knowledge about history, geography, economics, politics, and other social sciences. As a teacher in this field, they go beyond teaching facts and figures; they strive to develop critical thinking, analytical skills, and a deeper understanding of our society. Social Studies Teachers create engaging lesson plans, facilitate class discussions, and encourage students to explore different perspectives. They also help students develop research and writing skills, as well as cultivate a sense of empathy and cultural awareness. In addition, they may organize field trips, host guest speakers, and utilize technology to enhance the learning experience. Overall, Social Studies Teachers inspire students to become active and informed citizens.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Social Studies Teacher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Social Studies Teacher interviews to help you prepare and succeed.

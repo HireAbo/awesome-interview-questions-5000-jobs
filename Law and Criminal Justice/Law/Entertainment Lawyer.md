@@ -2,6 +2,12 @@
 
 Welcome to the Entertainment Lawyer Interview Preparation ! This resource is designed to help you ace your Entertainment Lawyer interviews with confidence.
 
+An entertainment lawyer is a legal professional specializing in the field of entertainment law, which encompasses various areas such as music, film, television, theater, and other forms of media and entertainment. These lawyers provide legal guidance and representation to individuals and companies involved in the entertainment industry.
+
+Entertainment lawyers handle a wide range of legal matters, including contract negotiations, intellectual property issues, licensing agreements, copyright and trademark matters, talent representation, and dispute resolution. They work closely with artists, musicians, actors, producers, directors, production companies, record labels, and other industry stakeholders to ensure compliance with legal requirements and protect their clients' rights and interests.
+
+With a deep understanding of both the legal and business aspects of the entertainment industry, entertainment lawyers play a crucial role in helping their clients navigate the complex landscape of contracts, negotiations, and industry regulations. They often act as advisors, advocates, and dealmakers, ensuring that their clients' creative works are protected and their careers flourish within the bounds of the law.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Entertainment Lawyer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Entertainment Lawyer interviews to help you prepare and succeed.

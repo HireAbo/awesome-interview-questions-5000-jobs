@@ -2,6 +2,8 @@
 
 Welcome to the Resource Room Teacher Interview Preparation ! This resource is designed to help you ace your Resource Room Teacher interviews with confidence.
 
+A Resource Room Teacher is an essential role in the field of Special Education. These professionals work closely with students who have special needs, providing them with individualized support and educational resources. Resource Room Teachers create a safe and inclusive learning environment where students can thrive academically, socially, and emotionally. They develop and implement personalized education plans, adapting teaching strategies to accommodate students' unique learning styles and abilities. Additionally, Resource Room Teachers collaborate with parents, teachers, and other specialists to ensure that students receive the necessary support and accommodations to succeed. In this rewarding role, Resource Room Teachers make a significant impact on students' educational journey and overall development.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Resource Room Teacher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Resource Room Teacher interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Forest Pathologist Interview Preparation ! This resource is designed to help you ace your Forest Pathologist interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on understanding the relationship between agriculture, natural resources, and the environment. Within this field, Forestry plays a vital role in managing and conserving forests for sustainable use. One important job within forestry is that of a Forest Pathologist. Forest Pathologists study the causes, development, and control of diseases affecting trees and forests. They investigate the impact of pathogens, pests, and environmental factors on forest health, and develop strategies to prevent and manage forest diseases. Their work is crucial in maintaining the biodiversity, productivity, and overall health of forests, ensuring their long-term sustainability.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forest Pathologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forest Pathologist interviews to help you prepare and succeed.

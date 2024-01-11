@@ -2,6 +2,8 @@
 
 Welcome to the Agricultural Sustainability Manager Interview Preparation ! This resource is designed to help you ace your Agricultural Sustainability Manager interviews with confidence.
 
+Agriculture and Environmental Science is a field that focuses on the study and application of scientific principles to improve agricultural practices while considering the impact on the environment. Sustainable agriculture is a crucial aspect of this discipline, aiming to meet the present and future agricultural needs without depleting natural resources or harming the environment. The role of an Agricultural Sustainability Manager is essential in ensuring the implementation and maintenance of sustainable practices within the agricultural industry. These professionals oversee and coordinate efforts to minimize environmental impact, manage resources efficiently, promote biodiversity, and maintain soil health. They work towards achieving a balance between agricultural productivity, economic viability, and environmental stewardship.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Agricultural Sustainability Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Agricultural Sustainability Manager interviews to help you prepare and succeed.

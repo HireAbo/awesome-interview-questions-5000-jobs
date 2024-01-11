@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Pre-Sales Consultant Interview Preparation ! This resource is designed to help you ace your Real Estate Pre-Sales Consultant interviews with confidence.
 
+A Real Estate Pre-Sales Consultant plays a crucial role in the real estate industry, specifically in the area of property management and sales. These professionals are responsible for assisting potential buyers in making informed decisions about purchasing properties. With a deep understanding of the real estate market, they provide clients with valuable insights and advice on a range of property options, including residential, commercial, and industrial spaces. They conduct thorough research on properties, analyze market trends, and evaluate potential investment opportunities. Additionally, they create customized presentations, negotiate deals, and ensure a seamless transition for clients throughout the buying process. With strong communication and negotiation skills, Real Estate Pre-Sales Consultants strive to meet clients' expectations and drive successful property transactions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Pre-Sales Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Pre-Sales Consultant interviews to help you prepare and succeed.

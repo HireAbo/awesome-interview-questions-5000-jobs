@@ -2,6 +2,8 @@
 
 Welcome to the Bassist Interview Preparation ! This resource is designed to help you ace your Bassist interviews with confidence.
 
+A bassist is a vital member of any musical ensemble, responsible for providing the rhythmic foundation and low-end groove to a piece of music. They play the bass guitar, a four-stringed instrument that produces deep, resonant tones. Bassists are essential in various genres of music, including rock, jazz, funk, and pop. Their role is to maintain the tempo, support the melody, and create a solid foundation for other musicians to build upon. Bassists often collaborate closely with drummers to create a tight rhythm section. With their technical skills and musical intuition, bassists contribute to the overall sound and energy of a performance, making them an indispensable part of the entertainment and performing arts industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Bassist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Bassist interviews to help you prepare and succeed.

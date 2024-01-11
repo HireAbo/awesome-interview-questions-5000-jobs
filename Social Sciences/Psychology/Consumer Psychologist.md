@@ -2,6 +2,8 @@
 
 Welcome to the Consumer Psychologist Interview Preparation ! This resource is designed to help you ace your Consumer Psychologist interviews with confidence.
 
+A Consumer Psychologist is a professional within the field of psychology who specializes in understanding and influencing consumer behavior. They apply psychological theories and research methods to analyze and predict consumer preferences, motivations, and decision-making processes. Consumer Psychologists work in various industries such as marketing, advertising, market research, and consulting firms. They conduct research studies, surveys, and experiments to gather data on consumer attitudes, emotions, and perceptions. This information is then utilized to develop effective marketing strategies, enhance product designs, and create impactful advertising campaigns. Consumer Psychologists play a crucial role in helping businesses understand and connect with their target audience, ultimately driving sales and brand loyalty.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Consumer Psychologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Consumer Psychologist interviews to help you prepare and succeed.

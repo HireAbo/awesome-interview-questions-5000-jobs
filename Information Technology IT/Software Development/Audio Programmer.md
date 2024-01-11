@@ -2,6 +2,8 @@
 
 Welcome to the Audio Programmer Interview Preparation ! This resource is designed to help you ace your Audio Programmer interviews with confidence.
 
+An Audio Programmer is a specialized role within the field of Information Technology (IT) and Software Development. It involves creating and implementing software solutions specifically designed for audio-related applications. These professionals possess a deep understanding of both computer programming and audio engineering principles. Audio Programmers are responsible for developing software tools, plugins, and applications used in various industries such as gaming, music production, virtual reality, and film. They collaborate with audio engineers, game designers, and other stakeholders to ensure optimal sound quality, realistic audio effects, and seamless integration of audio into software systems. This highly technical and creative job requires proficiency in programming languages, audio processing algorithms, and a passion for audio technology.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Audio Programmer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Audio Programmer interviews to help you prepare and succeed.

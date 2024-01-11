@@ -2,6 +2,8 @@
 
 Welcome to the Herpetologist Interview Preparation ! This resource is designed to help you ace your Herpetologist interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on the sustainable management of natural resources, including wildlife conservation. Wildlife Conservation is a crucial aspect of this field, aiming to protect and preserve the diverse ecosystems and species on our planet. Within this realm, a Herpetologist plays a vital role. Herpetologists specialize in the study of reptiles and amphibians, such as snakes, turtles, lizards, and frogs. Their job involves conducting research, monitoring populations, and implementing conservation strategies to ensure the survival and well-being of these often misunderstood and threatened creatures. Herpetologists also work closely with local communities and organizations to educate about the importance of conserving these unique and ecologically important species.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Herpetologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Herpetologist interviews to help you prepare and succeed.

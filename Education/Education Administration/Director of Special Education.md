@@ -2,6 +2,8 @@
 
 Welcome to the Director of Special Education Interview Preparation ! This resource is designed to help you ace your Director of Special Education interviews with confidence.
 
+The Director of Special Education is a crucial role within the field of Education Administration. This position is responsible for overseeing and managing all aspects of special education programs within a school or district. The Director of Special Education collaborates with teachers, staff, parents, and students to ensure that students with special needs receive the appropriate support and resources to thrive academically and personally. They develop and implement individualized education plans (IEPs), supervise special education staff, and ensure compliance with state and federal regulations. Additionally, the Director of Special Education plays a key role in advocating for inclusive education practices and providing professional development opportunities for educators.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Director of Special Education or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Director of Special Education interviews to help you prepare and succeed.

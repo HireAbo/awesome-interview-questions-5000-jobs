@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Compliance Manager Interview Preparation ! This resource is designed to help you ace your Environmental Compliance Manager interviews with confidence.
 
+An Environmental Compliance Manager in the field of Energy Engineering is responsible for ensuring that energy and utility projects adhere to environmental regulations and guidelines. This role involves assessing the environmental impact of energy projects, developing and implementing compliance strategies, and monitoring ongoing operations to ensure compliance with legal and regulatory requirements. The Environmental Compliance Manager also works closely with cross-functional teams to identify potential environmental risks and develop mitigation plans. They may be involved in conducting environmental audits, preparing reports, and providing guidance on sustainable practices. This position requires strong knowledge of environmental regulations, excellent problem-solving skills, and the ability to effectively communicate with stakeholders.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Compliance Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Compliance Manager interviews to help you prepare and succeed.

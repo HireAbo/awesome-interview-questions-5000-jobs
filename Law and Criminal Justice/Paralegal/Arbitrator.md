@@ -2,6 +2,8 @@
 
 Welcome to the Arbitrator Interview Preparation ! This resource is designed to help you ace your Arbitrator interviews with confidence.
 
+Law and criminal justice are vital components of any society, ensuring that rules and regulations are followed and justice is served. Within this field, paralegals play a crucial role in assisting lawyers with legal research, drafting legal documents, and preparing for trials. They are the backbone of legal teams, supporting attorneys in their pursuit of justice. On the other hand, arbitrators are neutral parties who resolve legal disputes outside of courts. They facilitate negotiations, analyze evidence, and deliver binding decisions to resolve conflicts. Both paralegals and arbitrators contribute significantly to the legal system, playing pivotal roles in maintaining fairness, upholding the law, and ensuring justice prevails.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Arbitrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Arbitrator interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Procurement Manager Interview Preparation ! This resource is designed to help you ace your Procurement Manager interviews with confidence.
 
+A Procurement Manager in Transportation and Logistics is a key role responsible for overseeing the procurement activities within the supply chain management process. They play a critical role in ensuring the smooth flow of goods and services by managing the purchasing and sourcing of materials, equipment, and services required for transportation and logistics operations. This involves developing and implementing procurement strategies, negotiating contracts, and managing supplier relationships to ensure cost-effective and timely procurement. The Procurement Manager also works closely with other departments, such as operations and finance, to align procurement activities with overall business objectives. Strong analytical, negotiation, and communication skills are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Procurement Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Procurement Manager interviews to help you prepare and succeed.

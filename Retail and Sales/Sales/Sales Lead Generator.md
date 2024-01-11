@@ -2,6 +2,8 @@
 
 Welcome to the Sales Lead Generator Interview Preparation ! This resource is designed to help you ace your Sales Lead Generator interviews with confidence.
 
+The Sales Lead Generator job is a crucial role in the field of Retail and Sales. As a Sales Lead Generator, your primary responsibility is to identify and generate potential leads for the sales team. You will be responsible for researching and gathering information on prospective clients, contacting them through various channels, and qualifying their interest and needs. This role requires excellent communication skills, both verbal and written, as well as a strong ability to build relationships with potential customers. A successful Sales Lead Generator must be highly motivated, persistent, and have a good understanding of the sales process. This job is essential in driving sales growth and expanding the customer base for a retail business.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sales Lead Generator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sales Lead Generator interviews to help you prepare and succeed.

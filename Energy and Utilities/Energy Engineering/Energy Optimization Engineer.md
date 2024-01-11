@@ -2,6 +2,8 @@
 
 Welcome to the Energy Optimization Engineer Interview Preparation ! This resource is designed to help you ace your Energy Optimization Engineer interviews with confidence.
 
+An Energy Optimization Engineer plays a crucial role in the field of Energy Engineering within the Energy and Utilities industry. This position focuses on maximizing energy efficiency and minimizing energy consumption in various systems and processes. The Energy Optimization Engineer is responsible for analyzing data, conducting energy audits, and identifying opportunities for improvement in terms of energy usage. They develop and implement strategies to optimize energy systems, which may involve designing and implementing energy-efficient technologies, conducting feasibility studies, and recommending energy-saving measures. The primary goal of an Energy Optimization Engineer is to reduce energy costs and environmental impact while ensuring the smooth functioning of energy systems and utilities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Energy Optimization Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Energy Optimization Engineer interviews to help you prepare and succeed.

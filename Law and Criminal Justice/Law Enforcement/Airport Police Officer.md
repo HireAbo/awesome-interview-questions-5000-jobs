@@ -2,6 +2,8 @@
 
 Welcome to the Airport Police Officer Interview Preparation ! This resource is designed to help you ace your Airport Police Officer interviews with confidence.
 
+An Airport Police Officer plays a vital role in ensuring the safety and security of airports and its passengers. These law enforcement professionals are responsible for enforcing laws and regulations within the airport premises. They patrol airport terminals, parking lots, and other designated areas to detect and prevent any criminal activity or suspicious behavior. Airport Police Officers are trained to handle various situations, including responding to emergencies, conducting investigations, and apprehending suspects. They also collaborate with other law enforcement agencies, airport staff, and security personnel to maintain a secure environment. This challenging and crucial job requires excellent communication skills, physical fitness, and a strong commitment to public safety.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Airport Police Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Airport Police Officer interviews to help you prepare and succeed.

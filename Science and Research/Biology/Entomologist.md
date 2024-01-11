@@ -2,6 +2,8 @@
 
 Welcome to the Entomologist Interview Preparation ! This resource is designed to help you ace your Entomologist interviews with confidence.
 
+An entomologist is a scientist who specializes in studying insects. They investigate the behavior, physiology, development, and classification of insects, as well as their impact on ecosystems and humans. Entomologists conduct research to understand insect biology, identify and classify different species, and develop strategies to control pests or promote beneficial insects. They often work in laboratories, conducting experiments and analyzing data, but also conduct fieldwork to observe insects in their natural habitats. Entomologists may collaborate with other scientists, farmers, and government agencies to develop sustainable pest management strategies, protect biodiversity, and contribute to our understanding of the intricate roles insects play in the world.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Entomologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Entomologist interviews to help you prepare and succeed.

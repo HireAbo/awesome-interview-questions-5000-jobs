@@ -2,6 +2,8 @@
 
 Welcome to the Cloud Database Administrator Interview Preparation ! This resource is designed to help you ace your Cloud Database Administrator interviews with confidence.
 
+A Cloud Database Administrator (DBA) is a professional who manages and maintains databases in a cloud computing environment. They are responsible for ensuring the smooth operation and performance of cloud-based databases, as well as implementing security measures to protect sensitive data. Cloud DBAs handle tasks such as database installation, configuration, and monitoring, as well as data backup and recovery. They collaborate with other IT professionals to optimize database performance and troubleshoot any issues that may arise. Additionally, Cloud DBAs stay updated with the latest technologies and trends in cloud computing and database management to provide efficient and reliable solutions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cloud Database Administrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cloud Database Administrator interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Network Design Engineer Interview Preparation ! This resource is designed to help you ace your Network Design Engineer interviews with confidence.
 
+A Network Design Engineer is a professional who specializes in designing and implementing computer networks for organizations. They play a crucial role in ensuring that the network architecture meets the business requirements and operates efficiently. Network Design Engineers are responsible for analyzing the organization's network needs, considering factors such as scalability, security, and performance. They create detailed network designs, including physical and logical layouts, equipment selection, and network protocols. Additionally, Network Design Engineers collaborate with various stakeholders, including network administrators and IT managers, to ensure seamless integration and smooth operation of the network infrastructure. Their expertise in network planning and implementation makes them an essential asset in the Information Technology (IT) industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Network Design Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Network Design Engineer interviews to help you prepare and succeed.

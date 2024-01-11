@@ -2,6 +2,8 @@
 
 Welcome to the Forensic Lab Technician Interview Preparation ! This resource is designed to help you ace your Forensic Lab Technician interviews with confidence.
 
+A Forensic Lab Technician plays a crucial role in the field of forensic science and criminal justice. They are responsible for examining and analyzing various types of physical evidence collected from crime scenes. These technicians perform a range of tasks, including conducting laboratory tests, analyzing DNA, fingerprints, and other trace evidence, as well as documenting and preserving evidence for court trials. They work closely with forensic scientists, law enforcement officials, and legal professionals to provide accurate and reliable findings that contribute to solving crimes and ensuring justice. Attention to detail, strong analytical skills, and knowledge of scientific techniques are essential for success in this profession.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forensic Lab Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forensic Lab Technician interviews to help you prepare and succeed.

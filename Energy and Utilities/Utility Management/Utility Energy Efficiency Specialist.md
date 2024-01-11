@@ -2,6 +2,8 @@
 
 Welcome to the Utility Energy Efficiency Specialist Interview Preparation ! This resource is designed to help you ace your Utility Energy Efficiency Specialist interviews with confidence.
 
+A Utility Energy Efficiency Specialist is a professional who specializes in improving energy efficiency in utility companies. They play a crucial role in managing and implementing energy efficiency programs that aim to reduce energy consumption, increase cost savings, and minimize the environmental impact of energy production and usage. These specialists conduct energy audits, analyze utility data, and identify potential areas for energy efficiency improvements. They also collaborate with utility management teams to develop and implement strategies, policies, and initiatives to promote energy conservation. Additionally, Utility Energy Efficiency Specialists stay updated with the latest technologies and regulations in the energy sector to ensure optimal energy management practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Utility Energy Efficiency Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Utility Energy Efficiency Specialist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Radio News Reporter Interview Preparation ! This resource is designed to help you ace your Radio News Reporter interviews with confidence.
 
+A Radio News Reporter plays a pivotal role in the field of Communication and Media, specifically in the realm of Broadcasting. This dynamic job involves gathering and delivering news stories to a wide audience through the medium of radio. Radio news reporters are responsible for investigating, researching, and reporting on local, national, and international news events. They conduct interviews, attend press conferences, and gather information from various sources to create accurate and engaging news stories. With a keen eye for detail and excellent communication skills, radio news reporters deliver news updates, breaking news, and human-interest stories to keep listeners informed and engaged. Their work requires adaptability, quick thinking, and the ability to work effectively under pressure to deliver news in a timely manner.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Radio News Reporter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Radio News Reporter interviews to help you prepare and succeed.

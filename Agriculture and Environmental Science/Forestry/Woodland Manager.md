@@ -2,6 +2,8 @@
 
 Welcome to the Woodland Manager Interview Preparation ! This resource is designed to help you ace your Woodland Manager interviews with confidence.
 
+Agriculture and Environmental Science encompasses a wide range of fields, including forestry. A Woodland Manager plays a crucial role in this domain by overseeing and managing woodland areas. They ensure the sustainable use of forests and woodlands, balancing economic, social, and ecological considerations. These professionals are responsible for conducting surveys to assess woodland conditions, developing and implementing management plans, and supervising activities such as tree planting, thinning, and harvesting. They also monitor and control pests and diseases, promote biodiversity, and facilitate public access and recreational activities. Woodland Managers are instrumental in promoting sustainable forestry practices, conserving natural resources, and preserving the environment for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Woodland Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Woodland Manager interviews to help you prepare and succeed.

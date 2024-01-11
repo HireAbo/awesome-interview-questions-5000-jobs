@@ -2,6 +2,8 @@
 
 Welcome to the Diplomat Interview Preparation ! This resource is designed to help you ace your Diplomat interviews with confidence.
 
+A government's primary role is to govern and provide services to its citizens. Government and public service encompass various sectors, including diplomacy. Diplomacy is the art and practice of conducting negotiations and maintaining relations between nations. Diplomats play a crucial role in representing their country's interests, promoting peace, and fostering cooperation with other nations. They engage in diplomatic negotiations, participate in international conferences, and represent their country's positions on global issues. Diplomats possess strong communication and negotiation skills, cultural sensitivity, and a deep understanding of international relations. Their work is essential in shaping foreign policies, building alliances, and resolving conflicts through peaceful means.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Diplomat or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Diplomat interviews to help you prepare and succeed.

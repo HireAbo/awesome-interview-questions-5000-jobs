@@ -2,6 +2,8 @@
 
 Welcome to the Econometrician Interview Preparation ! This resource is designed to help you ace your Econometrician interviews with confidence.
 
+Mathematics and Statistics are two closely related disciplines that deal with the study and analysis of data and patterns. Statistics is a branch of mathematics that focuses on collecting, organizing, analyzing, and interpreting numerical data. It provides valuable insights into various fields, including economics. Within the field of statistics, there is a specialized role known as an Econometrician. An Econometrician applies statistical methods and mathematical models to analyze economic data and make informed predictions and decisions. They use statistical software and tools to develop and test economic theories, estimate economic relationships, and provide valuable insights for businesses, governments, and policymakers. Econometricians play a crucial role in shaping economic policies and forecasting economic trends.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Econometrician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Econometrician interviews to help you prepare and succeed.

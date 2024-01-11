@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife Rehabilitation Manager Interview Preparation ! This resource is designed to help you ace your Wildlife Rehabilitation Manager interviews with confidence.
 
+Agriculture and Environmental Science play a crucial role in sustaining our planet's biodiversity and ensuring a healthy ecosystem. In this context, the role of a Wildlife Rehabilitation Manager becomes increasingly significant. As a Wildlife Rehabilitation Manager, one is responsible for overseeing the care and rehabilitation of injured, orphaned, or sick wildlife. This involves managing a team of professionals, including veterinarians and wildlife rehabilitators, to provide appropriate medical treatment, nutrition, and shelter for the animals. Additionally, the manager ensures compliance with legal regulations and permits, educates the public about wildlife conservation, and develops strategies to release rehabilitated animals back into their natural habitat. This role is fundamental in preserving and protecting wildlife populations, contributing to the overall balance and sustainability of our environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Rehabilitation Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Rehabilitation Manager interviews to help you prepare and succeed.

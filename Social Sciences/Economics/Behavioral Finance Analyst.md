@@ -2,6 +2,8 @@
 
 Welcome to the Behavioral Finance Analyst Interview Preparation ! This resource is designed to help you ace your Behavioral Finance Analyst interviews with confidence.
 
+A Behavioral Finance Analyst is a professional within the field of economics who combines knowledge of both social sciences and finance to understand and predict human decision-making patterns in financial markets. This job involves analyzing the psychological and emotional factors that influence investors' decisions, such as biases, heuristics, and irrational behavior. By studying these behavioral aspects, analysts can provide valuable insights into market trends and help investors make more informed decisions. They utilize various methodologies, including statistical modeling, data analysis, and experimental research, to explore the relationship between human behavior and financial markets. Overall, Behavioral Finance Analysts play a crucial role in bridging the gap between traditional economic theories and the realities of human behavior in the financial world.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Behavioral Finance Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Behavioral Finance Analyst interviews to help you prepare and succeed.

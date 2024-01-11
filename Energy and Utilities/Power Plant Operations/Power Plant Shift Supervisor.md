@@ -2,6 +2,8 @@
 
 Welcome to the Power Plant Shift Supervisor Interview Preparation ! This resource is designed to help you ace your Power Plant Shift Supervisor interviews with confidence.
 
+The role of a Power Plant Shift Supervisor in the field of Energy and Utilities > Power Plant Operations is crucial in ensuring the smooth and efficient operation of power plants. As a Shift Supervisor, you will be responsible for overseeing the daily operations of the power plant, managing a team of operators, and ensuring compliance with safety and environmental regulations. You will be responsible for monitoring and controlling the generation and distribution of power, troubleshooting any operational issues, and coordinating with maintenance teams to ensure timely repairs and maintenance. This role requires strong leadership skills, technical knowledge of power plant operations, and the ability to make critical decisions in high-pressure situations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Power Plant Shift Supervisor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Power Plant Shift Supervisor interviews to help you prepare and succeed.

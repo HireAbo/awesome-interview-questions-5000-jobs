@@ -2,6 +2,8 @@
 
 Welcome to the Library Facilities Manager Interview Preparation ! This resource is designed to help you ace your Library Facilities Manager interviews with confidence.
 
+Library and Information Science is an interdisciplinary field that focuses on the organization, management, and retrieval of information in various formats. Within this field, Librarianship plays a crucial role in providing access to information and resources to meet the diverse needs of library users. One important position within Librarianship is the Library Facilities Manager. This role involves overseeing the physical infrastructure of the library, ensuring that the facilities are well-maintained and conducive to a comfortable and efficient user experience. The Library Facilities Manager is responsible for managing budgets, coordinating maintenance and repairs, and implementing safety measures. They also collaborate with other library staff to ensure that the facilities support the overall goals and objectives of the library.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Library Facilities Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Library Facilities Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Government Research Analyst Interview Preparation ! This resource is designed to help you ace your Government Research Analyst interviews with confidence.
 
+A Government Research Analyst job in the field of Anthropology within Social Sciences involves conducting comprehensive research and analysis on various aspects of government policies, programs, and initiatives. These professionals utilize anthropological theories, methods, and techniques to study and understand the cultural, social, and political dynamics that shape government decision-making processes. They collect and analyze data, examine historical trends, and assess the impact of policies on different communities and societies. Government Research Analysts in Anthropology play a critical role in providing valuable insights and recommendations to government agencies, aiding in the development of effective and culturally sensitive policies that address societal needs and promote social justice.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Government Research Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Government Research Analyst interviews to help you prepare and succeed.

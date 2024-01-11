@@ -2,6 +2,8 @@
 
 Welcome to the Forensic Accountant Interview Preparation ! This resource is designed to help you ace your Forensic Accountant interviews with confidence.
 
+A forensic accountant is a specialized professional who combines their knowledge of accounting, law, and investigative techniques to analyze financial records and detect any fraudulent activities. They play a crucial role in the field of forensic science within the realm of law and criminal justice. Forensic accountants are responsible for examining financial documents, such as tax returns, bank statements, and business records, to uncover evidence of illegal activities such as money laundering, embezzlement, or fraud. They use their expertise in accounting principles and investigative skills to trace financial transactions, identify discrepancies, and provide expert testimony in legal proceedings. Forensic accountants are essential in ensuring justice and maintaining the integrity of financial systems in a legal context.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forensic Accountant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forensic Accountant interviews to help you prepare and succeed.

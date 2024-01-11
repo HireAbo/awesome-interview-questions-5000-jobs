@@ -2,6 +2,8 @@
 
 Welcome to the Space Scientist Interview Preparation ! This resource is designed to help you ace your Space Scientist interviews with confidence.
 
+Aviation and Aerospace is a vast field that encompasses various aspects related to the design, development, and operation of aircraft and spacecraft. Within this industry, Aerospace Technology plays a crucial role in advancing our understanding of outer space and its exploration. In this context, a Space Scientist job involves conducting research and analysis to uncover the mysteries of the universe. Space scientists work with cutting-edge technologies to study celestial bodies, evaluate space missions, and develop innovative technologies for space exploration. They are responsible for gathering data, interpreting findings, and contributing to scientific advancements that shape our knowledge of the cosmos. Additionally, space scientists collaborate with other experts to support space missions and contribute to the growth of aerospace technology.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Space Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Space Scientist interviews to help you prepare and succeed.

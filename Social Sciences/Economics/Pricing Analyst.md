@@ -2,6 +2,8 @@
 
 Welcome to the Pricing Analyst Interview Preparation ! This resource is designed to help you ace your Pricing Analyst interviews with confidence.
 
+A Pricing Analyst is a professional who specializes in the field of economics within the social sciences. This role primarily focuses on analyzing market trends, consumer behavior, and competitive landscapes to determine optimal pricing strategies for products and services. The Pricing Analyst utilizes various statistical and economic models to evaluate pricing structures, assess profit margins, and identify opportunities to enhance revenue. They also collaborate with cross-functional teams, such as marketing and sales, to develop effective pricing strategies that align with business goals. A strong understanding of economic principles, market dynamics, and statistical analysis is crucial for success in this role. Ultimately, the Pricing Analyst plays a critical role in maximizing profitability and driving business growth through strategic pricing decisions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Pricing Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Pricing Analyst interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Background Actor Interview Preparation ! This resource is designed to help you ace your Background Actor interviews with confidence.
 
+A Background Actor, also known as an extra, is an essential component of the entertainment and performing arts industry. These individuals play a crucial role in enhancing the visual appeal and depth of a scene in movies, television shows, commercials, and theater productions. As a Background Actor, your primary responsibility is to create a realistic and believable atmosphere by portraying a character in the background of a scene. This may involve interacting with principal actors, engaging in scripted or improvised actions, and maintaining consistency in your performance throughout multiple takes. Background Actors possess excellent adaptability, patience, and the ability to follow direction effectively.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Background Actor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Background Actor interviews to help you prepare and succeed.

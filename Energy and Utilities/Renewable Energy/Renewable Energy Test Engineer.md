@@ -2,6 +2,8 @@
 
 Welcome to the Renewable Energy Test Engineer Interview Preparation ! This resource is designed to help you ace your Renewable Energy Test Engineer interviews with confidence.
 
+A Renewable Energy Test Engineer is a professional responsible for evaluating and ensuring the performance and reliability of renewable energy systems. They conduct various tests, analyze data, and provide recommendations for improving the efficiency and effectiveness of renewable energy technologies. These engineers work closely with design and development teams to verify compliance with industry standards and regulatory requirements. They also contribute to the development of testing protocols and methodologies. Additionally, Renewable Energy Test Engineers may assist in troubleshooting and resolving technical issues related to renewable energy systems, ensuring their safe and sustainable operation. In summary, these professionals play a crucial role in advancing renewable energy technologies and promoting a greener and more sustainable future.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Renewable Energy Test Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Renewable Energy Test Engineer interviews to help you prepare and succeed.

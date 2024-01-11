@@ -2,6 +2,8 @@
 
 Welcome to the Tissue Culture Specialist Interview Preparation ! This resource is designed to help you ace your Tissue Culture Specialist interviews with confidence.
 
+A Tissue Culture Specialist is a key player in the field of medical research, specifically in the domain of tissue engineering and regenerative medicine. As a specialist, their main responsibility is to cultivate and maintain living cells and tissues in a controlled laboratory environment. By utilizing various techniques, they propagate cells, manipulate their growth, and develop three-dimensional tissue models for experimentation and testing. Tissue Culture Specialists also play a vital role in the development of new drugs and therapies, as they conduct detailed analysis and provide valuable data on the effects of different substances on living tissues. Their work is crucial in advancing scientific knowledge and improving healthcare outcomes for patients worldwide.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Tissue Culture Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Tissue Culture Specialist interviews to help you prepare and succeed.

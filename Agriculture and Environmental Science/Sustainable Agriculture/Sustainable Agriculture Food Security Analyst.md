@@ -2,6 +2,8 @@
 
 Welcome to the Sustainable Agriculture Food Security Analyst Interview Preparation ! This resource is designed to help you ace your Sustainable Agriculture Food Security Analyst interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on the interconnections between agriculture, the environment, and sustainable development. Sustainable agriculture aims to meet the growing demand for food while minimizing negative impacts on the environment and natural resources. As part of this field, the role of a Sustainable Agriculture Food Security Analyst is crucial. These professionals analyze and assess the impact of agricultural practices on food security, ensuring that sustainable practices are implemented to enhance food production and availability. They work closely with farmers, policymakers, and other stakeholders to develop strategies that promote sustainable agriculture, protect biodiversity, conserve water resources, and improve overall food security.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sustainable Agriculture Food Security Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sustainable Agriculture Food Security Analyst interviews to help you prepare and succeed.

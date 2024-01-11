@@ -2,6 +2,8 @@
 
 Welcome to the Mathematics Tutor Interview Preparation ! This resource is designed to help you ace your Mathematics Tutor interviews with confidence.
 
+A Mathematics Tutor job involves providing academic support and guidance to students studying Mathematics. Mathematics is a discipline that deals with the study of numbers, quantity, structure, and patterns. It is a fundamental subject that is used in various fields such as physics, engineering, finance, and computer science. A Mathematics Tutor helps students understand complex mathematical concepts, solve problems, and improve their overall mathematical skills. They may also assist students in preparing for exams, conducting practice sessions, and providing personalized instruction tailored to each student's needs. Mathematics Tutors play a crucial role in helping students build a strong foundation in Mathematics and develop critical thinking and problem-solving skills.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Mathematics Tutor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Mathematics Tutor interviews to help you prepare and succeed.

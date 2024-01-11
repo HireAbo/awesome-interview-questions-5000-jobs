@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Development Consultant Interview Preparation ! This resource is designed to help you ace your Real Estate Development Consultant interviews with confidence.
 
+Real estate and property management is a thriving industry that involves the buying, selling, and managing of properties. It encompasses a wide range of activities, including property valuation, investment analysis, leasing, and tenant management. Real estate development, on the other hand, focuses on the creation and enhancement of properties through various processes, such as land acquisition, construction, and renovation. As a real estate development consultant, your primary role is to provide expert advice and guidance to clients throughout the development process. This involves assisting with project feasibility studies, market analysis, financial modeling, and overseeing the implementation of development plans. Your expertise in this field ensures successful and profitable real estate projects for clients.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Development Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Development Consultant interviews to help you prepare and succeed.

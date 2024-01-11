@@ -2,6 +2,8 @@
 
 Welcome to the Retail Space Planner Interview Preparation ! This resource is designed to help you ace your Retail Space Planner interviews with confidence.
 
+A Retail Space Planner is a crucial role in the field of Retail and Sales Merchandising. This job involves strategic planning and designing of retail spaces to maximize sales and enhance customer experience. The Retail Space Planner uses their expertise in visual merchandising, consumer behavior, and store layout optimization to create effective store layouts. They collaborate with cross-functional teams such as merchandisers, store managers, and designers to analyze sales data, market trends, and customer preferences. Their responsibilities include developing planograms, determining product placement, and implementing promotional displays. The Retail Space Planner plays a vital role in creating visually appealing and functional retail spaces that drive sales and ensure customer satisfaction.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Retail Space Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Retail Space Planner interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Copy Editor Interview Preparation ! This resource is designed to help you ace your Copy Editor interviews with confidence.
 
+A copy editor plays a vital role in the field of journalism by ensuring accuracy, clarity, and consistency in written content. As part of the communication and media industry, copy editors are responsible for reviewing and refining written materials before they are published or aired. They meticulously scrutinize articles, news stories, or other written works, checking for grammatical errors, spelling mistakes, and adherence to style guidelines. Additionally, copy editors may rewrite or restructure sentences to improve readability while maintaining the original intent. Their attention to detail and strong language skills make them essential in maintaining the high standards of journalistic integrity and professionalism.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Copy Editor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Copy Editor interviews to help you prepare and succeed.

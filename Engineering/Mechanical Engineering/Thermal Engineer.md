@@ -2,6 +2,8 @@
 
 Welcome to the Thermal Engineer Interview Preparation ! This resource is designed to help you ace your Thermal Engineer interviews with confidence.
 
+A Thermal Engineer specializes in the field of Mechanical Engineering that focuses on the design and development of systems and devices to control and manage heat transfer processes. Their primary role is to design, analyze, and optimize thermal systems and components such as heat exchangers, boilers, refrigeration systems, and turbines. They work closely with other engineers and professionals to ensure efficient energy utilization, safety, and reliability in various industries such as automotive, aerospace, power generation, and manufacturing. Thermal Engineers also conduct feasibility studies, perform simulations, and conduct experiments to evaluate and improve thermal performance. They play a crucial role in enhancing energy efficiency and minimizing environmental impact through innovative thermal management solutions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Thermal Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Thermal Engineer interviews to help you prepare and succeed.

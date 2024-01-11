@@ -2,6 +2,8 @@
 
 Welcome to the Survey Statistician Interview Preparation ! This resource is designed to help you ace your Survey Statistician interviews with confidence.
 
+Mathematics and Statistics are two interrelated fields that deal with the study and analysis of numbers, patterns, and data. Statistics, a branch of mathematics, focuses on collecting, organizing, analyzing, and interpreting data to make informed decisions and predictions. Within statistics, the role of a Survey Statistician stands out. A Survey Statistician is responsible for designing and conducting surveys to collect data from a specific population. They develop survey questionnaires, determine sample sizes, and select appropriate sampling methods. They also analyze the collected data using statistical software, interpret the results, and communicate findings through reports and presentations. A Survey Statistician plays a crucial role in providing accurate and reliable data for various research, policy-making, and business purposes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Survey Statistician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Survey Statistician interviews to help you prepare and succeed.

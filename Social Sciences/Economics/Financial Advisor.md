@@ -2,6 +2,8 @@
 
 Welcome to the Financial Advisor Interview Preparation ! This resource is designed to help you ace your Financial Advisor interviews with confidence.
 
+A financial advisor is a professional who provides guidance and advice to individuals or organizations regarding their financial decisions and goals. They specialize in the field of economics within the broader realm of social sciences. The role of a financial advisor is to assess a client's current financial situation, including income, expenses, assets, and liabilities, and develop a comprehensive financial plan to help them achieve their objectives. This may involve investment strategies, retirement planning, tax planning, risk management, and estate planning. Financial advisors must possess strong analytical skills, knowledge of economic principles, and an understanding of market trends to effectively assist their clients in making informed financial decisions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Financial Advisor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Financial Advisor interviews to help you prepare and succeed.

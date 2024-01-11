@@ -2,6 +2,8 @@
 
 Welcome to the C# Developer Interview Preparation ! This resource is designed to help you ace your C# Developer interviews with confidence.
 
+A C# Developer job is a position within the field of Information Technology (IT) that focuses on software development using the C# programming language. C# (pronounced C-sharp) is a versatile and widely-used programming language developed by Microsoft. C# Developers are responsible for designing, coding, and testing software applications using C# and related technologies. They collaborate with a team of developers, analysts, and stakeholders to gather requirements and develop innovative software solutions. C# Developers also debug and troubleshoot issues, as well as ensure the software meets quality standards and follows best practices. This role requires strong programming skills, problem-solving abilities, and knowledge of various software development methodologies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned C# Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in C# Developer interviews to help you prepare and succeed.

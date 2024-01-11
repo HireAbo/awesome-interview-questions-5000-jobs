@@ -2,6 +2,8 @@
 
 Welcome to the Biometrician Interview Preparation ! This resource is designed to help you ace your Biometrician interviews with confidence.
 
+A biometrician is a professional who applies mathematical and statistical principles to the field of biology. They play a crucial role in analyzing and interpreting biological data to make informed decisions. Biometricians use their knowledge of mathematics and statistics to design experiments, collect data, and develop models that help understand biological phenomena. They are skilled in statistical software and programming languages, allowing them to process large datasets and conduct complex statistical analyses. Biometricians work in various sectors, including agriculture, healthcare, and environmental science, where their expertise is utilized for tasks such as studying genetic patterns, monitoring population dynamics, and predicting disease outbreaks.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Biometrician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Biometrician interviews to help you prepare and succeed.

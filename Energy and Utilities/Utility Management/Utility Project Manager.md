@@ -2,6 +2,8 @@
 
 Welcome to the Utility Project Manager Interview Preparation ! This resource is designed to help you ace your Utility Project Manager interviews with confidence.
 
+A Utility Project Manager plays a critical role in the Energy and Utilities industry by overseeing and managing various utility projects from initiation to completion. They are responsible for ensuring the successful delivery of projects related to energy generation, distribution, and transmission systems. The role requires strong technical knowledge and expertise in utility management, as well as excellent project management skills. Utility Project Managers collaborate with cross-functional teams, stakeholders, and contractors to develop project plans, set budgets, monitor progress, and ensure compliance with industry regulations. They also identify and mitigate risks, resolve issues, and ensure projects are completed within the defined scope, schedule, and budget.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Utility Project Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Utility Project Manager interviews to help you prepare and succeed.

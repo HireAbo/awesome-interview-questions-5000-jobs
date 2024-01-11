@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Sales Coordinator Interview Preparation ! This resource is designed to help you ace your Real Estate Sales Coordinator interviews with confidence.
 
+A Real Estate Sales Coordinator plays a vital role in the real estate industry, specifically in the area of real estate sales. This job entails assisting real estate agents and brokers in coordinating and managing the sales process of properties. The Sales Coordinator is responsible for various important tasks, including preparing and maintaining property listings, coordinating property showings and open houses, facilitating communication between buyers and sellers, and ensuring all necessary documentation is completed accurately and in a timely manner. Additionally, the Sales Coordinator may also handle administrative duties such as scheduling appointments, managing client databases, and providing exceptional customer service. A successful Sales Coordinator possesses excellent organizational skills, exceptional attention to detail, and excellent communication abilities to effectively support the sales team in achieving their targets.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Sales Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Sales Coordinator interviews to help you prepare and succeed.

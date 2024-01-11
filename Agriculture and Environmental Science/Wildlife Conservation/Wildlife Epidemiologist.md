@@ -2,6 +2,12 @@
 
 Welcome to the Wildlife Epidemiologist Interview Preparation ! This resource is designed to help you ace your Wildlife Epidemiologist interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on understanding the interactions between agriculture, the environment, and the health of ecosystems. It seeks to promote sustainable practices that minimize negative impacts on natural resources while maximizing agricultural productivity. 
+
+Within this field, Wildlife Conservation plays a crucial role in preserving and protecting the world's diverse wildlife species and their habitats. It involves studying and implementing strategies to maintain ecological balance and mitigate threats to wildlife populations, such as habitat loss, climate change, and poaching. 
+
+A specialized occupation within Wildlife Conservation is that of a Wildlife Epidemiologist. These professionals study and analyze the spread of diseases within wildlife populations. They investigate the causes, transmission patterns, and impacts of diseases on wildlife, aiming to prevent outbreaks and protect both animal and human health. Wildlife Epidemiologists often collaborate with other scientists, conservationists, and government agencies to develop effective disease management strategies and promote wildlife conservation efforts.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Epidemiologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Epidemiologist interviews to help you prepare and succeed.

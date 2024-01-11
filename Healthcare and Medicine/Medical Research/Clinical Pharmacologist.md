@@ -2,6 +2,8 @@
 
 Welcome to the Clinical Pharmacologist Interview Preparation ! This resource is designed to help you ace your Clinical Pharmacologist interviews with confidence.
 
+A Clinical Pharmacologist is a specialized medical professional who plays a crucial role in medical research and healthcare. This field of medicine focuses on understanding how drugs affect the human body and developing safe and effective medications. Clinical Pharmacologists work in research laboratories and clinical settings, conducting experiments and trials to assess the safety, efficacy, and dosage of drugs. They collaborate with other healthcare professionals to design and implement clinical trials, analyze data, and interpret results. Additionally, they contribute to the development of treatment guidelines and provide expert advice on drug therapy to ensure the best possible outcomes for patients.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Clinical Pharmacologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Clinical Pharmacologist interviews to help you prepare and succeed.

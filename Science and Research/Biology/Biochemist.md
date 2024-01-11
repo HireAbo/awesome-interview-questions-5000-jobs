@@ -2,6 +2,8 @@
 
 Welcome to the Biochemist Interview Preparation ! This resource is designed to help you ace your Biochemist interviews with confidence.
 
+A Biochemist is a specialized scientist who focuses on the study of living organisms and their chemical processes. This branch of biology involves the application of chemistry principles to understand biological systems at a molecular level. Biochemists conduct extensive research to investigate the complex mechanisms behind cellular processes, such as metabolism, DNA replication, and protein synthesis. They also explore the effects of various substances on living organisms, aiming to develop new drugs, therapies, and treatments. Biochemists utilize advanced laboratory techniques, including spectroscopy and chromatography, to analyze biological samples and collect data. Their work is crucial in advancing our understanding of diseases, genetics, and the development of sustainable solutions for various biological challenges.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Biochemist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Biochemist interviews to help you prepare and succeed.

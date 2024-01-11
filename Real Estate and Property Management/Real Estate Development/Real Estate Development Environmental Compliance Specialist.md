@@ -2,6 +2,10 @@
 
 Welcome to the Real Estate Development Environmental Compliance Specialist Interview Preparation ! This resource is designed to help you ace your Real Estate Development Environmental Compliance Specialist interviews with confidence.
 
+A Real Estate Development Environmental Compliance Specialist is a professional responsible for ensuring that real estate development projects comply with environmental regulations and standards. They play a crucial role in managing the environmental impact of construction, ensuring that all aspects of a project adhere to established guidelines and regulations. This includes assessing potential environmental risks, conducting environmental impact assessments, and developing strategies to minimize negative effects on the environment.
+
+These specialists work closely with developers, contractors, and government agencies to ensure that projects are carried out in an environmentally responsible manner. They may also collaborate with environmental scientists, engineers, and other professionals to develop innovative solutions for sustainable development. The role requires a strong understanding of environmental laws, regulations, and best practices, as well as excellent analytical and problem-solving skills. Real Estate Development Environmental Compliance Specialists play a vital role in promoting sustainable and environmentally friendly real estate development practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Development Environmental Compliance Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Development Environmental Compliance Specialist interviews to help you prepare and succeed.

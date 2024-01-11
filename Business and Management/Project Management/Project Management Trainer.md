@@ -2,6 +2,8 @@
 
 Welcome to the Project Management Trainer Interview Preparation ! This resource is designed to help you ace your Project Management Trainer interviews with confidence.
 
+A Project Management Trainer is a professional who specializes in teaching individuals and teams the skills and knowledge required to successfully manage projects. They play a crucial role in the field of business and management, specifically in project management. As a trainer, their primary responsibility is to deliver project management training programs to individuals at various levels of expertise, from beginners to advanced practitioners. They design and develop training materials, deliver engaging presentations, facilitate interactive workshops, and conduct assessments to evaluate the participants' understanding and progress. A Project Management Trainer also stays updated with the latest industry trends and best practices to ensure that their training programs are relevant and effective.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Project Management Trainer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Project Management Trainer interviews to help you prepare and succeed.

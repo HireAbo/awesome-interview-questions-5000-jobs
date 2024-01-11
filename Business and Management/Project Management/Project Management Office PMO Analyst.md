@@ -2,6 +2,8 @@
 
 Welcome to the Project Management Office (PMO) Analyst Interview Preparation ! This resource is designed to help you ace your Project Management Office (PMO) Analyst interviews with confidence.
 
+The Project Management Office (PMO) Analyst role is an integral part of a business and management team, specifically focusing on project management. This position involves supporting the PMO in planning, executing, and monitoring various projects within an organization. The PMO Analyst is responsible for analyzing project data, tracking project progress, and identifying potential risks or issues that may arise. They work closely with project managers, stakeholders, and other team members to ensure projects are delivered on time, within budget, and meet the desired objectives. Strong analytical skills, attention to detail, and excellent communication skills are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Project Management Office (PMO) Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Project Management Office (PMO) Analyst interviews to help you prepare and succeed.

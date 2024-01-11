@@ -2,6 +2,8 @@
 
 Welcome to the Musical Theater Actor Interview Preparation ! This resource is designed to help you ace your Musical Theater Actor interviews with confidence.
 
+A musical theater actor is a professional performer who specializes in acting, singing, and dancing in theatrical productions. They bring characters to life through their portrayal of scripted roles, showcasing their versatility and skill in multiple disciplines. These actors possess strong vocal abilities and often have extensive training in singing and musical performance. They are adept at conveying emotions through song and possess the ability to captivate audiences with their stage presence. Musical theater actors work closely with directors, choreographers, and fellow cast members to rehearse and perfect their performances. Their dedication and passion for the art form make them integral to the success of any musical production.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Musical Theater Actor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Musical Theater Actor interviews to help you prepare and succeed.

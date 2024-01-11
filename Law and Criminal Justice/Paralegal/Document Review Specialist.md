@@ -2,6 +2,8 @@
 
 Welcome to the Document Review Specialist Interview Preparation ! This resource is designed to help you ace your Document Review Specialist interviews with confidence.
 
+A Paralegal Document Review Specialist plays a crucial role in the field of Law and Criminal Justice. This job involves analyzing legal documents to ensure accuracy, consistency, and compliance with legal standards. These professionals are responsible for reviewing various types of documents, including contracts, pleadings, discovery materials, and evidence. They work closely with attorneys and legal teams to identify relevant information, summarize key points, and organize files for litigation purposes. Additionally, Paralegal Document Review Specialists may also assist in preparing legal briefs, conducting research, and coordinating case management activities. Their attention to detail, strong analytical skills, and understanding of legal procedures make them essential contributors to the legal process.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Document Review Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Document Review Specialist interviews to help you prepare and succeed.

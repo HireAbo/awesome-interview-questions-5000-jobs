@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Chemist Interview Preparation ! This resource is designed to help you ace your Environmental Chemist interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that explores the interaction between agriculture, the environment, and sustainable development. It focuses on finding innovative solutions to address environmental challenges and promote the sustainable use of natural resources. Within this field, the role of an Environmental Chemist is vital. An Environmental Chemist specializes in studying the chemical processes and pollutants that impact our environment. They conduct research, analyze samples, and develop strategies to mitigate environmental pollution. Their work often involves assessing the impact of agricultural practices on soil and water quality, monitoring air pollution, and developing environmentally friendly solutions to agricultural challenges. Environmental Chemists play a crucial role in ensuring the sustainability of agricultural practices while preserving the health of our environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Chemist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Chemist interviews to help you prepare and succeed.

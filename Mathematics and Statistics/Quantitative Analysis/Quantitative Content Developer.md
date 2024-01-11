@@ -2,6 +2,8 @@
 
 Welcome to the Quantitative Content Developer Interview Preparation ! This resource is designed to help you ace your Quantitative Content Developer interviews with confidence.
 
+A Quantitative Content Developer is a professional responsible for creating and developing mathematical and statistical content for various purposes. They possess a deep understanding of both mathematics and statistics, and their role involves analyzing data, designing quantitative models, and developing algorithms. A Quantitative Content Developer is skilled in using software tools and programming languages to process and manipulate data. They are also proficient in interpreting complex mathematical concepts and translating them into clear and concise content for educational materials, research papers, or business reports. This role requires strong analytical and problem-solving skills, attention to detail, and the ability to effectively communicate quantitative information to a diverse audience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Quantitative Content Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Quantitative Content Developer interviews to help you prepare and succeed.

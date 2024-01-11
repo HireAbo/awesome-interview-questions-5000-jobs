@@ -2,6 +2,8 @@
 
 Welcome to the Astronomy Educator Interview Preparation ! This resource is designed to help you ace your Astronomy Educator interviews with confidence.
 
+An Astronomy Educator is a professional who specializes in teaching and educating others about the fascinating field of astronomy. This role involves creating and delivering engaging educational programs, lectures, and workshops to students, educators, and the general public. Astronomy Educators play a crucial role in inspiring and igniting curiosity about the universe, celestial objects, and the scientific methods used to study them. They are responsible for designing and implementing astronomy curricula, conducting research, and staying up-to-date with the latest discoveries in the field. Astronomy Educators also contribute to the advancement of scientific knowledge by mentoring and guiding aspiring astronomers and conducting outreach programs to promote scientific literacy.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Astronomy Educator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Astronomy Educator interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Research Chemist Interview Preparation ! This resource is designed to help you ace your Research Chemist interviews with confidence.
 
+A Research Chemist is a highly skilled professional who specializes in conducting scientific experiments and investigations in the field of Chemistry. They apply their extensive knowledge of chemical principles and techniques to develop new products, improve existing ones, or solve complex scientific problems. Research Chemists work in various industries such as pharmaceuticals, cosmetics, materials science, and environmental science. They design and carry out experiments, analyze data, and interpret results to make meaningful scientific contributions. Additionally, Research Chemists often collaborate with other scientists, engineers, and technicians to develop innovative solutions and contribute to the advancement of scientific knowledge in the field of Chemistry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Research Chemist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Research Chemist interviews to help you prepare and succeed.

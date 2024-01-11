@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Educator Interview Preparation ! This resource is designed to help you ace your Environmental Educator interviews with confidence.
 
+An Environmental Educator job in the field of Agriculture and Environmental Science involves promoting awareness and understanding of environmental issues among individuals and communities. These professionals play a crucial role in educating and inspiring people to adopt sustainable practices and conserve natural resources. They design and deliver educational programs, workshops, and seminars to schools, organizations, and the general public. Environmental Educators also collaborate with farmers, policymakers, and stakeholders to develop strategies for sustainable agriculture practices and environmental conservation. They may conduct research, collect and analyze data, and develop educational materials to enhance environmental awareness and promote a more sustainable and eco-friendly future.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Educator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Educator interviews to help you prepare and succeed.

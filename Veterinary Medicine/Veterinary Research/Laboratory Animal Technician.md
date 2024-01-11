@@ -2,6 +2,8 @@
 
 Welcome to the Laboratory Animal Technician Interview Preparation ! This resource is designed to help you ace your Laboratory Animal Technician interviews with confidence.
 
+A Veterinary Research Laboratory Animal Technician plays a crucial role in veterinary medicine by supporting important research activities. These professionals are responsible for the care and well-being of laboratory animals used in scientific experiments. They ensure that animals receive proper food, water, and shelter, and also monitor their health and behavior. Laboratory Animal Technicians assist in handling and restraining animals during procedures, administer medications, and collect specimens for testing. Additionally, they maintain accurate records and collaborate with veterinary researchers, scientists, and other team members to ensure the smooth operation of research projects. Their dedication and expertise contribute significantly to advancements in veterinary medicine and the overall welfare of animals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Laboratory Animal Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Laboratory Animal Technician interviews to help you prepare and succeed.

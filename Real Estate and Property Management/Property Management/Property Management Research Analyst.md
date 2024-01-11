@@ -2,6 +2,8 @@
 
 Welcome to the Property Management Research Analyst Interview Preparation ! This resource is designed to help you ace your Property Management Research Analyst interviews with confidence.
 
+A Property Management Research Analyst is a vital role in the real estate and property management industry. This professional is responsible for conducting detailed research and analysis of various properties, market trends, and industry data. They gather and assess information such as rental rates, vacancy rates, property values, and economic indicators to provide valuable insights and recommendations to property management teams. The Analyst plays a crucial role in identifying investment opportunities, evaluating property performance, and making strategic decisions. They use their analytical skills and knowledge of the market to help property management companies maximize their profits, optimize property portfolios, and achieve their business objectives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Property Management Research Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Property Management Research Analyst interviews to help you prepare and succeed.

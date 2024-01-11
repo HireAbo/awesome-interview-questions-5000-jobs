@@ -2,6 +2,8 @@
 
 Welcome to the Security Operations Center (SOC) Analyst Interview Preparation ! This resource is designed to help you ace your Security Operations Center (SOC) Analyst interviews with confidence.
 
+The field of Information Technology (IT) revolves around the management and utilization of computer systems, networks, and software to store, process, transmit, and retrieve information. Within IT, Cybersecurity plays a critical role in safeguarding digital assets from unauthorized access, data breaches, and cyber threats. A Security Operations Center (SOC) Analyst is a dedicated professional responsible for monitoring, detecting, and responding to potential security incidents. They analyze security logs, investigate alerts, and develop strategies to enhance security measures. SOC Analysts also collaborate with other IT teams to implement preventive measures and ensure the overall integrity and confidentiality of an organization's digital infrastructure.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Security Operations Center (SOC) Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Security Operations Center (SOC) Analyst interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Property Management Energy Efficiency Specialist Interview Preparation ! This resource is designed to help you ace your Property Management Energy Efficiency Specialist interviews with confidence.
 
+The role of a Property Management Energy Efficiency Specialist within the real estate and property management industry is to focus on optimizing energy efficiency and sustainability practices in residential, commercial, and industrial properties. These specialists play a crucial role in reducing energy consumption, lowering operational costs, and promoting environmental stewardship. They conduct energy audits, identify areas for improvement, and implement energy-efficient solutions such as installing renewable energy systems, upgrading insulation, and utilizing smart technology. Property Management Energy Efficiency Specialists also educate property owners, tenants, and staff on energy-saving practices and provide guidance on energy-related regulations and incentives. Ultimately, their goal is to create sustainable and cost-effective properties while reducing the environmental impact.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Property Management Energy Efficiency Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Property Management Energy Efficiency Specialist interviews to help you prepare and succeed.

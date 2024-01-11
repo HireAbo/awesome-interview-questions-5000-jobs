@@ -2,6 +2,8 @@
 
 Welcome to the Digital Archivist Interview Preparation ! This resource is designed to help you ace your Digital Archivist interviews with confidence.
 
+Library and Information Science is a field that encompasses the organization, management, and preservation of information resources. Within this field, the role of a Digital Archivist is becoming increasingly vital. As an archivist, their main responsibility is to collect, preserve, and provide access to digital records and other digital materials. They work closely with libraries, museums, government agencies, and other organizations to ensure the long-term preservation of valuable digital content. Digital Archivists utilize various archival software and technologies to manage and organize digital collections, ensuring that they are easily searchable and accessible to users. They also play a crucial role in maintaining data integrity, digitizing physical materials, and implementing effective digital preservation strategies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Digital Archivist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Digital Archivist interviews to help you prepare and succeed.

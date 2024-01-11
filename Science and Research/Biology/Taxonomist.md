@@ -2,6 +2,8 @@
 
 Welcome to the Taxonomist Interview Preparation ! This resource is designed to help you ace your Taxonomist interviews with confidence.
 
+A taxonomist is a professional in the field of biology who specializes in classifying and categorizing organisms based on their characteristics. They play a crucial role in understanding the diversity of life on Earth and how different species are related to each other. Taxonomists use various scientific techniques, such as DNA analysis and morphological studies, to identify and classify organisms into different taxonomic groups. They contribute to scientific research by providing a systematic framework for organizing and naming species. Taxonomists also play a vital role in conservation efforts as their work helps in identifying rare and endangered species, aiding in their protection and preservation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Taxonomist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Taxonomist interviews to help you prepare and succeed.

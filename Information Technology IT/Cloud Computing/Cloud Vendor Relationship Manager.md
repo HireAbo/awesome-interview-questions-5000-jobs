@@ -2,6 +2,8 @@
 
 Welcome to the Cloud Vendor Relationship Manager Interview Preparation ! This resource is designed to help you ace your Cloud Vendor Relationship Manager interviews with confidence.
 
+The role of a Cloud Vendor Relationship Manager within the field of Information Technology (IT) is to oversee the relationship between a company and its cloud service providers. This job entails managing vendor contracts, negotiating terms, and ensuring that both parties adhere to agreed-upon service level agreements. The Cloud Vendor Relationship Manager is responsible for evaluating the performance of cloud vendors, identifying areas for improvement, and implementing strategies to optimize cloud services and reduce costs. They also act as a liaison between the company and cloud vendors, addressing any issues or concerns that may arise. This role requires strong communication, negotiation, and analytical skills to ensure a successful partnership between the company and its cloud service providers.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cloud Vendor Relationship Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cloud Vendor Relationship Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Special Education Consultant Interview Preparation ! This resource is designed to help you ace your Special Education Consultant interviews with confidence.
 
+A Special Education Consultant is a professional who specializes in providing support and guidance to educators, parents, and schools in the field of special education. Their primary role is to assess the unique needs of students with disabilities and develop individualized education programs (IEPs) to address their specific learning requirements. Special Education Consultants collaborate with teachers and other professionals to create inclusive classroom environments and provide strategies and resources to enhance the educational experience of students with disabilities. They also offer training and professional development sessions to educators to ensure they have the necessary skills and knowledge to effectively support students with special needs. Special Education Consultants play a crucial role in promoting inclusive education and ensuring that every student has access to quality education.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Special Education Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Special Education Consultant interviews to help you prepare and succeed.

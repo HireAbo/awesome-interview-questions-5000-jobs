@@ -2,6 +2,8 @@
 
 Welcome to the Nuclear Engineer Interview Preparation ! This resource is designed to help you ace your Nuclear Engineer interviews with confidence.
 
+A Nuclear Engineer specializes in the research, development, and operation of nuclear energy systems. They play a crucial role in designing and maintaining nuclear power plants, ensuring their safe and efficient operation. These professionals work on various aspects of nuclear energy, including reactor design, radiation protection, nuclear waste management, and nuclear fuel production. They conduct extensive research to improve the performance and safety of nuclear reactors, develop solutions to challenges, and implement advanced technologies. Nuclear Engineers also collaborate with other professionals, such as physicists and technicians, to analyze data, troubleshoot issues, and ensure compliance with regulatory standards. Their expertise is essential in harnessing nuclear energy for power generation while minimizing environmental risks.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nuclear Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nuclear Engineer interviews to help you prepare and succeed.

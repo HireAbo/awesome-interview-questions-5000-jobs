@@ -2,6 +2,8 @@
 
 Welcome to the E-commerce Entrepreneur Interview Preparation ! This resource is designed to help you ace your E-commerce Entrepreneur interviews with confidence.
 
+An E-commerce Entrepreneur is an individual who establishes and manages an online business. This job role involves utilizing digital platforms to sell products or services, utilizing technology to optimize business operations and reach a wider customer base. E-commerce entrepreneurs are responsible for developing and implementing strategies to drive online sales, create marketing campaigns, manage inventory, and ensure customer satisfaction. They need to stay updated with market trends, identify opportunities, and adapt their business accordingly. E-commerce entrepreneurs often work in fast-paced environments, requiring strong leadership skills, decision-making abilities, and a deep understanding of online marketing, customer behavior, and technology.
+
 ## 🚀 Overview
 
 Whether you're a seasoned E-commerce Entrepreneur or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in E-commerce Entrepreneur interviews to help you prepare and succeed.

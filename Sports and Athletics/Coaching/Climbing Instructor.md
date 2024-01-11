@@ -2,6 +2,8 @@
 
 Welcome to the Climbing Instructor Interview Preparation ! This resource is designed to help you ace your Climbing Instructor interviews with confidence.
 
+A Climbing Instructor job in the field of Sports and Athletics Coaching involves guiding and teaching individuals or groups in the sport of climbing. Climbing instructors are responsible for providing expert instruction on climbing techniques, safety measures, and equipment usage. They create lesson plans and training programs tailored to the needs and abilities of their clients, ensuring that they develop the necessary skills and confidence to climb safely and effectively. Climbing instructors may work in various settings, including indoor climbing gyms, outdoor climbing walls, or natural rock formations. This role requires strong communication and interpersonal skills, as well as a deep understanding of climbing techniques and safety protocols.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Climbing Instructor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Climbing Instructor interviews to help you prepare and succeed.

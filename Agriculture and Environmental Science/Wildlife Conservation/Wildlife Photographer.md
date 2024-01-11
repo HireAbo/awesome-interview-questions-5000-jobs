@@ -2,6 +2,12 @@
 
 Welcome to the Wildlife Photographer Interview Preparation ! This resource is designed to help you ace your Wildlife Photographer interviews with confidence.
 
+Agriculture and Environmental Science is an interdisciplinary field that focuses on understanding the relationship between agriculture, the environment, and sustainability. It encompasses various aspects such as soil health, water management, biodiversity, and climate change. This field plays a crucial role in ensuring food security, protecting natural resources, and promoting sustainable farming practices.
+
+Within the realm of environmental science, wildlife conservation is a vital component that aims to protect and preserve various species and their habitats. Wildlife conservationists work to prevent species extinction, restore ecosystems, and promote sustainable management of natural resources.
+
+Wildlife photographers, on the other hand, have a unique job of capturing the beauty and diversity of wildlife through their lenses. They document the behavior, habitat, and interactions of different species, contributing to conservation efforts by raising awareness and appreciation for the natural world. Their work often involves traveling to remote locations and spending long hours in the field, patiently waiting for the perfect shot. Wildlife photographers play a crucial role in promoting wildlife conservation by showcasing the wonders of the natural world and inspiring action to protect it.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Photographer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Photographer interviews to help you prepare and succeed.

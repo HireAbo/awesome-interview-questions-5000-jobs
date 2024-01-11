@@ -2,6 +2,8 @@
 
 Welcome to the Bankruptcy Specialist Interview Preparation ! This resource is designed to help you ace your Bankruptcy Specialist interviews with confidence.
 
+A Paralegal specializing in Bankruptcy plays a crucial role in the field of Law and Criminal Justice. This specialized role focuses on assisting attorneys and clients in navigating the complex realm of bankruptcy law. As a Bankruptcy Specialist, the paralegal is responsible for conducting extensive research, drafting legal documents, organizing case files, and maintaining effective communication with clients. They are also involved in preparing bankruptcy petitions, schedules, and statements, ensuring accuracy and compliance. Additionally, Bankruptcy Specialists may gather and analyze financial data, assist in negotiations with creditors, and provide support during court hearings. Their expertise in bankruptcy law is invaluable in helping individuals and businesses through this challenging legal process.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Bankruptcy Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Bankruptcy Specialist interviews to help you prepare and succeed.

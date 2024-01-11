@@ -2,6 +2,8 @@
 
 Welcome to the Clinical Research Nurse Interview Preparation ! This resource is designed to help you ace your Clinical Research Nurse interviews with confidence.
 
+A Clinical Research Nurse plays a crucial role in the field of healthcare and medicine, specifically in medical research. These professionals are responsible for conducting and managing clinical trials and research studies, ensuring that all protocols and ethical guidelines are followed. They collaborate with physicians, researchers, and other healthcare professionals to collect and analyze data, administer treatments, and monitor patients' progress during clinical trials. Clinical Research Nurses also provide education and support to patients and their families, ensuring their understanding and cooperation throughout the research process. Their expertise contributes to the advancement of medical knowledge and the development of new treatments, ultimately improving patient care and outcomes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Clinical Research Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Clinical Research Nurse interviews to help you prepare and succeed.

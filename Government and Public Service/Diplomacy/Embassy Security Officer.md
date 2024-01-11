@@ -2,6 +2,12 @@
 
 Welcome to the Embassy Security Officer Interview Preparation ! This resource is designed to help you ace your Embassy Security Officer interviews with confidence.
 
+Government and Public Service play a vital role in maintaining peace, security, and fostering international relations. Within the realm of diplomacy, Embassy Security Officers are instrumental in ensuring the safety and protection of their respective country's diplomatic missions abroad. 
+
+Embassy Security Officers are responsible for safeguarding the embassy premises, personnel, and sensitive information from potential threats. They conduct regular security assessments, implement security protocols, and coordinate with local law enforcement agencies to mitigate risks. These professionals are trained in various security measures, emergency response procedures, and surveillance techniques. They also collaborate with other embassy staff to assist in visa processing, consular services, and facilitate diplomatic engagements.
+
+Embassy Security Officers must possess excellent communication skills, cultural sensitivity, and a strong sense of responsibility. Their dedication to upholding the national interest and willingness to navigate complex and challenging situations make them invaluable assets in promoting international dialogue and maintaining diplomatic relations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Embassy Security Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Embassy Security Officer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Software Development Consultant Interview Preparation ! This resource is designed to help you ace your Software Development Consultant interviews with confidence.
 
+A Software Development Consultant is a professional who specializes in helping organizations improve their software development processes and technologies. They are responsible for analyzing the client's business requirements, identifying gaps in the existing software system, and providing recommendations for improvement. Software Development Consultants work closely with the client's IT team to develop and implement software solutions that meet their specific needs. They have a deep understanding of software development methodologies, programming languages, and best practices. Additionally, they possess excellent problem-solving and communication skills to effectively interact with clients and translate their requirements into technical solutions. Software Development Consultants play a crucial role in driving innovation and efficiency in software development projects.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Software Development Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Software Development Consultant interviews to help you prepare and succeed.

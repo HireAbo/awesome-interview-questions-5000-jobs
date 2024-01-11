@@ -2,6 +2,8 @@
 
 Welcome to the Zoo Veterinarian Interview Preparation ! This resource is designed to help you ace your Zoo Veterinarian interviews with confidence.
 
+Veterinary medicine is a specialized field that focuses on the health and well-being of animals. It encompasses a wide range of medical practices and treatments aimed at diagnosing, preventing, and curing diseases and injuries in animals. One fascinating area within veterinary medicine is zoo veterinary medicine. Zoo veterinarians are responsible for the healthcare of animals in zoos and wildlife parks. They play a crucial role in ensuring the overall welfare and conservation of these animals. This job involves conducting regular check-ups, administering vaccinations, performing surgeries, and collaborating with other professionals to develop appropriate care plans. Zoo veterinarians serve as advocates for exotic and endangered species, striving to maintain their health and preserve their populations for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Zoo Veterinarian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Zoo Veterinarian interviews to help you prepare and succeed.

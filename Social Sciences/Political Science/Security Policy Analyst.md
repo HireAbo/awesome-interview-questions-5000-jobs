@@ -2,6 +2,8 @@
 
 Welcome to the Security Policy Analyst Interview Preparation ! This resource is designed to help you ace your Security Policy Analyst interviews with confidence.
 
+A Security Policy Analyst job within the field of Political Science focuses on studying and analyzing various aspects of national and international security policies. These professionals play a crucial role in evaluating the effectiveness of policies and strategies implemented by governments and organizations to ensure the safety and protection of citizens and resources. Security Policy Analysts conduct extensive research, collect and analyze data, and provide recommendations to policymakers based on their findings. They monitor global security trends, assess potential threats, and propose strategies to mitigate risks. A strong understanding of political dynamics, international relations, and the ability to think critically are essential skills for individuals pursuing a career in this field.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Security Policy Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Security Policy Analyst interviews to help you prepare and succeed.

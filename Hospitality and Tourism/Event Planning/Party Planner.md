@@ -2,6 +2,8 @@
 
 Welcome to the Party Planner Interview Preparation ! This resource is designed to help you ace your Party Planner interviews with confidence.
 
+A Party Planner is an integral part of the Hospitality and Tourism industry, specifically the Event Planning sector. This job entails organizing and coordinating various aspects of parties or events to ensure a successful and memorable experience for clients. A Party Planner is responsible for understanding clients' preferences and requirements, suggesting suitable venues, managing budgets, arranging decorations, coordinating vendors, and overseeing the smooth execution of the event. This role requires excellent organizational and communication skills, attention to detail, creativity, and the ability to handle multiple tasks simultaneously. A Party Planner plays a crucial role in creating unforgettable experiences and ensuring clients' satisfaction in the realm of hospitality and tourism.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Party Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Party Planner interviews to help you prepare and succeed.

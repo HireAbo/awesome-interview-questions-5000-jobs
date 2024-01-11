@@ -2,6 +2,8 @@
 
 Welcome to the Cardiologist Interview Preparation ! This resource is designed to help you ace your Cardiologist interviews with confidence.
 
+A cardiologist is a specialized medical professional who focuses on diagnosing and treating diseases and disorders related to the heart and cardiovascular system. They play a crucial role in preventing, managing, and treating various heart conditions. Cardiologists are highly trained in assessing patients' symptoms, performing diagnostic tests, interpreting results, and providing appropriate treatment plans. They may prescribe medications, perform procedures such as angioplasty or stent placement, and offer lifestyle recommendations to improve heart health. Cardiologists often work closely with other healthcare professionals, such as cardiac surgeons and primary care physicians, to provide comprehensive care to patients with heart-related issues. Their expertise and dedication contribute significantly to improving patients' quality of life and reducing the burden of cardiovascular diseases.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cardiologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cardiologist interviews to help you prepare and succeed.

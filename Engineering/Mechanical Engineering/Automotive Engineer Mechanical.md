@@ -2,6 +2,8 @@
 
 Welcome to the Automotive Engineer (Mechanical) Interview Preparation ! This resource is designed to help you ace your Automotive Engineer (Mechanical) interviews with confidence.
 
+Automotive engineering is a specialized field within mechanical engineering that focuses on the design, development, and production of vehicles. As an automotive engineer, you will be responsible for creating and improving various automotive components and systems, such as engines, transmissions, suspension systems, and electrical systems. You will work closely with design teams to develop efficient and reliable automotive solutions while considering factors like safety, fuel efficiency, and environmental impact. Automotive engineers also conduct tests and simulations to ensure the performance and durability of vehicles. This challenging and dynamic profession requires a strong understanding of mechanical principles, problem-solving skills, and a passion for automobiles.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Automotive Engineer (Mechanical) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Automotive Engineer (Mechanical) interviews to help you prepare and succeed.

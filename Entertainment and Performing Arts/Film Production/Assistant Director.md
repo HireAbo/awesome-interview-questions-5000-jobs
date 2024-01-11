@@ -2,6 +2,8 @@
 
 Welcome to the Assistant Director Interview Preparation ! This resource is designed to help you ace your Assistant Director interviews with confidence.
 
+The role of an Assistant Director in the field of film production is crucial to the successful execution of a project. As the right-hand person to the Director, they play a significant role in overseeing various aspects of production. Their responsibilities include coordinating and scheduling the daily activities on set, managing the cast and crew, ensuring the smooth flow of operations, and overseeing safety protocols. Assistant Directors also collaborate closely with other departments such as cinematography, production design, and post-production to ensure the Director's vision is realized. With their organizational skills, attention to detail, and ability to work under pressure, Assistant Directors contribute greatly to the overall success of a film production.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Assistant Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Assistant Director interviews to help you prepare and succeed.

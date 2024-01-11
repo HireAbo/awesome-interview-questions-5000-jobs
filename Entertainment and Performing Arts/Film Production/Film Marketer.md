@@ -2,6 +2,8 @@
 
 Welcome to the Film Marketer Interview Preparation ! This resource is designed to help you ace your Film Marketer interviews with confidence.
 
+A Film Marketer plays a crucial role in the world of entertainment and performing arts, specifically in the field of film production. This job involves promoting and marketing films to ensure their success in the market. Film marketers are responsible for creating effective marketing strategies to reach the target audience and generate buzz around a film. They analyze market trends, conduct market research, and develop campaigns that captivate and engage potential viewers. In collaboration with the film's production team, they determine the film's target audience, develop promotional materials, and coordinate advertising efforts across various platforms. A Film Marketer's ultimate goal is to drive ticket sales, increase viewership, and contribute to the overall success of a film.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Film Marketer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Film Marketer interviews to help you prepare and succeed.

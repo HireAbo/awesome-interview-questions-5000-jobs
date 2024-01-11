@@ -2,6 +2,8 @@
 
 Welcome to the Energy Efficiency Engineer Interview Preparation ! This resource is designed to help you ace your Energy Efficiency Engineer interviews with confidence.
 
+An Energy Efficiency Engineer is a professional who specializes in designing and implementing energy-efficient solutions to reduce energy consumption and improve overall performance in various sectors such as residential, commercial, and industrial. They are responsible for conducting energy audits, analyzing energy data, identifying areas of improvement, and developing strategies to optimize energy usage. These engineers work closely with clients, contractors, and other professionals to ensure that energy-saving measures are implemented effectively. They also stay updated with the latest technologies and industry standards to provide innovative solutions and recommendations for energy efficiency. Energy Efficiency Engineers play a crucial role in promoting sustainability, reducing carbon footprint, and achieving cost savings for organizations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Energy Efficiency Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Energy Efficiency Engineer interviews to help you prepare and succeed.

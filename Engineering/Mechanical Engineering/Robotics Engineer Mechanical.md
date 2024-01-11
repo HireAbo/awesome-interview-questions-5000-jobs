@@ -2,6 +2,8 @@
 
 Welcome to the Robotics Engineer (Mechanical) Interview Preparation ! This resource is designed to help you ace your Robotics Engineer (Mechanical) interviews with confidence.
 
+A Robotics Engineer (Mechanical) is a specialized professional within the field of mechanical engineering who focuses on designing, developing, and maintaining robots and robotic systems. These engineers play a vital role in the advancement of automation and artificial intelligence technologies. They are responsible for creating innovative mechanical designs and ensuring the efficient functioning of robots in various industries such as manufacturing, healthcare, and aerospace. Their tasks may include designing robot components, conducting feasibility studies, programming robotic systems, and troubleshooting mechanical issues. Robotics Engineers (Mechanical) also collaborate with other engineers and professionals to integrate mechanical systems with electrical and software components, ensuring the seamless operation of robotic technology.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Robotics Engineer (Mechanical) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Robotics Engineer (Mechanical) interviews to help you prepare and succeed.

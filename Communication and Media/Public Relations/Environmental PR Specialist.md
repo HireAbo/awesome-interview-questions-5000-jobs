@@ -2,6 +2,8 @@
 
 Welcome to the Environmental PR Specialist Interview Preparation ! This resource is designed to help you ace your Environmental PR Specialist interviews with confidence.
 
+An Environmental PR Specialist is a professional responsible for managing communications between an organization or client and the public, specifically in relation to environmental issues. This role requires a deep understanding of public relations strategies, environmental policies, and sustainability practices. The Environmental PR Specialist plays a crucial role in shaping public perception, building positive relationships with stakeholders, and promoting environmentally friendly initiatives. They develop and implement effective communication campaigns, create engaging content, coordinate media relations, and organize events to raise awareness about environmental concerns. This job demands strong interpersonal skills, environmental knowledge, and a passion for driving positive change in the world through effective communication.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental PR Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental PR Specialist interviews to help you prepare and succeed.

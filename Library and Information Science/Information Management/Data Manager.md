@@ -2,6 +2,8 @@
 
 Welcome to the Data Manager Interview Preparation ! This resource is designed to help you ace your Data Manager interviews with confidence.
 
+Library and Information Science (LIS) is an interdisciplinary field that focuses on the organization, retrieval, and management of information in various formats. Within LIS, Information Management is a specialized area that deals with the strategic planning, implementation, and control of information resources to meet organizational goals. One crucial role within Information Management is that of a Data Manager. A Data Manager is responsible for overseeing the collection, storage, and analysis of data to ensure its accuracy, security, and accessibility. They develop and maintain data management policies, procedures, and systems, collaborate with stakeholders to identify data needs, and work towards improving data quality and integrity. A successful Data Manager possesses strong analytical skills, attention to detail, and a deep understanding of information systems and technology.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Manager interviews to help you prepare and succeed.

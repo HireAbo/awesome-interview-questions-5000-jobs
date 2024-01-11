@@ -2,6 +2,8 @@
 
 Welcome to the Aviation PR Specialist Interview Preparation ! This resource is designed to help you ace your Aviation PR Specialist interviews with confidence.
 
+An Aviation PR Specialist is a professional responsible for managing the communication and media aspects in the aviation industry. They play a crucial role in building and maintaining a positive public image for airlines, airports, and other aviation-related organizations. These specialists utilize their expertise in public relations to develop effective communication strategies, handle crisis situations, and enhance the reputation of their clients. They work closely with media outlets, journalists, and key stakeholders to ensure the dissemination of accurate and timely information. An Aviation PR Specialist must possess excellent communication skills, a deep understanding of the aviation industry, and the ability to navigate complex and fast-paced environments.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Aviation PR Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Aviation PR Specialist interviews to help you prepare and succeed.

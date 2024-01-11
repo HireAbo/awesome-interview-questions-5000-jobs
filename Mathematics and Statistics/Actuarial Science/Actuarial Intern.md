@@ -2,6 +2,8 @@
 
 Welcome to the Actuarial Intern Interview Preparation ! This resource is designed to help you ace your Actuarial Intern interviews with confidence.
 
+Mathematics and Statistics are disciplines that involve analyzing and interpreting numerical data. They provide the foundation for Actuarial Science, a field focused on assessing and managing risk in the insurance and financial industries. Actuaries utilize their mathematical and statistical skills to analyze data, develop models, and make predictions on various factors that affect insurance policies and financial outcomes. Actuarial Interns are individuals who assist and learn from experienced actuaries in their day-to-day tasks. This includes gathering and analyzing data, assisting in the development of statistical models, and contributing to the overall evaluation of risk. Actuarial Interns gain valuable hands-on experience in a field that requires a strong mathematical background and critical thinking skills.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Actuarial Intern or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Actuarial Intern interviews to help you prepare and succeed.

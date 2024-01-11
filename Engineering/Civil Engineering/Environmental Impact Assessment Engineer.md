@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Impact Assessment Engineer Interview Preparation ! This resource is designed to help you ace your Environmental Impact Assessment Engineer interviews with confidence.
 
+An Environmental Impact Assessment (EIA) Engineer is a professional in the field of Civil Engineering who specializes in evaluating and managing the potential environmental impacts of construction and development projects. They play a crucial role in ensuring that projects comply with environmental regulations and minimize their negative effects on the environment. EIA Engineers utilize their expertise to conduct thorough assessments, analyzing the potential impacts on air, water, soil, and biodiversity. They also propose mitigation measures to minimize adverse effects and develop strategies for sustainable development. EIA Engineers work closely with project teams, government agencies, and stakeholders to ensure environmental sustainability and promote responsible engineering practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Impact Assessment Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Impact Assessment Engineer interviews to help you prepare and succeed.

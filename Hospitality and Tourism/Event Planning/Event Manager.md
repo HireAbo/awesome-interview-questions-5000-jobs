@@ -2,6 +2,8 @@
 
 Welcome to the Event Manager Interview Preparation ! This resource is designed to help you ace your Event Manager interviews with confidence.
 
+Hospitality and Tourism Event Planning is a dynamic field that involves organizing and executing various events and functions within the hospitality and tourism industry. An Event Manager plays a crucial role in ensuring the smooth planning and execution of these events. They are responsible for coordinating all aspects of an event, from initial concept development to final implementation. This includes budgeting, venue selection, catering, logistics, and marketing. An Event Manager must possess excellent organizational and communication skills, as well as the ability to work under pressure and meet tight deadlines. They must also have a keen eye for detail and a passion for creating unforgettable experiences for guests.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Event Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Event Manager interviews to help you prepare and succeed.

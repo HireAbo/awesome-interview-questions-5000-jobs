@@ -2,6 +2,8 @@
 
 Welcome to the Farm Manager Interview Preparation ! This resource is designed to help you ace your Farm Manager interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on sustainable farming practices and the preservation of natural resources. Within this field, the Farm Manager job plays a crucial role in overseeing various aspects of agricultural operations. Farm Managers are responsible for planning, organizing, and coordinating farm activities to ensure optimal productivity and profitability. They supervise farm workers, manage livestock and crop production, implement efficient irrigation systems, and maintain machinery and equipment. Additionally, Farm Managers are also responsible for implementing environmentally friendly practices, such as crop rotation, organic farming methods, and soil conservation techniques, to minimize the impact on the environment and promote long-term sustainability in agriculture.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Farm Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Farm Manager interviews to help you prepare and succeed.

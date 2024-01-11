@@ -2,6 +2,8 @@
 
 Welcome to the Nutrition and Dietetics Specialist Interview Preparation ! This resource is designed to help you ace your Nutrition and Dietetics Specialist interviews with confidence.
 
+A Sports Medicine Nutrition and Dietetics Specialist is a professional who specializes in providing nutrition and dietary guidance to athletes and individuals involved in sports and athletics. They play a crucial role in optimizing performance, preventing injuries, and promoting overall health and well-being. These specialists work closely with athletes to develop personalized nutrition plans that meet their specific dietary needs and goals. They assess and monitor nutritional requirements, create meal plans, recommend appropriate supplements, and educate athletes on the importance of proper nutrition for optimal performance and recovery. Sports Medicine Nutrition and Dietetics Specialists also stay updated on the latest research and advancements in the field to provide evidence-based recommendations to their clients.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nutrition and Dietetics Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nutrition and Dietetics Specialist interviews to help you prepare and succeed.

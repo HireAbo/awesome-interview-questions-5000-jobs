@@ -2,6 +2,8 @@
 
 Welcome to the Dance Event Planner Interview Preparation ! This resource is designed to help you ace your Dance Event Planner interviews with confidence.
 
+A Dance Event Planner is a professional responsible for organizing and managing dance events and performances. This role involves coordinating all aspects of the event, from selecting the venue to managing logistics such as lighting, sound, costumes, and props. The Dance Event Planner works closely with dance companies, choreographers, and performers to ensure that their vision is executed flawlessly. They are responsible for budgeting, marketing, and promotion of the event to ensure its success. Attention to detail, strong organizational skills, and creativity are essential for this role. A Dance Event Planner plays a vital role in creating memorable experiences and promoting the art of dance to a wider audience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Dance Event Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Dance Event Planner interviews to help you prepare and succeed.

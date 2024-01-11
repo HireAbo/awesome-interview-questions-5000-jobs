@@ -2,6 +2,8 @@
 
 Welcome to the HR Specialist Interview Preparation ! This resource is designed to help you ace your HR Specialist interviews with confidence.
 
+The role of an HR Specialist in the field of Business and Management focuses on managing the human resources aspect of an organization. HR Specialists play a crucial role in ensuring the smooth functioning of a company by overseeing various HR functions. They are responsible for recruiting, hiring, and onboarding new employees, as well as managing employee relations, performance evaluations, and disciplinary actions. Additionally, HR Specialists handle employee benefits, compensation, and ensure compliance with labor laws and regulations. Their expertise lies in creating and implementing HR policies and procedures, resolving employee conflicts, and fostering a positive work environment. HR Specialists are essential in driving organizational success through effective management of a company's most valuable asset - its people.
+
 ## 🚀 Overview
 
 Whether you're a seasoned HR Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in HR Specialist interviews to help you prepare and succeed.

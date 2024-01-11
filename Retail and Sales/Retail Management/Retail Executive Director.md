@@ -2,6 +2,8 @@
 
 Welcome to the Retail Executive Director Interview Preparation ! This resource is designed to help you ace your Retail Executive Director interviews with confidence.
 
+A Retail Executive Director is a senior-level professional responsible for overseeing the overall operations and strategic direction of a retail organization. This role requires strong leadership skills, as well as a deep understanding of the retail industry and sales management. The Retail Executive Director is responsible for developing and implementing sales strategies, driving revenue growth, and ensuring the achievement of sales targets. They also oversee the recruitment, training, and performance management of the retail team, as well as establishing and maintaining relationships with key stakeholders. Additionally, a Retail Executive Director must possess excellent communication and negotiation skills to effectively manage vendor relationships and drive profitability.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Retail Executive Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Retail Executive Director interviews to help you prepare and succeed.

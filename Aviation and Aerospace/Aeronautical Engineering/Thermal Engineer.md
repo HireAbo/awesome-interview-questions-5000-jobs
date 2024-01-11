@@ -2,6 +2,8 @@
 
 Welcome to the Thermal Engineer Interview Preparation ! This resource is designed to help you ace your Thermal Engineer interviews with confidence.
 
+Aviation and Aerospace are dynamic industries that involve the design, development, and maintenance of aircraft and spacecraft. Aeronautical Engineering is a specialized field within this domain that focuses on the engineering aspects of aviation. Within this field, a Thermal Engineer plays a crucial role. A Thermal Engineer is responsible for the design and analysis of thermal systems within aircraft and spacecraft, ensuring optimal performance and safety. They are involved in the development of cooling and heating systems, as well as the management of temperature control in various components. Additionally, they conduct research and testing to improve thermal efficiency and address any issues related to heat transfer. A career as a Thermal Engineer in Aeronautical Engineering offers exciting opportunities to contribute to the advancement of aviation technology.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Thermal Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Thermal Engineer interviews to help you prepare and succeed.

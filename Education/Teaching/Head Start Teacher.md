@@ -2,6 +2,8 @@
 
 Welcome to the Head Start Teacher Interview Preparation ! This resource is designed to help you ace your Head Start Teacher interviews with confidence.
 
+A Head Start Teacher is a dedicated professional who plays a crucial role in early childhood education. As a Head Start Teacher, your primary responsibility is to create a nurturing and stimulating learning environment for preschool-aged children. You will develop and implement age-appropriate lesson plans, activities, and curriculum to foster the physical, emotional, cognitive, and social development of each child. Additionally, you will assess and monitor their progress, provide individualized attention, and collaborate with parents and other educators to ensure a comprehensive educational experience. This role requires excellent communication and interpersonal skills, as well as a passion for helping young children thrive and succeed in their educational journey.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Head Start Teacher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Head Start Teacher interviews to help you prepare and succeed.

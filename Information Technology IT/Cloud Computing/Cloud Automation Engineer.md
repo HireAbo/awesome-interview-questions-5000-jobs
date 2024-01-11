@@ -2,6 +2,8 @@
 
 Welcome to the Cloud Automation Engineer Interview Preparation ! This resource is designed to help you ace your Cloud Automation Engineer interviews with confidence.
 
+A Cloud Automation Engineer is a professional responsible for designing, implementing, and managing cloud-based solutions within an organization. They utilize their expertise in information technology (IT) and cloud computing to streamline and automate various processes in the cloud environment. Cloud Automation Engineers work closely with cross-functional teams to understand business requirements and develop automated solutions that enhance efficiency, scalability, and reliability. They are proficient in programming languages, infrastructure management tools, and cloud platforms to effectively optimize and maintain cloud resources. By leveraging their skills, Cloud Automation Engineers contribute to the seamless integration of cloud technologies, enabling businesses to achieve cost savings, enhanced performance, and increased productivity.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cloud Automation Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cloud Automation Engineer interviews to help you prepare and succeed.

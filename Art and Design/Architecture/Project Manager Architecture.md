@@ -2,6 +2,8 @@
 
 Welcome to the Project Manager (Architecture) Interview Preparation ! This resource is designed to help you ace your Project Manager (Architecture) interviews with confidence.
 
+A Project Manager in the field of Architecture plays a crucial role in overseeing the successful execution of architectural projects. They are responsible for coordinating and managing all aspects of a project from conception to completion, ensuring that it meets the client's requirements and expectations. A Project Manager collaborates closely with architects, engineers, contractors, and clients to develop project plans, budgets, and timelines. They oversee the procurement of materials, the hiring of subcontractors, and the coordination of construction activities. Additionally, they monitor the progress of the project, address any issues that arise, and ensure that the project is completed within the allotted time and budget, while maintaining the highest standards of design and functionality.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Project Manager (Architecture) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Project Manager (Architecture) interviews to help you prepare and succeed.

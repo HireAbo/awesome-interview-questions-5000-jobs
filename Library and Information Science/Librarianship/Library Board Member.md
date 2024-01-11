@@ -2,6 +2,8 @@
 
 Welcome to the Library Board Member Interview Preparation ! This resource is designed to help you ace your Library Board Member interviews with confidence.
 
+Library and Information Science (LIS) is a field that encompasses the study of library systems, information management, and the organization and dissemination of knowledge. One prominent career within LIS is librarianship, which involves managing library resources and providing information services to patrons. Librarians are responsible for cataloging materials, assisting users with research and reference inquiries, developing library programs, and promoting literacy. Another essential role within the realm of librarianship is that of a Library Board Member. A Library Board Member is a volunteer or appointed position that helps govern and oversee the operations of a library. They contribute their expertise in areas such as strategic planning, budgeting, policy development, and community outreach to ensure the library effectively serves the needs of its users.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Library Board Member or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Library Board Member interviews to help you prepare and succeed.

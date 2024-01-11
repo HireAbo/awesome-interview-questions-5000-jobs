@@ -2,6 +2,8 @@
 
 Welcome to the HR Consultant Interview Preparation ! This resource is designed to help you ace your HR Consultant interviews with confidence.
 
+The role of an HR Consultant is a critical one in the field of Business and Management, specifically in the Human Resources department. HR Consultants are professionals who provide specialized expertise and guidance to organizations in matters related to people management. They work closely with management teams to develop and implement HR strategies and policies that align with the overall business objectives. HR Consultants offer support in areas such as recruitment and selection, employee relations, performance management, training and development, compensation and benefits, and organizational development. They possess strong analytical and problem-solving skills, as well as excellent communication and interpersonal abilities to effectively work with diverse stakeholders and navigate complex organizational dynamics.
+
 ## 🚀 Overview
 
 Whether you're a seasoned HR Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in HR Consultant interviews to help you prepare and succeed.

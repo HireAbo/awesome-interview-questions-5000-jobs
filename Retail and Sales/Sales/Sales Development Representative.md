@@ -2,6 +2,8 @@
 
 Welcome to the Sales Development Representative Interview Preparation ! This resource is designed to help you ace your Sales Development Representative interviews with confidence.
 
+A Sales Development Representative (SDR) is an essential role within the retail and sales industry. SDRs focus on generating leads, qualifying prospects, and setting appointments for the sales team. They play a crucial role in driving revenue growth by identifying potential customers and nurturing relationships. SDRs are responsible for researching and identifying potential clients, making initial contact through various channels, such as phone calls and emails, and conducting introductory meetings to assess the client's needs. They must have excellent communication and persuasive skills, as well as a deep understanding of the company's products or services. SDRs are the frontline of the sales process, and their efforts contribute to the overall success of the sales team and the company.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sales Development Representative or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sales Development Representative interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Livestock Nutritionist Interview Preparation ! This resource is designed to help you ace your Livestock Nutritionist interviews with confidence.
 
+Agriculture and Environmental Science is a field that focuses on the study of farming practices, sustainable land management, and the impact of agriculture on the environment. Within this field, one specific job role is that of a Livestock Nutritionist. Livestock Nutritionists are responsible for formulating and implementing effective feeding programs for various types of livestock, such as cattle, poultry, and swine. They analyze the nutritional requirements of animals, evaluate the quality of feed, and develop diets that optimize animal health and productivity. Livestock Nutritionists also monitor animal growth, identify and solve nutritional problems, and provide guidance to farmers on improving feed management practices. Their work is critical in ensuring the well-being and efficient production of livestock within the agricultural industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Livestock Nutritionist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Livestock Nutritionist interviews to help you prepare and succeed.

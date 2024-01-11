@@ -2,6 +2,8 @@
 
 Welcome to the Art and Museum Archivist Interview Preparation ! This resource is designed to help you ace your Art and Museum Archivist interviews with confidence.
 
+Library and Information Science is a multidisciplinary field that focuses on the organization, management, and preservation of information resources. Within this field, archiving plays a crucial role in preserving cultural heritage and historical records. Art and Museum Archivists specialize in the preservation and documentation of artwork, artifacts, manuscripts, and other materials of cultural significance within museums and art institutions. These professionals ensure the proper storage, cataloging, and accessibility of these materials, facilitating research, exhibitions, and educational programs. Art and Museum Archivists also contribute to the conservation and restoration of artworks, collaborating with curators, conservators, and other experts to preserve and interpret cultural treasures for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Art and Museum Archivist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Art and Museum Archivist interviews to help you prepare and succeed.

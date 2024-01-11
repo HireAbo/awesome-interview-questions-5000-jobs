@@ -2,6 +2,8 @@
 
 Welcome to the Forensic Nurse Interview Preparation ! This resource is designed to help you ace your Forensic Nurse interviews with confidence.
 
+A forensic nurse plays a crucial role in the field of law and criminal justice, specifically within the realm of forensic science. Forensic nursing combines medical expertise with legal knowledge to assist in the investigation and prosecution of crimes. These specialized nurses are trained to collect and analyze evidence, provide medical care to victims of violence, and serve as expert witnesses in court proceedings. They work closely with law enforcement agencies, attorneys, and other healthcare professionals to ensure the accurate documentation and preservation of evidence. A forensic nurse’s expertise is vital in cases involving sexual assault, domestic violence, child abuse, and other violent crimes, as they provide compassionate care while helping to bring justice to victims.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forensic Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forensic Nurse interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Labor Organizer Interview Preparation ! This resource is designed to help you ace your Labor Organizer interviews with confidence.
 
+A labor organizer is an individual who works within the field of sociology, specifically in the area of social sciences. The primary goal of a labor organizer is to advocate for the rights and improved working conditions of employees. They play a crucial role in facilitating collective bargaining negotiations, organizing strikes, and mobilizing workers to fight for fair wages, benefits, and better working conditions. Labor organizers also conduct research to analyze and identify labor market trends, worker grievances, and systemic issues within industries. They collaborate with trade unions, community organizations, and policymakers to develop strategies and campaigns for social justice and workers' rights.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Labor Organizer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Labor Organizer interviews to help you prepare and succeed.

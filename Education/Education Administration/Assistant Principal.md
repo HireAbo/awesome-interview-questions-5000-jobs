@@ -2,6 +2,8 @@
 
 Welcome to the Assistant Principal Interview Preparation ! This resource is designed to help you ace your Assistant Principal interviews with confidence.
 
+The role of an Assistant Principal in Education Administration is crucial in supporting the overall functioning and success of a school. Assistant Principals work closely with the Principal to oversee various aspects such as curriculum development, student discipline, teacher evaluations, and school policies. They play a vital role in fostering a positive and effective learning environment for students, ensuring their safety and well-being. Assistant Principals also collaborate with teachers and staff to provide instructional support and professional development opportunities. With strong leadership, communication, and organizational skills, Assistant Principals contribute to the overall growth and improvement of the school, ultimately helping students succeed academically and socially.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Assistant Principal or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Assistant Principal interviews to help you prepare and succeed.

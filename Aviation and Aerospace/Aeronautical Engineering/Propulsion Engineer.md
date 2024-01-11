@@ -2,6 +2,8 @@
 
 Welcome to the Propulsion Engineer Interview Preparation ! This resource is designed to help you ace your Propulsion Engineer interviews with confidence.
 
+Aviation and Aerospace are fascinating fields that encompass the design, development, and operation of aircraft and spacecraft. Within Aeronautical Engineering, one specialized role is that of a Propulsion Engineer. These professionals play a crucial role in the creation and enhancement of propulsion systems, which are responsible for generating the thrust needed to propel aircraft and spacecraft through the air or space. Propulsion Engineers are involved in designing, testing, and optimizing engines, fuel systems, and related components. They work closely with a team of engineers and technicians to ensure the efficiency, safety, and performance of propulsion systems. This demanding job requires strong analytical and problem-solving skills, as well as a deep understanding of thermodynamics and fluid mechanics.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Propulsion Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Propulsion Engineer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Ship Agent Interview Preparation ! This resource is designed to help you ace your Ship Agent interviews with confidence.
 
+A ship agent plays a crucial role in the transportation and logistics industry, specifically in maritime operations. As a ship agent, their primary responsibility is to act as a liaison between the ship owners, charterers, and port authorities. They oversee and coordinate various tasks related to the arrival, departure, and stay of a ship in a port. This includes arranging for pilotage, tugs, and berthing, coordinating cargo operations, handling customs and immigration formalities, and ensuring compliance with safety and environmental regulations. Ship agents also assist in crew changes, bunkering, and provisioning. Their expertise in navigating complex port procedures and their ability to efficiently manage resources make them indispensable in ensuring smooth and efficient maritime operations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Ship Agent or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Ship Agent interviews to help you prepare and succeed.

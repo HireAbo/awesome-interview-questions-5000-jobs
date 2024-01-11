@@ -2,6 +2,8 @@
 
 Welcome to the Wrestling Coach Interview Preparation ! This resource is designed to help you ace your Wrestling Coach interviews with confidence.
 
+A Wrestling Coach is a skilled professional responsible for training and guiding athletes in the sport of wrestling. They play a crucial role in developing the physical and mental abilities of the wrestlers while also instilling discipline, teamwork, and sportsmanship. A Wrestling Coach designs and implements training programs, demonstrates techniques, and provides individualized feedback to improve the performance of each wrestler. They analyze opponents' strategies, develop game plans, and provide tactical instructions during matches. Additionally, a Wrestling Coach helps athletes maintain their physical fitness, prevent injuries, and develop a strong work ethic. They are passionate about the sport and dedicated to helping wrestlers achieve their full potential.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wrestling Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wrestling Coach interviews to help you prepare and succeed.

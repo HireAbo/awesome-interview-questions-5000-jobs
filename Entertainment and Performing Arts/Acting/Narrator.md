@@ -2,6 +2,8 @@
 
 Welcome to the Narrator Interview Preparation ! This resource is designed to help you ace your Narrator interviews with confidence.
 
+A narrator is a vital role in the field of entertainment and performing arts, specifically acting. As a narrator, the individual is responsible for bringing stories to life through their voice and delivery. They play a crucial part in various mediums, including film, television, radio, audiobooks, and even live performances. A narrator's job goes beyond simply reading a script; they must capture the audience's attention, evoke emotions, and create a captivating experience through their storytelling skills. With their ability to use tone, inflection, and timing, narrators have the power to transport listeners into different worlds and engage them in the narrative.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Narrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Narrator interviews to help you prepare and succeed.

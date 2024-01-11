@@ -2,6 +2,8 @@
 
 Welcome to the Alignment Technician Interview Preparation ! This resource is designed to help you ace your Alignment Technician interviews with confidence.
 
+An Alignment Technician is a skilled tradesperson who specializes in the field of auto mechanics. These professionals play a crucial role in ensuring the proper alignment of vehicles, which is essential for optimal performance and safety. Alignment Technicians work with sophisticated equipment to measure and adjust the angles of a vehicle's wheels, including camber, caster, and toe. They are responsible for diagnosing and correcting alignment issues, which may cause uneven tire wear, steering problems, or handling difficulties. In addition to technical expertise, Alignment Technicians possess a strong attention to detail, problem-solving abilities, and a commitment to providing exceptional customer service. Their expertise is vital in maintaining the longevity and efficiency of vehicles.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Alignment Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Alignment Technician interviews to help you prepare and succeed.

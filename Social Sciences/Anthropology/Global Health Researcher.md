@@ -2,6 +2,8 @@
 
 Welcome to the Global Health Researcher Interview Preparation ! This resource is designed to help you ace your Global Health Researcher interviews with confidence.
 
+A Global Health Researcher in Anthropology is a professional who investigates and analyzes the impact of social and cultural factors on health issues worldwide. This interdisciplinary field combines the knowledge and methods of anthropology, sociology, public health, and medicine to understand and address health disparities and promote global well-being. As a Global Health Researcher, one conducts research projects, collects and analyzes data, and collaborates with communities and healthcare professionals to develop interventions and policies that improve health outcomes. This role is crucial in identifying and addressing social determinants of health, such as poverty, gender inequality, and cultural practices, to create sustainable solutions for global health challenges.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Global Health Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Global Health Researcher interviews to help you prepare and succeed.

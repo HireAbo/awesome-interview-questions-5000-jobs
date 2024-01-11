@@ -2,6 +2,8 @@
 
 Welcome to the Public Policy Advisor Interview Preparation ! This resource is designed to help you ace your Public Policy Advisor interviews with confidence.
 
+Government and Public Service is a vital sector that focuses on the development and implementation of policies and programs for the betterment of society. It encompasses various roles, including that of a Public Policy Advisor. As a Public Policy Advisor, individuals play a crucial role in shaping government policies and strategies by providing expert advice and analysis. They conduct research, evaluate existing policies, and propose innovative solutions to address societal challenges. Public Policy Advisors collaborate with government officials, stakeholders, and the public to ensure that policies are effective, equitable, and responsive to the needs of the community. Their work requires a deep understanding of political, economic, and social dynamics to promote sustainable development and social welfare.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Public Policy Advisor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Public Policy Advisor interviews to help you prepare and succeed.

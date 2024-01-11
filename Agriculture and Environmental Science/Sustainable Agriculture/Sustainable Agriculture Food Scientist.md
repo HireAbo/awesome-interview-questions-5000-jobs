@@ -2,6 +2,8 @@
 
 Welcome to the Sustainable Agriculture Food Scientist Interview Preparation ! This resource is designed to help you ace your Sustainable Agriculture Food Scientist interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on the sustainable management of natural resources and the interaction between agriculture and the environment. Sustainable agriculture aims to meet the needs of present and future generations by balancing economic profitability, environmental stewardship, and social responsibility. Within this field, the role of a Sustainable Agriculture Food Scientist is crucial. These professionals work towards developing innovative farming techniques, ensuring food safety and quality, and minimizing the environmental impact of agricultural practices. They conduct research, analyze data, and collaborate with farmers and policymakers to promote sustainable food production systems that are both economically viable and environmentally friendly.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sustainable Agriculture Food Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sustainable Agriculture Food Scientist interviews to help you prepare and succeed.

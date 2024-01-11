@@ -2,6 +2,10 @@
 
 Welcome to the Pension Actuary Interview Preparation ! This resource is designed to help you ace your Pension Actuary interviews with confidence.
 
+Mathematics and Statistics are crucial fields that deal with the analysis, interpretation, and prediction of numerical data. Actuarial Science combines these disciplines to assess and manage financial risks, particularly in the insurance industry. A specific area within Actuarial Science is the role of a Pension Actuary. 
+
+Pension actuaries are experts who evaluate and design pension plans, ensuring their financial viability and sustainability. They use mathematical models and statistical analyses to estimate future pension liabilities, taking into account factors such as employee demographics, retirement trends, and investment returns. These professionals play a vital role in helping organizations create pension plans that meet legal requirements, provide sufficient retirement benefits, and manage financial risks. Pension actuaries are critical to ensuring the long-term financial security of employees and organizations alike.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Pension Actuary or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Pension Actuary interviews to help you prepare and succeed.

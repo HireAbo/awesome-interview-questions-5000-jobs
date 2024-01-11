@@ -2,6 +2,8 @@
 
 Welcome to the String Theorist Interview Preparation ! This resource is designed to help you ace your String Theorist interviews with confidence.
 
+A String Theorist is a professional who specializes in the field of physics, specifically in the study of string theory. String theory is a branch of theoretical physics that aims to unify the fundamental forces of nature by postulating that the basic building blocks of the universe are not point-like particles but tiny, one-dimensional strings. String theorists conduct extensive research to understand the intricate mathematical framework of string theory and its implications for the physical world. They use advanced mathematical techniques, computer simulations, and experimental data to develop and test models that can explain the complexities of the universe at both the macroscopic and microscopic levels. String theorists play a vital role in pushing the boundaries of scientific knowledge and shaping our understanding of the fundamental laws governing the universe.
+
 ## 🚀 Overview
 
 Whether you're a seasoned String Theorist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in String Theorist interviews to help you prepare and succeed.

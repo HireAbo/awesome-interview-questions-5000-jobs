@@ -2,6 +2,8 @@
 
 Welcome to the Production Designer Interview Preparation ! This resource is designed to help you ace your Production Designer interviews with confidence.
 
+A Production Designer is a crucial role within the film production industry. They are responsible for the overall visual concept and design of a film, ensuring that the director's vision is brought to life on screen. This includes designing and creating the sets, props, and costumes that will be used throughout the film. The Production Designer works closely with the director, cinematographer, and art department to establish the film's aesthetic and visual tone. They must possess a strong creative vision, excellent communication skills, and a deep understanding of storytelling through visuals. Their role is essential in creating a visually captivating and immersive film experience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Production Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Production Designer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Electrical Energy Engineer Interview Preparation ! This resource is designed to help you ace your Electrical Energy Engineer interviews with confidence.
 
+An Electrical Energy Engineer plays a crucial role in the field of Energy Engineering, specifically focusing on electrical energy systems. These professionals are responsible for designing, developing, and maintaining electrical power systems, ensuring their efficient operation and maximum utilization. They work closely with other engineers and technicians to analyze energy requirements, develop solutions for energy generation, transmission, and distribution, and implement effective strategies to improve energy efficiency. Electrical Energy Engineers also perform feasibility studies, conduct energy audits, and propose sustainable energy solutions. Their expertise is vital in addressing the increasing demand for clean and sustainable energy sources, making them essential in the ever-evolving energy and utilities sector.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Electrical Energy Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Electrical Energy Engineer interviews to help you prepare and succeed.

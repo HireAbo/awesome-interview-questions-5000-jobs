@@ -2,6 +2,8 @@
 
 Welcome to the Thermal Analysis Engineer Interview Preparation ! This resource is designed to help you ace your Thermal Analysis Engineer interviews with confidence.
 
+A Thermal Analysis Engineer in Aerospace Engineering is a specialist responsible for analyzing and evaluating the thermal performance of aircraft components and systems. With a focus on heat transfer, they ensure that aerospace systems operate within safe temperature limits and meet performance requirements. These professionals conduct advanced computer simulations and utilize specialized software to model and predict thermal behavior. They also design and recommend thermal management solutions to optimize performance and enhance efficiency. In addition, Thermal Analysis Engineers collaborate closely with other engineering teams to address thermal challenges and develop innovative solutions. Their expertise plays a vital role in ensuring the success and safety of aerospace projects.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Thermal Analysis Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Thermal Analysis Engineer interviews to help you prepare and succeed.

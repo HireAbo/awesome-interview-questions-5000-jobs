@@ -2,6 +2,8 @@
 
 Welcome to the Catering Manager Interview Preparation ! This resource is designed to help you ace your Catering Manager interviews with confidence.
 
+The role of a Catering Manager in the field of Hospitality and Tourism, specifically in Event Planning, is crucial in ensuring successful and memorable experiences for guests. As a Catering Manager, you will be responsible for overseeing all aspects of food and beverage services at events, including menu planning, budgeting, staffing, and logistics. You will collaborate with clients to understand their specific requirements and deliver exceptional catering services that exceed their expectations. This role demands excellent organizational skills, attention to detail, and the ability to work under pressure. As a Catering Manager, you will play a vital role in creating unforgettable dining experiences and contributing to the overall success of events in the hospitality and tourism industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Catering Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Catering Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Forest Biometrician Interview Preparation ! This resource is designed to help you ace your Forest Biometrician interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on sustainable practices to ensure the well-being of our planet. Within this field, Forestry is a specific branch that deals with the management and conservation of forests. A Forest Biometrician plays a crucial role in this domain, utilizing statistical analysis and mathematical modeling techniques to quantify and understand the growth, health, and overall dynamics of forest ecosystems. They collect data on tree characteristics, such as height, diameter, and age, and use this information to develop predictive models that aid in forest management decisions. Forest Biometricians are essential in ensuring the long-term sustainability and productivity of our forest resources.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forest Biometrician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forest Biometrician interviews to help you prepare and succeed.

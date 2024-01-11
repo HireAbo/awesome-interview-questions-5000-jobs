@@ -2,6 +2,8 @@
 
 Welcome to the Criminal Profiler Interview Preparation ! This resource is designed to help you ace your Criminal Profiler interviews with confidence.
 
+A Criminal Profiler is a key player in the field of Criminal Justice, specializing in understanding the mindset and behavior of criminals. This profession combines knowledge of psychology, criminology, and law enforcement to analyze and predict the actions of offenders. Criminal profilers work closely with law enforcement agencies to provide insights into unsolved crimes, helping to identify patterns, motives, and potential suspects. Through careful examination of crime scenes, victim profiles, and offender characteristics, these professionals create detailed profiles that assist in narrowing down the list of suspects and aiding investigations. Their work is crucial in solving complex crimes and ensuring justice is served.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Criminal Profiler or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Criminal Profiler interviews to help you prepare and succeed.

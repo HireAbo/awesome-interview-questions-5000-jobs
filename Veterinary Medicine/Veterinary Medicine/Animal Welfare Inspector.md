@@ -2,6 +2,8 @@
 
 Welcome to the Animal Welfare Inspector Interview Preparation ! This resource is designed to help you ace your Animal Welfare Inspector interviews with confidence.
 
+The field of Veterinary Medicine encompasses a wide range of professions aimed at ensuring the health and well-being of animals. One of the vital roles within this field is that of an Animal Welfare Inspector. These professionals play a crucial role in upholding and enforcing animal welfare laws and regulations. Animal Welfare Inspectors are responsible for conducting inspections and investigations to ensure compliance with animal welfare standards in various settings, such as farms, zoos, research facilities, and pet stores. They assess the living conditions, treatment, and overall welfare of animals, and may also provide guidance and education to animal owners and caretakers. Animal Welfare Inspectors work tirelessly to promote the ethical treatment of animals and safeguard their welfare.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Animal Welfare Inspector or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Animal Welfare Inspector interviews to help you prepare and succeed.

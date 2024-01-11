@@ -2,6 +2,8 @@
 
 Welcome to the Lead Actor Interview Preparation ! This resource is designed to help you ace your Lead Actor interviews with confidence.
 
+The Lead Actor job in the field of Entertainment and Performing Arts, specifically acting, is a highly coveted and prestigious role. It involves portraying the main character in a play, film, television show, or any other performance medium. The lead actor is responsible for bringing the character to life, captivating audiences with their talent and skill. They must possess exceptional acting abilities, versatility, and a deep understanding of character development. They work closely with directors, fellow actors, and production teams to deliver compelling performances that resonate with viewers. The Lead Actor job requires immense dedication, passion, and the ability to embody various emotions, personalities, and traits to create memorable and impactful performances.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Lead Actor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Lead Actor interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Senior Electrical Engineer Interview Preparation ! This resource is designed to help you ace your Senior Electrical Engineer interviews with confidence.
 
+A Senior Electrical Engineer is a highly skilled professional responsible for designing, developing, and maintaining electrical systems and components. They utilize their expertise in electrical engineering principles to solve complex problems and provide innovative solutions. This role involves collaborating with a team of engineers and technicians to ensure the successful implementation of electrical projects. Senior Electrical Engineers also play a crucial role in project management, overseeing the entire lifecycle of a project from concept to completion. They possess strong leadership and communication skills, as they may be required to mentor and guide junior engineers. A Senior Electrical Engineer is essential in ensuring the safe and efficient operation of electrical systems in various industries, including power generation, manufacturing, telecommunications, and transportation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Senior Electrical Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Senior Electrical Engineer interviews to help you prepare and succeed.

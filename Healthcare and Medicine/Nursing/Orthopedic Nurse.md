@@ -2,6 +2,8 @@
 
 Welcome to the Orthopedic Nurse Interview Preparation ! This resource is designed to help you ace your Orthopedic Nurse interviews with confidence.
 
+An Orthopedic Nurse is a specialized healthcare professional who focuses on providing care to patients with musculoskeletal disorders and injuries. These nurses play a crucial role in the field of healthcare and medicine, as they assist in diagnosing, treating, and managing orthopedic conditions. They work closely with orthopedic surgeons and other healthcare professionals to develop and implement care plans, administer medications, perform assessments, and educate patients on self-care techniques. Orthopedic nurses also assist in surgeries, including pre-operative and post-operative care, and provide support and guidance to patients throughout their recovery process. Their expertise and dedication contribute significantly to improving the quality of life for individuals with orthopedic conditions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Orthopedic Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Orthopedic Nurse interviews to help you prepare and succeed.

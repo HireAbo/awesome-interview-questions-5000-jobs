@@ -2,6 +2,8 @@
 
 Welcome to the Legal Librarian Interview Preparation ! This resource is designed to help you ace your Legal Librarian interviews with confidence.
 
+Law and Criminal Justice encompasses a vast field that includes various career opportunities such as becoming a Paralegal or a Legal Librarian. Paralegals play a crucial role in the legal system by assisting lawyers in conducting legal research, drafting legal documents, and organizing case files. They work closely with attorneys and clients to ensure the smooth operation of legal proceedings. On the other hand, Legal Librarians specialize in managing legal resources, providing access to legal information, and assisting legal professionals with research. They possess a deep understanding of legal databases, cataloging systems, and reference materials. Both careers require strong analytical skills, attention to detail, and a passion for the law.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Legal Librarian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Legal Librarian interviews to help you prepare and succeed.

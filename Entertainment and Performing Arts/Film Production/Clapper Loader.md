@@ -2,6 +2,8 @@
 
 Welcome to the Clapper Loader Interview Preparation ! This resource is designed to help you ace your Clapper Loader interviews with confidence.
 
+The role of a Clapper Loader in film production is vital to the success of capturing seamless and high-quality footage. As part of the camera department, the Clapper Loader is responsible for operating the clapperboard, also known as the slate, which marks the beginning and end of each shot. They assist the camera operator in setting up and maintaining camera equipment, loading film stock, and ensuring it is properly threaded. Additionally, they play a crucial role in keeping accurate records of shot details, such as scene numbers and takes. The Clapper Loader's precise and efficient work directly contributes to the smooth running of a film set and the overall success of the production.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Clapper Loader or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Clapper Loader interviews to help you prepare and succeed.

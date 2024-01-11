@@ -2,6 +2,8 @@
 
 Welcome to the Freight Broker Interview Preparation ! This resource is designed to help you ace your Freight Broker interviews with confidence.
 
+A Freight Broker in the Travel Services sector of Hospitality and Tourism plays a crucial role in facilitating the movement of goods and materials across various destinations. This job involves coordinating with shippers and carriers to ensure the efficient transportation of freight by land, air, or sea. Freight Brokers are responsible for negotiating rates, tracking shipments, and resolving any issues that may arise during transit. They must possess excellent communication and negotiation skills to establish and maintain relationships with clients and carriers. Attention to detail and the ability to work under pressure are essential traits for a successful Freight Broker in the Hospitality and Tourism industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Freight Broker or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Freight Broker interviews to help you prepare and succeed.

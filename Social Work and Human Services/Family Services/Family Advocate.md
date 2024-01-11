@@ -2,6 +2,8 @@
 
 Welcome to the Family Advocate Interview Preparation ! This resource is designed to help you ace your Family Advocate interviews with confidence.
 
+A Family Advocate is a vital professional in the field of Social Work and Human Services, specifically within Family Services. These dedicated individuals serve as a support system and advocate for families in need, aiming to improve their overall well-being and quality of life. Family Advocates work closely with families facing various challenges such as domestic violence, poverty, substance abuse, or child neglect. They provide emotional support, guidance, and resources to help families navigate through difficult situations. Their role also involves connecting families with community services, facilitating access to healthcare, education, and assisting in the development of parenting skills. With their compassionate nature and strong interpersonal skills, Family Advocates play a crucial role in promoting healthy family dynamics and fostering positive change.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Family Advocate or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Family Advocate interviews to help you prepare and succeed.

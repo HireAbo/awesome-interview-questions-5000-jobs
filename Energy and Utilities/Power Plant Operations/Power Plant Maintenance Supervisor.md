@@ -2,6 +2,8 @@
 
 Welcome to the Power Plant Maintenance Supervisor Interview Preparation ! This resource is designed to help you ace your Power Plant Maintenance Supervisor interviews with confidence.
 
+A Power Plant Maintenance Supervisor plays a crucial role in ensuring the smooth and efficient operation of power plants. They are responsible for supervising and coordinating the activities of maintenance workers to ensure that the plant's equipment, machinery, and systems are properly maintained and repaired. This includes overseeing routine inspections, identifying potential issues, and developing maintenance schedules. Power Plant Maintenance Supervisors also collaborate with other departments to implement safety protocols and ensure compliance with environmental regulations. They must possess strong technical knowledge of power plant operations and maintenance procedures, as well as excellent organizational and leadership skills to effectively manage a team and maintain the plant's reliability and performance.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Power Plant Maintenance Supervisor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Power Plant Maintenance Supervisor interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife Conservation Zootechnician Interview Preparation ! This resource is designed to help you ace your Wildlife Conservation Zootechnician interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on the sustainable management of natural resources and the conservation of the environment. It encompasses various aspects such as soil science, crop production, animal husbandry, and wildlife conservation. Wildlife Conservation is a branch of environmental science that specifically deals with the protection and preservation of wildlife species and their habitats. Within this field, there are various career paths, one of which is the role of a Wildlife Conservation Zootechnician. This job involves working closely with wildlife species, conducting research, monitoring populations, and implementing strategies to ensure the well-being and survival of endangered or threatened animals. Zootechnicians play a crucial role in maintaining ecological balance and promoting biodiversity within our natural ecosystems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Conservation Zootechnician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Conservation Zootechnician interviews to help you prepare and succeed.

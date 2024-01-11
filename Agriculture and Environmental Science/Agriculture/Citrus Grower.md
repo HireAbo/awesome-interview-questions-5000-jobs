@@ -2,6 +2,8 @@
 
 Welcome to the Citrus Grower Interview Preparation ! This resource is designed to help you ace your Citrus Grower interviews with confidence.
 
+Agriculture is the practice of cultivating plants and rearing animals for food, fiber, medicinal plants, and other products used to sustain and enhance human life. It plays a crucial role in providing food security, promoting economic growth, and preserving the environment. Environmental science is an interdisciplinary field that focuses on understanding and addressing environmental issues, including the impact of human activities on the natural world. Within the realm of agriculture, the role of a citrus grower is vital. A citrus grower specializes in cultivating citrus fruits such as oranges, lemons, and grapefruits. They are responsible for managing orchards, ensuring proper irrigation, pest control, and harvesting techniques to yield high-quality citrus crops.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Citrus Grower or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Citrus Grower interviews to help you prepare and succeed.

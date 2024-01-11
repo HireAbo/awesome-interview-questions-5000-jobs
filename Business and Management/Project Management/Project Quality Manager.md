@@ -2,6 +2,8 @@
 
 Welcome to the Project Quality Manager Interview Preparation ! This resource is designed to help you ace your Project Quality Manager interviews with confidence.
 
+A Project Quality Manager plays a crucial role in ensuring the success of a project by overseeing and managing the quality of deliverables and processes. This job requires a keen eye for detail and a strong understanding of project management methodologies. The Project Quality Manager is responsible for developing and implementing quality control procedures, conducting inspections and audits, and identifying areas for improvement. They work closely with project teams to ensure that all project activities are in line with quality standards and meet the expectations of stakeholders. Additionally, they may be responsible for managing customer feedback and resolving any quality-related issues that arise during the project lifecycle. Overall, the Project Quality Manager plays a vital role in ensuring that projects are completed successfully, on time, and within budget.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Project Quality Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Project Quality Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Exotic Animal Veterinary Technician Interview Preparation ! This resource is designed to help you ace your Exotic Animal Veterinary Technician interviews with confidence.
 
+Veterinary Medicine is a field dedicated to providing medical care to animals. It encompasses various branches, including Veterinary Nursing and Exotic Animal Veterinary Technician jobs. Veterinary Nursing involves assisting veterinarians in providing medical care to animals, ranging from routine check-ups to surgical procedures. Veterinary nurses are responsible for administering medications, monitoring vital signs, collecting samples, and providing post-operative care. On the other hand, Exotic Animal Veterinary Technicians specialize in working with non-traditional pets, such as reptiles, birds, and small mammals. They possess specialized knowledge and skills to handle and treat these unique species, ensuring their well-being. These roles play a crucial part in ensuring the health and welfare of animals, contributing to the overall field of Veterinary Medicine.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Exotic Animal Veterinary Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Exotic Animal Veterinary Technician interviews to help you prepare and succeed.

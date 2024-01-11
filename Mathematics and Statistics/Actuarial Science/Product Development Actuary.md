@@ -2,6 +2,8 @@
 
 Welcome to the Product Development Actuary Interview Preparation ! This resource is designed to help you ace your Product Development Actuary interviews with confidence.
 
+Mathematics and Statistics are fundamental disciplines that involve the study of numbers, patterns, and relationships. Actuarial Science, on the other hand, applies these mathematical concepts to assess and manage risks in various industries, such as insurance and finance. In the field of actuarial science, a Product Development Actuary plays a crucial role in designing and developing insurance products. This involves analyzing data, conducting market research, and utilizing mathematical models to create innovative and profitable insurance products that meet the needs of customers and comply with regulatory requirements. The Product Development Actuary also collaborates with cross-functional teams to ensure the successful implementation and monitoring of these products.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Product Development Actuary or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Product Development Actuary interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Investment Analyst Interview Preparation ! This resource is designed to help you ace your Investment Analyst interviews with confidence.
 
+An Investment Analyst is a professional who specializes in analyzing financial data to make informed investment decisions. They play a crucial role in managing and growing the investments of individuals, corporations, and institutions. Investment Analysts conduct extensive research and analysis of financial markets, economic trends, and specific industries to identify potential investment opportunities. They evaluate financial statements, company performance, and market conditions to assess the risk and return potential of investments. Additionally, Investment Analysts provide recommendations and strategies to clients based on their risk tolerance and investment goals. Strong analytical skills, attention to detail, and knowledge of financial markets are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Investment Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Investment Analyst interviews to help you prepare and succeed.

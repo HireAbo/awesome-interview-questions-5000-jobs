@@ -2,6 +2,8 @@
 
 Welcome to the Veterinary Surgery Assistant Interview Preparation ! This resource is designed to help you ace your Veterinary Surgery Assistant interviews with confidence.
 
+Veterinary Medicine is a field dedicated to the health and well-being of animals. Within this field, Veterinary Nursing plays a crucial role in providing comprehensive care to animals under the supervision of a veterinarian. As a Veterinary Nurse, you will assist in various tasks such as administering medication, collecting samples, taking vital signs, and providing post-operative care. Furthermore, there is a specialized role in Veterinary Nursing known as a Veterinary Surgery Assistant. In this role, you will focus primarily on surgical procedures, ensuring the surgical suite is prepared, assisting during surgeries, monitoring anesthesia, and assisting with post-operative recovery. These roles are essential in maintaining the health and welfare of animals in veterinary practices and hospitals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Veterinary Surgery Assistant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Veterinary Surgery Assistant interviews to help you prepare and succeed.

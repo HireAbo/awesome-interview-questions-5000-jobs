@@ -2,6 +2,8 @@
 
 Welcome to the Insurance Analyst Interview Preparation ! This resource is designed to help you ace your Insurance Analyst interviews with confidence.
 
+Mathematics and Statistics are the foundation of Actuarial Science, a specialized field that applies mathematical and statistical methods to assess and manage risk in the insurance industry. Actuarial Science involves analyzing data, developing models, and making predictions to help insurance companies determine premiums, calculate reserves, and ensure financial stability. Within this field, the role of an Insurance Analyst is crucial. Insurance Analysts utilize their strong mathematical and statistical skills to examine insurance policies, assess risk levels, and evaluate potential losses. They also play a key role in developing and implementing risk management strategies, as well as analyzing and interpreting financial data to support decision-making processes within the insurance industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Insurance Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Insurance Analyst interviews to help you prepare and succeed.

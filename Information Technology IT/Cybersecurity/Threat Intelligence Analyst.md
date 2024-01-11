@@ -2,6 +2,8 @@
 
 Welcome to the Threat Intelligence Analyst Interview Preparation ! This resource is designed to help you ace your Threat Intelligence Analyst interviews with confidence.
 
+The field of Information Technology (IT) encompasses a wide range of roles and responsibilities, one of which is the Cybersecurity profession. Within this field, a crucial and specialized role is that of a Threat Intelligence Analyst. These professionals are responsible for identifying, assessing, and mitigating potential cyber threats to an organization's network and systems. They monitor and analyze various sources of information, such as security logs, threat intelligence feeds, and network traffic, to detect and respond to potential security incidents. Threat Intelligence Analysts also collaborate with other security teams to develop strategies and recommendations to enhance an organization's security posture. With the ever-increasing risks of cyber attacks, the role of a Threat Intelligence Analyst becomes vital in safeguarding sensitive information and ensuring business continuity.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Threat Intelligence Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Threat Intelligence Analyst interviews to help you prepare and succeed.

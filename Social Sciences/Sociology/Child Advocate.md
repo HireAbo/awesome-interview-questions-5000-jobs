@@ -2,6 +2,8 @@
 
 Welcome to the Child Advocate Interview Preparation ! This resource is designed to help you ace your Child Advocate interviews with confidence.
 
+A child advocate in the field of sociology plays a crucial role in ensuring the well-being and rights of children within society. These professionals are dedicated to advocating for the rights and interests of children who may be vulnerable or at risk. Child advocates work tirelessly to address issues such as child abuse, neglect, and exploitation, with the ultimate goal of improving the lives of children and protecting their rights. They work closely with various stakeholders, including social workers, law enforcement, and legal professionals, to provide support, guidance, and resources to children in need. Through their efforts, child advocates contribute to creating a safer and more equitable society for children.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Child Advocate or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Child Advocate interviews to help you prepare and succeed.

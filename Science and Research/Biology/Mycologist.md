@@ -2,6 +2,8 @@
 
 Welcome to the Mycologist Interview Preparation ! This resource is designed to help you ace your Mycologist interviews with confidence.
 
+A mycologist is a scientist who specializes in the field of biology, specifically the study of fungi. Fungi are a diverse group of organisms that play essential roles in various ecosystems, from decomposition to symbiosis with other organisms. Mycologists conduct research to understand and explore the different aspects of fungi, including their taxonomy, genetics, ecology, and their interactions with other organisms. They investigate the ecological and economic impacts of fungi, such as their role in plant diseases, food production, medicine, and biotechnology. Mycologists also study the biodiversity of fungi, identifying new species and contributing to conservation efforts. Through their research and expertise, mycologists contribute to advancing our understanding of the fascinating and complex world of fungi.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Mycologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Mycologist interviews to help you prepare and succeed.

@@ -2,6 +2,14 @@
 
 Welcome to the Veterinary Assistant Interview Preparation ! This resource is designed to help you ace your Veterinary Assistant interviews with confidence.
 
+Veterinary medicine is a specialized field that focuses on the health and well-being of animals. It involves the diagnosis, treatment, and prevention of diseases and injuries in animals, ranging from pets to livestock and wildlife. Within veterinary medicine, there are various roles, including veterinary nursing and veterinary assistant.
+
+Veterinary nursing is a vital part of the veterinary team, providing support to veterinarians in delivering high-quality care to animals. Veterinary nurses assist in various tasks, such as administering medication, handling and restraining animals, taking samples for laboratory testing, and providing post-operative care. They also play a crucial role in educating pet owners on animal care and assisting with surgical procedures.
+
+Veterinary assistants, on the other hand, work closely with both veterinarians and veterinary nurses to provide basic care and support. Their responsibilities often include cleaning and maintaining animal enclosures, feeding and exercising animals, assisting with laboratory procedures, and maintaining medical records. They are essential in ensuring a smooth workflow in the veterinary clinic.
+
+Both veterinary nurses and veterinary assistants require a passion for animals, strong communication skills, and the ability to work well in a team. These roles offer rewarding career opportunities for individuals who are dedicated to the well-being of animals and are interested in the field of veterinary medicine.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Veterinary Assistant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Veterinary Assistant interviews to help you prepare and succeed.

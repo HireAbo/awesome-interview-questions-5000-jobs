@@ -2,6 +2,10 @@
 
 Welcome to the Risk Analyst Interview Preparation ! This resource is designed to help you ace your Risk Analyst interviews with confidence.
 
+Mathematics is a branch of knowledge that deals with numbers, quantities, and shapes. It involves logical thinking, problem-solving, and critical analysis. Statistics, on the other hand, is the science of collecting, analyzing, interpreting, presenting, and organizing data. It provides tools and techniques to understand and make sense of the information gathered.
+
+Within the field of mathematics, the role of a risk analyst is crucial. A risk analyst utilizes mathematical and statistical models to assess the potential risks and uncertainties associated with various financial, business, or investment decisions. They help organizations identify potential risks, develop risk management strategies, and make informed decisions to minimize potential losses. A risk analyst needs a strong background in mathematics and statistics to perform complex calculations, analyze data, and provide accurate risk assessments.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Risk Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Risk Analyst interviews to help you prepare and succeed.

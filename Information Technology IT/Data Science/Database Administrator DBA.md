@@ -2,6 +2,8 @@
 
 Welcome to the Database Administrator (DBA) Interview Preparation ! This resource is designed to help you ace your Database Administrator (DBA) interviews with confidence.
 
+Information Technology (IT) is a broad field that encompasses the use and management of computer systems, networks, and software to store, process, transmit, and retrieve information. It involves various roles and responsibilities, one of which is Data Science. Data Science is the practice of extracting insights and knowledge from large volumes of data using statistical techniques, programming, and analytical tools. Data Scientists analyze complex datasets to identify patterns, trends, and correlations that aid in making informed business decisions. A crucial role within the field of IT and Data Science is that of a Database Administrator (DBA). DBAs are responsible for designing, implementing, and maintaining databases that store and manage an organization's data securely and efficiently. They ensure data integrity, optimize database performance, enforce security protocols, and provide support to users.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Database Administrator (DBA) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Database Administrator (DBA) interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Hazardous Waste Management Engineer Interview Preparation ! This resource is designed to help you ace your Hazardous Waste Management Engineer interviews with confidence.
 
+A Hazardous Waste Management Engineer, specializing in Chemical Engineering, plays a crucial role in protecting the environment and public health by ensuring the safe handling and disposal of hazardous waste materials. These professionals are responsible for designing and implementing effective waste management systems, including the identification, classification, and treatment of hazardous substances. They collaborate with scientists, technicians, and waste management teams to develop innovative solutions that minimize the environmental impact and maximize safety. Additionally, Hazardous Waste Management Engineers are adept at conducting risk assessments, monitoring compliance with regulatory standards, and implementing sustainable practices. Their expertise is vital in maintaining a sustainable and safe environment for all.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Hazardous Waste Management Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Hazardous Waste Management Engineer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the MRI Technologist Interview Preparation ! This resource is designed to help you ace your MRI Technologist interviews with confidence.
 
+The role of an MRI Technologist is crucial in the field of Healthcare and Medicine. As an MRI Technologist, you are responsible for operating magnetic resonance imaging (MRI) scanners to create detailed images of patients' internal organs and tissues. This non-invasive imaging technique is vital in diagnosing and monitoring various medical conditions, including cancer, heart disease, and neurological disorders. MRI Technologists ensure the safety and comfort of patients during the procedure, explaining the process and answering any questions they may have. They also work closely with radiologists and physicians, analyzing the images obtained and providing accurate reports. Overall, MRI Technologists play a vital role in facilitating accurate diagnoses and improving patient outcomes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned MRI Technologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in MRI Technologist interviews to help you prepare and succeed.

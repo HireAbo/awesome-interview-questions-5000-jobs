@@ -2,6 +2,8 @@
 
 Welcome to the Geotechnical Engineer Interview Preparation ! This resource is designed to help you ace your Geotechnical Engineer interviews with confidence.
 
+A Geotechnical Engineer is a specialized civil engineer who focuses on the study and analysis of the behavior of earth materials in order to design and construct structures that can withstand various geotechnical challenges. They play a crucial role in the planning, design, and construction of infrastructure projects such as bridges, dams, tunnels, and foundations. Geotechnical Engineers assess the properties of soil, rock, and groundwater to determine the stability and load-bearing capacity of a site. They conduct field investigations, laboratory tests, and computer simulations to evaluate the potential risks associated with soil erosion, landslides, and earthquakes. Geotechnical Engineers also provide recommendations for soil improvement techniques and foundation design to ensure the safety and durability of structures.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Geotechnical Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Geotechnical Engineer interviews to help you prepare and succeed.

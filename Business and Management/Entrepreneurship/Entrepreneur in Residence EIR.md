@@ -2,6 +2,8 @@
 
 Welcome to the Entrepreneur in Residence (EIR) Interview Preparation ! This resource is designed to help you ace your Entrepreneur in Residence (EIR) interviews with confidence.
 
+An Entrepreneur in Residence (EIR) is a job position within a business or management setting that focuses on nurturing and supporting entrepreneurial initiatives. EIRs are experienced entrepreneurs who are typically brought into an organization to provide guidance, mentorship, and strategic advice to aspiring entrepreneurs. They offer their expertise in areas such as business development, innovation, and growth strategies. EIRs often work closely with startups or innovation teams, helping them to refine their ideas, identify opportunities, and overcome challenges. Their goal is to foster a culture of innovation, drive entrepreneurship, and ultimately contribute to the overall success of the organization.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Entrepreneur in Residence (EIR) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Entrepreneur in Residence (EIR) interviews to help you prepare and succeed.

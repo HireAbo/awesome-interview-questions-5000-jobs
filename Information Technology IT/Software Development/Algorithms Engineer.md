@@ -2,6 +2,8 @@
 
 Welcome to the Algorithms Engineer Interview Preparation ! This resource is designed to help you ace your Algorithms Engineer interviews with confidence.
 
+An Algorithms Engineer is a specialized role within the field of software development in Information Technology (IT). They are responsible for designing, developing, and implementing complex algorithms that solve specific problems or optimize processes. These professionals possess strong analytical and problem-solving skills, as they need to understand intricate mathematical concepts and coding languages. They work closely with software engineers and data scientists to identify algorithmic needs, develop efficient solutions, and ensure their integration into software systems. Algorithms Engineers also conduct thorough testing and debugging to ensure the accuracy, reliability, and efficiency of algorithms. Their expertise is crucial in various industries, including artificial intelligence, machine learning, data analysis, and computational biology.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Algorithms Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Algorithms Engineer interviews to help you prepare and succeed.

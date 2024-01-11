@@ -2,6 +2,8 @@
 
 Welcome to the Merchandising AR/VR Developer Interview Preparation ! This resource is designed to help you ace your Merchandising AR/VR Developer interviews with confidence.
 
+The role of a Merchandising AR/VR Developer in the Retail and Sales industry is to create immersive and interactive experiences using augmented reality (AR) and virtual reality (VR) technologies for merchandising purposes. This job involves developing and implementing AR/VR solutions to enhance the customer's shopping experience, increase brand engagement, and drive sales. As a Merchandising AR/VR Developer, you will collaborate with cross-functional teams, including merchandisers, designers, and software engineers, to design and build AR/VR applications and content. You will also be responsible for testing and troubleshooting the AR/VR experiences, ensuring they are user-friendly, visually appealing, and aligned with the brand's objectives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Merchandising AR/VR Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Merchandising AR/VR Developer interviews to help you prepare and succeed.

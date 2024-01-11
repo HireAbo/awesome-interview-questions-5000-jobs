@@ -2,6 +2,8 @@
 
 Welcome to the Apparel Designer Interview Preparation ! This resource is designed to help you ace your Apparel Designer interviews with confidence.
 
+An apparel designer is a creative professional within the field of fashion design. They are responsible for conceptualizing and creating clothing and accessories, catering to the latest fashion trends and consumer demands. These designers possess a keen eye for aesthetics, color palettes, fabrics, and patterns, ensuring that their designs are visually appealing and commercially viable. They collaborate closely with clients, manufacturers, and production teams to bring their ideas to life. Additionally, apparel designers stay updated on industry trends, market research, and consumer preferences to create innovative and marketable designs. Overall, they play a crucial role in the fashion industry, shaping trends and influencing the way we dress.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Apparel Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Apparel Designer interviews to help you prepare and succeed.

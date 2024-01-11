@@ -2,6 +2,8 @@
 
 Welcome to the Small Business Owner Interview Preparation ! This resource is designed to help you ace your Small Business Owner interviews with confidence.
 
+A small business owner is an individual who establishes, operates, and assumes the risks of a small business venture. As an entrepreneur, they are highly motivated, creative, and innovative individuals who take initiatives to identify business opportunities and bring them to fruition. Small business owners are responsible for developing business plans, conducting market research, securing funding, and managing daily operations. They wear multiple hats and handle various tasks including marketing, sales, finance, human resources, and customer service. Their ultimate goal is to ensure the success and growth of their business by effectively managing resources, adapting to market changes, and making strategic decisions to maximize profitability.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Small Business Owner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Small Business Owner interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Energy Policy Adviser Interview Preparation ! This resource is designed to help you ace your Energy Policy Adviser interviews with confidence.
 
+An Energy Policy Adviser in the field of Energy and Utilities, specifically Energy Engineering, plays a crucial role in shaping and implementing policies related to energy consumption, production, and sustainability. As an adviser, their primary responsibility is to provide expert guidance and analysis on energy policy matters to governments, organizations, and businesses. They assess the environmental, economic, and social impact of energy policies and propose strategies to optimize energy resources, promote renewable energy sources, and reduce greenhouse gas emissions. Energy Policy Advisers also collaborate with stakeholders to develop and review policies, monitor their implementation, and provide recommendations for improvements. Their expertise aids in creating a more sustainable and efficient energy landscape.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Energy Policy Adviser or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Energy Policy Adviser interviews to help you prepare and succeed.

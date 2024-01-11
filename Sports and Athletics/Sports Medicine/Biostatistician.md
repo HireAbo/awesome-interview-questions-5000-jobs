@@ -2,6 +2,8 @@
 
 Welcome to the Biostatistician Interview Preparation ! This resource is designed to help you ace your Biostatistician interviews with confidence.
 
+A Biostatistician in the field of Sports Medicine plays a crucial role in analyzing and interpreting data related to sports and athletics. This specialized job combines the disciplines of statistics, biology, and medicine to provide essential insights into the impact of various sports activities on human health. Biostatisticians collect and analyze data on injuries, performance, and overall physical well-being of athletes to guide decision-making and enhance injury prevention strategies. They also collaborate with sports physicians and researchers to design studies, identify trends, and develop statistical models. By using their expertise in statistical analysis, Biostatisticians contribute significantly to improving sports performance, preventing injuries, and optimizing athlete's health and well-being.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Biostatistician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Biostatistician interviews to help you prepare and succeed.

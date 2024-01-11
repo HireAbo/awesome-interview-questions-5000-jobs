@@ -2,6 +2,8 @@
 
 Welcome to the Organic Chemist Interview Preparation ! This resource is designed to help you ace your Organic Chemist interviews with confidence.
 
+An Organic Chemist is a professional who specializes in the study and research of organic compounds, specifically focusing on their structure, properties, composition, reactions, and synthesis. They play a crucial role in advancing scientific knowledge and understanding of organic molecules, which are the basis of life and form the foundation of various industries such as pharmaceuticals, materials science, and agriculture. Organic chemists use their expertise to design, develop, and optimize new chemical compounds for various applications, including drug discovery, agrochemical development, and the creation of novel materials. Their work involves conducting experiments, analyzing data, and collaborating with other scientists to contribute to scientific breakthroughs and innovative solutions to real-world problems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Organic Chemist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Organic Chemist interviews to help you prepare and succeed.

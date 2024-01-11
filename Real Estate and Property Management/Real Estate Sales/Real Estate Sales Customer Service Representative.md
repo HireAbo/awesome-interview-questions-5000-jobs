@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Sales Customer Service Representative Interview Preparation ! This resource is designed to help you ace your Real Estate Sales Customer Service Representative interviews with confidence.
 
+A Real Estate Sales Customer Service Representative is a professional who plays a crucial role in the real estate industry. They act as a liaison between the buyers, sellers, and real estate agents, ensuring a smooth and satisfactory experience for all parties involved. Their primary responsibilities include responding to inquiries, providing information on available properties, scheduling property showings, coordinating open houses, and assisting with paperwork and contracts. This role requires excellent communication and interpersonal skills, as well as a strong knowledge of the real estate market and sales process. A successful Real Estate Sales Customer Service Representative is dedicated to providing exceptional customer service and helping clients achieve their real estate goals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Sales Customer Service Representative or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Sales Customer Service Representative interviews to help you prepare and succeed.

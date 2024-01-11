@@ -2,6 +2,8 @@
 
 Welcome to the Software Developer Interview Preparation ! This resource is designed to help you ace your Software Developer interviews with confidence.
 
+A Software Developer is a crucial role in the field of Information Technology (IT). They are responsible for designing, coding, testing, and implementing software programs or applications. These professionals possess excellent programming skills and a deep understanding of various programming languages such as Java, C++, Python, or Ruby. They collaborate with a team of developers, project managers, and clients to identify software requirements and develop solutions that meet those needs. Software Developers work across industries, including finance, healthcare, gaming, and e-commerce, to create user-friendly and efficient software systems. They play a vital role in the digital transformation of businesses, ensuring the smooth functioning of software applications and enhancing user experiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Software Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Software Developer interviews to help you prepare and succeed.

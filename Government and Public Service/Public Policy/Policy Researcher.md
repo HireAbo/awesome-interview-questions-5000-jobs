@@ -2,6 +2,8 @@
 
 Welcome to the Policy Researcher Interview Preparation ! This resource is designed to help you ace your Policy Researcher interviews with confidence.
 
+A government and public service organization is responsible for developing and implementing policies to address societal issues and improve the well-being of its citizens. Within this sector, a policy researcher plays a crucial role in conducting in-depth research and analysis to inform policy-making decisions. As a policy researcher, one is tasked with collecting and interpreting data, evaluating existing policies, and identifying potential areas for improvement. This involves conducting interviews, surveys, and literature reviews to gather relevant information. A policy researcher's findings and recommendations are essential in shaping effective policies that address the needs and concerns of the public, ultimately contributing to the overall betterment of society.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Policy Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Policy Researcher interviews to help you prepare and succeed.

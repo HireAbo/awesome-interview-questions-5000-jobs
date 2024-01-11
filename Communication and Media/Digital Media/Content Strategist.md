@@ -2,6 +2,8 @@
 
 Welcome to the Content Strategist Interview Preparation ! This resource is designed to help you ace your Content Strategist interviews with confidence.
 
+A Content Strategist is a crucial role within the field of Communication and Media, specifically in the realm of Digital Media. As a Content Strategist, their primary responsibility is to develop and implement effective strategies for creating, managing, and distributing digital content. This includes planning, researching, and analyzing target audience needs and preferences, as well as staying up-to-date with industry trends and best practices. They collaborate closely with various stakeholders, such as writers, designers, and marketers, to ensure that the content aligns with the organization's goals and objectives. A Content Strategist possesses excellent communication skills, a deep understanding of digital platforms, and a keen eye for engaging and impactful content.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Content Strategist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Content Strategist interviews to help you prepare and succeed.

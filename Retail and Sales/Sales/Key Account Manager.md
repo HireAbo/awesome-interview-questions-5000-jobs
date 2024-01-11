@@ -2,6 +2,8 @@
 
 Welcome to the Key Account Manager Interview Preparation ! This resource is designed to help you ace your Key Account Manager interviews with confidence.
 
+A Key Account Manager in the field of retail and sales is a crucial role responsible for managing and maintaining relationships with key clients or accounts. This job involves developing and implementing sales strategies to achieve business objectives and increase revenue. The Key Account Manager acts as the primary point of contact for clients, understanding their needs and ensuring customer satisfaction. They are skilled in identifying opportunities for upselling and cross-selling, negotiating contracts, and resolving any issues or conflicts that may arise. This role requires excellent communication and interpersonal skills, as well as a deep understanding of the retail industry and sales processes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Key Account Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Key Account Manager interviews to help you prepare and succeed.

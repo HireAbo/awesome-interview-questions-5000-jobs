@@ -2,6 +2,8 @@
 
 Welcome to the Art Director Interview Preparation ! This resource is designed to help you ace your Art Director interviews with confidence.
 
+An Art Director in the field of film production is a key figure responsible for the visual aesthetics of a film. They play a crucial role in translating the director's vision onto the screen through their creative and artistic abilities. Their primary responsibilities include overseeing the design and overall look of a film, including sets, costumes, props, and visual effects. They collaborate closely with the production team, including the director, cinematographer, and production designer, to ensure that the artistic vision is successfully executed. Art Directors bring their expertise in various art forms, including painting, sculpture, and graphic design, to create captivating and visually stunning film sets. They possess excellent organizational and leadership skills, as well as a keen eye for detail and a deep understanding of storytelling through visual elements.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Art Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Art Director interviews to help you prepare and succeed.

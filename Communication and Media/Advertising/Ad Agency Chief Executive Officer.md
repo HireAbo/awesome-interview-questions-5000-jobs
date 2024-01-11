@@ -2,6 +2,8 @@
 
 Welcome to the Ad Agency Chief Executive Officer Interview Preparation ! This resource is designed to help you ace your Ad Agency Chief Executive Officer interviews with confidence.
 
+The role of an Ad Agency Chief Executive Officer (CEO) in the field of Communication and Media > Advertising is to lead and oversee the operations of an ad agency. As the highest-ranking executive, the CEO is responsible for setting the agency's strategic direction, managing financial performance, and driving growth. They collaborate with clients to understand their advertising needs and develop effective marketing strategies. The CEO also plays a crucial role in cultivating and maintaining relationships with key stakeholders, including clients, media outlets, and industry professionals. Additionally, they provide leadership and guidance to a team of creative and strategic professionals to ensure the successful execution of advertising campaigns.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Ad Agency Chief Executive Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Ad Agency Chief Executive Officer interviews to help you prepare and succeed.

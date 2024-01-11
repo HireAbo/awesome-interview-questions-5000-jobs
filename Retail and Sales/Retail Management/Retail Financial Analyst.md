@@ -2,6 +2,8 @@
 
 Welcome to the Retail Financial Analyst Interview Preparation ! This resource is designed to help you ace your Retail Financial Analyst interviews with confidence.
 
+A Retail Financial Analyst plays a key role in the field of Retail Management, specifically in the area of sales. Their primary responsibility is to analyze and interpret financial data related to retail operations. This includes examining sales performance, identifying trends, and forecasting future sales figures. Retail Financial Analysts also provide recommendations to improve profitability and efficiency based on their analysis. They collaborate with cross-functional teams, such as merchandising and marketing, to develop strategies and initiatives that drive sales growth. Strong analytical skills, attention to detail, and proficiency in financial modeling and forecasting are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Retail Financial Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Retail Financial Analyst interviews to help you prepare and succeed.

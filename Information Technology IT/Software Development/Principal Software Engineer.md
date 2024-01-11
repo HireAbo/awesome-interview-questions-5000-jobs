@@ -2,6 +2,8 @@
 
 Welcome to the Principal Software Engineer Interview Preparation ! This resource is designed to help you ace your Principal Software Engineer interviews with confidence.
 
+A Principal Software Engineer is a senior-level position within the field of Information Technology (IT) and specifically in Software Development. As a Principal Software Engineer, one is responsible for overseeing and leading the design, development, and implementation of software applications and systems. They play a crucial role in ensuring the efficient functioning of software programs and the delivery of high-quality products. This role involves collaborating with cross-functional teams, conducting research, and implementing best practices to drive innovation and achieve business goals. Principal Software Engineers also mentor and guide junior engineers, provide technical expertise, and stay abreast of emerging technologies and industry trends.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Principal Software Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Principal Software Engineer interviews to help you prepare and succeed.

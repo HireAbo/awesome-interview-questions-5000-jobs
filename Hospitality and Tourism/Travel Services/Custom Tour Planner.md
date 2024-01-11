@@ -2,6 +2,8 @@
 
 Welcome to the Custom Tour Planner Interview Preparation ! This resource is designed to help you ace your Custom Tour Planner interviews with confidence.
 
+The role of a Custom Tour Planner in the field of Hospitality and Tourism is to create unique and personalized travel experiences for clients. This job involves carefully designing itineraries that cater to the specific interests and preferences of individuals or groups. Custom Tour Planners are responsible for researching and selecting accommodations, transportation, and activities that align with the client's desired travel experience. They must have excellent communication and organizational skills to effectively coordinate all aspects of the trip, ensuring a seamless and memorable journey for the travelers. This role requires a passion for travel, a keen eye for detail, and a strong understanding of different destinations and cultures.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Custom Tour Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Custom Tour Planner interviews to help you prepare and succeed.

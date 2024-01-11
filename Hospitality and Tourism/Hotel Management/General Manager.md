@@ -2,6 +2,8 @@
 
 Welcome to the General Manager Interview Preparation ! This resource is designed to help you ace your General Manager interviews with confidence.
 
+A General Manager in the field of Hospitality and Tourism, specifically Hotel Management, plays a crucial role in overseeing all aspects of hotel operations. They are responsible for ensuring the smooth functioning of the establishment, maintaining high standards of customer service, and maximizing profitability. The General Manager leads a team of staff, including department heads, and is involved in recruiting, training, and managing employees. They also handle budgeting, financial planning, and marketing strategies to attract guests and increase revenue. With a strong focus on guest satisfaction, the General Manager strives to create a welcoming and comfortable environment that exceeds expectations and fosters a positive reputation for the hotel.
+
 ## 🚀 Overview
 
 Whether you're a seasoned General Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in General Manager interviews to help you prepare and succeed.

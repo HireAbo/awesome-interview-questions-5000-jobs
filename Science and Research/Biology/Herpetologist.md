@@ -2,6 +2,8 @@
 
 Welcome to the Herpetologist Interview Preparation ! This resource is designed to help you ace your Herpetologist interviews with confidence.
 
+A herpetologist is a scientist who specializes in the study of reptiles and amphibians. This branch of biology focuses on understanding the behavior, ecology, evolution, and conservation of these fascinating creatures. Herpetologists conduct extensive research to gain insights into the physiology, genetics, and natural history of reptiles and amphibians. They often work in diverse environments, from tropical rainforests to deserts, and are involved in fieldwork, laboratory analysis, and data interpretation. Herpetologists play a crucial role in understanding the complex relationships between these species and their habitats, as well as in identifying and addressing conservation challenges to ensure the survival of these important creatures.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Herpetologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Herpetologist interviews to help you prepare and succeed.

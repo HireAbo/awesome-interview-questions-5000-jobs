@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Development Sustainability Manager Interview Preparation ! This resource is designed to help you ace your Real Estate Development Sustainability Manager interviews with confidence.
 
+Real Estate and Property Management is a vast industry that encompasses various facets of real estate, including development, sales, leasing, and maintenance of properties. Within this field, Real Estate Development focuses on acquiring, planning, and constructing properties for residential, commercial, or industrial purposes. To ensure sustainable practices are implemented throughout the development process, Real Estate Development Sustainability Managers play a crucial role. These professionals are responsible for integrating environmentally friendly and socially responsible strategies into every phase of a real estate project. From site selection to design, construction, and operation, their goal is to minimize the environmental impact and maximize the long-term value of the property.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Development Sustainability Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Development Sustainability Manager interviews to help you prepare and succeed.

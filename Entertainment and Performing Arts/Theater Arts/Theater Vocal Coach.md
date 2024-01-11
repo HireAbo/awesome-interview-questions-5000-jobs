@@ -2,6 +2,8 @@
 
 Welcome to the Theater Vocal Coach Interview Preparation ! This resource is designed to help you ace your Theater Vocal Coach interviews with confidence.
 
+A theater vocal coach is a professional who specializes in training actors and performers in the art of vocal performance for the theater. They play a crucial role in helping actors develop their singing abilities, ensuring that they can effectively communicate and express themselves through their voices on stage. Theater vocal coaches work closely with actors to improve their vocal techniques, breath control, pitch, tone, projection, and overall vocal quality. They may also assist actors in learning and perfecting songs, helping them to interpret lyrics and convey emotions effectively. A theater vocal coach plays a vital role in enhancing the overall performance and success of a theatrical production.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Theater Vocal Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Theater Vocal Coach interviews to help you prepare and succeed.

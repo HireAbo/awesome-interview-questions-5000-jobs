@@ -2,6 +2,8 @@
 
 Welcome to the Supply Chain Compliance Manager Interview Preparation ! This resource is designed to help you ace your Supply Chain Compliance Manager interviews with confidence.
 
+A Supply Chain Compliance Manager is responsible for ensuring that all transportation and logistics operations within a company comply with relevant laws, regulations, and industry standards. They play a crucial role in managing the supply chain to ensure efficiency, minimize risks, and maintain compliance. Their responsibilities include developing and implementing compliance policies and procedures, conducting audits and inspections, and identifying areas for improvement. A Supply Chain Compliance Manager also works closely with internal teams, suppliers, and regulatory agencies to address any compliance issues and ensure smooth operations. They are essential in maintaining the integrity and reputation of the company's supply chain network.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Supply Chain Compliance Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Supply Chain Compliance Manager interviews to help you prepare and succeed.

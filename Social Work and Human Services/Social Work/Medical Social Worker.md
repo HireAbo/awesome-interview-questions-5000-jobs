@@ -2,6 +2,8 @@
 
 Welcome to the Medical Social Worker Interview Preparation ! This resource is designed to help you ace your Medical Social Worker interviews with confidence.
 
+A Medical Social Worker is a vital component of the healthcare system, specializing in providing support and guidance to patients and their families during times of illness or injury. These professionals work closely with doctors, nurses, and other healthcare professionals to address the social and emotional aspects of a patient's well-being. Medical Social Workers assess the patient's needs, develop care plans, and connect them with necessary resources such as counseling, support groups, and financial assistance programs. They also play a crucial role in coordinating discharge plans and ensuring a smooth transition from hospital to home or other care facilities. With their expertise in both social work and healthcare, Medical Social Workers strive to enhance the overall quality of life for patients and their loved ones.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Medical Social Worker or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Medical Social Worker interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Theater Dance Captain Interview Preparation ! This resource is designed to help you ace your Theater Dance Captain interviews with confidence.
 
+A Theater Dance Captain is a vital role in the world of theater arts, specifically in the realm of performing arts. They are responsible for ensuring the smooth execution of dance routines and choreography during theatrical productions. This role requires exceptional dancing skills, strong leadership qualities, and excellent communication abilities. A Theater Dance Captain collaborates closely with the choreographer, assisting in teaching and rehearsing dance routines to the ensemble cast. They also serve as a liaison between the cast and production team, helping to maintain consistency and integrity in the overall performance. Their expertise and dedication contribute to the success and cohesion of a theater production, making them an indispensable asset to the entertainment industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Theater Dance Captain or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Theater Dance Captain interviews to help you prepare and succeed.

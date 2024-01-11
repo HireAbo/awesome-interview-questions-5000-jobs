@@ -2,6 +2,8 @@
 
 Welcome to the Homicide Detective Interview Preparation ! This resource is designed to help you ace your Homicide Detective interviews with confidence.
 
+A Homicide Detective is a vital component of the criminal justice system, responsible for investigating and solving cases involving unlawful killings. This highly specialized law enforcement position requires a unique set of skills and qualifications. Homicide detectives work meticulously to collect evidence, interview witnesses, and analyze crime scenes to build a solid case against the perpetrator. They collaborate with forensic experts, prosecutors, and other law enforcement agencies to ensure a comprehensive investigation. Homicide detectives must possess exceptional observational, analytical, and communication skills to navigate complex investigations and bring justice to the victims and their families. Their commitment to upholding the law and protecting society from dangerous criminals makes them essential figures in the criminal justice field.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Homicide Detective or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Homicide Detective interviews to help you prepare and succeed.

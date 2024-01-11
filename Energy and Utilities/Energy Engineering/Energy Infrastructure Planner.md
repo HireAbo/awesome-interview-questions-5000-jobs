@@ -2,6 +2,8 @@
 
 Welcome to the Energy Infrastructure Planner Interview Preparation ! This resource is designed to help you ace your Energy Infrastructure Planner interviews with confidence.
 
+An Energy Infrastructure Planner is a professional who plays a crucial role in the field of Energy Engineering within the Energy and Utilities industry. They are responsible for designing and developing plans for energy infrastructure projects, including power plants, transmission lines, and distribution systems. These professionals analyze data and conduct feasibility studies to determine the most efficient and sustainable solutions for meeting energy demands. They collaborate with engineers, architects, and government officials to ensure compliance with regulations and environmental standards. Energy Infrastructure Planners also evaluate the impact of infrastructure projects on communities, considering factors such as cost, efficiency, and long-term sustainability. Their role is vital in shaping the future of energy systems and promoting a greener and more sustainable world.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Energy Infrastructure Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Energy Infrastructure Planner interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Journeyman Carpenter Interview Preparation ! This resource is designed to help you ace your Journeyman Carpenter interviews with confidence.
 
+A Journeyman Carpenter is a skilled tradesperson who has completed a formal apprenticeship program and acquired extensive experience in the field of carpentry. They possess a deep understanding of the tools, materials, and techniques required to construct, install, and repair wooden structures and fixtures. Journeyman Carpenters are proficient in reading blueprints, taking precise measurements, and executing complex woodworking tasks with accuracy and precision. They have the ability to work independently or as part of a team, effectively communicating with clients, contractors, and other tradespeople. Their expertise extends to various carpentry specialties, including framing, cabinetry, finishing, and furniture making. A Journeyman Carpenter plays a vital role in the construction industry, ensuring the successful completion of projects with their exceptional craftsmanship and attention to detail.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Journeyman Carpenter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Journeyman Carpenter interviews to help you prepare and succeed.

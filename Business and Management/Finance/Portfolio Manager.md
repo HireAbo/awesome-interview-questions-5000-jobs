@@ -2,6 +2,8 @@
 
 Welcome to the Portfolio Manager Interview Preparation ! This resource is designed to help you ace your Portfolio Manager interviews with confidence.
 
+A Portfolio Manager is a finance professional responsible for managing investment portfolios on behalf of individuals, institutions, or companies. They are skilled in analyzing market trends, risk assessment, and investment strategies to optimize portfolio performance. The role requires a deep understanding of financial markets, asset allocation, and investment products. Portfolio Managers work closely with clients to understand their financial goals and risk appetite, and then develop and implement investment strategies that align with these objectives. They continuously monitor portfolio performance, make adjustments as needed, and provide regular reports to clients. Strong analytical skills, financial acumen, and the ability to make informed investment decisions are crucial in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Portfolio Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Portfolio Manager interviews to help you prepare and succeed.

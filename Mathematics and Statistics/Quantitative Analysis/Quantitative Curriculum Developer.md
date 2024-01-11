@@ -2,6 +2,8 @@
 
 Welcome to the Quantitative Curriculum Developer Interview Preparation ! This resource is designed to help you ace your Quantitative Curriculum Developer interviews with confidence.
 
+A Quantitative Curriculum Developer is responsible for creating and designing educational materials and curricula related to mathematics and statistics. This role combines strong mathematical knowledge with excellent instructional design skills. The primary objective is to develop quantitative analysis courses that effectively teach students the principles and concepts of mathematics and statistics. The Quantitative Curriculum Developer collaborates with subject matter experts to identify learning objectives and devise engaging instructional strategies. They also research and incorporate the latest trends and advancements in mathematics and statistics education. Attention to detail, creativity, and the ability to communicate complex concepts in a clear and concise manner are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Quantitative Curriculum Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Quantitative Curriculum Developer interviews to help you prepare and succeed.

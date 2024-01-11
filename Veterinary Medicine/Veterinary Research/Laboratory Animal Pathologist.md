@@ -2,6 +2,8 @@
 
 Welcome to the Laboratory Animal Pathologist Interview Preparation ! This resource is designed to help you ace your Laboratory Animal Pathologist interviews with confidence.
 
+A Laboratory Animal Pathologist is a specialized veterinarian who plays a crucial role in veterinary research. They are responsible for studying and diagnosing diseases in laboratory animals, ensuring the safety and well-being of animals used in research. These professionals work in laboratories, conducting experiments, analyzing samples, and interpreting results to understand the effects of diseases and treatments on animals. They collaborate closely with other researchers and veterinarians to develop new treatments and therapies. Laboratory Animal Pathologists also play a vital role in ensuring ethical and humane treatment of animals in research by monitoring and maintaining high standards of animal welfare. Their work contributes to advancing scientific knowledge and improving animal health.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Laboratory Animal Pathologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Laboratory Animal Pathologist interviews to help you prepare and succeed.

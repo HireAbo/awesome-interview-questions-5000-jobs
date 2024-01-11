@@ -2,6 +2,8 @@
 
 Welcome to the Tour Merchandiser Interview Preparation ! This resource is designed to help you ace your Tour Merchandiser interviews with confidence.
 
+A Tour Merchandiser in the field of Entertainment and Performing Arts, specifically in the music industry, is responsible for managing and coordinating the sale of merchandise during concert tours. This role requires exceptional organizational skills and attention to detail. A Tour Merchandiser works closely with artists, management teams, and vendors to develop and produce a variety of merchandise items, such as t-shirts, hats, posters, and CDs, that reflect the artist's brand and appeal to fans. They oversee inventory management, sales tracking, and financial reporting. Additionally, they coordinate the setup and staffing of merchandise booths at each tour stop, ensuring a smooth and profitable operation. A successful Tour Merchandiser contributes to the overall fan experience and artist's revenue stream.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Tour Merchandiser or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Tour Merchandiser interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Circus Performer Interview Preparation ! This resource is designed to help you ace your Circus Performer interviews with confidence.
 
+A Circus Performer is a professional entertainer who specializes in various acts and skills performed in a circus setting. These performers captivate audiences with their daring and skillful acts, such as acrobatics, juggling, aerial arts, fire breathing, and many others. They showcase their talent through precise execution, agility, coordination, and showmanship. Circus Performers possess exceptional physical strength, flexibility, and endurance to perform their acts successfully. They are also skilled in interacting with the audience, creating a vibrant and engaging atmosphere. This unique and thrilling job requires dedication, discipline, and a strong passion for entertaining people while pushing the boundaries of human capabilities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Circus Performer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Circus Performer interviews to help you prepare and succeed.

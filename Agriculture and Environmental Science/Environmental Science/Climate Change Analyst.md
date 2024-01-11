@@ -2,6 +2,8 @@
 
 Welcome to the Climate Change Analyst Interview Preparation ! This resource is designed to help you ace your Climate Change Analyst interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on studying the relationship between agriculture, the environment, and climate change. Environmental Science encompasses various sub-disciplines such as climate change analysis. Climate Change Analysts play a crucial role in this field, as they investigate and assess the impact of climate change on agriculture and the environment. They collect and analyze data, develop models, and evaluate the effectiveness of policies and strategies to mitigate and adapt to climate change. Climate Change Analysts also collaborate with scientists, policymakers, and stakeholders to provide valuable insights and recommendations for sustainable agricultural practices and environmental management in the face of a changing climate.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Climate Change Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Climate Change Analyst interviews to help you prepare and succeed.

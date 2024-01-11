@@ -2,6 +2,8 @@
 
 Welcome to the Actuarial Coach Interview Preparation ! This resource is designed to help you ace your Actuarial Coach interviews with confidence.
 
+Mathematics and Statistics form the foundation of Actuarial Science, a field that combines mathematical modeling and statistical analysis to assess risk in various industries, such as insurance and finance. Actuarial Science professionals, also known as Actuaries, use their expertise in these disciplines to analyze data, develop risk management strategies, and make informed business decisions. Actuarial Coaches play a crucial role in this field by providing guidance and mentorship to aspiring actuaries. They help individuals navigate the complexities of Actuarial Science, offering personalized coaching, exam preparation assistance, and career advice. Actuarial Coaches are dedicated to helping future actuaries succeed and thrive in their profession.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Actuarial Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Actuarial Coach interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Test Automation Engineer Interview Preparation ! This resource is designed to help you ace your Test Automation Engineer interviews with confidence.
 
+A Test Automation Engineer in the field of Information Technology (IT) Software Development is responsible for designing, developing, and executing automated test scripts to ensure the quality and functionality of software applications. They work closely with software developers and quality assurance teams to identify test requirements and create efficient and reliable automated test cases. Test Automation Engineers utilize various automation tools and frameworks to perform regression testing, load testing, and performance testing. They also analyze test results, identify defects, and collaborate with the development team to resolve issues. A Test Automation Engineer plays a crucial role in ensuring the smooth operation and delivery of high-quality software products.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Test Automation Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Test Automation Engineer interviews to help you prepare and succeed.

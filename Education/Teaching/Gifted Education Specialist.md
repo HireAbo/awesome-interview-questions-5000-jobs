@@ -2,6 +2,8 @@
 
 Welcome to the Gifted Education Specialist Interview Preparation ! This resource is designed to help you ace your Gifted Education Specialist interviews with confidence.
 
+A Gifted Education Specialist is a professional who specializes in providing educational support and guidance to gifted and talented students. They possess in-depth knowledge and understanding of the unique needs and abilities of gifted learners. Their primary role is to identify, assess, and develop appropriate strategies to nurture the potential of these students. Gifted Education Specialists collaborate with teachers, parents, and school administrators to design and implement tailored educational programs that challenge and engage gifted students. They may also conduct research, offer professional development workshops, and advocate for the needs of gifted learners. Overall, Gifted Education Specialists play a crucial role in ensuring that gifted students receive an enriching educational experience that maximizes their abilities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Gifted Education Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Gifted Education Specialist interviews to help you prepare and succeed.

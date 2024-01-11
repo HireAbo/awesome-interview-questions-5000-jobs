@@ -2,6 +2,8 @@
 
 Welcome to the Aircraft Systems Engineer Interview Preparation ! This resource is designed to help you ace your Aircraft Systems Engineer interviews with confidence.
 
+An Aircraft Systems Engineer plays a crucial role in the field of Aerospace Engineering. They are responsible for designing, developing, and maintaining various aircraft systems, including electrical, mechanical, and avionics systems. These professionals collaborate closely with other engineers and technicians to ensure the smooth functioning of aircraft systems. They conduct extensive research, analysis, and testing to ensure compliance with safety regulations and performance standards. Additionally, they also identify and resolve technical issues, develop innovative solutions, and contribute to the overall improvement of aircraft systems. This job requires strong technical expertise, problem-solving skills, attention to detail, and a deep understanding of aircraft systems and their integration.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Aircraft Systems Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Aircraft Systems Engineer interviews to help you prepare and succeed.

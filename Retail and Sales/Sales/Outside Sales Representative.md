@@ -2,6 +2,8 @@
 
 Welcome to the Outside Sales Representative Interview Preparation ! This resource is designed to help you ace your Outside Sales Representative interviews with confidence.
 
+The role of an Outside Sales Representative in the Retail and Sales industry is to build and maintain strong relationships with clients while generating sales and revenue for their organization. As an Outside Sales Representative, you will be responsible for prospecting and cold-calling potential customers, presenting and demonstrating products or services, negotiating contracts, and closing deals. This role requires excellent communication and interpersonal skills, as well as a strong understanding of customer needs and market trends. Outside Sales Representatives must be self-motivated, driven, and able to work independently to achieve sales targets. Additionally, this position often involves regular travel to meet with clients and attend industry events.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Outside Sales Representative or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Outside Sales Representative interviews to help you prepare and succeed.

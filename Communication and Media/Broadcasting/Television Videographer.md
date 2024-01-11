@@ -2,6 +2,8 @@
 
 Welcome to the Television Videographer Interview Preparation ! This resource is designed to help you ace your Television Videographer interviews with confidence.
 
+A Television Videographer is a professional responsible for capturing and recording visual content for television broadcasting. They use various equipment such as video cameras, tripods, and lighting to create high-quality footage. In this role, effective communication is crucial as they collaborate with directors, producers, and other crew members to understand the vision and requirements of a project. Television Videographers also need to have a keen eye for detail, as they are responsible for framing shots, adjusting camera angles, and ensuring the overall visual aesthetics of the footage. They play a vital role in bringing stories to life and engaging audiences through the power of visual storytelling.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Television Videographer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Television Videographer interviews to help you prepare and succeed.

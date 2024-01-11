@@ -2,6 +2,8 @@
 
 Welcome to the Quantum Physicist Interview Preparation ! This resource is designed to help you ace your Quantum Physicist interviews with confidence.
 
+A Quantum Physicist is a highly specialized professional in the field of physics, specifically studying the principles and phenomena of quantum mechanics. This branch of physics explores the behavior of matter and energy at a microscopic level, where traditional laws of physics no longer apply. Quantum Physicists conduct extensive research to understand the fundamental properties and interactions of particles and their wave-like nature. They investigate various aspects such as quantum entanglement, superposition, and quantum computing. These scientists use advanced mathematical models, experimental techniques, and cutting-edge technology to make groundbreaking discoveries. Their contributions to science and research have the potential to revolutionize technology, communications, and our understanding of the universe.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Quantum Physicist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Quantum Physicist interviews to help you prepare and succeed.

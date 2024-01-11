@@ -2,6 +2,8 @@
 
 Welcome to the Freight Planner Interview Preparation ! This resource is designed to help you ace your Freight Planner interviews with confidence.
 
+A Freight Planner plays a vital role in the field of Transportation and Logistics, specifically in Transportation Planning. This job involves the coordination and organization of the movement of goods, ensuring efficient and timely delivery. The Freight Planner is responsible for analyzing transportation needs, developing and implementing transportation strategies, and optimizing routes for cost-effective delivery. They collaborate with various stakeholders, such as suppliers, carriers, and customers, to plan and schedule shipments. Strong analytical and problem-solving skills are crucial in this role, as the Freight Planner must assess transportation requirements, negotiate rates, and monitor performance to ensure customer satisfaction and operational efficiency.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Freight Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Freight Planner interviews to help you prepare and succeed.

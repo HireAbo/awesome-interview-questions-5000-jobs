@@ -2,6 +2,8 @@
 
 Welcome to the Ski Instructor Interview Preparation ! This resource is designed to help you ace your Ski Instructor interviews with confidence.
 
+The Ski Instructor job is a dynamic and rewarding role within the field of Sports and Athletics Coaching. Ski Instructors are responsible for teaching individuals of all ages and skill levels the techniques and skills required for skiing. With a passion for the sport, Ski Instructors provide personalized instruction, guidance, and support to help their students improve their skiing abilities and confidence on the slopes. They develop lesson plans, demonstrate proper form and technique, and provide feedback to enhance performance. Ski Instructors also prioritize safety on the slopes, ensuring that students are equipped with the necessary knowledge to enjoy skiing in a responsible manner.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Ski Instructor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Ski Instructor interviews to help you prepare and succeed.

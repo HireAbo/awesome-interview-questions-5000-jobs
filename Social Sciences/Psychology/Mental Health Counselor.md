@@ -2,6 +2,8 @@
 
 Welcome to the Mental Health Counselor Interview Preparation ! This resource is designed to help you ace your Mental Health Counselor interviews with confidence.
 
+A mental health counselor, specializing in psychology within the field of social sciences, is a professional who provides support and guidance to individuals facing various mental health challenges. These counselors are extensively trained to assess, diagnose, and treat individuals suffering from psychological disorders, emotional distress, or behavioral issues. They work closely with clients to develop personalized treatment plans, employing various therapeutic techniques to help them overcome their challenges and improve their overall mental well-being. Mental health counselors may also conduct group therapy sessions, provide crisis intervention, and offer guidance to families of individuals struggling with mental health issues. Their ultimate goal is to promote emotional stability, resilience, and overall mental health for their clients.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Mental Health Counselor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Mental Health Counselor interviews to help you prepare and succeed.

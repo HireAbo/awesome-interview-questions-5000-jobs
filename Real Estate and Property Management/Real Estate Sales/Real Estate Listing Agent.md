@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Listing Agent Interview Preparation ! This resource is designed to help you ace your Real Estate Listing Agent interviews with confidence.
 
+Real Estate Sales is a dynamic field within the real estate industry that involves buying and selling properties. As a Real Estate Listing Agent, your primary responsibility is to assist clients in marketing and selling their properties. You act as a liaison between sellers and potential buyers, ensuring a smooth transaction process. This role requires exceptional communication and negotiation skills to accurately price the property, create compelling listings, and attract potential buyers. Additionally, being a Real Estate Listing Agent entails conducting market research, analyzing property values, and staying updated with local real estate trends. It is a challenging yet rewarding profession that offers the opportunity to help clients achieve their real estate goals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Listing Agent or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Listing Agent interviews to help you prepare and succeed.

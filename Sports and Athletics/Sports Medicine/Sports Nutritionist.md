@@ -2,6 +2,8 @@
 
 Welcome to the Sports Nutritionist Interview Preparation ! This resource is designed to help you ace your Sports Nutritionist interviews with confidence.
 
+A Sports Nutritionist is a specialized professional who focuses on providing athletes and sports teams with expert advice on nutrition, diet, and hydration to optimize performance and enhance recovery. They play a crucial role in the field of Sports Medicine, working closely with athletes, coaches, and healthcare professionals to develop personalized nutrition plans that meet the unique needs of each athlete. Sports Nutritionists possess a deep understanding of the impact of nutrition on athletic performance and are skilled at utilizing scientific knowledge to design tailored meal plans, provide supplementation guidance, and educate athletes on the importance of proper fueling. Their expertise contributes to improving athletes' overall well-being and maximizing their potential on the field.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sports Nutritionist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sports Nutritionist interviews to help you prepare and succeed.

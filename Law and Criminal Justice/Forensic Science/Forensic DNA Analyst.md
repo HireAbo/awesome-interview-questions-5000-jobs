@@ -2,6 +2,8 @@
 
 Welcome to the Forensic DNA Analyst Interview Preparation ! This resource is designed to help you ace your Forensic DNA Analyst interviews with confidence.
 
+A Forensic DNA Analyst plays a crucial role in the field of law and criminal justice, specifically in forensic science. With a deep understanding of genetics and molecular biology, these professionals analyze DNA evidence collected from crime scenes to identify potential suspects or victims. They utilize advanced laboratory techniques to extract, purify, and analyze DNA samples, comparing them to known profiles in databases. Through their expertise, they provide valuable insights that can be used in court proceedings to prove or disprove a suspect's involvement in a crime. Their work is highly specialized and requires meticulous attention to detail, as well as a commitment to upholding the principles of justice and fairness.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forensic DNA Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forensic DNA Analyst interviews to help you prepare and succeed.

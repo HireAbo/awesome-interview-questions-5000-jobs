@@ -2,6 +2,8 @@
 
 Welcome to the Community Relations Manager Interview Preparation ! This resource is designed to help you ace your Community Relations Manager interviews with confidence.
 
+The role of a Community Relations Manager in Sports Management is crucial in fostering positive relationships between sports organizations and their surrounding communities. As a Community Relations Manager, you play a pivotal role in developing and implementing community outreach programs, organizing events, and engaging with local stakeholders. Your objective is to promote the organization's image, build brand loyalty, and enhance community support. This requires exceptional communication skills, as you will collaborate with various community partners, such as schools, nonprofits, and local businesses. Additionally, you will be responsible for coordinating charitable initiatives, volunteering programs, and ensuring the organization's efforts align with the community's needs and values.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Community Relations Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Community Relations Manager interviews to help you prepare and succeed.

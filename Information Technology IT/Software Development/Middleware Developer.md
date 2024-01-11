@@ -2,6 +2,8 @@
 
 Welcome to the Middleware Developer Interview Preparation ! This resource is designed to help you ace your Middleware Developer interviews with confidence.
 
+A Middleware Developer is a crucial role in the field of Information Technology (IT) and Software Development. This professional specializes in creating and maintaining middleware, which is software that acts as a bridge between different applications, systems, and databases. Middleware Developers are responsible for designing, developing, testing, and implementing middleware solutions that facilitate communication, data sharing, and integration among various software components. They work closely with software architects, database administrators, and other developers to ensure smooth functioning of applications and systems. Additionally, Middleware Developers troubleshoot and resolve any issues related to middleware, optimize performance, and ensure security and scalability of the software. Their expertise is essential in enabling seamless and efficient data flow within complex IT infrastructures.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Middleware Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Middleware Developer interviews to help you prepare and succeed.

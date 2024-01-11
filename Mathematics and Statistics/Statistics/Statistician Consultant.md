@@ -2,6 +2,8 @@
 
 Welcome to the Statistician Consultant Interview Preparation ! This resource is designed to help you ace your Statistician Consultant interviews with confidence.
 
+Mathematics and Statistics are two closely related fields that deal with the study of numbers, quantities, and patterns. Mathematics focuses on the theoretical aspects of numbers and their relationships, while Statistics involves the collection, analysis, interpretation, presentation, and organization of data. Within the field of Statistics, there is a specialized role known as a Statistician Consultant. A Statistician Consultant is a professional who provides expert advice and guidance to businesses, organizations, or individuals in making informed decisions based on statistical data. They utilize their expertise in statistical methods and techniques to design and implement data collection methods, analyze data, and present findings in a meaningful way that supports evidence-based decision-making. A Statistician Consultant plays a crucial role in various sectors, such as healthcare, finance, market research, and government agencies, by providing valuable insights and recommendations derived from statistical analysis.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Statistician Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Statistician Consultant interviews to help you prepare and succeed.

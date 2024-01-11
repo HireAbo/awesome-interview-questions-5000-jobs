@@ -2,6 +2,8 @@
 
 Welcome to the Project Estimator Interview Preparation ! This resource is designed to help you ace your Project Estimator interviews with confidence.
 
+A Project Estimator plays a crucial role in the field of project management, specifically in the area of cost estimation. This role involves analyzing project requirements, developing accurate cost estimates, and providing guidance on budgeting and resource allocation. A Project Estimator collaborates with various stakeholders, including project managers, clients, and vendors, to gather necessary information and ensure that cost estimates align with project goals and objectives. They utilize their expertise in evaluating labor, materials, equipment, and other resources to create detailed estimates that enable effective project planning and decision-making. A Project Estimator's proficiency in analyzing data, attention to detail, and strong analytical skills contribute to successful project outcomes and the achievement of organizational objectives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Project Estimator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Project Estimator interviews to help you prepare and succeed.

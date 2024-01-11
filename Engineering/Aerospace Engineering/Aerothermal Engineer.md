@@ -2,6 +2,8 @@
 
 Welcome to the Aerothermal Engineer Interview Preparation ! This resource is designed to help you ace your Aerothermal Engineer interviews with confidence.
 
+An Aerothermal Engineer in the field of Aerospace Engineering is responsible for designing and analyzing thermal systems and components that are used in aircraft and spacecraft. They specialize in understanding the behavior of heat transfer, fluid dynamics, and thermodynamics in these systems. Aerothermal Engineers are involved in designing and developing propulsion systems, such as jet engines and rocket engines, with a focus on optimizing their performance and efficiency. They also work on thermal management systems to ensure that the temperature of critical components remains within safe limits. With their expertise, Aerothermal Engineers play a crucial role in ensuring the safety, reliability, and efficiency of aerospace vehicles.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Aerothermal Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Aerothermal Engineer interviews to help you prepare and succeed.

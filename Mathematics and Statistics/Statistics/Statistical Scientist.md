@@ -2,6 +2,8 @@
 
 Welcome to the Statistical Scientist Interview Preparation ! This resource is designed to help you ace your Statistical Scientist interviews with confidence.
 
+A Statistical Scientist is a professional who applies mathematical and statistical principles to collect, analyze, and interpret data for various purposes. They play a crucial role in fields such as economics, healthcare, market research, and social sciences. Statistical Scientists are responsible for designing experiments, developing surveys, and selecting appropriate statistical models to ensure accurate data analysis. They use advanced statistical software and programming languages to process large datasets, identify trends, and make predictions. Additionally, Statistical Scientists may conduct hypothesis testing, develop mathematical models, and create data visualizations to communicate findings effectively. Their expertise is essential in making informed decisions, solving complex problems, and driving evidence-based policies in various industries.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Statistical Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Statistical Scientist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Health and Safety Manager Interview Preparation ! This resource is designed to help you ace your Environmental Health and Safety Manager interviews with confidence.
 
+The field of Agriculture and Environmental Science encompasses a wide range of disciplines that focus on the study of our natural environment, its resources, and the impact of human activities on it. Within this field, Environmental Science specifically addresses the issues related to environmental health and safety. An Environmental Health and Safety Manager plays a crucial role in ensuring the well-being of both the environment and individuals. They are responsible for developing and implementing strategies to minimize risks, promote sustainability, and comply with relevant regulations. They conduct environmental assessments, manage hazardous waste, design safety protocols, and educate others on the importance of maintaining a healthy and sustainable environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Health and Safety Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Health and Safety Manager interviews to help you prepare and succeed.

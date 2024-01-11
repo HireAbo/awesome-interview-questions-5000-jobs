@@ -2,6 +2,8 @@
 
 Welcome to the Swift Developer Interview Preparation ! This resource is designed to help you ace your Swift Developer interviews with confidence.
 
+A Swift Developer is a professional specializing in software development using the Swift programming language. Swift is a powerful and intuitive programming language developed by Apple for iOS, macOS, watchOS, and tvOS platforms. As a Swift Developer, you will be responsible for designing, coding, testing, and maintaining software applications for these platforms. You will work closely with cross-functional teams, including designers and product managers, to develop innovative and user-friendly applications. Proficiency in Swift programming, along with knowledge of iOS frameworks and APIs, is essential for this role. A Swift Developer must have strong problem-solving skills and be able to adapt to rapidly changing technological advancements in the field of software development.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Swift Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Swift Developer interviews to help you prepare and succeed.

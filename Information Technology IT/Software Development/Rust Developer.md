@@ -2,6 +2,8 @@
 
 Welcome to the Rust Developer Interview Preparation ! This resource is designed to help you ace your Rust Developer interviews with confidence.
 
+A Rust Developer job in the field of Information Technology (IT) focuses on software development using the Rust programming language. Rust is a modern, safe, and efficient programming language known for its memory safety, concurrency, and performance. As a Rust Developer, your primary responsibility is to design, develop, and maintain software applications using Rust. You will collaborate with a team of developers to write clean, reliable, and efficient code. Additionally, you will be involved in debugging, testing, and optimizing software performance. A Rust Developer should possess strong problem-solving skills, attention to detail, and a deep understanding of software development principles.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Rust Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Rust Developer interviews to help you prepare and succeed.

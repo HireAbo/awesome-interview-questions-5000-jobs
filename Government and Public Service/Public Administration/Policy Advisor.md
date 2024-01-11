@@ -2,6 +2,8 @@
 
 Welcome to the Policy Advisor Interview Preparation ! This resource is designed to help you ace your Policy Advisor interviews with confidence.
 
+A policy advisor is a professional who works within the domain of government and public service, specifically in the field of public administration. Public administration refers to the implementation and management of government policies and programs. Policy advisors play a crucial role in this process by providing expert advice and analysis on policy matters to policymakers and government officials. They conduct thorough research, evaluate the impact of policies, and propose recommendations to enhance effectiveness and efficiency. These professionals possess strong analytical and critical-thinking skills, as well as a deep understanding of political, economic, and social dynamics. Policy advisors contribute to the development and formulation of policies that address societal challenges and promote the well-being of citizens.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Policy Advisor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Policy Advisor interviews to help you prepare and succeed.

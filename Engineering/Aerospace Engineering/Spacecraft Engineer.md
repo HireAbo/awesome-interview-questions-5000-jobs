@@ -2,6 +2,8 @@
 
 Welcome to the Spacecraft Engineer Interview Preparation ! This resource is designed to help you ace your Spacecraft Engineer interviews with confidence.
 
+Aerospace Engineering is a specialized field of engineering that focuses on the design, development, and production of aircraft, spacecraft, satellites, and related systems. Within this vast field, Spacecraft Engineers play a crucial role in designing and constructing various types of spacecraft for missions to outer space. These engineers are responsible for creating and testing prototypes, conducting research to improve spacecraft performance, and ensuring that all components meet strict safety and reliability standards. Spacecraft Engineers also collaborate with other professionals, such as astrophysicists and mission planners, to ensure that the spacecraft meets the specific needs and objectives of each space mission. They are at the forefront of technological advancements, pushing the boundaries of exploration and contributing to advancements in our understanding of the universe.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Spacecraft Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Spacecraft Engineer interviews to help you prepare and succeed.

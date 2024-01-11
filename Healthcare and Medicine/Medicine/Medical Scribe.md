@@ -2,6 +2,8 @@
 
 Welcome to the Medical Scribe Interview Preparation ! This resource is designed to help you ace your Medical Scribe interviews with confidence.
 
+A Medical Scribe is a healthcare professional who works closely with physicians or healthcare providers to document patient encounters in real-time. They play a vital role in the healthcare industry by ensuring accurate and complete medical records. Medical Scribes are responsible for transcribing medical histories, physical exams, diagnostic tests, treatment plans, and other relevant information. They assist in maintaining organized medical charts, improving workflow efficiency, and reducing physician burnout. Medical Scribes must have excellent listening and typing skills, exceptional attention to detail, and a solid understanding of medical terminology. Their role helps streamline healthcare operations and enhances patient care by allowing physicians to focus more on diagnosing and treating patients.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Medical Scribe or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Medical Scribe interviews to help you prepare and succeed.

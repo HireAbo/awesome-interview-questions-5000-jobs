@@ -2,6 +2,8 @@
 
 Welcome to the Festival Organizer Interview Preparation ! This resource is designed to help you ace your Festival Organizer interviews with confidence.
 
+Hospitality and Tourism, specifically event planning in the festival organizing field, is an exciting and dynamic career choice. As a festival organizer, you will play a crucial role in planning and executing memorable events that cater to diverse audiences. Your responsibilities will include conceptualizing and coordinating festival programs, managing logistics, collaborating with vendors and sponsors, and ensuring a seamless experience for attendees. This role demands excellent organizational and communication skills, as well as a keen eye for detail and creativity. With the opportunity to work on different types of festivals, you will have the chance to create unique experiences that leave lasting memories for all involved.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Festival Organizer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Festival Organizer interviews to help you prepare and succeed.

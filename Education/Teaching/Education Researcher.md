@@ -2,6 +2,8 @@
 
 Welcome to the Education Researcher Interview Preparation ! This resource is designed to help you ace your Education Researcher interviews with confidence.
 
+Education research is a vital field that focuses on studying and analyzing various aspects of education to improve teaching methodologies and enhance student outcomes. An education researcher plays a crucial role in this domain by conducting research studies, collecting data, and analyzing educational practices, policies, and systems. They are responsible for designing research projects, formulating research questions, and gathering evidence to inform educational decision-making. These professionals often collaborate with teachers, administrators, and policymakers to identify educational challenges and develop innovative solutions. Education researchers also contribute to the development of educational materials, curriculum design, and the implementation of evidence-based instructional strategies. Their work ultimately aims to enhance educational practices and contribute to the overall improvement of the education system.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Education Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Education Researcher interviews to help you prepare and succeed.

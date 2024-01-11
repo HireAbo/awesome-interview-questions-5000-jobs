@@ -2,6 +2,8 @@
 
 Welcome to the Forest Inventory Manager Interview Preparation ! This resource is designed to help you ace your Forest Inventory Manager interviews with confidence.
 
+The field of Agriculture and Environmental Science encompasses various disciplines that aim to understand and manage the natural resources that sustain life on Earth. One important aspect of this field is Forestry, which involves the sustainable management of forests for a multitude of purposes, including timber production, wildlife conservation, and recreation. Within the realm of forestry, the role of a Forest Inventory Manager is crucial. Forest Inventory Managers are responsible for collecting and analyzing data about forests, including tree species, age, size, and quality. They use advanced technology and statistical methods to assess forest health, growth rates, and potential threats, thus informing sustainable forest management practices. Ultimately, Forest Inventory Managers play a vital role in preserving and optimizing the use of forest resources for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forest Inventory Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forest Inventory Manager interviews to help you prepare and succeed.

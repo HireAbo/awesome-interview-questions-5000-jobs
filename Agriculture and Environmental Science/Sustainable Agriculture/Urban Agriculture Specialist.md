@@ -2,6 +2,8 @@
 
 Welcome to the Urban Agriculture Specialist Interview Preparation ! This resource is designed to help you ace your Urban Agriculture Specialist interviews with confidence.
 
+The field of Agriculture and Environmental Science encompasses a broad range of disciplines aimed at promoting sustainable practices in agriculture. Within this field, the role of an Urban Agriculture Specialist is crucial in addressing the unique challenges faced by urban areas in achieving sustainable food production. Urban Agriculture Specialists work towards creating and maintaining urban farming systems that are environmentally friendly, economically viable, and socially equitable. Their responsibilities include designing and implementing urban farming projects, providing technical assistance to farmers, conducting research on urban farming techniques, and promoting community engagement in sustainable agriculture practices. Through their expertise, Urban Agriculture Specialists contribute to the development of resilient and self-sufficient urban communities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Urban Agriculture Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Urban Agriculture Specialist interviews to help you prepare and succeed.

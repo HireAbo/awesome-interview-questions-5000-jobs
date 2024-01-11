@@ -2,6 +2,8 @@
 
 Welcome to the Media Buyer Interview Preparation ! This resource is designed to help you ace your Media Buyer interviews with confidence.
 
+A Media Buyer is a crucial role in the field of Marketing within the Business and Management sector. As a Media Buyer, one is responsible for planning, negotiating, and purchasing advertising space across various media channels to promote and enhance a company's brand and product visibility. This role requires a deep understanding of target audiences, market trends, and consumer behavior to effectively allocate budgets and select the most appropriate media platforms such as television, radio, print, online, or social media. A Media Buyer must possess excellent communication and negotiation skills to collaborate with media representatives, analyze media performance data, and optimize campaigns to maximize ROI and reach organizational goals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Media Buyer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Media Buyer interviews to help you prepare and succeed.

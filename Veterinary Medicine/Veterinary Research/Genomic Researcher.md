@@ -2,6 +2,8 @@
 
 Welcome to the Genomic Researcher Interview Preparation ! This resource is designed to help you ace your Genomic Researcher interviews with confidence.
 
+A Genomic Researcher in Veterinary Medicine plays a crucial role in advancing the understanding and treatment of animal diseases. These professionals specialize in studying the genetic makeup of animals to identify genes responsible for specific conditions or traits. By exploring the animal genome, they aim to improve animal health, enhance breeding programs, and develop targeted therapies. Genomic Researchers employ cutting-edge techniques such as DNA sequencing, bioinformatics, and statistical analysis to analyze vast amounts of genomic data. They collaborate with veterinarians, scientists, and breeders to translate their findings into practical applications that benefit animals and contribute to the overall advancement of veterinary medicine.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Genomic Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Genomic Researcher interviews to help you prepare and succeed.

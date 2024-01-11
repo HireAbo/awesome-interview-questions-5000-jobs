@@ -2,6 +2,8 @@
 
 Welcome to the Transportation Consultant Interview Preparation ! This resource is designed to help you ace your Transportation Consultant interviews with confidence.
 
+A Transportation Consultant within the field of Transportation and Logistics is a professional who specializes in transportation planning. These experts play a crucial role in assisting companies and organizations in optimizing their transportation systems and operations. They analyze existing transportation networks, identify areas for improvement, and develop strategies to enhance efficiency, reduce costs, and minimize environmental impact. Transportation Consultants possess a deep understanding of industry regulations, market trends, and technological advancements in logistics. They collaborate with clients, stakeholders, and transportation providers to design and implement innovative transportation solutions. These professionals possess strong analytical, problem-solving, and communication skills, making them invaluable assets in supporting businesses to achieve their transportation goals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Transportation Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Transportation Consultant interviews to help you prepare and succeed.

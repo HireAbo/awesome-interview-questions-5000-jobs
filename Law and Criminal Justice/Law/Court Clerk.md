@@ -2,6 +2,8 @@
 
 Welcome to the Court Clerk Interview Preparation ! This resource is designed to help you ace your Court Clerk interviews with confidence.
 
+A Court Clerk plays a crucial role in the field of Law and Criminal Justice. As an integral part of the legal system, a Court Clerk provides essential administrative support within the courtroom. Their primary responsibilities include maintaining accurate records of court proceedings, managing case files, scheduling hearings, and ensuring the efficient operation of the courtroom. Additionally, Court Clerks assist judges, attorneys, and other court personnel by preparing legal documents, summoning witnesses, and managing jury selection processes. This role requires excellent organizational skills, attention to detail, and a strong understanding of legal procedures. A Court Clerk plays a vital role in upholding the integrity and fairness of the judicial system.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Court Clerk or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Court Clerk interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Community Manager Interview Preparation ! This resource is designed to help you ace your Community Manager interviews with confidence.
 
+A Community Manager is an integral role in the field of marketing within the business and management sector. This job entails building and nurturing online communities, engaging with customers, and managing brand presence on various social media platforms. The Community Manager is responsible for developing strategies to increase brand awareness, drive customer loyalty, and facilitate communication between the brand and its audience. They also monitor and analyze online conversations and feedback, identifying trends and insights to enhance marketing campaigns. Excellent interpersonal skills, creativity, and a deep understanding of social media platforms are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Community Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Community Manager interviews to help you prepare and succeed.

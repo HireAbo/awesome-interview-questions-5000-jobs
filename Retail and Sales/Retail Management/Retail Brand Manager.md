@@ -2,6 +2,8 @@
 
 Welcome to the Retail Brand Manager Interview Preparation ! This resource is designed to help you ace your Retail Brand Manager interviews with confidence.
 
+A Retail Brand Manager is a professional responsible for overseeing the development and implementation of marketing strategies to promote and strengthen the image of a retail brand. They focus on building brand awareness, driving customer loyalty, and increasing sales and profitability. The role involves conducting market research, analyzing consumer trends, and identifying target audiences. Retail Brand Managers collaborate with various departments to create and execute effective marketing campaigns, including advertising, promotions, and social media initiatives. They also monitor competitor activities, manage budgets, and evaluate the success of marketing efforts. Strong communication, leadership, and analytical skills are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Retail Brand Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Retail Brand Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Electric Vehicle (EV) Technician Interview Preparation ! This resource is designed to help you ace your Electric Vehicle (EV) Technician interviews with confidence.
 
+The Electric Vehicle (EV) Technician job is a specialized field within the auto mechanics industry that focuses on the maintenance, repair, and servicing of electric vehicles. As the demand for electric vehicles continues to rise due to their environmental benefits and technological advancements, skilled EV technicians play a crucial role in ensuring the smooth functioning of these vehicles. They are responsible for diagnosing and resolving electrical issues, installing and repairing EV charging stations, and performing routine maintenance tasks. With a deep understanding of EV components, software systems, and emerging technologies, EV technicians contribute to the growth and efficiency of the electric vehicle industry. Their expertise and knowledge are essential for the transition towards a sustainable and greener future.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Electric Vehicle (EV) Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Electric Vehicle (EV) Technician interviews to help you prepare and succeed.

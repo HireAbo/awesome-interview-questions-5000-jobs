@@ -2,6 +2,8 @@
 
 Welcome to the Network Test Engineer Interview Preparation ! This resource is designed to help you ace your Network Test Engineer interviews with confidence.
 
+A Network Test Engineer in the field of Information Technology (IT) is a professional responsible for ensuring the smooth functioning and reliability of network systems. This role primarily focuses on testing and evaluating network infrastructure, components, and protocols to identify any potential issues or vulnerabilities. Network Test Engineers collaborate closely with Network Engineers to design and implement testing methodologies and strategies. They conduct various tests, including performance, security, and functionality tests, to validate the network's performance and identify areas for improvement. Additionally, Network Test Engineers document their findings, provide recommendations for network optimization, and assist in troubleshooting network-related problems. Overall, their expertise is vital in guaranteeing efficient and secure network operations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Network Test Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Network Test Engineer interviews to help you prepare and succeed.

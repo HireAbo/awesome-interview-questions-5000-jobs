@@ -2,6 +2,8 @@
 
 Welcome to the Detective Interview Preparation ! This resource is designed to help you ace your Detective interviews with confidence.
 
+A detective is a crucial role within the field of law enforcement, responsible for investigating and solving crimes. Detectives possess a unique set of skills, combining critical thinking, observation, and problem-solving abilities. They work closely with other law enforcement officials, collecting evidence, interviewing witnesses, and analyzing crime scenes to piece together the puzzle. A detective's primary objective is to identify the culprits behind criminal activities and gather enough evidence to build a strong case for prosecution. Their work often involves undercover operations, surveillance, and collaboration with forensic experts. Detectives play a vital role in maintaining law and order within communities, ensuring justice is served and the innocent are protected.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Detective or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Detective interviews to help you prepare and succeed.

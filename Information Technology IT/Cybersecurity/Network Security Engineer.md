@@ -2,6 +2,8 @@
 
 Welcome to the Network Security Engineer Interview Preparation ! This resource is designed to help you ace your Network Security Engineer interviews with confidence.
 
+An Information Technology (IT) Network Security Engineer is a professional responsible for safeguarding an organization's network and systems against potential cyber threats. They play a crucial role in ensuring the confidentiality, integrity, and availability of data within an organization. These professionals design, implement, and manage security measures to protect computer networks from unauthorized access, malware, and other potential vulnerabilities. They are responsible for identifying and mitigating security risks, conducting vulnerability assessments, monitoring network activity, and responding to security incidents. Network Security Engineers possess a strong understanding of network protocols, firewalls, intrusion detection systems, and other security technologies. They continuously stay updated on the latest cybersecurity trends and implement strategies to protect against evolving threats.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Network Security Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Network Security Engineer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Digital Media Account Manager Interview Preparation ! This resource is designed to help you ace your Digital Media Account Manager interviews with confidence.
 
+A Digital Media Account Manager plays a vital role in the field of Communication and Media, specifically within the domain of Digital Media. This job involves managing and overseeing digital media accounts for clients, ensuring effective communication and delivery of digital media campaigns. The Account Manager collaborates with clients to understand their goals and objectives, devising tailored strategies to maximize their digital presence and reach their target audience. They are responsible for planning, implementing, and monitoring digital media campaigns, optimizing them for optimal performance. Additionally, they analyze data and provide detailed reports to clients, keeping them informed about campaign progress and recommending improvements. In summary, a Digital Media Account Manager is the key point of contact for clients, ensuring successful digital media campaigns and fostering strong professional relationships.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Digital Media Account Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Digital Media Account Manager interviews to help you prepare and succeed.

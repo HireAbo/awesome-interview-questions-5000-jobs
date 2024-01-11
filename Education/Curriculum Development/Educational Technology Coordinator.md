@@ -2,6 +2,8 @@
 
 Welcome to the Educational Technology Coordinator Interview Preparation ! This resource is designed to help you ace your Educational Technology Coordinator interviews with confidence.
 
+The role of an Educational Technology Coordinator is vital in the field of Curriculum Development within the education sector. This position requires an individual who is well-versed in both education and technology, with a focus on integrating technology into the curriculum effectively. The Educational Technology Coordinator is responsible for developing and implementing strategies to enhance instructional practices using various technological tools. They collaborate with teachers and administrators to identify educational needs, design curriculum plans, and select appropriate technology resources. Additionally, they provide training and support to educators, ensuring they are proficient in utilizing educational technology tools to facilitate student learning and engagement. Overall, an Educational Technology Coordinator plays a crucial role in fostering innovation and enhancing the educational experience for both teachers and students.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Educational Technology Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Educational Technology Coordinator interviews to help you prepare and succeed.

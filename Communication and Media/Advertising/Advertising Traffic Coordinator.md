@@ -2,6 +2,8 @@
 
 Welcome to the Advertising Traffic Coordinator Interview Preparation ! This resource is designed to help you ace your Advertising Traffic Coordinator interviews with confidence.
 
+The role of an Advertising Traffic Coordinator is crucial in managing the flow of advertising materials within a media organization. They play a vital role in ensuring that all advertising campaigns run smoothly and efficiently. The main responsibilities of an Advertising Traffic Coordinator include coordinating with clients, creative teams, and media planners to gather all necessary materials for advertising campaigns, ensuring that deadlines are met, tracking and organizing advertising materials, and communicating with various departments to ensure accurate and timely execution of campaigns. Strong organizational and communication skills are essential for this role, as well as the ability to work under pressure and meet tight deadlines.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Advertising Traffic Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Advertising Traffic Coordinator interviews to help you prepare and succeed.

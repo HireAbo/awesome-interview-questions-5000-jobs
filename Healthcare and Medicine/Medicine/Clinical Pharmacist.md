@@ -2,6 +2,8 @@
 
 Welcome to the Clinical Pharmacist Interview Preparation ! This resource is designed to help you ace your Clinical Pharmacist interviews with confidence.
 
+A Clinical Pharmacist is a healthcare professional who specializes in the field of medicine and plays a vital role in patient care. They work closely with physicians, nurses, and other healthcare professionals to optimize medication therapy for patients. Clinical Pharmacists have extensive knowledge of medications, their uses, potential side effects, and drug interactions. They review patient medical records, evaluate medication regimens, and make recommendations to ensure safe and effective drug therapy. They also provide education to patients and healthcare providers about medications, monitor patient outcomes, and collaborate with the healthcare team to develop individualized treatment plans. Clinical Pharmacists are crucial in promoting optimal medication management and improving patient outcomes in healthcare settings.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Clinical Pharmacist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Clinical Pharmacist interviews to help you prepare and succeed.

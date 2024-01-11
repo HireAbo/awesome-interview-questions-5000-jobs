@@ -2,6 +2,8 @@
 
 Welcome to the Buyer Interview Preparation ! This resource is designed to help you ace your Buyer interviews with confidence.
 
+The role of a Buyer in the field of Retail and Sales Merchandising is vital for the success of a company's product assortment. Buyers are responsible for sourcing and selecting merchandise that aligns with the company's brand and target market. They must possess a keen understanding of market trends, consumer demands, and competitor analysis to make informed purchasing decisions. Buyers negotiate with suppliers to secure the best possible pricing and terms, ensuring profitability. They collaborate closely with cross-functional teams such as marketing, planning, and visual merchandising to develop effective sales strategies. Strong analytical skills, communication abilities, and a passion for the retail industry are essential for success in this dynamic role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Buyer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Buyer interviews to help you prepare and succeed.

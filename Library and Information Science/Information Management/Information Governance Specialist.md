@@ -2,6 +2,8 @@
 
 Welcome to the Information Governance Specialist Interview Preparation ! This resource is designed to help you ace your Information Governance Specialist interviews with confidence.
 
+A Library and Information Science (LIS) degree equips professionals with the skills and knowledge to manage, organize, and analyze information in various settings. Information Management is a specialized field within LIS that focuses on effectively handling all aspects of information, from creation to preservation. Within Information Management, there is a growing demand for Information Governance Specialists. These professionals play a crucial role in ensuring that organizations comply with legal and regulatory requirements regarding information privacy, security, and access. From developing policies and procedures to overseeing data management practices, Information Governance Specialists are adept at implementing strategies that mitigate risks and optimize information usage. Their expertise is essential in today's data-driven world, where organizations face numerous challenges in managing and protecting sensitive information.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Information Governance Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Information Governance Specialist interviews to help you prepare and succeed.

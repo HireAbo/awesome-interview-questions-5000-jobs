@@ -2,6 +2,8 @@
 
 Welcome to the Quantitative Advisor Interview Preparation ! This resource is designed to help you ace your Quantitative Advisor interviews with confidence.
 
+A Quantitative Advisor is a professional who specializes in providing mathematical and statistical analysis for decision-making processes. They use their expertise in mathematics and statistics to analyze large sets of data, identify patterns, and draw meaningful conclusions. In the field of finance, a Quantitative Advisor plays a crucial role in risk management, portfolio optimization, and investment strategies. They use various mathematical models and statistical techniques to develop quantitative models that help organizations make informed decisions. Additionally, a Quantitative Advisor may also provide guidance and recommendations on data collection, analysis methodologies, and statistical software. Overall, their role is to leverage mathematical and statistical tools to provide valuable insights and support evidence-based decision-making.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Quantitative Advisor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Quantitative Advisor interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Radiologic Technologist Interview Preparation ! This resource is designed to help you ace your Radiologic Technologist interviews with confidence.
 
+A Radiologic Technologist is a crucial member of the healthcare team responsible for operating medical imaging equipment to create diagnostic images. They work closely with radiologists and physicians to perform various imaging procedures, including x-rays, CT scans, MRIs, and mammograms. Radiologic Technologists ensure patients are positioned correctly, administer contrast agents, and follow safety protocols to minimize radiation exposure. They also maintain and troubleshoot imaging equipment, document patient information, and collaborate with other healthcare professionals to provide accurate and timely diagnostic information. With the increasing demand for diagnostic imaging, Radiologic Technologists play a vital role in helping physicians diagnose and treat various medical conditions, making them an essential part of the healthcare and medicine sector.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Radiologic Technologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Radiologic Technologist interviews to help you prepare and succeed.

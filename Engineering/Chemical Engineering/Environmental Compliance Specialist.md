@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Compliance Specialist Interview Preparation ! This resource is designed to help you ace your Environmental Compliance Specialist interviews with confidence.
 
+An Environmental Compliance Specialist in Chemical Engineering is a professional who ensures that chemical manufacturing and other industrial processes comply with environmental regulations. They play a crucial role in minimizing the impact of these processes on the environment and ensuring the safety of workers and communities. Their responsibilities include managing and implementing environmental compliance programs, conducting audits, and developing strategies to mitigate environmental risks. They also collaborate with regulatory agencies and stakeholders to ensure compliance with laws and regulations related to air and water quality, waste management, and hazardous materials. Environmental Compliance Specialists in Chemical Engineering possess strong technical skills and a deep understanding of environmental laws and regulations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Compliance Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Compliance Specialist interviews to help you prepare and succeed.

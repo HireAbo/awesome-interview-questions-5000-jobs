@@ -2,6 +2,8 @@
 
 Welcome to the Hydrotherapy Specialist Interview Preparation ! This resource is designed to help you ace your Hydrotherapy Specialist interviews with confidence.
 
+A Hydrotherapy Specialist is a healthcare professional specializing in sports medicine, specifically in the field of hydrotherapy. Hydrotherapy involves the use of water for therapeutic purposes, such as rehabilitation, pain management, and injury prevention. These specialists work closely with athletes and individuals participating in sports to provide personalized treatment plans using various water-based exercises and techniques. They are responsible for assessing an individual's condition, designing specific hydrotherapy programs, and monitoring progress to ensure optimal recovery and performance improvement. Hydrotherapy Specialists possess a deep understanding of anatomy, physiology, and sports-related injuries, allowing them to apply their expertise in water-based environments to facilitate healing, enhance mobility, and enhance overall athletic performance.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Hydrotherapy Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Hydrotherapy Specialist interviews to help you prepare and succeed.

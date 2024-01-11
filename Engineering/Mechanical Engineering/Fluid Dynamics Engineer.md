@@ -2,6 +2,8 @@
 
 Welcome to the Fluid Dynamics Engineer Interview Preparation ! This resource is designed to help you ace your Fluid Dynamics Engineer interviews with confidence.
 
+A Fluid Dynamics Engineer, specializing in Mechanical Engineering, plays a crucial role in the understanding and analysis of fluid behavior and its impact on mechanical systems. They apply their expertise to study the movement and interaction of liquids and gases within various applications, such as aircraft, automotive, energy production, and environmental systems. By utilizing computational fluid dynamics (CFD) software and conducting experimental tests, Fluid Dynamics Engineers evaluate parameters like flow rate, pressure, and temperature to optimize system performance, minimize energy consumption, and enhance efficiency. They also design and develop solutions to overcome challenges related to fluid flow, such as turbulence, cavitation, and heat transfer, ensuring safe and reliable operations of mechanical systems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Fluid Dynamics Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Fluid Dynamics Engineer interviews to help you prepare and succeed.

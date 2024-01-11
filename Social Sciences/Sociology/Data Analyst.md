@@ -2,6 +2,8 @@
 
 Welcome to the Data Analyst Interview Preparation ! This resource is designed to help you ace your Data Analyst interviews with confidence.
 
+A data analyst job in sociology within the field of social sciences involves collecting, analyzing, and interpreting data to provide insights and inform decision-making processes. Data analysts in sociology work with large datasets, using statistical tools and software to examine societal trends, patterns, and behaviors. They may conduct surveys, interviews, or observe social interactions to gather data, and then clean, organize, and analyze this information to identify correlations and make meaningful conclusions. Additionally, data analysts in sociology may contribute to research projects, collaborate with sociologists, and present findings through reports or presentations. Their work plays a pivotal role in understanding and addressing social issues and challenges.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Analyst interviews to help you prepare and succeed.

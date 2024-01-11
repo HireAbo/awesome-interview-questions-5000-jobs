@@ -2,6 +2,8 @@
 
 Welcome to the Retail Sales Associate Interview Preparation ! This resource is designed to help you ace your Retail Sales Associate interviews with confidence.
 
+A Retail Sales Associate is a vital member of a retail team responsible for providing exceptional customer service and driving sales. They are the frontline representatives of a store, assisting customers in finding products, answering their queries, and ensuring a positive shopping experience. Retail Sales Associates are knowledgeable about the store's products and promotions, helping customers make informed purchasing decisions. They handle cash transactions, process returns, and maintain accurate inventory records. Additionally, they are responsible for merchandising and maintaining a clean and organized store environment. A successful Retail Sales Associate possesses excellent communication and interpersonal skills, a strong sales aptitude, and a passion for customer satisfaction.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Retail Sales Associate or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Retail Sales Associate interviews to help you prepare and succeed.

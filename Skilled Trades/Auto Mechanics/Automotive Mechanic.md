@@ -2,6 +2,8 @@
 
 Welcome to the Automotive Mechanic Interview Preparation ! This resource is designed to help you ace your Automotive Mechanic interviews with confidence.
 
+Automotive mechanics play a crucial role in the skilled trade industry, specializing in the maintenance, repair, and inspection of automobiles. These skilled professionals possess an in-depth knowledge of vehicle systems, including engines, brakes, suspensions, and electrical components, and are proficient in diagnosing and fixing mechanical issues. Automotive mechanics utilize a wide range of tools and equipment to perform routine maintenance tasks, such as oil changes and tire rotations, as well as complex repairs, such as engine overhauls and transmission replacements. With the constant advancement in automotive technology, these professionals stay up-to-date with the latest trends and undergo continuous training to ensure they can efficiently troubleshoot and resolve any automotive problems that may arise.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Automotive Mechanic or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Automotive Mechanic interviews to help you prepare and succeed.

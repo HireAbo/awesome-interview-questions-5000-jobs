@@ -2,6 +2,8 @@
 
 Welcome to the Web Editor Interview Preparation ! This resource is designed to help you ace your Web Editor interviews with confidence.
 
+A Web Editor plays a crucial role in the field of journalism and media by managing and overseeing the content published on websites or digital platforms. As a key member of the editorial team, a Web Editor ensures that the content is accurate, engaging, and aligns with the organization's goals and standards. They collaborate with writers, photographers, and videographers to create compelling multimedia content. Additionally, Web Editors are responsible for editing and proofreading articles, optimizing content for search engines, and monitoring website traffic and engagement metrics. With excellent communication and organizational skills, a Web Editor plays a pivotal role in shaping the online presence and reputation of media organizations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Web Editor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Web Editor interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the HR Assistant Interview Preparation ! This resource is designed to help you ace your HR Assistant interviews with confidence.
 
+The role of an HR Assistant is crucial in any organization's success as they provide essential support to the Human Resources department. As an HR Assistant, you will be responsible for a variety of administrative tasks, including maintaining employee records, managing the onboarding process, and assisting with payroll and benefits administration. Additionally, you will play a key role in recruitment activities, such as sourcing candidates, conducting initial screenings, and coordinating interviews. Strong organizational and communication skills are essential in this role, as you will be interacting with employees at all levels of the organization. A successful HR Assistant ensures smooth HR operations and contributes to the overall success of the business.
+
 ## 🚀 Overview
 
 Whether you're a seasoned HR Assistant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in HR Assistant interviews to help you prepare and succeed.

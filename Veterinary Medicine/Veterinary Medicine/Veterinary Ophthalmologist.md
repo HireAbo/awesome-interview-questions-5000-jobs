@@ -2,6 +2,8 @@
 
 Welcome to the Veterinary Ophthalmologist Interview Preparation ! This resource is designed to help you ace your Veterinary Ophthalmologist interviews with confidence.
 
+Veterinary Medicine is a specialized field that focuses on the health and well-being of animals. Within this broad discipline, Veterinary Ophthalmology is a highly specialized branch that deals specifically with diagnosing and treating eye conditions in animals. Veterinary Ophthalmologists are trained professionals who have completed extensive education and training in both veterinary medicine and ophthalmology. Their role is to diagnose and manage a wide range of eye diseases and injuries in animals, including dogs, cats, horses, and exotic species. These professionals perform comprehensive eye examinations, conduct various tests, and provide treatments such as surgeries, medications, and corrective procedures to ensure optimal eye health in animals. Their expertise helps alleviate pain, improve vision, and enhance the overall quality of life for animals suffering from eye-related issues.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Veterinary Ophthalmologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Veterinary Ophthalmologist interviews to help you prepare and succeed.

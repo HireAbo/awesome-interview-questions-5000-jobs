@@ -2,6 +2,8 @@
 
 Welcome to the Consulting Anthropologist Interview Preparation ! This resource is designed to help you ace your Consulting Anthropologist interviews with confidence.
 
+A Consulting Anthropologist is a professional who applies anthropological knowledge and methods to various industries and organizations. These individuals possess expertise in understanding human behavior, culture, and social structures, allowing them to provide valuable insights and solutions to complex problems. Consulting Anthropologists work closely with businesses, government agencies, nonprofits, and research institutions to help them better understand their target audiences, develop effective strategies, and improve decision-making processes. They conduct ethnographic research, analyze data, and provide recommendations based on their findings. Their diverse skill set enables them to tackle issues related to consumer behavior, organizational culture, diversity and inclusion, and social impact, among others. By bridging the gap between academia and real-world challenges, Consulting Anthropologists contribute to shaping more inclusive, culturally sensitive, and sustainable practices in various sectors.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Consulting Anthropologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Consulting Anthropologist interviews to help you prepare and succeed.

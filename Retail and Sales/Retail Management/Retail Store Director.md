@@ -2,6 +2,8 @@
 
 Welcome to the Retail Store Director Interview Preparation ! This resource is designed to help you ace your Retail Store Director interviews with confidence.
 
+A Retail Store Director is a senior-level management role responsible for overseeing the operations of a retail store. They are primarily responsible for driving sales and profitability by implementing effective strategies and managing all aspects of the store's performance. This includes supervising a team of sales associates, developing and executing sales plans, monitoring inventory levels, and ensuring excellent customer service. Additionally, a Retail Store Director is responsible for recruiting, training, and evaluating staff, as well as maintaining a positive work environment. They must possess strong leadership, communication, and organizational skills to successfully meet sales targets and deliver exceptional customer experiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Retail Store Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Retail Store Director interviews to help you prepare and succeed.

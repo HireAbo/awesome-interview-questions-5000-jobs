@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife Rehabilitator Interview Preparation ! This resource is designed to help you ace your Wildlife Rehabilitator interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on the study of the environment and its impact on various aspects of life, including wildlife. Within this field, Wildlife Rehabilitators play a crucial role in conserving and rehabilitating injured or orphaned animals. These professionals work closely with veterinarians, biologists, and other experts to provide medical care, nutrition, and shelter to injured wildlife. By utilizing their knowledge of animal behavior, ecology, and environmental factors, Wildlife Rehabilitators aim to release these animals back into their natural habitats. This rewarding career requires a deep passion for wildlife conservation, strong empathy towards animals, and a commitment to preserving biodiversity and ecological balance.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Rehabilitator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Rehabilitator interviews to help you prepare and succeed.

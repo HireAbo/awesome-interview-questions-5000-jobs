@@ -2,6 +2,8 @@
 
 Welcome to the Project Management Office (PMO) Director of Performance Interview Preparation ! This resource is designed to help you ace your Project Management Office (PMO) Director of Performance interviews with confidence.
 
+The Project Management Office (PMO) Director of Performance is a key role in the field of project management and business management. This position is responsible for overseeing and ensuring the successful delivery of projects within an organization. The PMO Director of Performance is responsible for developing and implementing project management methodologies, processes, and tools to improve project performance and efficiency. They collaborate with stakeholders to define project objectives, scope, and deliverables, ensuring alignment with organizational goals. Additionally, they lead a team of project managers, providing guidance, support, and performance evaluations. The PMO Director of Performance plays a crucial role in enhancing project management practices, optimizing resource allocation, and driving organizational success.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Project Management Office (PMO) Director of Performance or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Project Management Office (PMO) Director of Performance interviews to help you prepare and succeed.

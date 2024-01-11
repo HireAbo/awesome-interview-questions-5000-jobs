@@ -2,6 +2,8 @@
 
 Welcome to the Terrestrial Biologist Interview Preparation ! This resource is designed to help you ace your Terrestrial Biologist interviews with confidence.
 
+Terrestrial Biologists are professionals who specialize in studying the various aspects of biology related to land-based ecosystems. They conduct extensive research to understand the intricate relationships between animals, plants, and their environments. These biologists explore and analyze the behavior, distribution, and adaptations of terrestrial organisms, focusing on their habitats, population dynamics, and ecological interactions. Their work involves conducting field surveys, collecting and analyzing data, and using advanced technologies to study biodiversity and ecosystem dynamics. Terrestrial Biologists often collaborate with other scientists to contribute to various conservation efforts, assess the impact of human activities on ecosystems, and develop strategies for managing and preserving terrestrial biodiversity.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Terrestrial Biologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Terrestrial Biologist interviews to help you prepare and succeed.

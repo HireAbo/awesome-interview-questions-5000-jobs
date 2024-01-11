@@ -2,6 +2,8 @@
 
 Welcome to the Data Science QA Engineer Interview Preparation ! This resource is designed to help you ace your Data Science QA Engineer interviews with confidence.
 
+Information Technology (IT) encompasses the use and management of computers, software, networks, and electronic systems to store, process, transmit, and retrieve information. Within the IT field, Data Science has emerged as a specialized discipline that focuses on analyzing and interpreting large volumes of data to extract valuable insights and make data-driven decisions. Data Science combines statistics, mathematics, programming, and domain knowledge to uncover patterns, trends, and correlations within datasets. A Data Science QA Engineer is a professional who ensures the accuracy, quality, and reliability of data analysis processes and models. They are responsible for designing and executing test plans, identifying and resolving data issues, and optimizing data science workflows to deliver reliable and actionable insights.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Science QA Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Science QA Engineer interviews to help you prepare and succeed.

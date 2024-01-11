@@ -2,6 +2,8 @@
 
 Welcome to the Museum Curator Interview Preparation ! This resource is designed to help you ace your Museum Curator interviews with confidence.
 
+A Museum Curator in the field of Anthropology plays a vital role in preserving, researching, and exhibiting cultural artifacts and historical objects. These professionals are responsible for managing museum collections, developing exhibits, and conducting research to enhance our understanding of human societies and cultures. Curators collaborate with other experts, such as archaeologists and anthropologists, to acquire and interpret objects, ensuring their historical and cultural significance is accurately conveyed to visitors. They also engage in educational outreach programs, giving lectures and organizing workshops to promote cultural awareness and appreciation. A Museum Curator in Anthropology is an essential link between the past and present, enabling us to explore and learn from diverse human experiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Museum Curator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Museum Curator interviews to help you prepare and succeed.

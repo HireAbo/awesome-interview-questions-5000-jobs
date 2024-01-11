@@ -2,6 +2,8 @@
 
 Welcome to the Painter Interview Preparation ! This resource is designed to help you ace your Painter interviews with confidence.
 
+A painter job in the field of fine arts is a creative and dynamic role that involves using various mediums to create visual representations of ideas, emotions, and concepts. Painters employ their artistic skills and techniques to produce beautiful and thought-provoking artwork. They may work with different materials such as oils, acrylics, watercolors, or mixed media, and use various tools like brushes, palette knives, or spray paint. Painters often have a deep understanding of color theory, composition, and perspective. They may work independently or collaborate with other artists, galleries, or clients to exhibit and sell their artwork. A painter's job requires immense creativity, passion, and a keen eye for detail to bring imagination to life on canvas or other surfaces.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Painter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Painter interviews to help you prepare and succeed.

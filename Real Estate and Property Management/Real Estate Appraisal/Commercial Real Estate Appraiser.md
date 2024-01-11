@@ -2,6 +2,8 @@
 
 Welcome to the Commercial Real Estate Appraiser Interview Preparation ! This resource is designed to help you ace your Commercial Real Estate Appraiser interviews with confidence.
 
+Real Estate and Property Management is a field that involves the purchase, sale, and management of different types of properties, including residential, commercial, and industrial. It encompasses various activities such as property valuation, marketing, leasing, and maintenance. Within this field, Real Estate Appraisal plays a crucial role in determining the value of properties. As for the Commercial Real Estate Appraiser job, it involves assessing the value of commercial properties such as office buildings, shopping malls, and warehouses. Commercial Real Estate Appraisers conduct thorough research, analyze market trends, and perform property inspections to provide accurate valuations. They play a vital role in facilitating property transactions and supporting informed decision-making for investors, lenders, and property owners.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Commercial Real Estate Appraiser or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Commercial Real Estate Appraiser interviews to help you prepare and succeed.

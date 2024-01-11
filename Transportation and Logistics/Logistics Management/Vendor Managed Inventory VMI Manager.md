@@ -2,6 +2,8 @@
 
 Welcome to the Vendor Managed Inventory (VMI) Manager Interview Preparation ! This resource is designed to help you ace your Vendor Managed Inventory (VMI) Manager interviews with confidence.
 
+A Vendor Managed Inventory (VMI) Manager is responsible for overseeing and managing the logistics and inventory processes within a company. This role involves collaborating with vendors, suppliers, and internal teams to ensure seamless coordination and efficient flow of goods. The VMI Manager is tasked with monitoring inventory levels, analyzing demand patterns, and implementing strategies to optimize inventory performance. They work closely with vendors to negotiate contracts, establish delivery schedules, and manage product replenishment. Additionally, the VMI Manager must possess excellent analytical and problem-solving skills to identify areas for improvement and implement cost-effective solutions. Overall, this role plays a critical role in streamlining operations and maximizing customer satisfaction in the transportation and logistics industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Vendor Managed Inventory (VMI) Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Vendor Managed Inventory (VMI) Manager interviews to help you prepare and succeed.

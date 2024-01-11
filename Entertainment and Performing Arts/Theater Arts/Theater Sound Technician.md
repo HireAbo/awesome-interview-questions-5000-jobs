@@ -2,6 +2,8 @@
 
 Welcome to the Theater Sound Technician Interview Preparation ! This resource is designed to help you ace your Theater Sound Technician interviews with confidence.
 
+A Theater Sound Technician is a vital member of the entertainment and performing arts industry, specifically in the field of theater arts. These professionals are responsible for ensuring the flawless execution of sound designs and effects during theatrical productions. They work closely with directors, sound designers, and other technical staff to set up and operate sound equipment, including microphones, speakers, and mixing consoles. Theater Sound Technicians possess extensive knowledge of sound engineering techniques and are skilled in troubleshooting and repairing equipment as needed. Their expertise in creating immersive and impactful soundscapes enhances the overall audience experience, making them indispensable contributors to the success of theater productions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Theater Sound Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Theater Sound Technician interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Bioinformatics Specialist Interview Preparation ! This resource is designed to help you ace your Bioinformatics Specialist interviews with confidence.
 
+A Bioinformatics Specialist in Veterinary Research is an essential role that combines veterinary medicine and data analysis. This specialist applies advanced computational techniques to analyze and interpret complex biological data related to animal health and diseases. They utilize bioinformatics tools and algorithms to extract meaningful insights from large datasets, such as genomic information, gene expression patterns, and molecular interactions. By using their expertise in computer science and biology, they contribute to the development of new diagnostic methods, treatment strategies, and disease prevention measures. Additionally, a Bioinformatics Specialist in Veterinary Research collaborates with veterinarians and other researchers to enhance animal health and welfare through innovative computational approaches.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Bioinformatics Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Bioinformatics Specialist interviews to help you prepare and succeed.

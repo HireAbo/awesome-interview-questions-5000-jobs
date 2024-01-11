@@ -2,6 +2,8 @@
 
 Welcome to the Cloud Data Engineer Interview Preparation ! This resource is designed to help you ace your Cloud Data Engineer interviews with confidence.
 
+Information Technology (IT) encompasses a wide range of skills and roles in today's digital world. One specific area within IT is cloud computing, which has revolutionized the way businesses store, manage, and access data. A Cloud Data Engineer is a crucial job within this field, responsible for designing, building, and maintaining the infrastructure necessary to store and process large amounts of data in the cloud. They work closely with data scientists and analysts to ensure seamless data integration and optimize cloud-based data solutions. Strong knowledge of cloud platforms, programming languages, and data management is essential for a successful career as a Cloud Data Engineer.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cloud Data Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cloud Data Engineer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Particle Physicist Interview Preparation ! This resource is designed to help you ace your Particle Physicist interviews with confidence.
 
+A Particle Physicist is a scientist who specializes in the field of particle physics, a branch of physics that studies the fundamental particles and forces that make up the universe. Particle physicists are involved in conducting research and experiments to understand the nature of these particles and their interactions. They utilize advanced technologies and equipment, such as particle accelerators, to explore the fundamental questions of the universe, such as the origins of matter and the properties of particles like quarks, gluons, and bosons. Their work often involves collaborating with other scientists and analyzing complex data to make groundbreaking discoveries that contribute to our understanding of the fundamental laws of nature.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Particle Physicist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Particle Physicist interviews to help you prepare and succeed.

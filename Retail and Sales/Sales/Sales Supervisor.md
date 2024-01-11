@@ -2,6 +2,8 @@
 
 Welcome to the Sales Supervisor Interview Preparation ! This resource is designed to help you ace your Sales Supervisor interviews with confidence.
 
+A Sales Supervisor plays a crucial role in the retail industry, overseeing the sales activities within a store or department. This job requires a strong understanding of customer service and sales techniques, as well as exceptional leadership and communication skills. Sales Supervisors are responsible for managing a team of sales associates, providing training and guidance to ensure they achieve their targets. They also monitor sales performance, analyze data, and develop strategies to increase sales and improve customer satisfaction. Additionally, Sales Supervisors collaborate with other departments, such as marketing and merchandising, to implement effective sales promotions and initiatives. Overall, this role is essential in driving sales growth and delivering an exceptional shopping experience for customers.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sales Supervisor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sales Supervisor interviews to help you prepare and succeed.

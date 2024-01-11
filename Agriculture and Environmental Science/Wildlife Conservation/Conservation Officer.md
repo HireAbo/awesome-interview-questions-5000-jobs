@@ -2,6 +2,8 @@
 
 Welcome to the Conservation Officer Interview Preparation ! This resource is designed to help you ace your Conservation Officer interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on the study of natural resources, ecosystems, and the impact of human activities on the environment. It encompasses various aspects such as soil science, crop production, animal husbandry, and sustainable development. Wildlife Conservation, a branch of this field, specifically concentrates on preserving and protecting endangered species and their habitats. Conservation Officers play a crucial role in this domain. They are responsible for enforcing wildlife laws, conducting investigations related to poaching and illegal activities, and educating the public about the importance of conservation. These professionals work tirelessly to ensure the survival and well-being of wildlife populations and maintain ecological balance.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Conservation Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Conservation Officer interviews to help you prepare and succeed.

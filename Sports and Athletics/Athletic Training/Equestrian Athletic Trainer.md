@@ -2,6 +2,8 @@
 
 Welcome to the Equestrian Athletic Trainer Interview Preparation ! This resource is designed to help you ace your Equestrian Athletic Trainer interviews with confidence.
 
+An Equestrian Athletic Trainer is a specialized professional who focuses on the physical well-being and performance of both horses and riders in the sport of equestrianism. This unique role requires extensive knowledge of equine anatomy, biomechanics, and exercise physiology. Equestrian Athletic Trainers work closely with riders and their equine partners to develop training programs that enhance performance, prevent injuries, and facilitate rehabilitation. They assess the horse's physical condition, provide therapeutic interventions such as massage and stretching, and design exercises to improve strength, flexibility, and endurance. Additionally, they educate riders on injury prevention techniques and proper care for their horses. Equestrian Athletic Trainers play a vital role in ensuring the overall health and success of both horse and rider in the highly demanding sport of equestrianism.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Equestrian Athletic Trainer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Equestrian Athletic Trainer interviews to help you prepare and succeed.

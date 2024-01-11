@@ -2,6 +2,8 @@
 
 Welcome to the Reference Librarian Interview Preparation ! This resource is designed to help you ace your Reference Librarian interviews with confidence.
 
+Library and Information Science is a field that focuses on the organization, management, and retrieval of information in various formats. It encompasses a wide range of areas, including librarianship. Librarianship involves the provision of library services, such as collection development, cataloging, and user assistance. One specific role within librarianship is that of a Reference Librarian. A Reference Librarian is responsible for assisting library users in locating and accessing information resources. They provide guidance on research methods, help users navigate databases and online resources, and answer reference questions. Reference Librarians play a crucial role in connecting people with the information they need to support their academic, professional, and personal pursuits.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Reference Librarian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Reference Librarian interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Systems Analyst Interview Preparation ! This resource is designed to help you ace your Systems Analyst interviews with confidence.
 
+A Systems Analyst is a crucial role in the field of Information Technology (IT) and Software Development. They play a vital role in bridging the gap between business needs and technology solutions. A Systems Analyst is responsible for analyzing, designing, and implementing software systems to meet the specific requirements of organizations. They work closely with stakeholders to understand their needs and translate them into technical specifications. Additionally, they conduct feasibility studies, perform system testing, and provide ongoing support to ensure the efficient functioning of software systems. Strong analytical skills, problem-solving abilities, and a deep understanding of software development methodologies are essential for a successful career as a Systems Analyst in IT.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Systems Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Systems Analyst interviews to help you prepare and succeed.

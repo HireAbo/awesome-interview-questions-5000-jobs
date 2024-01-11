@@ -2,6 +2,8 @@
 
 Welcome to the Foreign Affairs Researcher Interview Preparation ! This resource is designed to help you ace your Foreign Affairs Researcher interviews with confidence.
 
+A Government and Public Service Diplomacy Foreign Affairs Researcher is a professional who primarily focuses on studying and analyzing international relations, foreign policies, and global issues. Their role involves conducting extensive research on various aspects of foreign affairs, such as economic, political, and social factors that impact the relationships between countries. This research is often used to inform government officials, policymakers, and diplomats in making informed decisions and formulating effective strategies. The job requires a deep understanding of global politics, international law, and cultural dynamics. Additionally, a Foreign Affairs Researcher should possess excellent analytical skills, critical thinking abilities, and strong communication skills to present their findings effectively.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Foreign Affairs Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Foreign Affairs Researcher interviews to help you prepare and succeed.

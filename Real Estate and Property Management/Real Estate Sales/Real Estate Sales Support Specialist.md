@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Sales Support Specialist Interview Preparation ! This resource is designed to help you ace your Real Estate Sales Support Specialist interviews with confidence.
 
+A Real Estate Sales Support Specialist plays a crucial role in the real estate industry by providing vital administrative and operational support to real estate sales professionals. This role involves assisting in the smooth functioning of the entire sales process, from initial listing to closing of a property. Responsibilities may include coordinating property showings, managing client inquiries, preparing sales contracts, organizing marketing materials, and maintaining accurate and up-to-date databases. A successful Real Estate Sales Support Specialist possesses excellent organizational and communication skills, attention to detail, and a strong understanding of real estate laws and regulations. Their indispensable support ensures that real estate sales professionals can focus on their core responsibilities and deliver exceptional service to clients.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Sales Support Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Sales Support Specialist interviews to help you prepare and succeed.

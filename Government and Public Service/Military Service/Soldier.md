@@ -2,6 +2,8 @@
 
 Welcome to the Soldier Interview Preparation ! This resource is designed to help you ace your Soldier interviews with confidence.
 
+Government and Public Service encompass a vast array of roles and responsibilities, all aimed at maintaining the well-being and safety of the nation's citizens. One significant aspect of this service lies in military service, particularly the role of a soldier. Soldiers play an essential role in protecting national security and upholding the values and interests of their country. They undergo rigorous training to develop physical and mental strength, discipline, and strategic thinking. From combat operations to peacekeeping missions, soldiers are on the front lines, risking their lives to defend their nation and its people. Their dedication, sacrifice, and unwavering commitment make them the backbone of any military force.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Soldier or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Soldier interviews to help you prepare and succeed.

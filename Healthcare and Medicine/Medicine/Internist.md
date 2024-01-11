@@ -2,6 +2,8 @@
 
 Welcome to the Internist Interview Preparation ! This resource is designed to help you ace your Internist interviews with confidence.
 
+An Internist, also known as an Internal Medicine Physician, is a healthcare professional specializing in the prevention, diagnosis, and treatment of diseases in adults. They serve as primary care physicians, providing comprehensive medical care to patients. Internists are highly trained in evaluating complex medical conditions and managing chronic illnesses. They conduct thorough examinations, order diagnostic tests, and develop treatment plans tailored to individual patients' needs. They also coordinate care with other specialists, ensuring a holistic approach to healthcare. Internists often work in hospitals, clinics, or private practices, and their expertise in internal medicine makes them essential in promoting overall health and well-being.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Internist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Internist interviews to help you prepare and succeed.

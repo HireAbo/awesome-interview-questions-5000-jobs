@@ -2,6 +2,8 @@
 
 Welcome to the Quantitative Risk Analyst Interview Preparation ! This resource is designed to help you ace your Quantitative Risk Analyst interviews with confidence.
 
+A Quantitative Risk Analyst is a specialized professional who applies mathematical and statistical techniques to assess and manage financial risks. They play a crucial role in various industries, such as banking, insurance, and investment firms. Quantitative Risk Analysts analyze large data sets, develop mathematical models, and use statistical tools to identify potential risks and their impact on financial portfolios. They conduct quantitative analysis to quantify risk exposure, evaluate risk management strategies, and develop risk mitigation plans. These professionals possess strong analytical skills, a deep understanding of probability and statistics, and expertise in financial modeling and computer programming. Their work is vital in ensuring the stability and profitability of organizations in an increasingly complex and volatile financial landscape.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Quantitative Risk Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Quantitative Risk Analyst interviews to help you prepare and succeed.

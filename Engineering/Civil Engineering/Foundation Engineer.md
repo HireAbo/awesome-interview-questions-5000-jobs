@@ -2,6 +2,8 @@
 
 Welcome to the Foundation Engineer Interview Preparation ! This resource is designed to help you ace your Foundation Engineer interviews with confidence.
 
+Foundation Engineers are an integral part of the field of Civil Engineering, specializing in the design, analysis, and construction of foundations for various structures. These professionals play a crucial role in ensuring the stability, durability, and safety of buildings, bridges, dams, and other infrastructure projects. Foundation Engineers utilize their expertise in geotechnical engineering to assess the soil conditions and determine the most suitable foundation systems, such as shallow or deep foundations, to support the structures. They conduct soil testing, analyze data, and develop foundation design plans that consider factors like load-bearing capacity, settlement, and potential hazards. Foundation Engineers work closely with architects, construction teams, and government agencies to ensure successful project execution and compliance with building codes and regulations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Foundation Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Foundation Engineer interviews to help you prepare and succeed.

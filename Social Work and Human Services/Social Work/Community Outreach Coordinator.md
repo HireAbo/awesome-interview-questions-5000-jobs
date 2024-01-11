@@ -2,6 +2,8 @@
 
 Welcome to the Community Outreach Coordinator Interview Preparation ! This resource is designed to help you ace your Community Outreach Coordinator interviews with confidence.
 
+The field of Social Work and Human Services encompasses various roles aimed at supporting individuals and communities in need. One such role is that of a Community Outreach Coordinator in the field of Social Work. As a Community Outreach Coordinator, your primary responsibility is to engage with local communities, identify their needs, and develop strategies to address social issues effectively. You will collaborate with community members, organizations, and stakeholders to develop and implement programs, initiatives, and resources that enhance the overall well-being of the community. Your role requires exceptional communication, networking, and organizational skills to build partnerships, raise awareness, and facilitate positive change within the community.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Community Outreach Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Community Outreach Coordinator interviews to help you prepare and succeed.

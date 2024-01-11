@@ -2,6 +2,8 @@
 
 Welcome to the Bush Pilot Interview Preparation ! This resource is designed to help you ace your Bush Pilot interviews with confidence.
 
+A bush pilot is an adventurous and skilled aviator who specializes in flying small aircraft into remote and challenging areas, often involving rugged terrain, dense forests, or isolated communities. This unique and thrilling job within the field of aviation and aerospace requires exceptional piloting skills, including navigation, flying in extreme weather conditions, and landing on short, unpaved runways. Bush pilots play a crucial role in providing transportation, supplies, and medical assistance to remote areas where conventional airlines and transportation are limited. They must possess a strong sense of responsibility, adaptability, and resourcefulness, as they often operate independently and face unpredictable situations. A bush pilot's dedication and passion for exploration make them an integral part of the aviation industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Bush Pilot or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Bush Pilot interviews to help you prepare and succeed.

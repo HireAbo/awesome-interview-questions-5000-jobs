@@ -2,6 +2,8 @@
 
 Welcome to the Property Management Lease Compliance Auditor Interview Preparation ! This resource is designed to help you ace your Property Management Lease Compliance Auditor interviews with confidence.
 
+A Property Management Lease Compliance Auditor is a professional responsible for ensuring that all lease agreements within a real estate property are compliant with relevant regulations and guidelines. This role involves conducting thorough audits of lease documentation to verify accuracy, completeness, and adherence to legal requirements. The auditor reviews lease agreements, financial records, and tenant information to identify any discrepancies or violations. They collaborate with property managers and leasing agents to rectify non-compliant issues, update lease agreements, and implement necessary changes. Additionally, the Lease Compliance Auditor stays updated on changing regulations and industry standards to ensure ongoing compliance and mitigate any potential legal risks.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Property Management Lease Compliance Auditor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Property Management Lease Compliance Auditor interviews to help you prepare and succeed.

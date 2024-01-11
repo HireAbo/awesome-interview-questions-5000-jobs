@@ -2,6 +2,8 @@
 
 Welcome to the HR Business Partner Interview Preparation ! This resource is designed to help you ace your HR Business Partner interviews with confidence.
 
+The HR Business Partner job is a crucial role in the field of Human Resources that focuses on aligning HR strategies with the overall business objectives of an organization. As a strategic partner, the HR Business Partner collaborates with senior management to develop and implement HR initiatives that support the company's goals. They act as a liaison between management and employees, providing guidance on HR policies, procedures, and best practices. The HR Business Partner also plays a vital role in talent management, including recruitment, training, performance management, and employee development. Their expertise ensures that the organization has the right people in the right positions to achieve success.
+
 ## 🚀 Overview
 
 Whether you're a seasoned HR Business Partner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in HR Business Partner interviews to help you prepare and succeed.

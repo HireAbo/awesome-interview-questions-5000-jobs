@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Sales Social Media Manager Interview Preparation ! This resource is designed to help you ace your Real Estate Sales Social Media Manager interviews with confidence.
 
+A Real Estate Sales Social Media Manager plays a crucial role in the field of Real Estate and Property Management. This job involves utilizing various social media platforms to market and promote real estate sales. The individual in this role is responsible for creating engaging content, managing social media accounts, and developing effective strategies to attract potential buyers and sellers. They must possess excellent communication and marketing skills to effectively showcase properties and generate leads. Additionally, a Real Estate Sales Social Media Manager must stay up-to-date with industry trends and utilize data analytics to optimize marketing campaigns. This role requires a strong understanding of social media platforms and their algorithms to maximize visibility and reach in the competitive real estate market.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Sales Social Media Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Sales Social Media Manager interviews to help you prepare and succeed.

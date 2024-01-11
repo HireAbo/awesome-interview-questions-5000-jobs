@@ -2,6 +2,8 @@
 
 Welcome to the Comedy Writer Interview Preparation ! This resource is designed to help you ace your Comedy Writer interviews with confidence.
 
+A comedy writer in the field of entertainment and performing arts is responsible for creating humorous and engaging content for various mediums, such as television, film, theater, and stand-up comedy. This job involves crafting witty dialogue, developing comedic sketches or scripts, and generating humorous ideas that entertain and engage the audience. A comedy writer must have a keen understanding of comedic timing, wordplay, and the ability to create relatable and humorous characters. They collaborate with directors, producers, and performers to bring their comedic vision to life. This dynamic and creative role requires a strong sense of humor, excellent writing skills, and a passion for making people laugh.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Comedy Writer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Comedy Writer interviews to help you prepare and succeed.

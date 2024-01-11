@@ -2,6 +2,8 @@
 
 Welcome to the Installation Artist Interview Preparation ! This resource is designed to help you ace your Installation Artist interviews with confidence.
 
+An installation artist job within the field of Fine Arts combines creativity, innovation, and a deep understanding of the power of visual storytelling. Installation artists are professionals who conceptualize, design, and create immersive and thought-provoking experiences using various materials, techniques, and technologies. They transform spaces, whether indoor or outdoor, into captivating environments that engage the audience on multiple sensory levels. These artists often work collaboratively, utilizing their skills in sculpture, painting, photography, and multimedia to bring their vision to life. Installation artists play a critical role in shaping the way we interact with and perceive art, pushing boundaries and challenging traditional notions of artistic expression.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Installation Artist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Installation Artist interviews to help you prepare and succeed.

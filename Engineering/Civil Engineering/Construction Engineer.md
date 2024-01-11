@@ -2,6 +2,8 @@
 
 Welcome to the Construction Engineer Interview Preparation ! This resource is designed to help you ace your Construction Engineer interviews with confidence.
 
+A Construction Engineer is a professional who plays a crucial role in the field of civil engineering. They are responsible for overseeing the design, planning, and construction of various infrastructure projects, such as buildings, bridges, roads, and dams. These engineers possess a deep understanding of construction techniques, materials, and equipment, allowing them to create detailed project plans and ensure that construction projects are executed efficiently and within budget. They collaborate with architects, contractors, and other professionals to ensure that the construction process meets safety regulations and adheres to project specifications. Construction Engineers also monitor progress, resolve issues, and provide technical expertise throughout the construction phase. Their expertise is vital in delivering successful and sustainable infrastructure projects.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Construction Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Construction Engineer interviews to help you prepare and succeed.

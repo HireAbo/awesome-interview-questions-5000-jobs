@@ -2,6 +2,8 @@
 
 Welcome to the Forest Ecologist Interview Preparation ! This resource is designed to help you ace your Forest Ecologist interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on the study of the interaction between agriculture and the environment, aiming to promote sustainable agricultural practices. Within this field, Forestry plays a crucial role in the management, conservation, and sustainable use of forests. Forest ecologists are professionals who specialize in studying the relationships between organisms and their forest environments. They investigate the structure, function, and dynamics of forest ecosystems, analyzing how factors such as climate change, human activities, and biodiversity impact forest health. Forest ecologists often work in research institutions, government agencies, or environmental organizations, contributing to the protection and sustainable management of valuable forest resources.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forest Ecologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forest Ecologist interviews to help you prepare and succeed.

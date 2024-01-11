@@ -2,6 +2,8 @@
 
 Welcome to the Kotlin Developer Interview Preparation ! This resource is designed to help you ace your Kotlin Developer interviews with confidence.
 
+A Kotlin Developer is a professional skilled in software development, particularly in using the Kotlin programming language. Kotlin is a modern, statically typed programming language that runs on the Java Virtual Machine (JVM) and is widely used in Android app development. As a Kotlin Developer, your primary role is to design, develop, and implement software solutions using Kotlin. This includes writing clean and efficient code, debugging and troubleshooting issues, and collaborating with cross-functional teams to deliver high-quality software applications. Kotlin Developers are also responsible for staying updated with the latest industry trends and technologies, ensuring the development process is efficient and up to standards.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Kotlin Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Kotlin Developer interviews to help you prepare and succeed.

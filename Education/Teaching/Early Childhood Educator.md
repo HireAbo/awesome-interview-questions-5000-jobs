@@ -2,6 +2,8 @@
 
 Welcome to the Early Childhood Educator Interview Preparation ! This resource is designed to help you ace your Early Childhood Educator interviews with confidence.
 
+Early Childhood Educators play a crucial role in laying the foundation for a child's lifelong learning journey. As specialized teachers, they focus on the developmental needs of children aged 5 and below, providing them with a nurturing and stimulating environment that promotes growth and learning. These educators design age-appropriate curriculum, incorporating play-based activities to foster social, emotional, cognitive, and physical development. They also assess each child's progress, identifying any potential learning or developmental challenges and collaboratively working with parents and other professionals to address them. Early Childhood Educators possess a deep understanding of child development theories, exceptional communication skills, and a passion for inspiring young minds.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Early Childhood Educator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Early Childhood Educator interviews to help you prepare and succeed.

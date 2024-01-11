@@ -2,6 +2,8 @@
 
 Welcome to the E-commerce Sustainability Manager Interview Preparation ! This resource is designed to help you ace your E-commerce Sustainability Manager interviews with confidence.
 
+The role of an E-commerce Sustainability Manager within the Retail and Sales industry is crucial in promoting and implementing sustainable practices in the realm of e-commerce. With the growing concern for environmental impact, this role focuses on developing and managing strategies to minimize the carbon footprint of online retail operations. The E-commerce Sustainability Manager works closely with cross-functional teams to identify areas of improvement, such as packaging materials, transportation methods, and energy consumption. They also establish partnerships with suppliers and third-party organizations to ensure compliance with sustainability standards. The ultimate goal is to create a more environmentally responsible and socially conscious e-commerce experience for consumers while driving business growth.
+
 ## 🚀 Overview
 
 Whether you're a seasoned E-commerce Sustainability Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in E-commerce Sustainability Manager interviews to help you prepare and succeed.

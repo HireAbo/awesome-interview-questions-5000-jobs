@@ -2,6 +2,8 @@
 
 Welcome to the Government Records Analyst Interview Preparation ! This resource is designed to help you ace your Government Records Analyst interviews with confidence.
 
+Library and Information Science (LIS) is a field that encompasses the management, organization, and retrieval of information in various formats. One area of specialization within LIS is Records Management, which involves the systematic control and maintenance of records throughout their lifecycle. A crucial role within Records Management is that of a Government Records Analyst. This job involves working closely with government agencies to ensure the proper management and preservation of their records. Government Records Analysts are responsible for developing and implementing records management policies, maintaining records databases, conducting audits, and providing guidance on records retention and disposal. They play a vital role in ensuring the accessibility and authenticity of government records, which are essential for accountability, transparency, and historical preservation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Government Records Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Government Records Analyst interviews to help you prepare and succeed.

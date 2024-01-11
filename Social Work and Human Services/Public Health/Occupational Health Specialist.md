@@ -2,6 +2,8 @@
 
 Welcome to the Occupational Health Specialist Interview Preparation ! This resource is designed to help you ace your Occupational Health Specialist interviews with confidence.
 
+Social work and human services encompass a wide range of professions dedicated to improving the well-being and quality of life for individuals, families, and communities. These professionals focus on addressing social issues, advocating for social justice, and providing support and resources to vulnerable populations. Public health professionals work to promote and protect the health of communities through disease prevention, health education, and policy development. Occupational health specialists, on the other hand, specialize in ensuring the safety and well-being of workers in various industries. They assess workplace hazards, develop safety protocols, and provide support for employees' physical and mental health.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Occupational Health Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Occupational Health Specialist interviews to help you prepare and succeed.

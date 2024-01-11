@@ -2,6 +2,8 @@
 
 Welcome to the Nanotechnology Engineer Interview Preparation ! This resource is designed to help you ace your Nanotechnology Engineer interviews with confidence.
 
+A Nanotechnology Engineer specializing in Chemical Engineering is a highly skilled professional who combines the principles of chemistry, physics, and engineering to develop and apply nanoscale technologies. They work with materials at the atomic and molecular level to create innovative solutions and products with enhanced properties or functionalities. Nanotechnology Engineers in this field focus on designing and manipulating nanoparticles, nanomaterials, and nanostructures to develop advanced materials, sensors, drug delivery systems, and sustainable energy solutions. They also conduct research, perform experiments, and utilize cutting-edge techniques to understand and optimize the behavior of nanoscale systems. Their expertise is essential in various industries, including pharmaceuticals, electronics, energy, and environmental engineering.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nanotechnology Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nanotechnology Engineer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Biochemist Interview Preparation ! This resource is designed to help you ace your Biochemist interviews with confidence.
 
+A biochemist job in the field of chemistry involves the application of scientific principles to study the chemical processes and substances that occur within living organisms. Biochemists play a crucial role in advancing our understanding of the complex biological systems that drive life. Through extensive research and experimentation, they investigate the chemical composition and behavior of biological substances, such as proteins, enzymes, and DNA, to gain insights into their functions and interactions. By studying these intricate molecular structures, biochemists contribute to the development of new drugs, diagnostic tests, and therapies to combat diseases and improve human health. Their work is vital for solving biological puzzles and unraveling the mysteries of life itself.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Biochemist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Biochemist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Legal Advisor Interview Preparation ! This resource is designed to help you ace your Legal Advisor interviews with confidence.
 
+A legal advisor plays a crucial role in the field of law and criminal justice. As an expert in legal matters, a legal advisor provides guidance and advice to clients, helping them navigate complex legal issues. They analyze legal documents, research relevant laws and regulations, and interpret their implications for clients. A legal advisor assists in drafting legal contracts, agreements, and other legal documents, ensuring compliance with current laws. They may also represent clients in court proceedings, providing legal arguments and strategies. With a deep understanding of the legal system, a legal advisor is instrumental in helping clients make informed decisions and protect their rights.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Legal Advisor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Legal Advisor interviews to help you prepare and succeed.

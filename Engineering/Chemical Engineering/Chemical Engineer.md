@@ -2,6 +2,10 @@
 
 Welcome to the Chemical Engineer Interview Preparation ! This resource is designed to help you ace your Chemical Engineer interviews with confidence.
 
+Chemical Engineering is a branch of engineering that applies principles of chemistry, physics, and mathematics to solve problems related to the production and use of chemicals, materials, and energy. Chemical Engineers play a crucial role in various industries, including pharmaceuticals, food processing, energy production, and environmental engineering. 
+
+As a Chemical Engineer, your job involves designing and developing chemical processes, optimizing production methods, and ensuring the safety and efficiency of operations. You may also be responsible for conducting experiments, analyzing data, and troubleshooting issues that arise during production. With a strong foundation in chemistry and engineering principles, Chemical Engineers contribute to the advancement of technology, innovation, and sustainable practices. This profession offers a challenging and rewarding career path with opportunities for research, development, and leadership roles.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Chemical Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Chemical Engineer interviews to help you prepare and succeed.

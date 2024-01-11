@@ -2,6 +2,8 @@
 
 Welcome to the Dance Teacher Interview Preparation ! This resource is designed to help you ace your Dance Teacher interviews with confidence.
 
+A dance teacher plays a vital role in the field of education and teaching. As a dance teacher, their primary responsibility is to instruct and educate students in various dance techniques, styles, and choreography. They possess a deep understanding and expertise in different dance forms such as ballet, contemporary, jazz, hip-hop, or cultural dances. Dance teachers create lesson plans, develop curriculum, and teach students of all ages and skill levels. They provide guidance, encouragement, and constructive feedback to help students improve their technique, coordination, and performance abilities. Furthermore, dance teachers often organize recitals, competitions, and workshops to showcase their students' progress and foster a love for dance.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Dance Teacher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Dance Teacher interviews to help you prepare and succeed.

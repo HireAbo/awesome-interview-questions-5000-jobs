@@ -2,6 +2,8 @@
 
 Welcome to the Counseling Psychologist Interview Preparation ! This resource is designed to help you ace your Counseling Psychologist interviews with confidence.
 
+A Counseling Psychologist is a professional who specializes in providing therapy and counseling services to individuals, couples, families, and groups. They work in various settings, including hospitals, private practices, schools, and community centers. Counseling Psychologists help individuals overcome emotional, behavioral, and mental health issues by utilizing various therapeutic techniques and interventions. They provide a safe and supportive environment for clients to explore their thoughts, feelings, and concerns, and help them develop coping strategies and achieve personal growth. These professionals also conduct assessments and evaluations to diagnose psychological disorders and develop treatment plans tailored to each client's unique needs. Counseling Psychologists play a crucial role in supporting individuals in their journey towards mental health and well-being.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Counseling Psychologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Counseling Psychologist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Emergency Dispatcher Interview Preparation ! This resource is designed to help you ace your Emergency Dispatcher interviews with confidence.
 
+The Emergency Dispatcher job is a crucial position within the field of Law Enforcement and Criminal Justice. These professionals play a vital role in emergency response systems by receiving and processing calls for assistance from the public. They are responsible for quickly assessing the situation, gathering relevant information, and dispatching appropriate emergency personnel to the scene. This requires excellent communication skills, the ability to remain calm under pressure, and proficiency in using various communication systems and technology. Emergency Dispatchers are the critical link between individuals in distress and the emergency services they need, ensuring that help arrives promptly and efficiently.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Emergency Dispatcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Emergency Dispatcher interviews to help you prepare and succeed.

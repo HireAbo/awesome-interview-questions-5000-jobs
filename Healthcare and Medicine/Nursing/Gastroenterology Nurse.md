@@ -2,6 +2,8 @@
 
 Welcome to the Gastroenterology Nurse Interview Preparation ! This resource is designed to help you ace your Gastroenterology Nurse interviews with confidence.
 
+A Gastroenterology Nurse specializes in providing care for patients with gastrointestinal (GI) disorders. These nurses work closely with gastroenterologists to assess, diagnose, and treat patients with conditions such as Crohn's disease, irritable bowel syndrome, and colorectal cancer. Their responsibilities include performing physical exams, administering medications, assisting with procedures such as endoscopies and colonoscopies, and educating patients on self-care and disease management. Gastroenterology Nurses also play a vital role in providing emotional support to patients and their families, as dealing with GI disorders can often be challenging. Their expertise and compassionate care contribute to improving the overall health and well-being of patients in need of specialized gastrointestinal care.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Gastroenterology Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Gastroenterology Nurse interviews to help you prepare and succeed.

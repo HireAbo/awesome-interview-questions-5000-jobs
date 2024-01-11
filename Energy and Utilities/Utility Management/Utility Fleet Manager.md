@@ -2,6 +2,8 @@
 
 Welcome to the Utility Fleet Manager Interview Preparation ! This resource is designed to help you ace your Utility Fleet Manager interviews with confidence.
 
+The Utility Fleet Manager is responsible for overseeing and managing the fleet of vehicles and equipment used by energy and utility companies. This role involves coordinating the maintenance, repair, and replacement of vehicles, ensuring that they are operating efficiently and effectively. The Utility Fleet Manager also develops and implements strategies to optimize the use of fleet resources, including fuel consumption and vehicle utilization. They collaborate with various stakeholders, including drivers, mechanics, and vendors, to ensure fleet operations meet safety and regulatory standards. Additionally, the Utility Fleet Manager may be involved in budgeting, forecasting, and reporting related to fleet management activities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Utility Fleet Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Utility Fleet Manager interviews to help you prepare and succeed.

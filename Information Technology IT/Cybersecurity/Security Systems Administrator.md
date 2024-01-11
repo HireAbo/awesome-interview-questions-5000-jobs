@@ -2,6 +2,8 @@
 
 Welcome to the Security Systems Administrator Interview Preparation ! This resource is designed to help you ace your Security Systems Administrator interviews with confidence.
 
+Information Technology (IT) is a rapidly growing field that encompasses the management and utilization of computer systems, networks, and software to store, process, transmit, and retrieve information. In the realm of cybersecurity, a Security Systems Administrator plays a critical role in safeguarding data and protecting computer systems from potential threats. Their primary responsibilities include implementing security measures, monitoring network activity, conducting vulnerability assessments, and responding to security incidents. They are responsible for configuring and maintaining firewalls, intrusion detection systems, and other security tools. Additionally, Security Systems Administrators play a crucial role in developing security policies and ensuring compliance with industry regulations. With the increasing prevalence of cyber threats, the demand for skilled Security Systems Administrators is on the rise.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Security Systems Administrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Security Systems Administrator interviews to help you prepare and succeed.

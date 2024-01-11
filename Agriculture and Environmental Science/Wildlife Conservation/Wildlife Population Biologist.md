@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife Population Biologist Interview Preparation ! This resource is designed to help you ace your Wildlife Population Biologist interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on studying the relationship between agriculture practices and the environment. It aims to develop sustainable farming practices while minimizing negative impacts on natural resources. One crucial aspect of this field is Wildlife Conservation, which involves the protection and preservation of wildlife and their habitats. Within this field, Wildlife Population Biologists play a crucial role. They study and monitor wildlife populations, collecting data on their numbers, distribution, behavior, and health. Using this information, they develop strategies to conserve and manage wildlife populations, ensuring their long-term survival and maintaining ecological balance.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Population Biologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Population Biologist interviews to help you prepare and succeed.

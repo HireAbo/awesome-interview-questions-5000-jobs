@@ -2,6 +2,8 @@
 
 Welcome to the Sports Media Specialist Interview Preparation ! This resource is designed to help you ace your Sports Media Specialist interviews with confidence.
 
+Sports and Athletics is a globally revered industry that encompasses a wide range of activities and disciplines. It involves various sports and athletic events, including competitions, tournaments, and recreational activities. Within this industry, Sports Management plays a crucial role in overseeing and coordinating the different aspects of sports organizations and events. In particular, the role of a Sports Media Specialist is highly significant. These professionals are responsible for managing and promoting sports-related content through various media platforms such as television, radio, digital platforms, and social media. They create engaging and informative content, conduct interviews, cover live events, analyze sports performances, and ensure effective communication between athletes, fans, and stakeholders. A Sports Media Specialist is a vital link between the sports industry and its followers, enhancing the overall experience for all involved.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sports Media Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sports Media Specialist interviews to help you prepare and succeed.

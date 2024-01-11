@@ -2,6 +2,8 @@
 
 Welcome to the Inclusion Specialist Interview Preparation ! This resource is designed to help you ace your Inclusion Specialist interviews with confidence.
 
+An Inclusion Specialist in the field of Special Education is a professional who plays a critical role in ensuring that students with special needs receive the necessary support and resources to succeed in a mainstream educational setting. These specialists collaborate with teachers, parents, and administrators to develop and implement individualized education plans (IEPs) that address the unique learning needs of each student. They provide guidance and training to teachers on inclusive teaching strategies, accommodations, and modifications to ensure that students with disabilities can fully participate in the general education curriculum. Inclusion Specialists also advocate for students with special needs, promoting an inclusive and supportive learning environment that fosters their academic, social, and emotional growth.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Inclusion Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Inclusion Specialist interviews to help you prepare and succeed.

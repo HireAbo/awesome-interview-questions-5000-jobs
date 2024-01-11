@@ -2,6 +2,8 @@
 
 Welcome to the Advertising Research Analyst Interview Preparation ! This resource is designed to help you ace your Advertising Research Analyst interviews with confidence.
 
+An Advertising Research Analyst is a professional who specializes in conducting research and analysis related to advertising campaigns and strategies. They play a crucial role in the advertising industry by gathering and interpreting data to provide insights and recommendations for effective advertising campaigns. These professionals are responsible for studying consumer behavior, market trends, and competitor analysis to identify target audiences and develop strategies to reach them. Additionally, Advertising Research Analysts use various research methods such as surveys, focus groups, and data analysis tools to collect and analyze data, which helps in measuring the success and impact of advertising campaigns. Their expertise and findings ultimately contribute to the development of impactful and successful advertising campaigns.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Advertising Research Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Advertising Research Analyst interviews to help you prepare and succeed.

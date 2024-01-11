@@ -2,6 +2,8 @@
 
 Welcome to the Reinsurance Actuary Interview Preparation ! This resource is designed to help you ace your Reinsurance Actuary interviews with confidence.
 
+Mathematics and Statistics are essential tools in Actuarial Science, a field that deals with assessing and managing financial risks. Actuaries apply mathematical models and statistical techniques to analyze data and make predictions about uncertain events, particularly in the insurance industry. Within this field, Reinsurance Actuaries play a crucial role in assessing and managing risks associated with reinsuring insurance companies. Their primary responsibility is to evaluate the financial risks and develop strategies to mitigate them, ensuring the stability and profitability of the reinsurer. Reinsurance Actuaries use advanced mathematical and statistical techniques to analyze data, model potential risks, and calculate premiums and reserves to ensure the financial sustainability of the reinsurance company.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Reinsurance Actuary or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Reinsurance Actuary interviews to help you prepare and succeed.

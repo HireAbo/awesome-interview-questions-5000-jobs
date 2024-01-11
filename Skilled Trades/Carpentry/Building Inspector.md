@@ -2,6 +2,8 @@
 
 Welcome to the Building Inspector Interview Preparation ! This resource is designed to help you ace your Building Inspector interviews with confidence.
 
+A building inspector is a skilled trades professional who plays a crucial role in ensuring that construction projects meet safety and building code regulations. With a specialization in carpentry, building inspectors possess extensive knowledge and experience in evaluating the quality and structural integrity of buildings. These professionals conduct thorough inspections at various stages of construction, including foundation, framing, electrical, plumbing, and finishing work. They meticulously examine blueprints, conduct on-site inspections, identify potential hazards, and verify compliance with building codes and regulations. Building inspectors in carpentry often work closely with architects, engineers, and construction teams to provide expert advice and recommendations, ensuring that buildings are safe, durable, and meet the required standards.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Building Inspector or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Building Inspector interviews to help you prepare and succeed.

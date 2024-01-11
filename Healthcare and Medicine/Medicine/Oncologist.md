@@ -2,6 +2,8 @@
 
 Welcome to the Oncologist Interview Preparation ! This resource is designed to help you ace your Oncologist interviews with confidence.
 
+An oncologist is a medical specialist who focuses on the diagnosis, treatment, and prevention of cancer. They have a deep understanding of the various types of cancer and work closely with patients to develop personalized treatment plans. Oncologists utilize advanced medical technologies and procedures to administer chemotherapy, radiation therapy, immunotherapy, and other targeted therapies. They also coordinate with other healthcare professionals to provide comprehensive care to cancer patients, offering emotional support and guidance throughout their journey. Oncologists play a crucial role in cancer research and advancements, constantly staying updated on the latest treatment options and breakthroughs to provide the best possible care for their patients.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Oncologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Oncologist interviews to help you prepare and succeed.

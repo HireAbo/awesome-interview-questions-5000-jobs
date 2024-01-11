@@ -2,6 +2,8 @@
 
 Welcome to the Teaching Artist Interview Preparation ! This resource is designed to help you ace your Teaching Artist interviews with confidence.
 
+A Teaching Artist is a professional who combines their artistic skills with teaching techniques to engage and educate students. This unique role allows individuals to share their passion for the arts while fostering creativity and critical thinking among students. Teaching Artists typically work in schools, community centers, or arts organizations, delivering workshops, classes, and performances. They design and implement curriculum that integrates artistic expression into various subjects, promoting interdisciplinary learning. Teaching Artists also collaborate with classroom teachers to enhance the overall learning experience, and often adapt their teaching methods to cater to diverse student needs. This rewarding job provides an opportunity for artists to inspire and empower students through the transformative power of the arts.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Teaching Artist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Teaching Artist interviews to help you prepare and succeed.

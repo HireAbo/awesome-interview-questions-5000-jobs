@@ -2,6 +2,8 @@
 
 Welcome to the Market Research Analyst Interview Preparation ! This resource is designed to help you ace your Market Research Analyst interviews with confidence.
 
+A Market Research Analyst in Retail and Sales Merchandising plays a crucial role in understanding consumer behavior, market trends, and competitor strategies to drive business growth. They are responsible for conducting comprehensive research and analysis to identify opportunities, market gaps, and potential risks. These professionals gather data through surveys, interviews, and data mining techniques, and interpret the findings to create actionable insights for the merchandising team. They also collaborate with cross-functional teams to develop effective marketing strategies, optimize product assortments, pricing, and promotional activities. A Market Research Analyst in this field must possess strong analytical skills, excellent communication abilities, and a deep understanding of the retail industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Market Research Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Market Research Analyst interviews to help you prepare and succeed.

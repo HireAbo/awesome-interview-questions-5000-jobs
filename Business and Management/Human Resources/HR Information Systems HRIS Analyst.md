@@ -2,6 +2,8 @@
 
 Welcome to the HR Information Systems (HRIS) Analyst Interview Preparation ! This resource is designed to help you ace your HR Information Systems (HRIS) Analyst interviews with confidence.
 
+The job of an HR Information Systems (HRIS) Analyst is crucial in the field of Business and Management, specifically in Human Resources. The HRIS Analyst is responsible for managing and maintaining the HR information systems within an organization. They play a vital role in developing, implementing, and enhancing HRIS software and tools that support various HR functions such as employee records, payroll, benefits administration, and recruitment. The HRIS Analyst is responsible for ensuring data accuracy, security, and privacy, while also providing technical support and training to HR staff. This role requires strong analytical and problem-solving skills, as well as a deep understanding of HR processes and technology.
+
 ## 🚀 Overview
 
 Whether you're a seasoned HR Information Systems (HRIS) Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in HR Information Systems (HRIS) Analyst interviews to help you prepare and succeed.

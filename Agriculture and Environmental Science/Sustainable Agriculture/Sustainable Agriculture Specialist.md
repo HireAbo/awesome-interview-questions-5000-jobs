@@ -2,6 +2,8 @@
 
 Welcome to the Sustainable Agriculture Specialist Interview Preparation ! This resource is designed to help you ace your Sustainable Agriculture Specialist interviews with confidence.
 
+Agriculture and Environmental Science is an interdisciplinary field that focuses on the relationship between agriculture and the environment. It aims to develop sustainable practices that ensure food production while minimizing negative impacts on natural resources. Within this field, the role of a Sustainable Agriculture Specialist is crucial. These professionals work towards promoting sustainable farming methods, conducting research, and providing technical assistance to farmers. They help implement practices that conserve soil health, reduce water usage, and minimize the use of chemicals. Sustainable Agriculture Specialists also collaborate with farmers to enhance biodiversity, conserve ecosystems, and promote climate resilience. Their work is essential in building a more sustainable and environmentally friendly agricultural system.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sustainable Agriculture Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sustainable Agriculture Specialist interviews to help you prepare and succeed.

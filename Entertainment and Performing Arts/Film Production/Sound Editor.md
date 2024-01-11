@@ -2,6 +2,8 @@
 
 Welcome to the Sound Editor Interview Preparation ! This resource is designed to help you ace your Sound Editor interviews with confidence.
 
+A sound editor plays a crucial role in the film production industry, specifically in the post-production phase. They are responsible for enhancing the auditory experience of a film by ensuring that the sound elements are of high quality and synchronized with the visual components. Sound editors work closely with directors, producers, and other members of the post-production team to create a cohesive and immersive audio experience that complements the overall storytelling. They meticulously edit and mix dialogue, sound effects, and music to achieve the desired emotional impact and technical excellence. A sound editor's expertise is essential in bringing the film to life and captivating audiences through the power of sound.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sound Editor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sound Editor interviews to help you prepare and succeed.

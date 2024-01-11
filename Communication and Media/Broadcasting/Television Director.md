@@ -2,6 +2,8 @@
 
 Welcome to the Television Director Interview Preparation ! This resource is designed to help you ace your Television Director interviews with confidence.
 
+A Television Director is a professional responsible for overseeing the production of television programs and ensuring the smooth execution of the directorial vision. They play a crucial role in shaping the overall creative direction of a program, working closely with producers, writers, and other crew members. Television Directors are skilled in managing technical aspects, such as camera angles, lighting, and sound, to enhance the visual and auditory experience for viewers. They also guide actors and provide instructions to ensure that performances align with the script and desired tone. Television Directors possess excellent leadership and communication skills, as they collaborate with various teams to bring compelling storytelling to audiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Television Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Television Director interviews to help you prepare and succeed.

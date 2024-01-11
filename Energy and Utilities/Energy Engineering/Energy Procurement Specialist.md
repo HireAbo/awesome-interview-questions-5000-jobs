@@ -2,6 +2,8 @@
 
 Welcome to the Energy Procurement Specialist Interview Preparation ! This resource is designed to help you ace your Energy Procurement Specialist interviews with confidence.
 
+An Energy Procurement Specialist is a professional responsible for managing the procurement and purchasing processes of energy resources for an organization. They play a critical role in the Energy Engineering sector by ensuring efficient and cost-effective energy procurement strategies. These specialists analyze market trends, negotiate contracts with suppliers, and monitor energy consumption to optimize energy sourcing. They also evaluate and recommend renewable energy options to reduce the organization's carbon footprint. With a deep understanding of energy markets, regulations, and emerging technologies, Energy Procurement Specialists help organizations minimize energy costs, maintain uninterrupted energy supply, and contribute to sustainable energy practices. Their expertise is vital in supporting a company's overall energy management and sustainability objectives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Energy Procurement Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Energy Procurement Specialist interviews to help you prepare and succeed.

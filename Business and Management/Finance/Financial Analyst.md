@@ -2,6 +2,8 @@
 
 Welcome to the Financial Analyst Interview Preparation ! This resource is designed to help you ace your Financial Analyst interviews with confidence.
 
+A Financial Analyst is a crucial role within the field of Business and Management, specifically in the area of Finance. Financial Analysts are responsible for analyzing financial data and providing valuable insights and recommendations to assist organizations in making informed business decisions. They assess the financial performance of companies by examining financial statements, market trends, and economic conditions. They also evaluate investment opportunities, conduct financial forecasting and budgeting, and develop financial models. Financial Analysts play a pivotal role in strategic planning, risk assessment, and ensuring the financial health and stability of an organization. Strong analytical skills, attention to detail, and a deep understanding of financial principles are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Financial Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Financial Analyst interviews to help you prepare and succeed.

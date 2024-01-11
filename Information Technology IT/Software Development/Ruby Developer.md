@@ -2,6 +2,8 @@
 
 Welcome to the Ruby Developer Interview Preparation ! This resource is designed to help you ace your Ruby Developer interviews with confidence.
 
+A Ruby Developer is a professional who specializes in software development using the Ruby programming language. Ruby is known for its simplicity and readability, making it a popular choice for building web applications and software solutions. As a Ruby Developer, you will be responsible for designing, coding, and testing software programs, ensuring they meet the client's requirements and specifications. You will also collaborate with other developers and stakeholders to ensure the successful implementation of projects. Strong problem-solving skills, attention to detail, and a solid understanding of software development principles are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Ruby Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Ruby Developer interviews to help you prepare and succeed.

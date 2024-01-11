@@ -2,6 +2,8 @@
 
 Welcome to the Game Theory Analyst Interview Preparation ! This resource is designed to help you ace your Game Theory Analyst interviews with confidence.
 
+A Game Theory Analyst is a professional who specializes in applying game theory principles to analyze and predict economic behavior, decision-making, and strategic interactions among individuals, firms, or nations. They use mathematical models, statistical techniques, and economic principles to study various scenarios and the possible outcomes of strategic interactions. These professionals play a crucial role in understanding and predicting market behavior, pricing strategies, negotiation tactics, and policy formulation. They help organizations make informed decisions by providing insights into the potential impacts of different strategies and identifying optimal solutions. Game Theory Analysts are highly analytical, possess strong problem-solving skills, and have a deep understanding of economic theories and mathematical modeling.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Game Theory Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Game Theory Analyst interviews to help you prepare and succeed.

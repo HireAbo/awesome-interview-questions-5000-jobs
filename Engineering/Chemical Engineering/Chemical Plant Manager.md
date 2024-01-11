@@ -2,6 +2,8 @@
 
 Welcome to the Chemical Plant Manager Interview Preparation ! This resource is designed to help you ace your Chemical Plant Manager interviews with confidence.
 
+A Chemical Plant Manager is a key role in the field of Chemical Engineering, responsible for overseeing and managing the operations of a chemical plant. They are responsible for ensuring the efficient and safe operation of the plant, as well as the production of high-quality chemical products. This role involves planning and coordinating production activities, monitoring plant performance, and implementing strategies to optimize productivity and minimize costs. Chemical Plant Managers also play a crucial role in maintaining compliance with safety regulations and environmental standards. They may lead a team of engineers, technicians, and operators, providing guidance and support to ensure smooth operations and achieve production targets.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Chemical Plant Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Chemical Plant Manager interviews to help you prepare and succeed.

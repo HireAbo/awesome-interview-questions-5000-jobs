@@ -2,6 +2,8 @@
 
 Welcome to the Promotions Manager Interview Preparation ! This resource is designed to help you ace your Promotions Manager interviews with confidence.
 
+A Promotions Manager in the field of Advertising plays a crucial role in managing and implementing effective promotional campaigns for a company or organization. They are responsible for devising strategic plans to promote products, services, or events, with the aim of increasing brand awareness and driving sales. This role requires excellent communication skills as Promotions Managers need to collaborate with various stakeholders, including clients, creative teams, and media outlets. They oversee the development of advertising materials, such as print ads, commercials, or social media content, and ensure their timely delivery. Additionally, Promotions Managers analyze market trends, consumer behavior, and competitor activities to refine promotional strategies and achieve desired outcomes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Promotions Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Promotions Manager interviews to help you prepare and succeed.

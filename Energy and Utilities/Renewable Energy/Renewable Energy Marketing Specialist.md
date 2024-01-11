@@ -2,6 +2,8 @@
 
 Welcome to the Renewable Energy Marketing Specialist Interview Preparation ! This resource is designed to help you ace your Renewable Energy Marketing Specialist interviews with confidence.
 
+A Renewable Energy Marketing Specialist is a professional who specializes in promoting and marketing renewable energy products and services. They play a crucial role in the energy and utilities sector by raising awareness about renewable energy sources such as solar, wind, hydro, and geothermal power. These specialists are responsible for developing and implementing marketing strategies to attract and engage customers, educate the public about the benefits of renewable energy, and drive demand for sustainable energy solutions. They collaborate with cross-functional teams to create compelling marketing campaigns, conduct market research, analyze customer behavior, and track industry trends to ensure the successful promotion and adoption of renewable energy technologies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Renewable Energy Marketing Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Renewable Energy Marketing Specialist interviews to help you prepare and succeed.

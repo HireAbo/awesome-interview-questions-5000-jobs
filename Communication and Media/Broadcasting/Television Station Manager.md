@@ -2,6 +2,8 @@
 
 Welcome to the Television Station Manager Interview Preparation ! This resource is designed to help you ace your Television Station Manager interviews with confidence.
 
+A Television Station Manager is responsible for overseeing the day-to-day operations of a television station. They play a crucial role in managing the staff, budget, and programming decisions of the station. Their primary focus is to ensure that the station meets its financial and viewership goals. They work closely with various departments, such as production, marketing, and sales, to develop and execute strategies that drive ratings, advertising revenue, and overall success. A successful Television Station Manager possesses strong leadership skills, a deep understanding of the media industry, and the ability to adapt to the ever-changing landscape of broadcasting.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Television Station Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Television Station Manager interviews to help you prepare and succeed.

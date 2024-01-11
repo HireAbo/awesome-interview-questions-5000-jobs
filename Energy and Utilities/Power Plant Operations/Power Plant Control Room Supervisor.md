@@ -2,6 +2,8 @@
 
 Welcome to the Power Plant Control Room Supervisor Interview Preparation ! This resource is designed to help you ace your Power Plant Control Room Supervisor interviews with confidence.
 
+The role of a Power Plant Control Room Supervisor is crucial in ensuring the smooth and efficient operation of power plants. This position involves overseeing the control room operations, managing a team of operators, and maintaining a safe working environment. The Control Room Supervisor is responsible for monitoring the power generation process, analyzing data, and making operational adjustments as needed. They collaborate with other departments to optimize plant performance and troubleshoot any issues that may arise. Additionally, the Control Room Supervisor ensures compliance with regulatory standards and implements safety protocols. This job requires strong technical knowledge, leadership skills, and the ability to make critical decisions under pressure.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Power Plant Control Room Supervisor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Power Plant Control Room Supervisor interviews to help you prepare and succeed.

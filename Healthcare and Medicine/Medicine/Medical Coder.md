@@ -2,6 +2,8 @@
 
 Welcome to the Medical Coder Interview Preparation ! This resource is designed to help you ace your Medical Coder interviews with confidence.
 
+A medical coder plays a crucial role in the healthcare industry by ensuring accurate coding and billing for medical services. As the backbone of healthcare reimbursement, medical coders are responsible for translating healthcare procedures, diagnoses, and treatments into universally recognized codes. They review medical records and documentation to assign the appropriate codes, ensuring compliance with coding guidelines and regulations. This meticulous process enables healthcare providers to receive proper reimbursement from insurance companies and government programs. Medical coders also play a vital role in healthcare data collection and analysis, as their accurate coding helps in tracking disease patterns, evaluating treatment effectiveness, and improving overall healthcare delivery.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Medical Coder or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Medical Coder interviews to help you prepare and succeed.

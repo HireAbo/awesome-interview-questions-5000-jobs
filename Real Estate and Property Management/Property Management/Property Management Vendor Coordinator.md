@@ -2,6 +2,8 @@
 
 Welcome to the Property Management Vendor Coordinator Interview Preparation ! This resource is designed to help you ace your Property Management Vendor Coordinator interviews with confidence.
 
+A Real Estate and Property Management company plays a crucial role in the management and maintenance of properties. In this industry, Property Management is a specialized field that focuses on overseeing and maximizing the value of real estate assets for property owners. Within the Property Management sector, the role of a Property Management Vendor Coordinator is essential. This position involves coordinating and managing various vendors and contractors who provide services such as maintenance, repairs, and renovations for properties under management. The Property Management Vendor Coordinator ensures that all vendors are selected, contracted, and scheduled efficiently, while also closely monitoring their performance and adherence to quality standards.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Property Management Vendor Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Property Management Vendor Coordinator interviews to help you prepare and succeed.

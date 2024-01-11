@@ -2,6 +2,8 @@
 
 Welcome to the Legislative Analyst Interview Preparation ! This resource is designed to help you ace your Legislative Analyst interviews with confidence.
 
+A Legislative Analyst plays a crucial role in the realm of government and public service, specifically within the field of public policy. Government agencies and legislative bodies rely on legislative analysts to provide them with accurate and comprehensive research and analysis on proposed policies and legislation. These professionals assess the potential impacts, benefits, and drawbacks of various legislative initiatives, and offer recommendations to lawmakers based on their findings. They are responsible for evaluating the economic, social, and political consequences of proposed policies, as well as conducting in-depth research on relevant topics. Legislative analysts play a vital role in shaping public policy by providing lawmakers with the necessary information to make informed decisions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Legislative Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Legislative Analyst interviews to help you prepare and succeed.

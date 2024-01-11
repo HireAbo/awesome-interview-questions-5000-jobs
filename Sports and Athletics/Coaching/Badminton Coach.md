@@ -2,6 +2,8 @@
 
 Welcome to the Badminton Coach Interview Preparation ! This resource is designed to help you ace your Badminton Coach interviews with confidence.
 
+A Badminton Coach plays a vital role in the development and success of athletes in the sport. As a Badminton Coach, their main responsibility is to provide guidance, instruction, and support to players, helping them improve their skills, technique, and overall performance. They design training programs, conduct practice sessions, and analyze players' strengths and weaknesses to tailor their coaching approach accordingly. A Badminton Coach also assists athletes in setting goals, developing strategies, and enhancing their physical and mental abilities. They foster a positive and motivating environment, instilling discipline and teamwork values. Ultimately, a Badminton Coach plays a crucial role in shaping athletes into successful badminton players.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Badminton Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Badminton Coach interviews to help you prepare and succeed.

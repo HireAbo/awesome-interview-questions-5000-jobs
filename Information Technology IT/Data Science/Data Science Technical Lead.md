@@ -2,6 +2,12 @@
 
 Welcome to the Data Science Technical Lead Interview Preparation ! This resource is designed to help you ace your Data Science Technical Lead interviews with confidence.
 
+Information Technology (IT) refers to the use and management of computers, software, networks, and other technological systems to store, process, transmit, and retrieve information. It encompasses various domains, including data management, software development, cybersecurity, and network administration. 
+
+Data Science is a specialized field within IT that focuses on extracting valuable insights and knowledge from large and complex datasets. It involves applying statistical analysis, machine learning, and programming skills to analyze data, build predictive models, and make data-driven decisions. 
+
+A Data Science Technical Lead is a senior-level professional in the field of Data Science. They are responsible for leading a team of data scientists, overseeing the development and implementation of data projects, collaborating with stakeholders, and ensuring the delivery of high-quality data-driven solutions. They possess in-depth technical expertise, strong analytical skills, and excellent leadership abilities to drive innovation and success in data science initiatives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Science Technical Lead or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Science Technical Lead interviews to help you prepare and succeed.

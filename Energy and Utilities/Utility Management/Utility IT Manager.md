@@ -2,6 +2,8 @@
 
 Welcome to the Utility IT Manager Interview Preparation ! This resource is designed to help you ace your Utility IT Manager interviews with confidence.
 
+The role of a Utility IT Manager in Energy and Utilities sector is crucial for effective utility management. As an expert in information technology, this professional oversees the technological infrastructure and systems that support utility operations. They are responsible for managing and maintaining utility management software, databases, and networks to ensure seamless communication and data management. Utility IT Managers also develop and implement technology strategies, identify and resolve IT issues, and oversee cybersecurity measures to protect sensitive information. They work closely with cross-functional teams, such as operations and finance, to align technology solutions with business goals and optimize utility operations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Utility IT Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Utility IT Manager interviews to help you prepare and succeed.

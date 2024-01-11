@@ -2,6 +2,8 @@
 
 Welcome to the Property Sales Executive Interview Preparation ! This resource is designed to help you ace your Property Sales Executive interviews with confidence.
 
+A Property Sales Executive is a key role within the real estate sales industry, responsible for assisting clients in buying and selling properties. These professionals possess a deep understanding of the real estate market, trends, and property values. Their primary duty is to connect buyers and sellers, negotiate deals, and facilitate the entire sales process. Property Sales Executives conduct market research, identify potential leads, and actively promote properties to potential buyers. They possess strong communication and negotiation skills, ensuring client satisfaction and achieving sales targets. Their expertise lies in understanding client requirements, providing property advice, and closing successful sales transactions. Overall, Property Sales Executives play a crucial role in the real estate industry, driving property sales and contributing to the growth of the market.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Property Sales Executive or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Property Sales Executive interviews to help you prepare and succeed.

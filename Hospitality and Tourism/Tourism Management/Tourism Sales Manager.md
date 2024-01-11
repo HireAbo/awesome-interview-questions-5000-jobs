@@ -2,6 +2,8 @@
 
 Welcome to the Tourism Sales Manager Interview Preparation ! This resource is designed to help you ace your Tourism Sales Manager interviews with confidence.
 
+Hospitality and Tourism is a dynamic industry that focuses on providing exceptional services and experiences to guests. It encompasses various sectors, including accommodations, food and beverage, travel, and entertainment. Within this field, Tourism Management plays a crucial role in overseeing and coordinating all aspects of a tourist's journey. A Tourism Sales Manager is an integral part of this process, responsible for driving revenue and attracting new customers. This role involves developing and implementing effective sales strategies, maintaining relationships with clients, negotiating contracts, and analyzing market trends. A successful Tourism Sales Manager possesses excellent communication skills, a strong understanding of the tourism industry, and a passion for delivering outstanding customer experiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Tourism Sales Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Tourism Sales Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Systems Developer Interview Preparation ! This resource is designed to help you ace your Systems Developer interviews with confidence.
 
+A Systems Developer, as part of the Software Development field in Information Technology (IT), plays a crucial role in designing, creating, and maintaining software systems. These professionals are responsible for analyzing user requirements, developing specifications, and writing high-quality code to ensure the functionality and performance of various software applications. Systems Developers work closely with clients, software architects, and other team members to identify system needs, troubleshoot issues, and implement software solutions. They utilize their expertise in programming languages, databases, and software development methodologies to deliver efficient and reliable systems. Systems Developers also stay updated with emerging technologies and trends to enhance software development processes and deliver innovative solutions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Systems Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Systems Developer interviews to help you prepare and succeed.

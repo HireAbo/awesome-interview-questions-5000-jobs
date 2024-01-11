@@ -2,6 +2,8 @@
 
 Welcome to the Market Research Analyst Interview Preparation ! This resource is designed to help you ace your Market Research Analyst interviews with confidence.
 
+A Market Research Analyst is a key role in the field of entrepreneurship and business management. This job requires individuals to conduct extensive research and analysis to gather valuable insights about market trends, consumer behavior, and competitors. They utilize various research methodologies, such as surveys, interviews, and data analysis, to collect relevant data and identify potential opportunities or risks for businesses. Market Research Analysts play a crucial role in helping companies make informed decisions by providing accurate market intelligence and recommendations. They are responsible for interpreting complex data, preparing reports, and presenting findings to stakeholders. Strong analytical skills, attention to detail, and a thorough understanding of market dynamics are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Market Research Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Market Research Analyst interviews to help you prepare and succeed.

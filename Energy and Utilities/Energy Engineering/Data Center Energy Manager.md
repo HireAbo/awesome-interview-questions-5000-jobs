@@ -2,6 +2,8 @@
 
 Welcome to the Data Center Energy Manager Interview Preparation ! This resource is designed to help you ace your Data Center Energy Manager interviews with confidence.
 
+A Data Center Energy Manager plays a crucial role in the field of Energy Engineering within the Energy and Utilities sector. This job involves overseeing and optimizing energy consumption and efficiency in data centers, which are critical infrastructures for storing and processing large amounts of digital information. The Data Center Energy Manager is responsible for implementing strategies and technologies to reduce energy usage, minimize carbon emissions, and improve sustainability within data centers. They analyze energy data, identify areas for improvement, and develop innovative solutions to optimize energy performance. This role requires a deep understanding of energy systems, data center infrastructure, and emerging energy technologies to ensure reliable and efficient operations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Center Energy Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Center Energy Manager interviews to help you prepare and succeed.

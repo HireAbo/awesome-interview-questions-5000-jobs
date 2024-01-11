@@ -2,6 +2,8 @@
 
 Welcome to the Jazz Dancer Interview Preparation ! This resource is designed to help you ace your Jazz Dancer interviews with confidence.
 
+A Jazz Dancer is a highly skilled performer who specializes in the art of jazz dance. Jazz dance is a dynamic and energetic form of dance that combines elements of ballet, modern dance, and African-American rhythms. Jazz Dancers are known for their strong technique, flexibility, and improvisation skills. They perform in various settings, including theaters, dance studios, and clubs. Jazz Dancers often work as part of a dance company or as freelance performers, showcasing their talent through choreographed routines and solo performances. They bring life and excitement to the stage with their intricate footwork, fluid movements, and expressive storytelling abilities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Jazz Dancer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Jazz Dancer interviews to help you prepare and succeed.

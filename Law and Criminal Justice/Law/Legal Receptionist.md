@@ -2,6 +2,8 @@
 
 Welcome to the Legal Receptionist Interview Preparation ! This resource is designed to help you ace your Legal Receptionist interviews with confidence.
 
+A legal receptionist plays a crucial role in the field of Law and Criminal Justice by being the first point of contact for clients and visitors in a legal office. This job requires exceptional communication and interpersonal skills, as the receptionist is responsible for greeting clients, answering phone calls, and managing appointments. They also handle administrative tasks such as organizing files, preparing legal documents, and maintaining confidentiality. A legal receptionist must possess a strong attention to detail, organizational skills, and the ability to multitask in a fast-paced environment. Their role is essential in ensuring a smooth flow of operations within a legal office and supporting the legal team in delivering efficient services.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Legal Receptionist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Legal Receptionist interviews to help you prepare and succeed.

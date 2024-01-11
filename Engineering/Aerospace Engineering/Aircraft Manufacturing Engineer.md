@@ -2,6 +2,8 @@
 
 Welcome to the Aircraft Manufacturing Engineer Interview Preparation ! This resource is designed to help you ace your Aircraft Manufacturing Engineer interviews with confidence.
 
+An Aircraft Manufacturing Engineer is a professional who specializes in the design, development, and production of aircraft. They are responsible for ensuring the efficient manufacturing process and maintaining the quality and safety standards of aircraft production. These engineers work closely with a team of technicians, designers, and mechanics to create and assemble aircraft components, systems, and structures. They use their expertise in aerospace engineering principles, materials, and manufacturing techniques to optimize production processes, reduce costs, and enhance the overall performance and safety of aircraft. An Aircraft Manufacturing Engineer plays a crucial role in the aerospace industry by contributing to the production of reliable, efficient, and technologically advanced aircraft.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Aircraft Manufacturing Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Aircraft Manufacturing Engineer interviews to help you prepare and succeed.

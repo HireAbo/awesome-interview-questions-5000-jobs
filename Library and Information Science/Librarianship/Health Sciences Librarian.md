@@ -2,6 +2,8 @@
 
 Welcome to the Health Sciences Librarian Interview Preparation ! This resource is designed to help you ace your Health Sciences Librarian interviews with confidence.
 
+A Health Sciences Librarian is a professional who specializes in providing access to information and resources related to healthcare, medicine, and biomedical sciences. They play a vital role in supporting healthcare professionals, researchers, students, and patients by managing and organizing health-related collections, databases, and digital resources. These librarians possess a strong understanding of medical terminology, research methodologies, and information retrieval systems. They assist in locating and evaluating relevant literature, conducting systematic reviews, and promoting evidence-based practice. In addition, Health Sciences Librarians collaborate with healthcare professionals to develop educational programs, trainings, and workshops to enhance information literacy skills, ensuring the effective use of resources and promoting optimal healthcare outcomes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Health Sciences Librarian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Health Sciences Librarian interviews to help you prepare and succeed.

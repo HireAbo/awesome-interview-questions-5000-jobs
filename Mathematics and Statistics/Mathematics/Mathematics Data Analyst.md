@@ -2,6 +2,8 @@
 
 Welcome to the Mathematics Data Analyst Interview Preparation ! This resource is designed to help you ace your Mathematics Data Analyst interviews with confidence.
 
+Mathematics is a field that deals with numbers, quantities, and the relationships between them. It is a fundamental discipline that is used in various fields such as engineering, finance, and sciences. Statistics, on the other hand, focuses on collecting, analyzing, interpreting, and presenting data. It provides methods and tools to make sense of the information and draw meaningful conclusions. In the realm of Mathematics, a Mathematics Data Analyst job involves utilizing mathematical and statistical techniques to analyze large sets of data, identify patterns, trends, and insights, and communicate findings to aid in decision-making processes. This role requires strong analytical skills, proficiency in statistical software, and the ability to work with complex data sets.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Mathematics Data Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Mathematics Data Analyst interviews to help you prepare and succeed.

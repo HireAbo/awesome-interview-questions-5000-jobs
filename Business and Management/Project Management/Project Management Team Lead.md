@@ -2,6 +2,8 @@
 
 Welcome to the Project Management Team Lead Interview Preparation ! This resource is designed to help you ace your Project Management Team Lead interviews with confidence.
 
+A Project Management Team Lead plays a crucial role in overseeing and managing project initiatives within an organization. As a key member of the project management team, their primary responsibility is to lead a team of project managers and ensure the successful execution of projects from start to finish. This involves defining project goals and scope, creating and managing project schedules, allocating resources, and monitoring project progress. The Project Management Team Lead also acts as a liaison between various stakeholders, including clients, senior management, and team members, to effectively communicate project updates, address any issues, and ensure project objectives are met within the allocated time and budget.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Project Management Team Lead or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Project Management Team Lead interviews to help you prepare and succeed.

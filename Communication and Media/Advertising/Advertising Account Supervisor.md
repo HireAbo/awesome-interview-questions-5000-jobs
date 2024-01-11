@@ -2,6 +2,8 @@
 
 Welcome to the Advertising Account Supervisor Interview Preparation ! This resource is designed to help you ace your Advertising Account Supervisor interviews with confidence.
 
+The role of an Advertising Account Supervisor within the Communication and Media field is a crucial one in the realm of advertising. This job involves overseeing and managing advertising campaigns for clients, ensuring that their objectives and goals are met effectively. The Advertising Account Supervisor acts as a bridge between the client and the advertising agency, coordinating with various teams such as creative, media, and production to execute campaigns. They are responsible for developing and maintaining strong client relationships, understanding their needs, and providing strategic recommendations. Additionally, they monitor campaign performance, analyze data, and provide insights to optimize future campaigns. This role requires excellent communication, organization, and leadership skills to deliver successful advertising campaigns.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Advertising Account Supervisor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Advertising Account Supervisor interviews to help you prepare and succeed.

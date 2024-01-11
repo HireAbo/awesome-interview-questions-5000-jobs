@@ -2,6 +2,8 @@
 
 Welcome to the Radio Research Analyst Interview Preparation ! This resource is designed to help you ace your Radio Research Analyst interviews with confidence.
 
+A Radio Research Analyst is an important role within the field of Communication and Media, specifically focusing on Broadcasting. This position involves in-depth research and analysis of radio industry trends, audience preferences, and market conditions. The analyst collects and interprets data related to radio programming, advertising, and audience ratings to provide valuable insights to radio stations and advertisers. They utilize various research methods, including surveys, focus groups, and data analysis software, to gather and analyze relevant information. The findings and recommendations of a Radio Research Analyst help radio stations improve their programming content, target the right audience, and optimize advertising strategies, ultimately driving success in the highly competitive radio industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Radio Research Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Radio Research Analyst interviews to help you prepare and succeed.

@@ -2,6 +2,12 @@
 
 Welcome to the Turbomachinery Engineer Interview Preparation ! This resource is designed to help you ace your Turbomachinery Engineer interviews with confidence.
 
+A Turbomachinery Engineer is a specialized mechanical engineer who focuses on the design, development, and maintenance of turbomachinery, which includes turbochargers, gas turbines, steam turbines, and compressors. These engineers play a critical role in various industries such as aerospace, power generation, oil and gas, and automotive, where turbomachinery is extensively used.
+
+The main responsibilities of a Turbomachinery Engineer include designing and optimizing turbomachinery components, conducting performance analysis, troubleshooting operational issues, and ensuring compliance with safety and quality standards. They also collaborate with multidisciplinary teams to develop innovative solutions, improve efficiency, and enhance overall performance.
+
+A successful Turbomachinery Engineer possesses a strong background in mechanical engineering principles, fluid dynamics, thermodynamics, and materials science. They have excellent analytical and problem-solving skills, along with proficiency in computer-aided design (CAD) software and simulation tools. Turbomachinery Engineers often work in research and development departments, engineering consulting firms, or manufacturing companies, contributing to the advancement of turbomachinery technology.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Turbomachinery Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Turbomachinery Engineer interviews to help you prepare and succeed.

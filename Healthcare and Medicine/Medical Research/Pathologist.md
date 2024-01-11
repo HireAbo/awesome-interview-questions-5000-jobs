@@ -2,6 +2,8 @@
 
 Welcome to the Pathologist Interview Preparation ! This resource is designed to help you ace your Pathologist interviews with confidence.
 
+A pathologist is a medical professional specialized in the study and diagnosis of diseases through the examination of tissues, organs, and bodily fluids. They play a vital role in healthcare and medicine by providing crucial information about the nature and progression of diseases. Pathologists utilize various laboratory techniques and technologies to analyze samples and identify abnormal cells or tissues. They work closely with other healthcare professionals, such as surgeons and oncologists, to determine accurate diagnoses and guide treatment plans. Additionally, pathologists are actively involved in medical research, contributing to the development of new diagnostic methods and therapies. Their expertise is essential in improving patient outcomes and advancing medical knowledge.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Pathologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Pathologist interviews to help you prepare and succeed.

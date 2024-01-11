@@ -2,6 +2,8 @@
 
 Welcome to the Motion Graphic Designer Interview Preparation ! This resource is designed to help you ace your Motion Graphic Designer interviews with confidence.
 
+A Motion Graphic Designer is a professional who specializes in creating visually captivating and dynamic artwork for various digital platforms. They possess a unique skill set that combines creativity and technical expertise in graphic design, animation, and video editing. Motion Graphic Designers are responsible for conceptualizing, designing, and executing animations and visual effects for commercials, films, websites, and social media platforms. They are proficient in using industry-standard software such as Adobe After Effects, Cinema 4D, and Photoshop to bring their ideas to life. A successful Motion Graphic Designer has a keen eye for detail, a strong understanding of storytelling, and the ability to work efficiently under tight deadlines.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Motion Graphic Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Motion Graphic Designer interviews to help you prepare and succeed.

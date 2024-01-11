@@ -2,6 +2,8 @@
 
 Welcome to the Fire Chief Interview Preparation ! This resource is designed to help you ace your Fire Chief interviews with confidence.
 
+The Fire Chief job in the field of Criminal Justice plays a crucial role in ensuring public safety and maintaining law and order. As a Fire Chief, one is responsible for overseeing fire prevention and emergency response operations within a jurisdiction. This role requires strong leadership skills, strategic planning abilities, and the ability to make critical decisions under pressure. Fire Chiefs collaborate with law enforcement agencies, emergency management personnel, and other stakeholders to develop and implement effective fire safety protocols. They also manage personnel, budgetary resources, and equipment to ensure the efficient functioning of fire departments. Ultimately, Fire Chiefs contribute significantly to the criminal justice system by safeguarding lives, property, and communities from fire-related risks.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Fire Chief or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Fire Chief interviews to help you prepare and succeed.

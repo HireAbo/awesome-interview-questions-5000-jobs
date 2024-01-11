@@ -2,6 +2,8 @@
 
 Welcome to the Educational Consultant Interview Preparation ! This resource is designed to help you ace your Educational Consultant interviews with confidence.
 
+An educational consultant is a professional who provides expert advice and guidance to individuals, schools, and institutions in the field of education. They play a crucial role in improving educational systems and practices by assessing and identifying areas of improvement. Educational consultants work closely with teachers, administrators, and parents to develop effective teaching strategies, curriculum development, and assessment methods. They analyze data, conduct research, and evaluate educational programs to ensure they meet the needs and objectives of students and institutions. Furthermore, they provide training and professional development opportunities for teachers, helping them enhance their teaching skills and stay updated with the latest educational trends and techniques.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Educational Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Educational Consultant interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Restaurant Manager Interview Preparation ! This resource is designed to help you ace your Restaurant Manager interviews with confidence.
 
+Hospitality and tourism is a thriving industry that encompasses various sectors, including culinary arts. Culinary arts is a specialized field within the hospitality sector that focuses on food preparation, presentation, and service. A key role within this industry is that of a restaurant manager. A restaurant manager is responsible for overseeing the day-to-day operations of a restaurant, ensuring smooth functioning, exceptional customer service, and profitable outcomes. They manage staff, create menus, maintain quality standards, handle customer complaints, and ensure compliance with health and safety regulations. A restaurant manager must possess strong leadership skills, business acumen, culinary expertise, and exceptional communication abilities to excel in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Restaurant Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Restaurant Manager interviews to help you prepare and succeed.

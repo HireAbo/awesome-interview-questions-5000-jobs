@@ -2,6 +2,8 @@
 
 Welcome to the Physical Therapy Assistant Interview Preparation ! This resource is designed to help you ace your Physical Therapy Assistant interviews with confidence.
 
+A Physical Therapy Assistant (PTA) is a vital member of the healthcare and medicine field, specifically within the realm of physical therapy. As a PTA, professionals work closely with physical therapists to help patients recover from injuries, manage chronic conditions, and improve overall mobility and functionality. Their primary role is to assist in implementing treatment plans, conducting therapeutic exercises, and providing hands-on patient care. PTAs also play a crucial role in educating patients on proper techniques for exercises and activities, monitoring progress, and making necessary adjustments to treatment plans. With their expertise, PTAs contribute significantly to improving patients' quality of life and facilitating their journey towards complete recovery.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Physical Therapy Assistant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Physical Therapy Assistant interviews to help you prepare and succeed.

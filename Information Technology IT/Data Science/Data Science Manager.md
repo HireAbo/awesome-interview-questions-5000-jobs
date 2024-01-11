@@ -2,6 +2,12 @@
 
 Welcome to the Data Science Manager Interview Preparation ! This resource is designed to help you ace your Data Science Manager interviews with confidence.
 
+Information Technology (IT) is a broad field that encompasses the use of computers, software, and networks to process, store, retrieve, and transmit information. It involves the management and maintenance of hardware, software, databases, and systems to support various organizational functions.
+
+Data Science, on the other hand, is a specialized branch of IT that focuses on extracting meaningful insights and knowledge from vast amounts of data. It involves the use of statistical analysis, machine learning, and data visualization techniques to uncover patterns, trends, and correlations.
+
+A Data Science Manager is responsible for leading a team of data scientists and analysts in designing, implementing, and managing data-driven projects. They collaborate with various stakeholders to identify business problems, develop data-driven solutions, and ensure the successful delivery of projects. Additionally, they oversee the data infrastructure, model development, and deployment processes, while ensuring adherence to data privacy and security regulations. A Data Science Manager also plays a crucial role in driving innovation and leveraging advanced analytics to gain a competitive edge in the market.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Science Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Science Manager interviews to help you prepare and succeed.

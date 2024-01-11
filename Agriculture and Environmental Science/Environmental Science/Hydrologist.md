@@ -2,6 +2,8 @@
 
 Welcome to the Hydrologist Interview Preparation ! This resource is designed to help you ace your Hydrologist interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on the sustainable management of natural resources, the conservation of biodiversity, and the preservation of ecosystems. Within this field, Environmental Science specifically deals with the study of the environment and its impact on living organisms. One important job within the field of Environmental Science is that of a Hydrologist. Hydrologists are scientists who study water and its distribution, movement, and quality in the environment. They analyze the impact of human activities on water resources, assess water availability and quality for agricultural purposes, and develop strategies to manage water resources effectively. Hydrologists play a crucial role in ensuring the sustainability and conservation of water resources for agricultural and environmental purposes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Hydrologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Hydrologist interviews to help you prepare and succeed.

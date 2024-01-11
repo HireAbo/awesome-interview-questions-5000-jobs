@@ -2,6 +2,8 @@
 
 Welcome to the Substitute Teacher Interview Preparation ! This resource is designed to help you ace your Substitute Teacher interviews with confidence.
 
+A substitute teacher plays a vital role in the field of education by temporarily replacing a regular classroom teacher when they are absent. As a substitute teacher, one must possess a strong passion for teaching and the ability to adapt to different classroom environments. Substitute teachers are responsible for following lesson plans, maintaining classroom discipline, and ensuring a productive learning atmosphere. They must possess excellent communication and organizational skills to effectively engage students and manage classroom activities. This role requires flexibility and adaptability to quickly familiarize oneself with different grade levels, subjects, and teaching styles. Substitute teaching provides an opportunity to make a positive impact on students' lives while gaining valuable teaching experience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Substitute Teacher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Substitute Teacher interviews to help you prepare and succeed.

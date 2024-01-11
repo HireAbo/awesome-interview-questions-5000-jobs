@@ -2,6 +2,10 @@
 
 Welcome to the Mathematics Research Analyst Interview Preparation ! This resource is designed to help you ace your Mathematics Research Analyst interviews with confidence.
 
+Mathematics is a fundamental discipline that deals with abstract concepts, numbers, and their relationships. It is the study of patterns, structures, and logical reasoning. Statistics, on the other hand, is a branch of mathematics that focuses on the collection, organization, analysis, interpretation, and presentation of data. It involves the study of probability, regression analysis, hypothesis testing, and data modeling. 
+
+A Mathematics Research Analyst is a professional who applies mathematical principles and statistical techniques to solve complex problems. They work in various industries, including finance, healthcare, technology, and research. Their responsibilities include collecting and analyzing data, developing mathematical models, creating algorithms, and providing insights and recommendations based on the findings. They play a crucial role in decision-making processes, helping businesses optimize operations, improve efficiency, and make informed strategic choices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Mathematics Research Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Mathematics Research Analyst interviews to help you prepare and succeed.

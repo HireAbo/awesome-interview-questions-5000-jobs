@@ -2,6 +2,8 @@
 
 Welcome to the Utility Financial Planner Interview Preparation ! This resource is designed to help you ace your Utility Financial Planner interviews with confidence.
 
+A Utility Financial Planner is responsible for managing the financial aspects of energy and utility companies. They play a crucial role in developing and implementing financial strategies to ensure the efficient and effective operation of utilities. Their primary responsibilities include budgeting, forecasting, and financial analysis to support decision-making processes. Utility Financial Planners also monitor and analyze financial performance, identify cost-saving opportunities, and recommend strategies to improve profitability. They collaborate with other departments to ensure financial goals align with business objectives. Additionally, they stay updated with industry regulations and market trends to make informed financial decisions. A strong analytical mindset and excellent financial management skills are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Utility Financial Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Utility Financial Planner interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Brand Identity Designer Interview Preparation ! This resource is designed to help you ace your Brand Identity Designer interviews with confidence.
 
+A Brand Identity Designer is a skilled professional who specializes in creating and developing visual identities for companies, organizations, and individuals. This role involves designing and creating unique and recognizable brand elements such as logos, typography, color schemes, and other visual assets that help to establish a strong and consistent brand image. Brand Identity Designers work closely with clients to understand their brand values, target audience, and business goals in order to create designs that effectively represent and communicate their brand message. They possess a deep understanding of design principles, art direction, and marketing strategies, enabling them to create visually appealing and impactful brand identities that leave a lasting impression.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Brand Identity Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Brand Identity Designer interviews to help you prepare and succeed.

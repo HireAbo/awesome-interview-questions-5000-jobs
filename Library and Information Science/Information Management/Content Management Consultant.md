@@ -2,6 +2,8 @@
 
 Welcome to the Content Management Consultant Interview Preparation ! This resource is designed to help you ace your Content Management Consultant interviews with confidence.
 
+A Content Management Consultant in the field of Library and Information Science (LIS) focuses on effectively organizing and managing digital content within various organizations. As an expert in information management, they play a crucial role in ensuring seamless access, retrieval, and preservation of digital assets. These consultants possess a deep understanding of content management systems and work closely with clients to analyze their information needs, develop strategies, and implement solutions tailored to their specific requirements. They are adept at designing metadata schemas, taxonomies, and workflows to enhance the discoverability and usability of information resources. Overall, their expertise enables organizations to optimize their content management processes, improve information retrieval, and enhance user experience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Content Management Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Content Management Consultant interviews to help you prepare and succeed.

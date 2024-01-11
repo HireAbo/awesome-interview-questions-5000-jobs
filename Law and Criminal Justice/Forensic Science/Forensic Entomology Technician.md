@@ -2,6 +2,8 @@
 
 Welcome to the Forensic Entomology Technician Interview Preparation ! This resource is designed to help you ace your Forensic Entomology Technician interviews with confidence.
 
+A Forensic Entomology Technician is a crucial role within the field of Forensic Science, specifically in the area of Criminal Justice. This specialized technician plays a vital role in gathering critical evidence by studying insects found at crime scenes. By analyzing the life cycle, behavior, and ecology of these insects, they assist in determining the time of death, location of the crime, and other crucial information. Their expertise in identifying insect species, their development stages, and their interaction with human remains helps in providing accurate forensic evidence. With a deep understanding of entomology and the ability to work meticulously, a Forensic Entomology Technician contributes significantly to solving criminal cases and ensuring justice is served.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forensic Entomology Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forensic Entomology Technician interviews to help you prepare and succeed.

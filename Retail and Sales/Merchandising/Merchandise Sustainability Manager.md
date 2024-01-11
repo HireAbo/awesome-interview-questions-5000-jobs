@@ -2,6 +2,8 @@
 
 Welcome to the Merchandise Sustainability Manager Interview Preparation ! This resource is designed to help you ace your Merchandise Sustainability Manager interviews with confidence.
 
+The role of a Merchandise Sustainability Manager within the Retail and Sales industry focuses on promoting and implementing sustainable practices within merchandising operations. These professionals are responsible for developing and executing strategies that drive sustainable sourcing, manufacturing, and packaging of products. They work closely with cross-functional teams to ensure compliance with environmental and ethical standards, while also identifying opportunities for improvement. The Merchandise Sustainability Manager collaborates with suppliers, vendors, and internal stakeholders to identify sustainable materials, reduce waste, and increase energy efficiency. They also monitor and report on key sustainability metrics to track progress and communicate the company's commitment to responsible retail practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Merchandise Sustainability Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Merchandise Sustainability Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Interior Design Coordinator Interview Preparation ! This resource is designed to help you ace your Interior Design Coordinator interviews with confidence.
 
+An Interior Design Coordinator plays a crucial role in the field of Art and Design, specifically in Interior Design. This job position involves overseeing and coordinating various aspects of interior design projects. The Interior Design Coordinator acts as a bridge between clients, designers, and contractors, ensuring smooth communication and collaboration throughout the entire design process. They are responsible for interpreting client requirements, creating design proposals, and managing project timelines and budgets. Additionally, an Interior Design Coordinator may also be involved in selecting materials, furniture, and accessories, as well as coordinating construction and installation activities. With their keen eye for aesthetics and strong organizational skills, Interior Design Coordinators contribute to creating functional and visually appealing spaces.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Interior Design Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Interior Design Coordinator interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Electrical Consultant Interview Preparation ! This resource is designed to help you ace your Electrical Consultant interviews with confidence.
 
+Electrical engineering is a field of engineering that deals with the design, development, and maintenance of electrical systems and components. Electrical engineers are responsible for creating and improving power generation, transmission, and distribution systems, as well as electrical devices and equipment. Within this field, the role of an electrical consultant holds great significance. An electrical consultant is an expert who provides professional advice and guidance on electrical engineering matters to clients. They assess project requirements, conduct feasibility studies, and develop electrical designs and specifications. Furthermore, electrical consultants ensure compliance with safety codes and regulations, troubleshoot issues, and offer recommendations for optimal system performance. Their expertise and knowledge play a crucial role in ensuring the efficient and safe operation of electrical systems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Electrical Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Electrical Consultant interviews to help you prepare and succeed.

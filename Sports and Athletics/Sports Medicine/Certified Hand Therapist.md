@@ -2,6 +2,8 @@
 
 Welcome to the Certified Hand Therapist Interview Preparation ! This resource is designed to help you ace your Certified Hand Therapist interviews with confidence.
 
+A Certified Hand Therapist (CHT) is a specialized healthcare professional who plays a crucial role in the field of sports medicine. They focus on treating athletes and individuals with injuries or conditions affecting the hand, wrist, and forearm. These professionals possess advanced knowledge and skills in assessing, diagnosing, and managing hand-related issues. CHTs work closely with sports teams, athletic trainers, and physicians to develop personalized treatment plans that aim to restore optimal hand function and minimize pain. They may utilize various techniques such as therapeutic exercises, manual therapy, splinting, and ergonomic modifications to help athletes regain their performance and prevent further injuries.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Certified Hand Therapist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Certified Hand Therapist interviews to help you prepare and succeed.

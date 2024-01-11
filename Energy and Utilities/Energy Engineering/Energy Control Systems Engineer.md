@@ -2,6 +2,8 @@
 
 Welcome to the Energy Control Systems Engineer Interview Preparation ! This resource is designed to help you ace your Energy Control Systems Engineer interviews with confidence.
 
+An Energy Control Systems Engineer plays a crucial role in the Energy Engineering field, specifically in the Energy and Utilities sector. This job focuses on the design, development, and implementation of control systems that regulate and optimize energy usage. These professionals are responsible for designing and maintaining energy control systems, including supervisory control and data acquisition (SCADA) systems, distributed control systems (DCS), and programmable logic controllers (PLC). They work closely with other engineers and technicians to ensure the efficient operation of energy systems, monitor energy consumption, troubleshoot any issues, and implement strategies to improve energy efficiency. Energy Control Systems Engineers are essential in ensuring a reliable and sustainable energy supply.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Energy Control Systems Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Energy Control Systems Engineer interviews to help you prepare and succeed.

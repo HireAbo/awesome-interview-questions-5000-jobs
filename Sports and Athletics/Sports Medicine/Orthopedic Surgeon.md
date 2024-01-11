@@ -2,6 +2,8 @@
 
 Welcome to the Orthopedic Surgeon Interview Preparation ! This resource is designed to help you ace your Orthopedic Surgeon interviews with confidence.
 
+Sports and athletics have always been an integral part of human society, promoting physical fitness, competition, and entertainment. However, engaging in these activities also carries the risk of injuries. This is where sports medicine comes into play, offering specialized healthcare services to athletes and active individuals. Within the field of sports medicine, orthopedic surgeons play a crucial role. Orthopedic surgeons specialize in the diagnosis, treatment, and prevention of injuries and disorders related to the musculoskeletal system. They are highly skilled in performing surgical procedures, such as repairing fractures, ligament reconstruction, and joint replacement, to help athletes and individuals regain their mobility and return to their sports and active lifestyles.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Orthopedic Surgeon or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Orthopedic Surgeon interviews to help you prepare and succeed.

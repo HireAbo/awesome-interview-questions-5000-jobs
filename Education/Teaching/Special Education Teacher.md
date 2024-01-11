@@ -2,6 +2,8 @@
 
 Welcome to the Special Education Teacher Interview Preparation ! This resource is designed to help you ace your Special Education Teacher interviews with confidence.
 
+A special education teacher is a dedicated professional who plays a crucial role in the education system. Special education teachers work with students who have diverse learning needs, such as learning disabilities, developmental delays, or physical impairments. Their primary objective is to create individualized education plans that cater to each student's specific needs, ensuring their academic and personal growth. Special education teachers collaborate with parents, administrators, and other professionals to develop strategies that promote inclusion and a supportive learning environment. They employ various teaching techniques and resources, adapt curriculum materials, and provide specialized instruction to help students overcome challenges and reach their full potential. Their work is essential in empowering students with disabilities to achieve educational success and foster independence.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Special Education Teacher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Special Education Teacher interviews to help you prepare and succeed.

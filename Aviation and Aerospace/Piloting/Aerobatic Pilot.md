@@ -2,6 +2,8 @@
 
 Welcome to the Aerobatic Pilot Interview Preparation ! This resource is designed to help you ace your Aerobatic Pilot interviews with confidence.
 
+An aerobatic pilot is a highly skilled professional who specializes in performing complex and precise maneuvers in aircraft. This exhilarating job requires exceptional flying skills, physical fitness, and mental agility. Aerobatic pilots push the limits of gravity, executing breathtaking loops, rolls, spins, and other gravity-defying stunts at high speeds. They possess extensive knowledge of aircraft systems and flight dynamics to ensure safety during these intense aerial displays. Aerobatic pilots often participate in air shows, competitions, and provide thrilling entertainment for spectators. Their job demands intense focus, discipline, and the ability to remain calm under extreme pressure, making it one of the most exciting and challenging careers in aviation and aerospace.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Aerobatic Pilot or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Aerobatic Pilot interviews to help you prepare and succeed.

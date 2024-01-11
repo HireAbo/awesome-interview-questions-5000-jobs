@@ -2,6 +2,8 @@
 
 Welcome to the Criminal Justice Consultant Interview Preparation ! This resource is designed to help you ace your Criminal Justice Consultant interviews with confidence.
 
+A Criminal Justice Consultant is an expert in the field of law and criminal justice who provides guidance and advice to various organizations and agencies. This professional plays a crucial role in assisting these entities in developing effective strategies, policies, and programs to address criminal justice issues. With a deep understanding of the legal system, criminal behavior, and law enforcement practices, a Criminal Justice Consultant assesses the needs and challenges of a particular organization and offers tailored solutions to enhance its operations. They may also conduct research, analyze data, and provide recommendations on topics such as crime prevention, community policing, corrections, and rehabilitation. Ultimately, the role of a Criminal Justice Consultant is vital in promoting effective crime control and ensuring justice within society.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Criminal Justice Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Criminal Justice Consultant interviews to help you prepare and succeed.

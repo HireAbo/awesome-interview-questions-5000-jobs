@@ -2,6 +2,8 @@
 
 Welcome to the Statistical Analyst Interview Preparation ! This resource is designed to help you ace your Statistical Analyst interviews with confidence.
 
+Mathematics and Statistics are two closely related fields that deal with the collection, analysis, interpretation, and presentation of numerical data. Mathematics provides the foundation for statistical analysis, enabling professionals to make informed decisions and draw meaningful conclusions from data. Within the realm of mathematics, the role of a Statistical Analyst is crucial. A Statistical Analyst is responsible for designing research studies, developing data collection methodologies, and applying statistical techniques to analyze and interpret data. They utilize their expertise to identify patterns, trends, and relationships within data sets, helping organizations make informed decisions and solve complex problems. A Statistical Analyst's skills in mathematics and statistics are highly sought after in various industries, including finance, healthcare, and technology.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Statistical Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Statistical Analyst interviews to help you prepare and succeed.

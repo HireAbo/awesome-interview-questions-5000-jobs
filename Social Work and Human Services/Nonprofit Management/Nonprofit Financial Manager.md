@@ -2,6 +2,8 @@
 
 Welcome to the Nonprofit Financial Manager Interview Preparation ! This resource is designed to help you ace your Nonprofit Financial Manager interviews with confidence.
 
+A Nonprofit Financial Manager plays a vital role in the field of Social Work and Human Services by overseeing the financial aspects of nonprofit organizations. These professionals are responsible for managing the financial resources and budgets of nonprofit organizations, ensuring that funds are allocated effectively and in accordance with the organization's mission and goals. They collaborate with executive directors, program managers, and board members to develop and implement financial strategies, monitor financial performance, and ensure compliance with regulatory requirements. Nonprofit Financial Managers also play a crucial role in fundraising efforts, analyzing financial data to support grant applications and donor relations. Their expertise in financial management helps nonprofit organizations achieve their social and humanitarian objectives efficiently and sustainably.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nonprofit Financial Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nonprofit Financial Manager interviews to help you prepare and succeed.

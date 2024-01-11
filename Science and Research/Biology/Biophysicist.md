@@ -2,6 +2,8 @@
 
 Welcome to the Biophysicist Interview Preparation ! This resource is designed to help you ace your Biophysicist interviews with confidence.
 
+A biophysicist is a professional who specializes in the field of biology, applying principles of physics and mathematics to understand biological systems at a molecular level. They explore the physical properties and processes that govern the behavior of living organisms, such as the mechanics of cell division or the flow of electrical signals in the nervous system. Biophysicists conduct research using a wide range of techniques, including microscopy, spectroscopy, and computational modeling, to analyze and interpret complex biological data. Their work often contributes to advancements in medicine, agriculture, and environmental science. Biophysicists also collaborate with other scientists to develop innovative technologies and methodologies for studying biological phenomena.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Biophysicist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Biophysicist interviews to help you prepare and succeed.

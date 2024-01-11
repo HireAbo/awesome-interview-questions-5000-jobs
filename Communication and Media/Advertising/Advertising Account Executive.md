@@ -2,6 +2,8 @@
 
 Welcome to the Advertising Account Executive Interview Preparation ! This resource is designed to help you ace your Advertising Account Executive interviews with confidence.
 
+An Advertising Account Executive is a vital role within the field of Communication and Media. This job involves working closely with clients to develop effective advertising campaigns that meet their objectives. The Account Executive acts as a liaison between the agency and the client, ensuring that the client's needs and goals are understood and executed. They are responsible for managing client relationships, conducting market research, and collaborating with various teams to create impactful advertising strategies. Additionally, they oversee the implementation of campaigns, monitor their performance, and provide regular updates to clients. Strong communication, negotiation, and organizational skills are crucial for success in this fast-paced and dynamic role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Advertising Account Executive or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Advertising Account Executive interviews to help you prepare and succeed.

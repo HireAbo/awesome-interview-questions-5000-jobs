@@ -2,6 +2,8 @@
 
 Welcome to the Commercial Plumber Interview Preparation ! This resource is designed to help you ace your Commercial Plumber interviews with confidence.
 
+A commercial plumber is a skilled tradesperson who specializes in installing, repairing, and maintaining plumbing systems in commercial buildings such as offices, schools, hospitals, and hotels. They are responsible for handling complex plumbing tasks that require a deep understanding of water supply systems, drainage systems, and various plumbing fixtures. Commercial plumbers work closely with architects and construction teams to ensure that plumbing systems are designed and installed correctly. They also diagnose and fix plumbing issues such as leaks, clogs, and damaged pipes. A commercial plumber must possess excellent problem-solving skills, attention to detail, and the ability to work efficiently in high-pressure situations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Commercial Plumber or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Commercial Plumber interviews to help you prepare and succeed.

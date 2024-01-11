@@ -2,6 +2,8 @@
 
 Welcome to the Veterinary Nurse Interview Preparation ! This resource is designed to help you ace your Veterinary Nurse interviews with confidence.
 
+Veterinary medicine is a specialized field that focuses on the health and well-being of animals. It encompasses various branches, including veterinary nursing, which plays a crucial role in providing high-quality care to animals. Veterinary nursing is a profession within veterinary medicine that involves providing support to veterinarians in diagnosing and treating animal patients. Veterinary nurses assist in surgeries, administer medications, perform laboratory tests, monitor anesthesia, and provide post-operative care. Their responsibilities also include educating pet owners on proper healthcare practices and assisting in emergency situations. A veterinary nurse job requires strong communication skills, compassion for animals, attention to detail, and a passion for promoting animal welfare.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Veterinary Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Veterinary Nurse interviews to help you prepare and succeed.

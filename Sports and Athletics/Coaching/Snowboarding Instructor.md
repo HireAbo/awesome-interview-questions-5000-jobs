@@ -2,6 +2,8 @@
 
 Welcome to the Snowboarding Instructor Interview Preparation ! This resource is designed to help you ace your Snowboarding Instructor interviews with confidence.
 
+A Snowboarding Instructor is a professional who provides guidance and coaching to individuals interested in snowboarding. They possess a deep understanding of snowboarding techniques, safety protocols, and equipment. As a coach, their primary goal is to teach and improve the skills of their students while ensuring their safety on the slopes. Snowboarding instructors are responsible for conducting group or private lessons, assessing the skill level of their students, and developing personalized training plans. They also play a crucial role in providing encouragement, motivation, and feedback to help students reach their full potential. This job requires strong communication skills, patience, and a passion for the sport of snowboarding.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Snowboarding Instructor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Snowboarding Instructor interviews to help you prepare and succeed.

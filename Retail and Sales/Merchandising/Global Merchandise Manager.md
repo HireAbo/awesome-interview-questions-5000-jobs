@@ -2,6 +2,8 @@
 
 Welcome to the Global Merchandise Manager Interview Preparation ! This resource is designed to help you ace your Global Merchandise Manager interviews with confidence.
 
+The role of a Global Merchandise Manager in Retail and Sales involves overseeing and managing the merchandise planning, buying, and inventory management processes on a global scale. This key position requires a deep understanding of market trends, consumer behavior, and competitive landscape to effectively develop and implement merchandising strategies that drive sales and maximize profits. The Global Merchandise Manager collaborates with cross-functional teams such as product development, marketing, and finance to ensure the successful execution of merchandise plans, assortment optimization, pricing strategies, and promotional activities. They must possess excellent analytical, negotiation, and communication skills to establish productive relationships with vendors, monitor market conditions, and make data-driven decisions to support the overall business objectives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Global Merchandise Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Global Merchandise Manager interviews to help you prepare and succeed.

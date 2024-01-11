@@ -2,6 +2,8 @@
 
 Welcome to the Maritime Analyst Interview Preparation ! This resource is designed to help you ace your Maritime Analyst interviews with confidence.
 
+A Maritime Analyst plays a crucial role in the field of Transportation and Logistics, specifically in the area of Maritime Operations. This job involves analyzing and interpreting data related to shipping, port operations, and other maritime activities. By utilizing various tools and techniques, a Maritime Analyst provides valuable insights and recommendations to optimize the efficiency and effectiveness of maritime operations. They monitor vessel movements, analyze market trends, and assess risks associated with shipping activities. A Maritime Analyst also collaborates with stakeholders such as shipping companies, port authorities, and regulatory bodies to ensure compliance with international maritime laws and regulations. This role requires strong analytical skills, attention to detail, and a comprehensive understanding of the maritime industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Maritime Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Maritime Analyst interviews to help you prepare and succeed.

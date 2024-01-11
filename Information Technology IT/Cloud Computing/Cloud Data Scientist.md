@@ -2,6 +2,8 @@
 
 Welcome to the Cloud Data Scientist Interview Preparation ! This resource is designed to help you ace your Cloud Data Scientist interviews with confidence.
 
+Information Technology (IT) refers to the use and management of computer systems to store, retrieve, transmit, and manipulate data. Cloud computing, on the other hand, is a model that enables convenient and on-demand access to a shared pool of computing resources. It allows businesses and individuals to access data and applications from anywhere using the internet. Within this realm, the role of a Cloud Data Scientist has emerged. A Cloud Data Scientist is responsible for analyzing and interpreting large volumes of data stored in the cloud. They use advanced analytics techniques to extract valuable insights, develop predictive models, and help organizations make data-driven decisions for improved efficiency and competitiveness.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cloud Data Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cloud Data Scientist interviews to help you prepare and succeed.

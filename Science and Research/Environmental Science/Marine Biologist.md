@@ -2,6 +2,8 @@
 
 Welcome to the Marine Biologist Interview Preparation ! This resource is designed to help you ace your Marine Biologist interviews with confidence.
 
+Marine Biology is a highly specialized field within Environmental Science that focuses on the study and preservation of marine ecosystems and organisms. As a Marine Biologist, professionals are dedicated to understanding the complex interactions between marine life and their environment. They conduct extensive research to gain insights into various aspects, including the behavior, physiology, and distribution of marine organisms. Marine Biologists also play a crucial role in assessing the impact of human activities on marine ecosystems and developing strategies for their conservation. This demanding and rewarding profession requires a deep passion for the ocean, strong analytical skills, and a commitment to safeguarding our marine resources for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Marine Biologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Marine Biologist interviews to help you prepare and succeed.

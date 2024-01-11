@@ -2,6 +2,8 @@
 
 Welcome to the Wind Energy Business Analyst Interview Preparation ! This resource is designed to help you ace your Wind Energy Business Analyst interviews with confidence.
 
+A Wind Energy Business Analyst plays a vital role in the energy and utilities sector, specifically in the realm of renewable energy. As the world continues to move towards sustainable energy sources, wind energy has emerged as a prominent player. The role of a Wind Energy Business Analyst involves analyzing and evaluating data related to wind energy projects, conducting market research, and assessing the financial viability of potential investments. This job requires a strong understanding of renewable energy policies, market trends, and technological advancements in the wind energy sector. A Wind Energy Business Analyst is crucial in providing insights and recommendations to drive the growth and success of wind energy projects.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wind Energy Business Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wind Energy Business Analyst interviews to help you prepare and succeed.

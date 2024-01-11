@@ -2,6 +2,8 @@
 
 Welcome to the Advertising Assistant Interview Preparation ! This resource is designed to help you ace your Advertising Assistant interviews with confidence.
 
+An Advertising Assistant plays a vital role in the field of communication and media, specifically in the realm of advertising. As an integral part of the advertising team, the Advertising Assistant supports the advertising department in various tasks and projects. They assist in developing and implementing advertising campaigns, conducting market research, analyzing consumer behavior, and tracking campaign performance. Additionally, Advertising Assistants collaborate with creative teams, media planners, and clients to ensure effective communication and execution of advertising strategies. With strong organizational skills, attention to detail, and a passion for creativity, an Advertising Assistant contributes to the success of advertising campaigns and the overall growth of the organization.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Advertising Assistant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Advertising Assistant interviews to help you prepare and succeed.

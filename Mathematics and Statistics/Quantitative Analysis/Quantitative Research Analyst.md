@@ -2,6 +2,8 @@
 
 Welcome to the Quantitative Research Analyst Interview Preparation ! This resource is designed to help you ace your Quantitative Research Analyst interviews with confidence.
 
+A Quantitative Research Analyst is a professional who utilizes their expertise in mathematics and statistics to conduct comprehensive analysis and research in various fields, including finance, economics, and social sciences. This role requires a deep understanding of mathematical models, statistical methods, and data analysis techniques to gather, interpret, and evaluate quantitative data. Quantitative Research Analysts play a crucial role in providing insights and recommendations to organizations for decision-making purposes, risk assessment, and investment strategies. They are proficient in programming languages such as Python or R to manipulate and analyze large datasets, design experiments, and develop predictive models. An analytical mindset, attention to detail, and strong problem-solving skills are essential for this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Quantitative Research Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Quantitative Research Analyst interviews to help you prepare and succeed.

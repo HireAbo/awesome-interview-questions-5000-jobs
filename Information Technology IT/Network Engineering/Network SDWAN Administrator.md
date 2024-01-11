@@ -2,6 +2,8 @@
 
 Welcome to the Network SD-WAN Administrator Interview Preparation ! This resource is designed to help you ace your Network SD-WAN Administrator interviews with confidence.
 
+The role of a Network SD-WAN Administrator within Information Technology (IT) and Network Engineering involves managing and maintaining the software-defined wide area network (SD-WAN) infrastructure of an organization. This position requires expertise in networking technologies and protocols, along with a deep understanding of SD-WAN systems. The Network SD-WAN Administrator is responsible for configuring, monitoring, and troubleshooting the SD-WAN network, ensuring its optimal performance and security. They collaborate with cross-functional teams to design and implement network solutions, identify and resolve network issues, and provide technical support to end-users. Additionally, the Network SD-WAN Administrator stays updated with the latest advancements in network technologies to enhance the organization's network infrastructure.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Network SD-WAN Administrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Network SD-WAN Administrator interviews to help you prepare and succeed.

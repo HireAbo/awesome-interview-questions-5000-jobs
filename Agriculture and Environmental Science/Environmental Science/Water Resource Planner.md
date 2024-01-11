@@ -2,6 +2,10 @@
 
 Welcome to the Water Resource Planner Interview Preparation ! This resource is designed to help you ace your Water Resource Planner interviews with confidence.
 
+Agriculture and Environmental Science are interdisciplinary fields that focus on sustainable practices and the preservation of natural resources. Environmental Science, in particular, encompasses various sub-disciplines, including water resource planning. 
+
+As a Water Resource Planner in the field of Environmental Science, your main responsibility will be to develop and implement strategies for the sustainable management of water resources. This includes conducting research, analyzing data, and assessing the impact of human activities on water systems. You will collaborate with scientists, policymakers, and stakeholders to develop and implement effective water management plans that address issues such as water scarcity, pollution, and climate change. Your role as a Water Resource Planner is crucial in ensuring the long-term availability and quality of water resources for agricultural, industrial, and domestic purposes, while also minimizing environmental degradation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Water Resource Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Water Resource Planner interviews to help you prepare and succeed.

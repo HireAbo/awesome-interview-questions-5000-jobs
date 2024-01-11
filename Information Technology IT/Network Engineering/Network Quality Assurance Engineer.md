@@ -2,6 +2,8 @@
 
 Welcome to the Network Quality Assurance Engineer Interview Preparation ! This resource is designed to help you ace your Network Quality Assurance Engineer interviews with confidence.
 
+A Network Quality Assurance Engineer plays a critical role in the field of Information Technology (IT) and specifically, Network Engineering. This job involves ensuring the quality and reliability of computer networks and systems. Network Quality Assurance Engineers are responsible for testing and evaluating network infrastructure components, such as routers, switches, firewalls, and servers, to ensure their optimal performance. They develop and implement test plans, troubleshoot network issues, and identify areas for improvement. Additionally, they collaborate with network engineers and other IT professionals to develop and maintain network security protocols. A successful Network Quality Assurance Engineer must possess strong analytical and problem-solving skills, as well as excellent communication and teamwork abilities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Network Quality Assurance Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Network Quality Assurance Engineer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Condensed Matter Physicist Interview Preparation ! This resource is designed to help you ace your Condensed Matter Physicist interviews with confidence.
 
+A Condensed Matter Physicist is a professional who specializes in studying the properties and behavior of matter in its condensed state, such as solids and liquids. This branch of physics focuses on understanding the physical phenomena that occur at the atomic and molecular level. Condensed Matter Physicists conduct research to investigate the fundamental principles governing the behavior of materials and develop new technologies based on their findings. They may explore various areas, including semiconductors, superconductors, nanomaterials, and magnetic materials. Their work involves conducting experiments, analyzing data, and developing theoretical models to explain and predict the behavior of condensed matter. They often collaborate with other scientists and engineers to advance scientific knowledge and contribute to technological advancements.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Condensed Matter Physicist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Condensed Matter Physicist interviews to help you prepare and succeed.

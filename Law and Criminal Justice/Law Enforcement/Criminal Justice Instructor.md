@@ -2,6 +2,8 @@
 
 Welcome to the Criminal Justice Instructor Interview Preparation ! This resource is designed to help you ace your Criminal Justice Instructor interviews with confidence.
 
+A Criminal Justice Instructor is a professional responsible for teaching and guiding students pursuing a career in law enforcement and criminal justice. They play a crucial role in shaping the next generation of law enforcement professionals by providing knowledge and practical skills necessary for success in the field. These instructors typically design and deliver lectures, develop course materials, and evaluate student performance. They possess a deep understanding of criminal justice systems, legal principles, investigative techniques, and law enforcement practices. Additionally, they may have prior experience in law enforcement, which enhances their credibility and ability to provide real-world insights to students. Overall, a Criminal Justice Instructor is instrumental in equipping aspiring law enforcement professionals with the necessary skills and knowledge to serve and protect their communities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Criminal Justice Instructor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Criminal Justice Instructor interviews to help you prepare and succeed.

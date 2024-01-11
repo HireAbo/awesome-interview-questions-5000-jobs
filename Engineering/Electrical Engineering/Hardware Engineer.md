@@ -2,6 +2,8 @@
 
 Welcome to the Hardware Engineer Interview Preparation ! This resource is designed to help you ace your Hardware Engineer interviews with confidence.
 
+A Hardware Engineer job in Electrical Engineering involves designing, developing, and testing computer hardware components and systems. These professionals are responsible for designing and implementing electrical circuits, microprocessors, and integrated systems. They work closely with software engineers to ensure hardware compatibility and optimize system performance. Hardware Engineers also conduct tests and simulations to identify and resolve any issues in the hardware design. They may also be involved in researching and integrating new technologies into existing systems. Strong analytical and problem-solving skills are essential for this role, as well as a solid understanding of electronics, computer architecture, and digital circuits.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Hardware Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Hardware Engineer interviews to help you prepare and succeed.

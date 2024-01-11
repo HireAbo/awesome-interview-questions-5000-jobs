@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Rental Sales Interview Preparation ! This resource is designed to help you ace your Real Estate Rental Sales interviews with confidence.
 
+Real Estate and Property Management is a dynamic industry that involves buying, selling, and managing properties, both residential and commercial. Real Estate Sales professionals play a crucial role in facilitating property transactions, working closely with clients to understand their needs, preferences, and budgets, and guiding them through the complex process of buying or selling properties. On the other hand, Real Estate Rental Sales job focuses specifically on the rental market, assisting tenants in finding suitable properties and negotiating lease agreements. This role requires strong communication and negotiation skills, as well as knowledge of local rental market trends and regulations. Successful professionals in both areas possess a deep understanding of the real estate market, excellent interpersonal skills, and a passion for helping clients achieve their property goals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Rental Sales or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Rental Sales interviews to help you prepare and succeed.

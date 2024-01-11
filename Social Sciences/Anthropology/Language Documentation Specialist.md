@@ -2,6 +2,8 @@
 
 Welcome to the Language Documentation Specialist Interview Preparation ! This resource is designed to help you ace your Language Documentation Specialist interviews with confidence.
 
+A Language Documentation Specialist is a professional in the field of anthropology, specializing in the study and preservation of endangered languages. This role involves conducting extensive research and documentation of linguistic structures, phonetics, grammar, and vocabulary of indigenous languages. The specialist collaborates closely with native speakers and communities to ensure accurate representation and preservation of their linguistic heritage. They employ a range of methods such as interviews, recordings, and transcription to document and analyze language data. Language Documentation Specialists also contribute to the development of language documentation software and tools, as well as the creation of educational materials for language revitalization efforts. Overall, this job plays a crucial role in the preservation and understanding of diverse cultural identities through the documentation of endangered languages.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Language Documentation Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Language Documentation Specialist interviews to help you prepare and succeed.

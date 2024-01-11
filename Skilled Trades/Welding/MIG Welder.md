@@ -2,6 +2,8 @@
 
 Welcome to the MIG Welder Interview Preparation ! This resource is designed to help you ace your MIG Welder interviews with confidence.
 
+A MIG Welder is a skilled tradesperson who specializes in using the MIG (Metal Inert Gas) welding process to join metal parts together. MIG welding is a popular technique that involves creating an electric arc between a wire electrode and the metal being welded, while a shielding gas protects the weld area from atmospheric contaminants. MIG Welders are responsible for setting up and operating welding equipment, interpreting blueprints or specifications, and ensuring the quality and accuracy of the welds. They work in various industries such as manufacturing, construction, automotive, and aerospace, and play a crucial role in fabricating and assembling metal structures and components. MIG Welders require a high level of technical skill, precision, and attention to detail to produce strong, durable, and aesthetically pleasing welds.
+
 ## 🚀 Overview
 
 Whether you're a seasoned MIG Welder or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in MIG Welder interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Nuclear Materials Scientist Interview Preparation ! This resource is designed to help you ace your Nuclear Materials Scientist interviews with confidence.
 
+A Nuclear Materials Scientist is a specialized professional within the field of Energy and Utilities, specifically focusing on Nuclear Energy. They are responsible for studying the behavior and properties of nuclear materials used in various nuclear energy applications. These scientists work towards developing new materials and technologies to enhance the safety, efficiency, and sustainability of nuclear power generation. They conduct experiments, analyze data, and provide technical expertise to ensure the integrity and reliability of nuclear materials. Additionally, Nuclear Materials Scientists collaborate with engineers and other scientists to design and improve nuclear reactors, fuel assemblies, and waste management systems. Their work is crucial in advancing nuclear energy research and addressing global energy challenges.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nuclear Materials Scientist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nuclear Materials Scientist interviews to help you prepare and succeed.

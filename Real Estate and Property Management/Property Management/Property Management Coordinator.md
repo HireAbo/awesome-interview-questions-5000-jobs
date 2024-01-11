@@ -2,6 +2,8 @@
 
 Welcome to the Property Management Coordinator Interview Preparation ! This resource is designed to help you ace your Property Management Coordinator interviews with confidence.
 
+The field of Real Estate and Property Management involves the management, operation, and oversight of residential, commercial, and industrial properties. Property Management plays a crucial role in ensuring the smooth functioning and profitability of these properties. Within the Property Management domain, the role of a Property Management Coordinator is vital. This position involves coordinating and overseeing daily operations related to property management. These responsibilities may include handling tenant inquiries, managing lease agreements, coordinating property maintenance and repairs, collecting rent payments, and ensuring compliance with local regulations. A Property Management Coordinator must possess excellent communication and organizational skills, as well as a keen eye for detail to effectively manage the various aspects of property management.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Property Management Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Property Management Coordinator interviews to help you prepare and succeed.

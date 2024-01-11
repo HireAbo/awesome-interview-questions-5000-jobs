@@ -2,6 +2,8 @@
 
 Welcome to the HR Health and Wellness Coordinator Interview Preparation ! This resource is designed to help you ace your HR Health and Wellness Coordinator interviews with confidence.
 
+The HR Health and Wellness Coordinator plays a crucial role in ensuring the well-being of employees within an organization. Their primary responsibility is to design and implement programs that promote a healthy work environment while supporting the physical, mental, and emotional health of employees. This involves developing wellness initiatives, organizing health-related workshops and seminars, coordinating fitness activities, and providing resources and support for employees' overall well-being. The HR Health and Wellness Coordinator collaborates closely with management, HR teams, and healthcare providers to create a comprehensive wellness strategy that addresses the diverse needs of employees. Their role ultimately contributes to increased productivity, job satisfaction, and employee retention within the organization.
+
 ## 🚀 Overview
 
 Whether you're a seasoned HR Health and Wellness Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in HR Health and Wellness Coordinator interviews to help you prepare and succeed.

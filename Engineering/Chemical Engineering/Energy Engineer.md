@@ -2,6 +2,8 @@
 
 Welcome to the Energy Engineer Interview Preparation ! This resource is designed to help you ace your Energy Engineer interviews with confidence.
 
+An Energy Engineer in the field of Chemical Engineering plays a crucial role in developing sustainable and efficient energy solutions. These professionals are responsible for designing, implementing, and optimizing processes and systems that generate, convert, and store energy. They work closely with other engineers and scientists to develop innovative technologies that maximize energy efficiency, reduce environmental impact, and promote renewable energy sources. Energy Engineers in Chemical Engineering may focus on various sectors, such as oil and gas, power plants, renewable energy, or manufacturing industries. Their expertise is essential in creating a cleaner and more sustainable future by ensuring the efficient use of resources and minimizing carbon emissions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Energy Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Energy Engineer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Art Historian Interview Preparation ! This resource is designed to help you ace your Art Historian interviews with confidence.
 
+An art historian is a professional who specializes in the study and analysis of art and its historical context. They play a crucial role in preserving and documenting the rich history of various art forms, including paintings, sculptures, architecture, and more. Art historians possess a deep understanding of artistic movements, styles, and techniques, allowing them to identify and interpret the significance of artworks. They conduct extensive research, examining primary sources, texts, and visual evidence to gain insights into the intentions of artists and the cultural, social, and political influences that shaped their creations. Art historians often work in museums, galleries, universities, and research institutions, contributing to the appreciation and knowledge of art for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Art Historian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Art Historian interviews to help you prepare and succeed.

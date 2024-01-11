@@ -2,6 +2,8 @@
 
 Welcome to the Consumer Economist Interview Preparation ! This resource is designed to help you ace your Consumer Economist interviews with confidence.
 
+A Consumer Economist is a professional who specializes in studying and analyzing the behavior, preferences, and decision-making patterns of consumers in the market. They apply various economic theories and principles to understand how individuals and households make choices regarding the purchase, use, and disposal of goods and services. Consumer economists conduct extensive research, collect data, and utilize statistical methods to identify trends, patterns, and factors that influence consumer behavior. They play a crucial role in providing valuable insights to businesses, policymakers, and marketers, helping them make informed decisions regarding pricing strategies, product development, market segmentation, and advertising campaigns. A career as a Consumer Economist requires strong analytical and research skills, as well as a deep understanding of economic concepts and theories.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Consumer Economist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Consumer Economist interviews to help you prepare and succeed.

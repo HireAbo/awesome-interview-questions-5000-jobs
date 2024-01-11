@@ -2,6 +2,8 @@
 
 Welcome to the Corporate Paralegal Interview Preparation ! This resource is designed to help you ace your Corporate Paralegal interviews with confidence.
 
+A career in corporate paralegal work within the field of law and criminal justice involves providing crucial support to lawyers and law firms in the corporate sector. As a corporate paralegal, you will play a vital role in assisting attorneys with various legal tasks, such as drafting legal documents, conducting research, and preparing for corporate transactions. Your responsibilities may also include reviewing contracts, maintaining legal files, and assisting in the preparation of legal briefs. Strong organizational skills, attention to detail, and a thorough understanding of corporate law are essential in this role. A career as a corporate paralegal offers an exciting opportunity to contribute to the legal landscape of businesses and corporations, ensuring compliance and smooth operations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Corporate Paralegal or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Corporate Paralegal interviews to help you prepare and succeed.

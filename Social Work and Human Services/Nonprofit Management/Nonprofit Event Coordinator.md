@@ -2,6 +2,8 @@
 
 Welcome to the Nonprofit Event Coordinator Interview Preparation ! This resource is designed to help you ace your Nonprofit Event Coordinator interviews with confidence.
 
+A Nonprofit Event Coordinator plays a crucial role in the field of Social Work and Human Services, specifically in Nonprofit Management. This role involves organizing and overseeing various events and initiatives for nonprofit organizations. These events are aimed at raising awareness, promoting fundraising efforts and community engagement, and supporting the overall mission of the organization. The Nonprofit Event Coordinator is responsible for managing all aspects of event planning, including budgeting, logistics, vendor coordination, marketing, and volunteer management. This position requires strong organizational and interpersonal skills, as well as a passion for making a positive impact in the community. The Nonprofit Event Coordinator plays a vital role in successfully executing events that contribute to the growth and sustainability of nonprofit organizations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nonprofit Event Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nonprofit Event Coordinator interviews to help you prepare and succeed.

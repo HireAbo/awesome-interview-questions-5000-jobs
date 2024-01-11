@@ -2,6 +2,8 @@
 
 Welcome to the Property Management Data Analyst Interview Preparation ! This resource is designed to help you ace your Property Management Data Analyst interviews with confidence.
 
+A Property Management Data Analyst specializes in collecting, organizing, and interpreting data related to real estate and property management. This role requires a deep understanding of the real estate market and property management practices, as well as strong analytical and problem-solving skills. The data analyst is responsible for gathering and analyzing property data such as rental rates, occupancy rates, leasing trends, and financial performance. They use this information to identify patterns, make predictions, and provide recommendations to property management teams. The property management data analyst plays a critical role in assisting property managers in making informed decisions that maximize property value and optimize operational efficiency.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Property Management Data Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Property Management Data Analyst interviews to help you prepare and succeed.

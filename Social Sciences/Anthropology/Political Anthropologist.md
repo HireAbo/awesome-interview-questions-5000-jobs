@@ -2,6 +2,8 @@
 
 Welcome to the Political Anthropologist Interview Preparation ! This resource is designed to help you ace your Political Anthropologist interviews with confidence.
 
+A political anthropologist is a professional who specializes in studying the intersections between politics and culture within human societies. They analyze how political systems and institutions influence social behavior and how cultural factors shape political processes. These experts conduct extensive fieldwork, observing and documenting political rituals, power dynamics, and decision-making processes. They seek to understand how political institutions are established, maintained, and transformed, taking into account social and cultural dynamics. Political anthropologists also investigate the impact of political systems on marginalized groups, social inequalities, and the formation of identities. Their research provides valuable insights into the complex relationship between politics, culture, and society, contributing to informed policy-making and promoting social justice.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Political Anthropologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Political Anthropologist interviews to help you prepare and succeed.

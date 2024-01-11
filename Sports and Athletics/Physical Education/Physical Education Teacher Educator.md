@@ -2,6 +2,8 @@
 
 Welcome to the Physical Education Teacher Educator Interview Preparation ! This resource is designed to help you ace your Physical Education Teacher Educator interviews with confidence.
 
+A Physical Education Teacher Educator plays a crucial role in shaping the future of sports and athletics by training aspiring physical education teachers. They are responsible for imparting knowledge and skills necessary for teaching physical education effectively. These professionals develop and deliver comprehensive curriculum and instructional materials to educate future teachers on various aspects of sports, athletics, and physical fitness. They also provide guidance and mentorship to students, ensuring their understanding of teaching methods, assessment techniques, and safety protocols. Physical Education Teacher Educators actively engage in research and stay updated with the latest advancements in physical education, aiming to enhance the overall quality of sports and athletics education.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Physical Education Teacher Educator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Physical Education Teacher Educator interviews to help you prepare and succeed.

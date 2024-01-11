@@ -2,6 +2,8 @@
 
 Welcome to the Culinary Instructor Interview Preparation ! This resource is designed to help you ace your Culinary Instructor interviews with confidence.
 
+A Culinary Instructor is a professional who specializes in teaching and training individuals in the field of culinary arts within the hospitality and tourism industry. This role requires extensive knowledge and expertise in various culinary techniques, food preparation, menu planning, and kitchen management. Culinary instructors play a vital role in shaping future chefs and culinary professionals by providing hands-on training, conducting demonstrations, and delivering theoretical knowledge. They create a stimulating learning environment, where students can develop their skills, creativity, and passion for culinary arts. With their guidance, aspiring chefs gain the necessary skills and knowledge to excel in the fast-paced and dynamic world of hospitality and tourism.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Culinary Instructor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Culinary Instructor interviews to help you prepare and succeed.

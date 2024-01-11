@@ -2,6 +2,8 @@
 
 Welcome to the Human Rights Lawyer Interview Preparation ! This resource is designed to help you ace your Human Rights Lawyer interviews with confidence.
 
+A Human Rights Lawyer is a legal professional who specializes in protecting and promoting human rights through the legal system. They play a crucial role in advocating for individuals or groups whose rights have been violated or infringed upon. These lawyers work tirelessly to ensure that everyone is treated fairly and equally, regardless of their race, gender, religion, or social status. They may engage in various activities such as researching, investigating, and preparing legal strategies to defend their clients' rights. Human Rights Lawyers can work in different settings, including law firms, non-profit organizations, or government agencies, fighting for justice and upholding the principles of human rights.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Human Rights Lawyer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Human Rights Lawyer interviews to help you prepare and succeed.

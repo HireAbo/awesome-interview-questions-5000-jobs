@@ -2,6 +2,8 @@
 
 Welcome to the Media Planner Interview Preparation ! This resource is designed to help you ace your Media Planner interviews with confidence.
 
+A Media Planner is a crucial role within the field of Advertising, specifically focused on the strategic planning and implementation of media campaigns. They are responsible for devising effective media strategies to reach target audiences and achieve marketing objectives. A Media Planner meticulously analyzes market research data, consumer behavior, and media trends to identify the most appropriate channels for advertising messages. They collaborate with clients, creative teams, and media vendors to develop comprehensive media plans that optimize budget allocation and maximize campaign effectiveness. Media Planners must possess excellent communication and negotiation skills, as well as a deep understanding of various media platforms, including television, radio, print, digital, and social media.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Media Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Media Planner interviews to help you prepare and succeed.

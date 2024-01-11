@@ -2,6 +2,8 @@
 
 Welcome to the Forest Economist Interview Preparation ! This resource is designed to help you ace your Forest Economist interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on the sustainable management of natural resources to ensure the long-term health and productivity of ecosystems. Within this field, forestry plays a vital role in the conservation and utilization of forested landscapes. A Forest Economist is a specialized professional who combines knowledge of economics, ecology, and forestry to analyze and assess the economic viability of forest-based activities. They evaluate the financial implications of various forest management strategies, including timber harvesting, conservation initiatives, and ecological restoration projects. By examining market trends, resource availability, and environmental factors, Forest Economists provide valuable insights into optimizing forest resources while preserving their ecological integrity.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forest Economist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forest Economist interviews to help you prepare and succeed.

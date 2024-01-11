@@ -2,6 +2,10 @@
 
 Welcome to the Nuclear Regulatory Affairs Specialist Interview Preparation ! This resource is designed to help you ace your Nuclear Regulatory Affairs Specialist interviews with confidence.
 
+A Nuclear Regulatory Affairs Specialist plays a vital role in the energy and utilities sector, specifically in the field of nuclear energy. This professional is responsible for ensuring compliance with all regulatory requirements related to the operation and maintenance of nuclear power plants. They collaborate with various stakeholders, including government agencies, industry associations, and internal teams, to develop and implement regulatory strategies and procedures.
+
+The Nuclear Regulatory Affairs Specialist conducts thorough research and analysis of nuclear regulations, policies, and guidelines to keep the organization up to date with the latest industry standards. They provide guidance and support to the management team and staff on regulatory compliance matters and participate in inspections and audits to assess the organization's adherence to safety protocols. This role requires strong technical knowledge, attention to detail, and excellent communication skills to effectively navigate the complex regulatory landscape of nuclear energy.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nuclear Regulatory Affairs Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nuclear Regulatory Affairs Specialist interviews to help you prepare and succeed.

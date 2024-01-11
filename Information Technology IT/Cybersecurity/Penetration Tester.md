@@ -2,6 +2,8 @@
 
 Welcome to the Penetration Tester Interview Preparation ! This resource is designed to help you ace your Penetration Tester interviews with confidence.
 
+Information Technology (IT) is a rapidly evolving field that encompasses the use and management of computers, software, networks, and electronic systems. One crucial aspect of IT is cybersecurity, which focuses on protecting digital assets from unauthorized access, hacking, and potential threats. Within the realm of cybersecurity, a Penetration Tester plays a critical role. A Penetration Tester, also known as an ethical hacker, is responsible for assessing the security of computer systems, networks, and applications. They conduct simulated attacks to identify vulnerabilities and weaknesses in order to recommend security measures and enhance overall system protection. Penetration Testers play a vital role in safeguarding sensitive data and preventing potential cyber threats.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Penetration Tester or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Penetration Tester interviews to help you prepare and succeed.

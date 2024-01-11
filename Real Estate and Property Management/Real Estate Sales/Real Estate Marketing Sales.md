@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Marketing Sales Interview Preparation ! This resource is designed to help you ace your Real Estate Marketing Sales interviews with confidence.
 
+Real Estate Sales refers to the process of buying, selling, and renting properties such as residential homes, commercial buildings, and land. The field of Real Estate Marketing Sales specifically focuses on promoting and advertising properties to potential buyers or renters. This job involves creating effective marketing strategies, conducting market research, and utilizing various marketing channels, including online platforms, print media, and networking events. Real Estate Marketing Sales professionals aim to attract qualified leads, generate sales, and maximize profits for their clients or their own real estate agencies. It requires strong communication, negotiation, and interpersonal skills to succeed in this competitive industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Marketing Sales or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Marketing Sales interviews to help you prepare and succeed.

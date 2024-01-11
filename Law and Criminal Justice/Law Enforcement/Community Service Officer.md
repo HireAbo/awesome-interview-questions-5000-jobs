@@ -2,6 +2,8 @@
 
 Welcome to the Community Service Officer Interview Preparation ! This resource is designed to help you ace your Community Service Officer interviews with confidence.
 
+A Community Service Officer (CSO) plays a crucial role in maintaining law and order within a community. They are an integral part of the law enforcement system, responsible for providing assistance to police officers and ensuring the safety and well-being of citizens. CSOs engage in a variety of tasks, such as patrolling neighborhoods, responding to non-emergency calls, directing traffic, conducting investigations, and assisting with crime prevention programs. They act as a liaison between the community and law enforcement, fostering positive relationships and building trust. By promoting community engagement and supporting crime prevention initiatives, CSOs contribute significantly to creating a safer and more secure environment for all.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Community Service Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Community Service Officer interviews to help you prepare and succeed.

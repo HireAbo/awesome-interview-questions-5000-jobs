@@ -2,6 +2,8 @@
 
 Welcome to the HR Audit Manager Interview Preparation ! This resource is designed to help you ace your HR Audit Manager interviews with confidence.
 
+The HR Audit Manager is a crucial role in the field of Business and Management, specifically within Human Resources. This position involves overseeing and executing comprehensive audits of HR processes and procedures within an organization. The HR Audit Manager ensures compliance with legal requirements, company policies, and industry standards. They analyze HR data, identify areas for improvement, and recommend appropriate strategies to enhance HR functions. This role requires strong analytical skills, attention to detail, and knowledge of HR practices and regulations. The HR Audit Manager plays a vital role in ensuring the effectiveness and efficiency of HR operations, ultimately contributing to the overall success of the organization.
+
 ## 🚀 Overview
 
 Whether you're a seasoned HR Audit Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in HR Audit Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Inorganic Chemist Interview Preparation ! This resource is designed to help you ace your Inorganic Chemist interviews with confidence.
 
+An Inorganic Chemist is a professional in the field of Chemistry who specializes in the study of inorganic compounds, elements, and their properties. Inorganic chemistry focuses on the synthesis, characterization, and behavior of chemical substances that do not contain carbon-hydrogen bonds. Inorganic Chemists play a crucial role in various scientific sectors, including pharmaceuticals, materials science, energy production, and environmental sciences. They conduct research and experiments to understand and manipulate the interactions between different inorganic compounds and elements. Their work involves investigating the chemical structures, properties, and reactions of inorganic substances, as well as developing new materials with specific applications. Inorganic Chemists also contribute to advancements in technology, medicine, and sustainable development through their discoveries and innovations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Inorganic Chemist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Inorganic Chemist interviews to help you prepare and succeed.

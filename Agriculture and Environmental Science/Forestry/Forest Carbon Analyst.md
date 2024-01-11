@@ -2,6 +2,12 @@
 
 Welcome to the Forest Carbon Analyst Interview Preparation ! This resource is designed to help you ace your Forest Carbon Analyst interviews with confidence.
 
+The Forest Carbon Analyst is a crucial role within the field of Agriculture and Environmental Science, specifically focusing on Forestry. This position involves analyzing forest ecosystems to assess the amount of carbon stored within them and the potential for carbon sequestration. Forests play a vital role in mitigating climate change by absorbing and storing carbon dioxide, making the Forest Carbon Analyst's work instrumental in understanding and managing forest resources.
+
+Responsibilities of a Forest Carbon Analyst include collecting and analyzing data on forest carbon stocks, conducting field surveys to measure tree growth and biomass, and utilizing advanced modeling techniques to estimate carbon sequestration potential. They also collaborate with other professionals, such as foresters and land managers, to develop sustainable forest management strategies that prioritize carbon sequestration.
+
+Overall, the Forest Carbon Analyst job combines scientific expertise, data analysis skills, and a passion for environmental conservation to contribute to the preservation and sustainable management of forest ecosystems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forest Carbon Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forest Carbon Analyst interviews to help you prepare and succeed.

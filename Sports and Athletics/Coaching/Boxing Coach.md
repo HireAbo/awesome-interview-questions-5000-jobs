@@ -2,6 +2,8 @@
 
 Welcome to the Boxing Coach Interview Preparation ! This resource is designed to help you ace your Boxing Coach interviews with confidence.
 
+A boxing coach is an experienced professional who guides and trains athletes in the sport of boxing. They play a crucial role in developing the skills, techniques, and physical abilities of boxers. The job of a boxing coach involves creating training programs tailored to each boxer's needs, conducting rigorous physical conditioning sessions, and teaching various boxing techniques such as footwork, punches, and defensive strategies. Additionally, they provide valuable guidance and motivation to their athletes, helping them improve their focus, discipline, and mental toughness. A boxing coach must have extensive knowledge of the sport, excellent communication skills, and the ability to assess and analyze their boxer's performance to enhance their overall boxing abilities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Boxing Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Boxing Coach interviews to help you prepare and succeed.

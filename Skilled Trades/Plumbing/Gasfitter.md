@@ -2,6 +2,8 @@
 
 Welcome to the Gasfitter Interview Preparation ! This resource is designed to help you ace your Gasfitter interviews with confidence.
 
+A Gasfitter is a skilled tradesperson who specializes in the installation, maintenance, and repair of gas systems and appliances. They are responsible for ensuring the safe and efficient operation of gas lines, fittings, and equipment in residential, commercial, and industrial settings. Gasfitters work closely with plumbers and other tradespeople to ensure proper connections, leak detection, and compliance with building codes and safety regulations. They may also be involved in installing gas-fired appliances such as water heaters, stoves, furnaces, and boilers. Gasfitters must possess strong technical skills, attention to detail, and a thorough understanding of gas systems to provide reliable and safe services to their clients.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Gasfitter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Gasfitter interviews to help you prepare and succeed.

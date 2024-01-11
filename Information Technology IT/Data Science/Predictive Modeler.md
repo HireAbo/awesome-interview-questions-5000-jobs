@@ -2,6 +2,8 @@
 
 Welcome to the Predictive Modeler Interview Preparation ! This resource is designed to help you ace your Predictive Modeler interviews with confidence.
 
+Information Technology (IT) is a rapidly expanding field that encompasses the use of computers, software, networks, and databases to manage and process information. Within IT, Data Science is a specialized discipline that focuses on extracting insights and knowledge from large volumes of structured and unstructured data. A Predictive Modeler is a professional within the field of Data Science who utilizes statistical techniques and machine learning algorithms to create predictive models that forecast future outcomes based on historical data patterns. This job involves analyzing data, identifying trends, developing and testing models, and ultimately providing predictions that can be used to make informed business decisions. The role of a Predictive Modeler is crucial in enabling organizations to gain a competitive advantage and optimize decision-making processes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Predictive Modeler or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Predictive Modeler interviews to help you prepare and succeed.

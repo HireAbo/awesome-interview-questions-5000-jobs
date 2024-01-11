@@ -2,6 +2,8 @@
 
 Welcome to the UI/UX Designer Interview Preparation ! This resource is designed to help you ace your UI/UX Designer interviews with confidence.
 
+A UI/UX Designer job within the field of graphic design is a crucial role that combines art and technology to create visually appealing and user-friendly digital experiences. UI (User Interface) design focuses on the visual layout and aesthetics of a website or application, while UX (User Experience) design is concerned with enhancing the overall usability and user satisfaction. UI/UX designers employ their creativity, problem-solving skills, and knowledge of human psychology to create intuitive and engaging user interfaces. They collaborate with cross-functional teams, including developers and product managers, to ensure seamless and visually appealing designs that enhance the user's journey and drive business goals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned UI/UX Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in UI/UX Designer interviews to help you prepare and succeed.

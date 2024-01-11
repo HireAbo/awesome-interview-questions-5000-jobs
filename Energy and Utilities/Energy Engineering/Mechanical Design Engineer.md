@@ -2,6 +2,8 @@
 
 Welcome to the Mechanical Design Engineer Interview Preparation ! This resource is designed to help you ace your Mechanical Design Engineer interviews with confidence.
 
+A Mechanical Design Engineer in the field of Energy Engineering plays a crucial role in the development and implementation of efficient energy systems. They are responsible for designing, analyzing, and optimizing mechanical components and systems within the energy industry. This includes creating blueprints, conducting feasibility studies, and ensuring compliance with industry standards and regulations. Mechanical Design Engineers work closely with project teams to deliver innovative solutions that maximize energy efficiency, reduce costs, and minimize environmental impact. They utilize their expertise in mechanical engineering principles, thermodynamics, and fluid mechanics to design and improve various energy systems such as power plants, renewable energy installations, and HVAC systems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Mechanical Design Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Mechanical Design Engineer interviews to help you prepare and succeed.

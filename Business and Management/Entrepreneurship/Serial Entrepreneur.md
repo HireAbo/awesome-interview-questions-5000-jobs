@@ -2,6 +2,8 @@
 
 Welcome to the Serial Entrepreneur Interview Preparation ! This resource is designed to help you ace your Serial Entrepreneur interviews with confidence.
 
+A serial entrepreneur is an individual who continuously starts and manages multiple businesses, often simultaneously or in quick succession. This type of entrepreneur thrives on identifying opportunities, creating innovative solutions, and building successful enterprises from the ground up. They possess a unique skill set that allows them to navigate the challenges of business ownership, such as risk-taking, adaptability, and resilience. Serial entrepreneurs are driven by the desire to constantly challenge themselves and push the boundaries of their expertise. They possess a strong business acumen, strategic thinking abilities, and exceptional leadership skills, which enable them to mobilize resources, attract investors, and develop sustainable business models. With their track record of success, serial entrepreneurs play a vital role in driving economic growth and innovation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Serial Entrepreneur or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Serial Entrepreneur interviews to help you prepare and succeed.

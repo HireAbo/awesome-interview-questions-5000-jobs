@@ -2,6 +2,8 @@
 
 Welcome to the Archives Technician Interview Preparation ! This resource is designed to help you ace your Archives Technician interviews with confidence.
 
+Library and Information Science is a field that focuses on the organization, management, and dissemination of information. Within this field, the branch of Archiving plays a crucial role in preserving and maintaining historical records and documents. Archives Technicians are professionals who specialize in the management and preservation of archival materials. They are responsible for cataloging, arranging, and describing records, ensuring their accessibility and long-term preservation. Archives Technicians also assist researchers in locating and retrieving specific documents, as well as providing guidance on best practices for handling and caring for archival materials. Their expertise contributes to the preservation of cultural heritage and the facilitation of historical research.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Archives Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Archives Technician interviews to help you prepare and succeed.

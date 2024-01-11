@@ -2,6 +2,8 @@
 
 Welcome to the Television News Anchor Interview Preparation ! This resource is designed to help you ace your Television News Anchor interviews with confidence.
 
+A Television News Anchor is a critical role in the field of Communication and Media, specifically in Broadcasting. As the face of a news program, they are responsible for delivering accurate, timely, and engaging news stories to the public. These professionals possess exceptional communication skills and the ability to articulate complex information in a clear and concise manner. Television News Anchors are often required to conduct interviews, research stories, write scripts, and work closely with producers and camerapersons to deliver high-quality news content. They also need to stay updated with current events, analyze information, and present it in an unbiased and objective manner to inform and educate viewers.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Television News Anchor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Television News Anchor interviews to help you prepare and succeed.

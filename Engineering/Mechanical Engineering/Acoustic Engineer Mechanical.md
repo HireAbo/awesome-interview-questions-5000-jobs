@@ -2,6 +2,8 @@
 
 Welcome to the Acoustic Engineer (Mechanical) Interview Preparation ! This resource is designed to help you ace your Acoustic Engineer (Mechanical) interviews with confidence.
 
+Acoustic engineering, a specialized field within mechanical engineering, focuses on the study and manipulation of sound waves and vibrations. Acoustic engineers play a crucial role in various industries, including automotive, aerospace, architectural design, and entertainment. Their primary objective is to control and improve the quality of sound, reduce noise pollution, and enhance acoustic performance in a variety of settings. Acoustic engineers employ their expertise in areas such as noise control, architectural acoustics, audio technology, and product design. They utilize advanced software and equipment to analyze, design, and develop effective solutions for noise reduction, soundproofing, and acoustic enhancement. Acoustic engineers are essential in ensuring optimal acoustic experiences for individuals and creating quieter and more comfortable environments.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Acoustic Engineer (Mechanical) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Acoustic Engineer (Mechanical) interviews to help you prepare and succeed.

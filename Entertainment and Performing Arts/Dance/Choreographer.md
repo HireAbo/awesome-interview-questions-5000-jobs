@@ -2,6 +2,8 @@
 
 Welcome to the Choreographer Interview Preparation ! This resource is designed to help you ace your Choreographer interviews with confidence.
 
+A choreographer is a creative and skilled professional who brings dance to life through their artistic vision and expertise. They play a vital role in the world of entertainment and performing arts. Choreographers design and create original dance routines, sequences, and movements for a wide range of performances such as stage shows, musicals, music videos, and even movies. They collaborate closely with dancers, directors, and producers to ensure that their choreography perfectly complements the overall artistic vision of the production. Additionally, choreographers may also teach and train dancers, helping them to refine their technique and interpret their choreography with precision and emotion. With their passion for dance and their ability to tell stories through movement, choreographers are instrumental in captivating audiences and creating unforgettable performances.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Choreographer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Choreographer interviews to help you prepare and succeed.

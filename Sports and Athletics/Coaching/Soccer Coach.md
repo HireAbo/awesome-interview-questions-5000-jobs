@@ -2,6 +2,8 @@
 
 Welcome to the Soccer Coach Interview Preparation ! This resource is designed to help you ace your Soccer Coach interviews with confidence.
 
+A soccer coach plays a vital role in the development and success of a team. They are responsible for planning, organizing, and conducting training sessions, as well as designing game strategies and tactics. A soccer coach not only focuses on improving the technical skills of individual players but also fosters teamwork, communication, and discipline within the team. They analyze the performance of players, identify areas of improvement, and provide constructive feedback to help players enhance their abilities. Additionally, soccer coaches are responsible for motivating and inspiring their team, instilling a strong work ethic, and creating a positive and supportive environment for players to thrive.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Soccer Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Soccer Coach interviews to help you prepare and succeed.

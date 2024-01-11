@@ -2,6 +2,8 @@
 
 Welcome to the Sports Broadcaster Interview Preparation ! This resource is designed to help you ace your Sports Broadcaster interviews with confidence.
 
+A sports broadcaster is a professional responsible for delivering live or recorded sports events to television, radio, or online platforms. They play a crucial role in providing accurate and engaging commentary during games, matches, or tournaments, ensuring viewers are informed and entertained. Sports broadcasters possess in-depth knowledge of various sports, teams, and players, allowing them to provide expert analysis and insightful commentary. They possess excellent communication skills, as they need to convey the excitement and intensity of the game to the audience. Sports broadcasters often work in fast-paced environments, requiring them to think on their feet and adapt to changing situations. Overall, this job combines the love for sports with the ability to effectively communicate and engage with viewers.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sports Broadcaster or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sports Broadcaster interviews to help you prepare and succeed.

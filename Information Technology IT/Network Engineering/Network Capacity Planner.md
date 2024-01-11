@@ -2,6 +2,8 @@
 
 Welcome to the Network Capacity Planner Interview Preparation ! This resource is designed to help you ace your Network Capacity Planner interviews with confidence.
 
+The Network Capacity Planner job in Information Technology (IT) focuses on ensuring efficient network performance and capacity to meet the organization's needs. As a Network Capacity Planner, you will play a crucial role in determining the network infrastructure requirements, analyzing network traffic patterns, and forecasting future demands. Your responsibilities will include evaluating and optimizing network capacity, monitoring network performance, and collaborating with various teams to design and implement network upgrades. This role requires strong analytical skills, knowledge of network protocols, and the ability to work with network engineering principles. By efficiently planning and managing network capacity, you will contribute to the smooth functioning of IT operations and enable seamless connectivity for users.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Network Capacity Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Network Capacity Planner interviews to help you prepare and succeed.

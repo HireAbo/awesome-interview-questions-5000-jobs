@@ -2,6 +2,8 @@
 
 Welcome to the Energy Project Manager Interview Preparation ! This resource is designed to help you ace your Energy Project Manager interviews with confidence.
 
+An Energy Project Manager is a professional responsible for overseeing and managing energy-related projects within the field of Energy Engineering. They play a vital role in planning, executing, and monitoring projects that aim to optimize energy usage, reduce carbon emissions, and improve overall energy efficiency. Energy Project Managers work closely with engineers, technicians, and other stakeholders to develop and implement strategies that align with environmental and sustainability goals. Their duties may include conducting feasibility studies, assessing project risks, coordinating resources, and ensuring compliance with regulations. Strong analytical, problem-solving, and communication skills are essential for this role, as Energy Project Managers are instrumental in driving sustainable energy solutions and contributing to a greener future.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Energy Project Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Energy Project Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Construction Project Manager Interview Preparation ! This resource is designed to help you ace your Construction Project Manager interviews with confidence.
 
+A Construction Project Manager is responsible for overseeing and managing construction projects from start to finish. They play a crucial role in coordinating various aspects of the project, including planning, budgeting, scheduling, and resource allocation. The Construction Project Manager ensures that the project is executed efficiently, within the allocated budget and timeframe, while meeting high-quality standards. They collaborate with architects, engineers, contractors, and other stakeholders to ensure that the project is completed successfully. Additionally, they handle risk management, procurement of materials and equipment, and ensure compliance with safety regulations. Excellent communication, leadership, and problem-solving skills are essential for a Construction Project Manager to effectively manage and deliver successful construction projects.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Construction Project Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Construction Project Manager interviews to help you prepare and succeed.

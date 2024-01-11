@@ -2,6 +2,8 @@
 
 Welcome to the Process Analyst Interview Preparation ! This resource is designed to help you ace your Process Analyst interviews with confidence.
 
+A Process Analyst in the field of Chemical Engineering plays a crucial role in optimizing and improving manufacturing processes within various industries. They are responsible for analyzing and evaluating chemical processes, identifying areas for improvement, and implementing changes to enhance efficiency, quality, and safety. Process Analysts utilize their deep understanding of chemical engineering principles, along with data analysis and problem-solving skills, to identify bottlenecks, troubleshoot issues, and develop innovative solutions. They work closely with cross-functional teams to ensure smooth operations, minimize downtime, and maximize productivity. A career as a Process Analyst in Chemical Engineering offers exciting opportunities to contribute to the development of sustainable and efficient manufacturing processes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Process Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Process Analyst interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Animal Care Technician Interview Preparation ! This resource is designed to help you ace your Animal Care Technician interviews with confidence.
 
+Veterinary Medicine is a specialized field that focuses on the health and well-being of animals. It encompasses various aspects of animal care, including diagnosis, treatment, and prevention of diseases. Veterinary Nursing is a crucial role within veterinary medicine, where professionals provide support and assistance to veterinarians in providing comprehensive care for animals. They are responsible for administering medications, assisting in surgeries, and providing post-operative care. On the other hand, Animal Care Technicians play a vital role in maintaining the overall health and welfare of animals. They are involved in feeding, bathing, grooming, and monitoring animals' behavior and well-being. Their expertise is essential in ensuring the comfort and proper care of animals in various settings, including veterinary clinics, zoos, and research facilities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Animal Care Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Animal Care Technician interviews to help you prepare and succeed.

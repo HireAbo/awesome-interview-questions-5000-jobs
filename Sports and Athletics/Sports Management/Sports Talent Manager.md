@@ -2,6 +2,8 @@
 
 Welcome to the Sports Talent Manager Interview Preparation ! This resource is designed to help you ace your Sports Talent Manager interviews with confidence.
 
+A Sports Talent Manager is a crucial role in the field of Sports Management, responsible for identifying and nurturing talented athletes. This job involves scouting for potential athletes, negotiating contracts, and managing their careers. As a Sports Talent Manager, you will work closely with athletes to develop their skills, create marketing strategies, and secure lucrative endorsement deals. You will also handle the business aspects of their careers, including organizing appearances, managing finances, and coordinating with coaches and trainers. Overall, a Sports Talent Manager plays a vital role in ensuring the success and growth of athletes by providing guidance, support, and strategic management.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sports Talent Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sports Talent Manager interviews to help you prepare and succeed.

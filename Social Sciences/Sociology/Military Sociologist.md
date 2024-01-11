@@ -2,6 +2,8 @@
 
 Welcome to the Military Sociologist Interview Preparation ! This resource is designed to help you ace your Military Sociologist interviews with confidence.
 
+A military sociologist is a professional who applies social science theories and research methods to study the social dynamics and impact of military organizations and activities. They analyze the relationships between the military, society, and individuals to understand the effects of military structures on individuals and communities. Military sociologists examine various aspects such as recruitment, training, organizational culture, leadership, and the impact of warfare on soldiers and civilians. They conduct research, collect data, and analyze trends to provide insights into military operations and policies. Their findings help inform military decision-making, improve military organizations, and contribute to the overall understanding of the social implications of warfare.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Military Sociologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Military Sociologist interviews to help you prepare and succeed.

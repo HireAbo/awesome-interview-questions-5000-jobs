@@ -2,6 +2,8 @@
 
 Welcome to the Aikido Instructor Interview Preparation ! This resource is designed to help you ace your Aikido Instructor interviews with confidence.
 
+Aikido is a dynamic martial art that focuses on using an opponent's energy and movements against them, rather than relying on brute force. As an Aikido Instructor, your role is to guide and train students in the art of Aikido, both physically and mentally. You will be responsible for teaching various techniques, improving students' physical fitness, and promoting discipline and self-defense skills. As a coach, you will create lesson plans, demonstrate proper techniques, provide individualized feedback, and create a positive and supportive learning environment. By imparting your knowledge and expertise, you will inspire and empower individuals to develop their Aikido skills and achieve their personal goals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Aikido Instructor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Aikido Instructor interviews to help you prepare and succeed.

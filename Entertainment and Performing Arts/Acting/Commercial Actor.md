@@ -2,6 +2,8 @@
 
 Welcome to the Commercial Actor Interview Preparation ! This resource is designed to help you ace your Commercial Actor interviews with confidence.
 
+A commercial actor is a professional performer who specializes in appearing in television commercials, infomercials, and online advertisements. They play a crucial role in promoting products, services, and brands through their acting skills and charisma. Commercial actors are responsible for bringing scripts to life, captivating audiences, and effectively delivering the desired message to potential consumers. They often work with directors, producers, and advertising agencies to understand the vision and objectives of the commercial. This job requires versatility, adaptability, and the ability to quickly understand and portray different characters and scenarios. Commercial actors may attend auditions, participate in casting calls, and undergo rigorous training to enhance their acting abilities and increase their chances of landing commercial roles.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Commercial Actor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Commercial Actor interviews to help you prepare and succeed.

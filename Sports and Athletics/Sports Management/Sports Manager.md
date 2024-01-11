@@ -2,6 +2,8 @@
 
 Welcome to the Sports Manager Interview Preparation ! This resource is designed to help you ace your Sports Manager interviews with confidence.
 
+Sports and Athletics is a dynamic and thrilling industry that captivates millions of people around the world. It encompasses a wide range of activities, including professional sports leagues, sports events, and individual athletic pursuits. Within this realm, Sports Management plays a pivotal role in ensuring the smooth functioning and success of sports organizations. A Sports Manager job involves overseeing various aspects of sports organizations, such as marketing, finance, operations, and athlete management. They are responsible for strategizing, planning, and implementing initiatives to enhance team performance, maximize revenue, and engage fans. A Sports Manager must possess strong leadership, communication, and analytical skills to excel in this competitive field.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sports Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sports Manager interviews to help you prepare and succeed.

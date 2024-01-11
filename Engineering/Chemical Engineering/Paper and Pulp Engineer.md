@@ -2,6 +2,8 @@
 
 Welcome to the Paper and Pulp Engineer Interview Preparation ! This resource is designed to help you ace your Paper and Pulp Engineer interviews with confidence.
 
+A Paper and Pulp Engineer is a professional who specializes in the field of Chemical Engineering, with a specific focus on the paper and pulp industry. These engineers are responsible for designing and implementing processes to produce paper and pulp products efficiently and sustainably. They work closely with production teams to optimize manufacturing processes, improve product quality, and reduce environmental impact. Paper and Pulp Engineers apply their knowledge of chemical reactions, materials science, and mechanical engineering principles to develop innovative solutions for the industry. Their expertise plays a crucial role in ensuring the smooth operation of paper and pulp mills, contributing to the production of high-quality paper products worldwide.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Paper and Pulp Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Paper and Pulp Engineer interviews to help you prepare and succeed.

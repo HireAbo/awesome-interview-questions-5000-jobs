@@ -2,6 +2,8 @@
 
 Welcome to the Hotel Inspector Interview Preparation ! This resource is designed to help you ace your Hotel Inspector interviews with confidence.
 
+Hospitality and Tourism is a thriving industry that focuses on providing exceptional experiences for guests. Within this field, Hotel Management plays a crucial role in ensuring the smooth operation and success of hotels. One important job within Hotel Management is that of a Hotel Inspector. Hotel Inspectors are responsible for evaluating and assessing the quality and standards of hotels. They conduct inspections to ensure that hotels meet industry standards in areas such as cleanliness, maintenance, service, and safety. Hotel Inspectors play a vital role in maintaining and improving the reputation and competitiveness of hotels, as their evaluations help hotels identify areas for improvement and maintain high standards of excellence.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Hotel Inspector or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Hotel Inspector interviews to help you prepare and succeed.

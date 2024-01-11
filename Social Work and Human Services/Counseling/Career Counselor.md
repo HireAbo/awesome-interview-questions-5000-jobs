@@ -2,6 +2,8 @@
 
 Welcome to the Career Counselor Interview Preparation ! This resource is designed to help you ace your Career Counselor interviews with confidence.
 
+Social work and human services encompass a wide range of professions aimed at helping individuals, families, and communities overcome challenges and achieve their full potential. Among these professions, one crucial role is that of a career counselor. Career counselors provide guidance and support to individuals seeking to make informed decisions about their career paths. They assist clients in identifying their skills, interests, and values, and help them explore various occupational options. Moreover, career counselors offer valuable resources such as aptitude tests, job market information, and interview preparation. By providing personalized guidance, career counselors empower individuals to make fulfilling career choices and navigate the ever-evolving job market.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Career Counselor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Career Counselor interviews to help you prepare and succeed.

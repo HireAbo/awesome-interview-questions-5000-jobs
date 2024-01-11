@@ -2,6 +2,8 @@
 
 Welcome to the Vision Specialist Interview Preparation ! This resource is designed to help you ace your Vision Specialist interviews with confidence.
 
+A Vision Specialist in the field of Special Education is a highly trained professional who provides specialized educational support and services to students with visual impairments. These specialists play a crucial role in ensuring that students with visual disabilities receive the necessary accommodations and resources to succeed academically and socially. They assess the specific needs of each student and develop individualized education plans, incorporating adaptive technology, braille instruction, orientation and mobility training, and other visual aids as needed. Vision Specialists also collaborate with teachers, parents, and other professionals to create inclusive learning environments and promote the students' overall well-being and independence. Their expertise and dedication contribute to empowering visually impaired students and enabling them to achieve their full potential.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Vision Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Vision Specialist interviews to help you prepare and succeed.

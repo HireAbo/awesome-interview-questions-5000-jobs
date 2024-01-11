@@ -2,6 +2,8 @@
 
 Welcome to the Public Management Specialist Interview Preparation ! This resource is designed to help you ace your Public Management Specialist interviews with confidence.
 
+A Public Management Specialist is a professional who plays a crucial role in the field of Government and Public Service. They are responsible for overseeing and managing various aspects of public administration, ensuring efficient and effective delivery of public services. Public Management Specialists work closely with government agencies, community organizations, and stakeholders to develop and implement policies and programs. They analyze and evaluate public policies, budgets, and resources to ensure optimal utilization. Additionally, they provide guidance and support to public servants, promoting ethical practices and accountability. Public Management Specialists contribute to the overall improvement of public administration by fostering transparency, innovation, and excellence in service delivery.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Public Management Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Public Management Specialist interviews to help you prepare and succeed.

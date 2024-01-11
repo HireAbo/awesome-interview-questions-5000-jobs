@@ -2,6 +2,8 @@
 
 Welcome to the Power Plant Safety Coordinator Interview Preparation ! This resource is designed to help you ace your Power Plant Safety Coordinator interviews with confidence.
 
+A Power Plant Safety Coordinator plays a crucial role in ensuring the safety and well-being of personnel working in power plants. This position is responsible for implementing and maintaining safety programs, policies, and procedures to minimize the risk of accidents and injuries. They conduct regular inspections, identify potential hazards, and develop strategies to mitigate risks. Additionally, they provide training and education to employees on safety protocols and emergency response procedures. A Power Plant Safety Coordinator collaborates with different departments to investigate incidents and develop preventive measures. Their goal is to create a safe work environment that complies with industry regulations and promotes a culture of safety.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Power Plant Safety Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Power Plant Safety Coordinator interviews to help you prepare and succeed.

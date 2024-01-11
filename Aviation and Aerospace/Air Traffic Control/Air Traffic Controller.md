@@ -2,6 +2,8 @@
 
 Welcome to the Air Traffic Controller Interview Preparation ! This resource is designed to help you ace your Air Traffic Controller interviews with confidence.
 
+Aviation and Aerospace is a dynamic industry that encompasses a wide range of activities related to the design, development, production, operation, and maintenance of aircraft and spacecraft. One crucial aspect of this industry is Air Traffic Control (ATC), which ensures the safe and efficient movement of aircraft in the sky and on the ground. At the heart of ATC operations are the Air Traffic Controllers (ATCs), who play a vital role in managing and directing air traffic. They monitor radar screens, communicate with pilots, and provide timely instructions to maintain separation between aircraft. Air Traffic Controllers possess excellent communication skills, problem-solving abilities, and the ability to work under pressure to ensure the smooth functioning of the aviation system.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Air Traffic Controller or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Air Traffic Controller interviews to help you prepare and succeed.

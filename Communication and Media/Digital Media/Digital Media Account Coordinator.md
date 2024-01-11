@@ -2,6 +2,8 @@
 
 Welcome to the Digital Media Account Coordinator Interview Preparation ! This resource is designed to help you ace your Digital Media Account Coordinator interviews with confidence.
 
+A Digital Media Account Coordinator plays a crucial role in the field of Communication and Media, specifically in the realm of Digital Media. This job entails managing and coordinating digital media accounts for clients, ensuring effective communication and smooth operations. The Account Coordinator collaborates with clients and internal teams to develop and execute digital media strategies, including social media campaigns, content creation, and online advertising. They monitor and analyze key performance indicators, providing insights and recommendations to optimize campaign performance. Additionally, they assist with client reporting, budget management, and maintaining client relationships. A successful Digital Media Account Coordinator possesses excellent communication skills, a strong understanding of digital media platforms, and a passion for delivering impactful results.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Digital Media Account Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Digital Media Account Coordinator interviews to help you prepare and succeed.

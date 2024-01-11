@@ -2,6 +2,8 @@
 
 Welcome to the Roadie Interview Preparation ! This resource is designed to help you ace your Roadie interviews with confidence.
 
+A roadie is an essential member of a music production team, responsible for setting up and maintaining equipment for live performances. These hardworking individuals are the backbone of the concert experience, ensuring that everything runs smoothly behind the scenes. Roadies are skilled in handling different types of musical instruments, sound systems, lighting equipment, and stage props. They work closely with musicians and stage crews to ensure that the show goes off without a hitch. Roadies are known for their dedication, adaptability, and ability to work long hours in sometimes challenging conditions. Their role is vital in creating memorable and successful live music experiences for both artists and audiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Roadie or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Roadie interviews to help you prepare and succeed.

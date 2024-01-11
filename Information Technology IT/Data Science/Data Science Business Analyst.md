@@ -2,6 +2,8 @@
 
 Welcome to the Data Science Business Analyst Interview Preparation ! This resource is designed to help you ace your Data Science Business Analyst interviews with confidence.
 
+Information Technology (IT) encompasses the use and management of computer systems, software, networks, and electronic data. It involves the processing, storage, and retrieval of information to support various activities within an organization. Data Science, on the other hand, is a multidisciplinary field that combines statistical analysis, machine learning, and data visualization techniques to extract valuable insights from large datasets. As businesses rely more on data-driven decision-making, the role of a Data Science Business Analyst becomes crucial. This job involves analyzing complex datasets, identifying trends, and providing actionable recommendations to improve business strategies and operations. A Data Science Business Analyst bridges the gap between data science and business objectives, translating technical findings into meaningful insights for stakeholders.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Science Business Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Science Business Analyst interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Political PR Specialist Interview Preparation ! This resource is designed to help you ace your Political PR Specialist interviews with confidence.
 
+A Political PR Specialist is a professional who specializes in managing the public image and communication strategies of political figures, parties, and organizations. They play a crucial role in shaping public opinion and influencing the success of political campaigns. With expertise in communication and media, they develop and implement strategies to promote the desired image and messages of their clients through various channels such as press releases, media interviews, speeches, and social media platforms. Political PR Specialists also monitor and analyze public sentiment, manage crises, and advise on strategic decision-making. Their ultimate goal is to build and maintain positive relationships between their clients and the public, fostering support and trust in the political arena.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Political PR Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Political PR Specialist interviews to help you prepare and succeed.

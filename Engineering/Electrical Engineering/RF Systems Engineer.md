@@ -2,6 +2,8 @@
 
 Welcome to the RF Systems Engineer Interview Preparation ! This resource is designed to help you ace your RF Systems Engineer interviews with confidence.
 
+A RF Systems Engineer job in the field of Electrical Engineering involves designing, developing, and implementing radio frequency (RF) systems and components. These professionals work with a wide range of technologies and equipment to ensure optimal performance and efficiency of RF systems. They analyze and evaluate system requirements, conduct feasibility studies, and develop technical specifications. RF Systems Engineers also collaborate with cross-functional teams to integrate RF systems into larger projects, troubleshoot and resolve issues, and optimize system performance. They are knowledgeable in areas such as antenna design, transmission lines, electromagnetic compatibility, and signal integrity. RF Systems Engineers play a crucial role in the telecommunications, aerospace, and defense industries, among others.
+
 ## 🚀 Overview
 
 Whether you're a seasoned RF Systems Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in RF Systems Engineer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Financial Planner Interview Preparation ! This resource is designed to help you ace your Financial Planner interviews with confidence.
 
+A Financial Planner job in the field of Business and Management focuses on providing expert financial advice and guidance to individuals and businesses. Financial Planners play a crucial role in helping clients meet their financial goals by assessing their current financial situations, developing personalized financial plans, and implementing strategies to help clients achieve their objectives. They analyze financial data, including income, investments, and expenses, to help clients make informed decisions about budgeting, investing, and retirement planning. Financial Planners also provide guidance on insurance, taxes, and estate planning. Strong analytical skills, excellent communication, and a deep understanding of financial markets and regulations are key for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Financial Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Financial Planner interviews to help you prepare and succeed.

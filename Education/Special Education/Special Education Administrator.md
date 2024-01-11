@@ -2,6 +2,8 @@
 
 Welcome to the Special Education Administrator Interview Preparation ! This resource is designed to help you ace your Special Education Administrator interviews with confidence.
 
+A Special Education Administrator plays a crucial role in ensuring that students with special needs receive appropriate education and support. These professionals are responsible for overseeing and managing special education programs within schools or educational institutions. They collaborate with teachers, parents, and other professionals to develop individualized education plans (IEPs) for students, ensuring that their unique learning needs are met. Special Education Administrators also recruit and train special education teachers, evaluate program effectiveness, and ensure compliance with legal and regulatory requirements. They provide leadership and guidance to support staff and educators, fostering an inclusive and nurturing learning environment for students with disabilities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Special Education Administrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Special Education Administrator interviews to help you prepare and succeed.

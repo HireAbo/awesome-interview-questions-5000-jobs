@@ -2,6 +2,8 @@
 
 Welcome to the Television Extra Interview Preparation ! This resource is designed to help you ace your Television Extra interviews with confidence.
 
+The Entertainment and Performing Arts industry is a vibrant and dynamic field that encompasses various forms of artistic expression. One such avenue within this industry is acting, where individuals bring characters to life through their performances. One exciting opportunity within the realm of acting is the job of a television extra. Television extras play a pivotal role in creating realistic and immersive on-screen environments. They contribute to the overall atmosphere of a TV show by portraying background characters, adding depth and authenticity to the scenes. This job provides an excellent platform for aspiring actors to gain valuable experience, learn from professionals, and potentially get noticed for future acting opportunities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Television Extra or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Television Extra interviews to help you prepare and succeed.

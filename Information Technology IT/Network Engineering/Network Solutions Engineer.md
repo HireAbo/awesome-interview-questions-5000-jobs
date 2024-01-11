@@ -2,6 +2,8 @@
 
 Welcome to the Network Solutions Engineer Interview Preparation ! This resource is designed to help you ace your Network Solutions Engineer interviews with confidence.
 
+A Network Solutions Engineer is a specialized professional within the field of Information Technology (IT) and Network Engineering. They play a crucial role in designing, implementing, and maintaining network solutions for organizations. These professionals possess a deep understanding of computer networks, protocols, and infrastructure components. They are responsible for analyzing network requirements, developing solutions, and ensuring that network systems are scalable, secure, and efficient. Network Solutions Engineers work closely with clients to assess their needs, recommend appropriate technologies, and provide technical support. They are also responsible for troubleshooting network issues and ensuring seamless connectivity. Overall, a Network Solutions Engineer is instrumental in creating and managing robust network architectures that support an organization's communication and data transfer needs.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Network Solutions Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Network Solutions Engineer interviews to help you prepare and succeed.

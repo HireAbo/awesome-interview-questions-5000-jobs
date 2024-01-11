@@ -2,6 +2,8 @@
 
 Welcome to the Controls Engineer Interview Preparation ! This resource is designed to help you ace your Controls Engineer interviews with confidence.
 
+A Controls Engineer is a professional who specializes in designing, developing, and implementing control systems for various industrial processes and equipment. They are responsible for ensuring that these systems operate efficiently and effectively, monitoring and troubleshooting any issues that may arise. Controls Engineers play a crucial role in optimizing productivity, quality, and safety in manufacturing plants, power plants, and other automated industries. They collaborate with other engineers and technicians to develop and implement control strategies, program and configure control devices, and oversee the installation and commissioning of control systems. A strong background in electrical engineering, automation, and programming is essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Controls Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Controls Engineer interviews to help you prepare and succeed.

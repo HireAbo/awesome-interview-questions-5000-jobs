@@ -2,6 +2,8 @@
 
 Welcome to the Founder and CEO Interview Preparation ! This resource is designed to help you ace your Founder and CEO interviews with confidence.
 
+The role of a Founder and CEO in the field of Business and Management, specifically in the realm of Entrepreneurship, is pivotal in the success of a company. As the Founder, this individual is responsible for conceptualizing a business idea, identifying market opportunities, and developing a strategic vision. They are the driving force behind the establishment of the company, making critical decisions related to product development, market entry, and resource allocation. The CEO, on the other hand, assumes the overall leadership and management responsibilities, ensuring the effective execution of the Founder's vision. This includes overseeing day-to-day operations, managing a team, setting goals, and driving growth and profitability. The Founder and CEO position requires exceptional entrepreneurial skills, leadership abilities, and a strong business acumen.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Founder and CEO or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Founder and CEO interviews to help you prepare and succeed.

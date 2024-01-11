@@ -2,6 +2,8 @@
 
 Welcome to the Forest GIS Specialist Interview Preparation ! This resource is designed to help you ace your Forest GIS Specialist interviews with confidence.
 
+Agriculture and Environmental Science with a specialization in Forestry offers a wide range of career opportunities, including the role of a Forest GIS Specialist. As a Forest GIS Specialist, your primary responsibility would be to utilize Geographic Information Systems (GIS) technology to analyze, manage, and interpret spatial data related to forest ecosystems. This involves mapping forest resources, conducting spatial analyses, and creating digital models to aid in decision-making processes. Additionally, you would collaborate with other professionals to provide accurate and up-to-date information on forest health, biodiversity, and conservation efforts. A Forest GIS Specialist plays a crucial role in promoting sustainable practices and ensuring the long-term preservation of forest ecosystems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forest GIS Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forest GIS Specialist interviews to help you prepare and succeed.

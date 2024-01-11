@@ -2,6 +2,8 @@
 
 Welcome to the Forensic Pathologist Interview Preparation ! This resource is designed to help you ace your Forensic Pathologist interviews with confidence.
 
+A forensic pathologist is a highly specialized medical professional within the field of criminal justice. They play a crucial role in investigating and determining the cause of death in cases that involve criminal activities or suspicious circumstances. These experts possess extensive knowledge in pathology and are trained to perform autopsies and examine human remains, providing valuable insights into the cause, manner, and time of death. Forensic pathologists work closely with law enforcement agencies, forensic scientists, and legal professionals to collect and analyze evidence, testify in court, and help solve criminal cases. Their expertise is vital in ensuring justice is served and providing closure to families of victims.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forensic Pathologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forensic Pathologist interviews to help you prepare and succeed.

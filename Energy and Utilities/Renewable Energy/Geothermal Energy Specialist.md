@@ -2,6 +2,8 @@
 
 Welcome to the Geothermal Energy Specialist Interview Preparation ! This resource is designed to help you ace your Geothermal Energy Specialist interviews with confidence.
 
+A Geothermal Energy Specialist is a professional who specializes in harnessing the power of geothermal energy for various applications. This specialist is responsible for conducting research, designing, and implementing geothermal energy projects. They work closely with engineers and technicians to identify suitable locations for geothermal power plants and develop strategies to extract heat from the earth's core. Geothermal Energy Specialists also analyze data and perform feasibility studies to assess the economic viability of geothermal projects. Additionally, they ensure compliance with environmental regulations and safety standards. These specialists play a crucial role in promoting sustainable energy practices and reducing greenhouse gas emissions by tapping into the earth's renewable heat source.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Geothermal Energy Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Geothermal Energy Specialist interviews to help you prepare and succeed.

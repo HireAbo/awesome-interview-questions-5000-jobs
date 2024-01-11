@@ -2,6 +2,8 @@
 
 Welcome to the Research Technician Interview Preparation ! This resource is designed to help you ace your Research Technician interviews with confidence.
 
+A Veterinary Research Technician plays a crucial role in the field of Veterinary Medicine by supporting and assisting in various research projects related to animal health and disease. These professionals work closely with veterinarians and scientists to conduct experiments, collect and analyze data, and contribute to the development of new treatments and therapies. Research Technicians are responsible for maintaining laboratory equipment, preparing samples, and ensuring the accuracy and integrity of research findings. They may also be involved in animal care, including monitoring and providing necessary treatments. Attention to detail, strong analytical skills, and a passion for animal welfare are essential qualities for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Research Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Research Technician interviews to help you prepare and succeed.

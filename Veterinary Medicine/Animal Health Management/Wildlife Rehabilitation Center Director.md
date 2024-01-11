@@ -2,6 +2,8 @@
 
 Welcome to the Wildlife Rehabilitation Center Director Interview Preparation ! This resource is designed to help you ace your Wildlife Rehabilitation Center Director interviews with confidence.
 
+A Wildlife Rehabilitation Center Director is responsible for overseeing the operations and management of a center dedicated to the care and rehabilitation of injured or orphaned wild animals. This specialized position in Veterinary Medicine and Animal Health Management requires a deep understanding of wildlife species, their behavior, and their specific health needs. The Director collaborates with a team of veterinarians, wildlife biologists, and animal care staff to develop and implement rehabilitation programs, ensuring the animals receive appropriate medical treatment, diet, and habitat conditions. Additionally, the Director plays a vital role in educating the public about wildlife conservation, promoting responsible interaction with wildlife, and advocating for the protection of these vulnerable species and their habitats.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wildlife Rehabilitation Center Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wildlife Rehabilitation Center Director interviews to help you prepare and succeed.

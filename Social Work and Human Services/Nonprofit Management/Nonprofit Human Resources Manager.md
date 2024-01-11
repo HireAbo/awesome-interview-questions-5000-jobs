@@ -2,6 +2,8 @@
 
 Welcome to the Nonprofit Human Resources Manager Interview Preparation ! This resource is designed to help you ace your Nonprofit Human Resources Manager interviews with confidence.
 
+The role of a Nonprofit Human Resources Manager within the field of Social Work and Human Services is crucial in ensuring the effective functioning of nonprofit organizations. As a nonprofit organization, the primary focus is on serving the community and addressing social issues. The Nonprofit Human Resources Manager plays a pivotal role in managing the organization's workforce, including recruitment, training, performance evaluation, and employee relations. They develop and implement policies and procedures to support and motivate employees, ensuring compliance with labor laws and regulations. Their work contributes to the overall success of the organization by fostering a positive work environment, attracting and retaining talented individuals, and ensuring they are equipped to make a lasting impact on the community.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nonprofit Human Resources Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nonprofit Human Resources Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Digital Content Strategist Interview Preparation ! This resource is designed to help you ace your Digital Content Strategist interviews with confidence.
 
+A Digital Content Strategist plays a crucial role in the field of Library and Information Science, specifically in the realm of Information Management. As a professional responsible for managing digital content, their primary focus is on developing and executing strategies to curate, organize, and disseminate information effectively. This includes overseeing the creation and maintenance of digital collections, implementing metadata standards, and ensuring seamless access to digital resources. Digital Content Strategists also collaborate with various stakeholders to optimize user experience, improve information retrieval systems, and analyze usage data to identify trends and make informed decisions. Their expertise in information organization and digital technologies enables them to serve as key players in maximizing the value and accessibility of digital content within libraries and other information-intensive organizations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Digital Content Strategist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Digital Content Strategist interviews to help you prepare and succeed.

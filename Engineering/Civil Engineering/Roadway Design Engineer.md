@@ -2,6 +2,8 @@
 
 Welcome to the Roadway Design Engineer Interview Preparation ! This resource is designed to help you ace your Roadway Design Engineer interviews with confidence.
 
+A Roadway Design Engineer is a specialized civil engineer responsible for designing and planning the construction of roadways and highways. They work within the field of civil engineering, utilizing their expertise to create safe, efficient, and sustainable transportation systems. Roadway Design Engineers analyze topographical data, consider traffic patterns, and collaborate with other professionals to develop comprehensive road designs. They use computer-aided design (CAD) software to create detailed plans, ensuring compliance with engineering standards and regulations. Additionally, they may evaluate existing road conditions, propose improvements, and conduct feasibility studies. Roadway Design Engineers play a vital role in enhancing transportation infrastructure, promoting safety, and improving connectivity within communities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Roadway Design Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Roadway Design Engineer interviews to help you prepare and succeed.

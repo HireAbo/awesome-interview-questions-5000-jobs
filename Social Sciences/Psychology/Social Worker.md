@@ -2,6 +2,8 @@
 
 Welcome to the Social Worker Interview Preparation ! This resource is designed to help you ace your Social Worker interviews with confidence.
 
+A social worker is a professional who plays a crucial role in addressing and improving the well-being of individuals, families, and communities. As part of the field of social sciences, specifically psychology, social workers focus on applying psychological principles and theories to help individuals overcome challenges and improve their overall mental health. They assist people in accessing necessary resources, such as healthcare, housing, and employment opportunities. Social workers often work directly with vulnerable populations, including children, the elderly, individuals with disabilities, and those experiencing mental health issues or substance abuse problems. Their work involves conducting assessments, providing counseling and therapy, advocating for clients' rights, and coordinating services to ensure holistic support.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Social Worker or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Social Worker interviews to help you prepare and succeed.

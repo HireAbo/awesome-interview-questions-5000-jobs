@@ -2,6 +2,8 @@
 
 Welcome to the Healthcare Risk Manager Interview Preparation ! This resource is designed to help you ace your Healthcare Risk Manager interviews with confidence.
 
+Healthcare and Medicine play a vital role in ensuring the well-being of individuals and communities. Within the field of Healthcare Administration, healthcare risk managers are crucial in identifying, assessing, and mitigating potential risks that could impact patient safety and the overall effectiveness of healthcare organizations. These professionals oversee the development and implementation of risk management strategies, policies, and procedures to minimize liability, protect patient rights, and ensure compliance with regulatory standards. Healthcare risk managers collaborate with various stakeholders, including healthcare providers, insurance companies, and legal teams, to investigate incidents, analyze data, and create proactive measures to prevent potential risks. Their role is essential in maintaining a safe and high-quality healthcare environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Healthcare Risk Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Healthcare Risk Manager interviews to help you prepare and succeed.

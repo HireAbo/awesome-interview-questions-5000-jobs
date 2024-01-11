@@ -2,6 +2,8 @@
 
 Welcome to the Financial Controller Interview Preparation ! This resource is designed to help you ace your Financial Controller interviews with confidence.
 
+A Financial Controller is a key position within a company's finance department. They are responsible for overseeing all financial activities and ensuring the accuracy and integrity of financial reports. The role requires strong analytical skills and a deep understanding of financial principles and regulations. Financial Controllers are responsible for budgeting, forecasting, and financial planning, as well as managing the financial reporting process. They work closely with other departments to provide financial guidance and support decision-making processes. Additionally, Financial Controllers play a crucial role in identifying and managing financial risks, implementing internal controls, and ensuring compliance with financial policies and procedures.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Financial Controller or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Financial Controller interviews to help you prepare and succeed.

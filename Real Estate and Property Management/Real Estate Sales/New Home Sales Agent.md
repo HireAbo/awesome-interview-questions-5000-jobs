@@ -2,6 +2,8 @@
 
 Welcome to the New Home Sales Agent Interview Preparation ! This resource is designed to help you ace your New Home Sales Agent interviews with confidence.
 
+A Real Estate Sales Agent specializing in New Home Sales is a professional who facilitates the buying and selling of newly built residential properties. This role requires excellent communication and interpersonal skills to effectively showcase and market properties to potential buyers. The New Home Sales Agent is responsible for understanding client needs and preferences, providing information about available properties, negotiating sales contracts, and coordinating with builders, lenders, and other parties involved in the transaction process. They are knowledgeable about the local real estate market, trends, and regulations. This job requires a strong sales acumen, attention to detail, and the ability to build and maintain client relationships.
+
 ## 🚀 Overview
 
 Whether you're a seasoned New Home Sales Agent or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in New Home Sales Agent interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Veterinary Epidemiologist Interview Preparation ! This resource is designed to help you ace your Veterinary Epidemiologist interviews with confidence.
 
+Veterinary Medicine encompasses various specialized fields, one of which is Veterinary Epidemiology. This field focuses on studying and preventing diseases in animals. A Veterinary Epidemiologist is a professional who plays a crucial role in understanding the spread, causes, and control of diseases in animal populations. They collect and analyze data to identify patterns, risk factors, and trends that can help in disease prevention and control strategies. Veterinary Epidemiologists work closely with veterinarians, public health officials, and researchers to develop effective measures to safeguard animal health and prevent the transmission of diseases to humans. Their expertise is invaluable in managing infectious diseases and ensuring the well-being of animals and human populations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Veterinary Epidemiologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Veterinary Epidemiologist interviews to help you prepare and succeed.

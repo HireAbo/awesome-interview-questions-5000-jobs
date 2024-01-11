@@ -2,6 +2,8 @@
 
 Welcome to the Utility Performance Auditor Interview Preparation ! This resource is designed to help you ace your Utility Performance Auditor interviews with confidence.
 
+A Utility Performance Auditor is responsible for evaluating and analyzing the efficiency and effectiveness of energy and utility management systems within an organization. They conduct comprehensive audits to identify areas for improvement and develop strategies to optimize energy consumption, reduce costs, and enhance overall utility performance. These professionals closely examine utility bills, consumption data, and operational processes to identify inefficiencies and recommend solutions to enhance energy conservation and sustainability practices. They also assess compliance with industry regulations and standards, and provide recommendations for implementing energy-efficient technologies and practices. A Utility Performance Auditor plays a crucial role in helping organizations achieve their energy and sustainability goals while minimizing operational costs.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Utility Performance Auditor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Utility Performance Auditor interviews to help you prepare and succeed.

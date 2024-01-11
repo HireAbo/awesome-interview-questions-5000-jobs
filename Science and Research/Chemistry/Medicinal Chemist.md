@@ -2,6 +2,8 @@
 
 Welcome to the Medicinal Chemist Interview Preparation ! This resource is designed to help you ace your Medicinal Chemist interviews with confidence.
 
+A Medicinal Chemist is a specialized scientist who combines knowledge of chemistry, biology, and pharmacology to develop and optimize new drugs and treatments. They play a crucial role in the field of pharmaceutical research by designing and synthesizing molecules that can potentially combat diseases and improve human health. Medicinal chemists work in laboratories, conducting experiments and analyzing data to identify compounds with the desired biological activity and minimal side effects. They collaborate with other scientists, such as biologists and pharmacologists, to evaluate the effectiveness of these compounds and modify them accordingly. Their work is essential in advancing medical treatments and improving the quality of life for patients worldwide.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Medicinal Chemist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Medicinal Chemist interviews to help you prepare and succeed.

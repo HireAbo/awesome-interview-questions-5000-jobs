@@ -2,6 +2,8 @@
 
 Welcome to the Forensic Cybersecurity Analyst Interview Preparation ! This resource is designed to help you ace your Forensic Cybersecurity Analyst interviews with confidence.
 
+A Forensic Cybersecurity Analyst is a professional who plays a crucial role in the field of Law and Criminal Justice, specifically in the area of Forensic Science. This job involves the investigation and analysis of cybercrimes and security breaches. These analysts are responsible for identifying, collecting, preserving, and analyzing digital evidence to support criminal investigations and legal proceedings. They possess a deep understanding of computer systems, networks, and internet protocols, enabling them to uncover digital footprints left by cybercriminals. With their expertise in cybersecurity, they assist law enforcement agencies in preventing, detecting, and mitigating cyber threats, ensuring the safety and security of individuals, organizations, and government entities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forensic Cybersecurity Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forensic Cybersecurity Analyst interviews to help you prepare and succeed.

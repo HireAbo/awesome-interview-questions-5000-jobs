@@ -2,6 +2,8 @@
 
 Welcome to the Emergency Preparedness Specialist Interview Preparation ! This resource is designed to help you ace your Emergency Preparedness Specialist interviews with confidence.
 
+The role of an Emergency Preparedness Specialist is crucial in ensuring the safety and well-being of communities during times of crisis. As part of the Government and Public Service sector, these professionals are responsible for developing and implementing emergency plans and protocols to effectively respond to disasters and emergencies. They work closely with various agencies and stakeholders to identify potential risks, conduct risk assessments, and develop strategies to mitigate and manage emergencies. Emergency Preparedness Specialists also organize training programs, drills, and exercises to educate and prepare communities, as well as coordinate response and recovery efforts during actual emergencies. Their expertise is vital in safeguarding lives and minimizing the impact of disasters.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Emergency Preparedness Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Emergency Preparedness Specialist interviews to help you prepare and succeed.

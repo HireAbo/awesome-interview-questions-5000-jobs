@@ -2,6 +2,8 @@
 
 Welcome to the Urban Anthropologist Interview Preparation ! This resource is designed to help you ace your Urban Anthropologist interviews with confidence.
 
+An urban anthropologist is a professional who specializes in studying human behavior and social patterns within urban environments. They examine various aspects of urban life, such as social structures, cultural practices, economic activities, and political systems, to gain a comprehensive understanding of how societies function in urban settings. Urban anthropologists conduct extensive fieldwork, observing and interacting with individuals and communities, to gather information and data for their research. They also analyze historical records and cultural artifacts to uncover the historical and cultural significance of urban spaces. Through their work, urban anthropologists provide valuable insights into the complexities of urban life and contribute to the development of sustainable and inclusive urban planning strategies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Urban Anthropologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Urban Anthropologist interviews to help you prepare and succeed.

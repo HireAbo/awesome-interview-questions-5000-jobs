@@ -2,6 +2,8 @@
 
 Welcome to the Library Manager Interview Preparation ! This resource is designed to help you ace your Library Manager interviews with confidence.
 
+Library and Information Science is a multidisciplinary field that focuses on the organization, management, and dissemination of information in various formats. Within this field, Librarianship specifically refers to the profession of managing libraries and providing information services to patrons. Librarianship encompasses a wide range of responsibilities, including collection development, cataloging, reference services, and library instruction. A crucial role within Librarianship is that of a Library Manager. Library Managers are responsible for overseeing the day-to-day operations of a library, including budgeting, staffing, strategic planning, and ensuring the library meets the needs of its users. They play a vital role in fostering an environment that promotes access to knowledge and information for all individuals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Library Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Library Manager interviews to help you prepare and succeed.

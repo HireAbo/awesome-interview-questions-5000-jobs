@@ -2,6 +2,8 @@
 
 Welcome to the Radio Copywriter Interview Preparation ! This resource is designed to help you ace your Radio Copywriter interviews with confidence.
 
+A Radio Copywriter is a creative professional responsible for writing persuasive scripts and promotional content for radio broadcasts. They play a crucial role in capturing the attention of the audience and effectively conveying the intended message through audio advertisements, jingles, and announcements. Radio copywriters collaborate with radio producers, voice-over artists, and clients to develop compelling concepts that align with the brand's image and target audience. Their expertise lies in crafting concise, engaging, and memorable scripts that drive brand awareness, increase listenership, and ultimately help businesses achieve their marketing goals. A successful radio copywriter possesses excellent writing skills, a deep understanding of the target market, and the ability to adapt their writing style to various radio formats.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Radio Copywriter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Radio Copywriter interviews to help you prepare and succeed.

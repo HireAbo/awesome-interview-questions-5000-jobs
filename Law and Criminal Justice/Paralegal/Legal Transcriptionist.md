@@ -2,6 +2,12 @@
 
 Welcome to the Legal Transcriptionist Interview Preparation ! This resource is designed to help you ace your Legal Transcriptionist interviews with confidence.
 
+The field of Law and Criminal Justice offers a wide range of career opportunities, one of which is the role of a Paralegal. Paralegals play a crucial role in assisting attorneys with various legal tasks, such as conducting legal research, drafting legal documents, and organizing case files. They provide essential support to lawyers, ensuring that the legal process runs smoothly. 
+
+Another career option within this field is that of a Legal Transcriptionist. Legal Transcriptionists are responsible for transcribing audio recordings, such as court proceedings or legal consultations, into written documents. They possess excellent listening and typing skills, as accuracy and attention to detail are paramount in this role. Legal Transcriptionists play an integral part in creating an accurate and comprehensive record of legal proceedings. 
+
+Both Paralegals and Legal Transcriptionists contribute significantly to the legal system, ensuring justice is served and legal processes are executed efficiently.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Legal Transcriptionist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Legal Transcriptionist interviews to help you prepare and succeed.

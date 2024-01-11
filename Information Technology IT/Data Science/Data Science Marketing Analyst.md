@@ -2,6 +2,8 @@
 
 Welcome to the Data Science Marketing Analyst Interview Preparation ! This resource is designed to help you ace your Data Science Marketing Analyst interviews with confidence.
 
+Information Technology (IT) is a broad field that encompasses the use of technology to manage and process information. It involves the design, development, implementation, and maintenance of computer systems, software, and networks to support various business functions. Data Science, on the other hand, is a specialized field within IT that focuses on extracting insights and knowledge from large amounts of data using statistical and analytical techniques. A Data Science Marketing Analyst job combines the skills of a data scientist with marketing expertise. These professionals analyze consumer data to identify trends, develop marketing strategies, and measure the effectiveness of marketing campaigns, enabling businesses to make data-driven decisions and optimize their marketing efforts.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Science Marketing Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Science Marketing Analyst interviews to help you prepare and succeed.

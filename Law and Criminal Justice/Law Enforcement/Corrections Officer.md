@@ -2,6 +2,8 @@
 
 Welcome to the Corrections Officer Interview Preparation ! This resource is designed to help you ace your Corrections Officer interviews with confidence.
 
+A career in corrections officer job within the field of law enforcement plays a crucial role in maintaining public safety and upholding justice. As a corrections officer, you are responsible for overseeing individuals who have been convicted of a crime and are serving their sentence in a correctional facility. This demanding job requires a unique set of skills and qualities, including strong communication and interpersonal skills, as well as the ability to handle stressful situations with composure. Corrections officers ensure the security and safety of inmates while also facilitating their rehabilitation and reintegration into society. This vital role in the criminal justice system contributes to maintaining order and promoting positive change within correctional institutions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Corrections Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Corrections Officer interviews to help you prepare and succeed.

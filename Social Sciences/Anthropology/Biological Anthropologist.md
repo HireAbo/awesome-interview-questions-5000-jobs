@@ -2,6 +2,8 @@
 
 Welcome to the Biological Anthropologist Interview Preparation ! This resource is designed to help you ace your Biological Anthropologist interviews with confidence.
 
+A Biological Anthropologist is a specialized professional within the field of Anthropology, focusing on the study of human biological and evolutionary aspects. They explore the biological variations, adaptations, and behaviors of humans and their ancestors to understand our evolutionary history and current patterns. Biological Anthropologists often conduct fieldwork, collecting and analyzing skeletal remains, ancient DNA, and other biological data to unravel the complexities of human evolution. They also study human health, genetics, and disease, examining how these factors have shaped populations over time. Through their research, Biological Anthropologists contribute to our understanding of human origins, diversity, and the biological foundations of our cultural practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Biological Anthropologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Biological Anthropologist interviews to help you prepare and succeed.

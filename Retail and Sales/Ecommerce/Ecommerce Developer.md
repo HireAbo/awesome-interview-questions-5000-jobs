@@ -2,6 +2,8 @@
 
 Welcome to the E-commerce Developer Interview Preparation ! This resource is designed to help you ace your E-commerce Developer interviews with confidence.
 
+A job as an E-commerce Developer in the field of Retail and Sales involves creating and maintaining online platforms for businesses to sell their products or services. E-commerce Developers play a crucial role in developing user-friendly websites and applications that enable seamless online transactions. They are responsible for implementing secure payment gateways, optimizing website performance, and ensuring smooth navigation for customers. E-commerce Developers also collaborate with cross-functional teams to integrate inventory management systems, CRM tools, and marketing automation platforms. With the rapid growth of online shopping, E-commerce Developers are in high demand, offering a rewarding career path in the ever-evolving field of retail and sales.
+
 ## 🚀 Overview
 
 Whether you're a seasoned E-commerce Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in E-commerce Developer interviews to help you prepare and succeed.

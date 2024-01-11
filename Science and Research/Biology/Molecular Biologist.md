@@ -2,6 +2,8 @@
 
 Welcome to the Molecular Biologist Interview Preparation ! This resource is designed to help you ace your Molecular Biologist interviews with confidence.
 
+A Molecular Biologist is a professional who conducts research and studies at the cellular and molecular level to understand biological processes. They utilize advanced techniques and technologies to analyze DNA, RNA, and proteins to gain insights into the structure and function of living organisms. Molecular Biologists play a crucial role in various fields such as medicine, agriculture, and environmental science. They work in laboratories, collaborating with other scientists to investigate and solve complex biological problems. Their research findings contribute to advancements in genetics, genomics, and biotechnology, aiding in the development of new drugs, therapies, and diagnostic tools. A career as a Molecular Biologist offers exciting opportunities to contribute to the understanding and improvement of living organisms.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Molecular Biologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Molecular Biologist interviews to help you prepare and succeed.

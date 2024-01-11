@@ -2,6 +2,8 @@
 
 Welcome to the Senior Software Developer Interview Preparation ! This resource is designed to help you ace your Senior Software Developer interviews with confidence.
 
+A Senior Software Developer is a highly skilled professional in the field of Information Technology (IT) and Software Development. They play a crucial role in designing, developing, and implementing software solutions for various organizations. With their extensive knowledge of programming languages, frameworks, and tools, Senior Software Developers are responsible for writing efficient and reliable code that meets the specific requirements of clients or end-users. They work closely with project managers, software architects, and other team members to analyze user needs, design software solutions, and ensure the successful delivery of high-quality products. Senior Software Developers also mentor and guide junior developers, provide technical expertise, and stay updated with the latest industry trends and advancements.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Senior Software Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Senior Software Developer interviews to help you prepare and succeed.

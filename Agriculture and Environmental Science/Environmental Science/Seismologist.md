@@ -2,6 +2,8 @@
 
 Welcome to the Seismologist Interview Preparation ! This resource is designed to help you ace your Seismologist interviews with confidence.
 
+Agriculture and Environmental Science are two interconnected fields that play a crucial role in sustaining the environment and ensuring food security. Agriculture focuses on the cultivation of crops, livestock rearing, and resource management to produce food and other agricultural products. On the other hand, Environmental Science deals with the study of the natural environment, its components, and the impact of human activities on it. Within Environmental Science, one fascinating job is that of a Seismologist. Seismologists are scientists who specialize in studying earthquakes and seismic activities. They analyze seismic data, monitor seismic activity, and provide vital information to governments, industries, and communities to mitigate risks and ensure public safety.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Seismologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Seismologist interviews to help you prepare and succeed.

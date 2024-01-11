@@ -2,6 +2,8 @@
 
 Welcome to the Test Engineer (Mechanical) Interview Preparation ! This resource is designed to help you ace your Test Engineer (Mechanical) interviews with confidence.
 
+A Test Engineer (Mechanical) is a highly skilled professional within the field of mechanical engineering. They play a crucial role in ensuring the quality and reliability of mechanical components and systems. The primary responsibility of a Test Engineer (Mechanical) is to design, develop, and execute tests to assess the performance, functionality, and durability of mechanical products or systems. They utilize various testing methods, tools, and equipment to analyze and interpret test results accurately. Test Engineers (Mechanical) work closely with design engineers to identify and resolve any issues or defects found during testing. This role requires excellent problem-solving skills, attention to detail, and a strong understanding of mechanical principles.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Test Engineer (Mechanical) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Test Engineer (Mechanical) interviews to help you prepare and succeed.

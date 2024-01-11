@@ -2,6 +2,8 @@
 
 Welcome to the Geriatric Physical Therapist Interview Preparation ! This resource is designed to help you ace your Geriatric Physical Therapist interviews with confidence.
 
+A Geriatric Physical Therapist plays a vital role in the field of healthcare and medicine. With a focus on the elderly population, they help improve the mobility, strength, and overall physical well-being of older adults. These professionals work closely with geriatric patients, assessing their physical conditions and developing personalized treatment plans to address their specific needs. Geriatric Physical Therapists often provide rehabilitation services to individuals recovering from surgery, managing chronic conditions, or dealing with age-related physical limitations. They may use a variety of techniques such as exercise, manual therapy, and assistive devices to enhance mobility, relieve pain, and increase independence in daily activities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Geriatric Physical Therapist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Geriatric Physical Therapist interviews to help you prepare and succeed.

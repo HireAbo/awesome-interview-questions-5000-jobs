@@ -2,6 +2,8 @@
 
 Welcome to the Trend Analyst Interview Preparation ! This resource is designed to help you ace your Trend Analyst interviews with confidence.
 
+A Trend Analyst in the field of Fashion Design plays a pivotal role in predicting and interpreting the latest trends in the fashion industry. This career path combines the realms of art, design, and consumer behavior to forecast upcoming fashion trends. Trend Analysts closely observe fashion shows, street styles, social media, and cultural influences to identify emerging patterns and themes. They analyze colors, fabrics, textures, silhouettes, and accessories to understand the direction of future fashion trends. By providing valuable insights and guidance, Trend Analysts enable fashion designers, retailers, and brands to stay ahead of the curve and create collections that resonate with consumers' evolving tastes and preferences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Trend Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Trend Analyst interviews to help you prepare and succeed.

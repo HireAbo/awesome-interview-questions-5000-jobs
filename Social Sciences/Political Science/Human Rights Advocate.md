@@ -2,6 +2,8 @@
 
 Welcome to the Human Rights Advocate Interview Preparation ! This resource is designed to help you ace your Human Rights Advocate interviews with confidence.
 
+A human rights advocate, within the realm of Political Science, plays a crucial role in advancing and protecting the fundamental rights and freedoms of individuals and communities. This profession involves extensive research, analysis, and activism to address human rights violations, discrimination, and social injustices. Human rights advocates work tirelessly to promote equality, justice, and fairness across various platforms, such as lobbying governments, engaging with international organizations, and raising awareness through campaigns. They strive to ensure that the principles of human rights are upheld and respected in all aspects of society, serving as a voice for the marginalized and vulnerable populations, and driving positive change towards a more equitable world.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Human Rights Advocate or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Human Rights Advocate interviews to help you prepare and succeed.

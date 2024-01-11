@@ -2,6 +2,8 @@
 
 Welcome to the Employee Relations Manager Interview Preparation ! This resource is designed to help you ace your Employee Relations Manager interviews with confidence.
 
+An Employee Relations Manager is a vital role in the field of Human Resources, responsible for overseeing the relationship between the organization and its employees. This position requires a deep understanding of employment laws, company policies, and best practices to ensure a positive and productive work environment. Employee Relations Managers are responsible for handling employee grievances, mediating conflicts, and providing guidance and support to both employees and management. They play a crucial role in maintaining employee satisfaction and engagement, as well as ensuring compliance with labor laws and regulations. Strong communication, problem-solving, and interpersonal skills are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Employee Relations Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Employee Relations Manager interviews to help you prepare and succeed.

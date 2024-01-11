@@ -2,6 +2,8 @@
 
 Welcome to the Clinical Nurse Specialist (CNS) Interview Preparation ! This resource is designed to help you ace your Clinical Nurse Specialist (CNS) interviews with confidence.
 
+The Clinical Nurse Specialist (CNS) is a vital role within the healthcare and medicine field, specifically within nursing. As an advanced practice nurse, the CNS possesses specialized knowledge and expertise in a specific area of healthcare, such as pediatrics, geriatrics, or oncology. They work closely with patients, families, and healthcare teams to provide comprehensive care and improve patient outcomes. The CNS is responsible for diagnosing and treating complex health conditions, developing and implementing care plans, conducting research, and providing education and support to patients and their families. Their role is crucial in bridging the gap between research and clinical practice, ensuring evidence-based care delivery.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Clinical Nurse Specialist (CNS) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Clinical Nurse Specialist (CNS) interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Piping Engineer Interview Preparation ! This resource is designed to help you ace your Piping Engineer interviews with confidence.
 
+A Piping Engineer is a specialized Mechanical Engineer who focuses on designing, constructing, and maintaining piping systems for various industries. Their primary responsibility is to ensure the safe and efficient transfer of fluids, gases, and other materials within a facility or plant. Piping Engineers work closely with other engineers, designers, and project managers to develop detailed plans and specifications for piping systems, considering factors such as pressure, flow rate, material compatibility, and structural integrity. They also conduct feasibility studies, perform calculations, and use computer-aided design (CAD) software to create and modify piping layouts. Additionally, Piping Engineers oversee installation, testing, and maintenance activities to ensure compliance with industry standards and regulations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Piping Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Piping Engineer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Archives Compliance Officer Interview Preparation ! This resource is designed to help you ace your Archives Compliance Officer interviews with confidence.
 
+Library and Information Science (LIS) is a multidisciplinary field that encompasses the management, organization, and dissemination of information in various formats. Within LIS, archiving plays a crucial role in preserving and providing access to historical records and cultural heritage. The Archives Compliance Officer is a key position within the archiving sector, responsible for ensuring that archival institutions adhere to legal and ethical standards. This role involves overseeing the implementation of policies and procedures related to records management, acquisition, appraisal, preservation, and access. The Archives Compliance Officer also conducts regular audits, trains staff on best practices, and collaborates with stakeholders to promote compliance with archival principles and guidelines.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Archives Compliance Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Archives Compliance Officer interviews to help you prepare and succeed.

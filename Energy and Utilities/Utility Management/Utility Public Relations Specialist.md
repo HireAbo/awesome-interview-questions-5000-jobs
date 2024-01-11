@@ -2,6 +2,8 @@
 
 Welcome to the Utility Public Relations Specialist Interview Preparation ! This resource is designed to help you ace your Utility Public Relations Specialist interviews with confidence.
 
+A Utility Public Relations Specialist is a professional responsible for managing the public image and communication strategies of energy and utility companies. These specialists play a crucial role in shaping public perception and ensuring effective communication between the utility company and its stakeholders. They develop and implement PR campaigns to promote the utility's services, projects, and initiatives. Additionally, they handle media relations, press releases, and crisis communication to manage any potential negative publicity. Utility Public Relations Specialists also collaborate with internal teams to create content for websites, social media platforms, and other communication channels. Their objective is to build and maintain a positive reputation for the utility company in the eyes of the public and key stakeholders.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Utility Public Relations Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Utility Public Relations Specialist interviews to help you prepare and succeed.

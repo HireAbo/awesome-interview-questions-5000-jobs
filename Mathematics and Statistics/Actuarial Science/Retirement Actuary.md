@@ -2,6 +2,8 @@
 
 Welcome to the Retirement Actuary Interview Preparation ! This resource is designed to help you ace your Retirement Actuary interviews with confidence.
 
+Mathematics and Statistics are essential fields that provide the foundation for Actuarial Science. Actuarial Science combines mathematical and statistical methods to assess and manage financial risks in various sectors, including insurance and retirement planning. A Retirement Actuary is a specialized professional who focuses on assessing and managing financial risks related to retirement plans. They use their expertise in mathematical modeling, statistical analysis, and data interpretation to design and evaluate pension plans, assess funding requirements, and ensure the long-term sustainability of retirement benefits. Their work involves forecasting future pension liabilities, analyzing investment strategies, and advising on retirement plan design to ensure individuals can enjoy a secure and comfortable retirement.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Retirement Actuary or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Retirement Actuary interviews to help you prepare and succeed.

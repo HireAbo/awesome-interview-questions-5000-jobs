@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Investment Advisor Interview Preparation ! This resource is designed to help you ace your Real Estate Investment Advisor interviews with confidence.
 
+A Real Estate Investment Advisor is a professional who specializes in assisting clients in making informed decisions relating to real estate investments. They possess extensive knowledge and expertise in the real estate market and provide valuable insights and guidance to clients looking to invest in properties. These advisors conduct thorough market research, analyze trends, and evaluate potential risks and returns to recommend suitable investment options. They also offer advice on property management strategies, optimizing property value, and generating rental income. Their role involves creating personalized investment plans, negotiating deals, and ensuring clients make sound financial decisions to maximize their returns in the real estate market.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Investment Advisor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Investment Advisor interviews to help you prepare and succeed.

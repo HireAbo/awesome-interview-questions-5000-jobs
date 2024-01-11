@@ -2,6 +2,8 @@
 
 Welcome to the Nuclear Energy Analyst Interview Preparation ! This resource is designed to help you ace your Nuclear Energy Analyst interviews with confidence.
 
+A Nuclear Energy Analyst is a professional responsible for analyzing and evaluating various aspects of nuclear energy and its impact on utilities and energy markets. They are experts in assessing the economic, environmental, and social implications of nuclear energy projects. Their key role is to provide insights and recommendations on nuclear energy policies, investments, and strategies to optimize resource allocation and enhance sustainability. Nuclear Energy Analysts conduct extensive research, collect data, and utilize specialized software to model and forecast energy market trends, evaluate nuclear power plants' performance, and assess the potential risks and benefits of nuclear energy. They play a crucial role in shaping the future of nuclear power by providing valuable insights to policymakers, energy companies, and stakeholders.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nuclear Energy Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nuclear Energy Analyst interviews to help you prepare and succeed.

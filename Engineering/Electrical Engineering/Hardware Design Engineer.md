@@ -2,6 +2,12 @@
 
 Welcome to the Hardware Design Engineer Interview Preparation ! This resource is designed to help you ace your Hardware Design Engineer interviews with confidence.
 
+A Hardware Design Engineer in Electrical Engineering is a professional responsible for designing and developing hardware components and systems for various electronic devices. They are involved in all stages of the product lifecycle, from conceptualization and design to testing and manufacturing. 
+
+Hardware Design Engineers use their expertise in electrical engineering principles, computer-aided design (CAD) tools, and knowledge of electronic components to create innovative and efficient hardware designs. They collaborate with cross-functional teams, including software engineers and project managers, to ensure seamless integration of hardware and software systems. 
+
+This role requires strong analytical and problem-solving skills, as well as a deep understanding of electrical circuits, signal processing, and digital systems. Hardware Design Engineers play a crucial role in shaping the technological advancements in various industries, such as telecommunications, automotive, and consumer electronics.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Hardware Design Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Hardware Design Engineer interviews to help you prepare and succeed.

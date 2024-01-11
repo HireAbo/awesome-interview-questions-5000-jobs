@@ -2,6 +2,8 @@
 
 Welcome to the Prosecutor Interview Preparation ! This resource is designed to help you ace your Prosecutor interviews with confidence.
 
+A prosecutor is a legal professional who represents the government in criminal cases and is responsible for seeking justice for victims and society as a whole. They play a crucial role in the criminal justice system by investigating crimes, gathering evidence, and presenting their case in court. Prosecutors assess the strength of the evidence and determine whether to charge individuals with a crime. They also negotiate plea bargains, conduct trials, and advocate for appropriate sentencing. In addition, prosecutors work closely with law enforcement agencies, victims, witnesses, and defense attorneys to ensure a fair and impartial trial. A successful prosecutor must possess strong analytical, communication, and courtroom skills while upholding the principles of ethics and justice.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Prosecutor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Prosecutor interviews to help you prepare and succeed.

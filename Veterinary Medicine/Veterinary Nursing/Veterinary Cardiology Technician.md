@@ -2,6 +2,12 @@
 
 Welcome to the Veterinary Cardiology Technician Interview Preparation ! This resource is designed to help you ace your Veterinary Cardiology Technician interviews with confidence.
 
+Veterinary Medicine is a branch of healthcare that focuses on the diagnosis, treatment, and prevention of diseases and injuries in animals. Within this field, Veterinary Nursing plays a crucial role in providing comprehensive care to animals. Veterinary Nurses assist veterinarians in surgeries, administer medications, provide post-operative care, and educate pet owners on proper animal care.
+
+In the specialized field of Veterinary Cardiology, technicians play a vital role in diagnosing and treating heart-related conditions in animals. Veterinary Cardiology Technicians are trained to perform electrocardiograms, echocardiograms, and assist in cardiac procedures. They also monitor anesthesia during surgeries and provide post-operative care specific to cardiac patients.
+
+Overall, Veterinary Cardiology Technicians play a crucial role in ensuring the well-being and health of animals with heart conditions, working alongside veterinarians to provide the best possible care.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Veterinary Cardiology Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Veterinary Cardiology Technician interviews to help you prepare and succeed.

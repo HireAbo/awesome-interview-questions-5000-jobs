@@ -2,6 +2,8 @@
 
 Welcome to the Clinical Research Administrator Interview Preparation ! This resource is designed to help you ace your Clinical Research Administrator interviews with confidence.
 
+A Clinical Research Administrator plays a crucial role in the field of healthcare and medicine, specifically in medical research. They are responsible for managing and overseeing the administrative aspects of clinical trials and research studies. This includes coordinating with various stakeholders such as physicians, nurses, pharmaceutical companies, and regulatory bodies to ensure the smooth execution of research protocols. Clinical Research Administrators also handle tasks like budgeting, contract negotiations, and maintaining compliance with ethical and regulatory guidelines. They play a vital role in advancing medical knowledge and improving patient care by ensuring the successful implementation of clinical research studies and trials.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Clinical Research Administrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Clinical Research Administrator interviews to help you prepare and succeed.

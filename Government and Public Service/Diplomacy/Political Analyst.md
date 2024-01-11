@@ -2,6 +2,8 @@
 
 Welcome to the Political Analyst Interview Preparation ! This resource is designed to help you ace your Political Analyst interviews with confidence.
 
+Government and Public Service encompass a broad range of roles aimed at serving the public and ensuring the smooth functioning of a country's political system. Within this field, Diplomacy plays a crucial role in managing international relations and promoting cooperation between nations. As part of this discipline, Political Analysts play a vital role in assessing and interpreting political trends, analyzing policy decisions, and providing valuable insights to policymakers. Political Analysts utilize their expertise in political science and research methodologies to offer objective analysis on domestic and international issues, helping governments make informed decisions. Their work involves monitoring political developments, conducting in-depth research, and providing recommendations to shape foreign policies and enhance diplomatic relations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Political Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Political Analyst interviews to help you prepare and succeed.

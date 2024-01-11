@@ -2,6 +2,8 @@
 
 Welcome to the Quantitative Assessment Specialist Interview Preparation ! This resource is designed to help you ace your Quantitative Assessment Specialist interviews with confidence.
 
+A Quantitative Assessment Specialist is a professional who specializes in utilizing mathematical and statistical methods to assess and analyze data. This job involves conducting quantitative research, designing experiments, and developing models to evaluate various aspects of a business or organization. The specialist applies their expertise in mathematics and statistics to gather and interpret data, identify patterns, and make informed decisions. They work closely with teams to provide insights and recommendations for improvements, risk assessments, and performance evaluations. A Quantitative Assessment Specialist plays a crucial role in helping organizations make data-driven decisions, optimize processes, and drive growth. Strong analytical skills, attention to detail, and proficiency in statistical software are essential for success in this job.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Quantitative Assessment Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Quantitative Assessment Specialist interviews to help you prepare and succeed.

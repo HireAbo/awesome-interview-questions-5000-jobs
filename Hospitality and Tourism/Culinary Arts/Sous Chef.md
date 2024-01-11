@@ -2,6 +2,8 @@
 
 Welcome to the Sous Chef Interview Preparation ! This resource is designed to help you ace your Sous Chef interviews with confidence.
 
+Hospitality and Tourism is a thriving industry that encompasses various sectors, including Culinary Arts. Culinary Arts is an integral part of the hospitality and tourism industry, offering a range of career opportunities for individuals passionate about food and cooking. One such role within the culinary arts field is that of a Sous Chef. A Sous Chef is a skilled and experienced professional who works alongside the head chef in a kitchen, supervising the preparation and cooking of food. They are responsible for managing kitchen staff, ensuring the quality and presentation of dishes, and assisting with menu planning and ordering supplies. A Sous Chef plays a vital role in maintaining the efficiency and success of a culinary establishment, contributing to the overall guest experience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sous Chef or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sous Chef interviews to help you prepare and succeed.

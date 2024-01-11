@@ -2,6 +2,8 @@
 
 Welcome to the TypeScript Developer Interview Preparation ! This resource is designed to help you ace your TypeScript Developer interviews with confidence.
 
+A TypeScript Developer is a professional specializing in software development using TypeScript, a statically typed superset of JavaScript. They possess a deep understanding of software development principles and use TypeScript to build robust and scalable applications. TypeScript Developers are responsible for writing clean and efficient code, designing and implementing software solutions, debugging and troubleshooting issues, and collaborating with cross-functional teams to deliver high-quality products. They have expertise in front-end and/or back-end development, and are proficient in frameworks such as Angular or React. Additionally, TypeScript Developers stay updated with the latest industry trends, contribute to open-source projects, and continuously enhance their skills to deliver innovative and cutting-edge software solutions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned TypeScript Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in TypeScript Developer interviews to help you prepare and succeed.

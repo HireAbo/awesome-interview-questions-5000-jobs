@@ -2,6 +2,8 @@
 
 Welcome to the Research Assistant Interview Preparation ! This resource is designed to help you ace your Research Assistant interviews with confidence.
 
+Veterinary Medicine is a specialized field that focuses on the health and well-being of animals. Within this domain, Veterinary Research plays a crucial role in advancing our understanding of animal diseases, treatments, and preventive measures. As a Research Assistant in Veterinary Medicine, your responsibilities may include assisting in the design and implementation of research studies, collecting and analyzing data, and contributing to scientific publications. You will work closely with veterinarians, scientists, and other professionals to investigate new diagnostic tools, therapies, and interventions. This role requires strong analytical skills, attention to detail, and a passion for improving animal health outcomes through evidence-based research.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Research Assistant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Research Assistant interviews to help you prepare and succeed.

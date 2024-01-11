@@ -2,6 +2,8 @@
 
 Welcome to the Business Analyst Interview Preparation ! This resource is designed to help you ace your Business Analyst interviews with confidence.
 
+Mathematics and statistics play a crucial role in the field of business analysis. Business analysts utilize statistical techniques and mathematical models to analyze and interpret large datasets, identify trends, and make informed business decisions. They collect and analyze data on various business aspects including sales, customer behavior, market trends, and financial performance. Through their expertise in statistics, business analysts are able to identify patterns, correlations, and outliers within the data to derive valuable insights. These insights help businesses optimize their operations, improve efficiency, and increase profitability. Overall, mathematical and statistical skills are essential for business analysts to effectively analyze and interpret data, and contribute to the success of a business.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Business Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Business Analyst interviews to help you prepare and succeed.

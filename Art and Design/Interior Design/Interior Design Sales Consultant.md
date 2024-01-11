@@ -2,6 +2,8 @@
 
 Welcome to the Interior Design Sales Consultant Interview Preparation ! This resource is designed to help you ace your Interior Design Sales Consultant interviews with confidence.
 
+An Interior Design Sales Consultant plays a pivotal role in bridging the gap between art and design, creating aesthetically pleasing and functional spaces for clients. This role involves understanding the client's requirements, preferences, and budget to propose innovative interior design solutions. The consultant collaborates with architects, contractors, and suppliers to source the necessary materials and furniture, ensuring the project aligns with the client's vision. Their expertise lies in transforming spaces by selecting appropriate color schemes, textures, lighting, and furnishings. With excellent communication and interpersonal skills, an Interior Design Sales Consultant builds strong relationships with clients, providing exceptional customer service and guidance throughout the design process. Their passion for art and design allows them to create visually appealing environments that enhance the quality of life for individuals and businesses alike.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Interior Design Sales Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Interior Design Sales Consultant interviews to help you prepare and succeed.

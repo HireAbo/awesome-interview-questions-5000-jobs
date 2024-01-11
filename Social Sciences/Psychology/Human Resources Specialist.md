@@ -2,6 +2,8 @@
 
 Welcome to the Human Resources Specialist Interview Preparation ! This resource is designed to help you ace your Human Resources Specialist interviews with confidence.
 
+A Human Resources Specialist in the field of Psychology plays a crucial role in ensuring the well-being and success of an organization's employees. They apply principles of social sciences to understand human behavior and promote a positive work environment. These specialists are responsible for recruiting and selecting the right candidates, conducting interviews, and managing employee relations. They also design and implement training programs, performance evaluation systems, and employee development initiatives. Human Resources Specialists in Psychology utilize their knowledge of psychology to address workplace issues, resolve conflicts, and foster employee motivation and engagement. Their expertise in social sciences allows them to create a harmonious and productive workplace that benefits both the organization and its employees.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Human Resources Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Human Resources Specialist interviews to help you prepare and succeed.

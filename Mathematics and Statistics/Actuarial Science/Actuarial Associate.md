@@ -2,6 +2,8 @@
 
 Welcome to the Actuarial Associate Interview Preparation ! This resource is designed to help you ace your Actuarial Associate interviews with confidence.
 
+Mathematics and Statistics are two interconnected fields that play a vital role in understanding and analyzing data. Mathematics involves the study of numbers, quantities, and shapes, while Statistics focuses on collecting, analyzing, and interpreting data. Combining these disciplines, Actuarial Science utilizes mathematical and statistical techniques to assess and manage risk in various industries, particularly in insurance and finance. Actuarial Associates are professionals who specialize in this field, responsible for conducting complex mathematical and statistical analyses to assess the probability of future events and their financial implications. They play a crucial role in helping organizations make informed decisions, develop risk management strategies, and ensure financial stability.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Actuarial Associate or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Actuarial Associate interviews to help you prepare and succeed.

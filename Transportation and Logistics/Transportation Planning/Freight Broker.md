@@ -2,6 +2,8 @@
 
 Welcome to the Freight Broker Interview Preparation ! This resource is designed to help you ace your Freight Broker interviews with confidence.
 
+A Freight Broker plays a crucial role in the Transportation and Logistics industry, specifically in Transportation Planning. They act as intermediaries between shippers and carriers, ensuring the smooth movement of goods from one location to another. Freight Brokers are responsible for coordinating and arranging transportation services for their clients, negotiating rates, and selecting carriers that best meet their needs. They handle all the logistics, paperwork, and documentation required for the transportation process, including tracking shipments and ensuring timely delivery. With their expertise in the industry, Freight Brokers help optimize routes, minimize costs, and ensure efficient transportation planning, making them an invaluable asset in the field of Transportation and Logistics.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Freight Broker or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Freight Broker interviews to help you prepare and succeed.

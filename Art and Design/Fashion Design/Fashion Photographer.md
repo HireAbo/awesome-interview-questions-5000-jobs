@@ -2,6 +2,8 @@
 
 Welcome to the Fashion Photographer Interview Preparation ! This resource is designed to help you ace your Fashion Photographer interviews with confidence.
 
+Fashion photography is a captivating field within the realm of art and design, focusing on capturing and showcasing clothing and accessories in the most visually appealing and innovative manner. A fashion photographer's job is to collaborate with designers, models, and stylists to create stunning visual narratives that communicate the essence of a brand or collection. They possess a keen eye for aesthetics, mastering the art of composition, lighting, and storytelling through their lens. Fashion photographers play a significant role in shaping trends, as their images have the power to inspire and influence the fashion industry. Their work is showcased in magazines, advertisements, and social media platforms, making them pivotal in the world of fashion.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Fashion Photographer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Fashion Photographer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Public Relations Analyst Interview Preparation ! This resource is designed to help you ace your Public Relations Analyst interviews with confidence.
 
+A Public Relations Analyst is a professional responsible for managing the communication and media strategies of an organization. They play a crucial role in shaping public perception and maintaining a positive image for their clients. These professionals analyze public opinion, monitor media coverage, and craft effective messaging to promote their clients' goals and objectives. They conduct research to identify target audiences and develop strategic communication plans to engage and influence them. Public Relations Analysts also work closely with media outlets, journalists, and key stakeholders to ensure accurate and favorable coverage. They possess excellent communication, writing, and research skills, along with a deep understanding of public relations principles and media landscape.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Public Relations Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Public Relations Analyst interviews to help you prepare and succeed.

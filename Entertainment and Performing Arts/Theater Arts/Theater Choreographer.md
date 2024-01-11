@@ -2,6 +2,8 @@
 
 Welcome to the Theater Choreographer Interview Preparation ! This resource is designed to help you ace your Theater Choreographer interviews with confidence.
 
+A Theater Choreographer is a skilled professional who is responsible for creating and coordinating dance routines, movements, and sequences in theatrical productions. They work closely with the director, actors, and other members of the creative team to develop and enhance the overall visual and emotional impact of the performance. Theater Choreographers possess a deep understanding of various dance styles, music, and storytelling techniques. They collaborate with the cast to teach and rehearse the choreography, ensuring that the movements are executed precisely and seamlessly. Their role is crucial in bringing a production to life, adding dynamic elements and captivating audiences through expressive and well-coordinated dance performances.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Theater Choreographer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Theater Choreographer interviews to help you prepare and succeed.

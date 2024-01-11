@@ -2,6 +2,8 @@
 
 Welcome to the Textile Designer Interview Preparation ! This resource is designed to help you ace your Textile Designer interviews with confidence.
 
+A Textile Designer is a professional who combines creativity, artistry, and technical skills to create innovative and visually appealing textiles for various applications in the fashion industry. They are responsible for designing and developing patterns, prints, and textures for fabrics used in clothing, accessories, and home furnishings. Textile Designers work closely with fashion designers, manufacturers, and clients to understand their requirements and translate them into unique textile designs. They utilize a range of techniques such as drawing, painting, digital design, and fabric manipulation to create visually stunning and commercially viable designs. A successful Textile Designer possesses a keen eye for color, pattern, and texture, along with strong research and trend analysis skills.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Textile Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Textile Designer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Lab Technician Interview Preparation ! This resource is designed to help you ace your Lab Technician interviews with confidence.
 
+A Lab Technician job in the field of Chemistry involves conducting experiments, analyzing chemical substances, and assisting scientists and researchers in their investigations. These professionals play a crucial role in advancing scientific knowledge and innovation through their meticulous work in laboratories. Lab Technicians are responsible for preparing and setting up equipment, collecting and testing samples, recording and interpreting data, and maintaining lab safety protocols. They collaborate with scientists to develop and refine research methodologies, troubleshoot experimental issues, and ensure accuracy and reliability of results. A strong understanding of chemical principles, excellent analytical skills, attention to detail, and adherence to strict protocols are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Lab Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Lab Technician interviews to help you prepare and succeed.

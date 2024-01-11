@@ -2,6 +2,8 @@
 
 Welcome to the Taekwondo Instructor Interview Preparation ! This resource is designed to help you ace your Taekwondo Instructor interviews with confidence.
 
+A Taekwondo Instructor is a highly skilled and experienced professional who teaches and trains individuals in the Korean martial art of Taekwondo. As a coach in the field of sports and athletics, their main role is to guide and mentor students in developing their physical abilities, self-discipline, and mental focus. They design training programs, conduct classes, and provide personalized instruction to students of all ages and skill levels. Taekwondo Instructors also play a crucial role in promoting teamwork, respect, and sportsmanship among their students. They possess a deep knowledge of Taekwondo techniques, rules, and strategies, and are dedicated to helping individuals reach their full potential in this combat sport.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Taekwondo Instructor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Taekwondo Instructor interviews to help you prepare and succeed.

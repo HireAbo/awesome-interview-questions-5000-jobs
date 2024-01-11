@@ -2,6 +2,8 @@
 
 Welcome to the Researcher Interview Preparation ! This resource is designed to help you ace your Researcher interviews with confidence.
 
+A researcher in the field of journalism plays a crucial role in the communication and media industry. As a researcher, their primary responsibility is to gather and analyze data to support news stories and journalistic investigations. They work closely with journalists, editors, and producers to provide accurate and reliable information. Through extensive research, they ensure that news stories are well-grounded and based on factual evidence. They conduct interviews, collect data, and study various sources to uncover hidden truths and provide insights into complex issues. Researchers in journalism contribute to the credibility and integrity of the media by ensuring that news stories are thoroughly researched and backed by reliable sources.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Researcher interviews to help you prepare and succeed.

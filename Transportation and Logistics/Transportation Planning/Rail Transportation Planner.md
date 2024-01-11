@@ -2,6 +2,8 @@
 
 Welcome to the Rail Transportation Planner Interview Preparation ! This resource is designed to help you ace your Rail Transportation Planner interviews with confidence.
 
+A Rail Transportation Planner is responsible for coordinating and planning the movement of goods and passengers via rail. They analyze transportation needs and develop efficient rail transportation plans that meet the requirements of both businesses and consumers. This role involves collaborating with various stakeholders, including rail operators, government agencies, and clients, to ensure the smooth flow of goods and passengers. Rail Transportation Planners use their expertise in logistics and transportation to optimize routes, schedules, and resources, minimizing cost and maximizing efficiency. They also monitor and evaluate the performance of rail operations, identifying areas for improvement and implementing necessary changes to enhance overall transportation systems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Rail Transportation Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Rail Transportation Planner interviews to help you prepare and succeed.

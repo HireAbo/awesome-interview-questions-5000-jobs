@@ -2,6 +2,8 @@
 
 Welcome to the Logistics Supervisor Interview Preparation ! This resource is designed to help you ace your Logistics Supervisor interviews with confidence.
 
+A Logistics Supervisor plays a crucial role in the field of Transportation and Logistics, specifically in the area of Logistics Management. As a Logistics Supervisor, one is responsible for overseeing and coordinating the various activities involved in the transportation and distribution of goods. This includes managing and optimizing the supply chain, coordinating with vendors and suppliers, ensuring timely delivery of goods, and maintaining accurate inventory records. Additionally, a Logistics Supervisor is responsible for supervising a team of logistics coordinators and ensuring their adherence to quality standards and performance targets. Strong organizational and communication skills are essential in this role to effectively manage operations and ensure smooth and efficient logistical processes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Logistics Supervisor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Logistics Supervisor interviews to help you prepare and succeed.

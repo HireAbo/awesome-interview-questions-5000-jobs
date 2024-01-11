@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Engineer Interview Preparation ! This resource is designed to help you ace your Environmental Engineer interviews with confidence.
 
+Agriculture and Environmental Science are two interconnected fields that focus on the sustainable management of natural resources and the environment. Environmental Science encompasses the study of the environment, including the impact of human activities on ecosystems and the development of solutions to minimize this impact. Within this field, there is a specific job role known as an Environmental Engineer. Environmental Engineers are professionals who apply scientific and engineering principles to develop solutions that address environmental issues. They work on projects related to water and air pollution control, waste management, and sustainable development. Their work is crucial in ensuring a clean and healthy environment for current and future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Engineer interviews to help you prepare and succeed.

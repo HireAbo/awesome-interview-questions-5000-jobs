@@ -2,6 +2,8 @@
 
 Welcome to the Merchandise Subscription Box Manager Interview Preparation ! This resource is designed to help you ace your Merchandise Subscription Box Manager interviews with confidence.
 
+The role of a Merchandise Subscription Box Manager in Retail and Sales is a dynamic and exciting position that focuses on curating and delivering unique product experiences to customers through subscription boxes. As a Manager, you will be responsible for overseeing the entire process, from selecting the merchandise to coordinating packaging and shipping. This role requires a strong understanding of current market trends, as well as the ability to identify and source high-quality products that align with the brand's image and target audience. Additionally, you will collaborate with various teams such as marketing and customer service to ensure customer satisfaction and drive sales. The Merchandise Subscription Box Manager plays a vital role in enhancing customer engagement and loyalty, while also driving revenue for the business.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Merchandise Subscription Box Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Merchandise Subscription Box Manager interviews to help you prepare and succeed.

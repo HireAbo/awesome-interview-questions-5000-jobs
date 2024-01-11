@@ -2,6 +2,12 @@
 
 Welcome to the Data Science Ethics Officer Interview Preparation ! This resource is designed to help you ace your Data Science Ethics Officer interviews with confidence.
 
+Information Technology (IT) is a field that encompasses the use of computers, software, and networks to store, retrieve, transmit, and manipulate data. IT professionals are responsible for managing and securing data systems, developing software applications, and maintaining network infrastructure.
+
+Within the broader field of IT, Data Science is a specialized discipline that focuses on extracting insights and knowledge from large volumes of data. Data scientists use statistical analysis, machine learning algorithms, and programming languages to uncover patterns, trends, and correlations within data sets.
+
+As data-driven decision-making becomes increasingly important, organizations are recognizing the need for ethical considerations in data science practices. This has led to the emergence of the role of a Data Science Ethics Officer. This professional is responsible for ensuring that data science initiatives adhere to ethical guidelines, privacy regulations, and legal frameworks. They develop policies and procedures to govern data collection, usage, and sharing, and collaborate with stakeholders to address ethical dilemmas and mitigate potential risks. A Data Science Ethics Officer plays a crucial role in promoting responsible and accountable data science practices within organizations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Science Ethics Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Science Ethics Officer interviews to help you prepare and succeed.

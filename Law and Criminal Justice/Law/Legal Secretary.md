@@ -2,6 +2,8 @@
 
 Welcome to the Legal Secretary Interview Preparation ! This resource is designed to help you ace your Legal Secretary interviews with confidence.
 
+A legal secretary plays a crucial role in the Law and Criminal Justice field by providing essential administrative support to lawyers and legal professionals. This occupation requires a strong understanding of legal terminology, procedures, and documentation. Legal secretaries are responsible for preparing and drafting legal documents, such as briefs, contracts, and subpoenas, and organizing case files. They also manage communication with clients, schedule appointments, and assist with research and case preparation. Additionally, legal secretaries may attend court hearings and take minutes during meetings. This role demands exceptional organizational skills, attention to detail, and the ability to work efficiently in a fast-paced legal environment.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Legal Secretary or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Legal Secretary interviews to help you prepare and succeed.

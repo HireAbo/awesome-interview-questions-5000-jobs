@@ -2,6 +2,8 @@
 
 Welcome to the Environmental Geologist Interview Preparation ! This resource is designed to help you ace your Environmental Geologist interviews with confidence.
 
+Environmental geologists are professionals who specialize in studying the relationship between the Earth's geology and the environment. They play a crucial role in the field of environmental science by conducting research and assessments to understand and mitigate the impact of human activities on the natural world. They investigate various geological factors such as soil composition, groundwater flow, and the presence of hazardous substances to determine potential risks to ecosystems and human health. Environmental geologists also contribute to the development of sustainable solutions and policies to protect the environment and promote conservation efforts. Their work is vital in ensuring a balanced and sustainable coexistence between humans and the Earth's natural systems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Environmental Geologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Environmental Geologist interviews to help you prepare and succeed.

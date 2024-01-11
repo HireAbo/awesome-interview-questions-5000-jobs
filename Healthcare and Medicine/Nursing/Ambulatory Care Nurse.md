@@ -2,6 +2,8 @@
 
 Welcome to the Ambulatory Care Nurse Interview Preparation ! This resource is designed to help you ace your Ambulatory Care Nurse interviews with confidence.
 
+The role of an Ambulatory Care Nurse in the field of healthcare and medicine is crucial in providing comprehensive and efficient care to patients in an outpatient setting. These highly skilled nurses possess a diverse range of clinical knowledge and expertise to deliver quality healthcare services to individuals of all ages. Ambulatory Care Nurses work closely with physicians, assisting in various procedures, conducting assessments, administering medications, and providing education and support to patients and their families. They play a pivotal role in managing chronic conditions, promoting preventive care, and ensuring continuity of care. With their exceptional communication and critical thinking skills, Ambulatory Care Nurses are vital in delivering patient-centered and holistic care.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Ambulatory Care Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Ambulatory Care Nurse interviews to help you prepare and succeed.

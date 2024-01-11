@@ -2,6 +2,8 @@
 
 Welcome to the Mental Health Counselor Interview Preparation ! This resource is designed to help you ace your Mental Health Counselor interviews with confidence.
 
+Social Sciences encompass various disciplines, and one such field is Sociology, which examines human behavior and society. Within Sociology, Mental Health Counselors play a crucial role in supporting individuals struggling with mental health issues. These professionals are trained to provide mental health counseling to clients, helping them cope with emotional challenges, trauma, and mental disorders. Mental Health Counselors employ a range of therapeutic techniques to assist clients in understanding their emotions, developing coping strategies, and improving overall well-being. They may work in various settings such as hospitals, clinics, or private practices, offering guidance, support, and interventions to promote mental health and empower individuals to lead fulfilling lives.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Mental Health Counselor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Mental Health Counselor interviews to help you prepare and succeed.

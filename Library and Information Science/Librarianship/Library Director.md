@@ -2,6 +2,8 @@
 
 Welcome to the Library Director Interview Preparation ! This resource is designed to help you ace your Library Director interviews with confidence.
 
+Library and Information Science, commonly referred to as Librarianship, is a specialized field that revolves around the management, organization, and dissemination of information within library settings. A Library Director is a key professional in this field, responsible for overseeing the entire library system and ensuring its smooth operation. This role involves strategic planning, budget management, staff supervision, and the development of policies and procedures. A Library Director also plays a crucial role in engaging with the community, promoting library services, and fostering relationships with stakeholders. With a focus on providing access to knowledge, a Library Director plays a pivotal role in shaping the educational and cultural landscape of a community.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Library Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Library Director interviews to help you prepare and succeed.

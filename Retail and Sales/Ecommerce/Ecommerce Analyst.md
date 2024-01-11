@@ -2,6 +2,8 @@
 
 Welcome to the E-commerce Analyst Interview Preparation ! This resource is designed to help you ace your E-commerce Analyst interviews with confidence.
 
+The role of an E-commerce Analyst in the retail and sales sector is crucial for the success of online businesses. As an E-commerce Analyst, you would be responsible for analyzing and interpreting data related to e-commerce sales, customer behavior, and market trends. Your main objective would be to identify areas for improvement and develop strategies to optimize the online shopping experience, increase conversion rates, and drive sales. This may include conducting market research, monitoring website performance, analyzing customer feedback, and collaborating with cross-functional teams to implement effective e-commerce solutions. Strong analytical skills, knowledge of e-commerce platforms, and a deep understanding of consumer behavior are essential for excelling in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned E-commerce Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in E-commerce Analyst interviews to help you prepare and succeed.

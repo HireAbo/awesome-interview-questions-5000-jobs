@@ -2,6 +2,8 @@
 
 Welcome to the Cloud Billing Analyst Interview Preparation ! This resource is designed to help you ace your Cloud Billing Analyst interviews with confidence.
 
+A Cloud Billing Analyst is a professional who specializes in managing and analyzing the billing process for cloud computing services within an organization. In the realm of Information Technology (IT), cloud computing is a model that allows users to access and utilize shared computing resources and services over the internet. Cloud computing offers numerous advantages such as scalability, flexibility, and cost efficiency. However, tracking and managing the costs associated with cloud services can be challenging. This is where a Cloud Billing Analyst comes in. They are responsible for ensuring accurate and efficient billing processes, analyzing usage patterns, optimizing costs, and providing insights and recommendations to improve cost management strategies. A strong understanding of cloud technologies, financial analysis, and billing systems is crucial for this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cloud Billing Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cloud Billing Analyst interviews to help you prepare and succeed.

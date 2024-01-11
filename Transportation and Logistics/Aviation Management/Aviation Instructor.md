@@ -2,6 +2,8 @@
 
 Welcome to the Aviation Instructor Interview Preparation ! This resource is designed to help you ace your Aviation Instructor interviews with confidence.
 
+The job of an Aviation Instructor in the field of Transportation and Logistics is a crucial role within the aviation industry. Aviation Instructors are responsible for training and educating aspiring pilots, crew members, and aviation professionals. They play a vital role in ensuring that individuals possess the necessary knowledge, skills, and expertise to safely operate aircraft and navigate the complex airspace system. Aviation Instructors develop and deliver comprehensive training programs, including theoretical and practical lessons, simulators, and flight training. They also assess and evaluate the progress of students, provide guidance and support, and ensure compliance with aviation regulations and industry standards.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Aviation Instructor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Aviation Instructor interviews to help you prepare and succeed.

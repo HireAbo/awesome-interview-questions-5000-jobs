@@ -2,6 +2,8 @@
 
 Welcome to the Full Stack Web Developer Interview Preparation ! This resource is designed to help you ace your Full Stack Web Developer interviews with confidence.
 
+A Full Stack Web Developer is a professional in the field of Software Development within Information Technology (IT). This role involves designing, developing, and maintaining websites or web applications from front-end to back-end. A Full Stack Web Developer possesses a comprehensive understanding of both client-side and server-side technologies. They are proficient in programming languages such as HTML, CSS, JavaScript, and various frameworks like React, Angular, or Vue.js for the front-end. On the back-end, they are skilled in languages like PHP, Python, or Ruby, and are familiar with databases such as MySQL or MongoDB. Their expertise allows them to handle every aspect of web development, including user interface design, server management, and database optimization.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Full Stack Web Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Full Stack Web Developer interviews to help you prepare and succeed.

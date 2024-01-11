@@ -2,6 +2,8 @@
 
 Welcome to the Commercial Finance Manager Interview Preparation ! This resource is designed to help you ace your Commercial Finance Manager interviews with confidence.
 
+A Commercial Finance Manager plays a crucial role in the financial management of a business. They are responsible for overseeing and managing the financial operations related to commercial activities within an organization. This includes analyzing financial data, preparing budgets, forecasting revenues and costs, and ensuring financial compliance. The Commercial Finance Manager collaborates closely with other departments such as sales, marketing, and operations to develop financial strategies that support the organization's commercial goals. They also provide guidance and recommendations to senior management on financial decisions, risk management, and investment opportunities. This role requires strong analytical skills, attention to detail, and a deep understanding of finance and business principles.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Commercial Finance Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Commercial Finance Manager interviews to help you prepare and succeed.

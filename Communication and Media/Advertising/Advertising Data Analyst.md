@@ -2,6 +2,8 @@
 
 Welcome to the Advertising Data Analyst Interview Preparation ! This resource is designed to help you ace your Advertising Data Analyst interviews with confidence.
 
+The role of an Advertising Data Analyst in the field of Communication and Media focuses on analyzing advertising data to support strategic decision-making and improve campaign performance. As an Advertising Data Analyst, one is responsible for collecting, interpreting, and evaluating data related to advertising campaigns, consumer behavior, market trends, and competitor analysis. This includes utilizing various analytical tools and techniques to identify patterns, trends, and insights that can drive effective advertising strategies. Additionally, an Advertising Data Analyst collaborates with cross-functional teams to provide data-driven recommendations, optimize advertising budgets, measure campaign effectiveness, and contribute to the overall success of advertising campaigns. Strong analytical skills, attention to detail, and a solid understanding of advertising principles are essential for this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Advertising Data Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Advertising Data Analyst interviews to help you prepare and succeed.

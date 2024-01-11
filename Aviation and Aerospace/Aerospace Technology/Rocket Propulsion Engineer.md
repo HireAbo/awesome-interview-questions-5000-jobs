@@ -2,6 +2,8 @@
 
 Welcome to the Rocket Propulsion Engineer Interview Preparation ! This resource is designed to help you ace your Rocket Propulsion Engineer interviews with confidence.
 
+Aerospace technology has revolutionized the way we view and explore the world beyond Earth's atmosphere. At the forefront of this groundbreaking field are rocket propulsion engineers, who play a vital role in designing, testing, and improving rocket engines. These highly skilled professionals are responsible for developing innovative propulsion systems that enable spacecraft to overcome Earth's gravity and reach incredible speeds. Rocket propulsion engineers work tirelessly to optimize fuel efficiency, increase thrust, and ensure the safety and reliability of rocket engines. By pushing the boundaries of technology, they are instrumental in advancing space exploration and paving the way for future missions to the moon, Mars, and beyond.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Rocket Propulsion Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Rocket Propulsion Engineer interviews to help you prepare and succeed.

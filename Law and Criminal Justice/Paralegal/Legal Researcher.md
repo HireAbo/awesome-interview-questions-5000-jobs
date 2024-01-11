@@ -2,6 +2,8 @@
 
 Welcome to the Legal Researcher Interview Preparation ! This resource is designed to help you ace your Legal Researcher interviews with confidence.
 
+A Paralegal in the field of Law and Criminal Justice is an integral part of the legal team, responsible for providing support and assistance to attorneys and legal professionals. This role requires strong analytical and research skills, as the Paralegal is primarily focused on conducting detailed legal research. They gather and analyze information, review case files, statutes, and legal precedents to prepare reports, memos, and legal documents. Additionally, Paralegals may assist in drafting legal correspondences, organizing case files, scheduling appointments, and managing administrative tasks. Their contribution ensures that the legal team is well-informed and prepared, facilitating the smooth functioning of the legal process.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Legal Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Legal Researcher interviews to help you prepare and succeed.

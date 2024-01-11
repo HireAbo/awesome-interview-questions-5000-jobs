@@ -2,6 +2,8 @@
 
 Welcome to the Advocacy Coordinator Interview Preparation ! This resource is designed to help you ace your Advocacy Coordinator interviews with confidence.
 
+The role of an Advocacy Coordinator in the field of Nonprofit Management within Social Work and Human Services is crucial for initiating and implementing effective strategies to advocate for marginalized individuals and communities. As an Advocacy Coordinator, you will be responsible for coordinating and leading advocacy campaigns, lobbying efforts, and community outreach programs. Your main objective will be to raise awareness about social issues, promote social justice, and influence policy changes at local, regional, and national levels. This multifaceted role requires strong communication and interpersonal skills, as well as a deep understanding of social issues and the ability to mobilize resources and engage stakeholders to drive positive social change.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Advocacy Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Advocacy Coordinator interviews to help you prepare and succeed.

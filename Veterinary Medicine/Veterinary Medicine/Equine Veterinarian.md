@@ -2,6 +2,8 @@
 
 Welcome to the Equine Veterinarian Interview Preparation ! This resource is designed to help you ace your Equine Veterinarian interviews with confidence.
 
+Veterinary Medicine is a specialized field of medicine that focuses on the health and well-being of animals. Within this field, Equine Veterinarians play a crucial role in the care and treatment of horses. These professionals are responsible for diagnosing, treating, and preventing various illnesses and injuries that affect horses. Equine Veterinarians possess extensive knowledge of horse anatomy, physiology, and behavior, allowing them to provide comprehensive medical care. They perform routine check-ups, administer vaccinations, conduct surgeries, and provide emergency care when needed. Equine Veterinarians also work closely with horse owners and trainers to ensure optimal health and performance of these magnificent animals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Equine Veterinarian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Equine Veterinarian interviews to help you prepare and succeed.

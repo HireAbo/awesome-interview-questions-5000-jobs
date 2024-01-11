@@ -2,6 +2,8 @@
 
 Welcome to the Army Ranger Interview Preparation ! This resource is designed to help you ace your Army Ranger interviews with confidence.
 
+Government and Public Service encompasses a wide range of jobs and roles dedicated to serving and supporting the needs of the public. Among these, Military Service holds a special significance as it involves defending and protecting the nation's interests. The Army Rangers play a crucial role within the military, serving as an elite special operations force. Recognized for their exceptional physical and mental abilities, Army Rangers are highly trained to conduct missions in diverse environments, such as direct action raids, airfield seizure, reconnaissance, and counterterrorism operations. Their dedication, discipline, and unwavering commitment to duty make them an invaluable asset in safeguarding national security and upholding peace.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Army Ranger or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Army Ranger interviews to help you prepare and succeed.

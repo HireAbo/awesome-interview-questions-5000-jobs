@@ -2,6 +2,8 @@
 
 Welcome to the Sales Negotiation Coach Interview Preparation ! This resource is designed to help you ace your Sales Negotiation Coach interviews with confidence.
 
+A Sales Negotiation Coach is a professional who specializes in providing guidance and training to sales teams and individuals on effective negotiation techniques. They have a deep understanding of the sales process and are skilled in identifying and capitalizing on opportunities to maximize revenue and close deals successfully. Sales Negotiation Coaches are responsible for analyzing sales strategies, identifying areas for improvement, and developing tailored training programs to enhance negotiation skills. They work closely with sales professionals to improve their ability to understand customer needs, build relationships, and negotiate win-win outcomes. With their expertise, Sales Negotiation Coaches play a crucial role in driving sales growth and ensuring customer satisfaction in the retail and sales industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sales Negotiation Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sales Negotiation Coach interviews to help you prepare and succeed.

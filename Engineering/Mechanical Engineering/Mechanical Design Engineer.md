@@ -2,6 +2,8 @@
 
 Welcome to the Mechanical Design Engineer Interview Preparation ! This resource is designed to help you ace your Mechanical Design Engineer interviews with confidence.
 
+A Mechanical Design Engineer is a professional who specializes in creating and developing mechanical systems, products, and components. They play a crucial role in various industries, including automotive, aerospace, manufacturing, and energy. These engineers are responsible for designing, analyzing, and improving mechanical systems to ensure functionality, reliability, and efficiency. They use computer-aided design (CAD) software to create detailed models and blueprints, conduct simulations and tests to evaluate performance, and collaborate with cross-functional teams to ensure seamless integration of mechanical components. A Mechanical Design Engineer must possess strong problem-solving skills, in-depth knowledge of mechanical principles, and the ability to think critically and creatively to design innovative solutions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Mechanical Design Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Mechanical Design Engineer interviews to help you prepare and succeed.

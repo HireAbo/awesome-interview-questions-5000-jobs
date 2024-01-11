@@ -2,6 +2,8 @@
 
 Welcome to the Concrete Form Carpenter Interview Preparation ! This resource is designed to help you ace your Concrete Form Carpenter interviews with confidence.
 
+A Concrete Form Carpenter is a skilled tradesperson who specializes in constructing and assembling forms that hold freshly poured concrete in place until it hardens. These professionals play a crucial role in the construction industry as they ensure the structural integrity and accuracy of concrete structures such as foundations, walls, and slabs. Concrete Form Carpenters possess a wide range of skills including blueprint reading, measuring and cutting materials, shaping and fastening wooden or metal forms, and pouring and leveling concrete. They work closely with other construction professionals, such as architects and engineers, to ensure that the concrete structures meet the required specifications and standards. Overall, Concrete Form Carpenters are essential in creating durable and safe concrete structures.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Concrete Form Carpenter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Concrete Form Carpenter interviews to help you prepare and succeed.

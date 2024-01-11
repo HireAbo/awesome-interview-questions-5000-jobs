@@ -2,6 +2,8 @@
 
 Welcome to the Electrical Project Manager Interview Preparation ! This resource is designed to help you ace your Electrical Project Manager interviews with confidence.
 
+An Electrical Project Manager is a crucial role in the field of Electrical Engineering. They oversee and manage all aspects of electrical projects from inception to completion. This involves planning, coordinating, and executing various tasks related to electrical installations, maintenance, and upgrades. The Project Manager ensures that projects are completed on time, within budget, and meet the required quality standards. They are responsible for managing the project team, assigning tasks, and ensuring effective communication among team members and stakeholders. Additionally, they must possess strong technical knowledge, problem-solving skills, and the ability to interpret electrical blueprints and specifications. Overall, an Electrical Project Manager plays a vital role in ensuring the successful execution of electrical projects.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Electrical Project Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Electrical Project Manager interviews to help you prepare and succeed.

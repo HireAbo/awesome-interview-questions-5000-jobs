@@ -2,6 +2,8 @@
 
 Welcome to the Logistics Director Interview Preparation ! This resource is designed to help you ace your Logistics Director interviews with confidence.
 
+The role of a Logistics Director in Transportation and Logistics is crucial for the successful planning, coordination, and execution of all logistical operations within an organization. A Logistics Director is responsible for overseeing the entire supply chain process, from procurement to distribution, with the objective of optimizing efficiency and minimizing costs. They manage a team of logistics professionals, ensuring that all operations are carried out smoothly and in accordance with established procedures. Additionally, a Logistics Director is responsible for analyzing data, implementing strategies, and making informed decisions to improve overall logistics performance. This position requires excellent leadership skills, strong analytical capabilities, and a deep understanding of the industry's best practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Logistics Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Logistics Director interviews to help you prepare and succeed.

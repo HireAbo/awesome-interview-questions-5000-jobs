@@ -2,6 +2,8 @@
 
 Welcome to the Agricultural Equipment Sales Representative Interview Preparation ! This resource is designed to help you ace your Agricultural Equipment Sales Representative interviews with confidence.
 
+An Agricultural Equipment Sales Representative is a professional responsible for promoting and selling agricultural machinery and equipment to farmers, agricultural businesses, and other potential customers. They play a crucial role in the agriculture industry by providing the necessary tools and equipment required for efficient farming operations. These professionals possess in-depth knowledge of different types of agricultural equipment, such as tractors, harvesters, irrigation systems, and machinery used for planting and fertilizing crops. They work closely with customers to understand their specific needs and offer tailored solutions. An Agricultural Equipment Sales Representative must have excellent communication and negotiation skills to effectively communicate the benefits and features of the equipment they are selling.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Agricultural Equipment Sales Representative or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Agricultural Equipment Sales Representative interviews to help you prepare and succeed.

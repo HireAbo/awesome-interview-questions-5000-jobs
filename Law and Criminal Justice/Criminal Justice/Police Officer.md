@@ -2,6 +2,8 @@
 
 Welcome to the Police Officer Interview Preparation ! This resource is designed to help you ace your Police Officer interviews with confidence.
 
+A police officer is a crucial figure within the field of criminal justice. They play a vital role in maintaining law and order, ensuring public safety, and enforcing laws within their jurisdiction. Police officers are responsible for patrolling designated areas, responding to emergency calls, conducting investigations, and making arrests when necessary. They work closely with the community to build relationships and establish trust, aiming to prevent crime and protect citizens. A police officer must possess excellent communication and problem-solving skills, physical fitness, and the ability to work under pressure. Their dedication to upholding justice and serving their community makes them essential in the criminal justice system.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Police Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Police Officer interviews to help you prepare and succeed.

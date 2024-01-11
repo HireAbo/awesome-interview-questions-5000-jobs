@@ -2,6 +2,8 @@
 
 Welcome to the Biomedical Researcher Interview Preparation ! This resource is designed to help you ace your Biomedical Researcher interviews with confidence.
 
+A Biomedical Researcher plays a vital role in the field of healthcare and medicine. Their primary responsibility is to conduct scientific experiments and research studies to advance medical knowledge and develop effective treatments and therapies. These professionals work in laboratories and research facilities, where they analyze and interpret data, design and conduct experiments, and collaborate with other researchers and medical professionals. Biomedical Researchers contribute to the understanding of diseases, their causes, and potential treatments, with the ultimate goal of improving patient care and outcomes. Their work is crucial in finding innovative solutions and developing new drugs, medical devices, and therapies to combat various illnesses and enhance overall healthcare.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Biomedical Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Biomedical Researcher interviews to help you prepare and succeed.

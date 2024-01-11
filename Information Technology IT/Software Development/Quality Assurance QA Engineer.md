@@ -2,6 +2,8 @@
 
 Welcome to the Quality Assurance (QA) Engineer Interview Preparation ! This resource is designed to help you ace your Quality Assurance (QA) Engineer interviews with confidence.
 
+A Quality Assurance (QA) Engineer is a vital role in the field of Information Technology (IT) and Software Development. QA Engineers are responsible for ensuring the quality and reliability of software applications and systems. They work closely with the development team throughout the software development lifecycle to identify and resolve any defects or issues. QA Engineers are involved in designing and executing test plans, conducting various types of testing such as functional, regression, and performance testing, and documenting test results. Strong analytical skills, attention to detail, and the ability to troubleshoot and problem-solve are essential for a successful QA Engineer. Their role plays a crucial part in delivering high-quality software products to end-users.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Quality Assurance (QA) Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Quality Assurance (QA) Engineer interviews to help you prepare and succeed.

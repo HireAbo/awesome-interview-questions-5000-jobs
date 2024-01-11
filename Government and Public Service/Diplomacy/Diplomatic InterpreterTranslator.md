@@ -2,6 +2,8 @@
 
 Welcome to the Diplomatic Interpreter/Translator Interview Preparation ! This resource is designed to help you ace your Diplomatic Interpreter/Translator interviews with confidence.
 
+The field of Government and Public Service encompasses numerous roles that aim to serve and represent the interests of the public. Within the realm of Diplomacy, one crucial role is the Diplomatic Interpreter/Translator. As global interactions become increasingly important, diplomatic interpreters/interpreters play a vital role in facilitating effective communication between diplomats, government officials, and foreign counterparts. These professionals possess exceptional language skills, cultural knowledge, and diplomatic etiquette to accurately and efficiently interpret and translate diplomatic discussions, speeches, and documents. Their work ensures smooth communication, prevents misunderstandings, and promotes successful negotiations, fostering international relations and cooperation. Diplomatic interpreters/interpreters are indispensable in promoting understanding and collaboration among nations, contributing to the peaceful resolution of conflicts and the advancement of global diplomacy.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Diplomatic Interpreter/Translator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Diplomatic Interpreter/Translator interviews to help you prepare and succeed.

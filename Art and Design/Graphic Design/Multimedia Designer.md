@@ -2,6 +2,8 @@
 
 Welcome to the Multimedia Designer Interview Preparation ! This resource is designed to help you ace your Multimedia Designer interviews with confidence.
 
+A Multimedia Designer is a creative professional who combines various forms of media, such as graphics, audio, video, and animation, to communicate visually appealing and engaging messages. As a key member of the Graphic Design field, Multimedia Designers are adept at using software tools and techniques to create interactive experiences for websites, mobile applications, advertising campaigns, and other digital platforms. They possess a strong understanding of color theory, typography, layout, and composition to effectively convey the desired message. With their skills in visual storytelling and their ability to blend different media elements seamlessly, Multimedia Designers play a vital role in enhancing user experiences and creating impactful visual communication.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Multimedia Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Multimedia Designer interviews to help you prepare and succeed.

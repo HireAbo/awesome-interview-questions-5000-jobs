@@ -2,6 +2,12 @@
 
 Welcome to the Physical Chemist Interview Preparation ! This resource is designed to help you ace your Physical Chemist interviews with confidence.
 
+A physical chemist is a specialized branch of chemistry that focuses on the study of molecular and atomic properties and behavior. They explore the fundamental principles of matter and energy and their interaction at the molecular level. Physical chemists utilize their knowledge of physics and chemistry to develop innovative techniques and technologies that can be applied in various fields such as medicine, energy production, and environmental science.
+
+In their research, physical chemists conduct experiments, analyze data, and make observations to understand the underlying principles behind chemical reactions and processes. They may also use advanced instruments and computational models to simulate and predict chemical behavior. Their work often involves studying the physical properties of materials, investigating reaction kinetics, and exploring the thermodynamics of chemical systems.
+
+Physical chemists play a crucial role in advancing scientific knowledge and technological advancements. Their research contributes to the development of new materials, pharmaceuticals, and catalysts, as well as improving our understanding of complex chemical phenomena. They may also collaborate with other scientists and engineers to solve complex problems and develop innovative solutions. A career in physical chemistry offers exciting opportunities to contribute to the scientific community and make a significant impact on society.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Physical Chemist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Physical Chemist interviews to help you prepare and succeed.

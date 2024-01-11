@@ -2,6 +2,8 @@
 
 Welcome to the Propulsion Engineer (Mechanical) Interview Preparation ! This resource is designed to help you ace your Propulsion Engineer (Mechanical) interviews with confidence.
 
+A Propulsion Engineer (Mechanical) is a specialized role within the field of Mechanical Engineering. These engineers are responsible for designing, developing, and maintaining propulsion systems used in various industries, such as aerospace, automotive, and marine. They work with a team of engineers to create efficient and reliable propulsion systems that meet specific performance requirements. This includes conducting research, analyzing data, and utilizing computer-aided design software to develop innovative solutions. Propulsion Engineers also collaborate with other engineers and technicians to ensure the smooth integration and operation of propulsion systems. They play a crucial role in advancing the technology and efficiency of propulsion systems for various applications.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Propulsion Engineer (Mechanical) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Propulsion Engineer (Mechanical) interviews to help you prepare and succeed.

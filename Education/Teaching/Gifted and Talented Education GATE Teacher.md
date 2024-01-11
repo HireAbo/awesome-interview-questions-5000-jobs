@@ -2,6 +2,8 @@
 
 Welcome to the Gifted and Talented Education (GATE) Teacher Interview Preparation ! This resource is designed to help you ace your Gifted and Talented Education (GATE) Teacher interviews with confidence.
 
+A Gifted and Talented Education (GATE) Teacher is a specialized educator who focuses on the unique needs and abilities of gifted and talented students. These teachers possess a deep understanding of the advanced cognitive abilities and exceptional potential of these students. GATE Teachers design and implement challenging and enriching curriculum tailored to the specific needs of their students, aiming to foster critical thinking, creativity, and problem-solving skills. They create an inclusive and stimulating learning environment that encourages intellectual growth and exploration. GATE Teachers also collaborate with parents, school administrators, and other educators to identify and support gifted students, ensuring they receive the necessary resources and opportunities to reach their full potential.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Gifted and Talented Education (GATE) Teacher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Gifted and Talented Education (GATE) Teacher interviews to help you prepare and succeed.

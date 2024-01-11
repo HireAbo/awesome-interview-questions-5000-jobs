@@ -2,6 +2,8 @@
 
 Welcome to the Educational Content Writer Interview Preparation ! This resource is designed to help you ace your Educational Content Writer interviews with confidence.
 
+The role of an Educational Content Writer in Curriculum Development is crucial in shaping the educational landscape. As an Educational Content Writer, you are responsible for creating engaging and informative content that aligns with curriculum objectives and educational standards. Your role involves researching and analyzing educational trends, developing instructional materials, and collaborating with educators and subject matter experts to ensure content accuracy and relevance. This role requires a strong understanding of pedagogy, curriculum design principles, and effective communication skills. By developing high-quality educational content, you contribute to enhancing the learning experience of students and supporting educators in their instructional practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Educational Content Writer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Educational Content Writer interviews to help you prepare and succeed.

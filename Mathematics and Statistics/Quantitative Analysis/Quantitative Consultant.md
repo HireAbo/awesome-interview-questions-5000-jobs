@@ -2,6 +2,8 @@
 
 Welcome to the Quantitative Consultant Interview Preparation ! This resource is designed to help you ace your Quantitative Consultant interviews with confidence.
 
+A quantitative consultant is a professional who applies mathematical and statistical techniques to analyze and solve complex problems in various industries. They possess a strong background in mathematics and statistics and use their expertise to provide data-driven insights and recommendations. Their role involves collecting and manipulating large datasets, performing advanced statistical analyses, and developing mathematical models to aid decision-making processes. Quantitative consultants often work closely with clients, understanding their needs and objectives, and translating them into actionable strategies. They are skilled in using software tools and programming languages to analyze data and present findings effectively. Their work is crucial in helping organizations make informed decisions and improve their performance.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Quantitative Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Quantitative Consultant interviews to help you prepare and succeed.

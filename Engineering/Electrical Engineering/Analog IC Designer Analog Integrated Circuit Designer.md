@@ -2,6 +2,8 @@
 
 Welcome to the Analog IC Designer (Analog Integrated Circuit Designer) Interview Preparation ! This resource is designed to help you ace your Analog IC Designer (Analog Integrated Circuit Designer) interviews with confidence.
 
+Analog IC Designer, also known as Analog Integrated Circuit Designer, is an engineering professional specializing in the design and development of analog integrated circuits. These professionals work in the field of electrical engineering, specifically focusing on the design of circuits that process continuous signals such as audio, video, and radio frequency signals. Analog IC Designers are responsible for creating and optimizing circuit architectures, performing circuit simulations, and ensuring the functionality and performance of the integrated circuits. They possess in-depth knowledge of semiconductor devices, analog circuit design principles, and various design tools and techniques. Analog IC Designers play a crucial role in the development of advanced technology and cutting-edge electronic devices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Analog IC Designer (Analog Integrated Circuit Designer) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Analog IC Designer (Analog Integrated Circuit Designer) interviews to help you prepare and succeed.

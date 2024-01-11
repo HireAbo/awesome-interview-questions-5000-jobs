@@ -2,6 +2,8 @@
 
 Welcome to the Asset Recovery Specialist Interview Preparation ! This resource is designed to help you ace your Asset Recovery Specialist interviews with confidence.
 
+An Asset Recovery Specialist is a professional who specializes in the recovery of assets for businesses and individuals. In the realm of finance and management, their role is crucial in preserving and maximizing the value of assets that have been lost, stolen, or involved in fraudulent activities. These specialists possess a deep understanding of financial laws and regulations, as well as the ability to conduct thorough investigations to trace and recover assets. They collaborate with legal teams, financial institutions, and law enforcement agencies to develop strategies and implement recovery plans. Asset Recovery Specialists play a vital role in safeguarding the financial stability and integrity of businesses, ensuring that valuable assets are restored to their rightful owners.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Asset Recovery Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Asset Recovery Specialist interviews to help you prepare and succeed.

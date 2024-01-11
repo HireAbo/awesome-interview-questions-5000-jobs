@@ -2,6 +2,8 @@
 
 Welcome to the Sociologist Interview Preparation ! This resource is designed to help you ace your Sociologist interviews with confidence.
 
+A sociologist is a professional who studies human behavior and social interactions within societies. They use various research methods, such as surveys, interviews, and observations, to gather data and analyze social phenomena. Sociologists examine how social structures, institutions, and cultural norms shape individuals and communities. They explore topics like social inequality, crime, family dynamics, education, and the impact of technology on society. Sociologists may also specialize in areas such as gender studies, race and ethnicity, or social movements. Their findings and insights contribute to a better understanding of social issues and help policymakers, organizations, and communities address and resolve societal challenges. Sociologists often work in academic institutions, research organizations, government agencies, or non-profit organizations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sociologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sociologist interviews to help you prepare and succeed.

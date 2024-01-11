@@ -2,6 +2,8 @@
 
 Welcome to the Sports Event Coordinator Interview Preparation ! This resource is designed to help you ace your Sports Event Coordinator interviews with confidence.
 
+A Sports Event Coordinator plays a vital role in the field of Sports Management. They are responsible for planning, organizing, and executing various sports events, ensuring their success from start to finish. This dynamic profession requires strong leadership, communication, and organizational skills. Sports Event Coordinators work closely with event sponsors, vendors, athletes, and other stakeholders to create memorable and engaging experiences for participants and spectators. From managing logistics, coordinating schedules, securing venues, to overseeing marketing and promotions, they are integral in ensuring the smooth execution of sporting events. With a passion for sports and a keen eye for detail, Sports Event Coordinators possess the ability to handle multiple tasks simultaneously while maintaining a high level of professionalism.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sports Event Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sports Event Coordinator interviews to help you prepare and succeed.

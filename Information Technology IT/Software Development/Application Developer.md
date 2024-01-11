@@ -2,6 +2,8 @@
 
 Welcome to the Application Developer Interview Preparation ! This resource is designed to help you ace your Application Developer interviews with confidence.
 
+An Application Developer, in the field of Information Technology (IT) and Software Development, is a skilled professional responsible for designing, coding, and modifying software applications according to user needs. They collaborate with clients, business analysts, and other developers to understand functional requirements and translate them into technical specifications. Application Developers possess expertise in programming languages, such as Java, C++, or Python, and have a strong understanding of software development principles and methodologies. They often work in teams to create and maintain software applications, ensuring they are user-friendly, efficient, and meet quality standards. Application Developers play a crucial role in the development and enhancement of various software solutions across different industries.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Application Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Application Developer interviews to help you prepare and succeed.

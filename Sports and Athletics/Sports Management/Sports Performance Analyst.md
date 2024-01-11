@@ -2,6 +2,8 @@
 
 Welcome to the Sports Performance Analyst Interview Preparation ! This resource is designed to help you ace your Sports Performance Analyst interviews with confidence.
 
+A Sports Performance Analyst plays a crucial role in the field of Sports Management, focusing on enhancing the performance of athletes and teams. With a keen understanding of sports science and technology, they analyze data related to athletes' physical abilities, movement patterns, and performance metrics. By utilizing this information, they can identify areas for improvement and develop tailored training programs. Additionally, Sports Performance Analysts closely monitor athletes during games and practices, providing real-time feedback and recommendations to coaches and players. Their expertise is essential in optimizing performance, preventing injuries, and maximizing potential. Sports Performance Analysts play a vital role in the success of athletes and teams, contributing to their achievements on and off the field.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sports Performance Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sports Performance Analyst interviews to help you prepare and succeed.

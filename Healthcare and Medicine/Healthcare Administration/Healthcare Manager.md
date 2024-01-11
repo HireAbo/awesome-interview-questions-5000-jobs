@@ -2,6 +2,8 @@
 
 Welcome to the Healthcare Manager Interview Preparation ! This resource is designed to help you ace your Healthcare Manager interviews with confidence.
 
+Healthcare and Medicine are vital sectors that focus on improving the health and well-being of individuals and communities. Within this field, Healthcare Administration plays a crucial role in managing healthcare facilities and ensuring efficient delivery of services. At the heart of Healthcare Administration is the Healthcare Manager job. These professionals oversee various aspects of healthcare facilities, such as hospitals, clinics, and long-term care facilities. They are responsible for strategic planning, financial management, staffing, regulatory compliance, and quality improvement initiatives. Healthcare Managers collaborate with medical professionals, develop policies, and implement procedures to ensure optimal patient care and organizational success. Their role is pivotal in shaping the future of healthcare by balancing the needs of patients, providers, and other stakeholders.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Healthcare Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Healthcare Manager interviews to help you prepare and succeed.

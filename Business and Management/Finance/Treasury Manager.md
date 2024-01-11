@@ -2,6 +2,8 @@
 
 Welcome to the Treasury Manager Interview Preparation ! This resource is designed to help you ace your Treasury Manager interviews with confidence.
 
+A Treasury Manager is a key financial position within a business organization responsible for overseeing and managing the company's treasury operations. As a Treasury Manager, one is responsible for managing the organization's cash flow, ensuring liquidity, and optimizing financial resources. This includes monitoring and projecting cash flow, managing debt, and making strategic investment decisions. A Treasury Manager also plays a crucial role in risk management, evaluating and mitigating financial risks such as interest rate fluctuations and currency exchange risks. They work closely with other departments within the organization, such as accounting, finance, and operations, to ensure financial stability and growth. Strong financial acumen, analytical skills, and attention to detail are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Treasury Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Treasury Manager interviews to help you prepare and succeed.

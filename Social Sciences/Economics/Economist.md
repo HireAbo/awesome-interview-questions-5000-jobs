@@ -2,6 +2,8 @@
 
 Welcome to the Economist Interview Preparation ! This resource is designed to help you ace your Economist interviews with confidence.
 
+The field of Social Sciences encompasses various disciplines, and one such branch is Economics. Economists play a vital role in understanding and analyzing the production, distribution, and consumption of goods and services within a society. They study and interpret data to provide insights into economic trends, policies, and strategies. Economists conduct research, collect and analyze data, and use mathematical models and statistical techniques to develop theories and forecasts. They work in various sectors, including government, academia, research institutions, and private organizations. Economists provide recommendations to policymakers, businesses, and individuals to optimize economic outcomes and improve overall societal welfare. Their work greatly influences decision-making processes at local, national, and global levels.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Economist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Economist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Actuarial Curriculum Consultant Interview Preparation ! This resource is designed to help you ace your Actuarial Curriculum Consultant interviews with confidence.
 
+A Mathematics and Statistics Actuarial Curriculum Consultant plays a crucial role in the field of actuarial science by designing and developing curriculum for aspiring actuaries. This job involves a deep understanding of mathematics, statistics, and actuarial principles. The consultant works closely with educational institutions, actuarial organizations, and industry professionals to ensure that the curriculum meets the needs of the rapidly evolving actuarial industry. They analyze industry trends, identify knowledge gaps, and develop learning materials, including textbooks, exams, and online resources. The Actuarial Curriculum Consultant also provides guidance to educators and students, offering expert advice on exam preparation, career pathways, and professional development opportunities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Actuarial Curriculum Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Actuarial Curriculum Consultant interviews to help you prepare and succeed.

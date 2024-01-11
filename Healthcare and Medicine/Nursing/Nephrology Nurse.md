@@ -2,6 +2,8 @@
 
 Welcome to the Nephrology Nurse Interview Preparation ! This resource is designed to help you ace your Nephrology Nurse interviews with confidence.
 
+A Nephrology Nurse specializes in providing care to patients with kidney-related health issues. They work closely with nephrologists, physicians, and other healthcare professionals to diagnose, treat, and manage patients with kidney diseases and disorders. Nephrology Nurses perform various tasks, including assessing patients' kidney function, monitoring dialysis treatments, administering medications, and educating patients and their families on managing their condition. They also assist in coordinating care plans, conducting research, and advocating for patients' needs. Nephrology Nurses play a vital role in promoting kidney health and ensuring optimal patient outcomes in the field of healthcare and medicine.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nephrology Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nephrology Nurse interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Research Mathematician Interview Preparation ! This resource is designed to help you ace your Research Mathematician interviews with confidence.
 
+A research mathematician is a professional who specializes in the field of mathematics and conducts advanced research in various areas of the subject. Mathematics is the study of numbers, shapes, patterns, and their relationships. It encompasses various branches such as algebra, geometry, calculus, and statistics. Research mathematicians utilize their extensive knowledge and analytical skills to develop new theories, solve complex mathematical problems, and contribute to the advancement of mathematical knowledge. They often work in collaboration with other mathematicians and scientists to apply mathematical concepts in practical areas such as physics, engineering, and computer science. Research mathematicians are highly skilled individuals who play a crucial role in expanding our understanding of the world through the lens of mathematics.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Research Mathematician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Research Mathematician interviews to help you prepare and succeed.

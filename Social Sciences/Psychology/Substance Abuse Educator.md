@@ -2,6 +2,8 @@
 
 Welcome to the Substance Abuse Educator Interview Preparation ! This resource is designed to help you ace your Substance Abuse Educator interviews with confidence.
 
+A Substance Abuse Educator working within the field of Social Sciences, specifically in Psychology, plays a vital role in helping individuals overcome addiction and substance abuse issues. As an educator, their primary responsibility is to provide information, support, and guidance to individuals struggling with addiction, as well as their families. They create and deliver educational programs that aim to raise awareness about the dangers of substance abuse, promote prevention strategies, and encourage healthy coping mechanisms. Substance Abuse Educators also facilitate group therapy sessions, conduct individual assessments, and develop personalized treatment plans. Their work is crucial in promoting healthier lifestyles and reducing the negative impact of substance abuse on individuals and society.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Substance Abuse Educator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Substance Abuse Educator interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Music Therapist Interview Preparation ! This resource is designed to help you ace your Music Therapist interviews with confidence.
 
+A Music Therapist is a professional who uses music as a therapeutic tool to address the physical, emotional, cognitive, and social needs of individuals. They are trained in applying various music techniques to promote positive changes in a person's behavior and well-being. Music Therapists work with clients of all ages and backgrounds, including those with developmental disabilities, mental health conditions, physical impairments, and chronic illnesses. They may conduct individual or group sessions, incorporating activities such as singing, playing instruments, improvisation, and songwriting. The goal of a Music Therapist is to enhance communication, reduce stress, improve emotional expression, and enhance overall quality of life through the power of music.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Music Therapist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Music Therapist interviews to help you prepare and succeed.

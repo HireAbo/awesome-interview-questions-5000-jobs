@@ -2,6 +2,8 @@
 
 Welcome to the Child Life Specialist Interview Preparation ! This resource is designed to help you ace your Child Life Specialist interviews with confidence.
 
+A Child Life Specialist is a vital professional within the field of Social Work and Human Services, specifically in the area of Family Services. These specialists are dedicated to promoting the well-being and emotional development of children and families during challenging times, such as illness or hospitalization. They possess a unique skill set that combines compassion, therapeutic techniques, and play-based interventions to help children cope with medical procedures, reduce anxiety, and maintain a sense of normalcy. By providing emotional support, education, and advocacy, Child Life Specialists play a crucial role in improving the overall quality of life for children and their families in healthcare settings.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Child Life Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Child Life Specialist interviews to help you prepare and succeed.

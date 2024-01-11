@@ -2,6 +2,8 @@
 
 Welcome to the Escrow Officer Interview Preparation ! This resource is designed to help you ace your Escrow Officer interviews with confidence.
 
+Law and Criminal Justice is a field that encompasses various professions aimed at upholding justice and maintaining order in society. One such profession is that of a Paralegal, who plays a crucial role in assisting lawyers with legal research, document preparation, and case management. Paralegals possess a strong understanding of the law and legal procedures, ensuring smooth operations within law firms and legal departments. Another essential profession within this field is that of an Escrow Officer. Escrow Officers facilitate the transfer of property ownership by ensuring that all necessary documents and funds are properly collected and distributed. They work closely with buyers, sellers, and lending institutions to ensure a seamless and legally compliant transaction process.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Escrow Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Escrow Officer interviews to help you prepare and succeed.

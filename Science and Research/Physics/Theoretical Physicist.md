@@ -2,6 +2,8 @@
 
 Welcome to the Theoretical Physicist Interview Preparation ! This resource is designed to help you ace your Theoretical Physicist interviews with confidence.
 
+A Theoretical Physicist is a highly specialized professional who delves into the fundamental principles governing the natural world. This branch of physics focuses on developing mathematical models and theoretical frameworks to understand and predict various phenomena in the universe. Theoretical physicists are responsible for formulating and testing hypotheses, conducting complex calculations, and analyzing data to uncover new insights into the laws of physics. They often collaborate with experimental physicists and mathematicians to refine theories and propose new concepts. Theoretical physicists play a pivotal role in advancing scientific knowledge, pushing the boundaries of our understanding of the cosmos, and contributing to groundbreaking discoveries that shape our world.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Theoretical Physicist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Theoretical Physicist interviews to help you prepare and succeed.

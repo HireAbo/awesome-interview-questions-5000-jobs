@@ -2,6 +2,8 @@
 
 Welcome to the Carpentry Supervisor Interview Preparation ! This resource is designed to help you ace your Carpentry Supervisor interviews with confidence.
 
+A Carpentry Supervisor is responsible for overseeing and coordinating the daily activities of a team of carpenters. They play a crucial role in managing and organizing projects, ensuring that they are completed efficiently, and meeting all quality standards. A Carpentry Supervisor must possess excellent technical skills and knowledge of carpentry techniques and tools. They are responsible for assigning tasks, providing guidance and training to their team members, and ensuring that all safety protocols are followed. Strong leadership and communication skills are essential for effectively managing the team and collaborating with other tradespeople and project managers. A Carpentry Supervisor plays a vital role in ensuring the successful execution of construction projects.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Carpentry Supervisor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Carpentry Supervisor interviews to help you prepare and succeed.

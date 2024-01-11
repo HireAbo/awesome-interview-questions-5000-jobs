@@ -2,6 +2,8 @@
 
 Welcome to the Forest Ethics Coordinator Interview Preparation ! This resource is designed to help you ace your Forest Ethics Coordinator interviews with confidence.
 
+Agriculture and Environmental Science > Forestry > Forest Ethics Coordinator job is a crucial role in promoting sustainable practices in the forestry sector. As a Forest Ethics Coordinator, your primary responsibility is to ensure that all forest management activities align with ethical and environmental guidelines. You will work closely with forestry professionals, local communities, and government agencies to develop and implement strategies that protect forests and wildlife habitats. Your tasks may include conducting environmental impact assessments, monitoring compliance with forestry regulations, and promoting sustainable land management practices. This role requires strong analytical and communication skills, as well as a deep understanding of forestry practices and environmental conservation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forest Ethics Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forest Ethics Coordinator interviews to help you prepare and succeed.

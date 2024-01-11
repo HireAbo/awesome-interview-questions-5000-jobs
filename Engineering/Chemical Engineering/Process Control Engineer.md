@@ -2,6 +2,8 @@
 
 Welcome to the Process Control Engineer Interview Preparation ! This resource is designed to help you ace your Process Control Engineer interviews with confidence.
 
+A Process Control Engineer, within the field of Chemical Engineering, is responsible for designing, developing, and implementing control systems to monitor and optimize industrial processes. They play a vital role in ensuring the efficiency, safety, and reliability of various chemical manufacturing processes. These professionals analyze data, identify areas for improvement, and develop strategies to enhance process performance. They also collaborate with other engineering teams to develop and implement control strategies, troubleshoot any issues that arise, and ensure compliance with industry regulations. Process Control Engineers possess a strong understanding of chemical processes, instrumentation, and control systems, and utilize their expertise to continuously improve and optimize manufacturing processes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Process Control Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Process Control Engineer interviews to help you prepare and succeed.

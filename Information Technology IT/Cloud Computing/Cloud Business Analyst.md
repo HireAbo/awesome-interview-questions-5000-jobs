@@ -2,6 +2,8 @@
 
 Welcome to the Cloud Business Analyst Interview Preparation ! This resource is designed to help you ace your Cloud Business Analyst interviews with confidence.
 
+Information Technology (IT) is a rapidly evolving field that encompasses the use of computers, software, and networks to manage and process information. One of the most prominent areas in IT is cloud computing, which involves the delivery of computing services over the internet. It allows businesses to access and store data, run applications, and utilize resources on-demand, without the need for physical infrastructure. Within the realm of cloud computing, the role of a Cloud Business Analyst is crucial. This job involves analyzing business requirements, identifying cloud solutions, and developing strategies to maximize the benefits of cloud technology for a company. A Cloud Business Analyst must possess strong analytical, problem-solving, and communication skills to ensure the successful implementation and integration of cloud solutions within an organization.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cloud Business Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cloud Business Analyst interviews to help you prepare and succeed.

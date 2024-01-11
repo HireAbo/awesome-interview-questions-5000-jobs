@@ -2,6 +2,8 @@
 
 Welcome to the Recipe Developer Interview Preparation ! This resource is designed to help you ace your Recipe Developer interviews with confidence.
 
+A recipe developer in the field of Hospitality and Tourism Culinary Arts is responsible for creating and perfecting recipes for various establishments, such as restaurants, hotels, or catering companies. This role requires a deep understanding of different cuisines, flavor profiles, and culinary techniques. The recipe developer collaborates with chefs and culinary teams to design innovative and delectable dishes that meet the organization's culinary vision and standards. They conduct extensive research, experiment with ingredients, and test recipes to ensure consistent quality and taste. Additionally, recipe developers stay updated with current food trends and incorporate them into their creations, enhancing the overall dining experience for guests and patrons.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Recipe Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Recipe Developer interviews to help you prepare and succeed.

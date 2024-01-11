@@ -2,6 +2,8 @@
 
 Welcome to the Anesthesiologist Interview Preparation ! This resource is designed to help you ace your Anesthesiologist interviews with confidence.
 
+Anesthesiologists are medical professionals who specialize in administering anesthesia to patients before, during, and after surgical procedures. They play a crucial role in ensuring the comfort and safety of patients by carefully monitoring their vital signs and managing pain levels throughout the operation. Anesthesiologists work closely with surgeons, nurses, and other healthcare professionals to develop an individualized anesthesia plan for each patient, taking into account various factors such as medical history, current health condition, and the type of surgery being performed. They possess extensive knowledge of pharmacology and physiology, allowing them to select the most appropriate anesthesia technique and medication dosage for optimal patient care.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Anesthesiologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Anesthesiologist interviews to help you prepare and succeed.

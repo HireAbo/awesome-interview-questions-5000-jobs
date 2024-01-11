@@ -2,6 +2,8 @@
 
 Welcome to the Medical Practice Manager Interview Preparation ! This resource is designed to help you ace your Medical Practice Manager interviews with confidence.
 
+A Healthcare Administration Medical Practice Manager plays a crucial role in the efficient functioning of medical facilities. As a liaison between healthcare providers and patients, they oversee day-to-day operations, ensuring smooth workflow and quality patient care. These professionals are responsible for managing staff, handling finances, and implementing policies to meet industry regulations and standards. They also collaborate with various departments to maintain effective communication and coordinate scheduling. A Medical Practice Manager must possess strong leadership and organizational skills, as well as a deep understanding of healthcare practices and technology. Their role is pivotal in optimizing healthcare delivery and improving patient outcomes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Medical Practice Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Medical Practice Manager interviews to help you prepare and succeed.

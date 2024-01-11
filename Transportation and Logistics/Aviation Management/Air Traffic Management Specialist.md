@@ -2,6 +2,8 @@
 
 Welcome to the Air Traffic Management Specialist Interview Preparation ! This resource is designed to help you ace your Air Traffic Management Specialist interviews with confidence.
 
+The role of an Air Traffic Management Specialist within Aviation Management is crucial for the efficient and safe operation of air traffic. These professionals are responsible for managing the flow of aircraft in and out of airports, ensuring smooth operations and minimizing delays. They utilize advanced technology and communication systems to monitor and communicate with pilots, providing them with guidance on routes, altitudes, and weather conditions. Air Traffic Management Specialists also play a vital role in coordinating with other air traffic control facilities, airlines, and ground services to maintain a seamless flow of air traffic. Attention to detail, strong decision-making skills, and the ability to work under pressure are essential for success in this fast-paced and demanding role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Air Traffic Management Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Air Traffic Management Specialist interviews to help you prepare and succeed.

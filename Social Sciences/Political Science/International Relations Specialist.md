@@ -2,6 +2,8 @@
 
 Welcome to the International Relations Specialist Interview Preparation ! This resource is designed to help you ace your International Relations Specialist interviews with confidence.
 
+An International Relations Specialist is a professional who specializes in the field of Political Science, specifically within the realm of Social Sciences. This role involves the study and analysis of global affairs, diplomacy, and the interactions between different nations and international organizations. International Relations Specialists are responsible for examining and interpreting political, economic, and social trends at a global scale. They conduct research, analyze data, and develop strategies to understand and manage international relations. These specialists often work closely with governments, non-governmental organizations, and multinational corporations to provide insights and guidance on matters such as foreign policy, conflict resolution, trade agreements, and global security.
+
 ## 🚀 Overview
 
 Whether you're a seasoned International Relations Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in International Relations Specialist interviews to help you prepare and succeed.

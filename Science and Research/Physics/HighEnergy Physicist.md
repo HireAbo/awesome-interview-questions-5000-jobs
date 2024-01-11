@@ -2,6 +2,8 @@
 
 Welcome to the High-Energy Physicist Interview Preparation ! This resource is designed to help you ace your High-Energy Physicist interviews with confidence.
 
+A high-energy physicist is a professional who specializes in studying the fundamental particles and forces that make up the universe. Their work focuses on understanding the behavior of particles at extremely high energies, often using advanced particle accelerators and detectors. High-energy physicists conduct research to investigate fundamental questions about the nature of matter and the universe, such as the origin of mass, the existence of dark matter and dark energy, and the unification of fundamental forces. They use sophisticated mathematical models and experimental techniques to gather data and analyze the results, contributing to the advancement of scientific knowledge and potentially revolutionizing our understanding of the universe.
+
 ## 🚀 Overview
 
 Whether you're a seasoned High-Energy Physicist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in High-Energy Physicist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Creative Director Interview Preparation ! This resource is designed to help you ace your Creative Director interviews with confidence.
 
+A Creative Director in the field of marketing plays a pivotal role in driving the success of a business. This highly strategic and influential position requires an individual with exceptional creativity, leadership, and communication skills. As a Creative Director, you are responsible for overseeing and guiding the creative process, ensuring that marketing campaigns effectively communicate the brand's message and resonate with the target audience. You collaborate closely with cross-functional teams, including designers, copywriters, and marketers, to develop innovative ideas and concepts. Your ability to think outside the box, inspire others, and deliver visually compelling and impactful campaigns is crucial to achieving business objectives and maintaining a competitive edge in the market.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Creative Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Creative Director interviews to help you prepare and succeed.

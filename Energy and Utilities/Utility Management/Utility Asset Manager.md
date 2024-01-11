@@ -2,6 +2,8 @@
 
 Welcome to the Utility Asset Manager Interview Preparation ! This resource is designed to help you ace your Utility Asset Manager interviews with confidence.
 
+A Utility Asset Manager is a professional responsible for managing the assets and infrastructure of energy and utility companies. They play a crucial role in ensuring the efficient operation and maintenance of utility assets such as power plants, transmission lines, pipelines, and substations. The job involves developing and implementing asset management strategies, conducting risk assessments, and optimizing asset utilization. Utility Asset Managers also oversee the planning and execution of maintenance and repair activities, ensuring compliance with regulations and industry standards. They collaborate with various stakeholders, including engineering teams, regulatory bodies, and suppliers, to ensure the reliability, safety, and longevity of utility assets.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Utility Asset Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Utility Asset Manager interviews to help you prepare and succeed.

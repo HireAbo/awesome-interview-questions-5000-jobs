@@ -2,6 +2,8 @@
 
 Welcome to the Hand Therapist Interview Preparation ! This resource is designed to help you ace your Hand Therapist interviews with confidence.
 
+A Hand Therapist is a specialized healthcare professional who focuses on the rehabilitation of patients with upper extremity conditions or injuries. They work closely with patients to restore function, mobility, and strength in the hand, wrist, arm, and shoulder. Hand Therapists evaluate patients' conditions, create personalized treatment plans, and provide therapeutic interventions such as exercises, manual therapy, and the use of assistive devices. They may also fabricate custom splints or orthotics to support and protect the injured hand. Hand Therapists collaborate with other healthcare professionals to ensure comprehensive care and help patients regain optimal hand function for daily activities and work-related tasks.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Hand Therapist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Hand Therapist interviews to help you prepare and succeed.

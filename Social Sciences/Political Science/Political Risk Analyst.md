@@ -2,6 +2,8 @@
 
 Welcome to the Political Risk Analyst Interview Preparation ! This resource is designed to help you ace your Political Risk Analyst interviews with confidence.
 
+A Political Risk Analyst is a professional who assesses and analyzes potential political risks and threats that may impact businesses, organizations, or governments. They specialize in the field of Political Science, specifically in understanding the political climate and its potential impact on various sectors. Political Risk Analysts gather information from a variety of sources, including news outlets, government reports, and interviews with key stakeholders. They then evaluate and interpret this data to provide insights and predictions on potential risks such as political instability, policy changes, or social unrest. Their analysis helps businesses and organizations make informed decisions and develop strategies to mitigate potential risks and maximize opportunities in complex political environments.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Political Risk Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Political Risk Analyst interviews to help you prepare and succeed.

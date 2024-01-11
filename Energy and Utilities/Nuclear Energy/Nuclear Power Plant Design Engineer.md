@@ -2,6 +2,12 @@
 
 Welcome to the Nuclear Power Plant Design Engineer Interview Preparation ! This resource is designed to help you ace your Nuclear Power Plant Design Engineer interviews with confidence.
 
+A Nuclear Power Plant Design Engineer is responsible for designing and developing nuclear power plant systems and components. They play a crucial role in ensuring the safe and efficient operation of nuclear power plants. 
+
+Their primary responsibilities include designing and analyzing the structural, mechanical, and electrical systems of the power plant. They also collaborate with other engineers and professionals to develop plans and specifications for equipment and systems. 
+
+Nuclear Power Plant Design Engineers must possess a strong understanding of nuclear physics, thermodynamics, and engineering principles. They must also have knowledge of safety regulations and guidelines to ensure that the power plant meets all necessary standards. Attention to detail, problem-solving skills, and the ability to work in a team are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nuclear Power Plant Design Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nuclear Power Plant Design Engineer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Curriculum Researcher Interview Preparation ! This resource is designed to help you ace your Curriculum Researcher interviews with confidence.
 
+A Curriculum Researcher is a professional responsible for conducting extensive research in the field of education to develop and improve curriculum materials and resources. They play a crucial role in identifying the needs and requirements of educational institutions, students, and teachers. Curriculum Researchers analyze existing curriculum frameworks, textbooks, and teaching methodologies to identify gaps and areas for improvement. They conduct surveys, interviews, and focus groups to gather feedback and insights from stakeholders. Their findings are used to design and develop curriculum materials that align with educational goals, standards, and objectives. Curriculum Researchers also stay updated with the latest educational trends and advancements to ensure the curriculum remains relevant and effective.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Curriculum Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Curriculum Researcher interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Flight Attendant Interview Preparation ! This resource is designed to help you ace your Flight Attendant interviews with confidence.
 
+A flight attendant is a key member of the airline industry, providing exceptional customer service and ensuring the safety and comfort of passengers during their flight. This role falls under the category of Hospitality and Tourism in the Travel Services sector. Flight attendants are responsible for welcoming passengers on board, assisting with their luggage, conducting safety briefings, serving food and beverages, and addressing any concerns or requests. They must possess excellent communication and interpersonal skills, as they interact with people from diverse backgrounds. Additionally, flight attendants must be adaptable, as they work in a fast-paced and constantly changing environment, ensuring a pleasant and enjoyable travel experience for all passengers.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Flight Attendant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Flight Attendant interviews to help you prepare and succeed.

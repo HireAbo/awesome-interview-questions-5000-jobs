@@ -2,6 +2,8 @@
 
 Welcome to the Information Ethics Officer Interview Preparation ! This resource is designed to help you ace your Information Ethics Officer interviews with confidence.
 
+A Library and Information Science professional specializing in Information Management may pursue a career as an Information Ethics Officer. This pivotal role involves ensuring the ethical use and dissemination of information within organizations or institutions. The Information Ethics Officer is responsible for developing and implementing policies and protocols that protect intellectual property, safeguard information privacy, and promote responsible information handling practices. They monitor compliance with legal and ethical standards, conduct regular audits, and provide guidance to staff members regarding information ethics. Additionally, an Information Ethics Officer stays abreast of emerging ethical challenges in the digital age, such as data breaches, information security, and the responsible use of emerging technologies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Information Ethics Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Information Ethics Officer interviews to help you prepare and succeed.

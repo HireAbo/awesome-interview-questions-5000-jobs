@@ -2,6 +2,8 @@
 
 Welcome to the Fashion Buyer Interview Preparation ! This resource is designed to help you ace your Fashion Buyer interviews with confidence.
 
+Fashion buying is a vital role within the fashion industry that combines creativity, business acumen, and trend forecasting. A fashion buyer is responsible for selecting and purchasing the latest fashion merchandise for retail stores, ensuring that it is in line with the brand's image and meets customer demands. They work closely with designers, wholesalers, and manufacturers to negotiate prices and maintain strong supplier relationships. Additionally, fashion buyers conduct market research to identify emerging trends, attend fashion shows and trade fairs to stay updated with industry developments. A successful fashion buyer possesses a keen eye for style, excellent communication skills, and a passion for fashion.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Fashion Buyer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Fashion Buyer interviews to help you prepare and succeed.

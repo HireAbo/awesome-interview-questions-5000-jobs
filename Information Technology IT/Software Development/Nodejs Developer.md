@@ -2,6 +2,8 @@
 
 Welcome to the Node.js Developer Interview Preparation ! This resource is designed to help you ace your Node.js Developer interviews with confidence.
 
+A Node.js Developer is a professional specializing in software development within the field of Information Technology (IT). They possess expertise in using Node.js, a popular open-source runtime environment, to build efficient and scalable web applications. Node.js allows developers to use JavaScript on the server-side, enabling them to create real-time applications with high performance and low response times. Node.js Developers are responsible for designing, developing, and maintaining server-side applications, APIs, and databases. They collaborate with cross-functional teams to understand client requirements, troubleshoot issues, and optimize application performance. A Node.js Developer should possess strong programming skills, problem-solving abilities, and a deep understanding of web development concepts and technologies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Node.js Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Node.js Developer interviews to help you prepare and succeed.

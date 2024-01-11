@@ -2,6 +2,8 @@
 
 Welcome to the Building Energy Specialist Interview Preparation ! This resource is designed to help you ace your Building Energy Specialist interviews with confidence.
 
+A Building Energy Specialist is a professional who specializes in optimizing energy efficiency in buildings. They work to reduce energy consumption and improve sustainability in various structures such as residential, commercial, and industrial buildings. The main goal of a Building Energy Specialist is to identify energy-saving opportunities and develop strategies to implement energy-efficient systems and technologies. They conduct energy audits, analyze energy usage patterns, and recommend improvements to reduce energy waste. Additionally, Building Energy Specialists may also design and implement renewable energy systems, such as solar panels or wind turbines, to further enhance the energy efficiency and sustainability of buildings.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Building Energy Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Building Energy Specialist interviews to help you prepare and succeed.

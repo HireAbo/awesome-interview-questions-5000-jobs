@@ -2,6 +2,8 @@
 
 Welcome to the School Counselor Interview Preparation ! This resource is designed to help you ace your School Counselor interviews with confidence.
 
+A school counselor plays a vital role in the education system as they provide guidance and support to students, helping them navigate academic, personal, and social challenges. School counselors work closely with students, parents, and teachers to ensure academic success and promote overall well-being. They assess students' strengths and weaknesses, help develop academic and career goals, and provide counseling services to address personal issues such as bullying, anxiety, or family problems. Additionally, school counselors collaborate with teachers to implement strategies that enhance student learning and create a positive school environment. Their dedication to fostering students' growth and success makes them an invaluable asset to any educational institution.
+
 ## 🚀 Overview
 
 Whether you're a seasoned School Counselor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in School Counselor interviews to help you prepare and succeed.

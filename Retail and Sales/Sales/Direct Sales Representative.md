@@ -2,6 +2,8 @@
 
 Welcome to the Direct Sales Representative Interview Preparation ! This resource is designed to help you ace your Direct Sales Representative interviews with confidence.
 
+A Direct Sales Representative is a professional responsible for generating sales by directly interacting with potential customers. They promote and sell products or services offered by a company, often through face-to-face interactions, phone calls, or virtual meetings. These professionals possess excellent communication skills and are persuasive in their approach to convince customers to make a purchase. They are knowledgeable about the products or services they are selling, able to address customer inquiries, and provide accurate information. A Direct Sales Representative may work independently or as part of a sales team, meeting sales targets and building strong relationships with clients to ensure customer satisfaction and loyalty.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Direct Sales Representative or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Direct Sales Representative interviews to help you prepare and succeed.

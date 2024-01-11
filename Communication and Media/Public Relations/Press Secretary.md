@@ -2,6 +2,8 @@
 
 Welcome to the Press Secretary Interview Preparation ! This resource is designed to help you ace your Press Secretary interviews with confidence.
 
+The role of a Press Secretary in the field of Public Relations within Communication and Media is of utmost importance. A Press Secretary serves as the primary spokesperson for an organization, government agency, or public figure, responsible for managing the dissemination of information to the media and the public. They play a crucial role in shaping public perception, managing crisis communications, and maintaining positive relationships with the media. A Press Secretary must possess exceptional communication skills, both written and verbal, the ability to think quickly and strategically, and a strong understanding of media relations. They act as a bridge between the organization they represent and the media, ensuring effective communication and managing the public image.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Press Secretary or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Press Secretary interviews to help you prepare and succeed.

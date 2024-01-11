@@ -2,6 +2,8 @@
 
 Welcome to the Business Entrepreneur Interview Preparation ! This resource is designed to help you ace your Business Entrepreneur interviews with confidence.
 
+A business entrepreneur is an individual who takes on the role of starting and operating a new business venture. They are responsible for identifying opportunities, creating a business plan, securing funding, and managing all aspects of the business. This includes hiring and managing staff, marketing and sales, financial management, and strategic decision-making. Business entrepreneurs are driven by a desire for independence, creativity, and the potential for financial success. They possess strong leadership skills, innovative thinking, and a willingness to take risks. The role of a business entrepreneur is essential for economic growth, as they bring new products, services, and job opportunities to the market.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Business Entrepreneur or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Business Entrepreneur interviews to help you prepare and succeed.

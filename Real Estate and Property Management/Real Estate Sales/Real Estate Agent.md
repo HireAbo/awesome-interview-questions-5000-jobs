@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Agent Interview Preparation ! This resource is designed to help you ace your Real Estate Agent interviews with confidence.
 
+Real Estate Sales is a dynamic and rewarding field within the real estate industry. Real Estate Agents play a crucial role in facilitating property transactions, acting as intermediaries between buyers and sellers. These professionals possess in-depth knowledge of the local housing market and provide valuable insights to clients to help them make informed decisions. Real Estate Agents are responsible for listing and promoting properties, conducting property tours, negotiating offers, and ensuring smooth transactions. Their expertise lies in understanding market trends, pricing strategies, and legal requirements related to property sales. With excellent communication and interpersonal skills, Real Estate Agents build strong relationships with clients, earning their trust and loyalty for long-term success.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Agent or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Agent interviews to help you prepare and succeed.

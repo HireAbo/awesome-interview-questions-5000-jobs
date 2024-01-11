@@ -2,6 +2,8 @@
 
 Welcome to the Hydraulic Engineer Interview Preparation ! This resource is designed to help you ace your Hydraulic Engineer interviews with confidence.
 
+A Hydraulic Engineer plays a crucial role in the field of Mechanical Engineering, specializing in the design, development, and maintenance of hydraulic systems. These professionals are responsible for creating efficient and reliable systems that utilize fluid power to generate, control, and transmit mechanical energy. They work on a wide range of projects, including the design of hydraulic machinery, pipelines, and systems for various industries, such as construction, transportation, and manufacturing. Hydraulic Engineers also conduct thorough analysis, testing, and troubleshooting to ensure optimal performance and safety. With their expertise in fluid mechanics, they contribute to improving efficiency, reducing costs, and enhancing the overall functionality of hydraulic systems.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Hydraulic Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Hydraulic Engineer interviews to help you prepare and succeed.

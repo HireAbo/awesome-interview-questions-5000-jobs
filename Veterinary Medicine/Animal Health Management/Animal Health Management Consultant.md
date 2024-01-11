@@ -2,6 +2,8 @@
 
 Welcome to the Animal Health Management Consultant Interview Preparation ! This resource is designed to help you ace your Animal Health Management Consultant interviews with confidence.
 
+Veterinary Medicine encompasses various fields, one of which is Animal Health Management. Animal Health Management focuses on promoting the well-being and welfare of animals in diverse settings, including farms, zoos, and wildlife reserves. Within this field, Animal Health Management Consultants play a crucial role in ensuring the optimal health and productivity of animals. These professionals provide expert advice and support to animal owners, managers, and organizations. They develop and implement health management plans, conduct assessments, and offer recommendations on disease prevention, nutrition, biosecurity, and general animal care. Animal Health Management Consultants strive to enhance animal health outcomes, while also considering factors such as sustainability, environmental impact, and public health concerns.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Animal Health Management Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Animal Health Management Consultant interviews to help you prepare and succeed.

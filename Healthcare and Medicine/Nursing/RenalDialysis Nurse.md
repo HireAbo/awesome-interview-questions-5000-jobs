@@ -2,6 +2,8 @@
 
 Welcome to the Renal/Dialysis Nurse Interview Preparation ! This resource is designed to help you ace your Renal/Dialysis Nurse interviews with confidence.
 
+A Renal/Dialysis Nurse is a specialized healthcare professional who focuses on providing care to patients with kidney diseases and those undergoing dialysis treatment. These nurses play a crucial role in managing and monitoring patients' renal health, ensuring their well-being during dialysis sessions. They are responsible for assessing patients' needs, administering medications, and monitoring vital signs. Renal/Dialysis Nurses also educate patients and their families on kidney disease management, including diet and lifestyle modifications. These nurses collaborate with other healthcare professionals to develop and implement care plans, ensuring optimal patient outcomes. A career as a Renal/Dialysis Nurse requires compassion, strong critical thinking skills, and a deep understanding of renal function and dialysis procedures.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Renal/Dialysis Nurse or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Renal/Dialysis Nurse interviews to help you prepare and succeed.

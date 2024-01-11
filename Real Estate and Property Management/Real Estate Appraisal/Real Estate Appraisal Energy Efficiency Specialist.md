@@ -2,6 +2,10 @@
 
 Welcome to the Real Estate Appraisal Energy Efficiency Specialist Interview Preparation ! This resource is designed to help you ace your Real Estate Appraisal Energy Efficiency Specialist interviews with confidence.
 
+Real Estate and Property Management is a field that involves the buying, selling, and managing of properties. It encompasses various aspects such as property valuation, leasing, maintenance, and tenant relations. Real estate professionals play a crucial role in ensuring optimal property performance, profitability, and client satisfaction.
+
+Within the realm of Real Estate Appraisal, there is a specialized role known as an Energy Efficiency Specialist. These professionals assess the energy efficiency of properties and provide recommendations for improving their energy performance. They analyze various factors like insulation, heating systems, lighting, and renewable energy sources to determine a property's energy consumption and carbon footprint. By identifying energy-saving opportunities, Energy Efficiency Specialists help property owners reduce operational costs, enhance sustainability, and meet regulatory requirements. Their expertise contributes to creating energy-efficient buildings that benefit both the environment and property owners.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Appraisal Energy Efficiency Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Appraisal Energy Efficiency Specialist interviews to help you prepare and succeed.

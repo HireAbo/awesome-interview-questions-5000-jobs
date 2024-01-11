@@ -2,6 +2,8 @@
 
 Welcome to the Corrections Counselor Interview Preparation ! This resource is designed to help you ace your Corrections Counselor interviews with confidence.
 
+A Corrections Counselor plays a crucial role in the field of Criminal Justice by providing support and guidance to individuals who have been involved in the criminal justice system. These professionals work within correctional facilities, probation offices, and community-based programs to assist offenders in their rehabilitation and successful reintegration into society. Their primary responsibilities include conducting assessments, developing treatment plans, and providing counseling and therapy services to address the psychological, emotional, and behavioral issues of offenders. Corrections Counselors also collaborate with other professionals, such as probation officers and psychologists, to ensure comprehensive care and effective rehabilitation strategies are implemented. By assisting individuals in their journey towards positive change, Corrections Counselors contribute to the overall goal of reducing recidivism rates and promoting public safety.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Corrections Counselor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Corrections Counselor interviews to help you prepare and succeed.

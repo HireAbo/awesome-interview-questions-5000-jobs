@@ -2,6 +2,8 @@
 
 Welcome to the Quantitative Lecturer Interview Preparation ! This resource is designed to help you ace your Quantitative Lecturer interviews with confidence.
 
+A Quantitative Lecturer job entails teaching and mentoring students in the field of Mathematics and Statistics, with a focus on Quantitative Analysis. This role requires a deep understanding of mathematical concepts and statistical methods, along with the ability to effectively communicate and explain complex ideas to students. The Quantitative Lecturer will design and deliver lectures, create and grade assignments and exams, as well as provide guidance and support to students throughout their learning journey. They will also contribute to the development of course materials, curriculum design, and engage in scholarly activities to stay current with advancements in the field.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Quantitative Lecturer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Quantitative Lecturer interviews to help you prepare and succeed.

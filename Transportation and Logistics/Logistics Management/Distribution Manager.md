@@ -2,6 +2,8 @@
 
 Welcome to the Distribution Manager Interview Preparation ! This resource is designed to help you ace your Distribution Manager interviews with confidence.
 
+A Distribution Manager plays a crucial role in the field of Transportation and Logistics, specifically in Logistics Management. As a Distribution Manager, their primary responsibility is to oversee the efficient movement and distribution of goods and materials within an organization. They are responsible for managing the entire distribution process, including inventory management, order fulfillment, and transportation coordination. Distribution Managers ensure that products are delivered on time, in the right quantity, and in good condition. They collaborate with internal teams, such as procurement and production, as well as external stakeholders, such as suppliers and carriers, to optimize the distribution network and streamline operations. With strong organizational and communication skills, Distribution Managers are instrumental in ensuring smooth and cost-effective logistics operations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Distribution Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Distribution Manager interviews to help you prepare and succeed.

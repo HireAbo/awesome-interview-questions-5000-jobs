@@ -2,6 +2,8 @@
 
 Welcome to the Real Estate Development Lease Compliance Auditor Interview Preparation ! This resource is designed to help you ace your Real Estate Development Lease Compliance Auditor interviews with confidence.
 
+A Real Estate Development Lease Compliance Auditor plays a crucial role in ensuring that real estate development projects adhere to lease agreements and comply with legal and regulatory requirements. This job involves conducting comprehensive audits of lease agreements, financial records, and property management practices to identify any discrepancies or non-compliance issues. The auditor also reviews lease terms, rent calculations, and payment schedules to ensure accuracy and adherence to contractual obligations. Additionally, they may collaborate with property managers, tenants, and legal professionals to resolve any disputes or issues related to lease compliance. This role requires strong analytical skills, attention to detail, and a thorough understanding of real estate laws and regulations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Real Estate Development Lease Compliance Auditor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Real Estate Development Lease Compliance Auditor interviews to help you prepare and succeed.

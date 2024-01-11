@@ -2,6 +2,8 @@
 
 Welcome to the Deputy Sheriff Interview Preparation ! This resource is designed to help you ace your Deputy Sheriff interviews with confidence.
 
+A Deputy Sheriff is a vital member of the law enforcement system who plays a crucial role in maintaining public safety and upholding the law. These dedicated professionals are responsible for enforcing local, state, and federal laws within their jurisdiction. They are entrusted with patrolling designated areas, responding to emergency calls, and conducting investigations. Deputy Sheriffs also serve as a visible presence in their communities, promoting crime prevention and fostering positive relationships with the public. They may be involved in various tasks such as traffic enforcement, serving warrants, apprehending suspects, and providing courtroom security. This challenging career requires physical stamina, strong communication skills, and a commitment to justice.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Deputy Sheriff or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Deputy Sheriff interviews to help you prepare and succeed.

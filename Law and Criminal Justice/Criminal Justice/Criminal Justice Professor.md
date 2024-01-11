@@ -2,6 +2,8 @@
 
 Welcome to the Criminal Justice Professor Interview Preparation ! This resource is designed to help you ace your Criminal Justice Professor interviews with confidence.
 
+A Criminal Justice Professor is an esteemed professional who specializes in teaching and researching various aspects of law and criminal justice. As an expert in their field, they possess a deep understanding of the legal system, law enforcement practices, correctional systems, and the overall criminal justice system. Their primary role is to prepare and deliver lectures on topics such as criminal law, criminal procedure, criminology, and forensic science to students pursuing degrees in criminal justice or related fields. Additionally, they may mentor and advise students, conduct research, publish scholarly articles, and actively participate in academic conferences to contribute to the advancement of the field. Ultimately, a Criminal Justice Professor plays a vital role in shaping the next generation of criminal justice professionals and contributing to the improvement of the criminal justice system.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Criminal Justice Professor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Criminal Justice Professor interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the User Interface (UI) Designer Interview Preparation ! This resource is designed to help you ace your User Interface (UI) Designer interviews with confidence.
 
+A User Interface (UI) Designer job in the field of Communication and Media, specifically Digital Media, involves creating visually appealing and user-friendly interfaces for digital products. UI designers play a crucial role in enhancing user experiences by ensuring that the digital platforms they design are intuitive and engaging. They collaborate with cross-functional teams, including UX designers, developers, and stakeholders, to understand user needs and translate them into visually compelling designs. UI designers possess a strong understanding of design principles, typography, color theory, and user psychology. With their expertise in prototyping tools and coding languages, they bring digital products to life, effectively bridging the gap between technology and users.
+
 ## 🚀 Overview
 
 Whether you're a seasoned User Interface (UI) Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in User Interface (UI) Designer interviews to help you prepare and succeed.

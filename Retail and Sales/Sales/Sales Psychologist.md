@@ -2,6 +2,8 @@
 
 Welcome to the Sales Psychologist Interview Preparation ! This resource is designed to help you ace your Sales Psychologist interviews with confidence.
 
+A Sales Psychologist is a specialized professional who applies psychological theories and techniques to enhance sales performance and customer satisfaction. They play a significant role in the retail and sales industry by analyzing consumer behavior, sales strategies, and sales team dynamics. Sales Psychologists utilize their expertise in psychology to improve the effectiveness of sales techniques, customer interactions, and overall sales processes. They may conduct assessments, interviews, and observations to identify psychological barriers that hinder sales performance and develop strategies to overcome them. Their objective is to create a positive and engaging sales environment, boost sales productivity, and maximize customer satisfaction through the application of psychological principles.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sales Psychologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sales Psychologist interviews to help you prepare and succeed.

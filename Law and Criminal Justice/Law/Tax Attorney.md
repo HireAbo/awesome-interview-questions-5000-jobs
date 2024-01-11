@@ -2,6 +2,8 @@
 
 Welcome to the Tax Attorney Interview Preparation ! This resource is designed to help you ace your Tax Attorney interviews with confidence.
 
+A tax attorney is a legal professional who specializes in tax law and provides guidance and representation to clients pertaining to tax-related matters. Their primary role is to help individuals and organizations navigate the complex and ever-changing landscape of tax regulations and laws. Tax attorneys assist clients in minimizing tax liabilities, preparing tax returns, resolving disputes with tax authorities, and ensuring compliance with tax laws. They also offer advice on estate planning, mergers and acquisitions, and international tax issues. The job requires in-depth knowledge of tax codes, excellent analytical and research skills, and the ability to effectively communicate complex legal concepts to clients.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Tax Attorney or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Tax Attorney interviews to help you prepare and succeed.

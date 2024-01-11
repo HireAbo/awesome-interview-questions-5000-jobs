@@ -2,6 +2,8 @@
 
 Welcome to the Production Accountant Interview Preparation ! This resource is designed to help you ace your Production Accountant interviews with confidence.
 
+A Production Accountant in the field of Film Production is responsible for managing the financial aspects of a film project. They work closely with the production team, ensuring that all financial transactions are accurately recorded and budgetary guidelines are followed. Their key responsibilities include creating and maintaining budgets, tracking expenses, processing invoices and payroll, managing cash flow, and preparing financial reports for producers and executives. Production Accountants also play a vital role in ensuring compliance with tax regulations and securing financing for the project. They must possess excellent organizational and analytical skills, as well as a strong understanding of financial management in the entertainment industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Production Accountant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Production Accountant interviews to help you prepare and succeed.

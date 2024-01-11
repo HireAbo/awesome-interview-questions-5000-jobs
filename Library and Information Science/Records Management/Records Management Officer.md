@@ -2,6 +2,8 @@
 
 Welcome to the Records Management Officer Interview Preparation ! This resource is designed to help you ace your Records Management Officer interviews with confidence.
 
+Library and Information Science is a multidisciplinary field that encompasses the organization, retrieval, and dissemination of information in various formats. Within this field, Records Management focuses specifically on the systematic control and maintenance of records throughout their lifecycle. A Records Management Officer plays a crucial role in ensuring the efficient and effective management of an organization's records. They are responsible for designing and implementing records management policies and procedures, ensuring compliance with legal and regulatory requirements, and overseeing the organization, storage, and retrieval of records. Additionally, they may also be involved in the development of digital records management systems and providing training to staff on records management best practices.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Records Management Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Records Management Officer interviews to help you prepare and succeed.

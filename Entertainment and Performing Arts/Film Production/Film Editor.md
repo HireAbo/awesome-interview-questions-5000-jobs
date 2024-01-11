@@ -2,6 +2,8 @@
 
 Welcome to the Film Editor Interview Preparation ! This resource is designed to help you ace your Film Editor interviews with confidence.
 
+A film editor is a key player in the entertainment and performing arts industry, specifically in the field of film production. As an integral part of the post-production process, film editors have the responsibility of assembling and manipulating raw footage to create a cohesive and visually captivating final product. Their role involves collaborating closely with directors, producers, and other members of the production team to bring the story to life through the art of editing. Film editors possess strong technical skills in various editing software, as well as a creative eye for pacing, storytelling, and visual aesthetics. They play a crucial role in shaping the narrative, ensuring smooth transitions, and enhancing the overall quality of the film.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Film Editor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Film Editor interviews to help you prepare and succeed.

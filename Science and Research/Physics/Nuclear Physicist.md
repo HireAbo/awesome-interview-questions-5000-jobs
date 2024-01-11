@@ -2,6 +2,8 @@
 
 Welcome to the Nuclear Physicist Interview Preparation ! This resource is designed to help you ace your Nuclear Physicist interviews with confidence.
 
+A Nuclear Physicist is a highly specialized professional who studies the behavior and properties of atomic nuclei. This branch of physics focuses on the fundamental understanding of nuclear reactions, nuclear energy, and the structure of matter. Nuclear physicists conduct extensive research to explore the principles behind nuclear reactions, the properties of various atomic particles, and the development of nuclear technologies. They utilize advanced mathematical models, experimental techniques, and cutting-edge instruments to investigate the behavior of atomic nuclei. Their findings contribute to the development of nuclear power, medical imaging technologies, and advancements in materials science. Nuclear physicists often work in research laboratories, government agencies, or academic institutions, pushing the boundaries of our understanding of the atomic world and its applications.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nuclear Physicist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nuclear Physicist interviews to help you prepare and succeed.

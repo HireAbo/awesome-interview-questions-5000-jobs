@@ -2,6 +2,8 @@
 
 Welcome to the Toxicologist Interview Preparation ! This resource is designed to help you ace your Toxicologist interviews with confidence.
 
+A toxicologist is a professional who specializes in the study of poisons or toxic substances and their effects on living organisms. They play a crucial role in the field of biology, as their research helps to identify, understand, and mitigate the harmful effects of toxins on human health and the environment. Toxicologists work in various settings, including laboratories, research institutions, government agencies, and pharmaceutical companies. Their responsibilities include conducting experiments, analyzing data, and providing expert advice on the potential risks and safety measures associated with different chemicals or substances. The work of toxicologists is vital for ensuring the safety and well-being of individuals and the ecosystem.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Toxicologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Toxicologist interviews to help you prepare and succeed.

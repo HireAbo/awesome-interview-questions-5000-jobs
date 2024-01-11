@@ -2,6 +2,8 @@
 
 Welcome to the Athletic Director Interview Preparation ! This resource is designed to help you ace your Athletic Director interviews with confidence.
 
+Sports and Athletics encompass a vast range of activities that involve physical exertion and competition. These activities not only promote physical fitness but also foster teamwork, discipline, and character development. Within the realm of Sports Management, the Athletic Director plays a crucial role in overseeing and coordinating various aspects of a sports program or department. They are responsible for managing budgets, hiring and supervising coaches, ensuring compliance with rules and regulations, and scheduling athletic events. Moreover, they play a pivotal role in promoting the overall athletic program, fostering a positive and inclusive environment, and supporting the academic success of student-athletes. The Athletic Director's position requires excellent leadership, communication, and organizational skills, as well as a passion for sports and a commitment to the development of student-athletes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Athletic Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Athletic Director interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Voice Coach Interview Preparation ! This resource is designed to help you ace your Voice Coach interviews with confidence.
 
+A voice coach is a professional who specializes in training actors and performers to develop their vocal skills and enhance their overall performance. They work closely with individuals to improve their diction, projection, vocal range, and control. A voice coach may also assist actors in finding their unique voice and style, helping them to effectively convey emotions and engage with the audience. They often utilize various techniques such as breathing exercises, vocal warm-ups, and speech exercises to improve articulation and clarity. Voice coaches play a crucial role in helping actors develop their vocal abilities, ensuring that they deliver powerful and compelling performances on stage or in front of the camera.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Voice Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Voice Coach interviews to help you prepare and succeed.

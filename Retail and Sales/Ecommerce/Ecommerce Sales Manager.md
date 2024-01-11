@@ -2,6 +2,8 @@
 
 Welcome to the E-commerce Sales Manager Interview Preparation ! This resource is designed to help you ace your E-commerce Sales Manager interviews with confidence.
 
+A Retail and Sales E-commerce Sales Manager plays a crucial role in driving revenue and growth for an online business. This dynamic job involves managing and overseeing the e-commerce sales team, setting sales targets, and developing strategies to achieve them. The E-commerce Sales Manager is responsible for analyzing market trends, identifying customer needs, and devising effective sales plans to maximize online sales. They collaborate with various departments, such as marketing and product development, to ensure a seamless customer experience and optimize the online shopping journey. This role requires strong leadership skills, a deep understanding of e-commerce platforms and technologies, and the ability to adapt to ever-changing market dynamics.
+
 ## 🚀 Overview
 
 Whether you're a seasoned E-commerce Sales Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in E-commerce Sales Manager interviews to help you prepare and succeed.

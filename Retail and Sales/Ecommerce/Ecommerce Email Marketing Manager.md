@@ -2,6 +2,8 @@
 
 Welcome to the E-commerce Email Marketing Manager Interview Preparation ! This resource is designed to help you ace your E-commerce Email Marketing Manager interviews with confidence.
 
+The role of an E-commerce Email Marketing Manager in the Retail and Sales industry is crucial to drive customer engagement and increase online sales. This position involves developing and implementing effective email marketing strategies to promote products and services, enhance customer loyalty, and drive traffic to the e-commerce website. The E-commerce Email Marketing Manager is responsible for managing the end-to-end email marketing campaigns, including planning, designing, executing, and analyzing the performance of email campaigns. They collaborate with cross-functional teams to create compelling content, optimize email templates, segment target audiences, and ensure email deliverability. Strong analytical skills, creativity, and knowledge of email marketing platforms are vital for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned E-commerce Email Marketing Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in E-commerce Email Marketing Manager interviews to help you prepare and succeed.

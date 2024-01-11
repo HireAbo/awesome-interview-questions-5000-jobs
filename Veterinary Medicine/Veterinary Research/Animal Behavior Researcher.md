@@ -2,6 +2,8 @@
 
 Welcome to the Animal Behavior Researcher Interview Preparation ! This resource is designed to help you ace your Animal Behavior Researcher interviews with confidence.
 
+A Veterinary Medicine - Veterinary Research - Animal Behavior Researcher is a professional who specializes in studying and analyzing the behavior of animals. This job involves conducting research to understand the various aspects of animal behavior, including their social interactions, communication methods, and instinctual patterns. Animal Behavior Researchers work closely with veterinarians, zoologists, and other experts in the field to develop a comprehensive understanding of animal behavior. They design and carry out experiments, collect and analyze data, and contribute to the development of new treatment methods and behavioral therapies for animals. Their research findings help improve animal welfare, enrich captive animal environments, and aid in the conservation of endangered species.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Animal Behavior Researcher or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Animal Behavior Researcher interviews to help you prepare and succeed.

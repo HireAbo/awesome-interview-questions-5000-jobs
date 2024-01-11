@@ -2,6 +2,8 @@
 
 Welcome to the Television Advertising Specialist Interview Preparation ! This resource is designed to help you ace your Television Advertising Specialist interviews with confidence.
 
+A Television Advertising Specialist is a professional who specializes in creating and executing strategic advertising campaigns for television. They play a crucial role in the field of Communication and Media, specifically in the realm of advertising. These specialists are responsible for developing effective marketing strategies that utilize television as a medium to reach and engage target audiences. They collaborate with clients to understand their marketing goals and objectives, conduct market research, analyze viewership data, and design compelling advertisements that resonate with the target audience. They also negotiate and purchase television advertising slots, monitor campaign performance, and provide insights and recommendations for improvement. A Television Advertising Specialist requires strong communication, analytical, and creative skills to excel in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Television Advertising Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Television Advertising Specialist interviews to help you prepare and succeed.

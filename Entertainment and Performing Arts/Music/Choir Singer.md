@@ -2,6 +2,8 @@
 
 Welcome to the Choir Singer Interview Preparation ! This resource is designed to help you ace your Choir Singer interviews with confidence.
 
+A choir singer job in the field of entertainment and performing arts focuses on the art of music through vocal performance. It requires a passion for singing and a strong ability to harmonize within a group setting. Choir singers are an integral part of a choir, working alongside fellow singers to create beautiful choral music. They are responsible for learning and memorizing music, practicing regularly, and attending rehearsals and performances. A choir singer must have excellent vocal technique, sight-reading skills, and the ability to interpret and convey emotions through their voice. It is a rewarding job for those who love music and enjoy collaborating with others to create harmonious melodies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Choir Singer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Choir Singer interviews to help you prepare and succeed.

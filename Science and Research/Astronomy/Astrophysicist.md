@@ -2,6 +2,8 @@
 
 Welcome to the Astrophysicist Interview Preparation ! This resource is designed to help you ace your Astrophysicist interviews with confidence.
 
+An astrophysicist is a scientist who specializes in studying the physical properties and behavior of celestial objects, such as stars, planets, galaxies, and the universe as a whole. They use scientific principles, theories, and advanced technologies to explore and understand the mysteries of the cosmos. These professionals conduct extensive research, collect and analyze data, and develop models and theories to explain various astronomical phenomena. Astrophysicists also play a crucial role in advancing our knowledge of the universe by designing and conducting experiments, observing celestial events, and employing cutting-edge technologies, including telescopes and space probes. Their work contributes to our understanding of the origins, evolution, and future of the universe, expanding our knowledge of the vast expanse beyond our planet.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Astrophysicist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Astrophysicist interviews to help you prepare and succeed.

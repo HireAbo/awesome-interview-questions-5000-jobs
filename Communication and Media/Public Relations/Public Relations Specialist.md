@@ -2,6 +2,8 @@
 
 Welcome to the Public Relations Specialist Interview Preparation ! This resource is designed to help you ace your Public Relations Specialist interviews with confidence.
 
+A Public Relations Specialist plays a crucial role in managing the communication and media aspects of an organization or individual's public image. They are responsible for developing and executing strategic communication plans, building positive relationships with the media, and managing public perception. These professionals work closely with clients or organizations to craft compelling messages and ensure effective dissemination through various media channels. Public Relations Specialists employ their expertise in writing press releases, organizing press conferences, and coordinating events to create favorable publicity and maintain a positive reputation. They are skilled in crisis management, reputation management, and media relations, making them instrumental in shaping public opinion and maintaining a strong brand presence.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Public Relations Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Public Relations Specialist interviews to help you prepare and succeed.

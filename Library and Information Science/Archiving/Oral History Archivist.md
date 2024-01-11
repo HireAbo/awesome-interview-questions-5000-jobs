@@ -2,6 +2,8 @@
 
 Welcome to the Oral History Archivist Interview Preparation ! This resource is designed to help you ace your Oral History Archivist interviews with confidence.
 
+Library and Information Science is a field that encompasses the management and preservation of knowledge and information. Within this field, one specialized area is Archiving, which focuses on the organization and preservation of historical records and materials. Oral History Archivist is a job role that falls under archiving, specifically dealing with the management of oral history collections. Oral history involves recording and preserving the spoken memories and personal experiences of individuals or communities. As an Oral History Archivist, one would be responsible for conducting interviews, transcribing and cataloging oral histories, and ensuring their long-term preservation. This role requires strong research, communication, and organization skills, as well as a passion for preserving and sharing personal narratives for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Oral History Archivist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Oral History Archivist interviews to help you prepare and succeed.

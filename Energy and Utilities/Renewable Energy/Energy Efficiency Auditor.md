@@ -2,6 +2,8 @@
 
 Welcome to the Energy Efficiency Auditor Interview Preparation ! This resource is designed to help you ace your Energy Efficiency Auditor interviews with confidence.
 
+An Energy Efficiency Auditor plays a crucial role in the field of Renewable Energy within the Energy and Utilities sector. As the world continues to prioritize sustainable practices, energy efficiency auditors help organizations identify and implement strategies to reduce energy consumption and minimize environmental impact. They conduct thorough assessments of energy systems, inspect buildings and equipment, and analyze energy usage data to identify areas of improvement. By conducting detailed energy audits, they provide valuable insights and recommendations to optimize energy efficiency and reduce operational costs. Energy Efficiency Auditors play a pivotal role in promoting the transition to renewable energy sources and creating a more sustainable future.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Energy Efficiency Auditor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Energy Efficiency Auditor interviews to help you prepare and succeed.

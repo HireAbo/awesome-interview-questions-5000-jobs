@@ -2,6 +2,8 @@
 
 Welcome to the Trial Consultant Interview Preparation ! This resource is designed to help you ace your Trial Consultant interviews with confidence.
 
+A paralegal, specializing in trial consulting within the field of law and criminal justice, plays a crucial role in the legal system. These professionals assist attorneys by conducting extensive research, analyzing evidence, and preparing legal documents required for court proceedings. Moreover, they possess a deep understanding of courtroom procedures and can effectively communicate with clients, witnesses, and court personnel. Trial consultants also provide valuable insights and strategies to help attorneys develop persuasive arguments and enhance their overall trial strategies. Their expertise in areas such as case analysis, jury selection, and witness preparation ensures a fair and just trial process, while assisting in achieving favorable outcomes for clients involved in criminal cases.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Trial Consultant or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Trial Consultant interviews to help you prepare and succeed.

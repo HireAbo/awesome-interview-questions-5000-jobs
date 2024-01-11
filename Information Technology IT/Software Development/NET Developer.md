@@ -2,6 +2,8 @@
 
 Welcome to the .NET Developer Interview Preparation ! This resource is designed to help you ace your .NET Developer interviews with confidence.
 
+A .NET Developer is a professional specializing in software development using the .NET framework. They are responsible for designing, programming, and testing software applications using various programming languages such as C#, VB.NET, or ASP.NET. A .NET Developer works closely with clients and team members to understand project requirements and develop robust and scalable software solutions. They are proficient in using development tools and frameworks such as Visual Studio, SQL Server, and Azure, and have a deep understanding of object-oriented programming principles. A .NET Developer is expected to stay updated with the latest industry trends and technologies to deliver innovative and efficient software solutions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned .NET Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in .NET Developer interviews to help you prepare and succeed.

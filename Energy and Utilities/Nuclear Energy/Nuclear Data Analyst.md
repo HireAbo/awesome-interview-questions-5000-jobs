@@ -2,6 +2,8 @@
 
 Welcome to the Nuclear Data Analyst Interview Preparation ! This resource is designed to help you ace your Nuclear Data Analyst interviews with confidence.
 
+A Nuclear Data Analyst plays a crucial role in the field of Energy and Utilities, specifically within the domain of Nuclear Energy. This job involves analyzing and interpreting complex data related to nuclear power plants and their operations. The primary objective is to ensure the safe and efficient functioning of these facilities by monitoring and evaluating various data points, such as reactor performance, radiation levels, and fuel usage. Nuclear Data Analysts utilize their expertise in mathematics, statistics, and computer programming to process large datasets and generate meaningful insights. They also collaborate with nuclear engineers and scientists to assess reactor performance and contribute to the development of innovative solutions for the nuclear energy sector.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nuclear Data Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nuclear Data Analyst interviews to help you prepare and succeed.

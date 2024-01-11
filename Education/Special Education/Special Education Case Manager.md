@@ -2,6 +2,8 @@
 
 Welcome to the Special Education Case Manager Interview Preparation ! This resource is designed to help you ace your Special Education Case Manager interviews with confidence.
 
+A Special Education Case Manager plays a crucial role in ensuring that students with special needs receive the appropriate support and resources to succeed academically and socially. These professionals work closely with students, parents, teachers, and other specialists to develop and implement Individualized Education Plans (IEPs) tailored to each student's unique needs. They assess students' academic progress, conduct evaluations, and coordinate services such as speech therapy, occupational therapy, or counseling. Special Education Case Managers also advocate for students by attending meetings, providing guidance to parents and teachers, and ensuring compliance with legal and ethical standards. Their dedication and expertise contribute to creating an inclusive and supportive learning environment for students with special needs.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Special Education Case Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Special Education Case Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Agricultural Policy Analyst Interview Preparation ! This resource is designed to help you ace your Agricultural Policy Analyst interviews with confidence.
 
+Agriculture and Environmental Science is a multidisciplinary field that focuses on the sustainable management of natural resources and the development of agricultural techniques to meet the growing demands of a changing world. Within this field, an Agricultural Policy Analyst plays a crucial role in shaping agricultural policies and regulations. They analyze the impact of existing policies on farmers, consumers, and the environment, and provide recommendations for improvements. By conducting research, collecting data, and collaborating with stakeholders, Agricultural Policy Analysts contribute to the creation of effective and sustainable policies that promote economic growth, food security, and environmental stewardship in the agricultural sector.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Agricultural Policy Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Agricultural Policy Analyst interviews to help you prepare and succeed.

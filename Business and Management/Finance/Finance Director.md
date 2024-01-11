@@ -2,6 +2,8 @@
 
 Welcome to the Finance Director Interview Preparation ! This resource is designed to help you ace your Finance Director interviews with confidence.
 
+A Finance Director is a key member of a company's management team responsible for overseeing all financial aspects of the organization. They play a critical role in strategic decision-making and ensuring the financial success of the business. The Finance Director is responsible for managing the finance function, including budgeting, financial planning, cash flow management, financial reporting, and risk management. They provide financial insights and analysis to support business growth and profitability. Additionally, they liaise with external stakeholders such as auditors, banks, and investors. A Finance Director requires strong leadership skills, financial acumen, and the ability to adapt to changing market conditions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Finance Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Finance Director interviews to help you prepare and succeed.

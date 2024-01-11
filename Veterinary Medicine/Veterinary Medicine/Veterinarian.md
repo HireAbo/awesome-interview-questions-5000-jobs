@@ -2,6 +2,8 @@
 
 Welcome to the Veterinarian Interview Preparation ! This resource is designed to help you ace your Veterinarian interviews with confidence.
 
+Veterinary Medicine is a specialized branch of medicine that focuses on the health and well-being of animals. It encompasses various aspects of animal healthcare, including diagnosis, treatment, and prevention of diseases and injuries. Veterinarians, the professionals in this field, play a crucial role in ensuring the welfare of animals by providing medical care and advice to pet owners, livestock farmers, and wildlife conservationists. These highly trained professionals possess extensive knowledge in animal anatomy, physiology, and pharmacology. They perform surgeries, administer vaccinations, prescribe medications, and conduct routine check-ups to maintain the health of animals. Veterinarians also contribute to public health by monitoring and preventing the spread of zoonotic diseases, which can be transmitted from animals to humans.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Veterinarian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Veterinarian interviews to help you prepare and succeed.

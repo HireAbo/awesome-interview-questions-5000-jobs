@@ -2,6 +2,8 @@
 
 Welcome to the Food System Planner Interview Preparation ! This resource is designed to help you ace your Food System Planner interviews with confidence.
 
+Agriculture and Environmental Science is an interdisciplinary field that focuses on the sustainable management of agricultural resources and the impact of agricultural practices on the environment. Within this field, the role of a Food System Planner is crucial in ensuring the development and implementation of sustainable agricultural practices. A Food System Planner is responsible for analyzing and designing food production systems that take into account environmental, economic, and social factors. They work closely with farmers, policymakers, and other stakeholders to develop strategies that promote sustainable practices, such as organic farming, crop rotation, and conservation of natural resources. Their aim is to create a resilient and efficient food system that minimizes environmental impact while meeting the growing demand for food.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Food System Planner or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Food System Planner interviews to help you prepare and succeed.

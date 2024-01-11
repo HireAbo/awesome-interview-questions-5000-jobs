@@ -2,6 +2,12 @@
 
 Welcome to the Data Science Product Manager Interview Preparation ! This resource is designed to help you ace your Data Science Product Manager interviews with confidence.
 
+Information Technology (IT) is a broad field that deals with the use of computers, software, and networks to store, retrieve, transmit, and manipulate data. It encompasses various aspects such as computer hardware, software development, system administration, and network management.
+
+Within the realm of IT, Data Science is an interdisciplinary field that combines statistical analysis, machine learning, and computer science to extract meaningful insights from vast amounts of data. It involves the collection, cleaning, and analysis of data to discover patterns, make predictions, and drive decision-making.
+
+A Data Science Product Manager is a professional who bridges the gap between data scientists and business stakeholders. They are responsible for defining the product vision and strategy, prioritizing features, and ensuring the successful delivery of data-driven products or services. They possess strong analytical and problem-solving skills, as well as a deep understanding of both technical and business aspects of data science.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Data Science Product Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Data Science Product Manager interviews to help you prepare and succeed.

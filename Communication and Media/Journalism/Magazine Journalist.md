@@ -2,6 +2,8 @@
 
 Welcome to the Magazine Journalist Interview Preparation ! This resource is designed to help you ace your Magazine Journalist interviews with confidence.
 
+A Magazine Journalist plays a vital role in the field of communication and media, specifically within journalism. With a strong passion for storytelling and a keen eye for detail, a magazine journalist is responsible for researching, investigating, and composing articles for magazines. This job involves conducting interviews, attending events, and gathering information to produce engaging and informative content. Magazine journalists must have excellent writing skills, as they are responsible for crafting compelling narratives that captivate readers. They also need to be adaptable, as they may be required to cover a wide range of topics, from lifestyle and fashion to current affairs and entertainment. Ultimately, magazine journalists are dedicated to delivering high-quality content that informs and entertains magazine readers.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Magazine Journalist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Magazine Journalist interviews to help you prepare and succeed.

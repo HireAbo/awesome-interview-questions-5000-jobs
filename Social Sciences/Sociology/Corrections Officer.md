@@ -2,6 +2,8 @@
 
 Welcome to the Corrections Officer Interview Preparation ! This resource is designed to help you ace your Corrections Officer interviews with confidence.
 
+A Corrections Officer is a vital professional in the field of sociology within the realm of social sciences. These individuals play a crucial role in maintaining law and order within correctional facilities, such as jails, prisons, and detention centers. The primary responsibility of a Corrections Officer is to ensure the safety and security of inmates, staff, and the surrounding community. They are responsible for enforcing rules and regulations, conducting searches, and monitoring inmate behavior. Additionally, Corrections Officers may facilitate rehabilitative programs and provide counseling to inmates, aiming to promote positive behavioral changes and reduce recidivism rates. This career path requires strong interpersonal skills, physical fitness, and a commitment to public safety.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Corrections Officer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Corrections Officer interviews to help you prepare and succeed.

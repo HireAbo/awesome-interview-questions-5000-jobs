@@ -2,6 +2,8 @@
 
 Welcome to the Utility Sustainability Manager Interview Preparation ! This resource is designed to help you ace your Utility Sustainability Manager interviews with confidence.
 
+A Utility Sustainability Manager is responsible for overseeing and implementing sustainable practices within the energy and utility sector. This role involves developing and executing strategies to reduce environmental impact and improve efficiency across utility operations. The manager works closely with stakeholders to identify and evaluate sustainability initiatives, such as renewable energy projects, energy conservation programs, and waste reduction strategies. They also collaborate with regulatory agencies and community partners to ensure compliance with environmental regulations and promote sustainable practices. Additionally, the Utility Sustainability Manager monitors and reports on key performance indicators to track progress towards sustainability goals and drive continuous improvement in utility management.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Utility Sustainability Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Utility Sustainability Manager interviews to help you prepare and succeed.

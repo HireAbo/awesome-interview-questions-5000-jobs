@@ -2,6 +2,8 @@
 
 Welcome to the Quantitative Coach Interview Preparation ! This resource is designed to help you ace your Quantitative Coach interviews with confidence.
 
+A Quantitative Coach is a professional who specializes in providing guidance and support in the fields of Mathematics, Statistics, and Quantitative Analysis. They play a pivotal role in assisting individuals, students, or professionals in understanding complex quantitative concepts and applying them effectively in various scenarios. A Quantitative Coach possesses a strong background in mathematics and statistics, allowing them to offer personalized coaching sessions tailored to the specific needs and goals of their clients. They may help with topics such as data analysis, probability, hypothesis testing, and mathematical modeling. By offering expert guidance and practical strategies, a Quantitative Coach empowers individuals to enhance their quantitative skills and achieve success in their academic or professional endeavors.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Quantitative Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Quantitative Coach interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Martial Arts Instructor Interview Preparation ! This resource is designed to help you ace your Martial Arts Instructor interviews with confidence.
 
+A Martial Arts Instructor is a highly skilled and trained individual who specializes in teaching various forms of martial arts to students of all ages and skill levels. They are responsible for instructing and guiding students through the techniques, principles, and philosophies of martial arts. This includes teaching self-defense techniques, physical conditioning, and mental discipline. Martial Arts Instructors not only lead classes and demonstrations, but also provide individualized coaching and support to help students reach their goals. They play a crucial role in fostering a positive and safe learning environment, promoting discipline, respect, and personal growth. A Martial Arts Instructor must possess excellent communication and interpersonal skills, as well as a deep understanding and passion for martial arts.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Martial Arts Instructor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Martial Arts Instructor interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Forensic Chemist Lead Interview Preparation ! This resource is designed to help you ace your Forensic Chemist Lead interviews with confidence.
 
+A Forensic Chemist Lead plays a critical role in the field of Law and Criminal Justice, specifically within the realm of Forensic Science. As a highly experienced professional, they are responsible for conducting thorough analyses of various types of evidence, such as drugs, chemicals, and toxic substances, to assist in criminal investigations. Their expertise in chemistry and forensic techniques enables them to determine the composition, origin, and significance of evidence, ultimately aiding in the identification and conviction of criminals. In addition to conducting complex laboratory examinations, a Forensic Chemist Lead may also supervise a team of forensic chemists, ensuring accuracy, adherence to protocols, and the proper handling of evidence. Their role is crucial in upholding justice and maintaining the integrity of the criminal justice system.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Forensic Chemist Lead or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Forensic Chemist Lead interviews to help you prepare and succeed.

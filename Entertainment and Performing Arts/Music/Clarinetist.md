@@ -2,6 +2,8 @@
 
 Welcome to the Clarinetist Interview Preparation ! This resource is designed to help you ace your Clarinetist interviews with confidence.
 
+A clarinetist is a highly skilled musician who specializes in playing the clarinet, a woodwind instrument. As a clarinetist, their main role is to interpret and perform music compositions specifically written for the clarinet. They may work as soloists, performing with orchestras, chamber ensembles, or in various musical genres such as jazz or contemporary music. Clarinetists are required to have excellent technical proficiency, tone quality, and a deep understanding of musical interpretation. They often undergo rigorous training, including extensive practice, music theory, and performance techniques. Clarinetists play a crucial role in creating beautiful melodies and harmonies that enrich the overall musical experience for audiences.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Clarinetist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Clarinetist interviews to help you prepare and succeed.

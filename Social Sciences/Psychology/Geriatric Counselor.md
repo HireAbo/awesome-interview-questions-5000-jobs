@@ -2,6 +2,8 @@
 
 Welcome to the Geriatric Counselor Interview Preparation ! This resource is designed to help you ace your Geriatric Counselor interviews with confidence.
 
+A Geriatric Counselor is a professional who specializes in providing psychological support and guidance to the elderly population. This job falls under the field of Psychology within the broader scope of Social Sciences. Geriatric Counselors work closely with elderly individuals to address their emotional, mental, and social well-being. They assess and diagnose mental health issues, design treatment plans, and provide therapy sessions to help seniors cope with various challenges such as depression, anxiety, cognitive decline, and grief. Additionally, Geriatric Counselors may also collaborate with healthcare professionals, families, and caregivers to ensure holistic care and support for older adults in managing their mental health and overall quality of life.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Geriatric Counselor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Geriatric Counselor interviews to help you prepare and succeed.

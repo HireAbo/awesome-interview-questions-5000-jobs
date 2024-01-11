@@ -2,6 +2,8 @@
 
 Welcome to the E-commerce Customer Experience Designer Interview Preparation ! This resource is designed to help you ace your E-commerce Customer Experience Designer interviews with confidence.
 
+The role of an E-commerce Customer Experience Designer in the Retail and Sales industry is to create exceptional online shopping experiences for customers. With the growing popularity of e-commerce, businesses are constantly striving to improve their customers' online journey. As an E-commerce Customer Experience Designer, your primary responsibility is to understand customer needs and preferences, and translate them into user-friendly interface designs. You will collaborate with cross-functional teams, including sales, marketing, and IT, to ensure a seamless and engaging online shopping experience. This role requires a strong understanding of user experience principles, web design, and e-commerce platforms, as well as the ability to analyze data and customer feedback to continuously improve the online shopping experience.
+
 ## 🚀 Overview
 
 Whether you're a seasoned E-commerce Customer Experience Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in E-commerce Customer Experience Designer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Navy Intelligence Specialist Interview Preparation ! This resource is designed to help you ace your Navy Intelligence Specialist interviews with confidence.
 
+Government and Public Service encompasses various professional fields that serve the public interest. One such field is Military Service, which plays a crucial role in safeguarding national security and protecting the nation's interests. Within Military Service, the Navy Intelligence Specialist job stands out as an integral part of the United States Navy. Navy Intelligence Specialists are responsible for collecting, analyzing, and disseminating intelligence information critical to military operations. They gather data through various sources, including human intelligence, signals intelligence, and imagery intelligence, to provide accurate and timely assessments. Their expertise aids in strategic decision-making, ensuring the Navy's preparedness and success in combat and peacekeeping missions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Navy Intelligence Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Navy Intelligence Specialist interviews to help you prepare and succeed.

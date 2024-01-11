@@ -2,6 +2,8 @@
 
 Welcome to the Youth Services Coordinator Interview Preparation ! This resource is designed to help you ace your Youth Services Coordinator interviews with confidence.
 
+The role of a Youth Services Coordinator in the field of Sociology within Social Sciences is to work closely with young individuals and communities to address their specific needs and concerns. This job involves designing and implementing programs, activities, and services that promote the overall well-being and development of young people. The Youth Services Coordinator plays a crucial role in connecting young individuals with resources, support systems, and opportunities that help them navigate challenges, enhance their personal growth, and foster positive social interactions. This position requires strong interpersonal skills, empathy, and the ability to establish meaningful relationships with youth, families, and community stakeholders to create a safe and inclusive environment for all.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Youth Services Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Youth Services Coordinator interviews to help you prepare and succeed.

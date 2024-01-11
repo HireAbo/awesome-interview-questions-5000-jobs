@@ -2,6 +2,8 @@
 
 Welcome to the Retail Process Improvement Manager Interview Preparation ! This resource is designed to help you ace your Retail Process Improvement Manager interviews with confidence.
 
+The role of a Retail Process Improvement Manager is crucial in enhancing the efficiency and effectiveness of retail operations. As a Retail Process Improvement Manager, you will be responsible for analyzing and evaluating the existing retail processes, identifying areas of improvement, and implementing strategies to enhance customer experience and drive sales. You will collaborate closely with cross-functional teams, such as sales, marketing, and operations, to develop and implement process improvement initiatives. Your key objectives will include streamlining inventory management, optimizing supply chain operations, improving store layout and visual merchandising, and enhancing customer service protocols. A successful Retail Process Improvement Manager will possess strong analytical skills, problem-solving abilities, and a deep understanding of retail operations and sales strategies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Retail Process Improvement Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Retail Process Improvement Manager interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Systems Engineer Interview Preparation ! This resource is designed to help you ace your Systems Engineer interviews with confidence.
 
+A Systems Engineer in the field of Electrical Engineering plays a critical role in designing, developing, and maintaining complex electrical systems. They are responsible for integrating various components and subsystems to ensure smooth functioning and optimal performance. A Systems Engineer collaborates with a multidisciplinary team, including electrical and software engineers, to analyze system requirements, develop specifications, and implement solutions. They oversee the entire system lifecycle, from conception to testing and deployment. Additionally, Systems Engineers troubleshoot and resolve any issues that may arise during the development or operation of electrical systems. Through their expertise, Systems Engineers contribute to the advancement of technology and innovation in various industries.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Systems Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Systems Engineer interviews to help you prepare and succeed.

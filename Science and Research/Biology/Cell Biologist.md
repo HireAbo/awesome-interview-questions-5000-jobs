@@ -2,6 +2,8 @@
 
 Welcome to the Cell Biologist Interview Preparation ! This resource is designed to help you ace your Cell Biologist interviews with confidence.
 
+A Cell Biologist is a scientist who specializes in the study of cells, the basic building blocks of life. They conduct research to understand how cells function, interact, and contribute to the overall functioning of living organisms. Cell Biologists investigate various aspects of cell biology, including cell structure, function, genetics, and metabolism. They use advanced techniques and technologies to study cell behavior, such as microscopy, genetic engineering, and molecular biology techniques. Cell Biologists play a crucial role in advancing our knowledge of diseases, developing new drugs, and understanding the mechanisms behind various biological processes. Their work contributes to breakthroughs in medicine, agriculture, and environmental conservation.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Cell Biologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Cell Biologist interviews to help you prepare and succeed.

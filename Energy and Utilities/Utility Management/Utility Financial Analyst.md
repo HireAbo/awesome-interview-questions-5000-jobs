@@ -2,6 +2,8 @@
 
 Welcome to the Utility Financial Analyst Interview Preparation ! This resource is designed to help you ace your Utility Financial Analyst interviews with confidence.
 
+A Utility Financial Analyst plays a crucial role in the field of Energy and Utilities, specifically in Utility Management. This professional is responsible for analyzing and managing financial data related to utility services, such as electricity, water, and gas. They evaluate financial statements, budgets, and operational reports to assess the financial health of the utility company. Utility Financial Analysts also provide insights and recommendations to optimize financial performance and cost efficiency. They collaborate with cross-functional teams, including Operations, Accounting, and Regulatory Compliance, to develop strategic plans and implement financial policies. This role requires strong analytical skills, financial acumen, and a deep understanding of the energy and utilities industry.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Utility Financial Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Utility Financial Analyst interviews to help you prepare and succeed.

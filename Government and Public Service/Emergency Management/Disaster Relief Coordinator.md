@@ -2,6 +2,8 @@
 
 Welcome to the Disaster Relief Coordinator Interview Preparation ! This resource is designed to help you ace your Disaster Relief Coordinator interviews with confidence.
 
+The role of a Disaster Relief Coordinator within the field of Emergency Management is crucial in ensuring effective response and recovery efforts during times of crisis. As a government-appointed position, the Disaster Relief Coordinator oversees the coordination and implementation of disaster relief programs and initiatives. They work closely with various government agencies, non-profit organizations, and community leaders to develop comprehensive disaster response plans, allocate resources, and mobilize personnel. This role requires exceptional leadership skills, strategic thinking, and the ability to make quick decisions under pressure. Ultimately, the Disaster Relief Coordinator plays a pivotal role in providing aid, support, and relief to affected communities during times of natural disasters or emergencies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Disaster Relief Coordinator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Disaster Relief Coordinator interviews to help you prepare and succeed.

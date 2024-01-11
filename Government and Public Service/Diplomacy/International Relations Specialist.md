@@ -2,6 +2,8 @@
 
 Welcome to the International Relations Specialist Interview Preparation ! This resource is designed to help you ace your International Relations Specialist interviews with confidence.
 
+A Government and Public Service > Diplomacy > International Relations Specialist plays a vital role in promoting and maintaining diplomatic relations between nations. These professionals are responsible for analyzing global political, social, and economic trends to advise government officials and shape foreign policy decisions. They conduct extensive research, negotiate agreements, and represent their country's interests in international organizations and negotiations. International Relations Specialists utilize their analytical skills, cultural understanding, and language proficiency to bridge communication gaps and resolve conflicts diplomatically. They work closely with diplomats, ambassadors, and government officials to foster cooperation, enhance political stability, and promote economic development on a global scale. Overall, their expertise contributes to building peaceful and prosperous international relations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned International Relations Specialist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in International Relations Specialist interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Music Tour Manager Interview Preparation ! This resource is designed to help you ace your Music Tour Manager interviews with confidence.
 
+A Music Tour Manager is a crucial role in the world of entertainment and performing arts. This professional is responsible for coordinating and managing all aspects of a music tour, ensuring its smooth execution from start to finish. They work closely with artists, promoters, venues, and various team members to handle logistics, budgeting, scheduling, transportation, accommodation, and equipment requirements. A Music Tour Manager must possess excellent organizational and communication skills, as well as the ability to handle high-pressure situations and solve problems on the go. This role requires a deep understanding of the music industry, a passion for live performances, and a dedication to delivering unforgettable experiences to audiences worldwide.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Music Tour Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Music Tour Manager interviews to help you prepare and succeed.

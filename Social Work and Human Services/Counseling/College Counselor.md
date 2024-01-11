@@ -2,6 +2,8 @@
 
 Welcome to the College Counselor Interview Preparation ! This resource is designed to help you ace your College Counselor interviews with confidence.
 
+Social work and human services encompass a broad range of professions dedicated to improving the well-being of individuals, families, and communities. Within this field, counseling plays a crucial role in supporting individuals in various life situations. College counseling, specifically, focuses on assisting students in their personal, academic, and career development during their college years. College counselors provide guidance on course selection, academic planning, and help students navigate challenges such as stress, anxiety, and relationship issues. They also aid in identifying career goals, exploring potential paths, and offering resources for internships, scholarships, and job placements. College counselors play a pivotal role in helping students thrive academically and emotionally, ultimately fostering success and personal growth.
+
 ## 🚀 Overview
 
 Whether you're a seasoned College Counselor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in College Counselor interviews to help you prepare and succeed.

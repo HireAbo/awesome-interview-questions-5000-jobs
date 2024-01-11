@@ -2,6 +2,8 @@
 
 Welcome to the Traffic Reporter Interview Preparation ! This resource is designed to help you ace your Traffic Reporter interviews with confidence.
 
+A Traffic Reporter is a vital role within the field of Communication and Media, specifically in the area of Broadcasting. This job involves providing accurate, up-to-date information about traffic conditions to the public. A Traffic Reporter typically works for radio or television stations, informing commuters and motorists about road closures, accidents, and congestion in real-time. They gather information from various sources, including traffic cameras, police scanners, and transportation authorities, and deliver it to the audience in a clear and concise manner. This role requires strong communication skills, as Traffic Reporters must be able to relay complex information quickly and effectively. They play a crucial role in helping people navigate their daily commute and make informed travel decisions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Traffic Reporter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Traffic Reporter interviews to help you prepare and succeed.

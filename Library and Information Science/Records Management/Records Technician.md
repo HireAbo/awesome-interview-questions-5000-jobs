@@ -2,6 +2,8 @@
 
 Welcome to the Records Technician Interview Preparation ! This resource is designed to help you ace your Records Technician interviews with confidence.
 
+Library and Information Science (LIS) is a field that focuses on the organization, preservation, and dissemination of information. Within LIS, one specific area of expertise is Records Management. Records Management involves the systematic control and maintenance of an organization's records throughout their lifecycle, ensuring their accessibility, confidentiality, and compliance with legal requirements. A key role within this field is that of a Records Technician. As a Records Technician, your responsibilities would include accurately cataloging and indexing records, ensuring their proper storage and retrieval, and implementing retention schedules. Additionally, you may be involved in digitizing and archiving records, as well as assisting in the development and implementation of records management policies and procedures.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Records Technician or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Records Technician interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the Sports Ethics Advisor Interview Preparation ! This resource is designed to help you ace your Sports Ethics Advisor interviews with confidence.
 
+A Sports Ethics Advisor plays a crucial role in the field of Sports Management, ensuring ethical practices in sports and athletics. As an expert in sports ethics, they provide guidance and advice to athletes, coaches, and organizations to promote fair play, integrity, and sportsmanship. Their responsibilities include developing and implementing ethical codes of conduct, conducting training sessions on ethical behavior, and investigating and resolving ethical issues within the sports community. Sports Ethics Advisors also collaborate with governing bodies and regulatory agencies to enforce ethical standards and prevent issues such as doping, match-fixing, and discrimination. Their role is vital in maintaining the integrity and reputation of sports at both professional and amateur levels.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sports Ethics Advisor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sports Ethics Advisor interviews to help you prepare and succeed.

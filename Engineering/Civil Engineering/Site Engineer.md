@@ -2,6 +2,8 @@
 
 Welcome to the Site Engineer Interview Preparation ! This resource is designed to help you ace your Site Engineer interviews with confidence.
 
+A Site Engineer job in Civil Engineering involves managing and overseeing construction projects, ensuring they are executed efficiently and according to design specifications. Site Engineers play a crucial role in coordinating with contractors, architects, and other stakeholders to ensure smooth project execution. They are responsible for supervising construction activities, inspecting worksites, and ensuring compliance with safety regulations and building codes. Site Engineers also monitor project progress, resolve any issues that may arise, and ensure that projects are completed within budget and timelines. Their expertise in construction methods, materials, and techniques is essential in delivering successful and high-quality construction projects.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Site Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Site Engineer interviews to help you prepare and succeed.

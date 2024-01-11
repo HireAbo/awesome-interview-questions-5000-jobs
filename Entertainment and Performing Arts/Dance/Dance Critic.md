@@ -2,6 +2,8 @@
 
 Welcome to the Dance Critic Interview Preparation ! This resource is designed to help you ace your Dance Critic interviews with confidence.
 
+A Dance Critic is an individual who evaluates and analyzes dance performances, offering an insightful and objective perspective on the art form. As a key figure in the field of dance criticism, their role is to observe and assess various aspects of a performance, including choreography, technique, execution, and overall artistic expression. Through their in-depth knowledge of dance history, styles, and trends, they provide valuable feedback to both dancers and audiences alike. Dance critics often write reviews for newspapers, magazines, or online platforms, highlighting the strengths and weaknesses of performances and guiding readers in their decision-making process when attending dance events.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Dance Critic or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Dance Critic interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the E-commerce Manager Interview Preparation ! This resource is designed to help you ace your E-commerce Manager interviews with confidence.
 
+The role of an E-commerce Manager in the retail and sales industry is crucial in driving online business growth. As an E-commerce Manager, you will be responsible for overseeing the online sales operations of a company. Your main objective will be to develop and implement effective strategies to increase online sales, improve customer experience, and enhance the overall e-commerce performance. You will also be in charge of managing the company's e-commerce website, ensuring its functionality, user-friendliness, and security. Additionally, you will analyze market trends, conduct competitor research, and collaborate with various teams to optimize sales strategies and drive revenue. Strong analytical, technical, and communication skills are essential for success in this role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned E-commerce Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in E-commerce Manager interviews to help you prepare and succeed.

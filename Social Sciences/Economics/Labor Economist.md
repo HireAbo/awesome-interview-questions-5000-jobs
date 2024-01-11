@@ -2,6 +2,8 @@
 
 Welcome to the Labor Economist Interview Preparation ! This resource is designed to help you ace your Labor Economist interviews with confidence.
 
+A Labor Economist is a professional who specializes in studying and analyzing the labor market and its impact on the economy. This branch of economics focuses on understanding the supply and demand dynamics of labor, as well as the factors influencing employment, wages, and working conditions. A Labor Economist conducts research, collects data, and uses statistical models to examine various labor market trends and policies. They provide valuable insights to policymakers, businesses, and organizations to help them make informed decisions regarding labor market regulations, workforce planning, and labor market interventions. This role plays a crucial role in promoting economic growth, equity, and social welfare by ensuring efficient and fair labor market outcomes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Labor Economist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Labor Economist interviews to help you prepare and succeed.

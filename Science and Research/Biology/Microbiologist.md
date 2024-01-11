@@ -2,6 +2,8 @@
 
 Welcome to the Microbiologist Interview Preparation ! This resource is designed to help you ace your Microbiologist interviews with confidence.
 
+A microbiologist is a professional who specializes in studying microorganisms, such as bacteria, viruses, fungi, and parasites, and their interactions with the environment and living organisms. They play a crucial role in scientific research and advancements in fields such as medicine, agriculture, and environmental science. Microbiologists conduct experiments, collect and analyze samples, and use various techniques to study microorganisms at the cellular and molecular levels. They often work in laboratories, universities, research institutions, and pharmaceutical companies. Their research findings contribute to understanding diseases, developing new vaccines, improving food safety, and exploring environmental sustainability. Microbiologists also play a significant role in diagnosing and treating infectious diseases.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Microbiologist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Microbiologist interviews to help you prepare and succeed.

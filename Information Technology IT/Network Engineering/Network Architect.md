@@ -2,6 +2,8 @@
 
 Welcome to the Network Architect Interview Preparation ! This resource is designed to help you ace your Network Architect interviews with confidence.
 
+A Network Architect is a crucial role in the field of Information Technology (IT) and Network Engineering. As businesses increasingly rely on technology to run their operations, Network Architects play a pivotal role in designing and implementing robust and secure network infrastructures. These professionals are responsible for analyzing an organization's needs, designing network solutions, and overseeing their implementation and maintenance. They possess a deep understanding of network protocols, hardware, and software, allowing them to optimize network performance, ensure data security, and support the organization's overall IT strategy. Network Architects also collaborate with other IT teams and stakeholders to ensure seamless communication and connectivity across the organization's network infrastructure.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Network Architect or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Network Architect interviews to help you prepare and succeed.

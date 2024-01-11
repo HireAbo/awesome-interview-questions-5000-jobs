@@ -2,6 +2,8 @@
 
 Welcome to the Urban Planner (with transportation focus) Interview Preparation ! This resource is designed to help you ace your Urban Planner (with transportation focus) interviews with confidence.
 
+An Urban Planner with a transportation focus plays a crucial role in shaping the future of cities by designing and implementing efficient transportation systems. These professionals are responsible for analyzing current transportation networks, identifying gaps and congestion issues, and developing strategies to improve overall mobility within urban areas. They work closely with government agencies, engineers, and other stakeholders to create plans and policies that promote sustainable and accessible transportation options. Urban Planners with a transportation focus also consider the needs of pedestrians, cyclists, and public transportation users while integrating new technologies and innovations to optimize transportation networks. Their expertise is vital in fostering economic growth, reducing traffic congestion, and enhancing the quality of life in urban communities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Urban Planner (with transportation focus) or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Urban Planner (with transportation focus) interviews to help you prepare and succeed.

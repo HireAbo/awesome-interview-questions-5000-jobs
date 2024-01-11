@@ -2,6 +2,8 @@
 
 Welcome to the Control Systems Engineer Interview Preparation ! This resource is designed to help you ace your Control Systems Engineer interviews with confidence.
 
+A Control Systems Engineer plays a vital role in the field of electrical engineering, specializing in the design, development, and implementation of control systems. This profession combines engineering principles with advanced mathematics and computer science to create efficient and automated systems. Control Systems Engineers are responsible for analyzing and troubleshooting complex systems, ensuring their functionality, stability, and safety. They work on various projects, including robotics, industrial automation, power grids, and transportation systems. Their expertise lies in designing control algorithms, developing software, and integrating hardware components. Control Systems Engineers contribute significantly to improving efficiency, reducing costs, and enhancing the overall performance of electrical systems in various industries.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Control Systems Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Control Systems Engineer interviews to help you prepare and succeed.

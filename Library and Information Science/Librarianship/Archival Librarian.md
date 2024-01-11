@@ -2,6 +2,10 @@
 
 Welcome to the Archival Librarian Interview Preparation ! This resource is designed to help you ace your Archival Librarian interviews with confidence.
 
+Library and Information Science (LIS) encompasses various fields, including librarianship, which focuses on the management, organization, and dissemination of information within a library setting. Within librarianship, one specialized area is that of an Archival Librarian. 
+
+An Archival Librarian is responsible for the preservation, organization, and accessibility of historical and cultural documents and records. They work in archives, museums, or special collections within libraries, ensuring the proper storage, cataloging, and conservation of valuable materials. These professionals possess a deep understanding of archival principles, including appraisal, arrangement, description, and reference services. They may also collaborate with researchers, scholars, and the public to provide access to important historical resources. Overall, an Archival Librarian plays a vital role in preserving and promoting our collective heritage for future generations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Archival Librarian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Archival Librarian interviews to help you prepare and succeed.

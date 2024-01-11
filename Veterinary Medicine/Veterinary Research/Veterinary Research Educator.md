@@ -2,6 +2,8 @@
 
 Welcome to the Veterinary Research Educator Interview Preparation ! This resource is designed to help you ace your Veterinary Research Educator interviews with confidence.
 
+A Veterinary Research Educator plays a crucial role in advancing the field of veterinary medicine. They are responsible for conducting research studies and experiments to improve animal health and welfare. These professionals work in close collaboration with veterinarians, scientists, and other researchers to develop innovative treatment methods, vaccines, and diagnostic tools. The role of a Veterinary Research Educator also involves teaching and mentoring aspiring veterinarians and researchers. They impart their knowledge and expertise through lectures, seminars, and hands-on training sessions. Additionally, they contribute to scientific publications and attend conferences to share their findings and stay updated with the latest advancements in veterinary medicine.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Veterinary Research Educator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Veterinary Research Educator interviews to help you prepare and succeed.

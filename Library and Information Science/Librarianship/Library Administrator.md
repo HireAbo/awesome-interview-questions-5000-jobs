@@ -2,6 +2,8 @@
 
 Welcome to the Library Administrator Interview Preparation ! This resource is designed to help you ace your Library Administrator interviews with confidence.
 
+Library and Information Science is a field that involves the organization, management, and dissemination of information. It encompasses various areas such as cataloging, collection development, reference services, and digital preservation. Within this field, Librarianship focuses on providing access to information resources and assisting users in locating and utilizing information effectively. A key role within Librarianship is that of a Library Administrator. Library Administrators oversee the day-to-day operations of a library, ensuring efficient functioning and optimal user experience. They are responsible for budget management, staff supervision, strategic planning, and implementing policies and procedures. Library Administrators play a crucial role in shaping the direction and growth of libraries to meet the ever-evolving needs of their communities.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Library Administrator or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Library Administrator interviews to help you prepare and succeed.

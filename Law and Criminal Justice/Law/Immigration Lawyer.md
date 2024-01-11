@@ -2,6 +2,8 @@
 
 Welcome to the Immigration Lawyer Interview Preparation ! This resource is designed to help you ace your Immigration Lawyer interviews with confidence.
 
+An immigration lawyer specializes in assisting individuals and organizations with legal matters related to immigration and citizenship. They are responsible for providing guidance and representation to clients who seek to navigate the complex and ever-changing immigration laws and policies. Immigration lawyers assist clients in various areas, such as obtaining visas, green cards, and citizenship, defending against deportation or removal proceedings, and addressing employment or family-based immigration issues. They work closely with government agencies, immigration courts, and other legal professionals to ensure that their clients' rights are protected and that they receive fair treatment under the law. Immigration lawyers play a crucial role in advocating for individuals seeking opportunities and a better life in a different country.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Immigration Lawyer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Immigration Lawyer interviews to help you prepare and succeed.

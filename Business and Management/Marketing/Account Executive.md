@@ -2,6 +2,8 @@
 
 Welcome to the Account Executive Interview Preparation ! This resource is designed to help you ace your Account Executive interviews with confidence.
 
+The role of an Account Executive in the field of marketing and business management is vital for driving the success of a company's marketing strategies. As an Account Executive, you will be responsible for building and maintaining relationships with clients, understanding their business needs, and developing marketing plans to achieve their goals. You will collaborate with various teams, such as creative, digital, and research, to ensure the successful execution of marketing campaigns. This role requires strong communication and negotiation skills, as well as the ability to analyze market trends and competition. As an Account Executive, you will play a crucial role in driving revenue growth and enhancing brand reputation for both your clients and your own organization.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Account Executive or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Account Executive interviews to help you prepare and succeed.

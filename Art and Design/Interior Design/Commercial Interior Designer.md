@@ -2,6 +2,8 @@
 
 Welcome to the Commercial Interior Designer Interview Preparation ! This resource is designed to help you ace your Commercial Interior Designer interviews with confidence.
 
+A Commercial Interior Designer is a professional who specializes in creating visually appealing and functional spaces for commercial establishments. They combine artistic flair with practicality to design interiors that meet the needs and preferences of clients while adhering to safety and building regulations. Commercial Interior Designers possess a deep understanding of space planning, color schemes, lighting, materials, and furnishings. They work closely with clients to understand their brand image, target audience, and business goals, and translate these into captivating interior designs that enhance the overall customer experience. With their expertise, they create innovative and aesthetically pleasing environments that optimize productivity, functionality, and profitability.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Commercial Interior Designer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Commercial Interior Designer interviews to help you prepare and succeed.

@@ -2,6 +2,8 @@
 
 Welcome to the E-commerce Technology Evangelist Interview Preparation ! This resource is designed to help you ace your E-commerce Technology Evangelist interviews with confidence.
 
+A Retail and Sales > E-commerce > E-commerce Technology Evangelist is a dynamic role that involves promoting and advocating the use of cutting-edge technology solutions in the e-commerce industry. With the increasing demand for online shopping, this job focuses on identifying and implementing innovative e-commerce technologies to enhance the customer experience, drive sales, and boost overall business growth. The E-commerce Technology Evangelist collaborates with various stakeholders, including businesses, developers, and customers, to educate, inspire, and demonstrate the benefits of adopting new e-commerce technologies. They stay up-to-date with industry trends, conduct research, and use their expertise to recommend and implement effective e-commerce solutions.
+
 ## 🚀 Overview
 
 Whether you're a seasoned E-commerce Technology Evangelist or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in E-commerce Technology Evangelist interviews to help you prepare and succeed.

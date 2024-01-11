@@ -2,6 +2,8 @@
 
 Welcome to the Solar Energy Engineer Interview Preparation ! This resource is designed to help you ace your Solar Energy Engineer interviews with confidence.
 
+A Solar Energy Engineer specializing in Civil Engineering plays a crucial role in the development and implementation of solar energy systems. They are responsible for designing, constructing, and maintaining solar power plants or facilities. These engineers apply their expertise in civil engineering principles to ensure the efficient and effective utilization of solar energy. They conduct feasibility studies, analyze site requirements, and optimize the design and placement of solar panels. Solar Energy Engineers also collaborate with other professionals to integrate solar power into existing infrastructure. Their work is essential in reducing carbon emissions, promoting sustainability, and contributing to the global shift towards renewable energy sources.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Solar Energy Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Solar Energy Engineer interviews to help you prepare and succeed.

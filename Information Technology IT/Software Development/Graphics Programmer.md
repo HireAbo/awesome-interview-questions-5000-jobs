@@ -2,6 +2,8 @@
 
 Welcome to the Graphics Programmer Interview Preparation ! This resource is designed to help you ace your Graphics Programmer interviews with confidence.
 
+A Graphics Programmer job in the field of Information Technology (IT) and Software Development involves the creation and implementation of visual effects, graphics, and animations for various software applications and games. These professionals possess a strong understanding of computer graphics, algorithms, and programming languages such as C++ and OpenGL. Graphics Programmers collaborate with artists, designers, and developers to optimize performance and enhance the visual experience of the software. They specialize in developing rendering techniques, shader programming, and implementing advanced graphics features. Their role also includes troubleshooting and resolving graphical issues, ensuring compatibility across different platforms and devices, and staying updated with the latest industry trends and technologies.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Graphics Programmer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Graphics Programmer interviews to help you prepare and succeed.

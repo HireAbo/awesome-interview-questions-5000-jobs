@@ -2,6 +2,8 @@
 
 Welcome to the Lacrosse Coach Interview Preparation ! This resource is designed to help you ace your Lacrosse Coach interviews with confidence.
 
+A Lacrosse Coach plays a vital role in the development and success of a lacrosse team. They are responsible for providing guidance, instruction, and motivation to athletes in the sport of lacrosse. The coach's main objective is to develop players' skills and strategies, ensuring they perform at their best during both practices and competitive games. A Lacrosse Coach creates training plans, organizes drills, and implements game strategies to improve the team's performance. Additionally, they foster teamwork, sportsmanship, and discipline among players. This role requires strong leadership, communication, and problem-solving skills, as well as a deep understanding and passion for the sport of lacrosse.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Lacrosse Coach or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Lacrosse Coach interviews to help you prepare and succeed.

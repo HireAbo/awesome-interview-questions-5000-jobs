@@ -2,6 +2,8 @@
 
 Welcome to the Field Service Engineer Interview Preparation ! This resource is designed to help you ace your Field Service Engineer interviews with confidence.
 
+A Field Service Engineer plays a vital role in the field of Electrical Engineering. These professionals are responsible for providing technical support and assistance to customers by installing, maintaining, and repairing electrical systems and equipment. They work on-site, often traveling to various locations to troubleshoot and resolve issues related to electrical systems. Field Service Engineers possess in-depth knowledge of electrical engineering principles and technologies, allowing them to diagnose and fix complex problems efficiently. They also collaborate with customers to understand their specific needs and provide customized solutions. Strong problem-solving skills, excellent communication, and the ability to work independently are crucial for success in this dynamic role.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Field Service Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Field Service Engineer interviews to help you prepare and succeed.

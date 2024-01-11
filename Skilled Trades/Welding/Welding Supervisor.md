@@ -2,6 +2,8 @@
 
 Welcome to the Welding Supervisor Interview Preparation ! This resource is designed to help you ace your Welding Supervisor interviews with confidence.
 
+A welding supervisor is a skilled trades professional who oversees and manages a team of welders in various industries. They play a crucial role in ensuring that welding projects are completed efficiently, safely, and according to specifications. Welding supervisors are responsible for planning and organizing work schedules, allocating resources, and coordinating with other departments or contractors. They also inspect and evaluate the quality of welds, provide guidance and training to welders, and enforce safety protocols. Strong technical knowledge of welding processes, materials, and equipment is essential for this role, along with excellent leadership and communication skills. A welding supervisor is a pivotal figure in maintaining the integrity and success of welding projects.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Welding Supervisor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Welding Supervisor interviews to help you prepare and succeed.

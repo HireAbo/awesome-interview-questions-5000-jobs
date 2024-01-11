@@ -2,6 +2,8 @@
 
 Welcome to the Nonprofit Policy Director Interview Preparation ! This resource is designed to help you ace your Nonprofit Policy Director interviews with confidence.
 
+A Nonprofit Policy Director plays a crucial role in shaping government and public service policies that directly impact nonprofit organizations. They are responsible for analyzing and evaluating existing policies and legislation to identify areas for improvement and develop innovative strategies. By collaborating with government officials, advocacy groups, and other stakeholders, they advocate for policy changes that support the nonprofit sector's needs and objectives. This role requires strong research and analytical skills, as well as excellent communication and leadership abilities. Nonprofit Policy Directors contribute to the creation of a fair and enabling regulatory environment to ensure the sustainability and effectiveness of nonprofit organizations in serving communities and advancing social causes.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Nonprofit Policy Director or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Nonprofit Policy Director interviews to help you prepare and succeed.

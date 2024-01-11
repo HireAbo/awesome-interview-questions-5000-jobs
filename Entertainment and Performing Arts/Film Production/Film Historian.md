@@ -2,6 +2,8 @@
 
 Welcome to the Film Historian Interview Preparation ! This resource is designed to help you ace your Film Historian interviews with confidence.
 
+A film historian is a professional who specializes in the study and analysis of films from a historical perspective. They possess a deep understanding of the evolution of cinema, film production techniques, and the cultural impact of movies throughout different eras. Film historians conduct extensive research, examining archival materials, film prints, and interviews to gather knowledge about the context, themes, and filmmaking techniques of various movies. They contribute to the preservation of film heritage by documenting and cataloging films, writing scholarly articles or books, and curating film archives. Film historians also play a vital role in educating and enlightening audiences about the rich history and significance of films as an art form.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Film Historian or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Film Historian interviews to help you prepare and succeed.

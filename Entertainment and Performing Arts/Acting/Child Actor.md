@@ -2,6 +2,8 @@
 
 Welcome to the Child Actor Interview Preparation ! This resource is designed to help you ace your Child Actor interviews with confidence.
 
+A child actor job in the field of entertainment and performing arts offers young individuals the opportunity to showcase their talents and pursue a career in acting at a tender age. Child actors play significant roles in films, television shows, theater productions, and commercials. They bring characters to life, express emotions, and captivate audiences with their natural talent and charisma. Child actors undergo auditions, memorize scripts, and work closely with directors, producers, and fellow actors to deliver exceptional performances. This job requires discipline, dedication, and the ability to balance school with work commitments. It provides a platform for young actors to gain valuable experience, build a strong foundation in the industry, and potentially transition into successful adult acting careers.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Child Actor or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Child Actor interviews to help you prepare and succeed.

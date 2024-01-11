@@ -2,6 +2,14 @@
 
 Welcome to the Legal Secretary Interview Preparation ! This resource is designed to help you ace your Legal Secretary interviews with confidence.
 
+Law and criminal justice are crucial elements in maintaining a fair and just society. Within this field, paralegals and legal secretaries play a vital role in providing support to attorneys and legal professionals. 
+
+Paralegals are skilled individuals who assist lawyers in preparing for trials, conducting legal research, drafting legal documents, and organizing case files. They play a crucial role in the litigation process by ensuring that all necessary paperwork is completed accurately and on time. They also liaise with clients, witnesses, and other professionals involved in the legal process.
+
+On the other hand, legal secretaries are responsible for managing administrative tasks in law firms, such as maintaining calendars, scheduling appointments, managing correspondence, and organizing legal documents. They often serve as the first point of contact for clients, providing assistance and guidance when needed.
+
+Both paralegals and legal secretaries require excellent organizational and communication skills, attention to detail, and a strong understanding of legal procedures. By supporting attorneys and legal professionals, they contribute to the smooth functioning of the legal system and ultimately help deliver justice to those in need.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Legal Secretary or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Legal Secretary interviews to help you prepare and succeed.

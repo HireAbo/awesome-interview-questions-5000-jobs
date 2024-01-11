@@ -2,6 +2,8 @@
 
 Welcome to the Social Impact Analyst Interview Preparation ! This resource is designed to help you ace your Social Impact Analyst interviews with confidence.
 
+A Social Impact Analyst in the field of Social Work and Human Services Nonprofit Management plays a crucial role in assessing and evaluating the effectiveness of various programs and initiatives aimed at creating positive social change. These professionals utilize quantitative and qualitative research methods to measure the impact of interventions on individuals, families, and communities. By analyzing data and conducting comprehensive evaluations, Social Impact Analysts provide valuable insights into program outcomes, identify areas of improvement, and inform strategic decision-making. They collaborate with diverse stakeholders, including nonprofit organizations, government agencies, and other community partners, to ensure that resources are optimally allocated and that social programs are effectively addressing the needs of vulnerable populations.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Social Impact Analyst or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Social Impact Analyst interviews to help you prepare and succeed.

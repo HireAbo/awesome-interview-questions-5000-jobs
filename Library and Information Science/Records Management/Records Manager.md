@@ -2,6 +2,8 @@
 
 Welcome to the Records Manager Interview Preparation ! This resource is designed to help you ace your Records Manager interviews with confidence.
 
+Library and Information Science (LIS) is a field that encompasses the management and organization of information resources in various formats, including physical and digital materials. One specialized area within LIS is Records Management, which involves the systematic control and maintenance of an organization's records throughout their lifecycle. Within this field, the role of a Records Manager is crucial. A Records Manager is responsible for overseeing the creation, organization, storage, retrieval, and disposal of records in compliance with legal, regulatory, and organizational requirements. They play a vital role in ensuring the efficient and effective management of records, preserving valuable information, and maintaining data security and privacy.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Records Manager or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Records Manager interviews to help you prepare and succeed.

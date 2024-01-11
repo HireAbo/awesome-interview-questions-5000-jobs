@@ -2,6 +2,8 @@
 
 Welcome to the Hadoop Developer Interview Preparation ! This resource is designed to help you ace your Hadoop Developer interviews with confidence.
 
+Information Technology (IT) encompasses the use, development, and management of computer systems, software, networks, and databases to store, retrieve, transmit, and protect information. Data Science, a subfield of IT, focuses on extracting insights and knowledge from large volumes of data using various statistical techniques, programming skills, and domain expertise. A Hadoop Developer is an IT professional specializing in the Hadoop framework, an open-source software that enables distributed storage and processing of big data across clusters of computers. These professionals design, develop, and maintain Hadoop applications, ensuring efficient data analysis and storage. They possess strong programming skills in languages like Java, Python, and SQL, along with expertise in distributed computing and data management.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Hadoop Developer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Hadoop Developer interviews to help you prepare and succeed.

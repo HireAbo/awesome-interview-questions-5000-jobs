@@ -2,6 +2,8 @@
 
 Welcome to the Landscape Architect Interview Preparation ! This resource is designed to help you ace your Landscape Architect interviews with confidence.
 
+A Landscape Architect is a professional who specializes in designing and creating outdoor spaces that harmonize with their surroundings. They possess a unique blend of artistic creativity and technical knowledge to create functional and visually appealing landscapes. These professionals work closely with clients to understand their specific needs and preferences, and then develop comprehensive plans that incorporate elements such as plants, hardscapes, water features, and lighting. Landscape Architects also consider environmental factors, sustainability, and accessibility to ensure their designs are not only aesthetically pleasing but also practical and environmentally responsible. With their expertise, they transform outdoor spaces into beautiful and functional areas that enhance the quality of life for individuals and communities alike.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Landscape Architect or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Landscape Architect interviews to help you prepare and succeed.

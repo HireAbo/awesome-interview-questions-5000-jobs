@@ -2,6 +2,8 @@
 
 Welcome to the Sales Recruiter Interview Preparation ! This resource is designed to help you ace your Sales Recruiter interviews with confidence.
 
+A Sales Recruiter is a vital role within the retail and sales industry. Their main responsibility is to identify, attract, and recruit top sales talent for an organization. This involves conducting thorough candidate assessments, screening resumes, and conducting interviews to ensure a good fit for the sales team. Sales Recruiters also collaborate with hiring managers to understand the specific sales requirements and develop effective recruitment strategies. They must possess excellent interpersonal and communication skills to build relationships with potential candidates and sell the company's opportunities. Additionally, Sales Recruiters should stay updated with industry trends and market conditions to effectively source and hire the best sales professionals.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Sales Recruiter or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Sales Recruiter interviews to help you prepare and succeed.

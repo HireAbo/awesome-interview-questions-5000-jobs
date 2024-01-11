@@ -2,6 +2,8 @@
 
 Welcome to the Wireless Network Engineer Interview Preparation ! This resource is designed to help you ace your Wireless Network Engineer interviews with confidence.
 
+A Wireless Network Engineer is a professional responsible for designing, implementing, and maintaining wireless networks within an organization. They possess a strong understanding of information technology (IT) and specialize in the field of network engineering. As a Wireless Network Engineer, their primary focus is on building, configuring, and troubleshooting wireless network infrastructures. They are adept at assessing network requirements, selecting appropriate hardware and software, and ensuring secure and reliable wireless communication. These professionals collaborate closely with network administrators, system engineers, and other IT specialists to optimize wireless network performance, resolve connectivity issues, and implement network upgrades. A Wireless Network Engineer plays a crucial role in enabling seamless wireless communication within an organization while ensuring the highest level of network security.
+
 ## 🚀 Overview
 
 Whether you're a seasoned Wireless Network Engineer or just starting in the field, this repository is tailored to enhance your interview readiness. We've curated a set of sample questions commonly asked in Wireless Network Engineer interviews to help you prepare and succeed.
